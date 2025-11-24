@@ -1,0 +1,220 @@
+{
+  "voynich_suffixes": {
+    "9": {
+      "freq": 0.37,
+      "likely_function": "nominative/unmarked"
+    },
+    "89": {
+      "freq": 0.118,
+      "likely_function": "genitive_plural"
+    },
+    "am": {
+      "freq": 0.094,
+      "likely_function": "accusative"
+    },
+    "oe": {
+      "freq": 0.089,
+      "likely_function": "locative"
+    },
+    "ay": {
+      "freq": 0.069,
+      "likely_function": "genitive"
+    },
+    "ae": {
+      "freq": 0.054,
+      "likely_function": "instrumental"
+    },
+    "an": {
+      "freq": 0.042,
+      "likely_function": "ablative"
+    },
+    "c9": {
+      "freq": 0.063,
+      "likely_function": "genitive"
+    }
+  },
+  "best_matches": {
+    "9": {
+      "voynich_function": "nominative/unmarked",
+      "frequency": 0.37,
+      "possible_matches": []
+    },
+    "89": {
+      "voynich_function": "genitive_plural",
+      "frequency": 0.118,
+      "possible_matches": [
+        {
+          "language": "Turkish",
+          "case": "genitive",
+          "ending": "-\u0131n/-in/-un/-\u00fcn"
+        },
+        {
+          "language": "Finnish",
+          "case": "genitive",
+          "ending": "-n"
+        },
+        {
+          "language": "Basque",
+          "case": "genitive",
+          "ending": "-ren/-en"
+        },
+        {
+          "language": "Basque",
+          "case": "local-genitive",
+          "ending": "-ko"
+        },
+        {
+          "language": "Georgian",
+          "case": "genitive",
+          "ending": "-is"
+        }
+      ]
+    },
+    "am": {
+      "voynich_function": "accusative",
+      "frequency": 0.094,
+      "possible_matches": [
+        {
+          "language": "Turkish",
+          "case": "accusative",
+          "ending": "-\u0131/-i/-u/-\u00fc"
+        },
+        {
+          "language": "Finnish",
+          "case": "accusative",
+          "ending": "-n/-t"
+        },
+        {
+          "language": "Hungarian",
+          "case": "accusative",
+          "ending": "-t/-at/-ot/-et/-\u00f6t"
+        }
+      ]
+    },
+    "oe": {
+      "voynich_function": "locative",
+      "frequency": 0.089,
+      "possible_matches": [
+        {
+          "language": "Turkish",
+          "case": "locative",
+          "ending": "-da/-de/-ta/-te"
+        }
+      ]
+    },
+    "ay": {
+      "voynich_function": "genitive",
+      "frequency": 0.069,
+      "possible_matches": [
+        {
+          "language": "Turkish",
+          "case": "genitive",
+          "ending": "-\u0131n/-in/-un/-\u00fcn"
+        },
+        {
+          "language": "Finnish",
+          "case": "genitive",
+          "ending": "-n"
+        },
+        {
+          "language": "Basque",
+          "case": "genitive",
+          "ending": "-ren/-en"
+        },
+        {
+          "language": "Basque",
+          "case": "local-genitive",
+          "ending": "-ko"
+        },
+        {
+          "language": "Georgian",
+          "case": "genitive",
+          "ending": "-is"
+        }
+      ]
+    },
+    "ae": {
+      "voynich_function": "instrumental",
+      "frequency": 0.054,
+      "possible_matches": [
+        {
+          "language": "Turkish",
+          "case": "instrumental",
+          "ending": "-la/-le"
+        },
+        {
+          "language": "Hungarian",
+          "case": "instrumental",
+          "ending": "-val/-vel"
+        },
+        {
+          "language": "Basque",
+          "case": "instrumental",
+          "ending": "-z"
+        },
+        {
+          "language": "Georgian",
+          "case": "instrumental",
+          "ending": "-it"
+        }
+      ]
+    },
+    "an": {
+      "voynich_function": "ablative",
+      "frequency": 0.042,
+      "possible_matches": [
+        {
+          "language": "Turkish",
+          "case": "ablative",
+          "ending": "-dan/-den/-tan/-ten"
+        },
+        {
+          "language": "Finnish",
+          "case": "ablative",
+          "ending": "-lta/-lt\u00e4"
+        },
+        {
+          "language": "Hungarian",
+          "case": "ablative",
+          "ending": "-t\u00f3l/-t\u0151l"
+        },
+        {
+          "language": "Basque",
+          "case": "ablative",
+          "ending": "-tik"
+        }
+      ]
+    },
+    "c9": {
+      "voynich_function": "genitive",
+      "frequency": 0.063,
+      "possible_matches": [
+        {
+          "language": "Turkish",
+          "case": "genitive",
+          "ending": "-\u0131n/-in/-un/-\u00fcn"
+        },
+        {
+          "language": "Finnish",
+          "case": "genitive",
+          "ending": "-n"
+        },
+        {
+          "language": "Basque",
+          "case": "genitive",
+          "ending": "-ren/-en"
+        },
+        {
+          "language": "Basque",
+          "case": "local-genitive",
+          "ending": "-ko"
+        },
+        {
+          "language": "Georgian",
+          "case": "genitive",
+          "ending": "-is"
+        }
+      ]
+    }
+  }
+}
