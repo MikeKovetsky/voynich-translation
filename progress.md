@@ -219,6 +219,65 @@ Each plant mentioned multiple times across different descriptions.
 
 ---
 
-## 🚀 Next: Try mathematical pattern analysis (2025 research approach)!
+## 🎯 Step 6: WORD GRAMMAR BREAKTHROUGH! (Nov 24, 2025)
+
+### 🔥🔥🔥 MAJOR DISCOVERY: Clear Morphological System!
+
+The Voynich language has a **clear agglutinative structure**:
+
+```
+WORD = [DETERMINER/PREFIX] + [ROOT] + [CASE SUFFIX]
+```
+
+### Evidence - Inflectional Paradigms Found:
+
+**Root '4o'** - 62 different word forms!
+- With 'han' suffix: 4ohan
+- With 'ham' suffix: 4oham  
+- With 'hC9' suffix: 4ohC9
+- etc.
+
+**Root 'oe'** - 122 different word forms!
+- With no suffix: oe
+- With '79' suffix: oe79
+- With '8am' suffix: oe8am
+- etc.
+
+**Root 'am'** - 24 different forms with various prefixes
+
+### Top Morpheme Combinations:
+
+**PREFIX + ROOT:**
+- '4oh'+'c': 586 times
+- '4oh'+'C': 240 times
+- '4ok'+'c': 184 times
+
+**ROOT + SUFFIX:**
+- '8'+'am': 774 times
+- '1'+'c89': 457 times
+- 'c'+'89': 447 times
+
+### 💡 Grammar Proposal:
+
+| Element | Function | Examples |
+|---------|----------|----------|
+| 4o- | Article/determiner | "the" |
+| o-, 1-, 8- | Case/class markers | grammatical |
+| -9 | Nominative (37%!) | default case |
+| -89 | Genitive plural | "of the X" |
+| -am | Accusative | object |
+| -oe | Locative | "in/at X" |
+| -ay | Genitive | "X's" |
+
+### This matches agglutinative languages like:
+- Turkish
+- Finnish  
+- Hungarian
+- Basque
+- Korean
+
+---
+
+## 🚀 Next: Try to decode actual words using this grammar!
 
 
