@@ -1,0 +1,174 @@
+================================================================================
+TRACK 3: ASTRONOMICAL SECTION ANALYSIS
+================================================================================
+
+GOAL:
+Analyze the astronomical section of the Voynich Manuscript to identify 
+star names, constellation references, and zodiac labels that could serve
+as anchor words for decipherment.
+
+================================================================================
+BACKGROUND CONTEXT:
+================================================================================
+
+The astronomical section (folios 67r-73v and scattered throughout) contains:
+- Circular diagrams with radiating text
+- Zodiac symbols (identifiable: Aries, Taurus, Pisces, etc.)
+- Star-like patterns and celestial imagery
+- Possible constellation maps
+
+Star names are excellent decipherment anchors because:
+1. Medieval star names were standardized (Arabic/Latin)
+2. They're proper nouns that should be phonetically preserved
+3. Zodiac positions might match specific names
+
+================================================================================
+INPUT DATA AVAILABLE:
+================================================================================
+
+1. Voynich transcription pages for astronomical section:
+   - Pages 67r-73v in /voynich_raw.txt
+   - Extract using grep: <67r through <73v
+
+2. Known zodiac positions in manuscript:
+   - f70v-f73v: zodiac pages with nymphs
+   - Each section has ~30 text labels around figures
+
+3. Medieval star catalogs for comparison:
+   - Ptolemy's Almagest (star names in Greek/Latin/Arabic)
+   - Al-Sufi's Book of Fixed Stars
+   - Alfonso X's Libro del Saber
+
+================================================================================
+SPECIFIC TASKS:
+================================================================================
+
+1. EXTRACT ASTRONOMICAL TEXT
+   - Parse all text from folios 67r-73v
+   - Identify text that appears near circular patterns
+   - Separate "label" text (short, isolated) from "descriptive" text
+
+2. ZODIAC LABEL ANALYSIS
+   - For each zodiac sign page, extract the ~30 labels around figures
+   - Compare word patterns across zodiac sections
+   - Look for 12 repeated words that might be month names
+
+3. STAR NAME MATCHING
+   Create phonetic mappings and test against star names:
+   
+   Major stars to test:
+   - Aldebaran (α Tau) - in Taurus section?
+   - Regulus (α Leo) - in Leo section?
+   - Spica (α Vir) - in Virgo section?
+   - Antares (α Sco) - in Scorpio section?
+   - Fomalhaut (α PsA)
+   - Vega (α Lyr)
+   - Deneb (α Cyg)
+   - Altair (α Aql)
+   
+   Medieval Arabic names to test:
+   - al-Dabaran, Qalb al-Asad, al-Simak, Qalb al-Aqrab, etc.
+
+4. MONTH/SEASON NAME ANALYSIS
+   - Look for 12 repeated patterns that could be months
+   - Compare with Latin month names (Januarius, Februarius, etc.)
+   - Compare with zodiac sign names
+
+5. CIRCULAR TEXT STRUCTURE
+   - Analyze the radiating text patterns
+   - Determine reading direction (clockwise? outward?)
+   - Look for structural patterns (e.g., every 30° = new section)
+
+================================================================================
+EXPECTED OUTPUT FORMAT:
+================================================================================
+
+1. FILE: results/astronomical_text.json
+{
+  "pages": [
+    {
+      "folio": "67r",
+      "section_type": "circular_diagram",
+      "labels": ["word1", "word2", ...],
+      "descriptive_text": ["line1", "line2", ...],
+      "structural_notes": "12 sections radiating from center"
+    },
+    ...
+  ]
+}
+
+2. FILE: results/zodiac_analysis.json
+{
+  "zodiac_sections": [
+    {
+      "sign": "Aries",
+      "folio": "70v",
+      "labels": ["text1", "text2", ...],
+      "potential_star_names": [],
+      "potential_month_name": "word_X"
+    },
+    ...
+  ],
+  "repeated_patterns": [
+    {"pattern": "4ohan", "appears_in": ["Aries", "Taurus", "Gemini"], "possible_meaning": "?"}
+  ]
+}
+
+3. FILE: results/star_name_matches.json
+{
+  "attempts": [
+    {
+      "star": "Aldebaran",
+      "arabic": "al-Dabaran",
+      "voynich_candidate": "8o8acan",
+      "phonetic_mapping_used": "latin_map",
+      "match_score": 0.45,
+      "location_match": "appears near Taurus section"
+    },
+    ...
+  ],
+  "best_matches": [
+    {"star": "X", "voynich": "Y", "confidence": 0.7}
+  ]
+}
+
+4. FILE: results/astronomical_report.md
+- Summary of findings
+- Identified patterns
+- Potential star/month name candidates
+- Recommendations for further analysis
+
+================================================================================
+SUCCESS CRITERIA:
+================================================================================
+
+- [ ] All astronomical pages (67r-73v) text extracted and categorized
+- [ ] 12 zodiac sections mapped with their labels
+- [ ] At least 20 major star names tested against text
+- [ ] Repeated patterns across zodiac sections identified
+- [ ] If any star name matches with confidence > 0.6, flag as breakthrough
+
+================================================================================
+DEPENDENCIES:
+================================================================================
+
+- Python 3.x
+- Medieval star name databases (can be scraped from Wikipedia or astronomy sites)
+- Phonetic mapping functions from phonetic.py in main repo
+
+================================================================================
+NOTES:
+================================================================================
+
+- The zodiac nymphs may represent decans (10° divisions) not just signs
+- Medieval astronomy mixed Arabic and Latin terminology
+- Some star names were corrupted in transmission (al- prefix often dropped)
+- Text near figures might be descriptive rather than naming
+
+================================================================================
+BRANCH:
+================================================================================
+
+Create branch: track3-astronomical-analysis
+Commit findings progressively
+

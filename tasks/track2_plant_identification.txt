@@ -1,0 +1,163 @@
+================================================================================
+TRACK 2: ILLUSTRATION-BASED PLANT IDENTIFICATION
+================================================================================
+
+GOAL:
+Identify specific plants from Voynich manuscript illustrations and correlate
+them with page-specific text to find plant name patterns.
+
+================================================================================
+BACKGROUND CONTEXT:
+================================================================================
+
+The Voynich Manuscript contains ~130 plant illustrations in the "herbal" 
+sections (folios 1r-66v, 90r-113v). Many look like real plants but with 
+unusual stylization. If we can identify specific plants, we can:
+
+1. Match illustration labels to known plant names
+2. Use plant names as "anchor words" for decipherment
+3. Validate botanical reading of text
+
+Previous researchers (Stephen Bax) claimed to identify some plants:
+- f2v: possibly cotton (Gossypium)
+- f4r: possibly hellebore
+- f25v: possibly juniper
+
+================================================================================
+INPUT DATA AVAILABLE:
+================================================================================
+
+1. High-resolution images available from:
+   - Yale Beinecke Library: https://brbl-dl.library.yale.edu/vufind/Record/3519597
+   - Direct IIIF manifest for downloading
+   
+2. Voynich transcription by page: /voynich_raw.txt
+   - Format: <page.line>text
+   - Example: <1r.1>fa19s.9,hae.ay.Akam...
+
+3. Botanical section pages: 1r-66v (herbal A), 90r-113v (herbal B)
+
+4. Our analysis shows potential plant-related patterns:
+   - '4oh-' prefix: possibly "the herb" (appears 5238 times with this prefix)
+   - Words ending in '-an': possibly "root" reference
+   - Words ending in '-ae': possibly "flower" reference
+
+================================================================================
+SPECIFIC TASKS:
+================================================================================
+
+1. DOWNLOAD MANUSCRIPT IMAGES
+   - Download all folios from Yale Beinecke IIIF API
+   - Focus on herbal sections: f1r-f66v, f90r-f113v
+   - Save as high-res JPGs in /images/ folder
+
+2. PLANT FEATURE EXTRACTION
+   For each plant illustration, document:
+   - Leaf shape (simple/compound, margin type, arrangement)
+   - Flower structure (petal count, color, arrangement)
+   - Root type (taproot, fibrous, bulb, rhizome)
+   - Overall growth form (herb, shrub, tree, vine)
+   - Any distinctive features
+
+3. BOTANICAL DATABASE MATCHING
+   Compare features against:
+   - USDA Plants Database
+   - Plants of the World Online (Kew)
+   - Medieval herbals (Tacuinum Sanitatis, Dioscorides)
+   - Flora Europaea (historical European plants)
+
+4. TEXT-IMAGE CORRELATION
+   For each identified plant:
+   - Extract all text from that folio
+   - Identify potential plant name (usually first word or labeled word)
+   - Look for patterns across multiple identified plants
+
+5. LABEL EXTRACTION
+   - Identify text that appears to be labels (near roots, flowers, etc.)
+   - These short texts may be plant part names or medicinal uses
+   - Compile list of potential botanical vocabulary
+
+================================================================================
+EXPECTED OUTPUT FORMAT:
+================================================================================
+
+1. FILE: results/plant_identifications.json
+{
+  "folios": [
+    {
+      "folio": "1r",
+      "image_path": "images/f1r.jpg",
+      "plant_features": {
+        "leaf_shape": "rounded, serrated margin",
+        "flower": "blue, 5 petals",
+        "root": "taproot, thick",
+        "growth_form": "herb"
+      },
+      "candidate_identifications": [
+        {"plant": "Borago officinalis", "common_name": "Borage", "confidence": 0.7},
+        {"plant": "Anchusa officinalis", "common_name": "Bugloss", "confidence": 0.5}
+      ],
+      "text_on_page": ["fa19s", "hae", "Akam", ...],
+      "potential_plant_name": "fa19s",
+      "labels_found": ["near root: xxx", "near flower: yyy"]
+    },
+    ...
+  ]
+}
+
+2. FILE: results/botanical_vocabulary.json
+{
+  "potential_plant_names": [
+    {"voynich": "fa19s", "appears_on": ["1r"], "possible_match": "Borago?"},
+    ...
+  ],
+  "potential_part_names": [
+    {"voynich": "1c89", "context": "often near roots", "possible_meaning": "radix?"},
+    ...
+  ]
+}
+
+3. FILE: results/plant_identification_report.md
+- Summary of methodology
+- List of confidently identified plants (confidence > 0.6)
+- Pattern observations
+- Cross-reference with text patterns
+
+4. FOLDER: images/annotated/
+- Annotated images highlighting key features used for identification
+
+================================================================================
+SUCCESS CRITERIA:
+================================================================================
+
+- [ ] At least 50 plant illustrations analyzed
+- [ ] At least 10 plants identified with confidence > 0.5
+- [ ] At least 3 plants identified with confidence > 0.7
+- [ ] Text patterns extracted for each identified plant
+- [ ] If any plant name matches Voynich text pattern, flag as breakthrough
+
+================================================================================
+DEPENDENCIES:
+================================================================================
+
+- Python with requests, PIL/Pillow for image handling
+- Internet access for Yale Beinecke API
+- Optional: OpenCV or image recognition model
+- Botanical databases (can query APIs)
+
+================================================================================
+NOTES:
+================================================================================
+
+- Many Voynich plants appear stylized/fantastical - don't expect 100% match
+- Medieval artists often combined features from multiple plants
+- Root depictions are often exaggerated for medicinal emphasis
+- Some plants may be extinct varieties or artistic interpretations
+
+================================================================================
+BRANCH:
+================================================================================
+
+Create branch: track2-plant-identification
+Commit findings progressively
+
