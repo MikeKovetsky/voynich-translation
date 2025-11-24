@@ -188,6 +188,37 @@ SUFFIX: 9 = nominative/default case
 
 ---
 
-## 🚀 Next: Try Latin frequency-based decipherment!
+## 📊 Step 5: Botanical Section & Label Analysis (Nov 24, 2025)
+
+### Findings from botanical pages (1-66):
+
+**The vocabulary is HIGHLY repetitive!**
+- '8am' appears on 106 different pages
+- '1oe' appears on 79 pages
+- These are definitely NOT plant names - too common
+
+**Potential unique labels (appear 1-2 pages only):**
+- 'Akam', '1kam', 'Fam' (possible proper nouns?)
+- 'okae9', 'say9', 'oe89' (page-specific terms?)
+- '4ohaz', '4ohae79' (could be plant names with article?)
+
+**Latin cipher attempt:**
+- Found potential Latin words: "de", "qui"
+- Not conclusive - random mappings could produce these
+
+### 💡 New Insight - Structural Patterns:
+
+Distinctive words appearing 10-50 times (potential plant names):
+- 'okc79' (48 times)
+- '4ohC79' (47 times)
+- '1co89' (46 times)
+- 'ohcoe' (39 times)
+
+These have the right frequency for plant names in a herbal!
+Each plant mentioned multiple times across different descriptions.
+
+---
+
+## 🚀 Next: Try mathematical pattern analysis (2025 research approach)!
 
 
