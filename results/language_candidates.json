@@ -1,0 +1,469 @@
+{
+  "research_date": "2025-11-24",
+  "manuscript_date_range": "1404-1438",
+  "candidates": [
+    {
+      "language": "Basque",
+      "region": "Iberian Peninsula (northern Spain, southwestern France)",
+      "type": "agglutinative",
+      "language_family": "Isolate (no known relatives)",
+      "status_in_1400s": "Active, pre-standardized dialects",
+      "matches_voynich_structure": true,
+      "case_system": "12+ cases (ergative-absolutive)",
+      "evidence_for": [
+        "Agglutinative structure matches Voynich patterns",
+        "Language isolate - could explain unique script",
+        "Active in 15th century",
+        "SOV word order",
+        "Complex verbal morphology"
+      ],
+      "evidence_against": [
+        "No known herbals in Basque from this period",
+        "Geographic distance from Veneto origin",
+        "No visual script similarities"
+      ],
+      "priority": "HIGH",
+      "notes": "One of few European agglutinative languages"
+    },
+    {
+      "language": "Hungarian",
+      "region": "Central Europe (Kingdom of Hungary)",
+      "type": "agglutinative",
+      "language_family": "Uralic (Ugric branch)",
+      "status_in_1400s": "Active, developing literary tradition",
+      "matches_voynich_structure": true,
+      "case_system": "18 cases",
+      "evidence_for": [
+        "Agglutinative structure matches perfectly",
+        "Geographic proximity to Prague court",
+        "Old Hungarian script (Rovas) existed",
+        "Rich suffix system matches Voynich patterns",
+        "Vowel harmony could explain character distributions"
+      ],
+      "evidence_against": [
+        "Old Hungarian script looks different",
+        "No direct provenance link",
+        "Written Hungarian rare in 15th century"
+      ],
+      "priority": "HIGH",
+      "notes": "Old Hungarian (Rovas) script had 42 letters, ligatures"
+    },
+    {
+      "language": "Old Turkish/Ottoman Turkish",
+      "region": "Ottoman Empire, expanding into SE Europe",
+      "type": "agglutinative",
+      "language_family": "Turkic",
+      "status_in_1400s": "Active, literary language of Ottoman Empire",
+      "matches_voynich_structure": true,
+      "case_system": "6 cases",
+      "evidence_for": [
+        "Agglutinative structure",
+        "2018 Ahmet Ardıç claimed 300+ words decoded",
+        "Ottoman presence in Mediterranean",
+        "Medical/herbal tradition exists"
+      ],
+      "evidence_against": [
+        "Arabic script in use, not matching Voynich",
+        "Ardıç theory not widely accepted",
+        "Geographic distance from Veneto"
+      ],
+      "priority": "MEDIUM-HIGH",
+      "notes": "Turkic hypothesis has active proponents"
+    },
+    {
+      "language": "Finnish",
+      "region": "Northern Europe",
+      "type": "agglutinative",
+      "language_family": "Uralic (Finnic branch)",
+      "status_in_1400s": "Oral language, no standardized writing",
+      "matches_voynich_structure": true,
+      "case_system": "15 cases",
+      "evidence_for": [
+        "Agglutinative structure",
+        "Vowel harmony",
+        "Consonant gradation patterns",
+        "Rich case system"
+      ],
+      "evidence_against": [
+        "No written Finnish until 16th century",
+        "Geographic isolation from manuscript origin",
+        "No medical/herbal texts in Finnish from period"
+      ],
+      "priority": "LOW",
+      "notes": "Structure matches but historical plausibility weak"
+    },
+    {
+      "language": "Georgian",
+      "region": "Caucasus",
+      "type": "agglutinative",
+      "language_family": "Kartvelian",
+      "status_in_1400s": "Active, with established scripts",
+      "matches_voynich_structure": true,
+      "case_system": "7 cases",
+      "evidence_for": [
+        "Agglutinative structure",
+        "Unique alphabets (Mkhedruli, Nuskhuri)",
+        "Rich manuscript tradition",
+        "Medical texts existed"
+      ],
+      "evidence_against": [
+        "Georgian scripts visually distinct from Voynich",
+        "Geographic distance from Veneto",
+        "Limited trade routes to Northern Italy"
+      ],
+      "priority": "MEDIUM",
+      "notes": "Three distinct scripts by 15th century"
+    },
+    {
+      "language": "Armenian",
+      "region": "Caucasus, diaspora communities",
+      "type": "fusional with agglutinative features",
+      "language_family": "Indo-European (Armenian branch)",
+      "status_in_1400s": "Active, established script since 5th century",
+      "matches_voynich_structure": false,
+      "case_system": "7 cases",
+      "evidence_for": [
+        "Diaspora communities in Italy",
+        "Rich manuscript tradition",
+        "Unique script",
+        "Medical/herbal knowledge"
+      ],
+      "evidence_against": [
+        "Not truly agglutinative",
+        "Script visually different",
+        "Well-documented, would be recognized"
+      ],
+      "priority": "LOW",
+      "notes": "Armenian communities existed in Venice"
+    },
+    {
+      "language": "Middle Persian (Pahlavi)",
+      "region": "Persia/Iran",
+      "type": "fusional",
+      "language_family": "Indo-European (Iranian branch)",
+      "status_in_1400s": "Scholarly/religious use (Zoroastrian)",
+      "matches_voynich_structure": false,
+      "case_system": "None (analytic)",
+      "evidence_for": [
+        "2017 Herrmann paper: inverted Pahlavi characters match",
+        "Zoroastrian cosmology terms identified",
+        "Historical medical tradition",
+        "Script visually similar when inverted"
+      ],
+      "evidence_against": [
+        "Not agglutinative",
+        "Limited to scholarly/religious use by 1400s",
+        "Geographic distance"
+      ],
+      "priority": "MEDIUM",
+      "notes": "arXiv:1709.01634 proposes upside-down Pahlavi connection"
+    },
+    {
+      "language": "Latin",
+      "region": "All of Europe (scholarly language)",
+      "type": "fusional",
+      "language_family": "Indo-European (Italic)",
+      "status_in_1400s": "Universal scholarly language",
+      "matches_voynich_structure": false,
+      "case_system": "6 cases",
+      "evidence_for": [
+        "Universal in medical/herbal texts",
+        "Expected language for herbals",
+        "Could be enciphered Latin"
+      ],
+      "evidence_against": [
+        "Not agglutinative",
+        "Word frequencies don't match Latin",
+        "Statistical analysis rules out simple cipher"
+      ],
+      "priority": "MEDIUM",
+      "notes": "Could be heavily enciphered or abbreviated Latin"
+    },
+    {
+      "language": "Venetian",
+      "region": "Northern Italy (Veneto)",
+      "type": "fusional",
+      "language_family": "Indo-European (Romance)",
+      "status_in_1400s": "Active vernacular",
+      "matches_voynich_structure": false,
+      "case_system": "None",
+      "evidence_for": [
+        "Matches geographic origin",
+        "Art style suggests Veneto",
+        "Vernacular herbals existed"
+      ],
+      "evidence_against": [
+        "Not agglutinative",
+        "Romance language patterns don't match",
+        "Well-documented, would be recognized"
+      ],
+      "priority": "LOW",
+      "notes": "Geographic match but linguistic mismatch"
+    },
+    {
+      "language": "Hebrew",
+      "region": "Jewish communities across Europe",
+      "type": "fusional/templatic",
+      "language_family": "Afroasiatic (Semitic)",
+      "status_in_1400s": "Active in Jewish communities",
+      "matches_voynich_structure": false,
+      "case_system": "None",
+      "evidence_for": [
+        "Kabbalistic/mystical tradition",
+        "Medical knowledge tradition",
+        "Unique script could be modified"
+      ],
+      "evidence_against": [
+        "Root-pattern morphology different from Voynich",
+        "Script visually different",
+        "AI 2018 Hebrew theory debunked"
+      ],
+      "priority": "LOW",
+      "notes": "Semitic morphology doesn't match agglutinative pattern"
+    },
+    {
+      "language": "Yiddish",
+      "region": "Central/Eastern European Jewish communities",
+      "type": "fusional",
+      "language_family": "Indo-European (Germanic)",
+      "status_in_1400s": "Active, written in Hebrew script",
+      "matches_voynich_structure": false,
+      "case_system": "4 cases",
+      "evidence_for": [
+        "Jewish communities in Prague",
+        "Could use modified Hebrew script"
+      ],
+      "evidence_against": [
+        "Germanic structure doesn't match",
+        "Well-documented language"
+      ],
+      "priority": "LOW",
+      "notes": "Prague had significant Jewish community"
+    },
+    {
+      "language": "Czech",
+      "region": "Bohemia",
+      "type": "fusional",
+      "language_family": "Indo-European (Slavic)",
+      "status_in_1400s": "Active, developing literary tradition",
+      "matches_voynich_structure": false,
+      "case_system": "7 cases",
+      "evidence_for": [
+        "Rudolf II's court was in Prague",
+        "Direct geographic connection"
+      ],
+      "evidence_against": [
+        "Slavic structure doesn't match",
+        "Well-documented language"
+      ],
+      "priority": "LOW",
+      "notes": "Court language but structure doesn't match"
+    },
+    {
+      "language": "Romani",
+      "region": "Balkans, spreading across Europe",
+      "type": "fusional with agglutinative features",
+      "language_family": "Indo-European (Indo-Aryan)",
+      "status_in_1400s": "Active, oral tradition only",
+      "matches_voynich_structure": false,
+      "case_system": "8 cases",
+      "evidence_for": [
+        "Roma present in Europe by 15th century",
+        "Unwritten language - explains unknown script",
+        "Herbal/medical knowledge tradition"
+      ],
+      "evidence_against": [
+        "Not truly agglutinative",
+        "First written record 1542",
+        "Would have Indo-Aryan features"
+      ],
+      "priority": "MEDIUM",
+      "notes": "Interesting outsider candidate"
+    },
+    {
+      "language": "Arabic",
+      "region": "Iberia (Al-Andalus), Mediterranean",
+      "type": "fusional/templatic",
+      "language_family": "Afroasiatic (Semitic)",
+      "status_in_1400s": "Active in Iberia and Mediterranean trade",
+      "matches_voynich_structure": false,
+      "case_system": "3 cases",
+      "evidence_for": [
+        "Major medical text tradition",
+        "Influence on European herbals",
+        "Trade connections to Italy"
+      ],
+      "evidence_against": [
+        "Semitic morphology doesn't match",
+        "Well-known script",
+        "Root-pattern system different"
+      ],
+      "priority": "LOW",
+      "notes": "Source for medical knowledge, not likely language"
+    },
+    {
+      "language": "Greek (Byzantine)",
+      "region": "Byzantine Empire, Italian Greek communities",
+      "type": "fusional",
+      "language_family": "Indo-European (Hellenic)",
+      "status_in_1400s": "Active, literary tradition",
+      "matches_voynich_structure": false,
+      "case_system": "4 cases",
+      "evidence_for": [
+        "Greek communities in Venice",
+        "Major source of medical texts",
+        "Byzantine refugees in Italy after 1453"
+      ],
+      "evidence_against": [
+        "Well-known language and script",
+        "Not agglutinative",
+        "Would be recognized"
+      ],
+      "priority": "LOW",
+      "notes": "Important source culture but unlikely language"
+    },
+    {
+      "language": "Catalan/Aragonese",
+      "region": "Iberian Peninsula (Aragon, Valencia, Catalonia)",
+      "type": "fusional",
+      "language_family": "Indo-European (Romance)",
+      "status_in_1400s": "Active, literary tradition",
+      "matches_voynich_structure": false,
+      "case_system": "None",
+      "evidence_for": [
+        "Crown of Aragon had Italian connections",
+        "Mediterranean trade network"
+      ],
+      "evidence_against": [
+        "Romance language, not agglutinative",
+        "Well-documented"
+      ],
+      "priority": "LOW",
+      "notes": "Aragon controlled Naples and Sicily"
+    },
+    {
+      "language": "Dalmatian Romance",
+      "region": "Dalmatian coast (modern Croatia)",
+      "type": "fusional",
+      "language_family": "Indo-European (Romance)",
+      "status_in_1400s": "Active, declining",
+      "matches_voynich_structure": false,
+      "case_system": "2 cases (remnant)",
+      "evidence_for": [
+        "Geographic proximity to Veneto",
+        "Obscure language - less studied",
+        "Adriatic connections"
+      ],
+      "evidence_against": [
+        "Romance language, not agglutinative",
+        "Extinct but documented"
+      ],
+      "priority": "LOW",
+      "notes": "Extinct 1898, last speaker documented"
+    },
+    {
+      "language": "Zarphatic (Judeo-French)",
+      "region": "Northern France (before 1394 expulsion)",
+      "type": "fusional",
+      "language_family": "Indo-European (Romance)",
+      "status_in_1400s": "Extinct/nearly extinct by 1400",
+      "matches_voynich_structure": false,
+      "case_system": "None",
+      "evidence_for": [
+        "Jewish language - could explain secrecy",
+        "Hebrew script variant"
+      ],
+      "evidence_against": [
+        "Likely extinct by manuscript date",
+        "Romance structure doesn't match"
+      ],
+      "priority": "VERY LOW",
+      "notes": "Jews expelled from France 1394"
+    },
+    {
+      "language": "Old Church Slavonic",
+      "region": "Eastern Europe (liturgical)",
+      "type": "fusional",
+      "language_family": "Indo-European (Slavic)",
+      "status_in_1400s": "Liturgical/scholarly use",
+      "matches_voynich_structure": false,
+      "case_system": "7 cases",
+      "evidence_for": [
+        "Glagolitic script unique",
+        "Religious/mystical texts"
+      ],
+      "evidence_against": [
+        "Slavic structure doesn't match",
+        "Well-documented script"
+      ],
+      "priority": "LOW",
+      "notes": "Glagolitic script is visually distinctive"
+    },
+    {
+      "language": "Enochian",
+      "region": "England/Prague (constructed)",
+      "type": "constructed",
+      "language_family": "Constructed (Dee/Kelley)",
+      "status_in_1400s": "NOT YET INVENTED (1580s)",
+      "matches_voynich_structure": false,
+      "case_system": "N/A",
+      "evidence_for": [
+        "John Dee owned Voynich later",
+        "Created at Rudolf II's court"
+      ],
+      "evidence_against": [
+        "Invented 150+ years after Voynich vellum date",
+        "Anachronistic"
+      ],
+      "priority": "EXCLUDED",
+      "notes": "Cannot be source - invented after manuscript created"
+    },
+    {
+      "language": "Proto-Romance (Hypothetical)",
+      "region": "Northern Italy",
+      "type": "fusional",
+      "language_family": "Proposed undocumented Romance dialect",
+      "status_in_1400s": "Hypothetical",
+      "matches_voynich_structure": false,
+      "case_system": "Unknown",
+      "evidence_for": [
+        "Gerard Cheshire 2019 theory",
+        "Claims proto-Romance identification"
+      ],
+      "evidence_against": [
+        "Theory widely rejected by linguists",
+        "Not agglutinative",
+        "Methodologically flawed"
+      ],
+      "priority": "EXCLUDED",
+      "notes": "Cheshire theory not accepted by scholars"
+    },
+    {
+      "language": "Nahuatl",
+      "region": "Mesoamerica",
+      "type": "agglutinative",
+      "language_family": "Uto-Aztecan",
+      "status_in_1400s": "Active in Mexico",
+      "matches_voynich_structure": true,
+      "case_system": "Complex verbal morphology",
+      "evidence_for": [
+        "Agglutinative structure matches",
+        "Some plant identifications suggested"
+      ],
+      "evidence_against": [
+        "Pre-Columbian - no European contact until 1492",
+        "Manuscript dated 1404-1438",
+        "Anachronistic"
+      ],
+      "priority": "EXCLUDED",
+      "notes": "Ruled out by manuscript dating"
+    }
+  ],
+  "summary": {
+    "total_researched": 22,
+    "top_candidates": ["Basque", "Hungarian", "Old Turkish"],
+    "reason": "Agglutinative structure combined with historical plausibility",
+    "secondary_candidates": ["Georgian", "Middle Persian (Pahlavi)", "Romani"],
+    "likely_region": "Northern Italy origin, language possibly from Eastern Europe or Near East"
+  }
+}

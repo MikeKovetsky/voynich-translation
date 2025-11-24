@@ -1,0 +1,326 @@
+{
+  "attempts": [
+    {
+      "star": "Spica",
+      "arabic": "al-Simak",
+      "constellation": "Virgo",
+      "best_voynich_match": "occ7c9",
+      "decoded": "akklkis",
+      "score": 1.0
+    },
+    {
+      "star": "Sirius",
+      "arabic": "al-Shira",
+      "constellation": "Canis Major",
+      "best_voynich_match": "oh979",
+      "decoded": "arislis",
+      "score": 1.0
+    },
+    {
+      "star": "Arcturus",
+      "arabic": "al-Simak al-Ramih",
+      "constellation": "Bootes",
+      "best_voynich_match": "ohcohcohco79",
+      "decoded": "arkarkarkalis",
+      "score": 0.929
+    },
+    {
+      "star": "Achernar",
+      "arabic": "Akhir al-Nahr",
+      "constellation": "Eridanus",
+      "best_voynich_match": "ohcohcohco79",
+      "decoded": "arkarkarkalis",
+      "score": 0.923
+    },
+    {
+      "star": "Antares",
+      "arabic": "Qalb al-Aqrab",
+      "constellation": "Scorpio",
+      "best_voynich_match": "ok1o29",
+      "decoded": "antasis",
+      "score": 0.857
+    },
+    {
+      "star": "Altair",
+      "arabic": "al-Nasr al-Tair",
+      "constellation": "Aquila",
+      "best_voynich_match": "1hoy19",
+      "decoded": "traitis",
+      "score": 0.857
+    },
+    {
+      "star": "Castor",
+      "arabic": "al-Ras al-Tawam",
+      "constellation": "Gemini",
+      "best_voynich_match": "ohoe29",
+      "decoded": "araosis",
+      "score": 0.857
+    },
+    {
+      "star": "Aldebaran",
+      "arabic": "al-Dabaran",
+      "constellation": "Taurus",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.833
+    },
+    {
+      "star": "Fomalhaut",
+      "arabic": "Fam al-Hut",
+      "constellation": "Pisces Austrinus",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.833
+    },
+    {
+      "star": "Vega",
+      "arabic": "al-Nasr al-Waqi",
+      "constellation": "Lyra",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.833
+    },
+    {
+      "star": "Capella",
+      "arabic": "al-Ayyuq",
+      "constellation": "Auriga",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.833
+    },
+    {
+      "star": "Rigel",
+      "arabic": "Rijl al-Jawza",
+      "constellation": "Orion",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.833
+    },
+    {
+      "star": "Pollux",
+      "arabic": "Rasalhague",
+      "constellation": "Gemini",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.833
+    },
+    {
+      "star": "Elnath",
+      "arabic": "al-Nath",
+      "constellation": "Taurus",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.833
+    },
+    {
+      "star": "Regulus",
+      "arabic": "Qalb al-Asad",
+      "constellation": "Leo",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.75
+    },
+    {
+      "star": "Betelgeuse",
+      "arabic": "Yad al-Jawza",
+      "constellation": "Orion",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.75
+    },
+    {
+      "star": "Hamal",
+      "arabic": "al-Hamal",
+      "constellation": "Aries",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.75
+    },
+    {
+      "star": "Deneb",
+      "arabic": "Dhanab al-Dajaja",
+      "constellation": "Cygnus",
+      "best_voynich_match": "oko",
+      "decoded": "ana",
+      "score": 0.7
+    },
+    {
+      "star": "Zubenelgenubi",
+      "arabic": "al-Zuban al-Janubi",
+      "constellation": "Libra",
+      "best_voynich_match": "oko",
+      "decoded": "ana",
+      "score": 0.7
+    },
+    {
+      "star": "Procyon",
+      "arabic": "al-Shira al-Shamiya",
+      "constellation": "Canis Minor",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.625
+    }
+  ],
+  "best_matches": [
+    {
+      "star": "Spica",
+      "arabic": "al-Simak",
+      "constellation": "Virgo",
+      "best_voynich_match": "occ7c9",
+      "decoded": "akklkis",
+      "score": 1.0
+    },
+    {
+      "star": "Sirius",
+      "arabic": "al-Shira",
+      "constellation": "Canis Major",
+      "best_voynich_match": "oh979",
+      "decoded": "arislis",
+      "score": 1.0
+    },
+    {
+      "star": "Arcturus",
+      "arabic": "al-Simak al-Ramih",
+      "constellation": "Bootes",
+      "best_voynich_match": "ohcohcohco79",
+      "decoded": "arkarkarkalis",
+      "score": 0.929
+    },
+    {
+      "star": "Achernar",
+      "arabic": "Akhir al-Nahr",
+      "constellation": "Eridanus",
+      "best_voynich_match": "ohcohcohco79",
+      "decoded": "arkarkarkalis",
+      "score": 0.923
+    },
+    {
+      "star": "Antares",
+      "arabic": "Qalb al-Aqrab",
+      "constellation": "Scorpio",
+      "best_voynich_match": "ok1o29",
+      "decoded": "antasis",
+      "score": 0.857
+    },
+    {
+      "star": "Altair",
+      "arabic": "al-Nasr al-Tair",
+      "constellation": "Aquila",
+      "best_voynich_match": "1hoy19",
+      "decoded": "traitis",
+      "score": 0.857
+    },
+    {
+      "star": "Castor",
+      "arabic": "al-Ras al-Tawam",
+      "constellation": "Gemini",
+      "best_voynich_match": "ohoe29",
+      "decoded": "araosis",
+      "score": 0.857
+    },
+    {
+      "star": "Aldebaran",
+      "arabic": "al-Dabaran",
+      "constellation": "Taurus",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.833
+    },
+    {
+      "star": "Fomalhaut",
+      "arabic": "Fam al-Hut",
+      "constellation": "Pisces Austrinus",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.833
+    },
+    {
+      "star": "Vega",
+      "arabic": "al-Nasr al-Waqi",
+      "constellation": "Lyra",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.833
+    },
+    {
+      "star": "Capella",
+      "arabic": "al-Ayyuq",
+      "constellation": "Auriga",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.833
+    },
+    {
+      "star": "Rigel",
+      "arabic": "Rijl al-Jawza",
+      "constellation": "Orion",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.833
+    },
+    {
+      "star": "Pollux",
+      "arabic": "Rasalhague",
+      "constellation": "Gemini",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.833
+    },
+    {
+      "star": "Elnath",
+      "arabic": "al-Nath",
+      "constellation": "Taurus",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.833
+    },
+    {
+      "star": "Regulus",
+      "arabic": "Qalb al-Asad",
+      "constellation": "Leo",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.75
+    },
+    {
+      "star": "Betelgeuse",
+      "arabic": "Yad al-Jawza",
+      "constellation": "Orion",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.75
+    },
+    {
+      "star": "Hamal",
+      "arabic": "al-Hamal",
+      "constellation": "Aries",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.75
+    },
+    {
+      "star": "Deneb",
+      "arabic": "Dhanab al-Dajaja",
+      "constellation": "Cygnus",
+      "best_voynich_match": "oko",
+      "decoded": "ana",
+      "score": 0.7
+    },
+    {
+      "star": "Zubenelgenubi",
+      "arabic": "al-Zuban al-Janubi",
+      "constellation": "Libra",
+      "best_voynich_match": "oko",
+      "decoded": "ana",
+      "score": 0.7
+    },
+    {
+      "star": "Procyon",
+      "arabic": "al-Shira al-Shamiya",
+      "constellation": "Canis Minor",
+      "best_voynich_match": "oooooooooeay",
+      "decoded": "aaaaaaaaaoei",
+      "score": 0.625
+    }
+  ]
+}

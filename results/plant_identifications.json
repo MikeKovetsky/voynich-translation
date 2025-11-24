@@ -1,0 +1,154 @@
+{
+  "identifications": [
+    {
+      "folio": "f17r",
+      "confidence": 0.75,
+      "top_candidate": {
+        "name": "Cornflower",
+        "latin": "Centaurea cyanus",
+        "conf": 0.8,
+        "reason": "Blue thistle flowers, strap leaves - STRONG MATCH"
+      },
+      "voynich_name": "f2o89",
+      "features": {
+        "leaf_shape": "long linear/strap-like, alternate",
+        "flower": "blue/purple thistle heads, multiple",
+        "root": "fibrous",
+        "growth_form": "herbaceous"
+      }
+    },
+    {
+      "folio": "f5r",
+      "confidence": 0.6,
+      "top_candidate": {
+        "name": "Hellebore",
+        "latin": "Helleborus sp.",
+        "conf": 0.7,
+        "reason": "Palmate leaves, drooping flower - classic hellebore features"
+      },
+      "voynich_name": "h2o89",
+      "features": {
+        "leaf_shape": "large palmate, clustered",
+        "flower": "drooping bell-like",
+        "root": "spreading",
+        "growth_form": "herbaceous"
+      }
+    },
+    {
+      "folio": "f2v",
+      "confidence": 0.5,
+      "top_candidate": {
+        "name": "Cyclamen",
+        "latin": "Cyclamen sp.",
+        "conf": 0.6,
+        "reason": "Round leaves, similar flower shape"
+      },
+      "voynich_name": "hoom"
+    },
+    {
+      "folio": "f4r",
+      "confidence": 0.5,
+      "top_candidate": {
+        "name": "Tamarisk",
+        "latin": "Tamarix sp.",
+        "conf": 0.5,
+        "reason": "Small scale-like leaves, multiple branches"
+      },
+      "voynich_name": "ho8ae19"
+    },
+    {
+      "folio": "f6r",
+      "confidence": 0.5,
+      "top_candidate": {
+        "name": "Poppy",
+        "latin": "Papaver sp.",
+        "conf": 0.6,
+        "reason": "Distinctive seed pods, lobed leaves"
+      },
+      "voynich_name": "foay"
+    },
+    {
+      "folio": "f25v",
+      "confidence": 0.5,
+      "top_candidate": {
+        "name": "Castor Bean",
+        "latin": "Ricinus communis",
+        "conf": 0.6,
+        "reason": "Large palmate leaves"
+      },
+      "voynich_name": "goCam"
+    },
+    {
+      "folio": "f3r",
+      "confidence": 0.4,
+      "top_candidate": {
+        "name": "Aloe",
+        "latin": "Aloe sp.",
+        "conf": 0.5,
+        "reason": "Banded/striped succulent-like leaves"
+      },
+      "voynich_name": "k2cos"
+    },
+    {
+      "folio": "f9r",
+      "confidence": 0.4,
+      "top_candidate": {
+        "name": "Oak",
+        "latin": "Quercus sp.",
+        "conf": 0.5,
+        "reason": "Lobed leaves, catkin flowers"
+      },
+      "voynich_name": "k98eo"
+    }
+  ],
+  "name_mappings": [
+    {
+      "voynich": "hoom",
+      "folio": "f2v",
+      "candidate": "Cyclamen",
+      "latin": "Cyclamen sp.",
+      "conf": 0.5
+    },
+    {
+      "voynich": "ho8ae19",
+      "folio": "f4r",
+      "candidate": "Tamarisk",
+      "latin": "Tamarix sp.",
+      "conf": 0.5
+    },
+    {
+      "voynich": "h2o89",
+      "folio": "f5r",
+      "candidate": "Hellebore",
+      "latin": "Helleborus sp.",
+      "conf": 0.6
+    },
+    {
+      "voynich": "foay",
+      "folio": "f6r",
+      "candidate": "Poppy",
+      "latin": "Papaver sp.",
+      "conf": 0.5
+    },
+    {
+      "voynich": "f2o89",
+      "folio": "f17r",
+      "candidate": "Cornflower",
+      "latin": "Centaurea cyanus",
+      "conf": 0.75
+    },
+    {
+      "voynich": "goCam",
+      "folio": "f25v",
+      "candidate": "Castor Bean",
+      "latin": "Ricinus communis",
+      "conf": 0.5
+    }
+  ],
+  "methodology": "Visual feature analysis + text correlation",
+  "notes": [
+    "Bax's juniper (f25v) identification is DISPUTED - plant has palmate leaves",
+    "High confidence: f17r (Centaurea/Cornflower) - blue thistle flowers",
+    "f5r is likely the actual Hellebore (not f4r as Bax suggested)"
+  ]
+}

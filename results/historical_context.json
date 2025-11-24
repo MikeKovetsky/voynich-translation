@@ -1,0 +1,250 @@
+{
+  "research_date": "2025-11-24",
+  "manuscript_origin": {
+    "vellum_dated": "1404-1438 (radiocarbon dating)",
+    "art_style_suggests": "Northern Italy, specifically Veneto region",
+    "evidence": {
+      "swallowtail_merlons": "Castle illustration shows Ghibelline fortification style from Veneto (Scaliger family of Verona)",
+      "botanical_illustrations": "Match Northern Italian alchemical herbal style ~1460",
+      "script_style": "Sergio Toresella identifies humanist hand characteristic of Northern Italy",
+      "parchment_quality": "Italian-style vellum preparation"
+    },
+    "most_likely_location": "Veneto region (Venice, Verona, Padua area)",
+    "alternative_theories": ["Central European origin", "Iberian origin"]
+  },
+  "provenance_chain": [
+    {
+      "period": "1404-1438",
+      "holder": "Unknown author/creator",
+      "location": "Likely Northern Italy",
+      "evidence": "Radiocarbon dating of vellum"
+    },
+    {
+      "period": "1438-1576",
+      "holder": "Unknown",
+      "location": "Unknown",
+      "evidence": "No documented history"
+    },
+    {
+      "period": "1576-1612",
+      "holder": "Emperor Rudolf II of Holy Roman Empire",
+      "location": "Prague Castle",
+      "evidence": "Letter from Marci to Kircher (1665/66)",
+      "price_paid": "600 gold ducats",
+      "believed_author": "Roger Bacon (13th century polymath) - likely false"
+    },
+    {
+      "period": "1612-1622",
+      "holder": "Jacobus Sinapius (Jakub Hořčický of Tepenec)",
+      "location": "Prague",
+      "evidence": "Signature found under UV light on first folio",
+      "role": "Rudolf II's Imperial Distiller and botanical garden curator"
+    },
+    {
+      "period": "1622-1662",
+      "holder": "Georg Baresch",
+      "location": "Prague",
+      "evidence": "Letters to Athanasius Kircher seeking help deciphering",
+      "occupation": "Alchemist"
+    },
+    {
+      "period": "1662-1665",
+      "holder": "Johannes Marcus Marci",
+      "location": "Prague",
+      "evidence": "Letter to Kircher documenting transfer",
+      "role": "Rector of Charles University"
+    },
+    {
+      "period": "1665-1680",
+      "holder": "Athanasius Kircher",
+      "location": "Rome",
+      "evidence": "Received from Marci, Jesuit archives",
+      "role": "Jesuit polymath and scholar"
+    },
+    {
+      "period": "1680-1912",
+      "holder": "Jesuit College at Villa Mondragone",
+      "location": "Frascati, Italy",
+      "evidence": "Discovered there by Voynich"
+    },
+    {
+      "period": "1912-1930",
+      "holder": "Wilfrid Voynich",
+      "location": "New York",
+      "evidence": "Purchased from Jesuits"
+    },
+    {
+      "period": "1969-present",
+      "holder": "Yale University, Beinecke Library",
+      "location": "New Haven, Connecticut",
+      "catalog": "MS 408"
+    }
+  ],
+  "rudolf_ii_court": {
+    "reign": "1576-1612 (Holy Roman Emperor)",
+    "capital": "Prague",
+    "court_languages": ["German", "Latin", "Czech"],
+    "character": "Eccentric, reclusive, patron of arts and sciences",
+    "interests": [
+      "Alchemy",
+      "Astrology",
+      "Occult sciences",
+      "Natural history",
+      "Art collecting",
+      "Curiosities and rarities"
+    ],
+    "relevant_scholars": [
+      {
+        "name": "John Dee",
+        "nationality": "English",
+        "specialty": "Mathematics, astrology, navigation",
+        "period_at_court": "1583-1589 (intermittent)",
+        "relevance": "Later owned Voynich? Created Enochian language"
+      },
+      {
+        "name": "Edward Kelley",
+        "nationality": "English",
+        "specialty": "Alchemy, scrying",
+        "period_at_court": "1584-1597",
+        "relevance": "Claimed alchemical transmutation, co-creator of Enochian",
+        "fate": "Made Knight of Imana, later imprisoned"
+      },
+      {
+        "name": "Tycho Brahe",
+        "nationality": "Danish",
+        "specialty": "Astronomy",
+        "period_at_court": "1599-1601",
+        "relevance": "Shows court interest in celestial matters (matches Voynich content)"
+      },
+      {
+        "name": "Johannes Kepler",
+        "nationality": "German",
+        "specialty": "Astronomy, mathematics",
+        "period_at_court": "1600-1612",
+        "relevance": "Imperial mathematician after Brahe"
+      }
+    ],
+    "collection": {
+      "kunstkammer": "Cabinet of curiosities with natural specimens, art, scientific instruments",
+      "library": "Extensive collection including manuscripts",
+      "botanical_garden": "Maintained by Sinapius (who owned Voynich)",
+      "menagerie": "Exotic animals collection"
+    },
+    "significance_for_voynich": "Rudolf's interest in mysteries and willingness to pay high price (600 ducats = ~$100k today) suggests he believed it authentic and valuable"
+  },
+  "herbal_tradition_15th_century": {
+    "comparable_texts": [
+      {
+        "name": "Roccabonella Herbal (Liber de simplicibus)",
+        "date": "mid-15th century",
+        "origin": "Venice",
+        "author": "Nicolò Roccabonella",
+        "languages": ["Latin", "Greek", "Arabic", "Italian dialects", "Slavic"],
+        "content": "450 local + 111 exotic herbs, 440 illustrations",
+        "relevance": "Multi-language labels like Voynich could have"
+      },
+      {
+        "name": "Erbario (University of Pennsylvania LJS 419)",
+        "date": "15th century",
+        "origin": "Veneto region",
+        "languages": ["Italian"],
+        "content": "~70 plant paintings with anthropomorphic elements",
+        "relevance": "Similar regional origin, shows local herbal tradition"
+      },
+      {
+        "name": "Trent Herbal (Erbario di Trento)",
+        "date": "late 15th century",
+        "origin": "Venice",
+        "languages": ["Latin"],
+        "content": "86 medicinal plants from Thesaurus Pauperum",
+        "relevance": "Shows Venetian medical/herbal tradition"
+      },
+      {
+        "name": "Codex Bellunensis",
+        "date": "early 15th century",
+        "origin": "Italy",
+        "location": "British Library Add MS 41623",
+        "relevance": "Contemporary Italian herbal"
+      },
+      {
+        "name": "Tacuinum Sanitatis",
+        "date": "14th-15th centuries",
+        "origin": "Northern Italy (various copies)",
+        "languages": ["Latin", "Italian vernacular"],
+        "content": "Health handbook with plant/food illustrations",
+        "relevance": "Widely copied, shows herbal illustration traditions"
+      }
+    ],
+    "structural_similarities": [
+      "Single plant per page layout",
+      "Root systems often shown",
+      "Decorative elements around plants",
+      "Text describing properties and uses"
+    ],
+    "differences_from_voynich": [
+      "Known texts use recognizable scripts",
+      "Plants in known texts generally identifiable",
+      "Voynich plants often fantastical or unidentifiable"
+    ]
+  },
+  "communities_using_secret_writing": [
+    {
+      "group": "Alchemists",
+      "reason": "Protect trade secrets, avoid persecution",
+      "methods": ["Symbolic language", "Allegorical texts", "Ciphers"],
+      "relevant_to_voynich": "High - Rudolf II court was center of alchemy"
+    },
+    {
+      "group": "Jewish Kabbalists",
+      "reason": "Mystical interpretation, esoteric knowledge",
+      "methods": ["Gematria", "Notarikon", "Hidden meanings in Hebrew"],
+      "relevant_texts": ["Sefer HaTemunah", "Masseket Azilut"],
+      "relevant_to_voynich": "Medium - mystical tradition but Hebrew structure different"
+    },
+    {
+      "group": "Medical/Pharmaceutical guilds",
+      "reason": "Protect formulas, professional secrets",
+      "methods": ["Abbreviated Latin", "Special terminology", "Coded recipes"],
+      "relevant_to_voynich": "High - content matches herbal/medical tradition"
+    },
+    {
+      "group": "Diplomatic corps",
+      "reason": "Secure communications",
+      "methods": ["Nomenclators", "Substitution ciphers"],
+      "relevant_to_voynich": "Low - diplomatic ciphers well-documented, different style"
+    },
+    {
+      "group": "Religious heterodox groups",
+      "reason": "Avoid persecution",
+      "methods": ["Hidden manuscripts", "Coded language"],
+      "examples": ["Cathars (extinct by 1400s)", "Bogomils", "Free Spirit movement"],
+      "relevant_to_voynich": "Low-Medium - most suppressed before Voynich date"
+    }
+  ],
+  "key_historical_events_1400s": [
+    {
+      "year": 1404,
+      "event": "Beginning of Voynich vellum date range"
+    },
+    {
+      "year": 1415,
+      "event": "Jan Hus burned at stake - religious tensions in Bohemia"
+    },
+    {
+      "year": 1438,
+      "event": "End of Voynich vellum date range"
+    },
+    {
+      "year": 1453,
+      "event": "Fall of Constantinople - Greek scholars flee to Italy"
+    },
+    {
+      "year": 1455,
+      "event": "Gutenberg Bible printed - spread of literacy"
+    },
+    {
+      "year": 1492,
+      "event": "Columbus reaches Americas, Spanish Inquisition expels Jews"
+    }
+  ]
+}
