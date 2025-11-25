@@ -1,0 +1,42 @@
+TRACK 73E: Mine Quires 9-10 (Cosmological/Zodiac)
+=================================================
+
+SOURCE URLS:
+- https://voynich.nu/q09/index.html (f67-f68) - cosmological
+- https://voynich.nu/q10/index.html (f69-f70) - zodiac
+
+NOTE: These are NOT herbal pages! They contain:
+- Cosmological diagrams
+- Zodiac symbols
+- Star charts
+
+TASK: Extract for EACH folio:
+1. Folio number
+2. Section type (cosmological, zodiac)
+3. Illustration description (zodiac signs, stars, etc.)
+4. Any labels or identifications
+5. Currier language (A or B)
+6. LFD hand number
+
+ZODIAC LABELS are especially important - scholars may have identified month names!
+
+FORMAT OUTPUT AS JSON:
+{
+  "quires": ["q09", "q10"],
+  "folios": [
+    {
+      "folio": "f67r1",
+      "section": "cosmological",
+      "zodiac_sign": null,
+      "labels_identified": [],
+      "description": "circular diagram with...",
+      "currier_lang": "B",
+      "lfd_hand": 2
+    },
+    ...
+  ]
+}
+
+OUTPUT FILES:
+- mine_q09_10.py
+- results/quire_09_10_zodiac.json

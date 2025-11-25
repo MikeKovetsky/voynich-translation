@@ -1,0 +1,737 @@
+{
+  "quires": [
+    "q05",
+    "q06"
+  ],
+  "folios": [
+    {
+      "folio": "f40v",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "mandragora? Other information Similar heads in roots are found in the alchemical herbals",
+      "thp_id": "scabiosa",
+      "description": "Plant with green flowers and faces drawn in the roots. This plant shows some similarity with plant fragment #31 on f89r1 .",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "figures",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f33r",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "mandragora? Other information Similar heads in roots are found in the alchemical herbals",
+      "thp_id": "scabiosa",
+      "description": "Plant with green flowers and faces drawn in the roots. This plant shows some similarity with plant fragment #31 on f89r1 .",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "figures",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f89r1",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "mandragora? Other information Similar heads in roots are found in the alchemical herbals",
+      "thp_id": "scabiosa",
+      "description": "Plant with 2 huge flowers on top, and a third (dead) one hanging down behind one of the leaves. Starry (fingered) leaves and roots that look like sea mines.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "figures",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f33v",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "knautia, scabiosa",
+      "thp_id": "scabiosa",
+      "description": "Plant with 2 huge flowers on top, and a third (dead) one hanging down behind one of the leaves. Starry (fingered) leaves and roots that look like sea mines.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "figures",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f93r",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "scabiosa",
+      "thp_id": "scabiosa",
+      "description": "Drawing of a plant with large roots, leaves ending in 'figers' and three flowers.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "fruits",
+        "figures"
+      ]
+    },
+    {
+      "folio": "f34r",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "scabiosa",
+      "thp_id": "scabiosa",
+      "description": "Drawing of a plant with large roots, leaves ending in 'figers' and three flowers.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f34v",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "eryngium? ThP: libanotis umbilifera",
+      "thp_id": "libanotis umbilifera",
+      "description": "Drawing of a plant with very extensive roots, that appear like two animals standing face to face. Leaves are green and brown and flowers not painted. This plant shows some similarity with plant fragme",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f99v",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "eryngium? ThP: libanotis umbilifera",
+      "thp_id": "libanotis umbilifera",
+      "description": "Plant with leaves in the shape of a cur, green inside and brown outside. One flower bud with blue and red.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f35r",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "uva quercina, the fabulous 'grapes of oak'",
+      "thp_id": "leonuris? orchid root? Other information f35v >>Link to 2014 scan (Beinecke digital library) >>Link to 2004 scan (Jason Davies Voyager) General description This is a herbal page",
+      "description": "Plant with leaves in the shape of a cur, green inside and brown outside. One flower bud with blue and red.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f35v",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "uva quercina, the fabulous 'grapes of oak'",
+      "thp_id": "uva quercina, oak quercus gall apple? No! grapevine? Other information Folio 36 Normal folio",
+      "description": "Plant that looks like a tree with a straight stem (trunk) and strong roots. Oak leaves at the top and sides, and braches with currants twining around it. This plant shows some similarity with plant fr",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f89r2",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "uva quercina, the fabulous 'grapes of oak'",
+      "thp_id": "uva quercina, oak quercus gall apple? No! grapevine? Other information Folio 36 Normal folio",
+      "description": "Plant drawing with mostly green and two yellow leaves. Small flower buds. This plant shows some similarity with plant fragment #225 on f102v2 .",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f36r",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "geranium",
+      "thp_id": "baldrian, valerian",
+      "description": "Plant drawing with mostly green and two yellow leaves. Small flower buds. This plant shows some similarity with plant fragment #225 on f102v2 .",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f102v2",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "geranium",
+      "thp_id": "baldrian, valerian",
+      "description": "Plant with finger leaves (8-10 fingers) and 'seeds' instead of flowers.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f36v",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "cannabis",
+      "thp_id": "baldrian, valerian",
+      "description": "Plant with finger leaves (8-10 fingers) and 'seeds' instead of flowers.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f37r",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "sambucus? dwarf elder (Dnewort)",
+      "thp_id": "baldrian, valerian",
+      "description": "Plant with oblong leaves hanging down and small berries instead of flowers. This plant shows some similarity with plant fragment #188 on f101v .",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f101v",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "sambucus? dwarf elder (Dnewort)",
+      "thp_id": "baldrian, valerian",
+      "description": "Plant with symmetric leaves, alternating white and green. The large root has a humanoid form. This appears to be the same plant as shown in fragment 203 on f102r1 .",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f37v",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "cynarum",
+      "thp_id": "aster luzei, asarum? Other information f38v >>Link to 2014 scan (Beinecke digital library) >>Link to 2004 scan (Jason Davies Voyager) General description This is a herbal page",
+      "description": "Plant with symmetric leaves, alternating white and green. The large root has a humanoid form. This appears to be the same plant as shown in fragment 203 on f102r1 .",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f102r1",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "cynarum",
+      "thp_id": "aster luzei, asarum? Other information f38v >>Link to 2014 scan (Beinecke digital library) >>Link to 2004 scan (Jason Davies Voyager) General description This is a herbal page",
+      "description": "Plant with tiny flowers (buds) near bottom and a huge dark green leaf going all the way to the top of the page. Big white commas with dots inside are drawn over the leaf.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f38r",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "cynarum",
+      "thp_id": "aster luzei, asarum? Other information f38v >>Link to 2014 scan (Beinecke digital library) >>Link to 2004 scan (Jason Davies Voyager) General description This is a herbal page",
+      "description": "Plant with tiny flowers (buds) near bottom and a huge dark green leaf going all the way to the top of the page. Big white commas with dots inside are drawn over the leaf.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f38v",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "cynarum",
+      "thp_id": "(cichrium?), lactuca",
+      "description": "Bush of stacked leaves, in three colours. There is one blue flower near the top.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f39r",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "colchicum (or crocus)",
+      "thp_id": null,
+      "description": "There is a plateau of earth, with roots below and a bed of flowers above (mostly leaves only).",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f95r2",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "primula? Other information There appears to be a faint capital 'B' in the white space between the green parts\r\nof the bottom right leaf",
+      "thp_id": "thistle, jerusalem arti",
+      "description": "Plant with a large root, unnusual leaves and two composite flowers.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f39v",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "primula? Other information There appears to be a faint capital 'B' in the white space between the green parts\r\nof the bottom right leaf",
+      "thp_id": "thistle, jerusalem artichoke, helianthus tuberosus",
+      "description": "Plant with a large root, unnusual leaves and two composite flowers.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f40r",
+      "quire": "q05",
+      "section": "herbal_a",
+      "elv_id": "primula? Other information The loop in the stem seems to suggest that this plant can form new roots at the point where the stem touches the ground",
+      "thp_id": "thistle, jerusalem artichoke, helianthus tuberosus",
+      "description": "Plant with a large tapered bud and one blue flower. The stem has a loop.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f48v",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "curduas? (cnicus?) ThP: thistle",
+      "thp_id": "thistle",
+      "description": "Plant drawing with many leaves that have been painted quite summarily in light green. Barely visible unpainted flower near the top.",
+      "currier_lang": "B",
+      "lfd_hand": 5,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f41r",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "curduas? (cnicus?) ThP: thistle",
+      "thp_id": "thistle",
+      "description": "Plant drawing with many leaves that have been painted quite summarily in light green. Barely visible unpainted flower near the top.",
+      "currier_lang": "B",
+      "lfd_hand": 5,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f41v",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "daucus",
+      "thp_id": "fern, maidenham fern??? tansy? Other information Folio 42 Normal folio",
+      "description": "Plant drawing with bright brown roots, frilled fingered leaves and seeds at the top.",
+      "currier_lang": "B",
+      "lfd_hand": 5,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f42r",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "renunculus? ThP: arum sagittarium",
+      "thp_id": "arum sagittarium",
+      "description": "Two plants, both consisting of leaves only on slim stems. The larger one has an accurately painted green leaf. The smaller has three small bright brown leaves.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f42v",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "aquilegia? ThP: Ranuncularia (ELV)",
+      "thp_id": "Ranuncularia (ELV)",
+      "description": "A plant with narrow roots, a thin vertical stem, a handful of green leaves in the middle and a faint flower at the top.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f43r",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "belledactrum",
+      "thp_id": "antemum gnaphalium",
+      "description": "Long row of plants with a forest of roots. Many small leaves alternating white and green and several small flowers.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f43v",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "polygonum",
+      "thp_id": "polygonum? bistorta? Other information Folio 44 Normal folio",
+      "description": "There are two different plants drawn side by side. The left one has a single stem and a snake-like root. The right one has a large bushy root system, several stems and leaves like crescents.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f44r",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "veratrum? ThP: veratrum",
+      "thp_id": "veratrum",
+      "description": "Plant with thick stem, ascending leaves with appendages, and a small flower, not unlike f1v. Root has thick hairs or thorns. This plant shows some similarity with plant fragment #95 on f99v .",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f1v",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "veratrum? ThP: veratrum",
+      "thp_id": "veratrum",
+      "description": "Plant with tall root, unusual leaves and two flower buds with red stripes.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f99v",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "veratrum? ThP: veratrum",
+      "thp_id": "veratrum",
+      "description": "Plant with tall root, unusual leaves and two flower buds with red stripes.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f44v",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "glycyrrhiza? Other information f45v >>Link to 2014 scan (Beinecke digital library) >>Link to 2004 scan (Jason Davies Voyager) General description This is a herbal page",
+      "thp_id": "contellaria, veronica? camedris, ehrenpreis? beatrum",
+      "description": "Plant with tall root, unusual leaves and two flower buds with red stripes.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f45r",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "glycyrrhiza? Other information f45v >>Link to 2014 scan (Beinecke digital library) >>Link to 2004 scan (Jason Davies Voyager) General description This is a herbal page",
+      "thp_id": "contellaria, veronica? camedris, ehrenpreis? beatrum",
+      "description": "Conspicuous root. Three basically identical plants with small triangular leaves in two colours and tiny blue flowers.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f45v",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "teucrium? ThP: contellaria, veronica? camedris, ehrenpreis? beatrum",
+      "thp_id": "contellaria, veronica? camedris, ehrenpreis? beatrum",
+      "description": "Large and conspicuous root, carefully painted. Three stems with small leaves and small blue flowers.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f46r",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "asclepias? ThP: asclepias roots",
+      "thp_id": "asclepias roots",
+      "description": "Patch of earth with many roots below and three stems with pairs of flower buds, and leaves that are all to the right of the stems.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f46v",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "anchusa? ThP: doronicum? pardalianchus (Holm), Gemswurz",
+      "thp_id": "boragine, anchusa",
+      "description": "Root shapped like a heraldic eagle. Four large green leaves, and an array of flower along a spiralling stem.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f47r",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "anchusa? ThP: doronicum? pardalianchus (Holm), Gemswurz",
+      "thp_id": "indian cucumber? Other information There are some imprints of f46v, mostly above the second paragraph of text",
+      "description": "Plant with thin stem and two large leaves or groups of leaves.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f47v",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "anchusa? ThP: doronicum? pardalianchus (Holm), Gemswurz",
+      "thp_id": "doronicum? pardalianchus (Holm), Gemswurz",
+      "description": "Plant drawing. Plain roots, large leaves that have been painted rather accurately, and three small ble flowers. This appears to be the same plant as shown in fragment 205 on f102r2 .",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f102r2",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "anchusa? ThP: doronicum? pardalianchus (Holm), Gemswurz",
+      "thp_id": "doronicum? pardalianchus (Holm), Gemswurz",
+      "description": "Plant drawing, with only the leaves painted green. Looks unfinished. This appears to be the same plant as shown in fragment 61 on f89v2 .",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f48r",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "Hyosciamus",
+      "thp_id": "(cyanus?) no! Other information f48v >>Link to 2014 scan (Beinecke digital library) >>Link to 2004 scan (Jason Davies Voyager) General description This is a herbal page",
+      "description": "Plant drawing, with only the leaves painted green. Looks unfinished. This appears to be the same plant as shown in fragment 61 on f89v2 .",
+      "currier_lang": "B",
+      "lfd_hand": 5,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves"
+      ]
+    },
+    {
+      "folio": "f89v2",
+      "quire": "q06",
+      "section": "herbal_a",
+      "elv_id": "Hyosciamus",
+      "thp_id": "(cyanus?) no! Other information f48v >>Link to 2014 scan (Beinecke digital library) >>Link to 2004 scan (Jason Davies Voyager) General description This is a herbal page",
+      "description": "Two of the same plants crossing at the root. Leaves painted green, and flowers blue and yellow. This appears to be the same plant as shown in fragment 54 on f89v2 .",
+      "currier_lang": "B",
+      "lfd_hand": 5,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves"
+      ]
+    }
+  ],
+  "total_folios": 44,
+  "expert_ids": 44
+}

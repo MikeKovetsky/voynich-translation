@@ -1,0 +1,62 @@
+TRACK 67: Merge and Consolidate Dictionary
+==========================================
+
+GOAL: Merge Track 65's +100 new entries with clean_dictionary.json
+Resolve conflicts and create a MASTER dictionary.
+
+INPUT FILES:
+- results/clean_dictionary.json (324 entries)
+- results/hebrew_corpus_expansion.json (100 new entries)
+
+TASK 1: Load Both Dictionaries
+------------------------------
+- Load clean_dictionary.json
+- Load new entries from hebrew_corpus_expansion.json
+
+TASK 2: Identify Conflicts
+--------------------------
+For words appearing in both:
+- Same meaning? → Keep
+- Different meaning? → Evaluate which is better supported
+
+Track 65 found conflicts:
+- ytair: "earth" (old) vs "cure/date palm" (new)
+- chockhy: "verb" (old) vs "strength/power" (new)
+- teor: "earth" (old) vs "cure/date palm" (new)
+
+TASK 3: Resolve Conflicts
+-------------------------
+For each conflict:
+- Check frequency in different sections
+- Check context (what words appear nearby?)
+- Choose most supported meaning OR mark as ambiguous
+
+TASK 4: Build Master Dictionary
+-------------------------------
+Create merged dictionary with:
+- No conflicting entries
+- Source tracking (Track 56 vs Track 65)
+- Confidence scores
+- Domain tags (botanical, medical, astronomical, religious, general)
+
+TASK 5: Calculate New Coverage
+------------------------------
+With master dictionary:
+- What's coverage on Language B sections?
+- What's coverage on Language A sections?
+- What's overall coverage?
+
+OUTPUT FILES (REQUIRED):
+- merge_dict.py
+- results/master_dictionary.json:
+  {
+    "total_entries": N,
+    "sources": {"clean": N, "hebrew_corpus": N},
+    "conflicts_resolved": N,
+    "entries": [...]
+  }
+- results/master_dictionary_report.md:
+  - Merge statistics
+  - Conflicts and resolutions
+  - Coverage by section
+  - Domain breakdown

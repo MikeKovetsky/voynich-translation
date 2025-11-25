@@ -1,0 +1,316 @@
+{
+  "total_unique_words": 8618,
+  "rare_word_count": 7786,
+  "sample_rare": {
+    "fachys": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "ataiin": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "cthres": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "sory": {
+      "count": 5,
+      "folios": [
+        "f111v",
+        "f1r",
+        "f67v2",
+        "f68v2",
+        "f99v"
+      ]
+    },
+    "ckhar": {
+      "count": 3,
+      "folios": [
+        "f113r",
+        "f1r",
+        "f58v"
+      ]
+    },
+    "chtaiin": {
+      "count": 4,
+      "folios": [
+        "f107r",
+        "f1r",
+        "f48r",
+        "f72r2"
+      ]
+    },
+    "are": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "syaiir": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "cthoary": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "cthes": {
+      "count": 3,
+      "folios": [
+        "f113r",
+        "f1r",
+        "f51r"
+      ]
+    },
+    "daraiin": {
+      "count": 2,
+      "folios": [
+        "f1r",
+        "f95r2"
+      ]
+    },
+    "sa": {
+      "count": 3,
+      "folios": [
+        "f112v",
+        "f1r",
+        "f57v"
+      ]
+    },
+    "oo'oiin": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "roloty": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "okan": {
+      "count": 5,
+      "folios": [
+        "f103v",
+        "f111v",
+        "f1r",
+        "f86v6"
+      ]
+    },
+    "cphar": {
+      "count": 4,
+      "folios": [
+        "f11v",
+        "f1r",
+        "f36v",
+        "f78v"
+      ]
+    },
+    "cfhaiin": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "ydaraishy": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "cphoy": {
+      "count": 2,
+      "folios": [
+        "f18v",
+        "f1r"
+      ]
+    },
+    "oydar": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "cfhoaiin": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "shodary": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "okchoy": {
+      "count": 2,
+      "folios": [
+        "f1r",
+        "f57v"
+      ]
+    },
+    "oschy": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "kos": {
+      "count": 3,
+      "folios": [
+        "f1r",
+        "f38r",
+        "f90v1"
+      ]
+    },
+    "ydain": {
+      "count": 3,
+      "folios": [
+        "f14v",
+        "f16r",
+        "f1r"
+      ]
+    },
+    "cphesaiin": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "shoshy": {
+      "count": 2,
+      "folios": [
+        "f1r",
+        "f1v"
+      ]
+    },
+    "cphodales": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "oksho": {
+      "count": 4,
+      "folios": [
+        "f1r",
+        "f27v",
+        "f28r",
+        "f93v"
+      ]
+    },
+    "kshoy": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "otairin": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "shodain": {
+      "count": 4,
+      "folios": [
+        "f108v",
+        "f1r",
+        "f86v3",
+        "f89v1"
+      ]
+    },
+    "sckhey": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "shoy": {
+      "count": 2,
+      "folios": [
+        "f102v2",
+        "f1r"
+      ]
+    },
+    "kodaiin": {
+      "count": 3,
+      "folios": [
+        "f1r",
+        "f52v",
+        "f99r"
+      ]
+    },
+    "cphodaiils": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "oldain": {
+      "count": 2,
+      "folios": [
+        "f1r",
+        "f89r1"
+      ]
+    },
+    "kod": {
+      "count": 2,
+      "folios": [
+        "f1r",
+        "f27v"
+      ]
+    },
+    "ckKeor": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "shodan": {
+      "count": 1,
+      "folios": [
+        "f1r"
+      ]
+    },
+    "kshy": {
+      "count": 5,
+      "folios": [
+        "f11r",
+        "f1r",
+        "f39v",
+        "f7v"
+      ]
+    },
+    "kchom": {
+      "count": 2,
+      "folios": [
+        "f1r",
+        "f3v"
+      ]
+    },
+    "ycho": {
+      "count": 5,
+      "folios": [
+        "f114r",
+        "f19v",
+        "f1r",
+        "f23v",
+        "f56r"
+      ]
+    }
+  }
+}

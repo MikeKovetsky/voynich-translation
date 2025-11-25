@@ -1,0 +1,138 @@
+{
+  "investigation": "Track 60: Bax Word Comparison",
+  "date": "2025-11-25",
+  "bax_claims": [
+    {
+      "folio": "f17r",
+      "bax_word": "kantairon",
+      "bax_meaning": "Centaury (Centaurea cyanus)",
+      "bax_position": "label near plant illustration",
+      "our_eva_first_word": "fshody",
+      "our_phonetic_with_bax_values": "fsh\u0259dy",
+      "labels_found": [],
+      "header_found": true,
+      "all_first_words": [
+        "fshody",
+        "fshody",
+        "fshody",
+        "fshody",
+        "fshody"
+      ],
+      "match_analysis": "NO_MATCH",
+      "verdict": "Different words - likely reading different positions on page"
+    },
+    {
+      "folio": "f3v",
+      "bax_word": "kaur",
+      "bax_meaning": "Black hellebore (Helleborus niger)",
+      "bax_position": "first word / plant label",
+      "our_eva_first_word": "koaiin",
+      "our_phonetic_with_bax_values": "t*\u0259\u0259iin",
+      "labels_found": [],
+      "header_found": false,
+      "all_first_words": [
+        "koaiin",
+        "koaiin",
+        "koaiin",
+        "koaiin",
+        "koaiin"
+      ],
+      "match_analysis": "NO_MATCH",
+      "verdict": "Different words - likely reading different positions on page"
+    },
+    {
+      "folio": "f2v",
+      "bax_word": "kain",
+      "bax_meaning": "possible plant name",
+      "bax_position": "near illustration",
+      "our_eva_first_word": "kooiin",
+      "our_phonetic_with_bax_values": "t*\u0259\u0259iin",
+      "labels_found": [],
+      "header_found": false,
+      "all_first_words": [
+        "kooiin",
+        "kooiin",
+        "kaoiin",
+        "kooiin",
+        "kaoiin"
+      ],
+      "match_analysis": "NO_MATCH",
+      "verdict": "Different words - likely reading different positions on page"
+    },
+    {
+      "folio": "f25v",
+      "bax_word": "poriom",
+      "bax_meaning": "possible leek/allium",
+      "bax_position": "plant label area",
+      "our_eva_first_word": "poeeaiin",
+      "our_phonetic_with_bax_values": "p\u0259ee\u0259iin",
+      "labels_found": [],
+      "header_found": false,
+      "all_first_words": [
+        "poeeaiin",
+        "??!?aiin",
+        "poeeaiin",
+        "poeeaiin",
+        "????aiin"
+      ],
+      "match_analysis": "NO_MATCH",
+      "verdict": "Different words - likely reading different positions on page"
+    }
+  ],
+  "character_mapping_comparison": {
+    "bax_mapping": {
+      "k": "t",
+      "o": "a",
+      "t": "t*",
+      "a": "\u0259",
+      "ch": "k",
+      "e": "e",
+      "i": "i",
+      "n": "n",
+      "r": "r",
+      "s": "s",
+      "l": "l",
+      "d": "d",
+      "y": "y",
+      "sh": "sh",
+      "f": "f",
+      "p": "p",
+      "q": "k"
+    },
+    "key_conflicts": [
+      {
+        "eva_char": "k",
+        "bax_value": "t",
+        "our_value": "n",
+        "impact": "HIGH"
+      },
+      {
+        "eva_char": "a",
+        "bax_value": "\u0259",
+        "our_value": "e",
+        "impact": "MEDIUM"
+      },
+      {
+        "eva_char": "ch",
+        "bax_value": "k",
+        "our_value": "?",
+        "impact": "HIGH"
+      },
+      {
+        "eva_char": "q",
+        "bax_value": "k",
+        "our_value": "?",
+        "impact": "MEDIUM"
+      }
+    ],
+    "critical_difference": "Bax: k=/t/, ch=/k/ vs Our: k=/n/, ch=/t/"
+  },
+  "transcription_system": "We use EVA from Landini-Stolfi; Bax may have used direct reading",
+  "conclusions": {
+    "main_finding": "We read DIFFERENT words at DIFFERENT positions using DIFFERENT phonetic values",
+    "position_hypothesis": "Bax likely read plant labels, we read paragraph first words",
+    "phonetic_hypothesis": "Critical conflict: Bax k=/t/ vs Our k=/n/",
+    "validity": "Both readings may be valid within their own frameworks",
+    "implication": "Cannot directly compare our decoding to Bax's without standardizing position and system"
+  }
+}

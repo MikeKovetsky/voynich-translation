@@ -1,0 +1,1229 @@
+{
+  "total_folios": 307,
+  "total_quires": 18,
+  "expert_plant_ids": 168,
+  "expert_zodiac_labels": 14,
+  "unique_plants": 233,
+  "zodiac_signs_found": [
+    "Taurus",
+    "Pisces",
+    "Aries",
+    "Gemini",
+    "Cancer",
+    "Leo",
+    "Sagittarius"
+  ],
+  "our_matches": 119,
+  "match_rate": 70.8,
+  "new_vocabulary": [
+    {
+      "latin": "atropa",
+      "hebrew": "יברוח",
+      "italian": "belladonna",
+      "skeleton": "trp/brch",
+      "folios": [
+        "f1v",
+        "f102r1"
+      ],
+      "source": "voynich.nu expert ID"
+    },
+    {
+      "latin": "solanum",
+      "hebrew": "סולנום",
+      "italian": "solano",
+      "skeleton": "sln",
+      "folios": [
+        "f1v",
+        "f102r1"
+      ],
+      "source": "voynich.nu expert ID"
+    },
+    {
+      "latin": "belladonna",
+      "hebrew": "יברוח",
+      "italian": "belladonna",
+      "skeleton": "bldnn",
+      "folios": [
+        "f1v",
+        "f102r1"
+      ],
+      "source": "voynich.nu expert ID"
+    },
+    {
+      "latin": "cyanus",
+      "hebrew": "",
+      "italian": "fiordaliso",
+      "skeleton": "cns/frdls",
+      "folios": [
+        "f2r",
+        "f48r",
+        "f89v2"
+      ],
+      "source": "voynich.nu expert ID"
+    },
+    {
+      "latin": "hypericum",
+      "hebrew": "פרפוריון",
+      "italian": "iperico",
+      "skeleton": "hprcm/prprn",
+      "folios": [
+        "f3v",
+        "f3v",
+        "f4r",
+        "f4r"
+      ],
+      "source": "voynich.nu expert ID"
+    },
+    {
+      "latin": "geranium",
+      "hebrew": "גרניום",
+      "italian": "geranio",
+      "skeleton": "grnm",
+      "folios": [
+        "f5v",
+        "f36r",
+        "f102v2",
+        "f66v",
+        "f57r"
+      ],
+      "source": "voynich.nu expert ID"
+    },
+    {
+      "latin": "ricinus",
+      "hebrew": "קיקיון",
+      "italian": "ricino",
+      "skeleton": "rcns/qqn",
+      "folios": [
+        "f51r",
+        "f51r",
+        "f6v",
+        "f6v"
+      ],
+      "source": "voynich.nu expert ID"
+    },
+    {
+      "latin": "paeonia",
+      "hebrew": "פאוניה",
+      "italian": "peonia",
+      "skeleton": "pn",
+      "folios": [
+        "f7r"
+      ],
+      "source": "voynich.nu expert ID"
+    },
+    {
+      "latin": "polygonum",
+      "hebrew": "כורכמן",
+      "italian": "poligono",
+      "skeleton": "plgn/krkm",
+      "folios": [
+        "f7v",
+        "f21r",
+        "f43v"
+      ],
+      "source": "voynich.nu expert ID"
+    },
+    {
+      "latin": "atriplex",
+      "hebrew": "אטריפלקס",
+      "italian": "atriplice",
+      "skeleton": "trplx",
+      "folios": [
+        "f8r"
+      ],
+      "source": "voynich.nu expert ID"
+    },
+    {
+      "latin": "viola",
+      "hebrew": "סגל",
+      "italian": "viola",
+      "skeleton": "vl/sgl",
+      "folios": [
+        "f9v"
+      ],
+      "source": "voynich.nu expert ID"
+    },
+    {
+      "latin": "tussilago",
+      "hebrew": "",
+      "italian": "farfara",
+      "skeleton": "tsslg/frfr",
+      "folios": [
+        "f11r",
+        "f11v",
+        "f13r"
+      ],
+      "source": "voynich.nu expert ID"
+    },
+    {
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "skeleton": "btrcm",
+      "folios": [
+        "f13v",
+        "f100v",
+        "f14r",
+        "f14v"
+      ],
+      "source": "voynich.nu expert ID"
+    },
+    {
+      "latin": "aconitum",
+      "hebrew": "אקונית",
+      "italian": "aconito",
+      "skeleton": "cntm",
+      "folios": [
+        "f16r"
+      ],
+      "source": "voynich.nu expert ID"
+    },
+    {
+      "latin": "cannabis",
+      "hebrew": "קנאביס",
+      "italian": "canapa",
+      "skeleton": "cnbs/qnbs",
+      "folios": [
+        "f36v"
+      ],
+      "source": "voynich.nu expert ID"
+    }
+  ],
+  "validation_score": 70.8,
+  "sections_analyzed": {
+    "herbal_a": {
+      "count": 150,
+      "lang_a": 112,
+      "lang_b": 37,
+      "hand_distribution": {
+        "1": 111,
+        "2": 25,
+        "5": 9,
+        "3": 4
+      }
+    },
+    "cosmological": {
+      "count": 22,
+      "lang_a": 0,
+      "lang_b": 12,
+      "hand_distribution": {
+        "4": 9,
+        "2": 12
+      }
+    },
+    "zodiac": {
+      "count": 19,
+      "lang_a": 0,
+      "lang_b": 0,
+      "hand_distribution": {
+        "4": 18,
+        "3": 1
+      }
+    },
+    "biological": {
+      "count": 20,
+      "lang_a": 0,
+      "lang_b": 20,
+      "hand_distribution": {
+        "2": 20
+      }
+    },
+    "pharmaceutical": {
+      "count": 60,
+      "lang_a": 60,
+      "lang_b": 0,
+      "hand_distribution": {
+        "1": 60
+      }
+    },
+    "herbal_b": {
+      "count": 13,
+      "lang_a": 6,
+      "lang_b": 7,
+      "hand_distribution": {
+        "1": 6,
+        "3": 7
+      }
+    },
+    "recipes": {
+      "count": 23,
+      "lang_a": 0,
+      "lang_b": 23,
+      "hand_distribution": {
+        "3": 22,
+        "2": 1
+      }
+    }
+  },
+  "top_plants": {
+    "o'neill": {
+      "count": 35,
+      "folios": [
+        "f2r",
+        "f3v",
+        "f3v",
+        "f4r",
+        "f4r",
+        "f5v",
+        "f51r",
+        "f6v",
+        "f8r",
+        "f9v",
+        "f18r",
+        "f23r",
+        "f23r",
+        "f19r",
+        "f19r",
+        "f2v",
+        "f2v",
+        "f102v1",
+        "f102v1",
+        "f19v",
+        "f19v",
+        "f20r",
+        "f20r",
+        "f32v",
+        "f32v",
+        "f32v",
+        "f32v",
+        "f25r",
+        "f25r",
+        "f25r",
+        "f25r",
+        "f32r",
+        "f6r",
+        "f50v",
+        "f96r"
+      ],
+      "source": "ThP"
+    },
+    "holm": {
+      "count": 22,
+      "folios": [
+        "f2r",
+        "f46v",
+        "f47r",
+        "f47v",
+        "f47v",
+        "f102r2",
+        "f102r2",
+        "f56v",
+        "f56v",
+        "f49r",
+        "f49r",
+        "f101r",
+        "f101r",
+        "f49v",
+        "f10v",
+        "f48v",
+        "f24r",
+        "f48r",
+        "f40v",
+        "f89v1",
+        "f90v2",
+        "f90r1"
+      ],
+      "source": "ThP"
+    },
+    "beinecke digital library": {
+      "count": 16,
+      "folios": [
+        "f3r",
+        "f3r",
+        "f5r",
+        "f5r",
+        "f35r",
+        "f37v",
+        "f102r1",
+        "f38r",
+        "f44v",
+        "f45r",
+        "f48r",
+        "f89v2",
+        "f52r",
+        "f56r",
+        "f93v",
+        "f94r"
+      ],
+      "source": "ThP"
+    },
+    "jason davies voyager": {
+      "count": 14,
+      "folios": [
+        "f3r",
+        "f3r",
+        "f5r",
+        "f5r",
+        "f35r",
+        "f37v",
+        "f102r1",
+        "f38r",
+        "f44v",
+        "f45r",
+        "f48r",
+        "f89v2",
+        "f52r",
+        "f56r"
+      ],
+      "source": "ThP"
+    },
+    "tamus communis": {
+      "count": 13,
+      "folios": [
+        "f24v",
+        "f24v",
+        "f17r",
+        "f17r",
+        "f17v",
+        "f17v",
+        "f96v",
+        "f96v",
+        "f99r",
+        "f99r",
+        "f56v",
+        "f49r",
+        "f101r"
+      ],
+      "source": "ThP"
+    },
+    "scabiosa": {
+      "count": 10,
+      "folios": [
+        "f10r",
+        "f40v",
+        "f33r",
+        "f89r1",
+        "f33v",
+        "f33v",
+        "f93r",
+        "f93r",
+        "f34r",
+        "f34r"
+      ],
+      "source": "ThP"
+    },
+    "geranium": {
+      "count": 9,
+      "folios": [
+        "f5v",
+        "f36r",
+        "f102v2",
+        "f66v",
+        "f57r",
+        "f89r1",
+        "f58r",
+        "f58v",
+        "f65r"
+      ],
+      "source": "ELV"
+    },
+    "papaver": {
+      "count": 8,
+      "folios": [
+        "f10v",
+        "f48v",
+        "f24r",
+        "f48r",
+        "f40v",
+        "f89v1",
+        "f90v2",
+        "f90r1"
+      ],
+      "source": "ELV"
+    },
+    "poppy": {
+      "count": 8,
+      "folios": [
+        "f10v",
+        "f48v",
+        "f24r",
+        "f48r",
+        "f40v",
+        "f89v1",
+        "f90v2",
+        "f90r1"
+      ],
+      "source": "ThP"
+    },
+    "papaver somniferum": {
+      "count": 8,
+      "folios": [
+        "f10v",
+        "f48v",
+        "f24r",
+        "f48r",
+        "f40v",
+        "f89v1",
+        "f90v2",
+        "f90r1"
+      ],
+      "source": "ThP"
+    },
+    "arctostaphylis": {
+      "count": 6,
+      "folios": [
+        "f23r",
+        "f19r",
+        "f2v",
+        "f102v1",
+        "f19v",
+        "f20r"
+      ],
+      "source": "ELV"
+    },
+    "poterium? thp: moss polytrichnum": {
+      "count": 6,
+      "folios": [
+        "f23r",
+        "f19r",
+        "f2v",
+        "f102v1",
+        "f19v",
+        "f20r"
+      ],
+      "source": "ELV"
+    },
+    "moss polytrichnum": {
+      "count": 6,
+      "folios": [
+        "f23r",
+        "f19r",
+        "f2v",
+        "f102v1",
+        "f19v",
+        "f20r"
+      ],
+      "source": "ThP"
+    },
+    "thistle": {
+      "count": 6,
+      "folios": [
+        "f95r2",
+        "f39v",
+        "f40r",
+        "f48v",
+        "f41r",
+        "f54r"
+      ],
+      "source": "ThP"
+    },
+    "gemswurz": {
+      "count": 6,
+      "folios": [
+        "f46v",
+        "f47r",
+        "f47v",
+        "f47v",
+        "f102r2",
+        "f102r2"
+      ],
+      "source": "ThP"
+    },
+    "scammonia": {
+      "count": 6,
+      "folios": [
+        "f56v",
+        "f56v",
+        "f49r",
+        "f49r",
+        "f101r",
+        "f101r"
+      ],
+      "source": "ThP"
+    },
+    "tamus? thp: smilax": {
+      "count": 5,
+      "folios": [
+        "f24v",
+        "f17r",
+        "f17v",
+        "f96v",
+        "f99r"
+      ],
+      "source": "ELV"
+    },
+    "smilax": {
+      "count": 5,
+      "folios": [
+        "f24v",
+        "f17r",
+        "f17v",
+        "f96v",
+        "f99r"
+      ],
+      "source": "ThP"
+    },
+    "mentastrum": {
+      "count": 5,
+      "folios": [
+        "f32v",
+        "f32v",
+        "f25r",
+        "f25r",
+        "f32r"
+      ],
+      "source": "ThP"
+    },
+    "uva quercina": {
+      "count": 5,
+      "folios": [
+        "f35r",
+        "f35v",
+        "f35v",
+        "f89r2",
+        "f89r2"
+      ],
+      "source": "ThP"
+    },
+    "baldrian": {
+      "count": 5,
+      "folios": [
+        "f36r",
+        "f102v2",
+        "f36v",
+        "f37r",
+        "f101v"
+      ],
+      "source": "ThP"
+    },
+    "valerian": {
+      "count": 5,
+      "folios": [
+        "f36r",
+        "f102v2",
+        "f36v",
+        "f37r",
+        "f101v"
+      ],
+      "source": "ThP"
+    },
+    "lycopsis or a nearly allied boraginace plant": {
+      "count": 5,
+      "folios": [
+        "f6r",
+        "f50v",
+        "f51r",
+        "f99r",
+        "f51v"
+      ],
+      "source": "ELV"
+    },
+    "symphytum": {
+      "count": 5,
+      "folios": [
+        "f6r",
+        "f50v",
+        "f51r",
+        "f99r",
+        "f51v"
+      ],
+      "source": "ELV"
+    },
+    "hypericum": {
+      "count": 4,
+      "folios": [
+        "f3v",
+        "f3v",
+        "f4r",
+        "f4r"
+      ],
+      "source": "ThP"
+    },
+    "centaurium erythaea": {
+      "count": 4,
+      "folios": [
+        "f3v",
+        "f3v",
+        "f4r",
+        "f4r"
+      ],
+      "source": "ThP"
+    },
+    "ricinus": {
+      "count": 4,
+      "folios": [
+        "f51r",
+        "f51r",
+        "f6v",
+        "f6v"
+      ],
+      "source": "ThP"
+    },
+    "elv": {
+      "count": 4,
+      "folios": [
+        "f7v",
+        "f8r",
+        "f42v",
+        "f42v"
+      ],
+      "source": "ThP"
+    },
+    "botrychium": {
+      "count": 4,
+      "folios": [
+        "f13v",
+        "f100v",
+        "f14r",
+        "f14v"
+      ],
+      "source": "ELV"
+    },
+    "herzkraut": {
+      "count": 4,
+      "folios": [
+        "f32v",
+        "f32v",
+        "f25r",
+        "f25r"
+      ],
+      "source": "ThP"
+    }
+  },
+  "zodiac_data": {
+    "Taurus": {
+      "count": 4,
+      "folios": [
+        "f68r3",
+        "f71v",
+        "f72v2",
+        "f72r1"
+      ],
+      "hebrew": "שור",
+      "hebrew_trans": "shor"
+    },
+    "Pisces": {
+      "count": 2,
+      "folios": [
+        "f67r2",
+        "f70r2"
+      ],
+      "hebrew": "דגים",
+      "hebrew_trans": "dagim"
+    },
+    "Aries": {
+      "count": 3,
+      "folios": [
+        "f72v1",
+        "f71r",
+        "f116v"
+      ],
+      "hebrew": "טלה",
+      "hebrew_trans": "taleh"
+    },
+    "Gemini": {
+      "count": 1,
+      "folios": [
+        "f72r2"
+      ],
+      "hebrew": "תאומים",
+      "hebrew_trans": "teomim"
+    },
+    "Cancer": {
+      "count": 1,
+      "folios": [
+        "f72r3"
+      ],
+      "hebrew": "סרטן",
+      "hebrew_trans": "sartan"
+    },
+    "Leo": {
+      "count": 1,
+      "folios": [
+        "f72v3"
+      ],
+      "hebrew": "אריה",
+      "hebrew_trans": "aryeh"
+    },
+    "Sagittarius": {
+      "count": 2,
+      "folios": [
+        "f73r",
+        "f73v"
+      ],
+      "hebrew": "קשת",
+      "hebrew_trans": "keshet"
+    }
+  },
+  "hebrew_zodiac_support": 14,
+  "cross_validation_matches": [
+    {
+      "folio": "f2r",
+      "voynich": "dalor",
+      "our_meaning": "pain",
+      "expert_id": "cyanus(?)",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f2r",
+      "voynich": "dalar",
+      "our_meaning": "pain",
+      "expert_id": "cyanus(?)",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f2r",
+      "voynich": "dolar",
+      "our_meaning": "pain",
+      "expert_id": "cyanus(?)",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f2r",
+      "voynich": "dalary",
+      "our_meaning": "pain",
+      "expert_id": "cyanus(?)",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f2r",
+      "voynich": "dolor",
+      "our_meaning": "pain",
+      "expert_id": "cyanus(?)",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f2r",
+      "voynich": "aiin",
+      "our_meaning": "one",
+      "expert_id": "cyanus(?)",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f2r",
+      "voynich": "aiiin",
+      "our_meaning": "one",
+      "expert_id": "cyanus(?)",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f2r",
+      "voynich": "chdy",
+      "our_meaning": "one",
+      "expert_id": "cyanus(?)",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f2r",
+      "voynich": "chody",
+      "our_meaning": "one",
+      "expert_id": "cyanus(?)",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f2r",
+      "voynich": "cheody",
+      "our_meaning": "one",
+      "expert_id": "cyanus(?)",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f2r",
+      "voynich": "ched",
+      "our_meaning": "one",
+      "expert_id": "cyanus(?)",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f2r",
+      "voynich": "dchey",
+      "our_meaning": "one",
+      "expert_id": "cyanus(?)",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f51r",
+      "voynich": "oteos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f51r",
+      "voynich": "otees",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f51r",
+      "voynich": "oteeos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f51r",
+      "voynich": "tos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f51r",
+      "voynich": "otes",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f51r",
+      "voynich": "otos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f51r",
+      "voynich": "oteeys",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f51r",
+      "voynich": "yteos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f51r",
+      "voynich": "oteees",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f51r",
+      "voynich": "teeos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f51r",
+      "voynich": "teos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f51r",
+      "voynich": "toees",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f51r",
+      "voynich": "cheos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f51r",
+      "voynich": "chees",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f6v",
+      "voynich": "oteos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f6v",
+      "voynich": "otees",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f6v",
+      "voynich": "oteeos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f6v",
+      "voynich": "tos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f6v",
+      "voynich": "otes",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f6v",
+      "voynich": "otos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f6v",
+      "voynich": "oteeys",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f6v",
+      "voynich": "yteos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f6v",
+      "voynich": "oteees",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f6v",
+      "voynich": "teeos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f6v",
+      "voynich": "teos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f6v",
+      "voynich": "toees",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f6v",
+      "voynich": "cheos",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f6v",
+      "voynich": "chees",
+      "our_meaning": "tree",
+      "expert_id": "ricinus, castor oil plant",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f9v",
+      "voynich": "far",
+      "our_meaning": "flower",
+      "expert_id": "viola, pansy",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f9v",
+      "voynich": "ofar",
+      "our_meaning": "flower",
+      "expert_id": "viola, pansy",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f9v",
+      "voynich": "ofor",
+      "our_meaning": "flower",
+      "expert_id": "viola, pansy",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f9v",
+      "voynich": "fr",
+      "our_meaning": "flower",
+      "expert_id": "viola, pansy",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f9v",
+      "voynich": "opchor",
+      "our_meaning": "flower",
+      "expert_id": "viola, pansy",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f9v",
+      "voynich": "opchey",
+      "our_meaning": "flower",
+      "expert_id": "viola, pansy",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f9v",
+      "voynich": "kchor",
+      "our_meaning": "flower",
+      "expert_id": "viola, pansy",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f9v",
+      "voynich": "ychor",
+      "our_meaning": "flower",
+      "expert_id": "viola, pansy",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f9v",
+      "voynich": "cphol",
+      "our_meaning": "flower",
+      "expert_id": "viola, pansy",
+      "match_type": "direct"
+    },
+    {
+      "folio": "f9v",
+      "voynich": "chodar",
+      "our_meaning": "flower",
+      "expert_id": "viola, pansy",
+      "match_type": "direct"
+    }
+  ],
+  "plant_hebrew_italian_db": {
+    "atropa": {
+      "latin": "atropa",
+      "hebrew": "יברוח",
+      "italian": "belladonna",
+      "skeleton": "trp/brch"
+    },
+    "belladonna": {
+      "latin": "atropa belladonna",
+      "hebrew": "יברוח",
+      "italian": "belladonna",
+      "skeleton": "bldnn"
+    },
+    "solanum": {
+      "latin": "solanum",
+      "hebrew": "סולנום",
+      "italian": "solano",
+      "skeleton": "sln"
+    },
+    "cyanus": {
+      "latin": "centaurea cyanus",
+      "hebrew": "",
+      "italian": "fiordaliso",
+      "skeleton": "cns/frdls"
+    },
+    "viola": {
+      "latin": "viola",
+      "hebrew": "סגל",
+      "italian": "viola",
+      "skeleton": "vl/sgl"
+    },
+    "helleborus": {
+      "latin": "helleborus",
+      "hebrew": "חלבנה",
+      "italian": "elleboro",
+      "skeleton": "hlbr/chlbn"
+    },
+    "hypericum": {
+      "latin": "hypericum",
+      "hebrew": "פרפוריון",
+      "italian": "iperico",
+      "skeleton": "hprcm/prprn"
+    },
+    "geranium": {
+      "latin": "geranium",
+      "hebrew": "גרניום",
+      "italian": "geranio",
+      "skeleton": "grnm"
+    },
+    "ricinus": {
+      "latin": "ricinus",
+      "hebrew": "קיקיון",
+      "italian": "ricino",
+      "skeleton": "rcns/qqn"
+    },
+    "paeonia": {
+      "latin": "paeonia",
+      "hebrew": "פאוניה",
+      "italian": "peonia",
+      "skeleton": "pn"
+    },
+    "polygonum": {
+      "latin": "polygonum",
+      "hebrew": "כורכמן",
+      "italian": "poligono",
+      "skeleton": "plgn/krkm"
+    },
+    "atriplex": {
+      "latin": "atriplex",
+      "hebrew": "אטריפלקס",
+      "italian": "atriplice",
+      "skeleton": "trplx"
+    },
+    "tussilago": {
+      "latin": "tussilago",
+      "hebrew": "",
+      "italian": "farfara",
+      "skeleton": "tsslg/frfr"
+    },
+    "botrychium": {
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "skeleton": "btrcm"
+    },
+    "aconitum": {
+      "latin": "aconitum",
+      "hebrew": "אקונית",
+      "italian": "aconito",
+      "skeleton": "cntm"
+    },
+    "cannabis": {
+      "latin": "cannabis",
+      "hebrew": "קנאביס",
+      "italian": "canapa",
+      "skeleton": "cnbs/qnbs"
+    },
+    "nymphaea": {
+      "latin": "nymphaea",
+      "hebrew": "נימפאה",
+      "italian": "ninfea",
+      "skeleton": "nmph/nnf"
+    },
+    "oleander": {
+      "latin": "nerium oleander",
+      "hebrew": "הרדוף",
+      "italian": "oleandro",
+      "skeleton": "lndr/hrdf"
+    },
+    "dictamnus": {
+      "latin": "dictamnus",
+      "hebrew": "דקט",
+      "italian": "dittamo",
+      "skeleton": "dctmn"
+    },
+    "aristolochia": {
+      "latin": "aristolochia",
+      "hebrew": "",
+      "italian": "aristolochia",
+      "skeleton": "rstlch"
+    },
+    "lilium": {
+      "latin": "lilium",
+      "hebrew": "שושן",
+      "italian": "giglio",
+      "skeleton": "llm/shshn"
+    }
+  }
+}

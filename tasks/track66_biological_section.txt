@@ -1,0 +1,115 @@
+TRACK 66: Biological Section Exploration
+========================================
+
+GOAL: Explore the BIOLOGICAL section - completely untouched by our analysis!
+This section has human figures, bathing pools, and tubes.
+
+WHY THIS MATTERS:
+- We've only analyzed botanical and recipes
+- Biological section is different content type
+- May contain body part vocabulary
+- Could reveal medical/anatomical terminology
+- Zandbergen mentions "balneis" (baths) connection
+
+SECTION DESCRIPTION:
+- Folios f75r-f84v approximately
+- Shows nude female figures ("nymphs")
+- Connected by tubes/pipes
+- Standing in pools/basins
+- Possibly represents:
+  - Bathing/hygiene
+  - Blood circulation
+  - Humoral medicine
+  - Mikveh (Jewish ritual bath)?
+
+INPUT FILES:
+- results/clean_dictionary.json
+- data/eva_ivtff.txt
+- images/ (if biological section images available)
+
+TASK 1: Extract Biological Section Text
+---------------------------------------
+Get all text from biological folios:
+- f75r through f84v
+- Identify labels near figures
+- Separate paragraph text from labels
+
+TASK 2: Apply Dictionary
+------------------------
+Use clean_dictionary.json
+Calculate coverage rate.
+Compare to other sections.
+
+TASK 3: Body Part Vocabulary Search
+-----------------------------------
+Search for Hebrew/Italian body part terms:
+| Body Part | Hebrew | Italian | Skeleton | Match? |
+|-----------|--------|---------|----------|--------|
+| hand | יד (yad) | mano | y-d / m-n | ? |
+| foot | רגל (regel) | piede | r-g-l | ? |
+| head | ראש (rosh) | testa | r-sh | ? |
+| heart | לב (lev) | cuore | l-v / k-r | okar? |
+| blood | דם (dam) | sangue | d-m | dam ✅ |
+| womb | רחם (rechem) | utero | r-ch-m | ? |
+| water | מים (mayim) | acqua | m-m / k | ? |
+
+TASK 4: Bathing/Water Vocabulary
+--------------------------------
+If this is about bathing/hygiene:
+| Term | Hebrew | Italian | Match? |
+|------|--------|---------|--------|
+| bath | מרחץ (merchatz) | bagno | ? |
+| water | מים (mayim) | acqua | ? |
+| wash | רחץ (rachatz) | lavare | ? |
+| clean | טהור (tahor) | pulito | ? |
+| mikveh | מקוה (mikveh) | - | ? |
+
+TASK 5: Medical/Humoral Vocabulary
+----------------------------------
+Medieval medicine used humoral theory:
+| Humor | Hebrew | Italian | Match? |
+|-------|--------|---------|--------|
+| blood | דם (dam) | sangue | dam ✅ |
+| phlegm | ליחה (leichah) | flemma | ? |
+| bile | מרה (marah) | bile | ? |
+| health | בריאות (bri'ut) | salute | ? |
+
+TASK 6: Label Analysis
+----------------------
+Labels near figures might indicate:
+- Body parts
+- Actions (bathing, pouring)
+- Substances (water, oils)
+- Instructions
+
+Document each label and attempt translation.
+
+TASK 7: Cross-Reference with Recipes
+------------------------------------
+Do any words from biological section appear in recipes?
+This could indicate:
+- Same author
+- Related content (medical treatments)
+- Consistent vocabulary
+
+OUTPUT FILES (REQUIRED):
+- biological.py
+- results/biological_section.json:
+  {
+    "folios_analyzed": [...],
+    "coverage_rate": X%,
+    "body_part_matches": [...],
+    "bathing_vocabulary": [...],
+    "humoral_vocabulary": [...],
+    "labels_found": [...],
+    "cross_reference_recipes": {...},
+    "new_vocabulary": [...]
+  }
+- results/biological_section_report.md:
+  - Section description
+  - Coverage statistics
+  - Body part vocabulary matches
+  - Bathing/medical vocabulary
+  - Label translations
+  - Cross-reference with other sections
+  - New vocabulary candidates

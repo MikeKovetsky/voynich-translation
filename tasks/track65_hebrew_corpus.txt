@@ -1,0 +1,139 @@
+TRACK 65: Medieval Hebrew Corpus Expansion
+==========================================
+
+GOAL: Expand dictionary using ACTUAL medieval Hebrew medical texts.
+Find more vocabulary matches from historical sources.
+
+WHY THIS MATTERS:
+- Our Hebrew hypothesis is supported but vocabulary is limited
+- Medieval Hebrew medical texts exist and are documented
+- Jewish physicians wrote in Hebrew/Judeo-Italian
+- More vocabulary = better coverage
+
+INPUT FILES:
+- results/clean_dictionary.json
+- data/eva_ivtff.txt
+- Web research on medieval Hebrew medicine
+
+TARGET SOURCES (search for):
+1. Maimonides medical works (12th century)
+   - "Treatise on Asthma"
+   - "Medical Aphorisms"
+   - "Regimen of Health"
+
+2. Sefer ha-Refu'ot (Book of Remedies)
+   - Medieval Hebrew medical compilation
+
+3. Sha'ar ha-Shamayim (Gate of Heaven)
+   - Hebrew astronomical treatise
+
+4. Hebrew botanical terminology
+   - Plant names in Mishnah/Talmud
+   - Medieval Hebrew herbals
+
+5. Judeo-Italian medical manuscripts
+   - Northern Italian Jewish medical texts
+   - 14th-15th century documents
+
+TASK 1: Web Research - Hebrew Medical Vocabulary
+------------------------------------------------
+Search for and compile:
+- Hebrew names for common plants
+- Hebrew medical terms (diseases, treatments)
+- Hebrew body parts
+- Hebrew pharmaceutical terms
+
+Build reference list:
+| Hebrew | Transliteration | Meaning | Source |
+|--------|-----------------|---------|--------|
+| רפואה | refu'ah | medicine | common |
+| חולה | choleh | sick | common |
+| etc. | | | |
+
+TASK 2: Consonant Skeleton Matching
+-----------------------------------
+For each Hebrew term:
+- Extract consonant skeleton
+- Search Voynich corpus for matches
+- Validate against context
+
+Example:
+- Hebrew: שורש (shoresh = root)
+- Skeleton: sh-r-sh
+- Voynich matches: shor, shar, shees (already validated!)
+
+TASK 3: Botanical Hebrew Expansion
+----------------------------------
+Hebrew names for plants in Voynich illustrations:
+| Plant Type | Hebrew | Skeleton | Voynich Match? |
+|------------|--------|----------|----------------|
+| Fig | תאנה (te'enah) | t-n | ? |
+| Wheat | חיטה (chitah) | ch-t | ? |
+| Barley | שעורה (se'orah) | s-r | sar? |
+| Garlic | שום (shum) | sh-m | ? |
+| Onion | בצל (batsal) | b-ts-l | ? |
+| etc. | | | |
+
+TASK 4: Medical Hebrew Expansion
+--------------------------------
+Hebrew medical terminology:
+| Term | Hebrew | Skeleton | Voynich Match? |
+|------|--------|----------|----------------|
+| heart | לב (lev) | l-v | ? |
+| blood | דם (dam) | d-m | dam ✅ |
+| wound | פצע (petsa) | p-ts | ? |
+| fever | קדחת (kadachat) | k-d-ch-t | ? |
+| cure | רפואה (refu'ah) | r-f | ? |
+
+TASK 5: Astronomical Hebrew
+---------------------------
+If Voynich has Hebrew astronomical terms:
+| Term | Hebrew | Skeleton | Voynich Match? |
+|------|--------|----------|----------------|
+| star | כוכב (kokhav) | k-k-v | ? |
+| moon | ירח (yareach) | y-r-ch | ? |
+| sun | שמש (shemesh) | sh-m-sh | ? |
+| sign | מזל (mazal) | m-z-l | ? |
+
+TASK 6: Build Expanded Dictionary
+---------------------------------
+For each new match found:
+- Voynich word
+- Hebrew source
+- Meaning
+- Confidence (based on context, frequency, section)
+
+Add to dictionary with:
+- Clear provenance (Track 65)
+- Confidence score
+- Section where found
+
+TASK 7: Validation
+------------------
+For new entries:
+- Do they appear in expected sections?
+- Do contexts make sense?
+- Any conflicts with existing entries?
+
+OUTPUT FILES (REQUIRED):
+- hebrew_corpus.py
+- results/hebrew_corpus_expansion.json:
+  {
+    "sources_consulted": [...],
+    "botanical_matches": [...],
+    "medical_matches": [...],
+    "astronomical_matches": [...],
+    "new_entries": [
+      {"voynich": "...", "hebrew": "...", "meaning": "...", "confidence": X}
+    ],
+    "total_new_entries": N,
+    "validation_results": {...}
+  }
+- results/hebrew_corpus_report.md:
+  - Sources consulted
+  - Botanical vocabulary matches
+  - Medical vocabulary matches
+  - Astronomical matches
+  - New dictionary entries
+  - Validation results
+  - Updated coverage estimate

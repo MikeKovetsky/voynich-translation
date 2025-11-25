@@ -1,0 +1,4108 @@
+{
+  "dictionary_size": 389,
+  "total_words": 19273,
+  "translated_words": 9816,
+  "total_coverage": 0.509,
+  "total_readable": 488,
+  "quality": {
+    "fragmented": 712,
+    "partial": 1115,
+    "readable": 488
+  },
+  "by_section": {
+    "herbal_b": {
+      "stats": {
+        "total_lines": 87,
+        "total_words": 763,
+        "translated_words": 360,
+        "coverage": 0.472,
+        "quality_breakdown": {
+          "fragmented": 32,
+          "partial": 34,
+          "readable": 21
+        },
+        "readable_count": 21,
+        "partial_count": 34
+      },
+      "sample_lines": [
+        {
+          "line_id": "f58r.1",
+          "folio": "f58r",
+          "voynich": "indentkor.cholfy.shopchy.otoralchy.chofchol.sholy.otaly.dal.m",
+          "words": [
+            "indentkor",
+            "cholfy",
+            "shopchy",
+            "otoralchy",
+            "chofchol",
+            "sholy",
+            "otaly",
+            "dal"
+          ],
+          "translations": [
+            {
+              "voynich": "indentkor",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "cholfy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "shopchy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "otoralchy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chofchol",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "sholy",
+              "meaning": "extract/draw out (shol)-s",
+              "confidence": 0.42,
+              "language": "Hebrew",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "otaly",
+              "meaning": "verb (unknown)",
+              "confidence": 0.6,
+              "language": "inferred",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "dal",
+              "meaning": "aries",
+              "confidence": 0.6,
+              "language": "Hebrew",
+              "domain": "astronomical",
+              "found": true
+            }
+          ],
+          "reconstructed": "[?] [?] [?] [?] [?] extract/draw out shols verb unknown aries",
+          "score": 0.312,
+          "quality": "fragmented",
+          "word_count": 8,
+          "translated_count": 3,
+          "rate": 0.375
+        },
+        {
+          "line_id": "f58r.2",
+          "folio": "f58r",
+          "voynich": "indentdshodal.or.ckhy.olchear.char.tal.ytal.ytar.olchokal",
+          "words": [
+            "indentdshodal",
+            "or",
+            "ckhy",
+            "olchear",
+            "char",
+            "tal",
+            "ytal",
+            "ytar",
+            "olchokal"
+          ],
+          "translations": [
+            {
+              "voynich": "indentdshodal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "or",
+              "meaning": "or/and",
+              "confidence": 0.6,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "ckhy",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "olchear",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "char",
+              "meaning": "hole/pierce (chor)",
+              "confidence": 0.7,
+              "language": "Hebrew",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "tal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ytal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ytar",
+              "meaning": "earth",
+              "confidence": 0.7,
+              "language": "Italian",
+              "domain": "medical",
+              "found": true
+            },
+            {
+              "voynich": "olchokal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?] or/and verb form [?] hole/pierce chor [?] [?] earth [?]",
+          "score": 0.447,
+          "quality": "partial",
+          "word_count": 9,
+          "translated_count": 4,
+          "rate": 0.444
+        },
+        {
+          "line_id": "f58r.3",
+          "folio": "f58r",
+          "voynich": "indentykechod.dalaldam.ytam.choty.otchy.otaly.shoty.s",
+          "words": [
+            "indentykechod",
+            "dalaldam",
+            "ytam",
+            "choty",
+            "otchy",
+            "otaly",
+            "shoty"
+          ],
+          "translations": [
+            {
+              "voynich": "indentykechod",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "dalaldam",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ytam",
+              "meaning": "thyme",
+              "confidence": 0.7,
+              "language": "Italian",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "choty",
+              "meaning": "wheat",
+              "confidence": 1.0,
+              "language": "Hebrew",
+              "domain": "botanical",
+              "found": true
+            },
+            {
+              "voynich": "otchy",
+              "meaning": "finger",
+              "confidence": 0.6,
+              "language": "Italian",
+              "domain": "medical",
+              "found": true
+            },
+            {
+              "voynich": "otaly",
+              "meaning": "verb (unknown)",
+              "confidence": 0.6,
+              "language": "inferred",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "shoty",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?] [?] thyme wheat finger verb unknown [?]",
+          "score": 0.503,
+          "quality": "partial",
+          "word_count": 7,
+          "translated_count": 4,
+          "rate": 0.571
+        },
+        {
+          "line_id": "f58r.4",
+          "folio": "f58r",
+          "voynich": "dshor.cholar.aiin.shalom.shaly.dalchy.oteom.dal.sholalam",
+          "words": [
+            "dshor",
+            "cholar",
+            "aiin",
+            "shalom",
+            "shaly",
+            "dalchy",
+            "oteom",
+            "dal",
+            "sholalam"
+          ],
+          "translations": [
+            {
+              "voynich": "dshor",
+              "meaning": "almond",
+              "confidence": 0.88,
+              "language": "Hebrew",
+              "domain": "botanical",
+              "found": true
+            },
+            {
+              "voynich": "cholar",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "aiin",
+              "meaning": "one",
+              "confidence": 0.6,
+              "language": "Italian",
+              "domain": "number",
+              "found": true
+            },
+            {
+              "voynich": "shalom",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "shaly",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "dalchy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "oteom",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "dal",
+              "meaning": "aries",
+              "confidence": 0.6,
+              "language": "Hebrew",
+              "domain": "astronomical",
+              "found": true
+            },
+            {
+              "voynich": "sholalam",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "almond [?] one [?] [?] [?] [?] aries [?]",
+          "score": 0.364,
+          "quality": "fragmented",
+          "word_count": 9,
+          "translated_count": 3,
+          "rate": 0.333
+        },
+        {
+          "line_id": "f58r.5",
+          "folio": "f58r",
+          "voynich": "qor.dchairam.otar.otar.char.ar.al.char.arary.ytalar.cham",
+          "words": [
+            "qor",
+            "dchairam",
+            "otar",
+            "otar",
+            "char",
+            "ar",
+            "al",
+            "char",
+            "arary",
+            "ytalar",
+            "cham"
+          ],
+          "translations": [
+            {
+              "voynich": "qor",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "dchairam",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "otar",
+              "meaning": "earth",
+              "confidence": 0.7,
+              "language": "Italian",
+              "domain": "medical",
+              "found": true
+            },
+            {
+              "voynich": "otar",
+              "meaning": "earth",
+              "confidence": 0.7,
+              "language": "Italian",
+              "domain": "medical",
+              "found": true
+            },
+            {
+              "voynich": "char",
+              "meaning": "hole/pierce (chor)",
+              "confidence": 0.7,
+              "language": "Hebrew",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "ar",
+              "meaning": "to/for",
+              "confidence": 0.65,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "al",
+              "meaning": "to the",
+              "confidence": 0.65,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "char",
+              "meaning": "hole/pierce (chor)",
+              "confidence": 0.7,
+              "language": "Hebrew",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "arary",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ytalar",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "cham",
+              "meaning": "verb (unknown)",
+              "confidence": 0.6,
+              "language": "inferred",
+              "domain": "grammar",
+              "found": true
+            }
+          ],
+          "reconstructed": "[?] [?] earth earth hole/pierce chor to/for to the hole/pierce chor [?] [?] verb unknown",
+          "score": 0.589,
+          "quality": "readable",
+          "word_count": 11,
+          "translated_count": 7,
+          "rate": 0.636
+        },
+        {
+          "line_id": "f58r.6",
+          "folio": "f58r",
+          "voynich": "torchey.otaiin.chary.oteory.otal.dalchor.ykeey.choltam",
+          "words": [
+            "torchey",
+            "otaiin",
+            "chary",
+            "oteory",
+            "otal",
+            "dalchor",
+            "ykeey",
+            "choltam"
+          ],
+          "translations": [
+            {
+              "voynich": "torchey",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "otaiin",
+              "meaning": "fig",
+              "confidence": 0.65,
+              "language": "Hebrew",
+              "domain": "botanical",
+              "found": true
+            },
+            {
+              "voynich": "chary",
+              "meaning": "verb (unknown)",
+              "confidence": 0.6,
+              "language": "inferred",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "oteory",
+              "meaning": "earth-s",
+              "confidence": 0.42,
+              "language": "Italian",
+              "domain": "medical",
+              "found": true
+            },
+            {
+              "voynich": "otal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "dalchor",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ykeey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "choltam",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?] fig verb unknown earths [?] [?] verb form [?]",
+          "score": 0.392,
+          "quality": "partial",
+          "word_count": 8,
+          "translated_count": 4,
+          "rate": 0.5
+        },
+        {
+          "line_id": "f58r.7",
+          "folio": "f58r",
+          "voynich": "saiin.cholkeey.dal.shom.sholteol.ytalody.otey.cheoly.o.tchy",
+          "words": [
+            "saiin",
+            "cholkeey",
+            "dal",
+            "shom",
+            "sholteol",
+            "ytalody",
+            "otey",
+            "cheoly",
+            "tchy"
+          ],
+          "translations": [
+            {
+              "voynich": "saiin",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "cholkeey",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "dal",
+              "meaning": "aries",
+              "confidence": 0.6,
+              "language": "Hebrew",
+              "domain": "astronomical",
+              "found": true
+            },
+            {
+              "voynich": "shom",
+              "meaning": "name (shem)",
+              "confidence": 0.7,
+              "language": "Hebrew",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "sholteol",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ytalody",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "otey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "cheoly",
+              "meaning": "sick (choleh)-s",
+              "confidence": 0.42,
+              "language": "Hebrew",
+              "domain": "medical",
+              "found": true
+            },
+            {
+              "voynich": "tchy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?] [?] aries name shem [?] [?] verb form sick cholehs [?]",
+          "score": 0.37,
+          "quality": "partial",
+          "word_count": 9,
+          "translated_count": 4,
+          "rate": 0.444
+        },
+        {
+          "line_id": "f58r.8",
+          "folio": "f58r",
+          "voynich": "toleeshal.oleeam.dalor.chy.oteodchy.yteochy.otey.kal.dy.alam",
+          "words": [
+            "toleeshal",
+            "oleeam",
+            "dalor",
+            "chy",
+            "oteodchy",
+            "yteochy",
+            "otey",
+            "kal",
+            "dy",
+            "alam"
+          ],
+          "translations": [
+            {
+              "voynich": "toleeshal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "oleeam",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "dalor",
+              "meaning": "pain",
+              "confidence": 0.7,
+              "language": "Italian",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "chy",
+              "meaning": "verbal/adjectival",
+              "confidence": 0.5,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "oteodchy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "yteochy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "otey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "kal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "dy",
+              "meaning": "-ness/-ly (suffix)",
+              "confidence": 0.7,
+              "language": "Grammar",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "alam",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?] [?] pain verbal/adjectival [?] [?] verb form [?] -ness/-ly suffix [?]",
+          "score": 0.434,
+          "quality": "partial",
+          "word_count": 10,
+          "translated_count": 4,
+          "rate": 0.4
+        },
+        {
+          "line_id": "f58r.9",
+          "folio": "f58r",
+          "voynich": "sholaiin.chey.yteodaiin.qoar.aiin.arary.sheey.daiin.ealam",
+          "words": [
+            "sholaiin",
+            "chey",
+            "yteodaiin",
+            "qoar",
+            "aiin",
+            "arary",
+            "sheey",
+            "daiin",
+            "ealam"
+          ],
+          "translations": [
+            {
+              "voynich": "sholaiin",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chey",
+              "meaning": "verbal/adjectival",
+              "confidence": 0.5,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "yteodaiin",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "qoar",
+              "meaning": "the-to/for",
+              "confidence": 0.52,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "aiin",
+              "meaning": "one",
+              "confidence": 0.6,
+              "language": "Italian",
+              "domain": "number",
+              "found": true
+            },
+            {
+              "voynich": "arary",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "sheey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "daiin",
+              "meaning": "of the/from",
+              "confidence": 0.7,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "ealam",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?] verbal/adjectival [?] the to/for one [?] verb form of the/from [?]",
+          "score": 0.477,
+          "quality": "partial",
+          "word_count": 9,
+          "translated_count": 5,
+          "rate": 0.556
+        },
+        {
+          "line_id": "f58r.10",
+          "folio": "f58r",
+          "voynich": "tal.ar.am.shar.chepchey.otar.aldy.otal.cheam.qokaiin.ote.ry",
+          "words": [
+            "tal",
+            "ar",
+            "am",
+            "shar",
+            "chepchey",
+            "otar",
+            "aldy",
+            "otal",
+            "cheam",
+            "qokaiin",
+            "ote",
+            "ry"
+          ],
+          "translations": [
+            {
+              "voynich": "tal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ar",
+              "meaning": "to/for",
+              "confidence": 0.65,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "am",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "shar",
+              "meaning": "root (shoresh)",
+              "confidence": 0.7,
+              "language": "Hebrew",
+              "domain": "botanical",
+              "found": true
+            },
+            {
+              "voynich": "chepchey",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "otar",
+              "meaning": "earth",
+              "confidence": 0.7,
+              "language": "Italian",
+              "domain": "medical",
+              "found": true
+            },
+            {
+              "voynich": "aldy",
+              "meaning": "Aquarius (bucket)-s",
+              "confidence": 0.6,
+              "language": "Hebrew",
+              "domain": "astronomical",
+              "found": true
+            },
+            {
+              "voynich": "otal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "cheam",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "qokaiin",
+              "meaning": "priest/cohen",
+              "confidence": 0.6,
+              "language": "Hebrew",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "ote",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ry",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?] to/for [?] root shoresh [?] earth Aquarius buckets [?] [?] priest/cohen [?] [?]",
+          "score": 0.395,
+          "quality": "partial",
+          "word_count": 12,
+          "translated_count": 5,
+          "rate": 0.417
+        }
+      ]
+    },
+    "zodiac": {
+      "stats": {
+        "total_lines": 243,
+        "total_words": 1092,
+        "translated_words": 519,
+        "coverage": 0.475,
+        "quality_breakdown": {
+          "fragmented": 128,
+          "partial": 52,
+          "readable": 63
+        },
+        "readable_count": 63,
+        "partial_count": 52
+      },
+      "sample_lines": [
+        {
+          "line_id": "f66r.1",
+          "folio": "f66r",
+          "voynich": "rary",
+          "words": [
+            "rary"
+          ],
+          "translations": [
+            {
+              "voynich": "rary",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?]",
+          "score": 0.0,
+          "quality": "fragmented",
+          "word_count": 1,
+          "translated_count": 0,
+          "rate": 0.0
+        },
+        {
+          "line_id": "f66r.2",
+          "folio": "f66r",
+          "voynich": "rals",
+          "words": [
+            "rals"
+          ],
+          "translations": [
+            {
+              "voynich": "rals",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?]",
+          "score": 0.0,
+          "quality": "fragmented",
+          "word_count": 1,
+          "translated_count": 0,
+          "rate": 0.0
+        },
+        {
+          "line_id": "f66r.3",
+          "folio": "f66r",
+          "voynich": "qor",
+          "words": [
+            "qor"
+          ],
+          "translations": [
+            {
+              "voynich": "qor",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?]",
+          "score": 0.0,
+          "quality": "fragmented",
+          "word_count": 1,
+          "translated_count": 0,
+          "rate": 0.0
+        },
+        {
+          "line_id": "f66r.4",
+          "folio": "f66r",
+          "voynich": "dara",
+          "words": [
+            "dara"
+          ],
+          "translations": [
+            {
+              "voynich": "dara",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?]",
+          "score": 0.0,
+          "quality": "fragmented",
+          "word_count": 1,
+          "translated_count": 0,
+          "rate": 0.0
+        },
+        {
+          "line_id": "f66r.5",
+          "folio": "f66r",
+          "voynich": "ykcol",
+          "words": [
+            "ykcol"
+          ],
+          "translations": [
+            {
+              "voynich": "ykcol",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?]",
+          "score": 0.0,
+          "quality": "fragmented",
+          "word_count": 1,
+          "translated_count": 0,
+          "rate": 0.0
+        },
+        {
+          "line_id": "f66r.6",
+          "folio": "f66r",
+          "voynich": "syly",
+          "words": [
+            "syly"
+          ],
+          "translations": [
+            {
+              "voynich": "syly",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?]",
+          "score": 0.0,
+          "quality": "fragmented",
+          "word_count": 1,
+          "translated_count": 0,
+          "rate": 0.0
+        },
+        {
+          "line_id": "f66r.7",
+          "folio": "f66r",
+          "voynich": "salf",
+          "words": [
+            "salf"
+          ],
+          "translations": [
+            {
+              "voynich": "salf",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?]",
+          "score": 0.0,
+          "quality": "fragmented",
+          "word_count": 1,
+          "translated_count": 0,
+          "rate": 0.0
+        },
+        {
+          "line_id": "f66r.8",
+          "folio": "f66r",
+          "voynich": "fary",
+          "words": [
+            "fary"
+          ],
+          "translations": [
+            {
+              "voynich": "fary",
+              "meaning": "flower-s",
+              "confidence": 0.42,
+              "language": "Italian",
+              "domain": "botanical",
+              "found": true
+            }
+          ],
+          "reconstructed": "flowers",
+          "score": 0.526,
+          "quality": "partial",
+          "word_count": 1,
+          "translated_count": 1,
+          "rate": 1.0
+        },
+        {
+          "line_id": "f66r.9",
+          "folio": "f66r",
+          "voynich": "qotesy",
+          "words": [
+            "qotesy"
+          ],
+          "translations": [
+            {
+              "voynich": "qotesy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?]",
+          "score": 0.0,
+          "quality": "fragmented",
+          "word_count": 1,
+          "translated_count": 0,
+          "rate": 0.0
+        },
+        {
+          "line_id": "f66r.10",
+          "folio": "f66r",
+          "voynich": "ykaly",
+          "words": [
+            "ykaly"
+          ],
+          "translations": [
+            {
+              "voynich": "ykaly",
+              "meaning": "verb (unknown)",
+              "confidence": 0.6,
+              "language": "inferred",
+              "domain": "grammar",
+              "found": true
+            }
+          ],
+          "reconstructed": "verb unknown",
+          "score": 0.58,
+          "quality": "readable",
+          "word_count": 1,
+          "translated_count": 1,
+          "rate": 1.0
+        }
+      ]
+    },
+    "biological": {
+      "stats": {
+        "total_lines": 902,
+        "total_words": 6822,
+        "translated_words": 3837,
+        "coverage": 0.562,
+        "quality_breakdown": {
+          "partial": 464,
+          "fragmented": 221,
+          "readable": 217
+        },
+        "readable_count": 217,
+        "partial_count": 464
+      },
+      "sample_lines": [
+        {
+          "line_id": "f75r.1",
+          "folio": "f75r",
+          "voynich": "kchedy.kary-figureokeey.qokar.shy.kchedy.qotar.shedy",
+          "words": [
+            "kchedy",
+            "kary-figureokeey",
+            "qokar",
+            "shy",
+            "kchedy",
+            "qotar",
+            "shedy"
+          ],
+          "translations": [
+            {
+              "voynich": "kchedy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "kary-figureokeey",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "qokar",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "shy",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "kchedy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "qotar",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "shedy",
+              "meaning": "which/that",
+              "confidence": 0.55,
+              "language": "Grammar",
+              "domain": "other",
+              "found": true
+            }
+          ],
+          "reconstructed": "[?] [?] the (+ noun) verb form [?] the (+ noun) which/that",
+          "score": 0.468,
+          "quality": "partial",
+          "word_count": 7,
+          "translated_count": 4,
+          "rate": 0.571
+        },
+        {
+          "line_id": "f75r.2",
+          "folio": "f75r",
+          "voynich": "dain.shey.ly-figuressheol.qolchedy.chedykar.chekeedy.ror",
+          "words": [
+            "dain",
+            "shey",
+            "ly-figuressheol",
+            "qolchedy",
+            "chedykar",
+            "chekeedy",
+            "ror"
+          ],
+          "translations": [
+            {
+              "voynich": "dain",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "shey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "ly-figuressheol",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "qolchedy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chedykar",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chekeedy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ror",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?] verb form [?] [?] [?] [?] [?]",
+          "score": 0.222,
+          "quality": "fragmented",
+          "word_count": 7,
+          "translated_count": 1,
+          "rate": 0.143
+        },
+        {
+          "line_id": "f75r.3",
+          "folio": "f75r",
+          "voynich": "qokain.chal-figureorchey.qey.kain.sheeky.ltain.olkar.or",
+          "words": [
+            "qokain",
+            "chal-figureorchey",
+            "qey",
+            "kain",
+            "sheeky",
+            "ltain",
+            "olkar",
+            "or"
+          ],
+          "translations": [
+            {
+              "voynich": "qokain",
+              "meaning": "priest/cohen",
+              "confidence": 0.6,
+              "language": "Hebrew",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "chal-figureorchey",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "qey",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "kain",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "sheeky",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ltain",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "olkar",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "or",
+              "meaning": "or/and",
+              "confidence": 0.6,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            }
+          ],
+          "reconstructed": "priest/cohen [?] [?] [?] [?] [?] [?] or/and",
+          "score": 0.28,
+          "quality": "fragmented",
+          "word_count": 8,
+          "translated_count": 2,
+          "rate": 0.25
+        },
+        {
+          "line_id": "f75r.4",
+          "folio": "f75r",
+          "voynich": "dackhy.lkamo-figureykeey.lshey.kal.dy.shey.or.shey.qokeedy",
+          "words": [
+            "dackhy",
+            "lkamo-figureykeey",
+            "lshey",
+            "kal",
+            "dy",
+            "shey",
+            "or",
+            "shey",
+            "qokeedy"
+          ],
+          "translations": [
+            {
+              "voynich": "dackhy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "lkamo-figureykeey",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "lshey",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "kal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "dy",
+              "meaning": "-ness/-ly (suffix)",
+              "confidence": 0.7,
+              "language": "Grammar",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "shey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "or",
+              "meaning": "or/and",
+              "confidence": 0.6,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "shey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "qokeedy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?] [?] [?] [?] -ness/-ly suffix verb form or/and verb form [?]",
+          "score": 0.447,
+          "quality": "partial",
+          "word_count": 9,
+          "translated_count": 4,
+          "rate": 0.444
+        },
+        {
+          "line_id": "f75r.5",
+          "folio": "f75r",
+          "voynich": "shey.kar.chey-figureckhey.r.ain.ol.ol.sheedy.qokeey.qoky",
+          "words": [
+            "shey",
+            "kar",
+            "chey-figureckhey",
+            "ain",
+            "ol",
+            "ol",
+            "sheedy",
+            "qokeey",
+            "qoky"
+          ],
+          "translations": [
+            {
+              "voynich": "shey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "kar",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chey-figureckhey",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ain",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ol",
+              "meaning": "the/of",
+              "confidence": 0.7,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "ol",
+              "meaning": "the/of",
+              "confidence": 0.7,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "sheedy",
+              "meaning": "honey",
+              "confidence": 0.88,
+              "language": "Hebrew",
+              "domain": "medical",
+              "found": true
+            },
+            {
+              "voynich": "qokeey",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "qoky",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            }
+          ],
+          "reconstructed": "verb form [?] [?] [?] the/of the/of honey the (+ noun) the (+ noun)",
+          "score": 0.602,
+          "quality": "readable",
+          "word_count": 9,
+          "translated_count": 6,
+          "rate": 0.667
+        },
+        {
+          "line_id": "f75r.6",
+          "folio": "f75r",
+          "voynich": "pchey.keeor.olky-figuredar.okey.qokain.chcthy.qokeedy.qoky",
+          "words": [
+            "pchey",
+            "keeor",
+            "olky-figuredar",
+            "okey",
+            "qokain",
+            "chcthy",
+            "qokeedy",
+            "qoky"
+          ],
+          "translations": [
+            {
+              "voynich": "pchey",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "keeor",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "olky-figuredar",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "okey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "qokain",
+              "meaning": "priest/cohen",
+              "confidence": 0.6,
+              "language": "Hebrew",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "chcthy",
+              "meaning": "verb (unknown)",
+              "confidence": 0.6,
+              "language": "inferred",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "qokeedy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "qoky",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            }
+          ],
+          "reconstructed": "[?] [?] [?] verb form priest/cohen verb unknown [?] the (+ noun)",
+          "score": 0.443,
+          "quality": "partial",
+          "word_count": 8,
+          "translated_count": 4,
+          "rate": 0.5
+        },
+        {
+          "line_id": "f75r.7",
+          "folio": "f75r",
+          "voynich": "pchedy.qokshdy-figureytain.chedy.qokar.chy.lol.chedy.qoky",
+          "words": [
+            "pchedy",
+            "qokshdy-figureytain",
+            "chedy",
+            "qokar",
+            "chy",
+            "lol",
+            "chedy",
+            "qoky"
+          ],
+          "translations": [
+            {
+              "voynich": "pchedy",
+              "meaning": "verbal/adjectival",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "qokshdy-figureytain",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chedy",
+              "meaning": "is/has (verb)",
+              "confidence": 0.6,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "qokar",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "chy",
+              "meaning": "verbal/adjectival",
+              "confidence": 0.5,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "lol",
+              "meaning": "verb form",
+              "confidence": 0.45,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "chedy",
+              "meaning": "is/has (verb)",
+              "confidence": 0.6,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "qoky",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            }
+          ],
+          "reconstructed": "verbal/adjectival [?] is/has verb the (+ noun) verbal/adjectival verb form is/has verb the (+ noun)",
+          "score": 0.603,
+          "quality": "partial",
+          "word_count": 8,
+          "translated_count": 7,
+          "rate": 0.875
+        },
+        {
+          "line_id": "f75r.8",
+          "folio": "f75r",
+          "voynich": "sor.chey.qotardy-figuredsheckhy.qokain.chckhy.lshedy.okeedy",
+          "words": [
+            "sor",
+            "chey",
+            "qotardy-figuredsheckhy",
+            "qokain",
+            "chckhy",
+            "lshedy",
+            "okeedy"
+          ],
+          "translations": [
+            {
+              "voynich": "sor",
+              "meaning": "barley",
+              "confidence": 0.65,
+              "language": "Hebrew",
+              "domain": "botanical",
+              "found": true
+            },
+            {
+              "voynich": "chey",
+              "meaning": "verbal/adjectival",
+              "confidence": 0.5,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "qotardy-figuredsheckhy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "qokain",
+              "meaning": "priest/cohen",
+              "confidence": 0.6,
+              "language": "Hebrew",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "chckhy",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "lshedy",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "okeedy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "barley verbal/adjectival [?] priest/cohen verb form verb form [?]",
+          "score": 0.507,
+          "quality": "partial",
+          "word_count": 7,
+          "translated_count": 5,
+          "rate": 0.714
+        },
+        {
+          "line_id": "f75r.9",
+          "folio": "f75r",
+          "voynich": "qokchdy.chcthy.lo-figureqokedy.qokan.checkhy.qokar.olchedy.sal",
+          "words": [
+            "qokchdy",
+            "chcthy",
+            "lo-figureqokedy",
+            "qokan",
+            "checkhy",
+            "qokar",
+            "olchedy",
+            "sal"
+          ],
+          "translations": [
+            {
+              "voynich": "qokchdy",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "chcthy",
+              "meaning": "verb (unknown)",
+              "confidence": 0.6,
+              "language": "inferred",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "lo-figureqokedy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "qokan",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "checkhy",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "qokar",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "olchedy",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "sal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "the (+ noun) verb unknown [?] [?] verb form the (+ noun) verb form [?]",
+          "score": 0.504,
+          "quality": "partial",
+          "word_count": 8,
+          "translated_count": 5,
+          "rate": 0.625
+        },
+        {
+          "line_id": "f75r.10",
+          "folio": "f75r",
+          "voynich": "dshor.qotar.chdy-figureshey.qokain.chckhy.dy.otey.tedy.lchedy",
+          "words": [
+            "dshor",
+            "qotar",
+            "chdy-figureshey",
+            "qokain",
+            "chckhy",
+            "dy",
+            "otey",
+            "tedy",
+            "lchedy"
+          ],
+          "translations": [
+            {
+              "voynich": "dshor",
+              "meaning": "almond",
+              "confidence": 0.88,
+              "language": "Hebrew",
+              "domain": "botanical",
+              "found": true
+            },
+            {
+              "voynich": "qotar",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "chdy-figureshey",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "qokain",
+              "meaning": "priest/cohen",
+              "confidence": 0.6,
+              "language": "Hebrew",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "chckhy",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "dy",
+              "meaning": "-ness/-ly (suffix)",
+              "confidence": 0.7,
+              "language": "Grammar",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "otey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "tedy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "lchedy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "almond the (+ noun) [?] priest/cohen verb form -ness/-ly suffix verb form [?] [?]",
+          "score": 0.555,
+          "quality": "readable",
+          "word_count": 9,
+          "translated_count": 6,
+          "rate": 0.667
+        }
+      ]
+    },
+    "recipes": {
+      "stats": {
+        "total_lines": 1083,
+        "total_words": 10596,
+        "translated_words": 5100,
+        "coverage": 0.481,
+        "quality_breakdown": {
+          "readable": 187,
+          "partial": 565,
+          "fragmented": 331
+        },
+        "readable_count": 187,
+        "partial_count": 565
+      },
+      "sample_lines": [
+        {
+          "line_id": "f103r.1",
+          "folio": "f103r",
+          "voynich": "pchedal.shdy.yteechypchy.otey.ylshey.qoteey.qotal.shedy.yshdal.dain.okol.dal.dy",
+          "words": [
+            "pchedal",
+            "shdy",
+            "yteechypchy",
+            "otey",
+            "ylshey",
+            "qoteey",
+            "qotal",
+            "shedy",
+            "yshdal",
+            "dain",
+            "okol",
+            "dal",
+            "dy"
+          ],
+          "translations": [
+            {
+              "voynich": "pchedal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "shdy",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "yteechypchy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "otey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "ylshey",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "qoteey",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "qotal",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "shedy",
+              "meaning": "which/that",
+              "confidence": 0.55,
+              "language": "Grammar",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "yshdal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "dain",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "okol",
+              "meaning": "all/voice",
+              "confidence": 1.0,
+              "language": "Hebrew",
+              "domain": "general",
+              "found": true
+            },
+            {
+              "voynich": "dal",
+              "meaning": "aries",
+              "confidence": 0.6,
+              "language": "Hebrew",
+              "domain": "astronomical",
+              "found": true
+            },
+            {
+              "voynich": "dy",
+              "meaning": "-ness/-ly (suffix)",
+              "confidence": 0.7,
+              "language": "Grammar",
+              "domain": "other",
+              "found": true
+            }
+          ],
+          "reconstructed": "[?] verb form [?] verb form [?] the (+ noun) the (+ noun) which/that [?] [?] all/voice aries -ness/-ly suffix",
+          "score": 0.52,
+          "quality": "readable",
+          "word_count": 13,
+          "translated_count": 8,
+          "rate": 0.615
+        },
+        {
+          "line_id": "f103r.2",
+          "folio": "f103r",
+          "voynich": "dain.shek.chcphhdy.daloky.opchedy.peshol.chep.ar.otchy.sal.lkeey.sar.ain.ok.chedy",
+          "words": [
+            "dain",
+            "shek",
+            "chcphhdy",
+            "daloky",
+            "opchedy",
+            "peshol",
+            "chep",
+            "ar",
+            "otchy",
+            "sal",
+            "lkeey",
+            "sar",
+            "ain",
+            "ok",
+            "chedy"
+          ],
+          "translations": [
+            {
+              "voynich": "dain",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "shek",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chcphhdy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "daloky",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "opchedy",
+              "meaning": "chest",
+              "confidence": 0.6,
+              "language": "Italian",
+              "domain": "medical",
+              "found": true
+            },
+            {
+              "voynich": "peshol",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chep",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ar",
+              "meaning": "to/for",
+              "confidence": 0.65,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "otchy",
+              "meaning": "finger",
+              "confidence": 0.6,
+              "language": "Italian",
+              "domain": "medical",
+              "found": true
+            },
+            {
+              "voynich": "sal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "lkeey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "sar",
+              "meaning": "barley",
+              "confidence": 0.65,
+              "language": "Hebrew",
+              "domain": "botanical",
+              "found": true
+            },
+            {
+              "voynich": "ain",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ok",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chedy",
+              "meaning": "is/has (verb)",
+              "confidence": 0.6,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            }
+          ],
+          "reconstructed": "[?] [?] [?] [?] chest [?] [?] to/for finger [?] verb form barley [?] [?] is/has verb",
+          "score": 0.393,
+          "quality": "partial",
+          "word_count": 15,
+          "translated_count": 6,
+          "rate": 0.4
+        },
+        {
+          "line_id": "f103r.3",
+          "folio": "f103r",
+          "voynich": "yshdain.sheek.cheoty.chokal.chedy.chckhy.or.orol.okain.chal.ot.kar.ot.chym",
+          "words": [
+            "yshdain",
+            "sheek",
+            "cheoty",
+            "chokal",
+            "chedy",
+            "chckhy",
+            "or",
+            "orol",
+            "okain",
+            "chal",
+            "ot",
+            "kar",
+            "ot",
+            "chym"
+          ],
+          "translations": [
+            {
+              "voynich": "yshdain",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "sheek",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "cheoty",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chokal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chedy",
+              "meaning": "is/has (verb)",
+              "confidence": 0.6,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "chckhy",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "or",
+              "meaning": "or/and",
+              "confidence": 0.6,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "orol",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "okain",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chal",
+              "meaning": "sick (choleh)",
+              "confidence": 0.7,
+              "language": "Hebrew",
+              "domain": "medical",
+              "found": true
+            },
+            {
+              "voynich": "ot",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "kar",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ot",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chym",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?] [?] [?] [?] is/has verb verb form or/and [?] [?] sick choleh [?] [?] [?] [?]",
+          "score": 0.362,
+          "quality": "fragmented",
+          "word_count": 14,
+          "translated_count": 4,
+          "rate": 0.286
+        },
+        {
+          "line_id": "f103r.4",
+          "folio": "f103r",
+          "voynich": "ychedy.qokedy.okedy.qokeey.okey.chdarol.loty.chedar.aly",
+          "words": [
+            "ychedy",
+            "qokedy",
+            "okedy",
+            "qokeey",
+            "okey",
+            "chdarol",
+            "loty",
+            "chedar",
+            "aly"
+          ],
+          "translations": [
+            {
+              "voynich": "ychedy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "qokedy",
+              "meaning": "the-verb form",
+              "confidence": 0.44000000000000006,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "okedy",
+              "meaning": "(verb form)",
+              "confidence": 0.385,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "qokeey",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "okey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "chdarol",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "loty",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chedar",
+              "meaning": "unknown",
+              "confidence": 0.4,
+              "language": "unknown",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "aly",
+              "meaning": "verb (unknown)",
+              "confidence": 0.6,
+              "language": "inferred",
+              "domain": "grammar",
+              "found": true
+            }
+          ],
+          "reconstructed": "[?] the verb form (verb form) the (+ noun) verb form [?] [?] unknown verb unknown",
+          "score": 0.495,
+          "quality": "partial",
+          "word_count": 9,
+          "translated_count": 6,
+          "rate": 0.667
+        },
+        {
+          "line_id": "f103r.5",
+          "folio": "f103r",
+          "voynich": "pocharal.okedar.shedy.oteey.qokey.lkar.sheeky.okalor.shedy.rkar.otan.okdy",
+          "words": [
+            "pocharal",
+            "okedar",
+            "shedy",
+            "oteey",
+            "qokey",
+            "lkar",
+            "sheeky",
+            "okalor",
+            "shedy",
+            "rkar",
+            "otan",
+            "okdy"
+          ],
+          "translations": [
+            {
+              "voynich": "pocharal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "okedar",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "shedy",
+              "meaning": "which/that",
+              "confidence": 0.55,
+              "language": "Grammar",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "oteey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "qokey",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "lkar",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "sheeky",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "okalor",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "shedy",
+              "meaning": "which/that",
+              "confidence": 0.55,
+              "language": "Grammar",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "rkar",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "otan",
+              "meaning": "fig",
+              "confidence": 0.65,
+              "language": "Hebrew",
+              "domain": "botanical",
+              "found": true
+            },
+            {
+              "voynich": "okdy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?] [?] which/that verb form the (+ noun) [?] [?] [?] which/that [?] fig [?]",
+          "score": 0.374,
+          "quality": "partial",
+          "word_count": 12,
+          "translated_count": 5,
+          "rate": 0.417
+        },
+        {
+          "line_id": "f103r.6",
+          "folio": "f103r",
+          "voynich": "ocheey.dain.shek.okeedy.okey.shedy.qokealdy.shcthy.qotedy.qot.san.am",
+          "words": [
+            "ocheey",
+            "dain",
+            "shek",
+            "okeedy",
+            "okey",
+            "shedy",
+            "qokealdy",
+            "shcthy",
+            "qotedy",
+            "qot",
+            "san",
+            "am"
+          ],
+          "translations": [
+            {
+              "voynich": "ocheey",
+              "meaning": "(verb form)",
+              "confidence": 0.385,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "dain",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "shek",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "okeedy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "okey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "shedy",
+              "meaning": "which/that",
+              "confidence": 0.55,
+              "language": "Grammar",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "qokealdy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "shcthy",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "qotedy",
+              "meaning": "finger",
+              "confidence": 0.6,
+              "language": "Italian",
+              "domain": "medical",
+              "found": true
+            },
+            {
+              "voynich": "qot",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "san",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "am",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "(verb form) [?] [?] [?] verb form which/that [?] verb form finger [?] [?] [?]",
+          "score": 0.375,
+          "quality": "partial",
+          "word_count": 12,
+          "translated_count": 5,
+          "rate": 0.417
+        },
+        {
+          "line_id": "f103r.7",
+          "folio": "f103r",
+          "voynich": "sain.chey.she.olshedy.qokeey.okeeody.qoeedy.olshedy",
+          "words": [
+            "sain",
+            "chey",
+            "she",
+            "olshedy",
+            "qokeey",
+            "okeeody",
+            "qoeedy",
+            "olshedy"
+          ],
+          "translations": [
+            {
+              "voynich": "sain",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chey",
+              "meaning": "verbal/adjectival",
+              "confidence": 0.5,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "she",
+              "meaning": "preposition/conjunction",
+              "confidence": 0.5,
+              "language": "inferred",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "olshedy",
+              "meaning": "(verb form)",
+              "confidence": 0.385,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "qokeey",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "okeeody",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "qoeedy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "olshedy",
+              "meaning": "(verb form)",
+              "confidence": 0.385,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            }
+          ],
+          "reconstructed": "[?] verbal/adjectival preposition/conjunction (verb form) the (+ noun) [?] [?] (verb form)",
+          "score": 0.467,
+          "quality": "partial",
+          "word_count": 8,
+          "translated_count": 5,
+          "rate": 0.625
+        },
+        {
+          "line_id": "f103r.8",
+          "folio": "f103r",
+          "voynich": "daroal.okey.chedy.okey.rain.okechy.qoisol.qotar.adchey.ofcho.lteody.oral.kechdy.lo",
+          "words": [
+            "daroal",
+            "okey",
+            "chedy",
+            "okey",
+            "rain",
+            "okechy",
+            "qoisol",
+            "qotar",
+            "adchey",
+            "ofcho",
+            "lteody",
+            "oral",
+            "kechdy",
+            "lo"
+          ],
+          "translations": [
+            {
+              "voynich": "daroal",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "okey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "chedy",
+              "meaning": "is/has (verb)",
+              "confidence": 0.6,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "okey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "rain",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "okechy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "qoisol",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "qotar",
+              "meaning": "the (+ noun)",
+              "confidence": 0.6,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "adchey",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "ofcho",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "lteody",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "oral",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "kechdy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "lo",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "[?] verb form is/has verb verb form [?] [?] [?] the (+ noun) [?] [?] [?] [?] [?] [?]",
+          "score": 0.362,
+          "quality": "fragmented",
+          "word_count": 14,
+          "translated_count": 4,
+          "rate": 0.286
+        },
+        {
+          "line_id": "f103r.9",
+          "folio": "f103r",
+          "voynich": "oteeos.ar.cheal.okeey.shey.lkaiin.shey.lkeor.otain.shedy.otey.l.ledy.okeedaram",
+          "words": [
+            "oteeos",
+            "ar",
+            "cheal",
+            "okeey",
+            "shey",
+            "lkaiin",
+            "shey",
+            "lkeor",
+            "otain",
+            "shedy",
+            "otey",
+            "ledy",
+            "okeedaram"
+          ],
+          "translations": [
+            {
+              "voynich": "oteeos",
+              "meaning": "tree",
+              "confidence": 0.65,
+              "language": "Hebrew",
+              "domain": "botanical",
+              "found": true
+            },
+            {
+              "voynich": "ar",
+              "meaning": "to/for",
+              "confidence": 0.65,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "cheal",
+              "meaning": "sick",
+              "confidence": 0.4,
+              "language": "Hebrew",
+              "domain": "medical",
+              "found": true
+            },
+            {
+              "voynich": "okeey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "shey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "lkaiin",
+              "meaning": "priest/cohen",
+              "confidence": 0.6,
+              "language": "Hebrew",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "shey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "lkeor",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "otain",
+              "meaning": "fig",
+              "confidence": 0.65,
+              "language": "Hebrew",
+              "domain": "botanical",
+              "found": true
+            },
+            {
+              "voynich": "shedy",
+              "meaning": "which/that",
+              "confidence": 0.55,
+              "language": "Grammar",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "otey",
+              "meaning": "verb form",
+              "confidence": 0.55,
+              "language": "unknown",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "ledy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "okeedaram",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "tree to/for sick verb form verb form priest/cohen verb form [?] fig which/that verb form [?] [?]",
+          "score": 0.541,
+          "quality": "partial",
+          "word_count": 13,
+          "translated_count": 10,
+          "rate": 0.769
+        },
+        {
+          "line_id": "f103r.10",
+          "folio": "f103r",
+          "voynich": "daiin.ol.oain.okeol.chal.okam.chety.shedy.otaiin.shedy.teolshy.oteedy.sarain",
+          "words": [
+            "daiin",
+            "ol",
+            "oain",
+            "okeol",
+            "chal",
+            "okam",
+            "chety",
+            "shedy",
+            "otaiin",
+            "shedy",
+            "teolshy",
+            "oteedy",
+            "sarain"
+          ],
+          "translations": [
+            {
+              "voynich": "daiin",
+              "meaning": "of the/from",
+              "confidence": 0.7,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "ol",
+              "meaning": "the/of",
+              "confidence": 0.7,
+              "language": "Grammar",
+              "domain": "grammar",
+              "found": true
+            },
+            {
+              "voynich": "oain",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "okeol",
+              "meaning": "all/voice",
+              "confidence": 1.0,
+              "language": "Hebrew",
+              "domain": "general",
+              "found": true
+            },
+            {
+              "voynich": "chal",
+              "meaning": "sick (choleh)",
+              "confidence": 0.7,
+              "language": "Hebrew",
+              "domain": "medical",
+              "found": true
+            },
+            {
+              "voynich": "okam",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "chety",
+              "meaning": "wheat",
+              "confidence": 0.6,
+              "language": "Hebrew",
+              "domain": "botanical",
+              "found": true
+            },
+            {
+              "voynich": "shedy",
+              "meaning": "which/that",
+              "confidence": 0.55,
+              "language": "Grammar",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "otaiin",
+              "meaning": "fig",
+              "confidence": 0.65,
+              "language": "Hebrew",
+              "domain": "botanical",
+              "found": true
+            },
+            {
+              "voynich": "shedy",
+              "meaning": "which/that",
+              "confidence": 0.55,
+              "language": "Grammar",
+              "domain": "other",
+              "found": true
+            },
+            {
+              "voynich": "teolshy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "oteedy",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            },
+            {
+              "voynich": "sarain",
+              "meaning": "?",
+              "confidence": 0,
+              "language": "unknown",
+              "domain": "unknown",
+              "found": false
+            }
+          ],
+          "reconstructed": "of the/from the/of [?] all/voice sick choleh [?] wheat which/that fig which/that [?] [?] [?]",
+          "score": 0.545,
+          "quality": "readable",
+          "word_count": 13,
+          "translated_count": 8,
+          "rate": 0.615
+        }
+      ]
+    }
+  },
+  "top_translations": [
+    {
+      "section": "zodiac",
+      "line_id": "f69v.13",
+      "folio": "f69v",
+      "voynich": "okeol",
+      "words": [
+        "okeol"
+      ],
+      "translations": [
+        {
+          "voynich": "okeol",
+          "meaning": "all/voice",
+          "confidence": 1.0,
+          "language": "Hebrew",
+          "domain": "general",
+          "found": true
+        }
+      ],
+      "reconstructed": "all/voice",
+      "score": 0.9,
+      "quality": "readable",
+      "word_count": 1,
+      "translated_count": 1,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f73r.17",
+      "folio": "f73r",
+      "voynich": "chdy",
+      "words": [
+        "chdy"
+      ],
+      "translations": [
+        {
+          "voynich": "chdy",
+          "meaning": "one",
+          "confidence": 1.0,
+          "language": "Hebrew",
+          "domain": "general",
+          "found": true
+        }
+      ],
+      "reconstructed": "one",
+      "score": 0.9,
+      "quality": "readable",
+      "word_count": 1,
+      "translated_count": 1,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f73v.1",
+      "folio": "f73v",
+      "voynich": "okol",
+      "words": [
+        "okol"
+      ],
+      "translations": [
+        {
+          "voynich": "okol",
+          "meaning": "all/voice",
+          "confidence": 1.0,
+          "language": "Hebrew",
+          "domain": "general",
+          "found": true
+        }
+      ],
+      "reconstructed": "all/voice",
+      "score": 0.9,
+      "quality": "readable",
+      "word_count": 1,
+      "translated_count": 1,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f73v.27",
+      "folio": "f73v",
+      "voynich": "okal",
+      "words": [
+        "okal"
+      ],
+      "translations": [
+        {
+          "voynich": "okal",
+          "meaning": "all/voice",
+          "confidence": 1.0,
+          "language": "Hebrew",
+          "domain": "general",
+          "found": true
+        }
+      ],
+      "reconstructed": "all/voice",
+      "score": 0.9,
+      "quality": "readable",
+      "word_count": 1,
+      "translated_count": 1,
+      "rate": 1.0
+    },
+    {
+      "section": "biological",
+      "line_id": "f82r.36",
+      "folio": "f82r",
+      "voynich": "okal",
+      "words": [
+        "okal"
+      ],
+      "translations": [
+        {
+          "voynich": "okal",
+          "meaning": "all/voice",
+          "confidence": 1.0,
+          "language": "Hebrew",
+          "domain": "general",
+          "found": true
+        }
+      ],
+      "reconstructed": "all/voice",
+      "score": 0.9,
+      "quality": "readable",
+      "word_count": 1,
+      "translated_count": 1,
+      "rate": 1.0
+    },
+    {
+      "section": "biological",
+      "line_id": "f82v.44",
+      "folio": "f82v",
+      "voynich": "okol",
+      "words": [
+        "okol"
+      ],
+      "translations": [
+        {
+          "voynich": "okol",
+          "meaning": "all/voice",
+          "confidence": 1.0,
+          "language": "Hebrew",
+          "domain": "general",
+          "found": true
+        }
+      ],
+      "reconstructed": "all/voice",
+      "score": 0.9,
+      "quality": "readable",
+      "word_count": 1,
+      "translated_count": 1,
+      "rate": 1.0
+    },
+    {
+      "section": "recipes",
+      "line_id": "f107r.23",
+      "folio": "f107r",
+      "voynich": "chodaiin.shar.chodaiin",
+      "words": [
+        "chodaiin",
+        "shar",
+        "chodaiin"
+      ],
+      "translations": [
+        {
+          "voynich": "chodaiin",
+          "meaning": "priest",
+          "confidence": 0.88,
+          "language": "Hebrew",
+          "domain": "religious",
+          "found": true
+        },
+        {
+          "voynich": "shar",
+          "meaning": "root (shoresh)",
+          "confidence": 0.7,
+          "language": "Hebrew",
+          "domain": "botanical",
+          "found": true
+        },
+        {
+          "voynich": "chodaiin",
+          "meaning": "priest",
+          "confidence": 0.88,
+          "language": "Hebrew",
+          "domain": "religious",
+          "found": true
+        }
+      ],
+      "reconstructed": "priest root shoresh priest",
+      "score": 0.879,
+      "quality": "readable",
+      "word_count": 3,
+      "translated_count": 3,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f66r.19",
+      "folio": "f66r",
+      "voynich": "sh",
+      "words": [
+        "sh"
+      ],
+      "translations": [
+        {
+          "voynich": "sh",
+          "meaning": "fire",
+          "confidence": 0.92,
+          "language": "Hebrew",
+          "domain": "general",
+          "found": true
+        }
+      ],
+      "reconstructed": "fire",
+      "score": 0.876,
+      "quality": "readable",
+      "word_count": 1,
+      "translated_count": 1,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f66r.28",
+      "folio": "f66r",
+      "voynich": "sh",
+      "words": [
+        "sh"
+      ],
+      "translations": [
+        {
+          "voynich": "sh",
+          "meaning": "fire",
+          "confidence": 0.92,
+          "language": "Hebrew",
+          "domain": "general",
+          "found": true
+        }
+      ],
+      "reconstructed": "fire",
+      "score": 0.876,
+      "quality": "readable",
+      "word_count": 1,
+      "translated_count": 1,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f73v.4",
+      "folio": "f73v",
+      "voynich": "cheody",
+      "words": [
+        "cheody"
+      ],
+      "translations": [
+        {
+          "voynich": "cheody",
+          "meaning": "one",
+          "confidence": 0.92,
+          "language": "Hebrew",
+          "domain": "general",
+          "found": true
+        }
+      ],
+      "reconstructed": "one",
+      "score": 0.876,
+      "quality": "readable",
+      "word_count": 1,
+      "translated_count": 1,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f73v.24",
+      "folio": "f73v",
+      "voynich": "ched",
+      "words": [
+        "ched"
+      ],
+      "translations": [
+        {
+          "voynich": "ched",
+          "meaning": "one",
+          "confidence": 0.92,
+          "language": "Hebrew",
+          "domain": "general",
+          "found": true
+        }
+      ],
+      "reconstructed": "one",
+      "score": 0.876,
+      "quality": "readable",
+      "word_count": 1,
+      "translated_count": 1,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f73v.7",
+      "folio": "f73v",
+      "voynich": "sheol",
+      "words": [
+        "sheol"
+      ],
+      "translations": [
+        {
+          "voynich": "sheol",
+          "meaning": "tongue",
+          "confidence": 0.88,
+          "language": "Hebrew",
+          "domain": "medical",
+          "found": true
+        }
+      ],
+      "reconstructed": "tongue",
+      "score": 0.864,
+      "quality": "readable",
+      "word_count": 1,
+      "translated_count": 1,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f69r.27",
+      "folio": "f69r",
+      "voynich": "okchol.qokol.dalo",
+      "words": [
+        "okchol",
+        "qokol",
+        "dalo"
+      ],
+      "translations": [
+        {
+          "voynich": "okchol",
+          "meaning": "nettle",
+          "confidence": 0.88,
+          "language": "Hebrew",
+          "domain": "botanical",
+          "found": true
+        },
+        {
+          "voynich": "qokol",
+          "meaning": "the-all/voice",
+          "confidence": 0.7360000000000001,
+          "language": "Hebrew",
+          "domain": "general",
+          "found": true
+        },
+        {
+          "voynich": "dalo",
+          "meaning": "Aquarius (bucket)",
+          "confidence": 1.0,
+          "language": "Hebrew",
+          "domain": "astronomical",
+          "found": true
+        }
+      ],
+      "reconstructed": "nettle the all/voice Aquarius bucket",
+      "score": 0.862,
+      "quality": "readable",
+      "word_count": 3,
+      "translated_count": 3,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f69r.29",
+      "folio": "f69r",
+      "voynich": "dary.dar.aloly",
+      "words": [
+        "dary",
+        "dar",
+        "aloly"
+      ],
+      "translations": [
+        {
+          "voynich": "dary",
+          "meaning": "verb (unknown)",
+          "confidence": 0.6,
+          "language": "inferred",
+          "domain": "grammar",
+          "found": true
+        },
+        {
+          "voynich": "dar",
+          "meaning": "Adar (month)",
+          "confidence": 1.0,
+          "language": "Hebrew",
+          "domain": "astronomical",
+          "found": true
+        },
+        {
+          "voynich": "aloly",
+          "meaning": "Elul (month)",
+          "confidence": 1.0,
+          "language": "Hebrew",
+          "domain": "astronomical",
+          "found": true
+        }
+      ],
+      "reconstructed": "verb unknown Adar month Elul month",
+      "score": 0.827,
+      "quality": "readable",
+      "word_count": 3,
+      "translated_count": 3,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f69v.30",
+      "folio": "f69v",
+      "voynich": "okchey.s",
+      "words": [
+        "okchey"
+      ],
+      "translations": [
+        {
+          "voynich": "okchey",
+          "meaning": "strength (koach)",
+          "confidence": 0.7,
+          "language": "Hebrew",
+          "domain": "other",
+          "found": true
+        }
+      ],
+      "reconstructed": "strength koach",
+      "score": 0.81,
+      "quality": "readable",
+      "word_count": 1,
+      "translated_count": 1,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f71v.2",
+      "folio": "f71v",
+      "voynich": "char.orom",
+      "words": [
+        "char",
+        "orom"
+      ],
+      "translations": [
+        {
+          "voynich": "char",
+          "meaning": "hole/pierce (chor)",
+          "confidence": 0.7,
+          "language": "Hebrew",
+          "domain": "other",
+          "found": true
+        },
+        {
+          "voynich": "orom",
+          "meaning": "branch",
+          "confidence": 0.7,
+          "language": "Italian",
+          "domain": "botanical",
+          "found": true
+        }
+      ],
+      "reconstructed": "hole/pierce chor branch",
+      "score": 0.81,
+      "quality": "readable",
+      "word_count": 2,
+      "translated_count": 2,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f71v.16",
+      "folio": "f71v",
+      "voynich": "otar.shor",
+      "words": [
+        "otar",
+        "shor"
+      ],
+      "translations": [
+        {
+          "voynich": "otar",
+          "meaning": "earth",
+          "confidence": 0.7,
+          "language": "Italian",
+          "domain": "medical",
+          "found": true
+        },
+        {
+          "voynich": "shor",
+          "meaning": "root (shoresh)",
+          "confidence": 0.7,
+          "language": "Hebrew",
+          "domain": "botanical",
+          "found": true
+        }
+      ],
+      "reconstructed": "earth root shoresh",
+      "score": 0.81,
+      "quality": "readable",
+      "word_count": 2,
+      "translated_count": 2,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f73r.20",
+      "folio": "f73r",
+      "voynich": "okeos",
+      "words": [
+        "okeos"
+      ],
+      "translations": [
+        {
+          "voynich": "okeos",
+          "meaning": "is (essere)",
+          "confidence": 0.7,
+          "language": "Italian",
+          "domain": "grammar",
+          "found": true
+        }
+      ],
+      "reconstructed": "is essere",
+      "score": 0.81,
+      "quality": "readable",
+      "word_count": 1,
+      "translated_count": 1,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f73r.32",
+      "folio": "f73r",
+      "voynich": "okeos",
+      "words": [
+        "okeos"
+      ],
+      "translations": [
+        {
+          "voynich": "okeos",
+          "meaning": "is (essere)",
+          "confidence": 0.7,
+          "language": "Italian",
+          "domain": "grammar",
+          "found": true
+        }
+      ],
+      "reconstructed": "is essere",
+      "score": 0.81,
+      "quality": "readable",
+      "word_count": 1,
+      "translated_count": 1,
+      "rate": 1.0
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f73v.19",
+      "folio": "f73v",
+      "voynich": "okeos",
+      "words": [
+        "okeos"
+      ],
+      "translations": [
+        {
+          "voynich": "okeos",
+          "meaning": "is (essere)",
+          "confidence": 0.7,
+          "language": "Italian",
+          "domain": "grammar",
+          "found": true
+        }
+      ],
+      "reconstructed": "is essere",
+      "score": 0.81,
+      "quality": "readable",
+      "word_count": 1,
+      "translated_count": 1,
+      "rate": 1.0
+    }
+  ],
+  "hebrew_strong_lines": [
+    {
+      "section": "zodiac",
+      "line_id": "f69v.13",
+      "hebrew_ratio": 1.0,
+      "reconstructed": "all/voice",
+      "score": 0.9
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f73r.17",
+      "hebrew_ratio": 1.0,
+      "reconstructed": "one",
+      "score": 0.9
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f73v.1",
+      "hebrew_ratio": 1.0,
+      "reconstructed": "all/voice",
+      "score": 0.9
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f73v.27",
+      "hebrew_ratio": 1.0,
+      "reconstructed": "all/voice",
+      "score": 0.9
+    },
+    {
+      "section": "biological",
+      "line_id": "f82r.36",
+      "hebrew_ratio": 1.0,
+      "reconstructed": "all/voice",
+      "score": 0.9
+    },
+    {
+      "section": "biological",
+      "line_id": "f82v.44",
+      "hebrew_ratio": 1.0,
+      "reconstructed": "all/voice",
+      "score": 0.9
+    },
+    {
+      "section": "recipes",
+      "line_id": "f107r.23",
+      "hebrew_ratio": 1.0,
+      "reconstructed": "priest root shoresh priest",
+      "score": 0.879
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f66r.19",
+      "hebrew_ratio": 1.0,
+      "reconstructed": "fire",
+      "score": 0.876
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f66r.28",
+      "hebrew_ratio": 1.0,
+      "reconstructed": "fire",
+      "score": 0.876
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f73v.4",
+      "hebrew_ratio": 1.0,
+      "reconstructed": "one",
+      "score": 0.876
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f73v.24",
+      "hebrew_ratio": 1.0,
+      "reconstructed": "one",
+      "score": 0.876
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f73v.7",
+      "hebrew_ratio": 1.0,
+      "reconstructed": "tongue",
+      "score": 0.864
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f69r.27",
+      "hebrew_ratio": 1.0,
+      "reconstructed": "nettle the all/voice Aquarius bucket",
+      "score": 0.862
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f69r.29",
+      "hebrew_ratio": 0.67,
+      "reconstructed": "verb unknown Adar month Elul month",
+      "score": 0.827
+    },
+    {
+      "section": "zodiac",
+      "line_id": "f69v.30",
+      "hebrew_ratio": 1.0,
+      "reconstructed": "strength koach",
+      "score": 0.81
+    }
+  ]
+}

@@ -1,0 +1,1467 @@
+{
+  "sources_consulted": [
+    "Maimonides - Medical Aphorisms (12th century)",
+    "Maimonides - Treatise on Asthma",
+    "Maimonides - Regimen of Health",
+    "Maimonides - Glossary of Drug Names",
+    "Mishnah/Talmud botanical terminology",
+    "Hebrew astronomical terminology",
+    "Seven Species of Israel",
+    "Five Grains of Jewish Law",
+    "Medieval Hebrew medical manuscripts",
+    "Cairo Genizah medical notebooks"
+  ],
+  "hebrew_vocabulary_total": 137,
+  "voynich_words_analyzed": 8620,
+  "matches_found": 2265,
+  "validated_matches": 17541,
+  "conflicts": 2981,
+  "botanical_matches": [
+    {
+      "voynich": "olchor",
+      "hebrew": "חרול",
+      "meaning": "nettle",
+      "score": 1.0
+    },
+    {
+      "voynich": "olchor",
+      "hebrew": "פרח",
+      "meaning": "flower",
+      "score": 0.75
+    },
+    {
+      "voynich": "olchor",
+      "hebrew": "חיטה",
+      "meaning": "wheat",
+      "score": 0.5
+    },
+    {
+      "voynich": "olchor",
+      "hebrew": "עלה",
+      "meaning": "leaf",
+      "score": 0.5
+    },
+    {
+      "voynich": "olchor",
+      "hebrew": "תפוח",
+      "meaning": "apple",
+      "score": 0.5
+    },
+    {
+      "voynich": "olchor",
+      "hebrew": "שמר",
+      "meaning": "fennel",
+      "score": 0.5
+    },
+    {
+      "voynich": "dchy",
+      "hebrew": "חיטה",
+      "meaning": "wheat",
+      "score": 0.6666666666666666
+    },
+    {
+      "voynich": "dchy",
+      "hebrew": "שקד",
+      "meaning": "almond",
+      "score": 0.5
+    },
+    {
+      "voynich": "dchy",
+      "hebrew": "פרח",
+      "meaning": "flower",
+      "score": 0.5
+    },
+    {
+      "voynich": "dchy",
+      "hebrew": "תפוח",
+      "meaning": "apple",
+      "score": 0.5
+    },
+    {
+      "voynich": "dchy",
+      "hebrew": "חרול",
+      "meaning": "nettle",
+      "score": 0.5
+    },
+    {
+      "voynich": "otechy",
+      "hebrew": "חיטה",
+      "meaning": "wheat",
+      "score": 1.0
+    },
+    {
+      "voynich": "otechy",
+      "hebrew": "תפוח",
+      "meaning": "apple",
+      "score": 0.75
+    },
+    {
+      "voynich": "otechy",
+      "hebrew": "פרח",
+      "meaning": "flower",
+      "score": 0.5
+    },
+    {
+      "voynich": "otechy",
+      "hebrew": "חרול",
+      "meaning": "nettle",
+      "score": 0.5
+    },
+    {
+      "voynich": "lsho",
+      "hebrew": "עלה",
+      "meaning": "leaf",
+      "score": 0.6666666666666666
+    },
+    {
+      "voynich": "lsho",
+      "hebrew": "שום",
+      "meaning": "garlic",
+      "score": 0.6666666666666666
+    },
+    {
+      "voynich": "lsho",
+      "hebrew": "שקד",
+      "meaning": "almond",
+      "score": 0.5
+    },
+    {
+      "voynich": "lsho",
+      "hebrew": "בצל",
+      "meaning": "onion",
+      "score": 0.5
+    },
+    {
+      "voynich": "lsho",
+      "hebrew": "חרול",
+      "meaning": "nettle",
+      "score": 0.5
+    }
+  ],
+  "medical_matches": [
+    {
+      "voynich": "olchor",
+      "hebrew": "חולה",
+      "meaning": "sick person",
+      "score": 0.75
+    },
+    {
+      "voynich": "olchor",
+      "hebrew": "חולי",
+      "meaning": "sickness",
+      "score": 0.75
+    },
+    {
+      "voynich": "olchor",
+      "hebrew": "חלב",
+      "meaning": "milk",
+      "score": 0.75
+    },
+    {
+      "voynich": "olchor",
+      "hebrew": "מלח",
+      "meaning": "salt",
+      "score": 0.75
+    },
+    {
+      "voynich": "olchor",
+      "hebrew": "ראש",
+      "meaning": "head",
+      "score": 0.5
+    },
+    {
+      "voynich": "olchor",
+      "hebrew": "רגל",
+      "meaning": "foot/leg",
+      "score": 0.5
+    },
+    {
+      "voynich": "olchor",
+      "hebrew": "ריאה",
+      "meaning": "lung",
+      "score": 0.5
+    },
+    {
+      "voynich": "olchor",
+      "hebrew": "לשון",
+      "meaning": "tongue",
+      "score": 0.5
+    },
+    {
+      "voynich": "olchor",
+      "hebrew": "חזה",
+      "meaning": "chest",
+      "score": 0.5
+    },
+    {
+      "voynich": "okeoldy",
+      "hebrew": "כבד",
+      "meaning": "liver",
+      "score": 0.6666666666666666
+    },
+    {
+      "voynich": "okeoldy",
+      "hebrew": "כליה",
+      "meaning": "kidney",
+      "score": 0.6666666666666666
+    },
+    {
+      "voynich": "cheed",
+      "hebrew": "חולה",
+      "meaning": "sick person",
+      "score": 0.6666666666666666
+    },
+    {
+      "voynich": "cheed",
+      "hebrew": "חולי",
+      "meaning": "sickness",
+      "score": 0.6666666666666666
+    },
+    {
+      "voynich": "cheed",
+      "hebrew": "קדחת",
+      "meaning": "fever",
+      "score": 0.6
+    },
+    {
+      "voynich": "cheed",
+      "hebrew": "חלב",
+      "meaning": "milk",
+      "score": 0.5
+    },
+    {
+      "voynich": "cheed",
+      "hebrew": "דבש",
+      "meaning": "honey",
+      "score": 0.5
+    },
+    {
+      "voynich": "cheed",
+      "hebrew": "מלח",
+      "meaning": "salt",
+      "score": 0.5
+    },
+    {
+      "voynich": "cheed",
+      "hebrew": "חזה",
+      "meaning": "chest",
+      "score": 0.5
+    },
+    {
+      "voynich": "dchy",
+      "hebrew": "חולה",
+      "meaning": "sick person",
+      "score": 0.6666666666666666
+    },
+    {
+      "voynich": "dchy",
+      "hebrew": "חולי",
+      "meaning": "sickness",
+      "score": 0.6666666666666666
+    }
+  ],
+  "astronomical_matches": [
+    {
+      "voynich": "dchy",
+      "hebrew": "חמה",
+      "meaning": "sun (hot)",
+      "score": 0.6666666666666666
+    },
+    {
+      "voynich": "dchy",
+      "hebrew": "ירח",
+      "meaning": "moon",
+      "score": 0.5
+    },
+    {
+      "voynich": "sher",
+      "hebrew": "שור",
+      "meaning": "Taurus (ox)",
+      "score": 1.0
+    },
+    {
+      "voynich": "otol",
+      "hebrew": "טלה",
+      "meaning": "Aries (lamb)",
+      "score": 0.7
+    },
+    {
+      "voynich": "otol",
+      "hebrew": "בתולה",
+      "meaning": "Virgo (virgin)",
+      "score": 0.6
+    },
+    {
+      "voynich": "alod",
+      "hebrew": "דלי",
+      "meaning": "Aquarius (bucket)",
+      "score": 1.0
+    },
+    {
+      "voynich": "qopchey",
+      "hebrew": "ירח",
+      "meaning": "moon",
+      "score": 0.5
+    },
+    {
+      "voynich": "qopchey",
+      "hebrew": "חמה",
+      "meaning": "sun (hot)",
+      "score": 0.5
+    },
+    {
+      "voynich": "qopchey",
+      "hebrew": "קשת",
+      "meaning": "Sagittarius (bow)",
+      "score": 0.5
+    },
+    {
+      "voynich": "oksedy",
+      "hebrew": "כסלו",
+      "meaning": "Kislev (month)",
+      "score": 0.5
+    },
+    {
+      "voynich": "alys",
+      "hebrew": "כסלו",
+      "meaning": "Kislev (month)",
+      "score": 0.5
+    },
+    {
+      "voynich": "daiir",
+      "hebrew": "אדר",
+      "meaning": "Adar (month)",
+      "score": 1.0
+    },
+    {
+      "voynich": "chotal",
+      "hebrew": "טלה",
+      "meaning": "Aries (lamb)",
+      "score": 0.75
+    },
+    {
+      "voynich": "chotal",
+      "hebrew": "ירח",
+      "meaning": "moon",
+      "score": 0.5
+    },
+    {
+      "voynich": "chotal",
+      "hebrew": "חמה",
+      "meaning": "sun (hot)",
+      "score": 0.5
+    },
+    {
+      "voynich": "chotal",
+      "hebrew": "בתולה",
+      "meaning": "Virgo (virgin)",
+      "score": 0.5
+    },
+    {
+      "voynich": "chotal",
+      "hebrew": "קשת",
+      "meaning": "Sagittarius (bow)",
+      "score": 0.5
+    },
+    {
+      "voynich": "chotal",
+      "hebrew": "תשרי",
+      "meaning": "Tishrei (month)",
+      "score": 0.5
+    },
+    {
+      "voynich": "chotal",
+      "hebrew": "שבט",
+      "meaning": "Shevat (month)",
+      "score": 0.5
+    },
+    {
+      "voynich": "ytchy",
+      "hebrew": "חמה",
+      "meaning": "sun (hot)",
+      "score": 0.6666666666666666
+    }
+  ],
+  "new_entries": [
+    {
+      "voynich": "dar",
+      "hebrew": "אדר",
+      "hebrew_term": "adar",
+      "meaning": "Adar (month)",
+      "domain": "astronomical",
+      "confidence": 1.0,
+      "frequency": 304,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "chdy",
+      "hebrew": "אחד",
+      "hebrew_term": "echad",
+      "meaning": "one",
+      "domain": "general",
+      "confidence": 1.0,
+      "frequency": 151,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "okal",
+      "hebrew": "כל",
+      "hebrew_term": "kol",
+      "meaning": "all/voice",
+      "domain": "general",
+      "confidence": 1.0,
+      "frequency": 136,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "dair",
+      "hebrew": "אדר",
+      "hebrew_term": "adar",
+      "meaning": "Adar (month)",
+      "domain": "astronomical",
+      "confidence": 1.0,
+      "frequency": 100,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "dam",
+      "hebrew": "דם",
+      "hebrew_term": "dam",
+      "meaning": "blood",
+      "domain": "medical",
+      "confidence": 1.0,
+      "frequency": 95,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "okol",
+      "hebrew": "כל",
+      "hebrew_term": "kol",
+      "meaning": "all/voice",
+      "domain": "general",
+      "confidence": 1.0,
+      "frequency": 79,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "okeol",
+      "hebrew": "כל",
+      "hebrew_term": "kol",
+      "meaning": "all/voice",
+      "domain": "general",
+      "confidence": 1.0,
+      "frequency": 65,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "cheky",
+      "hebrew": "כח",
+      "hebrew_term": "koach",
+      "meaning": "strength/power",
+      "domain": "general",
+      "confidence": 1.0,
+      "frequency": 64,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "sheor",
+      "hebrew": "ראש",
+      "hebrew_term": "rosh",
+      "meaning": "head",
+      "domain": "medical",
+      "confidence": 1.0,
+      "frequency": 51,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "sheo",
+      "hebrew": "אש",
+      "hebrew_term": "esh",
+      "meaning": "fire",
+      "domain": "general",
+      "confidence": 1.0,
+      "frequency": 47,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "choty",
+      "hebrew": "חיטה",
+      "hebrew_term": "chitah",
+      "meaning": "wheat",
+      "domain": "botanical",
+      "confidence": 1.0,
+      "frequency": 36,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "olchey",
+      "hebrew": "חולה",
+      "hebrew_term": "choleh",
+      "meaning": "sick person",
+      "domain": "medical",
+      "confidence": 1.0,
+      "frequency": 28,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "olchey",
+      "hebrew": "חולי",
+      "hebrew_term": "choli",
+      "meaning": "sickness",
+      "domain": "medical",
+      "confidence": 1.0,
+      "frequency": 28,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "qotchdy",
+      "hebrew": "קדחת",
+      "hebrew_term": "kadachat",
+      "meaning": "fever",
+      "domain": "medical",
+      "confidence": 1.0,
+      "frequency": 23,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "tchey",
+      "hebrew": "חיטה",
+      "hebrew_term": "chitah",
+      "meaning": "wheat",
+      "domain": "botanical",
+      "confidence": 1.0,
+      "frequency": 22,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "ctho",
+      "hebrew": "חיטה",
+      "hebrew_term": "chitah",
+      "meaning": "wheat",
+      "domain": "botanical",
+      "confidence": 1.0,
+      "frequency": 14,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "ctheey",
+      "hebrew": "חיטה",
+      "hebrew_term": "chitah",
+      "meaning": "wheat",
+      "domain": "botanical",
+      "confidence": 1.0,
+      "frequency": 13,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "olcheey",
+      "hebrew": "חולה",
+      "hebrew_term": "choleh",
+      "meaning": "sick person",
+      "domain": "medical",
+      "confidence": 1.0,
+      "frequency": 11,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "olcheey",
+      "hebrew": "חולי",
+      "hebrew_term": "choli",
+      "meaning": "sickness",
+      "domain": "medical",
+      "confidence": 1.0,
+      "frequency": 11,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "chotey",
+      "hebrew": "חיטה",
+      "hebrew_term": "chitah",
+      "meaning": "wheat",
+      "domain": "botanical",
+      "confidence": 1.0,
+      "frequency": 9,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "sheeor",
+      "hebrew": "שור",
+      "hebrew_term": "shor",
+      "meaning": "Taurus (ox)",
+      "domain": "astronomical",
+      "confidence": 1.0,
+      "frequency": 9,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "otcho",
+      "hebrew": "חיטה",
+      "hebrew_term": "chitah",
+      "meaning": "wheat",
+      "domain": "botanical",
+      "confidence": 1.0,
+      "frequency": 9,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "cheeol",
+      "hebrew": "חולה",
+      "hebrew_term": "choleh",
+      "meaning": "sick person",
+      "domain": "medical",
+      "confidence": 1.0,
+      "frequency": 9,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "cheeol",
+      "hebrew": "חולי",
+      "hebrew_term": "choli",
+      "meaning": "sickness",
+      "domain": "medical",
+      "confidence": 1.0,
+      "frequency": 9,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "doiir",
+      "hebrew": "אדר",
+      "hebrew_term": "adar",
+      "meaning": "Adar (month)",
+      "domain": "astronomical",
+      "confidence": 1.0,
+      "frequency": 8,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "alody",
+      "hebrew": "דלי",
+      "hebrew_term": "dli",
+      "meaning": "Aquarius (bucket)",
+      "domain": "astronomical",
+      "confidence": 1.0,
+      "frequency": 6,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "opchor",
+      "hebrew": "פרח",
+      "hebrew_term": "perach",
+      "meaning": "flower",
+      "domain": "botanical",
+      "confidence": 1.0,
+      "frequency": 6,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "odair",
+      "hebrew": "אדר",
+      "hebrew_term": "adar",
+      "meaning": "Adar (month)",
+      "domain": "astronomical",
+      "confidence": 1.0,
+      "frequency": 5,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "aloly",
+      "hebrew": "אלול",
+      "hebrew_term": "elul",
+      "meaning": "Elul (month)",
+      "domain": "astronomical",
+      "confidence": 1.0,
+      "frequency": 3,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "dalo",
+      "hebrew": "דלי",
+      "hebrew_term": "dli",
+      "meaning": "Aquarius (bucket)",
+      "domain": "astronomical",
+      "confidence": 1.0,
+      "frequency": 3,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "ald",
+      "hebrew": "דלי",
+      "hebrew_term": "dli",
+      "meaning": "Aquarius (bucket)",
+      "domain": "astronomical",
+      "confidence": 1.0,
+      "frequency": 3,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "doly",
+      "hebrew": "דלי",
+      "hebrew_term": "dli",
+      "meaning": "Aquarius (bucket)",
+      "domain": "astronomical",
+      "confidence": 1.0,
+      "frequency": 3,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "chody",
+      "hebrew": "אחד",
+      "hebrew_term": "echad",
+      "meaning": "one",
+      "domain": "general",
+      "confidence": 0.92,
+      "frequency": 93,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "cheody",
+      "hebrew": "אחד",
+      "hebrew_term": "echad",
+      "meaning": "one",
+      "domain": "general",
+      "confidence": 0.92,
+      "frequency": 88,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "kol",
+      "hebrew": "כל",
+      "hebrew_term": "kol",
+      "meaning": "all/voice",
+      "domain": "general",
+      "confidence": 0.92,
+      "frequency": 37,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "ched",
+      "hebrew": "אחד",
+      "hebrew_term": "echad",
+      "meaning": "one",
+      "domain": "general",
+      "confidence": 0.92,
+      "frequency": 23,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "dchey",
+      "hebrew": "אחד",
+      "hebrew_term": "echad",
+      "meaning": "one",
+      "domain": "general",
+      "confidence": 0.92,
+      "frequency": 17,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "sh",
+      "hebrew": "אש",
+      "hebrew_term": "esh",
+      "meaning": "fire",
+      "domain": "general",
+      "confidence": 0.92,
+      "frequency": 15,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "ykal",
+      "hebrew": "כל",
+      "hebrew_term": "kol",
+      "meaning": "all/voice",
+      "domain": "general",
+      "confidence": 0.92,
+      "frequency": 15,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "cheeor",
+      "hebrew": "רוח",
+      "hebrew_term": "ruach",
+      "meaning": "wind/spirit",
+      "domain": "general",
+      "confidence": 0.92,
+      "frequency": 14,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "chkeey",
+      "hebrew": "כח",
+      "hebrew_term": "koach",
+      "meaning": "strength/power",
+      "domain": "general",
+      "confidence": 0.92,
+      "frequency": 13,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "ykol",
+      "hebrew": "כל",
+      "hebrew_term": "kol",
+      "meaning": "all/voice",
+      "domain": "general",
+      "confidence": 0.92,
+      "frequency": 11,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "qokshd",
+      "hebrew": "קדש",
+      "hebrew_term": "kodesh",
+      "meaning": "holy",
+      "domain": "religious",
+      "confidence": 0.9,
+      "frequency": 3,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "sheol",
+      "hebrew": "לשון",
+      "hebrew_term": "lashon",
+      "meaning": "tongue",
+      "domain": "medical",
+      "confidence": 0.88,
+      "frequency": 112,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "sheedy",
+      "hebrew": "דבש",
+      "hebrew_term": "dvash",
+      "meaning": "honey",
+      "domain": "medical",
+      "confidence": 0.88,
+      "frequency": 84,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "sheedy",
+      "hebrew": "קדש",
+      "hebrew_term": "kodesh",
+      "meaning": "holy",
+      "domain": "religious",
+      "confidence": 0.88,
+      "frequency": 84,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "sheor",
+      "hebrew": "שמר",
+      "hebrew_term": "shemer",
+      "meaning": "fennel",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 51,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "chodaiin",
+      "hebrew": "כהן",
+      "hebrew_term": "cohen",
+      "meaning": "priest",
+      "domain": "religious",
+      "confidence": 0.88,
+      "frequency": 40,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "chodaiin",
+      "hebrew": "כהן",
+      "hebrew_term": "kohen",
+      "meaning": "priest",
+      "domain": "religious",
+      "confidence": 0.88,
+      "frequency": 40,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "choty",
+      "hebrew": "תפוח",
+      "hebrew_term": "tapuach",
+      "meaning": "apple",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 36,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "opchey",
+      "hebrew": "פרח",
+      "hebrew_term": "perach",
+      "meaning": "flower",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 29,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "olchey",
+      "hebrew": "חלב",
+      "hebrew_term": "chalav",
+      "meaning": "milk",
+      "domain": "medical",
+      "confidence": 0.88,
+      "frequency": 28,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "dchor",
+      "hebrew": "ירח",
+      "hebrew_term": "yareach",
+      "meaning": "moon",
+      "domain": "astronomical",
+      "confidence": 0.88,
+      "frequency": 24,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "ckhol",
+      "hebrew": "חרול",
+      "hebrew_term": "charul",
+      "meaning": "nettle",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 22,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "tchey",
+      "hebrew": "תפוח",
+      "hebrew_term": "tapuach",
+      "meaning": "apple",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 22,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "shodaiin",
+      "hebrew": "שקד",
+      "hebrew_term": "shaked",
+      "meaning": "almond",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 22,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "shodaiin",
+      "hebrew": "קדש",
+      "hebrew_term": "kodesh",
+      "meaning": "holy",
+      "domain": "religious",
+      "confidence": 0.88,
+      "frequency": 22,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "chdar",
+      "hebrew": "ירח",
+      "hebrew_term": "yareach",
+      "meaning": "moon",
+      "domain": "astronomical",
+      "confidence": 0.88,
+      "frequency": 20,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "kchor",
+      "hebrew": "פרח",
+      "hebrew_term": "perach",
+      "meaning": "flower",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 20,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "kchor",
+      "hebrew": "חרול",
+      "hebrew_term": "charul",
+      "meaning": "nettle",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 20,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "tchor",
+      "hebrew": "חיטה",
+      "hebrew_term": "chitah",
+      "meaning": "wheat",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 18,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "tchor",
+      "hebrew": "פרח",
+      "hebrew_term": "perach",
+      "meaning": "flower",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 18,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "tchor",
+      "hebrew": "תפוח",
+      "hebrew_term": "tapuach",
+      "meaning": "apple",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 18,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "tchor",
+      "hebrew": "חרול",
+      "hebrew_term": "charul",
+      "meaning": "nettle",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 18,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "okchor",
+      "hebrew": "ירח",
+      "hebrew_term": "yareach",
+      "meaning": "moon",
+      "domain": "astronomical",
+      "confidence": 0.88,
+      "frequency": 18,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "lchdy",
+      "hebrew": "חולה",
+      "hebrew_term": "choleh",
+      "meaning": "sick person",
+      "domain": "medical",
+      "confidence": 0.88,
+      "frequency": 17,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "lchdy",
+      "hebrew": "חולי",
+      "hebrew_term": "choli",
+      "meaning": "sickness",
+      "domain": "medical",
+      "confidence": 0.88,
+      "frequency": 17,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "lchdy",
+      "hebrew": "חלב",
+      "hebrew_term": "chalav",
+      "meaning": "milk",
+      "domain": "medical",
+      "confidence": 0.88,
+      "frequency": 17,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "lchdy",
+      "hebrew": "מלח",
+      "hebrew_term": "melach",
+      "meaning": "salt",
+      "domain": "medical",
+      "confidence": 0.88,
+      "frequency": 17,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "chdaiin",
+      "hebrew": "כהן",
+      "hebrew_term": "cohen",
+      "meaning": "priest",
+      "domain": "religious",
+      "confidence": 0.88,
+      "frequency": 16,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "chdaiin",
+      "hebrew": "כהן",
+      "hebrew_term": "kohen",
+      "meaning": "priest",
+      "domain": "religious",
+      "confidence": 0.88,
+      "frequency": 16,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "otchor",
+      "hebrew": "חיטה",
+      "hebrew_term": "chitah",
+      "meaning": "wheat",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 16,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "otchor",
+      "hebrew": "פרח",
+      "hebrew_term": "perach",
+      "meaning": "flower",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 16,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "otchor",
+      "hebrew": "תפוח",
+      "hebrew_term": "tapuach",
+      "meaning": "apple",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 16,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "otchor",
+      "hebrew": "חרול",
+      "hebrew_term": "charul",
+      "meaning": "nettle",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 16,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "ychor",
+      "hebrew": "פרח",
+      "hebrew_term": "perach",
+      "meaning": "flower",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 16,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "choly",
+      "hebrew": "חרול",
+      "hebrew_term": "charul",
+      "meaning": "nettle",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 15,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "cphol",
+      "hebrew": "פרח",
+      "hebrew_term": "perach",
+      "meaning": "flower",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 14,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "cphol",
+      "hebrew": "תפוח",
+      "hebrew_term": "tapuach",
+      "meaning": "apple",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 14,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "cphol",
+      "hebrew": "חרול",
+      "hebrew_term": "charul",
+      "meaning": "nettle",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 14,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "cphol",
+      "hebrew": "חולה",
+      "hebrew_term": "choleh",
+      "meaning": "sick person",
+      "domain": "medical",
+      "confidence": 0.88,
+      "frequency": 14,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "cphol",
+      "hebrew": "חולי",
+      "hebrew_term": "choli",
+      "meaning": "sickness",
+      "domain": "medical",
+      "confidence": 0.88,
+      "frequency": 14,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "cphol",
+      "hebrew": "חלב",
+      "hebrew_term": "chalav",
+      "meaning": "milk",
+      "domain": "medical",
+      "confidence": 0.88,
+      "frequency": 14,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "cphol",
+      "hebrew": "מלח",
+      "hebrew_term": "melach",
+      "meaning": "salt",
+      "domain": "medical",
+      "confidence": 0.88,
+      "frequency": 14,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "ctho",
+      "hebrew": "תפוח",
+      "hebrew_term": "tapuach",
+      "meaning": "apple",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 14,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "cheeor",
+      "hebrew": "פרח",
+      "hebrew_term": "perach",
+      "meaning": "flower",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 14,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "sheeol",
+      "hebrew": "לשון",
+      "hebrew_term": "lashon",
+      "meaning": "tongue",
+      "domain": "medical",
+      "confidence": 0.88,
+      "frequency": 14,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "chodar",
+      "hebrew": "פרח",
+      "hebrew_term": "perach",
+      "meaning": "flower",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 13,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "chodar",
+      "hebrew": "חרול",
+      "hebrew_term": "charul",
+      "meaning": "nettle",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 13,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "ctheey",
+      "hebrew": "תפוח",
+      "hebrew_term": "tapuach",
+      "meaning": "apple",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 13,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "tchol",
+      "hebrew": "טלה",
+      "hebrew_term": "taleh",
+      "meaning": "Aries (lamb)",
+      "domain": "astronomical",
+      "confidence": 0.88,
+      "frequency": 13,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "okchol",
+      "hebrew": "חרול",
+      "hebrew_term": "charul",
+      "meaning": "nettle",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 13,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "dshor",
+      "hebrew": "שקד",
+      "hebrew_term": "shaked",
+      "meaning": "almond",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 12,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "dshor",
+      "hebrew": "שמר",
+      "hebrew_term": "shemer",
+      "meaning": "fennel",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 12,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "ychol",
+      "hebrew": "חרול",
+      "hebrew_term": "charul",
+      "meaning": "nettle",
+      "domain": "botanical",
+      "confidence": 0.88,
+      "frequency": 12,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "cheodaiin",
+      "hebrew": "כהן",
+      "hebrew_term": "cohen",
+      "meaning": "priest",
+      "domain": "religious",
+      "confidence": 0.88,
+      "frequency": 11,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "cheodaiin",
+      "hebrew": "כהן",
+      "hebrew_term": "kohen",
+      "meaning": "priest",
+      "domain": "religious",
+      "confidence": 0.88,
+      "frequency": 11,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "olcheey",
+      "hebrew": "חלב",
+      "hebrew_term": "chalav",
+      "meaning": "milk",
+      "domain": "medical",
+      "confidence": 0.88,
+      "frequency": 11,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "yshedy",
+      "hebrew": "דבש",
+      "hebrew_term": "dvash",
+      "meaning": "honey",
+      "domain": "medical",
+      "confidence": 0.88,
+      "frequency": 10,
+      "source": "Track65_HebrewCorpus"
+    },
+    {
+      "voynich": "yshedy",
+      "hebrew": "קדש",
+      "hebrew_term": "kodesh",
+      "meaning": "holy",
+      "domain": "religious",
+      "confidence": 0.88,
+      "frequency": 10,
+      "source": "Track65_HebrewCorpus"
+    }
+  ],
+  "total_new_entries": 100,
+  "validation_results": {
+    "total_hebrew_terms": 137,
+    "terms_by_domain": {
+      "botanical": 29,
+      "medical": 42,
+      "astronomical": 33,
+      "religious": 10,
+      "general": 23
+    },
+    "matches_by_domain": {
+      "botanical": 3894,
+      "medical": 6536,
+      "astronomical": 500,
+      "religious": 1849,
+      "general": 4762
+    },
+    "conflict_list": [
+      {
+        "voynich": "ytair",
+        "existing_meaning": "earth",
+        "new_meaning": "cure",
+        "new_hebrew": "תרופה"
+      },
+      {
+        "voynich": "ytair",
+        "existing_meaning": "earth",
+        "new_meaning": "date palm",
+        "new_hebrew": "תמר"
+      },
+      {
+        "voynich": "ytair",
+        "existing_meaning": "earth",
+        "new_meaning": "neck",
+        "new_hebrew": "צואר"
+      },
+      {
+        "voynich": "ytair",
+        "existing_meaning": "earth",
+        "new_meaning": "zodiac",
+        "new_hebrew": "מזרות"
+      },
+      {
+        "voynich": "ytair",
+        "existing_meaning": "earth",
+        "new_meaning": "Cancer (crab)",
+        "new_hebrew": "סרטן"
+      },
+      {
+        "voynich": "ytair",
+        "existing_meaning": "earth",
+        "new_meaning": "Tishrei (month)",
+        "new_hebrew": "תשרי"
+      },
+      {
+        "voynich": "chockhy",
+        "existing_meaning": "verb (unknown)",
+        "new_meaning": "strength/power",
+        "new_hebrew": "כח"
+      },
+      {
+        "voynich": "chckhy",
+        "existing_meaning": "verb form",
+        "new_meaning": "strength/power",
+        "new_hebrew": "כח"
+      },
+      {
+        "voynich": "teor",
+        "existing_meaning": "earth",
+        "new_meaning": "cure",
+        "new_hebrew": "תרופה"
+      },
+      {
+        "voynich": "teor",
+        "existing_meaning": "earth",
+        "new_meaning": "date palm",
+        "new_hebrew": "תמר"
+      }
+    ]
+  }
+}

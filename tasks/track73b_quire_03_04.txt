@@ -1,0 +1,38 @@
+TRACK 73B: Mine Quires 3-4 Plant IDs
+====================================
+
+SOURCE URLS:
+- https://voynich.nu/q03/index.html (f17-f24)
+- https://voynich.nu/q04/index.html (f25-f32)
+
+TASK: Extract for EACH folio:
+1. Folio number (f17r, f17v, etc.)
+2. ELV identification (if present)
+3. ThP identification (if present)
+4. Illustration description
+5. Currier language (A or B)
+6. LFD hand number
+
+FORMAT OUTPUT AS JSON:
+{
+  "quires": ["q03", "q04"],
+  "folios": [
+    {
+      "folio": "f17r",
+      "section": "herbal",
+      "elv_id": null,
+      "thp_id": "plant name if given",
+      "description": "brief illustration description",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": ["roots", "flowers", "leaves"]
+    },
+    ...
+  ]
+}
+
+ALSO BUILD Hebrew/Italian name lookup for any identified plants.
+
+OUTPUT FILES:
+- mine_q03_04.py
+- results/quire_03_04_plants.json

@@ -1,0 +1,584 @@
+{
+  "language_a": {
+    "folios": [
+      "f1r",
+      "f1v",
+      "f2r",
+      "f2v",
+      "f3r",
+      "f3v",
+      "f4r",
+      "f4v",
+      "f5r",
+      "f5v",
+      "f6r",
+      "f6v",
+      "f7r",
+      "f7v",
+      "f8r",
+      "f8v",
+      "f9r",
+      "f9v",
+      "f10r",
+      "f10v",
+      "..."
+    ],
+    "folio_count": 150,
+    "total_words": 16138,
+    "unique_words": 4724,
+    "avg_word_length": 5.272,
+    "word_entropy": 10.198,
+    "char_freq": {
+      "o": 0.13325654647172205,
+      "h": 0.09859668092708382,
+      "y": 0.0804499083258897,
+      "a": 0.07912180903577641,
+      "c": 0.0770062526444455,
+      "e": 0.07081237365427108,
+      "d": 0.06171548117154812,
+      "i": 0.06136288843965963,
+      "l": 0.059823233510413236,
+      "t": 0.05278313196370645,
+      "k": 0.04696535188754643,
+      "n": 0.046730290066287435,
+      "r": 0.0395844107000141,
+      "s": 0.03601147101687744,
+      "p": 0.02387052794885055
+    },
+    "char_entropy": 3.932,
+    "top_words": [
+      [
+        "plant",
+        575
+      ],
+      [
+        "daiin",
+        564
+      ],
+      [
+        "chol",
+        283
+      ],
+      [
+        "or",
+        206
+      ],
+      [
+        "aiin",
+        183
+      ],
+      [
+        "chor",
+        177
+      ],
+      [
+        "ol",
+        161
+      ],
+      [
+        "dy",
+        161
+      ],
+      [
+        "dar",
+        151
+      ],
+      [
+        "shol",
+        122
+      ],
+      [
+        "chey",
+        107
+      ],
+      [
+        "chy",
+        106
+      ],
+      [
+        "ar",
+        104
+      ],
+      [
+        "cthy",
+        102
+      ],
+      [
+        "sho",
+        100
+      ],
+      [
+        "dal",
+        100
+      ],
+      [
+        "dain",
+        95
+      ],
+      [
+        "chedy",
+        87
+      ],
+      [
+        "shor",
+        76
+      ],
+      [
+        "chdy",
+        75
+      ],
+      [
+        "shey",
+        75
+      ],
+      [
+        "cheol",
+        73
+      ],
+      [
+        "shy",
+        71
+      ],
+      [
+        "okaiin",
+        70
+      ],
+      [
+        "dol",
+        64
+      ],
+      [
+        "dam",
+        64
+      ],
+      [
+        "cheor",
+        62
+      ],
+      [
+        "oky",
+        61
+      ],
+      [
+        "chody",
+        61
+      ],
+      [
+        "qokol",
+        56
+      ]
+    ],
+    "dictionary_coverage": 37.33
+  },
+  "language_b": {
+    "folios": [
+      "f58r",
+      "f58v",
+      "f65r",
+      "f65v",
+      "f66r",
+      "f66v",
+      "f67r1",
+      "f67r2",
+      "f67v2",
+      "f67v1",
+      "f68r1",
+      "f68r2",
+      "f68r3",
+      "f68v3",
+      "f68v2",
+      "f68v1",
+      "f69r",
+      "f69v",
+      "f70r1",
+      "f70r2",
+      "..."
+    ],
+    "folio_count": 75,
+    "total_words": 21869,
+    "unique_words": 5405,
+    "avg_word_length": 5.299,
+    "word_entropy": 10.115,
+    "char_freq": {
+      "e": 0.12524162927166033,
+      "o": 0.12231618916120124,
+      "y": 0.09230238177424922,
+      "h": 0.08187780462547463,
+      "a": 0.07801173627890921,
+      "d": 0.06705212288574387,
+      "k": 0.059889540904383844,
+      "l": 0.0593545046599931,
+      "i": 0.0590697273041077,
+      "c": 0.05880220918191232,
+      "r": 0.03773731446323783,
+      "s": 0.03602002071108043,
+      "t": 0.03329306178805661,
+      "q": 0.03287021056265102,
+      "n": 0.030643769416637903
+    },
+    "char_entropy": 3.903,
+    "top_words": [
+      [
+        "chedy",
+        414
+      ],
+      [
+        "shedy",
+        374
+      ],
+      [
+        "ol",
+        369
+      ],
+      [
+        "qokeedy",
+        288
+      ],
+      [
+        "aiin",
+        281
+      ],
+      [
+        "qokain",
+        261
+      ],
+      [
+        "qokeey",
+        260
+      ],
+      [
+        "daiin",
+        253
+      ],
+      [
+        "ar",
+        243
+      ],
+      [
+        "chey",
+        236
+      ],
+      [
+        "qokedy",
+        225
+      ],
+      [
+        "al",
+        216
+      ],
+      [
+        "qokaiin",
+        204
+      ],
+      [
+        "shey",
+        200
+      ],
+      [
+        "figure",
+        171
+      ],
+      [
+        "qokal",
+        165
+      ],
+      [
+        "dar",
+        153
+      ],
+      [
+        "or",
+        150
+      ],
+      [
+        "dal",
+        147
+      ],
+      [
+        "qol",
+        144
+      ],
+      [
+        "okaiin",
+        139
+      ],
+      [
+        "okeey",
+        135
+      ],
+      [
+        "cheey",
+        129
+      ],
+      [
+        "okain",
+        121
+      ],
+      [
+        "otedy",
+        118
+      ],
+      [
+        "lchedy",
+        116
+      ],
+      [
+        "oteey",
+        111
+      ],
+      [
+        "otal",
+        105
+      ],
+      [
+        "dy",
+        104
+      ],
+      [
+        "dain",
+        103
+      ]
+    ],
+    "dictionary_coverage": 40.27
+  },
+  "comparison": {
+    "word_count_ratio": 1.36,
+    "unique_ratio": 1.14,
+    "length_diff": 0.027,
+    "entropy_diff": -0.083,
+    "coverage_diff": 2.94
+  },
+  "sections_coverage": {
+    "herbal_a": {
+      "currier": "A",
+      "coverage": 37.77,
+      "total_words": 10293,
+      "unique_words": 3258,
+      "folio_count": 112
+    },
+    "herbal_b": {
+      "currier": "B",
+      "coverage": 36.72,
+      "total_words": 768,
+      "unique_words": 495,
+      "folio_count": 4
+    },
+    "zodiac": {
+      "currier": "B",
+      "coverage": 31.5,
+      "total_words": 3441,
+      "unique_words": 1842,
+      "folio_count": 28
+    },
+    "biological": {
+      "currier": "B",
+      "coverage": 45.6,
+      "total_words": 7061,
+      "unique_words": 1617,
+      "folio_count": 20
+    },
+    "stars": {
+      "currier": "A",
+      "coverage": 42.02,
+      "total_words": 1830,
+      "unique_words": 838,
+      "folio_count": 6
+    },
+    "pharma": {
+      "currier": "A",
+      "coverage": 34.07,
+      "total_words": 4015,
+      "unique_words": 1753,
+      "folio_count": 32
+    },
+    "recipes": {
+      "currier": "B",
+      "coverage": 39.82,
+      "total_words": 10599,
+      "unique_words": 3091,
+      "folio_count": 23
+    }
+  },
+  "vocabulary_overlap": {
+    "only_a_count": 3215,
+    "only_b_count": 3896,
+    "both_count": 1509,
+    "overlap_ratio": 17.51,
+    "top_only_a": [
+      "plant",
+      "plantdaiin",
+      "qotchor",
+      "ctho",
+      "qotchol",
+      "choiin",
+      "plants",
+      "chom",
+      "cthaiin",
+      "plantchol",
+      "plantchor",
+      "plantdain",
+      "qodar",
+      "plantchy",
+      "dsho",
+      "plantdar",
+      "cthom",
+      "ytol",
+      "plantshol",
+      "ksho",
+      "daiinplant",
+      "tchody",
+      "tcho",
+      "dom",
+      "oldaiin",
+      "ykcho",
+      "plantaiin",
+      "ypchdy",
+      "ctheody",
+      "shoiin",
+      "tshol",
+      "plantsho",
+      "plantdchol",
+      "plantshy",
+      "ykchol",
+      "plantoky",
+      "plantotol",
+      "kshy",
+      "plantar",
+      "podaiin",
+      "ckheody",
+      "qoeol",
+      "schol",
+      "sody",
+      "cholody",
+      "tam",
+      "kcho",
+      "tshy",
+      "oldam",
+      "oldar"
+    ],
+    "top_only_b": [
+      "lkain",
+      "rain",
+      "lshey",
+      "lky",
+      "ral",
+      "cheeo",
+      "sheeky",
+      "lcheey",
+      "otshedy",
+      "qolchey",
+      "olshey",
+      "qolchedy",
+      "shedain",
+      "okeeedy",
+      "olkeeey",
+      "qokl",
+      "lcheedy",
+      "lkl",
+      "oteeey",
+      "lkeeey",
+      "lkchey",
+      "alam",
+      "lsheey",
+      "lchy",
+      "ycheedy",
+      "qoly",
+      "qoked",
+      "olal",
+      "lal",
+      "oshey",
+      "qolkeedy",
+      "rshedy",
+      "loly",
+      "shckhedy",
+      "pond",
+      "okalal",
+      "gap",
+      "figuredaiin",
+      "alom",
+      "qotair",
+      "aror",
+      "lsheedy",
+      "chedam",
+      "lar",
+      "chedol",
+      "olkol",
+      "oteal",
+      "qokeechy",
+      "lched",
+      "okalar"
+    ],
+    "top_shared": [
+      "daiin",
+      "ol",
+      "chedy",
+      "aiin",
+      "shedy",
+      "chol",
+      "or",
+      "ar",
+      "chey",
+      "qokeey",
+      "dar",
+      "qokeedy",
+      "shey",
+      "qokain",
+      "qokedy",
+      "dy",
+      "qokaiin",
+      "al",
+      "dal",
+      "okaiin",
+      "chor",
+      "dain",
+      "qokal",
+      "shol",
+      "figure",
+      "cheey",
+      "okeey",
+      "cheol",
+      "otedy",
+      "chdy",
+      "qokar",
+      "qol",
+      "otaiin",
+      "qoky",
+      "chy",
+      "sheey",
+      "okain",
+      "otar",
+      "chckhy",
+      "otal",
+      "okal",
+      "saiin",
+      "oteey",
+      "okar",
+      "sho",
+      "lchedy",
+      "okedy",
+      "dol",
+      "oty",
+      "sheol"
+    ]
+  },
+  "hebrew_patterns_by_language": {
+    "language_a": {
+      "cohen": 70,
+      "qo_prefix": 396,
+      "y_suffix": 1728,
+      "three_cons": 961,
+      "daiin": 114
+    },
+    "language_b": {
+      "cohen": 112,
+      "qo_prefix": 517,
+      "y_suffix": 2163,
+      "three_cons": 1326,
+      "daiin": 101
+    }
+  },
+  "recommendations": [
+    "Low vocabulary overlap (17.5%) suggests A and B may be different dialects or registers",
+    "Hebrew 'cohen' pattern is 1.6x more common in Language B - Hebrew hypothesis stronger for B sections (Recipes, Zodiac)"
+  ]
+}

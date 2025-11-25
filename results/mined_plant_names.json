@@ -1,0 +1,778 @@
+{
+  "statistics": {
+    "herbal_pages_analyzed": 15,
+    "total_unique_words_found": 240,
+    "total_rare_words_found": 428,
+    "rare_words_in_recipes": 50,
+    "plant_pairs_analyzed": 2,
+    "pair_shared_unique_words": 0,
+    "new_dictionary_entries": 50,
+    "high_confidence_entries": 8,
+    "medium_confidence_entries": 42,
+    "coverage_before": 0,
+    "estimated_coverage_gain": "+50 entries"
+  },
+  "entries": [
+    {
+      "voynich": "shtshy",
+      "meaning": "aconitum",
+      "confidence": "high",
+      "evidence": {
+        "appears_on_plant_page": "f16r",
+        "expert_id": "aconitum",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f116r"
+        ],
+        "total_manuscript_occurrences": 2
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "ychear",
+      "meaning": "ricinus",
+      "confidence": "high",
+      "evidence": {
+        "appears_on_plant_page": "f6v",
+        "expert_id": "ricinus",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f111v"
+        ],
+        "total_manuscript_occurrences": 2
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "cheeal",
+      "meaning": "ricinus",
+      "confidence": "high",
+      "evidence": {
+        "appears_on_plant_page": "f51r",
+        "expert_id": "ricinus",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f111v"
+        ],
+        "total_manuscript_occurrences": 2
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "opchear",
+      "meaning": "ricinus",
+      "confidence": "high",
+      "evidence": {
+        "appears_on_plant_page": "f51r",
+        "expert_id": "ricinus",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f113r"
+        ],
+        "total_manuscript_occurrences": 2
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "pair",
+      "meaning": "scabiosa",
+      "confidence": "high",
+      "evidence": {
+        "appears_on_plant_page": "f33r",
+        "expert_id": "scabiosa",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f107r"
+        ],
+        "total_manuscript_occurrences": 2
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "qotoy",
+      "meaning": "hypericum",
+      "confidence": "high",
+      "evidence": {
+        "appears_on_plant_page": "f3v",
+        "expert_id": "hypericum",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f114v"
+        ],
+        "total_manuscript_occurrences": 2
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "opchar",
+      "meaning": "papaver",
+      "confidence": "high",
+      "evidence": {
+        "appears_on_plant_page": "f24r",
+        "expert_id": "papaver",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f104r"
+        ],
+        "total_manuscript_occurrences": 2
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "shotchy",
+      "meaning": "aconitum",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f16r",
+        "expert_id": "aconitum",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f106r"
+        ],
+        "total_manuscript_occurrences": 3
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "dalchy",
+      "meaning": "aconitum",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f16r",
+        "expert_id": "aconitum",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f114r"
+        ],
+        "total_manuscript_occurrences": 3
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "cthes",
+      "meaning": "ricinus",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f51r",
+        "expert_id": "ricinus",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f113r"
+        ],
+        "total_manuscript_occurrences": 3
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "tchodaiin",
+      "meaning": "ricinus",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f51r",
+        "expert_id": "ricinus",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f106r"
+        ],
+        "total_manuscript_occurrences": 3
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "chtain",
+      "meaning": "cannabis",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f36v",
+        "expert_id": "cannabis",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f103v",
+          "f116r"
+        ],
+        "total_manuscript_occurrences": 3
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "qodam",
+      "meaning": "smilax",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f17r",
+        "expert_id": "smilax",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f104r"
+        ],
+        "total_manuscript_occurrences": 3
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "far",
+      "meaning": "scabiosa",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f33r",
+        "expert_id": "scabiosa",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f111v"
+        ],
+        "total_manuscript_occurrences": 3
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "keedal",
+      "meaning": "papaver",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f48v",
+        "expert_id": "papaver",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f112v",
+          "f108r"
+        ],
+        "total_manuscript_occurrences": 3
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "ypair",
+      "meaning": "papaver",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f48v",
+        "expert_id": "papaver",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f105r"
+        ],
+        "total_manuscript_occurrences": 3
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "chols",
+      "meaning": "geranium",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f5v",
+        "expert_id": "geranium",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f115r"
+        ],
+        "total_manuscript_occurrences": 3
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "choto",
+      "meaning": "atriplex",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f8r",
+        "expert_id": "atriplex",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f115v"
+        ],
+        "total_manuscript_occurrences": 3
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "lody",
+      "meaning": "atriplex",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f8r",
+        "expert_id": "atriplex",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f112v",
+          "f106v"
+        ],
+        "total_manuscript_occurrences": 3
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "chtar",
+      "meaning": "papaver",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f24r",
+        "expert_id": "papaver",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f111r",
+          "f115r"
+        ],
+        "total_manuscript_occurrences": 3
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "qoear",
+      "meaning": "papaver",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f24r",
+        "expert_id": "papaver",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f116r"
+        ],
+        "total_manuscript_occurrences": 3
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "qoair",
+      "meaning": "ricinus",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f6v",
+        "expert_id": "ricinus",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f111v",
+          "f105v"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "ckhal",
+      "meaning": "ricinus",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f6v",
+        "expert_id": "ricinus",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f116r"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "ckhal",
+      "meaning": "ricinus",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f51r",
+        "expert_id": "ricinus",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f116r"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "shoaiin",
+      "meaning": "cannabis",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f36v",
+        "expert_id": "cannabis",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f113r"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "oaiir",
+      "meaning": "paeonia",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f7r",
+        "expert_id": "paeonia",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f114v",
+          "f105v"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "soy",
+      "meaning": "smilax",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f17r",
+        "expert_id": "smilax",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f106v"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "otaiir",
+      "meaning": "mentastrum",
+      "confidence": "high",
+      "evidence": {
+        "appears_on_plant_page": "f25r",
+        "expert_id": "mentastrum",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f113v"
+        ],
+        "total_manuscript_occurrences": 4,
+        "skeleton_match": "mntstrm"
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "loiin",
+      "meaning": "scabiosa",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f33r",
+        "expert_id": "scabiosa",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f103v",
+          "f116r"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "chekeedy",
+      "meaning": "scabiosa",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f33r",
+        "expert_id": "scabiosa",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f111r"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "shekal",
+      "meaning": "scabiosa",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f33r",
+        "expert_id": "scabiosa",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f111r"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "olkchey",
+      "meaning": "papaver",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f48v",
+        "expert_id": "papaver",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f105r"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "ykeeedy",
+      "meaning": "papaver",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f48v",
+        "expert_id": "papaver",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f105v"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "shkaiin",
+      "meaning": "hypericum",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f3v",
+        "expert_id": "hypericum",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f111r",
+          "f113r"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "ykoiin",
+      "meaning": "geranium",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f5v",
+        "expert_id": "geranium",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f104v"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "chot",
+      "meaning": "atriplex",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f8r",
+        "expert_id": "atriplex",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f115r"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "pcheey",
+      "meaning": "atriplex",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f8r",
+        "expert_id": "atriplex",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f105r"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "cholal",
+      "meaning": "atriplex",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f8r",
+        "expert_id": "atriplex",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f107r"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "pcheey",
+      "meaning": "papaver",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f10v",
+        "expert_id": "papaver",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f105r"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "sshey",
+      "meaning": "papaver",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f24r",
+        "expert_id": "papaver",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f103r"
+        ],
+        "total_manuscript_occurrences": 4
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "orom",
+      "meaning": "aconitum",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f16r",
+        "expert_id": "aconitum",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f104v"
+        ],
+        "total_manuscript_occurrences": 5
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "ksheody",
+      "meaning": "viola",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f9v",
+        "expert_id": "viola",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f104r",
+          "f106v"
+        ],
+        "total_manuscript_occurrences": 5
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "dady",
+      "meaning": "ricinus",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f6v",
+        "expert_id": "ricinus",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f108v"
+        ],
+        "total_manuscript_occurrences": 5
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "tsho",
+      "meaning": "smilax",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f17r",
+        "expert_id": "smilax",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f113v"
+        ],
+        "total_manuscript_occurrences": 5
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "ykam",
+      "meaning": "scabiosa",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f33r",
+        "expert_id": "scabiosa",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f105r"
+        ],
+        "total_manuscript_occurrences": 5
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "chtol",
+      "meaning": "papaver",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f48v",
+        "expert_id": "papaver",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f113v"
+        ],
+        "total_manuscript_occurrences": 5
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "ok",
+      "meaning": "papaver",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f48v",
+        "expert_id": "papaver",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f103r"
+        ],
+        "total_manuscript_occurrences": 5
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "los",
+      "meaning": "papaver",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f48v",
+        "expert_id": "papaver",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f115r"
+        ],
+        "total_manuscript_occurrences": 5
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "daiim",
+      "meaning": "hypericum",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f3v",
+        "expert_id": "hypericum",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f105v"
+        ],
+        "total_manuscript_occurrences": 5
+      },
+      "source": "unique_word_mining"
+    },
+    {
+      "voynich": "qoteeol",
+      "meaning": "hypericum",
+      "confidence": "medium",
+      "evidence": {
+        "appears_on_plant_page": "f3v",
+        "expert_id": "hypericum",
+        "appears_in_recipes": true,
+        "recipe_folios": [
+          "f113v",
+          "f115r"
+        ],
+        "total_manuscript_occurrences": 5
+      },
+      "source": "unique_word_mining"
+    }
+  ]
+}

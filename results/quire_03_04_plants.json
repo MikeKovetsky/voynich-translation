@@ -1,0 +1,670 @@
+{
+  "quires": [
+    "q03",
+    "q04"
+  ],
+  "folios": [
+    {
+      "folio": "f24v",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "tamus? ThP: smilax, tamus communis",
+      "thp_id": "smilax, tamus communis",
+      "description": "Drawing of a plant with thin leaves and three dark blue flowers. There are two conspicuous eyes in the roots.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves"
+      ]
+    },
+    {
+      "folio": "f17r",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "tamus? ThP: smilax, tamus communis",
+      "thp_id": "smilax, tamus communis",
+      "description": "Drawing of a plant with thin leaves and three dark blue flowers. There are two conspicuous eyes in the roots.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves"
+      ]
+    },
+    {
+      "folio": "f17v",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "tamus? ThP: smilax, tamus communis",
+      "thp_id": "smilax, tamus communis",
+      "description": "Plant with berries or currants. Root with hairy bulbs. This plant illustration is somewhat similar to the plant on f96v and the bottom plant on f99r .",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves"
+      ]
+    },
+    {
+      "folio": "f96v",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "tamus? ThP: smilax, tamus communis",
+      "thp_id": "smilax, tamus communis",
+      "description": "A plant with plain roots and leaves, three buds and an open flower.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves"
+      ]
+    },
+    {
+      "folio": "f99r",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "tamus? ThP: smilax, tamus communis",
+      "thp_id": "smilax, tamus communis",
+      "description": "A plant with plain roots and leaves, three buds and an open flower.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves"
+      ]
+    },
+    {
+      "folio": "f18r",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "aster? calendula",
+      "thp_id": "Ringelblume (O'Neill), calendula officinaris",
+      "description": "A plant with plain roots and leaves, three buds and an open flower.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves"
+      ]
+    },
+    {
+      "folio": "f18v",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "A single plant with a large root, and an unusual flower. This appears to be the same plant as shown in fragment 212 on f102r2 .",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f102r2",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "A plant with several different types of components, e.g. a dark blue flower in the style of a lily, The flower is similar (yet dark instead of light) to that of f2v This appears to be the same plant a",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f23r",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "arctostaphylis, poterium? ThP: moss polytrichnum (O'Neill), cf",
+      "thp_id": "moss polytrichnum (O'Neill), cf",
+      "description": "A plant with several different types of components, e.g. a dark blue flower in the style of a lily, The flower is similar (yet dark instead of light) to that of f2v This appears to be the same plant a",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f19r",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "arctostaphylis, poterium? ThP: moss polytrichnum (O'Neill), cf",
+      "thp_id": "moss polytrichnum (O'Neill), cf",
+      "description": "A plant with several different types of components, e.g. a dark blue flower in the style of a lily, The flower is similar (yet dark instead of light) to that of f2v This appears to be the same plant a",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f2v",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "arctostaphylis, poterium? ThP: moss polytrichnum (O'Neill), cf",
+      "thp_id": "moss polytrichnum (O'Neill), cf",
+      "description": "A plant with two bushels of leave above each other and three small flowers.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f102v1",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "arctostaphylis, poterium? ThP: moss polytrichnum (O'Neill), cf",
+      "thp_id": "moss polytrichnum (O'Neill), cf",
+      "description": "A plant with two bushels of leave above each other and three small flowers.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f19v",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "arctostaphylis, poterium? ThP: moss polytrichnum (O'Neill), cf",
+      "thp_id": "moss polytrichnum (O'Neill), cf",
+      "description": "A plant with two bushels of leave above each other and three small flowers.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f20r",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "arctostaphylis, poterium? ThP: moss polytrichnum (O'Neill), cf",
+      "thp_id": "moss polytrichnum (O'Neill), cf",
+      "description": "A plant with many small leaves and a few small flowers.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f20v",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "tragopogon, salsifica",
+      "thp_id": "fam",
+      "description": "A plant with three stems, narrow leaves and several flowers.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f21r",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "herniaria? ThP: polygonum, eisenkraut, tymium",
+      "thp_id": "polygonum, eisenkraut, tymium",
+      "description": "A plant with many tiny leaves and even tinier flowers or berries.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f21v",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "crassula? sedum? THP: salvia? steinbrech",
+      "thp_id": null,
+      "description": "A plant with leaves stacked in an unusual manner, alternating green and white, and with several flowers that are blue and red.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f22r",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "sedum? Other information Folio 23 Normal folio",
+      "thp_id": "water veronica, helleborum, stinkende mierwurz",
+      "description": "A plant with an \"impossible\" reconnecting stem and different tpes of flowers.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f22v",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "sedum? Other information Folio 23 Normal folio",
+      "thp_id": "water veronica, helleborum, stinkende mierwurz",
+      "description": "A very large plant drawing. The brown roots have thorns. There are numerous leaves and several flowers. It looks almost like several plants in a row behind each other.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f23v",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "lychnis? ThP: Libnis alba behen",
+      "thp_id": "Libnis alba behen",
+      "description": "Flower with 5-fold symmetry, not unlike passion flower.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "flowers",
+        "leaves"
+      ]
+    },
+    {
+      "folio": "f24r",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "lychnis? ThP: Libnis alba behen",
+      "thp_id": "Libnis alba behen",
+      "description": "Two identical tall flowers next two each other. This plant shows some similarity with plant fragment #56 on f89v2 .",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "flowers",
+        "leaves"
+      ]
+    },
+    {
+      "folio": "f89v2",
+      "quire": "q03",
+      "section": "herbal_a",
+      "elv_id": "lychnis? ThP: Libnis alba behen",
+      "thp_id": "Libnis alba behen",
+      "description": "Plant with leaves looking like commas and five flowers which are white and blue.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "flowers",
+        "leaves"
+      ]
+    },
+    {
+      "folio": "f32v",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "parietaria, urtica? ThP: menta hortensis, herzkraut (O'Neill), marrube,\r\nmercurialis, mentha arvensis, urtica, mentastrum (O'Neill), mentha piperatica",
+      "thp_id": "menta hortensis, herzkraut (O'Neill), marrube,\r\nmercurialis, mentha arvensis, urtica, mentastrum (O'Neill), mentha piperatica",
+      "description": "A simple plant, with small brown 'beans' attached to the stem in a few places.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f25r",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "parietaria, urtica? ThP: menta hortensis, herzkraut (O'Neill), marrube,\r\nmercurialis, mentha arvensis, urtica, mentastrum (O'Neill), mentha piperatica",
+      "thp_id": "menta hortensis, herzkraut (O'Neill), marrube,\r\nmercurialis, mentha arvensis, urtica, mentastrum (O'Neill), mentha piperatica",
+      "description": "A simple plant, with small brown 'beans' attached to the stem in a few places.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f25v",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "plantago",
+      "thp_id": "leontopodium, edelweiss, platago",
+      "description": "Plant apparently without flower (but difficult to see). There is a small animal that looks like a dragon, apparently eating from the bottom leaf.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f26r",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "datura? ThP: asarium, haselwurz",
+      "thp_id": "gnaphalium",
+      "description": "A plant with plain roots and blue flowers on two stalks.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f26v",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "datura? ThP: asarium, haselwurz",
+      "thp_id": "verbena phoenica, creutzwurz",
+      "description": "A plant with lots of symmetrically arranged small leaves and many small blue flowers.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f27r",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "datura? ThP: asarium, haselwurz",
+      "thp_id": "asarium, haselwurz",
+      "description": "This page has two different plants, a larger one with long leaves and two small flowers and a much smaller one that just consists of a root with three small leaves.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f27v",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "rumex",
+      "thp_id": "arum, anisarum",
+      "description": "The root of the plant has nails or teeth. The leaves are small and oblong and there are five white flowers with a red heart.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f28r",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "rumex",
+      "thp_id": "arum, anisarum",
+      "description": "Simple root, a crown of green leaves and a long stem with structure rising from it (like a periscope).",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f28v",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "arnica? Other information The symbols in the middle of the flower are not in the Voynich script, and are \r\nnot understood",
+      "thp_id": "lappa bur[",
+      "description": "Large white flower with a similar green flower behind it.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f29r",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "arctium? xanthium? burdoch or the nearly allied burweed",
+      "thp_id": "lappa bur[",
+      "description": "Plant drawing with alternating blue and green leaves.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ]
+    },
+    {
+      "folio": "f29v",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "meryanthes",
+      "thp_id": "schuppenwurz? menanthes trifolia",
+      "description": "Plant drawing with different kinds of green. Six green bulbs and one blue flower. The root has some needles.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f30r",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "meryanthes",
+      "thp_id": "schuppenwurz? menanthes trifolia",
+      "description": "Plant with long green leaves and small blue flowers. The green painting was done very inaccurately. This plant shows some similarity with plant fragment #28 on f89r1 .",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f89r1",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "meryanthes",
+      "thp_id": "schuppenwurz? menanthes trifolia",
+      "description": "Plant with a conspicuous root, brown leaves and tendrils. This plant shows some similarity with plant fragment #150 on f101r .",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f30v",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "lithospermum",
+      "thp_id": "boragine",
+      "description": "Plant with a conspicuous root, brown leaves and tendrils. This plant shows some similarity with plant fragment #150 on f101r .",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f101r",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "lithospermum",
+      "thp_id": "boragine",
+      "description": "Plant drawing. A long twisted brown root, all leaves to the left and unpainted flowers to the right and to the top. The leaves have been painted green very inaccurately.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ]
+    },
+    {
+      "folio": "f31r",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "mentha, some kind of mint",
+      "thp_id": "hyrciacum aratum, henbane",
+      "description": "Plant drawing. A long twisted brown root, all leaves to the left and unpainted flowers to the right and to the top. The leaves have been painted green very inaccurately.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves"
+      ]
+    },
+    {
+      "folio": "f31v",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "mentha, some kind of mint",
+      "thp_id": "heracleum cervafolium",
+      "description": "A plant with leaves to the right (several green and one brown), two flowers to the left and what looks like seeds at the top..",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f32r",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "mentha, some kind of mint",
+      "thp_id": "mentastrum (O'Neill), rosenm\u00fcntz, brunella vulgaris",
+      "description": "Plant drawing. Many small green leaves. Five flowers in white and blue, with small yellow crown.",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f102r2",
+      "quire": "q04",
+      "section": "herbal_a",
+      "elv_id": "malva? ThP: campanula, ranunculus, convulvulus orectus? Other information Copyright Ren\u00e9 Zandbergen, 2025 Comments, questions, suggestions?  Your feedback is welcome",
+      "thp_id": "campanula, ranunculus, convulvulus orectus? Other information Copyright Ren\u00e9 Zandbergen, 2025 Comments, questions, suggestions?  Your feedback is welcome",
+      "description": "",
+      "currier_lang": "A",
+      "lfd_hand": 1,
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "stem"
+      ]
+    }
+  ],
+  "total_folios": 41,
+  "expert_ids": 39
+}

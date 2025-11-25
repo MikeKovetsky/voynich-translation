@@ -1,0 +1,41 @@
+TRACK 73J: Mine Quire 20 (RECIPES SECTION!)
+===========================================
+
+SOURCE URL:
+- https://voynich.nu/q20/index.html (f103-f116)
+
+NOTE: This is the RECIPES section we've been translating!
+This is our PRIMARY validation target!
+
+TASK: Extract for EACH folio:
+1. Folio number
+2. Text descriptions
+3. Any plant/ingredient identifications
+4. Any recipe interpretations by scholars
+5. Stars or markers noted
+6. Currier language (A or B)
+7. LFD hand number
+
+CRITICAL: Look for ANY scholarly interpretations of recipe content!
+
+FORMAT OUTPUT AS JSON:
+{
+  "quires": ["q20"],
+  "folios": [
+    {
+      "folio": "f103r",
+      "section": "recipes",
+      "description": "text-only page with...",
+      "plant_references": [],
+      "scholar_interpretations": [],
+      "paragraph_markers": [],
+      "currier_lang": "B",
+      "lfd_hand": 2
+    },
+    ...
+  ]
+}
+
+OUTPUT FILES:
+- mine_q20.py
+- results/quire_20_recipes.json

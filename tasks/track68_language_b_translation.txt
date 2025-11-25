@@ -1,0 +1,77 @@
+TRACK 68: Language B Full Translation
+=====================================
+
+GOAL: Translate Language B sections using master dictionary.
+Hebrew hypothesis is 1.6x stronger here - should get best results!
+
+INPUT FILES:
+- results/master_dictionary.json (or merged dictionary)
+- data/eva_ivtff.txt
+
+LANGUAGE B SECTIONS:
+- Herbal B (f58r-f65r)
+- Zodiac (f66r-f73v)
+- Biological (f75r-f84v)
+- Recipes (f103r-f116r)
+
+TASK 1: Full Vocabulary Extraction
+----------------------------------
+Extract all unique words from Language B:
+- Herbal B: ~768 words
+- Zodiac: ~3,441 words
+- Biological: ~7,061 words
+- Recipes: ~10,599 words
+
+TASK 2: Apply Master Dictionary
+-------------------------------
+Translate all words possible.
+Calculate coverage by section.
+
+| Section | Words | Translated | Coverage |
+|---------|-------|------------|----------|
+| Herbal B | ? | ? | ?% |
+| Zodiac | ? | ? | ?% |
+| Biological | ? | ? | ?% |
+| Recipes | ? | ? | ?% |
+| **TOTAL B** | ? | ? | ?% |
+
+TASK 3: Sentence Reconstruction
+-------------------------------
+For lines with >50% translation:
+- Apply SOV grammar model
+- Try to form readable sentences
+- Use patterns:
+  - "Take X, add Y" (recipe)
+  - "For illness X, use Y" (medical)
+  - "In month X, plant Y" (botanical)
+
+TASK 4: Best Translated Lines
+-----------------------------
+Find the TOP 20 most translated lines.
+Output as readable text with:
+- Original Voynich
+- Word-by-word translation
+- Attempted sentence reconstruction
+
+TASK 5: Quality Assessment
+--------------------------
+Rate translations:
+- READABLE: Makes sense as complete thought
+- PARTIAL: Some meaning clear
+- FRAGMENTED: Only individual words
+
+OUTPUT FILES (REQUIRED):
+- lang_b_translate.py
+- results/language_b_translation.json:
+  {
+    "coverage_by_section": {...},
+    "total_coverage": X%,
+    "readable_sentences": N,
+    "top_translations": [...],
+    "quality_breakdown": {...}
+  }
+- results/language_b_translation_report.md:
+  - Coverage statistics
+  - TOP 20 best translated lines
+  - Sample readable content
+  - Quality assessment

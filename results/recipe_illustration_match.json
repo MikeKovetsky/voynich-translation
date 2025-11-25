@@ -1,0 +1,1792 @@
+{
+  "recipe_ingredients": [
+    {
+      "type": "earth",
+      "count": 15,
+      "recipe_total": 121
+    },
+    {
+      "type": "thyme",
+      "count": 4,
+      "recipe_total": 19
+    },
+    {
+      "type": "branch",
+      "count": 4,
+      "recipe_total": 19
+    },
+    {
+      "type": "flower",
+      "count": 13,
+      "recipe_total": 30
+    },
+    {
+      "type": "fig",
+      "count": 14,
+      "recipe_total": 176
+    },
+    {
+      "type": "barley",
+      "count": 8,
+      "recipe_total": 40
+    },
+    {
+      "type": "tree",
+      "count": 12,
+      "recipe_total": 28
+    },
+    {
+      "type": "blood",
+      "count": 8,
+      "recipe_total": 17
+    },
+    {
+      "type": "fruit",
+      "count": 10,
+      "recipe_total": 18
+    },
+    {
+      "type": "root",
+      "count": 9,
+      "recipe_total": 31
+    },
+    {
+      "type": "wheat",
+      "count": 16,
+      "recipe_total": 40
+    },
+    {
+      "type": "lily",
+      "count": 2,
+      "recipe_total": 4
+    },
+    {
+      "type": "seed",
+      "count": 2,
+      "recipe_total": 11
+    },
+    {
+      "type": "garlic",
+      "count": 1,
+      "recipe_total": 6
+    },
+    {
+      "type": "honey",
+      "count": 2,
+      "recipe_total": 28
+    },
+    {
+      "type": "nettle",
+      "count": 4,
+      "recipe_total": 3
+    },
+    {
+      "type": "almond",
+      "count": 2,
+      "recipe_total": 5
+    }
+  ],
+  "botanical_matches": [
+    {
+      "ingredient": "earth",
+      "words_in_both": [
+        "otar",
+        "tar",
+        "otor",
+        "tor",
+        "ytar",
+        "oteor",
+        "tair",
+        "otary",
+        "teor",
+        "otaiir"
+      ],
+      "recipe_total": 121,
+      "herbal_total": 72
+    },
+    {
+      "ingredient": "thyme",
+      "words_in_both": [
+        "otam",
+        "ytam"
+      ],
+      "recipe_total": 19,
+      "herbal_total": 20
+    },
+    {
+      "ingredient": "branch",
+      "words_in_both": [
+        "ram",
+        "oram",
+        "aram",
+        "orom"
+      ],
+      "recipe_total": 19,
+      "herbal_total": 4
+    },
+    {
+      "ingredient": "flower",
+      "words_in_both": [
+        "far",
+        "ofar",
+        "pchor",
+        "pcheol",
+        "opchor",
+        "opchey",
+        "kchor",
+        "ychor",
+        "cphol",
+        "chodar"
+      ],
+      "recipe_total": 30,
+      "herbal_total": 58
+    },
+    {
+      "ingredient": "fig",
+      "words_in_both": [
+        "otaiin",
+        "taiin",
+        "ytaiin",
+        "otain",
+        "otan",
+        "ytain",
+        "otoiin",
+        "ydaiin",
+        "doiin",
+        "odain"
+      ],
+      "recipe_total": 176,
+      "herbal_total": 90
+    },
+    {
+      "ingredient": "barley",
+      "words_in_both": [
+        "sar",
+        "sor",
+        "sair",
+        "saiir",
+        "sory"
+      ],
+      "recipe_total": 40,
+      "herbal_total": 34
+    },
+    {
+      "ingredient": "tree",
+      "words_in_both": [
+        "oteos",
+        "otees",
+        "otos",
+        "cheos",
+        "chees",
+        "ols"
+      ],
+      "recipe_total": 28,
+      "herbal_total": 28
+    },
+    {
+      "ingredient": "blood",
+      "words_in_both": [
+        "daim",
+        "daiim",
+        "odam",
+        "dm",
+        "dam"
+      ],
+      "recipe_total": 17,
+      "herbal_total": 61
+    },
+    {
+      "ingredient": "fruit",
+      "words_in_both": [
+        "opar",
+        "par",
+        "pair",
+        "ypair"
+      ],
+      "recipe_total": 18,
+      "herbal_total": 5
+    },
+    {
+      "ingredient": "root",
+      "words_in_both": [
+        "shory",
+        "shar",
+        "shor",
+        "shear",
+        "shos",
+        "shees"
+      ],
+      "recipe_total": 31,
+      "herbal_total": 89
+    },
+    {
+      "ingredient": "wheat",
+      "words_in_both": [
+        "okeody",
+        "okchy",
+        "qokeody",
+        "chety",
+        "keody",
+        "kchey",
+        "ykedy",
+        "choty",
+        "tchey",
+        "ctheey",
+        "tchor",
+        "otchor"
+      ],
+      "recipe_total": 40,
+      "herbal_total": 162
+    },
+    {
+      "ingredient": "lily",
+      "words_in_both": [
+        "kchol",
+        "qokchol"
+      ],
+      "recipe_total": 4,
+      "herbal_total": 30
+    },
+    {
+      "ingredient": "seed",
+      "words_in_both": [
+        "shaiin",
+        "soiin"
+      ],
+      "recipe_total": 11,
+      "herbal_total": 19
+    },
+    {
+      "ingredient": "garlic",
+      "words_in_both": [
+        "keol"
+      ],
+      "recipe_total": 6,
+      "herbal_total": 7
+    },
+    {
+      "ingredient": "honey",
+      "words_in_both": [
+        "sheedy"
+      ],
+      "recipe_total": 28,
+      "herbal_total": 7
+    },
+    {
+      "ingredient": "nettle",
+      "words_in_both": [
+        "ychol"
+      ],
+      "recipe_total": 3,
+      "herbal_total": 33
+    },
+    {
+      "ingredient": "almond",
+      "words_in_both": [
+        "shodaiin"
+      ],
+      "recipe_total": 5,
+      "herbal_total": 16
+    }
+  ],
+  "visual_correlations": [
+    {
+      "word": "pchor",
+      "ingredient": "flower",
+      "meaning": "flower (perach)",
+      "folio": "f2v",
+      "page_desc": "Round leaf, flower at top",
+      "matching_elements": [
+        "flower"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "pchor",
+      "ingredient": "flower",
+      "meaning": "flower (perach)",
+      "folio": "f9v",
+      "page_desc": "Spread leaves, yellow center flower",
+      "matching_elements": [
+        "flower"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "kchor",
+      "ingredient": "flower",
+      "meaning": "flower",
+      "folio": "f14r",
+      "page_desc": "Large leaves, single flower, root visible",
+      "matching_elements": [
+        "flower"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "kchor",
+      "ingredient": "flower",
+      "meaning": "flower",
+      "folio": "f7v",
+      "page_desc": "Long leaves, purple flowers",
+      "matching_elements": [
+        "flower"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "kchor",
+      "ingredient": "flower",
+      "meaning": "flower",
+      "folio": "f2v",
+      "page_desc": "Round leaf, flower at top",
+      "matching_elements": [
+        "flower"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "ychor",
+      "ingredient": "flower",
+      "meaning": "flower",
+      "folio": "f6v",
+      "page_desc": "Thistle-like blue/green flowers, star leaves",
+      "matching_elements": [
+        "flower"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "ychor",
+      "ingredient": "flower",
+      "meaning": "flower",
+      "folio": "f9v",
+      "page_desc": "Spread leaves, yellow center flower",
+      "matching_elements": [
+        "flower"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "cphol",
+      "ingredient": "flower",
+      "meaning": "flower",
+      "folio": "f8r",
+      "page_desc": "Trefoil leaves, blue petals",
+      "matching_elements": [
+        "flower"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "cphol",
+      "ingredient": "flower",
+      "meaning": "flower",
+      "folio": "f9v",
+      "page_desc": "Spread leaves, yellow center flower",
+      "matching_elements": [
+        "flower"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "chodar",
+      "ingredient": "flower",
+      "meaning": "flower",
+      "folio": "f8r",
+      "page_desc": "Trefoil leaves, blue petals",
+      "matching_elements": [
+        "flower"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "chodar",
+      "ingredient": "flower",
+      "meaning": "flower",
+      "folio": "f34r",
+      "page_desc": "Large lobed leaves, thistle flower",
+      "matching_elements": [
+        "flower"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "ytaiin",
+      "ingredient": "fig",
+      "meaning": "fig",
+      "folio": "f16r",
+      "page_desc": "Fig-like large leaves, fruit visible",
+      "matching_elements": [
+        "large_leaf",
+        "fig_like",
+        "fruit"
+      ],
+      "match_score": 1.0
+    },
+    {
+      "word": "ydaiin",
+      "ingredient": "fig",
+      "meaning": "fig",
+      "folio": "f14r",
+      "page_desc": "Large leaves, single flower, root visible",
+      "matching_elements": [
+        "large_leaf"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "shar",
+      "ingredient": "root",
+      "meaning": "root (shoresh)",
+      "folio": "f4v",
+      "page_desc": "Bulbous root, blue flower",
+      "matching_elements": [
+        "root",
+        "bulb"
+      ],
+      "match_score": 0.6666666666666666
+    },
+    {
+      "word": "shar",
+      "ingredient": "root",
+      "meaning": "root (shoresh)",
+      "folio": "f3v",
+      "page_desc": "Blue flowers, ROOT",
+      "matching_elements": [
+        "root"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "shor",
+      "ingredient": "root",
+      "meaning": "root (shoresh)",
+      "folio": "f14r",
+      "page_desc": "Large leaves, single flower, root visible",
+      "matching_elements": [
+        "root"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "shor",
+      "ingredient": "root",
+      "meaning": "root (shoresh)",
+      "folio": "f6r",
+      "page_desc": "Fern-like lobed leaves, bulbous root",
+      "matching_elements": [
+        "root"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "shor",
+      "ingredient": "root",
+      "meaning": "root (shoresh)",
+      "folio": "f11r",
+      "page_desc": "Bulbous root, blue star flower",
+      "matching_elements": [
+        "root",
+        "bulb"
+      ],
+      "match_score": 0.6666666666666666
+    },
+    {
+      "word": "shor",
+      "ingredient": "root",
+      "meaning": "root (shoresh)",
+      "folio": "f4v",
+      "page_desc": "Bulbous root, blue flower",
+      "matching_elements": [
+        "root",
+        "bulb"
+      ],
+      "match_score": 0.6666666666666666
+    },
+    {
+      "word": "shor",
+      "ingredient": "root",
+      "meaning": "root (shoresh)",
+      "folio": "f3r",
+      "page_desc": "Red/green leaves, PROMINENT ROOTS",
+      "matching_elements": [
+        "root"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "shor",
+      "ingredient": "root",
+      "meaning": "root (shoresh)",
+      "folio": "f4r",
+      "page_desc": "Multiple branches, red/green leaves, PROMINENT ROOTS",
+      "matching_elements": [
+        "root"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "shor",
+      "ingredient": "root",
+      "meaning": "root (shoresh)",
+      "folio": "f18r",
+      "page_desc": "Root vegetables, carrot-like",
+      "matching_elements": [
+        "root"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "tsheos",
+      "ingredient": "root",
+      "meaning": "root (shoresh)",
+      "folio": "f3r",
+      "page_desc": "Red/green leaves, PROMINENT ROOTS",
+      "matching_elements": [
+        "root"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "shyshol",
+      "ingredient": "root",
+      "meaning": "root (shoresh)",
+      "folio": "f4r",
+      "page_desc": "Multiple branches, red/green leaves, PROMINENT ROOTS",
+      "matching_elements": [
+        "root"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "shees",
+      "ingredient": "root",
+      "meaning": "root (shoresh)",
+      "folio": "f6r",
+      "page_desc": "Fern-like lobed leaves, bulbous root",
+      "matching_elements": [
+        "root"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "shees",
+      "ingredient": "root",
+      "meaning": "root (shoresh)",
+      "folio": "f5v",
+      "page_desc": "Red star flowers, green leaves, thick root",
+      "matching_elements": [
+        "root"
+      ],
+      "match_score": 0.3333333333333333
+    },
+    {
+      "word": "kchol",
+      "ingredient": "lily",
+      "meaning": "lily",
+      "folio": "f11r",
+      "page_desc": "Bulbous root, blue star flower",
+      "matching_elements": [
+        "bulb"
+      ],
+      "match_score": 0.5
+    },
+    {
+      "word": "shaiin",
+      "ingredient": "seed",
+      "meaning": "seed",
+      "folio": "f13r",
+      "page_desc": "Compound leaves, seed pods",
+      "matching_elements": [
+        "pod",
+        "seed"
+      ],
+      "match_score": 1.0
+    },
+    {
+      "word": "ychol",
+      "ingredient": "nettle",
+      "meaning": "nettle",
+      "folio": "f6v",
+      "page_desc": "Thistle-like blue/green flowers, star leaves",
+      "matching_elements": [
+        "thistle"
+      ],
+      "match_score": 0.5
+    }
+  ],
+  "vocabulary_overlap": {
+    "earth": {
+      "cross_section_words": [
+        "otar",
+        "tar",
+        "otor",
+        "tor",
+        "ytar",
+        "oteor",
+        "tair",
+        "otary",
+        "teor",
+        "otaiir"
+      ],
+      "overlap_count": 10
+    },
+    "thyme": {
+      "cross_section_words": [
+        "otam",
+        "ytam"
+      ],
+      "overlap_count": 2
+    },
+    "branch": {
+      "cross_section_words": [
+        "ram",
+        "oram",
+        "aram",
+        "orom"
+      ],
+      "overlap_count": 4
+    },
+    "flower": {
+      "cross_section_words": [
+        "far",
+        "ofar",
+        "pchor",
+        "pcheol",
+        "opchor",
+        "opchey",
+        "kchor",
+        "ychor",
+        "cphol",
+        "chodar"
+      ],
+      "overlap_count": 10
+    },
+    "fig": {
+      "cross_section_words": [
+        "otaiin",
+        "taiin",
+        "ytaiin",
+        "otain",
+        "otan",
+        "ytain",
+        "otoiin",
+        "ydaiin",
+        "doiin",
+        "odain"
+      ],
+      "overlap_count": 10
+    },
+    "barley": {
+      "cross_section_words": [
+        "sar",
+        "sor",
+        "sair",
+        "saiir",
+        "sory"
+      ],
+      "overlap_count": 5
+    },
+    "tree": {
+      "cross_section_words": [
+        "oteos",
+        "otees",
+        "otos",
+        "cheos",
+        "chees",
+        "ols"
+      ],
+      "overlap_count": 6
+    },
+    "blood": {
+      "cross_section_words": [
+        "daim",
+        "daiim",
+        "odam",
+        "dm",
+        "dam"
+      ],
+      "overlap_count": 5
+    },
+    "fruit": {
+      "cross_section_words": [
+        "opar",
+        "par",
+        "pair",
+        "ypair"
+      ],
+      "overlap_count": 4
+    },
+    "root": {
+      "cross_section_words": [
+        "shory",
+        "shar",
+        "shor",
+        "shear",
+        "shos",
+        "shees"
+      ],
+      "overlap_count": 6
+    },
+    "wheat": {
+      "cross_section_words": [
+        "okeody",
+        "okchy",
+        "qokeody",
+        "chety",
+        "keody",
+        "kchey",
+        "ykedy",
+        "choty",
+        "tchey",
+        "ctheey",
+        "tchor",
+        "otchor"
+      ],
+      "overlap_count": 12
+    },
+    "lily": {
+      "cross_section_words": [
+        "kchol",
+        "qokchol"
+      ],
+      "overlap_count": 2
+    },
+    "seed": {
+      "cross_section_words": [
+        "shaiin",
+        "soiin"
+      ],
+      "overlap_count": 2
+    },
+    "garlic": {
+      "cross_section_words": [
+        "keol"
+      ],
+      "overlap_count": 1
+    },
+    "honey": {
+      "cross_section_words": [
+        "sheedy"
+      ],
+      "overlap_count": 1
+    },
+    "nettle": {
+      "cross_section_words": [
+        "ychol"
+      ],
+      "overlap_count": 1
+    },
+    "almond": {
+      "cross_section_words": [
+        "shodaiin"
+      ],
+      "overlap_count": 1
+    }
+  },
+  "ingredient_plant_map": [
+    {
+      "voynich": "pchor",
+      "decoded": "flower (perach)",
+      "ingredient_type": "flower",
+      "recipe_context": "Found 3x in recipes",
+      "botanical_context": "Found on ['f52v', 'f45r', 'f19r']",
+      "visual_match": "Round leaf, flower at top",
+      "confidence": "HIGH"
+    },
+    {
+      "voynich": "kchor",
+      "decoded": "flower",
+      "ingredient_type": "flower",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f35v', 'f8v', 'f13v']",
+      "visual_match": "Large leaves, single flower, root visible",
+      "confidence": "HIGH"
+    },
+    {
+      "voynich": "ychor",
+      "decoded": "flower",
+      "ingredient_type": "flower",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f22v', 'f6v', 'f44r']",
+      "visual_match": "Thistle-like blue/green flowers, star leaves",
+      "confidence": "HIGH"
+    },
+    {
+      "voynich": "cphol",
+      "decoded": "flower",
+      "ingredient_type": "flower",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f13v', 'f8r', 'f6r']",
+      "visual_match": "Trefoil leaves, blue petals",
+      "confidence": "HIGH"
+    },
+    {
+      "voynich": "chodar",
+      "decoded": "flower",
+      "ingredient_type": "flower",
+      "recipe_context": "Found 5x in recipes",
+      "botanical_context": "Found on ['f8r', 'f34r', 'f1v']",
+      "visual_match": "Trefoil leaves, blue petals",
+      "confidence": "HIGH"
+    },
+    {
+      "voynich": "ytaiin",
+      "decoded": "fig",
+      "ingredient_type": "fig",
+      "recipe_context": "Found 10x in recipes",
+      "botanical_context": "Found on ['f16r', 'f36r', 'f22v']",
+      "visual_match": "Fig-like large leaves, fruit visible",
+      "confidence": "HIGH"
+    },
+    {
+      "voynich": "ydaiin",
+      "decoded": "fig",
+      "ingredient_type": "fig",
+      "recipe_context": "Found 3x in recipes",
+      "botanical_context": "Found on ['f35v', 'f53v', 'f14r']",
+      "visual_match": "Large leaves, single flower, root visible",
+      "confidence": "HIGH"
+    },
+    {
+      "voynich": "shar",
+      "decoded": "root (shoresh)",
+      "ingredient_type": "root",
+      "recipe_context": "Found 10x in recipes",
+      "botanical_context": "Found on ['f55r', 'f4v', 'f18v']",
+      "visual_match": "Bulbous root, blue flower",
+      "confidence": "HIGH"
+    },
+    {
+      "voynich": "shor",
+      "decoded": "root (shoresh)",
+      "ingredient_type": "root",
+      "recipe_context": "Found 9x in recipes",
+      "botanical_context": "Found on ['f28r', 'f50v', 'f44v']",
+      "visual_match": "Large leaves, single flower, root visible",
+      "confidence": "HIGH"
+    },
+    {
+      "voynich": "shees",
+      "decoded": "root (shoresh)",
+      "ingredient_type": "root",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f47v', 'f6r', 'f5v']",
+      "visual_match": "Fern-like lobed leaves, bulbous root",
+      "confidence": "HIGH"
+    },
+    {
+      "voynich": "kchol",
+      "decoded": "lily",
+      "ingredient_type": "lily",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f8v', 'f56r', 'f13r']",
+      "visual_match": "Bulbous root, blue star flower",
+      "confidence": "HIGH"
+    },
+    {
+      "voynich": "shaiin",
+      "decoded": "seed",
+      "ingredient_type": "seed",
+      "recipe_context": "Found 6x in recipes",
+      "botanical_context": "Found on ['f8v', 'f36r', 'f44v']",
+      "visual_match": "Compound leaves, seed pods",
+      "confidence": "HIGH"
+    },
+    {
+      "voynich": "ychol",
+      "decoded": "nettle",
+      "ingredient_type": "nettle",
+      "recipe_context": "Found 3x in recipes",
+      "botanical_context": "Found on ['f14r', 'f18v', 'f6v']",
+      "visual_match": "Thistle-like blue/green flowers, star leaves",
+      "confidence": "HIGH"
+    },
+    {
+      "voynich": "otar",
+      "decoded": "earth",
+      "ingredient_type": "earth",
+      "recipe_context": "Found 53x in recipes",
+      "botanical_context": "Found on ['f55r', 'f33r', 'f50v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "tar",
+      "decoded": "earth",
+      "ingredient_type": "earth",
+      "recipe_context": "Found 15x in recipes",
+      "botanical_context": "Found on ['f35v', 'f33v', 'f46v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "otor",
+      "decoded": "earth",
+      "ingredient_type": "earth",
+      "recipe_context": "Found 9x in recipes",
+      "botanical_context": "Found on ['f28r', 'f33r', 'f50v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "tor",
+      "decoded": "earth",
+      "ingredient_type": "earth",
+      "recipe_context": "Found 2x in recipes",
+      "botanical_context": "Found on ['f54r', 'f36r', 'f47r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "ytar",
+      "decoded": "earth",
+      "ingredient_type": "earth",
+      "recipe_context": "Found 7x in recipes",
+      "botanical_context": "Found on ['f48v', 'f34r', 'f19v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "oteor",
+      "decoded": "earth",
+      "ingredient_type": "earth",
+      "recipe_context": "Found 5x in recipes",
+      "botanical_context": "Found on ['f31r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "tair",
+      "decoded": "earth",
+      "ingredient_type": "earth",
+      "recipe_context": "Found 9x in recipes",
+      "botanical_context": "Found on ['f57r', 'f50v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "otary",
+      "decoded": "earth",
+      "ingredient_type": "earth",
+      "recipe_context": "Found 2x in recipes",
+      "botanical_context": "Found on ['f43r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "teor",
+      "decoded": "earth",
+      "ingredient_type": "earth",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f14r', 'f42v', 'f32v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "otaiir",
+      "decoded": "earth",
+      "ingredient_type": "earth",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f24v', 'f25r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "otam",
+      "decoded": "thyme",
+      "ingredient_type": "thyme",
+      "recipe_context": "Found 17x in recipes",
+      "botanical_context": "Found on ['f33r', 'f22v', 'f33v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "ytam",
+      "decoded": "thyme",
+      "ingredient_type": "thyme",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f48v', 'f51v', 'f43r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "ram",
+      "decoded": "branch",
+      "ingredient_type": "branch",
+      "recipe_context": "Found 9x in recipes",
+      "botanical_context": "Found on ['f9r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "oram",
+      "decoded": "branch",
+      "ingredient_type": "branch",
+      "recipe_context": "Found 4x in recipes",
+      "botanical_context": "Found on ['f33v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "aram",
+      "decoded": "branch",
+      "ingredient_type": "branch",
+      "recipe_context": "Found 5x in recipes",
+      "botanical_context": "Found on ['f40v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "orom",
+      "decoded": "branch",
+      "ingredient_type": "branch",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f16r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "far",
+      "decoded": "flower",
+      "ingredient_type": "flower",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f1r', 'f33r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "ofar",
+      "decoded": "flower",
+      "ingredient_type": "flower",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f50v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "pcheol",
+      "decoded": "flower (perach)",
+      "ingredient_type": "flower",
+      "recipe_context": "Found 3x in recipes",
+      "botanical_context": "Found on ['f3r', 'f52v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "opchor",
+      "decoded": "flower",
+      "ingredient_type": "flower",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f13r', 'f49r', 'f15v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "opchey",
+      "decoded": "flower",
+      "ingredient_type": "flower",
+      "recipe_context": "Found 12x in recipes",
+      "botanical_context": "Found on ['f48r', 'f20r', 'f50r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "otaiin",
+      "decoded": "fig",
+      "ingredient_type": "fig",
+      "recipe_context": "Found 74x in recipes",
+      "botanical_context": "Found on ['f28r', 'f50v', 'f20r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "taiin",
+      "decoded": "fig",
+      "ingredient_type": "fig",
+      "recipe_context": "Found 16x in recipes",
+      "botanical_context": "Found on ['f35r', 'f33r', 'f29v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "otain",
+      "decoded": "fig",
+      "ingredient_type": "fig",
+      "recipe_context": "Found 52x in recipes",
+      "botanical_context": "Found on ['f5r', 'f16v', 'f34v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "otan",
+      "decoded": "fig",
+      "ingredient_type": "fig",
+      "recipe_context": "Found 3x in recipes",
+      "botanical_context": "Found on ['f5r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "ytain",
+      "decoded": "fig",
+      "ingredient_type": "fig",
+      "recipe_context": "Found 4x in recipes",
+      "botanical_context": "Found on ['f35r', 'f1r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "otoiin",
+      "decoded": "fig",
+      "ingredient_type": "fig",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f4v', 'f37v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "doiin",
+      "decoded": "fig",
+      "ingredient_type": "fig",
+      "recipe_context": "Found 3x in recipes",
+      "botanical_context": "Found on ['f35v', 'f30v', 'f30r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "odain",
+      "decoded": "fig",
+      "ingredient_type": "fig",
+      "recipe_context": "Found 7x in recipes",
+      "botanical_context": "Found on ['f24r', 'f57r', 'f43r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "sar",
+      "decoded": "barley",
+      "ingredient_type": "barley",
+      "recipe_context": "Found 20x in recipes",
+      "botanical_context": "Found on ['f54r', 'f8v', 'f33v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "sor",
+      "decoded": "barley",
+      "ingredient_type": "barley",
+      "recipe_context": "Found 7x in recipes",
+      "botanical_context": "Found on ['f2r', 'f28v', 'f50r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "sair",
+      "decoded": "barley",
+      "ingredient_type": "barley",
+      "recipe_context": "Found 8x in recipes",
+      "botanical_context": "Found on ['f34r', 'f8r', 'f26v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "saiir",
+      "decoded": "barley",
+      "ingredient_type": "barley",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f31r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "sory",
+      "decoded": "barley",
+      "ingredient_type": "barley",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f1r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "oteos",
+      "decoded": "tree",
+      "ingredient_type": "tree",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f43v', 'f1r', 'f21r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "otees",
+      "decoded": "tree",
+      "ingredient_type": "tree",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f48v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "otos",
+      "decoded": "tree",
+      "ingredient_type": "tree",
+      "recipe_context": "Found 2x in recipes",
+      "botanical_context": "Found on ['f53r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "cheos",
+      "decoded": "tree",
+      "ingredient_type": "tree",
+      "recipe_context": "Found 9x in recipes",
+      "botanical_context": "Found on ['f46r', 'f26r', 'f41v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "chees",
+      "decoded": "tree",
+      "ingredient_type": "tree",
+      "recipe_context": "Found 8x in recipes",
+      "botanical_context": "Found on ['f41r', 'f23v', 'f39r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "ols",
+      "decoded": "almond tree",
+      "ingredient_type": "tree",
+      "recipe_context": "Found 3x in recipes",
+      "botanical_context": "Found on ['f46r', 'f13v', 'f15v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "daim",
+      "decoded": "blood",
+      "ingredient_type": "blood",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f46v', 'f52r', 'f51r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "daiim",
+      "decoded": "blood",
+      "ingredient_type": "blood",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f52v', 'f3v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "odam",
+      "decoded": "blood",
+      "ingredient_type": "blood",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f26r', 'f50r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "dm",
+      "decoded": "blood",
+      "ingredient_type": "blood",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f40r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "dam",
+      "decoded": "blood",
+      "ingredient_type": "blood",
+      "recipe_context": "Found 11x in recipes",
+      "botanical_context": "Found on ['f49v', 'f41r', 'f39r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "opar",
+      "decoded": "fruit",
+      "ingredient_type": "fruit",
+      "recipe_context": "Found 2x in recipes",
+      "botanical_context": "Found on ['f26v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "par",
+      "decoded": "fruit",
+      "ingredient_type": "fruit",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f35v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "pair",
+      "decoded": "fruit",
+      "ingredient_type": "fruit",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f33r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "ypair",
+      "decoded": "fruit",
+      "ingredient_type": "fruit",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f48v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "shory",
+      "decoded": "root (shoresh)",
+      "ingredient_type": "root",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f35v', 'f28v', 'f1r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "shear",
+      "decoded": "root (shoresh)",
+      "ingredient_type": "root",
+      "recipe_context": "Found 9x in recipes",
+      "botanical_context": "Found on ['f46r', 'f1r', 'f29r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "shos",
+      "decoded": "root (shoresh)",
+      "ingredient_type": "root",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f1r', 'f32r', 'f20v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "okeody",
+      "decoded": "wheat",
+      "ingredient_type": "wheat",
+      "recipe_context": "Found 5x in recipes",
+      "botanical_context": "Found on ['f48r', 'f4v', 'f41v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "okchy",
+      "decoded": "wheat",
+      "ingredient_type": "wheat",
+      "recipe_context": "Found 4x in recipes",
+      "botanical_context": "Found on ['f35v', 'f16r', 'f36r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "qokeody",
+      "decoded": "wheat",
+      "ingredient_type": "wheat",
+      "recipe_context": "Found 4x in recipes",
+      "botanical_context": "Found on ['f57r', 'f41v', 'f41r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "chety",
+      "decoded": "wheat",
+      "ingredient_type": "wheat",
+      "recipe_context": "Found 4x in recipes",
+      "botanical_context": "Found on ['f46r', 'f54r', 'f47v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "keody",
+      "decoded": "wheat",
+      "ingredient_type": "wheat",
+      "recipe_context": "Found 3x in recipes",
+      "botanical_context": "Found on ['f50v', 'f48v', 'f46v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "kchey",
+      "decoded": "wheat",
+      "ingredient_type": "wheat",
+      "recipe_context": "Found 3x in recipes",
+      "botanical_context": "Found on ['f35r', 'f8v', 'f13v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "ykedy",
+      "decoded": "wheat",
+      "ingredient_type": "wheat",
+      "recipe_context": "Found 3x in recipes",
+      "botanical_context": "Found on ['f41r', 'f48v', 'f40r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "choty",
+      "decoded": "wheat",
+      "ingredient_type": "wheat",
+      "recipe_context": "Found 7x in recipes",
+      "botanical_context": "Found on ['f28r', 'f29r', 'f35r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "tchey",
+      "decoded": "wheat",
+      "ingredient_type": "wheat",
+      "recipe_context": "Found 4x in recipes",
+      "botanical_context": "Found on ['f46r', 'f11v', 'f41v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "ctheey",
+      "decoded": "wheat",
+      "ingredient_type": "wheat",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f17v', 'f42r', 'f56v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "tchor",
+      "decoded": "wheat",
+      "ingredient_type": "wheat",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f35v', 'f35r', 'f16r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "otchor",
+      "decoded": "wheat",
+      "ingredient_type": "wheat",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Found on ['f28r', 'f35r', 'f56r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "qokchol",
+      "decoded": "lily",
+      "ingredient_type": "lily",
+      "recipe_context": "Found 3x in recipes",
+      "botanical_context": "Found on ['f28r', 'f22v', 'f14r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "soiin",
+      "decoded": "seed",
+      "ingredient_type": "seed",
+      "recipe_context": "Found 5x in recipes",
+      "botanical_context": "Found on ['f36r', 'f30r', 'f4r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "keol",
+      "decoded": "garlic",
+      "ingredient_type": "garlic",
+      "recipe_context": "Found 6x in recipes",
+      "botanical_context": "Found on ['f56r', 'f2r', 'f27r']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "sheedy",
+      "decoded": "honey",
+      "ingredient_type": "honey",
+      "recipe_context": "Found 27x in recipes",
+      "botanical_context": "Found on ['f50r', 'f57r', 'f39v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "shodaiin",
+      "decoded": "almond",
+      "ingredient_type": "almond",
+      "recipe_context": "Found 5x in recipes",
+      "botanical_context": "Found on ['f49v', 'f53v', 'f4v']",
+      "visual_match": null,
+      "confidence": "MEDIUM"
+    },
+    {
+      "voynich": "otair",
+      "decoded": "earth",
+      "ingredient_type": "earth",
+      "recipe_context": "Found 15x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "otear",
+      "decoded": "earth",
+      "ingredient_type": "earth",
+      "recipe_context": "Found 2x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "otaim",
+      "decoded": "thyme",
+      "ingredient_type": "thyme",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "porchey",
+      "decoded": "flower (perach)",
+      "ingredient_type": "flower",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "toaiin",
+      "decoded": "fig",
+      "ingredient_type": "fig",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "oteaiin",
+      "decoded": "fig",
+      "ingredient_type": "fig",
+      "recipe_context": "Found 2x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "sairy",
+      "decoded": "barley",
+      "ingredient_type": "barley",
+      "recipe_context": "Found 3x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "oteeos",
+      "decoded": "tree",
+      "ingredient_type": "tree",
+      "recipe_context": "Found 2x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "otes",
+      "decoded": "tree",
+      "ingredient_type": "tree",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "teos",
+      "decoded": "tree",
+      "ingredient_type": "tree",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "adam",
+      "decoded": "blood",
+      "ingredient_type": "blood",
+      "recipe_context": "Found 2x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "por",
+      "decoded": "fruit",
+      "ingredient_type": "fruit",
+      "recipe_context": "Found 4x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "opor",
+      "decoded": "fruit",
+      "ingredient_type": "fruit",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "opair",
+      "decoded": "fruit",
+      "ingredient_type": "fruit",
+      "recipe_context": "Found 4x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "opary",
+      "decoded": "fruit",
+      "ingredient_type": "fruit",
+      "recipe_context": "Found 2x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "poar",
+      "decoded": "fruit",
+      "ingredient_type": "fruit",
+      "recipe_context": "Found 2x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    },
+    {
+      "voynich": "yshedy",
+      "decoded": "honey",
+      "ingredient_type": "honey",
+      "recipe_context": "Found 1x in recipes",
+      "botanical_context": "Not in herbal section",
+      "visual_match": null,
+      "confidence": "LOW"
+    }
+  ],
+  "unknown_ingredients": [
+    {
+      "voynich": "otair",
+      "meaning": "earth",
+      "recipe_count": 15,
+      "possible_reason": "Non-plant ingredient (animal/mineral)"
+    },
+    {
+      "voynich": "otear",
+      "meaning": "earth",
+      "recipe_count": 2,
+      "possible_reason": "Non-plant ingredient (animal/mineral)"
+    },
+    {
+      "voynich": "otaim",
+      "meaning": "thyme",
+      "recipe_count": 1,
+      "possible_reason": "Possibly processed form or measurement term"
+    },
+    {
+      "voynich": "porchey",
+      "meaning": "flower (perach)",
+      "recipe_count": 1,
+      "possible_reason": "Possibly processed form or measurement term"
+    },
+    {
+      "voynich": "toaiin",
+      "meaning": "fig",
+      "recipe_count": 1,
+      "possible_reason": "Possibly processed form or measurement term"
+    },
+    {
+      "voynich": "oteaiin",
+      "meaning": "fig",
+      "recipe_count": 2,
+      "possible_reason": "Possibly processed form or measurement term"
+    },
+    {
+      "voynich": "sairy",
+      "meaning": "barley",
+      "recipe_count": 3,
+      "possible_reason": "Possibly processed form or measurement term"
+    },
+    {
+      "voynich": "oteeos",
+      "meaning": "tree",
+      "recipe_count": 2,
+      "possible_reason": "Possibly processed form or measurement term"
+    },
+    {
+      "voynich": "otes",
+      "meaning": "tree",
+      "recipe_count": 1,
+      "possible_reason": "Possibly processed form or measurement term"
+    },
+    {
+      "voynich": "teos",
+      "meaning": "tree",
+      "recipe_count": 1,
+      "possible_reason": "Possibly processed form or measurement term"
+    },
+    {
+      "voynich": "adam",
+      "meaning": "blood",
+      "recipe_count": 2,
+      "possible_reason": "Non-plant ingredient (animal/mineral)"
+    },
+    {
+      "voynich": "por",
+      "meaning": "fruit",
+      "recipe_count": 4,
+      "possible_reason": "Possibly processed form or measurement term"
+    },
+    {
+      "voynich": "opor",
+      "meaning": "fruit",
+      "recipe_count": 1,
+      "possible_reason": "Possibly processed form or measurement term"
+    },
+    {
+      "voynich": "opair",
+      "meaning": "fruit",
+      "recipe_count": 4,
+      "possible_reason": "Possibly processed form or measurement term"
+    },
+    {
+      "voynich": "opary",
+      "meaning": "fruit",
+      "recipe_count": 2,
+      "possible_reason": "Possibly processed form or measurement term"
+    },
+    {
+      "voynich": "poar",
+      "meaning": "fruit",
+      "recipe_count": 2,
+      "possible_reason": "Possibly processed form or measurement term"
+    },
+    {
+      "voynich": "yshedy",
+      "meaning": "honey",
+      "recipe_count": 1,
+      "possible_reason": "Non-plant ingredient (animal/mineral)"
+    }
+  ],
+  "statistics": {
+    "total_ingredient_words": 126,
+    "cross_section_count": 82,
+    "visual_correlations": 29,
+    "high_confidence_mappings": 13,
+    "match_rate": 0.23015873015873015
+  }
+}

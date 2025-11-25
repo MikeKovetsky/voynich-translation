@@ -1,0 +1,1987 @@
+{
+  "folios_analyzed": 20,
+  "total_words": 1922,
+  "overall_coverage": 38.9,
+  "average_visual_match": 24.0,
+  "language_a_coverage": 37.9,
+  "language_b_coverage": 39.7,
+  "folio_profiles": [
+    {
+      "folio": "f17r",
+      "expert_id": "smilax",
+      "currier_language": "A",
+      "total_words": 77,
+      "unique_words": 70,
+      "translated_words": 16,
+      "coverage": 22.9,
+      "first_word": "fshody",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "root": [
+          "shor"
+        ],
+        "wheat": [
+          "ykchy"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves"
+      ],
+      "visual_match_count": 1,
+      "visual_match_rate": 33.3,
+      "botanical_terms": 2,
+      "top_words": [
+        [
+          "plant",
+          4
+        ],
+        [
+          "otchol",
+          2
+        ],
+        [
+          "chol",
+          2
+        ],
+        [
+          "chor",
+          2
+        ],
+        [
+          "dar",
+          2
+        ],
+        [
+          "fshody",
+          1
+        ],
+        [
+          "daram",
+          1
+        ],
+        [
+          "ydarchom",
+          1
+        ],
+        [
+          "opydy",
+          1
+        ],
+        [
+          "ypod",
+          1
+        ]
+      ],
+      "sample_translations": {
+        "opydy": "foot",
+        "otchy": "finger",
+        "otchol": "sick (choleh)",
+        "chol": "sick (choleh)",
+        "or": "or/and",
+        "chy": "verbal/adjectival",
+        "chor": "hole/pierce (chor)",
+        "shol": "extract/draw out (shol)",
+        "olaiin": "moon",
+        "cthy": "verb form",
+        "shor": "root (shoresh)",
+        "cthey": "verb form",
+        "ykchy": "wheat",
+        "chckhy": "strength/power",
+        "dar": "Adar (month)"
+      }
+    },
+    {
+      "folio": "f17v",
+      "expert_id": "smilax",
+      "currier_language": "A",
+      "total_words": 150,
+      "unique_words": 104,
+      "translated_words": 51,
+      "coverage": 49.0,
+      "first_word": "pchodol",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "flower": [
+          "kchor",
+          "ychor",
+          "cphol"
+        ],
+        "fig": [
+          "ydaiin",
+          "otaiin"
+        ],
+        "barley": [
+          "sar",
+          "sor"
+        ],
+        "wheat": [
+          "ctheey"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves"
+      ],
+      "visual_match_count": 1,
+      "visual_match_rate": 33.3,
+      "botanical_terms": 8,
+      "top_words": [
+        [
+          "plant",
+          19
+        ],
+        [
+          "chol",
+          8
+        ],
+        [
+          "or",
+          4
+        ],
+        [
+          "ol",
+          4
+        ],
+        [
+          "chor",
+          2
+        ],
+        [
+          "keeor",
+          2
+        ],
+        [
+          "okol",
+          2
+        ],
+        [
+          "odaiin",
+          2
+        ],
+        [
+          "okal",
+          2
+        ],
+        [
+          "dar",
+          2
+        ]
+      ],
+      "sample_translations": {
+        "chor": "hole/pierce (chor)",
+        "okol": "all/voice",
+        "okal": "all/voice",
+        "kchor": "flower",
+        "cphol": "flower",
+        "ychol": "nettle",
+        "chol": "sick (choleh)",
+        "tchol": "Aries (lamb)",
+        "dar": "Adar (month)",
+        "ckhy": "verb form",
+        "or": "or/and",
+        "otaiin": "fig",
+        "sor": "barley",
+        "chkeey": "strength/power",
+        "cheor": "hole/pierce (chor)"
+      }
+    },
+    {
+      "folio": "f19r",
+      "expert_id": "arctostaphylis",
+      "currier_language": "A",
+      "total_words": 77,
+      "unique_words": 48,
+      "translated_words": 19,
+      "coverage": 39.6,
+      "first_word": "pchor",
+      "first_word_meaning": "flower (perach)",
+      "plant_parts_found": {
+        "root": [
+          "shor"
+        ],
+        "flower": [
+          "kchor",
+          "pchor"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "stars"
+      ],
+      "visual_match_count": 2,
+      "visual_match_rate": 40.0,
+      "botanical_terms": 3,
+      "top_words": [
+        [
+          "daiin",
+          8
+        ],
+        [
+          "plant",
+          6
+        ],
+        [
+          "chor",
+          4
+        ],
+        [
+          "shy",
+          4
+        ],
+        [
+          "tchy",
+          3
+        ],
+        [
+          "chol",
+          3
+        ],
+        [
+          "dor",
+          3
+        ],
+        [
+          "dy",
+          2
+        ],
+        [
+          "qotchy",
+          2
+        ],
+        [
+          "qoky",
+          2
+        ]
+      ],
+      "sample_translations": {
+        "pchor": "flower (perach)",
+        "dy": "-ness/-ly (suffix)",
+        "qotchy": "finger",
+        "qoky": "the (+ noun)",
+        "daiin": "of the/from",
+        "chor": "hole/pierce (chor)",
+        "chol": "sick (choleh)",
+        "choy": "verb (unknown)",
+        "shy": "verb form",
+        "yky": "verb (unknown)",
+        "chckhy": "strength/power",
+        "kchor": "flower",
+        "otchy": "finger",
+        "shor": "root (shoresh)",
+        "ky": "preposition/conjunction"
+      }
+    },
+    {
+      "folio": "f21r",
+      "expert_id": "polygonum",
+      "currier_language": "A",
+      "total_words": 93,
+      "unique_words": 77,
+      "translated_words": 37,
+      "coverage": 48.1,
+      "first_word": "pchor",
+      "first_word_meaning": "flower (perach)",
+      "plant_parts_found": {
+        "flower": [
+          "pchor"
+        ],
+        "tree": [
+          "oteos"
+        ],
+        "fig": [
+          "otaiin"
+        ],
+        "wheat": [
+          "ctheey"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ],
+      "visual_match_count": 2,
+      "visual_match_rate": 50.0,
+      "botanical_terms": 4,
+      "top_words": [
+        [
+          "daiin",
+          4
+        ],
+        [
+          "chol",
+          4
+        ],
+        [
+          "otaiin",
+          2
+        ],
+        [
+          "qotchol",
+          2
+        ],
+        [
+          "sheey",
+          2
+        ],
+        [
+          "cthy",
+          2
+        ],
+        [
+          "shy",
+          2
+        ],
+        [
+          "cheor",
+          2
+        ],
+        [
+          "chy",
+          2
+        ],
+        [
+          "chkaiin",
+          2
+        ]
+      ],
+      "sample_translations": {
+        "pchor": "flower (perach)",
+        "otaiin": "fig",
+        "oky": "verb form",
+        "oteos": "tree",
+        "sheey": "verb form",
+        "cthy": "verb form",
+        "daiin": "of the/from",
+        "qotol": "the (+ noun)",
+        "shy": "verb form",
+        "ol": "the/of",
+        "cheor": "hole/pierce (chor)",
+        "chy": "verbal/adjectival",
+        "qokchey": "the (+ noun)",
+        "chey": "verbal/adjectival",
+        "keey": "verb form"
+      }
+    },
+    {
+      "folio": "f23r",
+      "expert_id": "moss polytrichnum",
+      "currier_language": "A",
+      "total_words": 99,
+      "unique_words": 80,
+      "translated_words": 32,
+      "coverage": 40.0,
+      "first_word": "pydchdom",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "flower": [
+          "ychor"
+        ],
+        "seed": [
+          "shaiin"
+        ],
+        "wheat": [
+          "ctho",
+          "okchy",
+          "ykchy"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "stars"
+      ],
+      "visual_match_count": 1,
+      "visual_match_rate": 20.0,
+      "botanical_terms": 5,
+      "top_words": [
+        [
+          "daiin",
+          5
+        ],
+        [
+          "qokchol",
+          3
+        ],
+        [
+          "ol",
+          3
+        ],
+        [
+          "shy",
+          2
+        ],
+        [
+          "dal",
+          2
+        ],
+        [
+          "ar",
+          2
+        ],
+        [
+          "dam",
+          2
+        ],
+        [
+          "ykor",
+          2
+        ],
+        [
+          "dain",
+          2
+        ],
+        [
+          "chol",
+          2
+        ]
+      ],
+      "sample_translations": {
+        "chy": "verbal/adjectival",
+        "oty": "verb form",
+        "otchol": "sick (choleh)",
+        "shy": "verb form",
+        "daiin": "of the/from",
+        "dal": "aries",
+        "ar": "to/for",
+        "chor": "hole/pierce (chor)",
+        "otchy": "finger",
+        "dam": "blood",
+        "okchol": "nettle",
+        "dchar": "hole/pierce (chor)",
+        "ykaiin": "priest/cohen",
+        "ctho": "wheat",
+        "qokeey": "the (+ noun)"
+      }
+    },
+    {
+      "folio": "f24v",
+      "expert_id": "tamus communis",
+      "currier_language": "A",
+      "total_words": 91,
+      "unique_words": 77,
+      "translated_words": 23,
+      "coverage": 29.9,
+      "first_word": "tchodar",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "fig": [
+          "ydaiin"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves"
+      ],
+      "visual_match_count": 0,
+      "visual_match_rate": 0.0,
+      "botanical_terms": 1,
+      "top_words": [
+        [
+          "plant",
+          11
+        ],
+        [
+          "sho",
+          4
+        ],
+        [
+          "chol",
+          2
+        ],
+        [
+          "tchodar",
+          1
+        ],
+        [
+          "chocfhhg",
+          1
+        ],
+        [
+          "opom",
+          1
+        ],
+        [
+          "shod",
+          1
+        ],
+        [
+          "chcphy",
+          1
+        ],
+        [
+          "opshody",
+          1
+        ],
+        [
+          "ocphoraiin",
+          1
+        ]
+      ],
+      "sample_translations": {
+        "shy": "verb form",
+        "dchar": "hole/pierce (chor)",
+        "otaiir": "earth",
+        "okcho": "strength (koach)",
+        "sh": "fire",
+        "okol": "all/voice",
+        "chor": "hole/pierce (chor)",
+        "dar": "Adar (month)",
+        "chcthy": "verb (unknown)",
+        "shol": "extract/draw out (shol)",
+        "ychol": "nettle",
+        "chol": "sick (choleh)",
+        "or": "or/and",
+        "choy": "verb (unknown)",
+        "keol": "garlic"
+      }
+    },
+    {
+      "folio": "f25r",
+      "expert_id": "mentastrum",
+      "currier_language": "A",
+      "total_words": 46,
+      "unique_words": 40,
+      "translated_words": 14,
+      "coverage": 35.0,
+      "first_word": "fcholdy",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {},
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ],
+      "visual_match_count": 0,
+      "visual_match_rate": 0.0,
+      "botanical_terms": 0,
+      "top_words": [
+        [
+          "daiin",
+          5
+        ],
+        [
+          "chain",
+          2
+        ],
+        [
+          "cthain",
+          2
+        ],
+        [
+          "fcholdy",
+          1
+        ],
+        [
+          "soshy",
+          1
+        ],
+        [
+          "cky",
+          1
+        ],
+        [
+          "shody",
+          1
+        ],
+        [
+          "ocholdy",
+          1
+        ],
+        [
+          "cpholdy",
+          1
+        ],
+        [
+          "sy",
+          1
+        ]
+      ],
+      "sample_translations": {
+        "daiin": "of the/from",
+        "shody": "verb",
+        "sy": "verb (unknown)",
+        "otor": "earth",
+        "chor": "hole/pierce (chor)",
+        "sho": "fire",
+        "chy": "verbal/adjectival",
+        "kchy": "strength (koach)",
+        "qotchy": "finger",
+        "cthor": "unknown",
+        "qotaiin": "the (+ noun)",
+        "okal": "all/voice",
+        "dair": "Adar (month)",
+        "otaiir": "earth"
+      }
+    },
+    {
+      "folio": "f32v",
+      "expert_id": "herzkraut",
+      "currier_language": "A",
+      "total_words": 83,
+      "unique_words": 62,
+      "translated_words": 23,
+      "coverage": 37.1,
+      "first_word": "kcheodaiin",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "root": [
+          "shor"
+        ],
+        "flower": [
+          "cphol"
+        ],
+        "wheat": [
+          "ctho"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ],
+      "visual_match_count": 2,
+      "visual_match_rate": 40.0,
+      "botanical_terms": 3,
+      "top_words": [
+        [
+          "daiin",
+          11
+        ],
+        [
+          "chol",
+          3
+        ],
+        [
+          "chy",
+          3
+        ],
+        [
+          "dain",
+          3
+        ],
+        [
+          "chor",
+          3
+        ],
+        [
+          "qotaiin",
+          2
+        ],
+        [
+          "plant",
+          2
+        ],
+        [
+          "sho",
+          2
+        ],
+        [
+          "kcheodaiin",
+          1
+        ],
+        [
+          "kechy",
+          1
+        ]
+      ],
+      "sample_translations": {
+        "chol": "sick (choleh)",
+        "qotaiin": "the (+ noun)",
+        "daiin": "of the/from",
+        "chy": "verbal/adjectival",
+        "chey": "verbal/adjectival",
+        "ldy": "verb",
+        "teor": "earth",
+        "shor": "root (shoresh)",
+        "chckhy": "strength/power",
+        "or": "or/and",
+        "chor": "hole/pierce (chor)",
+        "shy": "verb form",
+        "qo": "the (definite article)",
+        "she": "preposition/conjunction",
+        "otchol": "sick (choleh)"
+      }
+    },
+    {
+      "folio": "f33r",
+      "expert_id": "scabiosa",
+      "currier_language": "B",
+      "total_words": 71,
+      "unique_words": 58,
+      "translated_words": 21,
+      "coverage": 36.2,
+      "first_word": "tshdar",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "flower": [
+          "far"
+        ],
+        "fruit": [
+          "pair"
+        ],
+        "fig": [
+          "taiin",
+          "otaiin"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "figures",
+        "stars"
+      ],
+      "visual_match_count": 1,
+      "visual_match_rate": 20.0,
+      "botanical_terms": 3,
+      "top_words": [
+        [
+          "aiin",
+          5
+        ],
+        [
+          "or",
+          3
+        ],
+        [
+          "okaiin",
+          3
+        ],
+        [
+          "daiin",
+          2
+        ],
+        [
+          "cheky",
+          2
+        ],
+        [
+          "chdal",
+          2
+        ],
+        [
+          "dar",
+          2
+        ],
+        [
+          "okal",
+          2
+        ],
+        [
+          "tshdar",
+          1
+        ],
+        [
+          "shdor",
+          1
+        ]
+      ],
+      "sample_translations": {
+        "otchedy": "verb form",
+        "daiin": "of the/from",
+        "qokar": "the (+ noun)",
+        "cheky": "strength/power",
+        "otor": "earth",
+        "otar": "earth",
+        "shedy": "which/that",
+        "ody": "verb",
+        "taiin": "fig",
+        "or": "or/and",
+        "dar": "Adar (month)",
+        "chkeey": "strength/power",
+        "far": "flower",
+        "aiin": "one",
+        "pair": "fruit"
+      }
+    },
+    {
+      "folio": "f35r",
+      "expert_id": "uva quercina",
+      "currier_language": "A",
+      "total_words": 95,
+      "unique_words": 66,
+      "translated_words": 29,
+      "coverage": 43.9,
+      "first_word": "cthoo",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "root": [
+          "shor"
+        ],
+        "fig": [
+          "taiin",
+          "ytain"
+        ],
+        "wheat": [
+          "choty",
+          "otchor",
+          "kchey",
+          "tchor"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ],
+      "visual_match_count": 1,
+      "visual_match_rate": 20.0,
+      "botanical_terms": 7,
+      "top_words": [
+        [
+          "plant",
+          9
+        ],
+        [
+          "daiin",
+          7
+        ],
+        [
+          "qotchy",
+          4
+        ],
+        [
+          "chaiin",
+          4
+        ],
+        [
+          "taiin",
+          3
+        ],
+        [
+          "aiin",
+          3
+        ],
+        [
+          "char",
+          2
+        ],
+        [
+          "otchor",
+          2
+        ],
+        [
+          "chear",
+          2
+        ],
+        [
+          "chol",
+          2
+        ]
+      ],
+      "sample_translations": {
+        "choly": "nettle",
+        "cthy": "verb form",
+        "choty": "wheat",
+        "char": "hole/pierce (chor)",
+        "dy": "-ness/-ly (suffix)",
+        "qotchy": "finger",
+        "daiin": "of the/from",
+        "cthey": "verb form",
+        "taiin": "fig",
+        "ckhol": "nettle",
+        "cheey": "verb form",
+        "otchor": "wheat",
+        "sho": "fire",
+        "tchor": "wheat",
+        "choky": "eye"
+      }
+    },
+    {
+      "folio": "f36r",
+      "expert_id": "valerian",
+      "currier_language": "A",
+      "total_words": 61,
+      "unique_words": 55,
+      "translated_words": 20,
+      "coverage": 36.4,
+      "first_word": "pchafdan",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "root": [
+          "shor"
+        ],
+        "seed": [
+          "soiin",
+          "shaiin"
+        ],
+        "fig": [
+          "ytaiin"
+        ],
+        "wheat": [
+          "okchy"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ],
+      "visual_match_count": 1,
+      "visual_match_rate": 25.0,
+      "botanical_terms": 5,
+      "top_words": [
+        [
+          "daiin",
+          3
+        ],
+        [
+          "chol",
+          2
+        ],
+        [
+          "dy",
+          2
+        ],
+        [
+          "plantchy",
+          2
+        ],
+        [
+          "cthol",
+          2
+        ],
+        [
+          "pchafdan",
+          1
+        ],
+        [
+          "qorain",
+          1
+        ],
+        [
+          "chcfhal",
+          1
+        ],
+        [
+          "soiin",
+          1
+        ],
+        [
+          "cphor",
+          1
+        ]
+      ],
+      "sample_translations": {
+        "soiin": "seed",
+        "shaiin": "seed",
+        "cthy": "verb form",
+        "dair": "Adar (month)",
+        "shor": "root (shoresh)",
+        "ytaiin": "fig",
+        "qotaiin": "the (+ noun)",
+        "chty": "verb (unknown)",
+        "chol": "sick (choleh)",
+        "dy": "-ness/-ly (suffix)",
+        "tor": "earth",
+        "qotchy": "finger",
+        "daiin": "of the/from",
+        "dar": "Adar (month)",
+        "sy": "verb (unknown)"
+      }
+    },
+    {
+      "folio": "f39v",
+      "expert_id": "thistle",
+      "currier_language": "B",
+      "total_words": 141,
+      "unique_words": 106,
+      "translated_words": 47,
+      "coverage": 44.3,
+      "first_word": "pdair",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "barley": [
+          "sor"
+        ],
+        "wheat": [
+          "ykedy"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ],
+      "visual_match_count": 0,
+      "visual_match_rate": 0.0,
+      "botanical_terms": 2,
+      "top_words": [
+        [
+          "or",
+          9
+        ],
+        [
+          "aiin",
+          8
+        ],
+        [
+          "ar",
+          4
+        ],
+        [
+          "chdy",
+          3
+        ],
+        [
+          "okaiin",
+          3
+        ],
+        [
+          "dar",
+          3
+        ],
+        [
+          "kor",
+          2
+        ],
+        [
+          "olky",
+          2
+        ],
+        [
+          "ykar",
+          2
+        ],
+        [
+          "dy",
+          2
+        ]
+      ],
+      "sample_translations": {
+        "chdy": "one",
+        "or": "or/and",
+        "aiin": "one",
+        "dol": "aries",
+        "ky": "preposition/conjunction",
+        "sor": "barley",
+        "shy": "verb form",
+        "chol": "sick (choleh)",
+        "qoty": "the (+ noun)",
+        "olky": "verb (unknown)",
+        "ody": "verb",
+        "dy": "-ness/-ly (suffix)",
+        "daiin": "of the/from",
+        "chor": "hole/pierce (chor)",
+        "qokaiin": "priest/cohen"
+      }
+    },
+    {
+      "folio": "f40r",
+      "expert_id": "thistle",
+      "currier_language": "B",
+      "total_words": 97,
+      "unique_words": 74,
+      "translated_words": 23,
+      "coverage": 31.1,
+      "first_word": "pchey",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "fig": [
+          "taiin"
+        ],
+        "wheat": [
+          "ykedy"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ],
+      "visual_match_count": 0,
+      "visual_match_rate": 0.0,
+      "botanical_terms": 2,
+      "top_words": [
+        [
+          "ar",
+          4
+        ],
+        [
+          "okar",
+          4
+        ],
+        [
+          "oky",
+          4
+        ],
+        [
+          "or",
+          4
+        ],
+        [
+          "okaiin",
+          4
+        ],
+        [
+          "qokar",
+          3
+        ],
+        [
+          "chdy",
+          3
+        ],
+        [
+          "ol",
+          3
+        ],
+        [
+          "dar",
+          2
+        ],
+        [
+          "chedy",
+          2
+        ]
+      ],
+      "sample_translations": {
+        "okal": "all/voice",
+        "shdy": "verb form",
+        "ar": "to/for",
+        "qokar": "the (+ noun)",
+        "dar": "Adar (month)",
+        "chedy": "is/has (verb)",
+        "shy": "verb form",
+        "chdy": "one",
+        "oky": "verb form",
+        "or": "or/and",
+        "aiin": "one",
+        "ol": "the/of",
+        "dam": "blood",
+        "tor": "earth",
+        "daiin": "of the/from"
+      }
+    },
+    {
+      "folio": "f40v",
+      "expert_id": "scabiosa",
+      "currier_language": "B",
+      "total_words": 112,
+      "unique_words": 81,
+      "translated_words": 33,
+      "coverage": 40.7,
+      "first_word": "pchedain",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "branch": [
+          "aram"
+        ],
+        "tree": [
+          "toees"
+        ],
+        "fig": [
+          "otain"
+        ],
+        "wheat": [
+          "ykedy"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "figures",
+        "stars"
+      ],
+      "visual_match_count": 0,
+      "visual_match_rate": 0.0,
+      "botanical_terms": 3,
+      "top_words": [
+        [
+          "plant",
+          11
+        ],
+        [
+          "okaiin",
+          4
+        ],
+        [
+          "qokaiin",
+          3
+        ],
+        [
+          "ol",
+          3
+        ],
+        [
+          "chckhy",
+          3
+        ],
+        [
+          "okar",
+          3
+        ],
+        [
+          "chedy",
+          3
+        ],
+        [
+          "ar",
+          3
+        ],
+        [
+          "kedy",
+          3
+        ],
+        [
+          "daiin",
+          2
+        ]
+      ],
+      "sample_translations": {
+        "oldy": "verb",
+        "qokaiin": "priest/cohen",
+        "ol": "the/of",
+        "aram": "branch",
+        "chckhy": "strength/power",
+        "aiin": "one",
+        "daiin": "of the/from",
+        "shody": "verb",
+        "chedy": "is/has (verb)",
+        "ar": "to/for",
+        "chodaiin": "priest",
+        "ykedy": "wheat",
+        "okal": "all/voice",
+        "tchedy": "verbal/adjectival",
+        "dalor": "pain"
+      }
+    },
+    {
+      "folio": "f46v",
+      "expert_id": "gemswurz",
+      "currier_language": "B",
+      "total_words": 109,
+      "unique_words": 86,
+      "translated_words": 37,
+      "coverage": 43.0,
+      "first_word": "pody",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "tree": [
+          "tos"
+        ],
+        "fig": [
+          "ydaiin"
+        ],
+        "wheat": [
+          "keody"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ],
+      "visual_match_count": 1,
+      "visual_match_rate": 20.0,
+      "botanical_terms": 3,
+      "top_words": [
+        [
+          "chedy",
+          6
+        ],
+        [
+          "shedy",
+          4
+        ],
+        [
+          "daiin",
+          4
+        ],
+        [
+          "qokedy",
+          3
+        ],
+        [
+          "oty",
+          3
+        ],
+        [
+          "dam",
+          3
+        ],
+        [
+          "ar",
+          2
+        ],
+        [
+          "otedy",
+          2
+        ],
+        [
+          "dair",
+          2
+        ],
+        [
+          "or",
+          2
+        ]
+      ],
+      "sample_translations": {
+        "shedy": "which/that",
+        "opchedy": "chest",
+        "daiin": "of the/from",
+        "aiin": "one",
+        "okaly": "verb (unknown)",
+        "otar": "earth",
+        "ar": "to/for",
+        "oldy": "verb",
+        "okey": "verb form",
+        "keody": "wheat",
+        "shdy": "verb form",
+        "qokar": "the (+ noun)",
+        "oty": "verb form",
+        "qoty": "the (+ noun)",
+        "chedy": "is/has (verb)"
+      }
+    },
+    {
+      "folio": "f47r",
+      "expert_id": "gemswurz",
+      "currier_language": "A",
+      "total_words": 86,
+      "unique_words": 57,
+      "translated_words": 28,
+      "coverage": 49.1,
+      "first_word": "pchair",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "flower": [
+          "kchor"
+        ],
+        "wheat": [
+          "otcho"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits"
+      ],
+      "visual_match_count": 1,
+      "visual_match_rate": 20.0,
+      "botanical_terms": 2,
+      "top_words": [
+        [
+          "chol",
+          9
+        ],
+        [
+          "plant",
+          7
+        ],
+        [
+          "daiin",
+          5
+        ],
+        [
+          "shol",
+          4
+        ],
+        [
+          "dain",
+          3
+        ],
+        [
+          "chdy",
+          2
+        ],
+        [
+          "aiin",
+          2
+        ],
+        [
+          "chy",
+          2
+        ],
+        [
+          "chaiin",
+          2
+        ],
+        [
+          "chey",
+          2
+        ]
+      ],
+      "sample_translations": {
+        "shol": "extract/draw out (shol)",
+        "daiin": "of the/from",
+        "chdy": "one",
+        "chol": "sick (choleh)",
+        "dair": "Adar (month)",
+        "aiin": "one",
+        "chy": "verbal/adjectival",
+        "ckhey": "verb form",
+        "cthey": "verb form",
+        "chokain": "male/remember (zachar)",
+        "ol": "the/of",
+        "shey": "verb form",
+        "chey": "verbal/adjectival",
+        "kchor": "flower",
+        "chor": "hole/pierce (chor)"
+      }
+    },
+    {
+      "folio": "f48v",
+      "expert_id": "papaver/poppy",
+      "currier_language": "B",
+      "total_words": 121,
+      "unique_words": 101,
+      "translated_words": 39,
+      "coverage": 38.6,
+      "first_word": "pcheodchy",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "fruit": [
+          "ypair"
+        ],
+        "tree": [
+          "otees"
+        ],
+        "fig": [
+          "taiin"
+        ],
+        "wheat": [
+          "keody",
+          "chety",
+          "ykedy"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem",
+        "fruits",
+        "stars"
+      ],
+      "visual_match_count": 2,
+      "visual_match_rate": 33.3,
+      "botanical_terms": 5,
+      "top_words": [
+        [
+          "otar",
+          4
+        ],
+        [
+          "otedy",
+          4
+        ],
+        [
+          "chdy",
+          3
+        ],
+        [
+          "chey",
+          3
+        ],
+        [
+          "chedy",
+          3
+        ],
+        [
+          "or",
+          3
+        ],
+        [
+          "aiin",
+          2
+        ],
+        [
+          "tedy",
+          2
+        ],
+        [
+          "am",
+          2
+        ],
+        [
+          "otam",
+          2
+        ]
+      ],
+      "sample_translations": {
+        "dshedy": "verbal/adjectival",
+        "aiin": "one",
+        "shey": "verb form",
+        "chdy": "one",
+        "ypair": "fruit",
+        "chey": "verbal/adjectival",
+        "otar": "earth",
+        "chety": "wheat",
+        "keody": "wheat",
+        "chody": "one",
+        "chedy": "is/has (verb)",
+        "daly": "verb (unknown)",
+        "okeey": "verb form",
+        "ty": "preposition/conjunction",
+        "lkeey": "verb form"
+      }
+    },
+    {
+      "folio": "f49r",
+      "expert_id": "scammonia",
+      "currier_language": "A",
+      "total_words": 119,
+      "unique_words": 85,
+      "translated_words": 23,
+      "coverage": 27.1,
+      "first_word": "poshol",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "root": [
+          "shor"
+        ],
+        "flower": [
+          "opchor"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ],
+      "visual_match_count": 2,
+      "visual_match_rate": 50.0,
+      "botanical_terms": 2,
+      "top_words": [
+        [
+          "plant",
+          10
+        ],
+        [
+          "daiin",
+          7
+        ],
+        [
+          "shor",
+          4
+        ],
+        [
+          "chor",
+          3
+        ],
+        [
+          "sheor",
+          3
+        ],
+        [
+          "chey",
+          3
+        ],
+        [
+          "chol",
+          3
+        ],
+        [
+          "cheey",
+          3
+        ],
+        [
+          "shol",
+          2
+        ],
+        [
+          "sho",
+          2
+        ]
+      ],
+      "sample_translations": {
+        "dy": "-ness/-ly (suffix)",
+        "shor": "root (shoresh)",
+        "shol": "extract/draw out (shol)",
+        "opchor": "flower",
+        "sho": "fire",
+        "qo": "the (definite article)",
+        "daiin": "of the/from",
+        "dchor": "moon",
+        "chor": "hole/pierce (chor)",
+        "sheor": "head",
+        "chey": "verbal/adjectival",
+        "olor": "verb form",
+        "chol": "sick (choleh)",
+        "cheey": "verb form",
+        "chy": "verbal/adjectival"
+      }
+    },
+    {
+      "folio": "f50v",
+      "expert_id": "symphytum",
+      "currier_language": "B",
+      "total_words": 97,
+      "unique_words": 84,
+      "translated_words": 37,
+      "coverage": 44.0,
+      "first_word": "tchy",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "root": [
+          "shor"
+        ],
+        "flower": [
+          "ofar"
+        ],
+        "fig": [
+          "otaiin"
+        ],
+        "wheat": [
+          "keody",
+          "ykchy"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ],
+      "visual_match_count": 2,
+      "visual_match_rate": 50.0,
+      "botanical_terms": 5,
+      "top_words": [
+        [
+          "okaiin",
+          3
+        ],
+        [
+          "okain",
+          3
+        ],
+        [
+          "qokedy",
+          3
+        ],
+        [
+          "okal",
+          2
+        ],
+        [
+          "otar",
+          2
+        ],
+        [
+          "or",
+          2
+        ],
+        [
+          "chckhy",
+          2
+        ],
+        [
+          "daiin",
+          2
+        ],
+        [
+          "kar",
+          2
+        ],
+        [
+          "kchdy",
+          2
+        ]
+      ],
+      "sample_translations": {
+        "qokchdy": "the (+ noun)",
+        "opchedy": "chest",
+        "shor": "root (shoresh)",
+        "ofar": "flower",
+        "shedy": "which/that",
+        "qokaly": "verb (unknown)",
+        "chdy": "one",
+        "oty": "verb form",
+        "keody": "wheat",
+        "cheey": "verb form",
+        "checkhy": "verb form",
+        "shckhy": "verb form",
+        "okal": "all/voice",
+        "dar": "Adar (month)",
+        "olaiin": "moon"
+      }
+    },
+    {
+      "folio": "f56v",
+      "expert_id": "scammonia",
+      "currier_language": "A",
+      "total_words": 97,
+      "unique_words": 66,
+      "translated_words": 23,
+      "coverage": 34.8,
+      "first_word": "kcheat",
+      "first_word_meaning": "unknown",
+      "plant_parts_found": {
+        "root": [
+          "shor"
+        ],
+        "wheat": [
+          "tchey",
+          "ctheey"
+        ]
+      },
+      "visual_elements": [
+        "roots",
+        "flowers",
+        "leaves",
+        "stem"
+      ],
+      "visual_match_count": 1,
+      "visual_match_rate": 25.0,
+      "botanical_terms": 3,
+      "top_words": [
+        [
+          "plant",
+          11
+        ],
+        [
+          "chol",
+          9
+        ],
+        [
+          "daiin",
+          6
+        ],
+        [
+          "shol",
+          3
+        ],
+        [
+          "chey",
+          2
+        ],
+        [
+          "qoteey",
+          2
+        ],
+        [
+          "sho",
+          2
+        ],
+        [
+          "kcheey",
+          2
+        ],
+        [
+          "chotor",
+          2
+        ],
+        [
+          "kchol",
+          2
+        ]
+      ],
+      "sample_translations": {
+        "shol": "extract/draw out (shol)",
+        "chey": "verbal/adjectival",
+        "shor": "root (shoresh)",
+        "qoteey": "the (+ noun)",
+        "daiin": "of the/from",
+        "chol": "sick (choleh)",
+        "dal": "aries",
+        "tchey": "wheat",
+        "sho": "fire",
+        "chor": "hole/pierce (chor)",
+        "oteey": "verb form",
+        "kol": "all/voice",
+        "oky": "verb form",
+        "ol": "the/of",
+        "kchy": "strength (koach)"
+      }
+    }
+  ],
+  "common_patterns": [
+    {
+      "plant": "smilax",
+      "common_words": [
+        "dar",
+        "chol",
+        "chor",
+        "plant"
+      ],
+      "folio_count": 2
+    },
+    {
+      "plant": "scabiosa",
+      "common_words": [
+        "okaiin",
+        "daiin"
+      ],
+      "folio_count": 2
+    },
+    {
+      "plant": "thistle",
+      "common_words": [
+        "dar",
+        "or",
+        "ar",
+        "chdy",
+        "okaiin"
+      ],
+      "folio_count": 2
+    },
+    {
+      "plant": "gemswurz",
+      "common_words": [
+        "daiin"
+      ],
+      "folio_count": 2
+    },
+    {
+      "plant": "scammonia",
+      "common_words": [
+        "daiin",
+        "shol",
+        "sho",
+        "chol",
+        "chey",
+        "plant"
+      ],
+      "folio_count": 2
+    }
+  ],
+  "vocabulary_gaps": [
+    [
+      "plant",
+      13
+    ],
+    [
+      "okaiin",
+      13
+    ],
+    [
+      "dor",
+      7
+    ],
+    [
+      "okar",
+      7
+    ],
+    [
+      "saiin",
+      6
+    ],
+    [
+      "ain",
+      5
+    ],
+    [
+      "dain",
+      5
+    ],
+    [
+      "chaiin",
+      5
+    ],
+    [
+      "plantdain",
+      5
+    ],
+    [
+      "kor",
+      5
+    ],
+    [
+      "qokedy",
+      5
+    ],
+    [
+      "qokchy",
+      4
+    ],
+    [
+      "qokol",
+      4
+    ],
+    [
+      "chan",
+      4
+    ],
+    [
+      "tchy",
+      4
+    ],
+    [
+      "cho",
+      4
+    ],
+    [
+      "oly",
+      4
+    ],
+    [
+      "ksho",
+      4
+    ],
+    [
+      "kaiin",
+      4
+    ],
+    [
+      "air",
+      4
+    ],
+    [
+      "okedy",
+      4
+    ],
+    [
+      "cphor",
+      3
+    ],
+    [
+      "cthar",
+      3
+    ],
+    [
+      "odaiin",
+      3
+    ],
+    [
+      "cheo",
+      3
+    ],
+    [
+      "olol",
+      3
+    ],
+    [
+      "sheaiin",
+      3
+    ],
+    [
+      "otol",
+      3
+    ],
+    [
+      "qokoiin",
+      3
+    ],
+    [
+      "ykor",
+      3
+    ]
+  ]
+}

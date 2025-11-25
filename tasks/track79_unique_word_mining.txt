@@ -1,0 +1,138 @@
+TRACK 79: Scale Unique Word Mining Algorithm
+============================================
+
+METHODOLOGY DISCOVERED:
+We found that `shtshy` appears ONLY on f16r (cannabis illustration) 
+and f116r (recipes) - nowhere else in 35,000+ words!
+
+This suggests: Words UNIQUE to a plant page that ALSO appear in 
+recipes are likely the PLANT NAME used as ingredient.
+
+ALGORITHM:
+1. For each herbal folio with expert plant ID:
+   a. Extract all words from that folio
+   b. Find words that are RARE (appear <5x in whole manuscript)
+   c. Check if those rare words appear in recipe section (f103-f116)
+   d. If YES → strong candidate for plant name
+
+2. Cross-validate:
+   - Does the word appear on MULTIPLE pages for same plant? (e.g., f6v and f51r both = ricinus)
+   - Does the word skeleton match Hebrew/Italian plant name?
+
+INPUT FILES:
+- data/eva_ivtff.txt
+- results/scholarly_master.json (expert plant IDs)
+- results/master_dictionary.json
+
+TARGET HERBAL PAGES (with expert IDs):
+| Folio | Expert ID | Priority |
+|-------|-----------|----------|
+| f16r | cannabis | HIGH (validated!) |
+| f9v | viola | HIGH |
+| f6v | ricinus | HIGH |
+| f51r | ricinus | HIGH (same plant!) |
+| f36v | cannabis? | MEDIUM |
+| f7r | paeonia | MEDIUM |
+| f17r | smilax | MEDIUM |
+| f25r | mentastrum | MEDIUM |
+| f33r | scabiosa | MEDIUM |
+| f48v | papaver | HIGH |
+
+TASK 1: Build Rarity Index
+--------------------------
+For EVERY word in manuscript:
+- Count total occurrences
+- List which folios it appears on
+- Flag words appearing <5 times
+
+Output: results/word_rarity_index.json
+
+TASK 2: Extract Unique Words Per Herbal Page
+--------------------------------------------
+For each herbal folio:
+{
+  "folio": "f16r",
+  "expert_id": "cannabis",
+  "total_words": 75,
+  "unique_words": ["shtshy", "dainod", "ychealod", ...],
+  "rare_words": [
+    {"word": "shtshy", "total_occurrences": 2, "other_folios": ["f116r"]},
+    ...
+  ]
+}
+
+Output: results/herbal_unique_words.json
+
+TASK 3: Cross-Reference with Recipe Section
+-------------------------------------------
+Recipe section folios: f103r - f116v
+
+For each rare word from herbal pages:
+- Does it appear in recipes?
+- How many times?
+- In what context?
+
+{
+  "word": "shtshy",
+  "source_folio": "f16r",
+  "expert_plant": "cannabis",
+  "recipe_occurrences": [
+    {"folio": "f116r", "line": 13, "context": "...chetaiin.shtshy.okey..."}
+  ],
+  "confidence": "HIGH"
+}
+
+Output: results/plant_recipe_crossref.json
+
+TASK 4: Validate with Plant Pairs
+---------------------------------
+Some plants appear on multiple pages:
+- ricinus: f6v AND f51r
+- cannabis?: f16r AND f36v
+
+Find words that appear on BOTH pages of a pair but nowhere else.
+These are VERY high confidence plant names.
+
+Output: results/plant_pair_vocabulary.json
+
+TASK 5: Build New Dictionary Entries
+------------------------------------
+For each validated plant word:
+{
+  "voynich": "shtshy",
+  "meaning": "cannabis/hemp",
+  "confidence": "high",
+  "evidence": {
+    "appears_on_plant_page": "f16r",
+    "expert_id": "cannabis",
+    "appears_in_recipes": true,
+    "recipe_folios": ["f116r"],
+    "total_manuscript_occurrences": 2
+  },
+  "hebrew_match": "hashish (sh-sh pattern)",
+  "source": "unique_word_mining"
+}
+
+Output: results/mined_plant_names.json
+
+TASK 6: Generate Statistics
+---------------------------
+- How many herbal pages analyzed?
+- How many unique/rare words found?
+- How many cross-referenced with recipes?
+- How many new dictionary entries?
+- What % of herbal pages now have identified plant name?
+
+OUTPUT FILES (REQUIRED):
+- unique_word_mine.py (main script)
+- results/word_rarity_index.json
+- results/herbal_unique_words.json
+- results/plant_recipe_crossref.json
+- results/plant_pair_vocabulary.json
+- results/mined_plant_names.json
+- results/unique_word_mining_report.md
+
+EXPECTED IMPACT:
+- Currently: 0 confirmed plant names in dictionary
+- Target: 10-20 high-confidence plant names
+- This could be a BREAKTHROUGH for dictionary expansion!

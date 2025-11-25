@@ -1,0 +1,42 @@
+TRACK 73G: Mine Quire 13 (Biological Section)
+=============================================
+
+SOURCE URL:
+- https://voynich.nu/q13/index.html (f75-f84)
+
+NOTE: This is the BIOLOGICAL section!
+- Human figures (mostly nude women)
+- Bathing pools / tubes
+- Possibly anatomical or gynecological
+
+TASK: Extract for EACH folio:
+1. Folio number
+2. Figure descriptions (nymphs, bodies, poses)
+3. Pool/vessel descriptions
+4. Any text labels identified
+5. Currier language (A or B)
+6. LFD hand number
+
+Look for any body part identifications by scholars!
+
+FORMAT OUTPUT AS JSON:
+{
+  "quires": ["q13"],
+  "folios": [
+    {
+      "folio": "f75r",
+      "section": "biological",
+      "figures": "description of human figures",
+      "vessels": "pools, tubes, containers",
+      "body_parts_labeled": [],
+      "scholar_interpretations": [],
+      "currier_lang": "B",
+      "lfd_hand": 2
+    },
+    ...
+  ]
+}
+
+OUTPUT FILES:
+- mine_q13.py
+- results/quire_13_biological.json

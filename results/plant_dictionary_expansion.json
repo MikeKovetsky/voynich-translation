@@ -1,0 +1,1710 @@
+{
+  "new_entries": [
+    {
+      "voynich": "shochy",
+      "meaning": "lilium (plant)",
+      "latin": "lilium",
+      "hebrew": "שושן (shoshan)",
+      "italian": "giglio",
+      "language": "botanical",
+      "confidence": 0.65,
+      "domain": "botanical",
+      "source": "Track75_ExpertBotanical",
+      "folios": [
+        "f13r"
+      ],
+      "frequency": 1,
+      "skeleton_match": "shshn"
+    },
+    {
+      "voynich": "dals",
+      "meaning": "centaurea (plant)",
+      "latin": "centaurea",
+      "hebrew": "",
+      "italian": "fiordaliso",
+      "language": "botanical",
+      "confidence": 0.75,
+      "domain": "botanical",
+      "source": "Track75_ExpertBotanical",
+      "folios": [
+        "f2r"
+      ],
+      "frequency": 6,
+      "skeleton_match": "frdls"
+    },
+    {
+      "voynich": "qofol",
+      "meaning": "botanical term (viola folio)",
+      "latin": "viola",
+      "hebrew": "סגל (sigal)",
+      "italian": "viola",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f9v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "qochol",
+      "meaning": "botanical term (viola folio)",
+      "latin": "viola",
+      "hebrew": "סגל (sigal)",
+      "italian": "viola",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f9v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "otchaiin",
+      "meaning": "botanical term (cannabis folio)",
+      "latin": "cannabis",
+      "hebrew": "קנאביס (kanabis)",
+      "italian": "canapa",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f36v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "cphar",
+      "meaning": "botanical term (cannabis folio)",
+      "latin": "cannabis",
+      "hebrew": "קנאביס (kanabis)",
+      "italian": "canapa",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f36v"
+      ],
+      "frequency": 4
+    },
+    {
+      "voynich": "dchody",
+      "meaning": "botanical term (ricinus folio)",
+      "latin": "ricinus",
+      "hebrew": "קיקיון (kikayon)",
+      "italian": "ricino",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f51r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "ckhal",
+      "meaning": "botanical term (ricinus folio)",
+      "latin": "ricinus",
+      "hebrew": "קיקיון (kikayon)",
+      "italian": "ricino",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f51r"
+      ],
+      "frequency": 4
+    },
+    {
+      "voynich": "cheeal",
+      "meaning": "botanical term (ricinus folio)",
+      "latin": "ricinus",
+      "hebrew": "קיקיון (kikayon)",
+      "italian": "ricino",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f51r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "opchear",
+      "meaning": "botanical term (ricinus folio)",
+      "latin": "ricinus",
+      "hebrew": "קיקיון (kikayon)",
+      "italian": "ricino",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f51r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "ychear",
+      "meaning": "botanical term (ricinus folio)",
+      "latin": "ricinus",
+      "hebrew": "קיקיון (kikayon)",
+      "italian": "ricino",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f6v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "ytchos",
+      "meaning": "botanical term (ricinus folio)",
+      "latin": "ricinus",
+      "hebrew": "קיקיון (kikayon)",
+      "italian": "ricino",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f6v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "ytcho",
+      "meaning": "botanical term (ricinus folio)",
+      "latin": "ricinus",
+      "hebrew": "קיקיון (kikayon)",
+      "italian": "ricino",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f6v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "qokom",
+      "meaning": "botanical term (ricinus folio)",
+      "latin": "ricinus",
+      "hebrew": "קיקיון (kikayon)",
+      "italian": "ricino",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f6v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "kchos",
+      "meaning": "botanical term (ricinus folio)",
+      "latin": "ricinus",
+      "hebrew": "קיקיון (kikayon)",
+      "italian": "ricino",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f6v"
+      ],
+      "frequency": 3
+    },
+    {
+      "voynich": "dpchy",
+      "meaning": "botanical term (lilium folio)",
+      "latin": "lilium",
+      "hebrew": "שושן (shoshan)",
+      "italian": "giglio",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f13r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "torshor",
+      "meaning": "botanical term (lilium folio)",
+      "latin": "lilium",
+      "hebrew": "שושן (shoshan)",
+      "italian": "giglio",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f13r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "torchy",
+      "meaning": "botanical term (lilium folio)",
+      "latin": "lilium",
+      "hebrew": "שושן (shoshan)",
+      "italian": "giglio",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f13r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "qodchy",
+      "meaning": "botanical term (lilium folio)",
+      "latin": "lilium",
+      "hebrew": "שושן (shoshan)",
+      "italian": "giglio",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f13r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "shkchy",
+      "meaning": "botanical term (lilium folio)",
+      "latin": "lilium",
+      "hebrew": "שושן (shoshan)",
+      "italian": "giglio",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f13r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "fchol",
+      "meaning": "botanical term (aconitum folio)",
+      "latin": "aconitum",
+      "hebrew": "אקונית (akonit)",
+      "italian": "aconito",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f16r"
+      ],
+      "frequency": 3
+    },
+    {
+      "voynich": "shtshy",
+      "meaning": "botanical term (aconitum folio)",
+      "latin": "aconitum",
+      "hebrew": "אקונית (akonit)",
+      "italian": "aconito",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f16r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "toror",
+      "meaning": "botanical term (aconitum folio)",
+      "latin": "aconitum",
+      "hebrew": "אקונית (akonit)",
+      "italian": "aconito",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f16r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "qodor",
+      "meaning": "botanical term (tussilago folio)",
+      "latin": "tussilago",
+      "hebrew": "",
+      "italian": "farfara",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f11r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "shcphy",
+      "meaning": "botanical term (tussilago folio)",
+      "latin": "tussilago",
+      "hebrew": "",
+      "italian": "farfara",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f11r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "cheotol",
+      "meaning": "botanical term (geranium folio)",
+      "latin": "geranium",
+      "hebrew": "גרניום",
+      "italian": "geranio",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f5v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "chols",
+      "meaning": "botanical term (geranium folio)",
+      "latin": "geranium",
+      "hebrew": "גרניום",
+      "italian": "geranio",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f5v"
+      ],
+      "frequency": 3
+    },
+    {
+      "voynich": "podaiir",
+      "meaning": "botanical term (geranium folio)",
+      "latin": "geranium",
+      "hebrew": "גרניום",
+      "italian": "geranio",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f36r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "sheockhey",
+      "meaning": "botanical term (geranium folio)",
+      "latin": "geranium",
+      "hebrew": "גרניום",
+      "italian": "geranio",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f102v2"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "ocheos",
+      "meaning": "botanical term (geranium folio)",
+      "latin": "geranium",
+      "hebrew": "גרניום",
+      "italian": "geranio",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f102v2"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "chochy",
+      "meaning": "botanical term (paeonia folio)",
+      "latin": "paeonia",
+      "hebrew": "פאוניה",
+      "italian": "peonia",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f7r"
+      ],
+      "frequency": 3
+    },
+    {
+      "voynich": "shopchey",
+      "meaning": "botanical term (paeonia folio)",
+      "latin": "paeonia",
+      "hebrew": "פאוניה",
+      "italian": "peonia",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f7r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "chkoldy",
+      "meaning": "botanical term (paeonia folio)",
+      "latin": "paeonia",
+      "hebrew": "פאוניה",
+      "italian": "peonia",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f7r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "kchod",
+      "meaning": "botanical term (paeonia folio)",
+      "latin": "paeonia",
+      "hebrew": "פאוניה",
+      "italian": "peonia",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f7r"
+      ],
+      "frequency": 3
+    },
+    {
+      "voynich": "fchodaiin",
+      "meaning": "botanical term (paeonia folio)",
+      "latin": "paeonia",
+      "hebrew": "פאוניה",
+      "italian": "peonia",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f7r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "dykchy",
+      "meaning": "botanical term (polygonum folio)",
+      "latin": "polygonum",
+      "hebrew": "כורכמן",
+      "italian": "poligono",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f7v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "otshol",
+      "meaning": "botanical term (polygonum folio)",
+      "latin": "polygonum",
+      "hebrew": "כורכמן",
+      "italian": "poligono",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f7v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "dchodaiin",
+      "meaning": "botanical term (polygonum folio)",
+      "latin": "polygonum",
+      "hebrew": "כורכמן",
+      "italian": "poligono",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f7v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "ypchey",
+      "meaning": "botanical term (polygonum folio)",
+      "latin": "polygonum",
+      "hebrew": "כורכמן",
+      "italian": "poligono",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f21r"
+      ],
+      "frequency": 5
+    },
+    {
+      "voynich": "qopcheody",
+      "meaning": "botanical term (polygonum folio)",
+      "latin": "polygonum",
+      "hebrew": "כורכמן",
+      "italian": "poligono",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f21r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "cholol",
+      "meaning": "botanical term (polygonum folio)",
+      "latin": "polygonum",
+      "hebrew": "כורכמן",
+      "italian": "poligono",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f21r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "pchdol",
+      "meaning": "botanical term (polygonum folio)",
+      "latin": "polygonum",
+      "hebrew": "כורכמן",
+      "italian": "poligono",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f43v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "ytshedy",
+      "meaning": "botanical term (polygonum folio)",
+      "latin": "polygonum",
+      "hebrew": "כורכמן",
+      "italian": "poligono",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f43v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "qocthedy",
+      "meaning": "botanical term (polygonum folio)",
+      "latin": "polygonum",
+      "hebrew": "כורכמן",
+      "italian": "poligono",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f43v"
+      ],
+      "frequency": 3
+    },
+    {
+      "voynich": "arodl",
+      "meaning": "botanical term (polygonum folio)",
+      "latin": "polygonum",
+      "hebrew": "כורכמן",
+      "italian": "poligono",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f43v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "poldy",
+      "meaning": "botanical term (polygonum folio)",
+      "latin": "polygonum",
+      "hebrew": "כורכמן",
+      "italian": "poligono",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f43v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "chopy",
+      "meaning": "botanical term (atriplex folio)",
+      "latin": "atriplex",
+      "hebrew": "אטריפלקס",
+      "italian": "atriplice",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f8r"
+      ],
+      "frequency": 3
+    },
+    {
+      "voynich": "chofchy",
+      "meaning": "botanical term (atriplex folio)",
+      "latin": "atriplex",
+      "hebrew": "אטריפלקס",
+      "italian": "atriplice",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f8r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "otariin",
+      "meaning": "botanical term (atriplex folio)",
+      "latin": "atriplex",
+      "hebrew": "אטריפלקס",
+      "italian": "atriplice",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f8r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "choor",
+      "meaning": "botanical term (atriplex folio)",
+      "latin": "atriplex",
+      "hebrew": "אטריפלקס",
+      "italian": "atriplice",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f8r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "chsey",
+      "meaning": "botanical term (atriplex folio)",
+      "latin": "atriplex",
+      "hebrew": "אטריפלקס",
+      "italian": "atriplice",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f8r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "kchokchy",
+      "meaning": "botanical term (atriplex folio)",
+      "latin": "atriplex",
+      "hebrew": "אטריפלקס",
+      "italian": "atriplice",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f8r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "cheain",
+      "meaning": "botanical term (atriplex folio)",
+      "latin": "atriplex",
+      "hebrew": "אטריפלקס",
+      "italian": "atriplice",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f8r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "pcheey",
+      "meaning": "botanical term (atriplex folio)",
+      "latin": "atriplex",
+      "hebrew": "אטריפלקס",
+      "italian": "atriplice",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f8r"
+      ],
+      "frequency": 4
+    },
+    {
+      "voynich": "schol",
+      "meaning": "botanical term (atriplex folio)",
+      "latin": "atriplex",
+      "hebrew": "אטריפלקס",
+      "italian": "atriplice",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f8r"
+      ],
+      "frequency": 5
+    },
+    {
+      "voynich": "dychedy",
+      "meaning": "botanical term (nymphaea folio)",
+      "latin": "nymphaea",
+      "hebrew": "נימפאה",
+      "italian": "ninfea",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f34v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "choraiin",
+      "meaning": "botanical term (nymphaea folio)",
+      "latin": "nymphaea",
+      "hebrew": "נימפאה",
+      "italian": "ninfea",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f34v"
+      ],
+      "frequency": 4
+    },
+    {
+      "voynich": "chechey",
+      "meaning": "botanical term (nymphaea folio)",
+      "latin": "nymphaea",
+      "hebrew": "נימפאה",
+      "italian": "ninfea",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f34v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "tchdaiin",
+      "meaning": "botanical term (nymphaea folio)",
+      "latin": "nymphaea",
+      "hebrew": "נימפאה",
+      "italian": "ninfea",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f34v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "olchdaiin",
+      "meaning": "botanical term (nymphaea folio)",
+      "latin": "nymphaea",
+      "hebrew": "נימפאה",
+      "italian": "ninfea",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f34v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "chockhdy",
+      "meaning": "botanical term (aristolochia folio)",
+      "latin": "aristolochia",
+      "hebrew": "",
+      "italian": "aristolochia",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f46v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "checkhdy",
+      "meaning": "botanical term (aristolochia folio)",
+      "latin": "aristolochia",
+      "hebrew": "",
+      "italian": "aristolochia",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f46v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "chtedy",
+      "meaning": "botanical term (aristolochia folio)",
+      "latin": "aristolochia",
+      "hebrew": "",
+      "italian": "aristolochia",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f46v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "oepchol",
+      "meaning": "botanical term (aristolochia folio)",
+      "latin": "aristolochia",
+      "hebrew": "",
+      "italian": "aristolochia",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f46v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "loldy",
+      "meaning": "botanical term (papaver folio)",
+      "latin": "papaver",
+      "hebrew": "פרג (perag)",
+      "italian": "papavero",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f48v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "alchdy",
+      "meaning": "botanical term (papaver folio)",
+      "latin": "papaver",
+      "hebrew": "פרג (perag)",
+      "italian": "papavero",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f48v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "tokar",
+      "meaning": "botanical term (papaver folio)",
+      "latin": "papaver",
+      "hebrew": "פרג (perag)",
+      "italian": "papavero",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f48v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "opchar",
+      "meaning": "botanical term (papaver folio)",
+      "latin": "papaver",
+      "hebrew": "פרג (perag)",
+      "italian": "papavero",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f24r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "cfhar",
+      "meaning": "botanical term (papaver folio)",
+      "latin": "papaver",
+      "hebrew": "פרג (perag)",
+      "italian": "papavero",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f24r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "qekar",
+      "meaning": "botanical term (papaver folio)",
+      "latin": "papaver",
+      "hebrew": "פרג (perag)",
+      "italian": "papavero",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f24r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "qocthol",
+      "meaning": "botanical term (papaver folio)",
+      "latin": "papaver",
+      "hebrew": "פרג (perag)",
+      "italian": "papavero",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f24r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "chcth",
+      "meaning": "botanical term (papaver folio)",
+      "latin": "papaver",
+      "hebrew": "פרג (perag)",
+      "italian": "papavero",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f24r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "dalplant",
+      "meaning": "botanical term (botrychium folio)",
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f13v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "qocky",
+      "meaning": "botanical term (botrychium folio)",
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f13v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "olcphy",
+      "meaning": "botanical term (botrychium folio)",
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f13v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "okcheor",
+      "meaning": "botanical term (botrychium folio)",
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f100v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "tocheo",
+      "meaning": "botanical term (botrychium folio)",
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f100v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "chockhar",
+      "meaning": "botanical term (botrychium folio)",
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f100v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "sheocphy",
+      "meaning": "botanical term (botrychium folio)",
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f100v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "cheokeol",
+      "meaning": "botanical term (botrychium folio)",
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f100v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "soshy",
+      "meaning": "botanical term (botrychium folio)",
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f14r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "dytchy",
+      "meaning": "botanical term (botrychium folio)",
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f14v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "dydydy",
+      "meaning": "botanical term (botrychium folio)",
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f14v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "ykykaiin",
+      "meaning": "botanical term (botrychium folio)",
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f14v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "chokshor",
+      "meaning": "botanical term (botrychium folio)",
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f14v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "ypchor",
+      "meaning": "botanical term (botrychium folio)",
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f14v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "dardy",
+      "meaning": "botanical term (botrychium folio)",
+      "latin": "botrychium",
+      "hebrew": "",
+      "italian": "botrico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f14v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "pchodol",
+      "meaning": "botanical term (scabiosa folio)",
+      "latin": "scabiosa",
+      "hebrew": "",
+      "italian": "scabiosa",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f10r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "qokaim",
+      "meaning": "botanical term (scabiosa folio)",
+      "latin": "scabiosa",
+      "hebrew": "",
+      "italian": "scabiosa",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f40v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "todar",
+      "meaning": "botanical term (scabiosa folio)",
+      "latin": "scabiosa",
+      "hebrew": "",
+      "italian": "scabiosa",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f40v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "pchedain",
+      "meaning": "botanical term (scabiosa folio)",
+      "latin": "scabiosa",
+      "hebrew": "",
+      "italian": "scabiosa",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f40v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "solaiin",
+      "meaning": "botanical term (scabiosa folio)",
+      "latin": "scabiosa",
+      "hebrew": "",
+      "italian": "scabiosa",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f40v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "taraiin",
+      "meaning": "botanical term (scabiosa folio)",
+      "latin": "scabiosa",
+      "hebrew": "",
+      "italian": "scabiosa",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f40v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "oldor",
+      "meaning": "botanical term (scabiosa folio)",
+      "latin": "scabiosa",
+      "hebrew": "",
+      "italian": "scabiosa",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f33r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "cheekaiin",
+      "meaning": "botanical term (scabiosa folio)",
+      "latin": "scabiosa",
+      "hebrew": "",
+      "italian": "scabiosa",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f33r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "kchom",
+      "meaning": "botanical term (hypericum folio)",
+      "latin": "hypericum",
+      "hebrew": "פרפוריון",
+      "italian": "iperico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f3v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "otchal",
+      "meaning": "botanical term (hypericum folio)",
+      "latin": "hypericum",
+      "hebrew": "פרפוריון",
+      "italian": "iperico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f3v"
+      ],
+      "frequency": 4
+    },
+    {
+      "voynich": "chodair",
+      "meaning": "botanical term (hypericum folio)",
+      "latin": "hypericum",
+      "hebrew": "פרפוריון",
+      "italian": "iperico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f3v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "chomplant",
+      "meaning": "botanical term (hypericum folio)",
+      "latin": "hypericum",
+      "hebrew": "פרפוריון",
+      "italian": "iperico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f3v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "chekeol",
+      "meaning": "botanical term (hypericum folio)",
+      "latin": "hypericum",
+      "hebrew": "פרפוריון",
+      "italian": "iperico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f3v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "shytchy",
+      "meaning": "botanical term (hypericum folio)",
+      "latin": "hypericum",
+      "hebrew": "פרפוריון",
+      "italian": "iperico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f4r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "qotchoiin",
+      "meaning": "botanical term (hypericum folio)",
+      "latin": "hypericum",
+      "hebrew": "פרפוריון",
+      "italian": "iperico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f4r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "koraiin",
+      "meaning": "botanical term (hypericum folio)",
+      "latin": "hypericum",
+      "hebrew": "פרפוריון",
+      "italian": "iperico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f4r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "pydaiin",
+      "meaning": "botanical term (hypericum folio)",
+      "latin": "hypericum",
+      "hebrew": "פרפוריון",
+      "italian": "iperico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f4r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "cpholdy",
+      "meaning": "botanical term (hypericum folio)",
+      "latin": "hypericum",
+      "hebrew": "פרפוריון",
+      "italian": "iperico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f4r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "sheyr",
+      "meaning": "botanical term (hypericum folio)",
+      "latin": "hypericum",
+      "hebrew": "פרפוריון",
+      "italian": "iperico",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f4r"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "cphoal",
+      "meaning": "botanical term (atropa folio)",
+      "latin": "atropa",
+      "hebrew": "יברוח",
+      "italian": "belladonna",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f1v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "chodo",
+      "meaning": "botanical term (atropa folio)",
+      "latin": "atropa",
+      "hebrew": "יברוח",
+      "italian": "belladonna",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f1v"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "pshodaiin",
+      "meaning": "botanical term (atropa folio)",
+      "latin": "atropa",
+      "hebrew": "יברוח",
+      "italian": "belladonna",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f102r1"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "lolain",
+      "meaning": "botanical term (atropa folio)",
+      "latin": "atropa",
+      "hebrew": "יברוח",
+      "italian": "belladonna",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f102r1"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "dsheody",
+      "meaning": "botanical term (atropa folio)",
+      "latin": "atropa",
+      "hebrew": "יברוח",
+      "italian": "belladonna",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f102r1"
+      ],
+      "frequency": 2
+    },
+    {
+      "voynich": "danplant",
+      "meaning": "botanical term (centaurea folio)",
+      "latin": "centaurea",
+      "hebrew": "",
+      "italian": "fiordaliso",
+      "language": "botanical",
+      "confidence": 0.5,
+      "domain": "botanical",
+      "source": "Track75_DistinctiveWord",
+      "folios": [
+        "f2r"
+      ],
+      "frequency": 2
+    }
+  ],
+  "matches_found": 117,
+  "high_confidence": 1,
+  "plant_matches": [
+    {
+      "plant": "lilium",
+      "matches": 2,
+      "words": [
+        "shochy",
+        "shaiin"
+      ]
+    },
+    {
+      "plant": "centaurea",
+      "matches": 1,
+      "words": [
+        "dals"
+      ]
+    }
+  ],
+  "old_coverage": 0.4492,
+  "new_coverage": 0.45578446075722895,
+  "coverage_gain": 0.00658446075722896,
+  "old_entries": 389,
+  "new_total_entries": 501
+}

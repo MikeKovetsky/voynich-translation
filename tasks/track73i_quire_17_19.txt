@@ -1,0 +1,39 @@
+TRACK 73I: Mine Quires 17, 19 (Herbal B / Pharma)
+=================================================
+
+SOURCE URLS:
+- https://voynich.nu/q17/index.html (f93-f96) - herbal B / pharma
+- https://voynich.nu/q19/index.html (f99-f102) - pharma with plant fragments
+
+NOTE: These are "Herbal B" pages - different style from Herbal A!
+This is where Hebrew influence is supposedly stronger (Language B).
+
+TASK: Extract for EACH folio:
+1. Folio number
+2. ELV / ThP plant identifications
+3. Illustration descriptions
+4. Note style differences from Herbal A
+5. Currier language (A or B)
+6. LFD hand number
+
+FORMAT OUTPUT AS JSON:
+{
+  "quires": ["q17", "q19"],
+  "folios": [
+    {
+      "folio": "f93r",
+      "section": "herbal_b",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "plant with...",
+      "style_notes": "different from herbal A",
+      "currier_lang": "B",
+      "lfd_hand": 2
+    },
+    ...
+  ]
+}
+
+OUTPUT FILES:
+- mine_q17_19.py
+- results/quire_17_19_herbal_b.json

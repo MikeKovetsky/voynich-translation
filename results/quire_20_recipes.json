@@ -1,0 +1,326 @@
+{
+  "quires": [
+    "q20"
+  ],
+  "folios": [
+    {
+      "folio": "f103r",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 19 stars in the left margin. They have been painted red, or have a faded yellow circle in the centre, or are entirely unpainted. The last one appears to have a 'tail' at the top.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f103v",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 14 stars in the margin. They have alternatingly red or faded yellow circles in the centre. None have tails.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f104r",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 13 stars in the left margin, all with a tail. Some are red, some have a red dot in the centre and others have a faded yellow dot in the centre.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f104v",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 13 stars in the left margin, all with a tail. They alternatingly have a red dot or a faded yellow dot in the centre.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f105r",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There a ten stars in the left margin, though the first one is drawn above, rather than to the left of the start of the text. They all ave a tail. The centres have a red or faded yellow dot, mostly alt",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f105v",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 10 stars in the left margin, all with a tail. The centres have alternatingly red and faded yellow dots.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f106r",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 15 large stars and one small one in the left margin. The smaller one is drawn just above and attached to the third large one. All large stars have tails, and coloured dots in their centre, a",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f106v",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 14 stars drawn in the left margin, all with a tail. They have coloured dots in the centre, alternatingly red and faded yellow.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f107r",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 15 stars in the left margin, all with a tail. They have coloured dots in their centres which are alternatingly red and faded yellow. There are three dots to the left of the 11th star. It is ",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f107v",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 15 stars in the left margin. They all seem to have a tail, but some are short and others very faint. They have coloured dots in the centre, alternatingly red and fadd yellow. The first start",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f108r",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 16 stars in the left margin, all with a tail. Some are painted red, others have a yellow faded dot in the middle, and others again are left white.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f108v",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 16 stars in the left margin, all with a tail. The first nine alternate with red and faded yellow dots in the centre. The tenth stands out a bit and is a new start with a red dot (as was the ",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f111r",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 17 stars in the left margin, all with a tail. They have coloured dots in the centre, alternatingly red and faded yellow.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f111v",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 19 stars in the margin. The ninth has a long tail, several have short(er) tails, but most have no tail. They have coloured dots in the centre, alternatingly red and faded yellow.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f112r",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 12 stars in the left margin. All have a small tail. They have coloured dots in the centre, alternatingly red and faded yellow.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f112v",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 13 stars in the left margin, all with a tail. They have coloured dots in the centre, alternatingly red and faded yellow.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f113r",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 16 stars in the left margin, all with a tail. Their centres have coloured dots, alternatingly red and faded yellow, and unusually starting with faded yellow.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f113v",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 15 stars in the left margin, all with a tail. They have coloured dots in the centre, alternatingly red and faded yellow.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f114r",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 13 stars in the left margin, all with a tail. They have coloured dots in the centre, alternatingly red and faded yellow.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f114v",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 12 stars in the left margin, all with a tail. There are 12 coloured dots in the centre, alternatingly faded yellow and red, unusually starting with faded yellow.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f115r",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 13 stars in the left margin, all except the second one with a tail. They have coloured dots in the centre, alternatingly red and faded yellow.",
+      "currier_lang": "B",
+      "lfd_hand": 2,
+      "visual_elements": [
+        "stars"
+      ]
+    },
+    {
+      "folio": "f115v",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 13 stars in the left margin, all with a tail. All odd-numbered stars have a red dot in the centre. The others are not painted.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "figures",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f116r",
+      "quire": "q20",
+      "section": "recipes",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "There are 10 stars in the left margin, only in the upper half of the page. These stars do not have tails. Every second star has a red dot in the centre.",
+      "currier_lang": "B",
+      "lfd_hand": 3,
+      "visual_elements": [
+        "figures",
+        "stars"
+      ]
+    },
+    {
+      "folio": "f116v",
+      "quire": "q20",
+      "section": "zodiac",
+      "elv_id": null,
+      "thp_id": null,
+      "description": "Three small drawings in the left margin, of (top down:) an indeterminate object, an animal and a possibly sitting nude woman.",
+      "currier_lang": null,
+      "lfd_hand": 3,
+      "visual_elements": [
+        "figures",
+        "stars",
+        "zodiac"
+      ],
+      "zodiac_sign": "Aries"
+    }
+  ],
+  "total_folios": 24,
+  "expert_ids": 0
+}

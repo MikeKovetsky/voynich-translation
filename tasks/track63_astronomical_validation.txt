@@ -1,0 +1,102 @@
+TRACK 63: Astronomical Section Validation
+=========================================
+
+GOAL: Test our dictionary on the ASTRONOMICAL section - completely different domain!
+This section has EXTERNAL ANCHORS: zodiac month names, star names.
+
+WHY THIS MATTERS:
+- Botanical pages validated our dictionary (83.3%)
+- Astronomical section is DIFFERENT content
+- Has KNOWN reference points (Aries, Taurus, etc.)
+- If dictionary works here too → strong cross-validation
+
+INPUT FILES:
+- results/clean_dictionary.json (324 entries)
+- data/eva_ivtff.txt
+
+TARGET FOLIOS (Zodiac/Astronomical):
+- f70v1, f70v2 (Aries, Taurus)
+- f71r, f71v (Gemini, Cancer)
+- f72r1, f72r2, f72r3 (Leo, Virgo, Libra)
+- f72v1, f72v2, f72v3 (Scorpio, Sagittarius, Capricorn)
+- f73r, f73v (Aquarius, Pisces)
+
+TASK 1: Extract Zodiac Section Text
+-----------------------------------
+Get all text from zodiac folios.
+Note: These pages have:
+- Central zodiac symbol
+- Labels around the symbols
+- Surrounding text paragraphs
+- Nymph figures with labels
+
+TASK 2: Apply Clean Dictionary
+------------------------------
+Translate using clean_dictionary.json
+Calculate coverage rate.
+Compare to recipes section (38.9%).
+
+TASK 3: Zodiac Label Analysis
+-----------------------------
+For each zodiac sign page:
+- Find the label near the zodiac symbol
+- Compare to known month names:
+  | Sign | Hebrew | Italian | Latin |
+  |------|--------|---------|-------|
+  | Aries | Nisan | Marzo | Martius |
+  | Taurus | Iyar | Aprile | Aprilis |
+  | Gemini | Sivan | Maggio | Maius |
+  | etc. |
+
+Do any labels match Hebrew/Italian month names?
+
+TASK 4: Star Name Search
+------------------------
+Search for known star names in Hebrew/Italian/Arabic:
+- Aldebaran (in Taurus)
+- Regulus (in Leo)
+- Spica (in Virgo)
+- Antares (in Scorpio) - we found this before!
+
+Check if our existing dictionary helps identify any.
+
+TASK 5: New Vocabulary Discovery
+--------------------------------
+Words appearing in astronomical but NOT in botanical:
+- Could be astronomical terms
+- Could be time-related words
+- Could be body/human terms (nymphs)
+
+Try to match these to:
+- Hebrew astronomical vocabulary
+- Italian/Latin astronomical terms
+- Medieval star catalogs
+
+TASK 6: Cross-Section Comparison
+--------------------------------
+| Metric | Botanical | Recipes | Astronomical |
+|--------|-----------|---------|--------------|
+| Coverage | 83.3% illust | 38.9% | ? |
+| Unique words | ? | ? | ? |
+| Overlap | - | - | ? |
+
+OUTPUT FILES (REQUIRED):
+- astro_validate.py
+- results/astronomical_validation.json:
+  {
+    "folios_analyzed": [...],
+    "coverage_rate": X%,
+    "zodiac_labels": {
+      "aries": {"eva": "...", "our_translation": "...", "matches_month": true/false}
+    },
+    "star_matches": [...],
+    "new_vocabulary": [...],
+    "cross_section_comparison": {...}
+  }
+- results/astronomical_validation_report.md:
+  - Coverage statistics
+  - Zodiac label analysis
+  - Star name matches
+  - New vocabulary candidates
+  - Cross-section comparison
+  - Verdict: does dictionary work across sections?

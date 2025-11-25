@@ -1,0 +1,89 @@
+TRACK 72: Recipe-Illustration Cross-Reference
+=============================================
+
+GOAL: Match decoded recipes with botanical illustrations.
+If we decode "Take fig", is there a fig plant drawn anywhere?
+
+WHY THIS MATTERS:
+- We proved illustration matching works (83.3% on botanical)
+- Recipe ingredients should match plants in herbal sections
+- Cross-validation strengthens confidence
+
+INPUT FILES:
+- results/master_dictionary.json
+- results/recipe_deep_dive.json (from Track 71)
+- data/eva_ivtff.txt
+
+TASK 1: Extract Recipe Ingredients
+----------------------------------
+From recipe section, list all decoded ingredients:
+- Fig (otaiin)
+- Wheat (choty)
+- Barley (sar)
+- Root (shor, shar)
+- Flower (pchor)
+- etc.
+
+TASK 2: Search Botanical Folios
+-------------------------------
+For each ingredient, search herbal sections:
+- Does the word appear on botanical pages?
+- Which folio(s)?
+- Is it near an illustration?
+
+| Ingredient | Recipe Folios | Botanical Folios | Match? |
+|------------|---------------|------------------|--------|
+| Fig | f107r, f107v | ? | ? |
+| Wheat | f107v | ? | ? |
+| Barley | f107r | ? | ? |
+
+TASK 3: Visual Correlation
+--------------------------
+For each botanical match:
+- What does the plant illustration show?
+- Does it look like fig/wheat/barley?
+- Are there identifying features?
+
+TASK 4: Cross-Section Vocabulary
+--------------------------------
+Analyze vocabulary overlap:
+- Words appearing in BOTH recipes AND herbal sections
+- These are likely plant/ingredient names
+- High-confidence translations
+
+| Word | Recipe Section | Herbal Section | Likely Meaning |
+|------|----------------|----------------|----------------|
+| otaiin | 70x | ?x | fig |
+| shor | ?x | 8x | root |
+
+TASK 5: Build Ingredient-Plant Map
+----------------------------------
+Create a mapping:
+| Voynich Word | Decoded | Recipe Context | Botanical Context | Confidence |
+|--------------|---------|----------------|-------------------|------------|
+| otaiin | fig | "fig for heart" | appears on f2v | HIGH |
+| shor | root | "priest root" | near root drawing | HIGH |
+
+TASK 6: Identify Unknown Ingredients
+------------------------------------
+Recipe ingredients NOT in herbal sections:
+- These might be non-plant ingredients
+- Or processed/prepared forms
+- Or quantities/measures
+
+OUTPUT FILES (REQUIRED):
+- illust_recipe_match.py
+- results/recipe_illustration_match.json:
+  {
+    "recipe_ingredients": [...],
+    "botanical_matches": [...],
+    "visual_correlations": [...],
+    "vocabulary_overlap": {...},
+    "ingredient_plant_map": [...],
+    "unknown_ingredients": [...]
+  }
+- results/recipe_illustration_report.md:
+  - Ingredient inventory
+  - Cross-section matches
+  - Visual correlation results
+  - Confidence assessment

@@ -1,0 +1,5925 @@
+{
+  "summary": {
+    "unknowns_analyzed": 100,
+    "proposals_generated": 11,
+    "valid_proposals": 2,
+    "extends_existing": 3,
+    "needs_review": 3,
+    "coverage_improvement": {
+      "current_coverage": 0.4492,
+      "projected_coverage": 0.4634,
+      "improvement": 0.0142,
+      "new_words_added": 8
+    }
+  },
+  "top_100_unknowns": [
+    {
+      "word": "qokeedy",
+      "frequency": 301,
+      "skeleton": "qkdy",
+      "has_qo": true,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 7,
+      "sections": {
+        "herbal_b": 7,
+        "unknown": 7,
+        "biological": 150,
+        "recipes": 137
+      },
+      "context_sample": [
+        {
+          "folio": "f26r",
+          "before": [
+            "daiin",
+            "shedy"
+          ],
+          "after": [
+            "qoteedar",
+            "s"
+          ],
+          "line": "daiin shedy qokeedy qoteedar s plantok plantol plantotedy qokchdy qokedy"
+        },
+        {
+          "folio": "f31r",
+          "before": [
+            "okedy",
+            "qokedy"
+          ],
+          "after": [
+            "dar",
+            "shedshey"
+          ],
+          "line": "tol shso okedy okedy qokedy qokeedy dar shedshey plant"
+        },
+        {
+          "folio": "f40v",
+          "before": [
+            "tochey"
+          ],
+          "after": [
+            "qokaiin",
+            "okeor"
+          ],
+          "line": "tochey qokeedy qokaiin okeor qokar plantokees ar oky"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "qokedy",
+      "frequency": 268,
+      "skeleton": "qkdy",
+      "has_qo": true,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_b": 36,
+        "unknown": 9,
+        "biological": 162,
+        "recipes": 61
+      },
+      "context_sample": [
+        {
+          "folio": "f26r",
+          "before": [],
+          "after": [
+            "cheos",
+            "ytedy"
+          ],
+          "line": "qokedy cheos ytedy qokedy plantytedy chekedy plantdaiin odam s aldy"
+        },
+        {
+          "folio": "f26r",
+          "before": [
+            "cheos",
+            "ytedy"
+          ],
+          "after": [
+            "plantytedy",
+            "chekedy"
+          ],
+          "line": "qokedy cheos ytedy qokedy plantytedy chekedy plantdaiin odam s aldy"
+        },
+        {
+          "folio": "f26r",
+          "before": [
+            "cthedy",
+            "plantqokeedy"
+          ],
+          "after": [
+            "cthhy"
+          ],
+          "line": "haiin shedy eedy eedy schy plantdaiin cthedy plantqokeedy qokedy cthhy"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "okaiin",
+      "frequency": 209,
+      "skeleton": "kn",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 6,
+      "sections": {
+        "herbal_a": 13,
+        "herbal_b": 39,
+        "unknown": 23,
+        "astronomical": 2,
+        "biological": 33,
+        "pharmaceutical": 5,
+        "recipes": 94
+      },
+      "context_sample": [
+        {
+          "folio": "f4r",
+          "before": [
+            "yty",
+            "daiin"
+          ],
+          "after": [
+            "cthyplant"
+          ],
+          "line": "qotchol chy yty daiin okaiin cthyplant"
+        },
+        {
+          "folio": "f6r",
+          "before": [
+            "s",
+            "chol"
+          ],
+          "after": [
+            "s",
+            "plant"
+          ],
+          "line": "daiin qodaiin cho s chol okaiin s plant"
+        },
+        {
+          "folio": "f15r",
+          "before": [],
+          "after": [
+            "otaiin",
+            "chl"
+          ],
+          "line": "okaiin otaiin chl sy plantchor choross plant"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "dain",
+      "frequency": 198,
+      "skeleton": "dn",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 4,
+      "sections": {
+        "herbal_a": 33,
+        "herbal_b": 39,
+        "unknown": 18,
+        "biological": 46,
+        "pharmaceutical": 9,
+        "recipes": 53
+      },
+      "context_sample": [
+        {
+          "folio": "f1r",
+          "before": [
+            "chocthy",
+            "oschy"
+          ],
+          "after": [
+            "chor",
+            "kos"
+          ],
+          "line": "yshey shody okchoy otchol chocthy oschy dain chor kos"
+        },
+        {
+          "folio": "f1r",
+          "before": [],
+          "after": [
+            "os",
+            "teody"
+          ],
+          "line": "dain os teody"
+        },
+        {
+          "folio": "f1r",
+          "before": [],
+          "after": [
+            "oiin",
+            "chol"
+          ],
+          "line": "dain oiin chol odaiin chodain chdy okain dan cthy kod"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "qokal",
+      "frequency": 187,
+      "skeleton": "qkl",
+      "has_qo": true,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_b": 6,
+        "unknown": 34,
+        "biological": 104,
+        "pharmaceutical": 2,
+        "recipes": 41
+      },
+      "context_sample": [
+        {
+          "folio": "f34r",
+          "before": [
+            "oky",
+            "plantchody"
+          ],
+          "after": [
+            "chedy",
+            "chcthedy"
+          ],
+          "line": "or ar y kar ol al oky plantchody qokal chedy chcthedy cheky daram"
+        },
+        {
+          "folio": "f40r",
+          "before": [
+            "shy"
+          ],
+          "after": [
+            "chdy",
+            "chckhd"
+          ],
+          "line": "shy qokal chdy chckhd plantotor aiis oky okolchy qokar okam"
+        },
+        {
+          "folio": "f41v",
+          "before": [
+            "old",
+            "plantoteol"
+          ],
+          "after": [
+            "or",
+            "oteody"
+          ],
+          "line": "todaiin ol cheos yteedy okal old plantoteol qokal or oteody"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "otedy",
+      "frequency": 154,
+      "skeleton": "tdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_b": 18,
+        "astronomical": 3,
+        "unknown": 18,
+        "biological": 54,
+        "pharmaceutical": 1,
+        "recipes": 60
+      },
+      "context_sample": [
+        {
+          "folio": "f26v",
+          "before": [
+            "chekedy",
+            "qokedy"
+          ],
+          "after": [
+            "sar",
+            "y"
+          ],
+          "line": "saraiir chekedy qokedy otedy sar y etedy qokedy or aree alys chedy"
+        },
+        {
+          "folio": "f26v",
+          "before": [
+            "cheeol",
+            "ofchdy"
+          ],
+          "after": [
+            "ckhdy",
+            "odar"
+          ],
+          "line": "pchdar opar dar cheeol ofchdy otedy ckhdy odar chedy ytedy okchdy g"
+        },
+        {
+          "folio": "f31v",
+          "before": [
+            "podair",
+            "sheedy"
+          ],
+          "after": [
+            "oteedy",
+            "qotolcheo"
+          ],
+          "line": "podair sheedy otedy oteedy qotolcheo s arar oteey dkarar als"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "qol",
+      "frequency": 150,
+      "skeleton": "ql",
+      "has_qo": true,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 3,
+      "sections": {
+        "herbal_a": 1,
+        "herbal_b": 2,
+        "biological": 116,
+        "unknown": 2,
+        "pharmaceutical": 1,
+        "recipes": 28
+      },
+      "context_sample": [
+        {
+          "folio": "f18v",
+          "before": [
+            "ychoees",
+            "ykchy"
+          ],
+          "after": [
+            "kchy",
+            "qotchol"
+          ],
+          "line": "r ychoees ykchy qol kchy qotchol daiir om"
+        },
+        {
+          "folio": "f38v",
+          "before": [
+            "daiin"
+          ],
+          "after": [
+            "chy",
+            "dain"
+          ],
+          "line": "daiin qol chy dain or daiin plantdais daldy"
+        },
+        {
+          "folio": "f55v",
+          "before": [
+            "qokaiin",
+            "okar"
+          ],
+          "after": [
+            "plantotarcho",
+            "cthar"
+          ],
+          "line": "tor chdy qokaiin okar qol plantotarcho cthar talody okary"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "okain",
+      "frequency": 139,
+      "skeleton": "kn",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 5,
+      "sections": {
+        "herbal_a": 3,
+        "herbal_b": 9,
+        "unknown": 9,
+        "biological": 44,
+        "recipes": 74
+      },
+      "context_sample": [
+        {
+          "folio": "f1r",
+          "before": [
+            "chodain",
+            "chdy"
+          ],
+          "after": [
+            "dan",
+            "cthy"
+          ],
+          "line": "dain oiin chol odaiin chodain chdy okain dan cthy kod"
+        },
+        {
+          "folio": "f9r",
+          "before": [
+            "cthey",
+            "koraiin"
+          ],
+          "after": [
+            "d",
+            "dal"
+          ],
+          "line": "qotcho qokchy cthey koraiin okain d dal plants plantolsho cthy"
+        },
+        {
+          "folio": "f18r",
+          "before": [
+            "okeor",
+            "ykchol"
+          ],
+          "after": [],
+          "line": "chor cthor okeor ykchol okain"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "otal",
+      "frequency": 137,
+      "skeleton": "tl",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_a": 3,
+        "herbal_b": 9,
+        "unknown": 37,
+        "astronomical": 5,
+        "biological": 23,
+        "pharmaceutical": 4,
+        "recipes": 56
+      },
+      "context_sample": [
+        {
+          "folio": "f3r",
+          "before": [
+            "chor",
+            "cthom"
+          ],
+          "after": [
+            "dam",
+            "plant"
+          ],
+          "line": "ychtaiin chor cthom otal dam plant"
+        },
+        {
+          "folio": "f13v",
+          "before": [
+            "tchtod"
+          ],
+          "after": [
+            "cthor",
+            "ytal"
+          ],
+          "line": "tchtod otal cthor ytal planty cho tal plantsho qocthy"
+        },
+        {
+          "folio": "f24r",
+          "before": [
+            "oeeeos",
+            "eteor"
+          ],
+          "after": [
+            "qocthol",
+            "qoky"
+          ],
+          "line": "oeeeos eteor otal qocthol qoky plant"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "saiin",
+      "frequency": 134,
+      "skeleton": "sn",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 5,
+      "sections": {
+        "herbal_a": 9,
+        "herbal_b": 21,
+        "unknown": 25,
+        "biological": 37,
+        "pharmaceutical": 5,
+        "recipes": 37
+      },
+      "context_sample": [
+        {
+          "folio": "f2r",
+          "before": [],
+          "after": [
+            "daind",
+            "plantdkol"
+          ],
+          "line": "saiin daind plantdkol sor plantytoldy plantdchol dchy cthy"
+        },
+        {
+          "folio": "f2r",
+          "before": [
+            "plantcthey",
+            "keol"
+          ],
+          "after": [
+            "saiin"
+          ],
+          "line": "qoky cholaiin shol sheky daiin plantcthey keol saiin saiin"
+        },
+        {
+          "folio": "f2r",
+          "before": [
+            "keol",
+            "saiin"
+          ],
+          "after": [],
+          "line": "qoky cholaiin shol sheky daiin plantcthey keol saiin saiin"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "okar",
+      "frequency": 126,
+      "skeleton": "kr",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_a": 3,
+        "herbal_b": 22,
+        "unknown": 31,
+        "astronomical": 5,
+        "biological": 22,
+        "pharmaceutical": 2,
+        "recipes": 41
+      },
+      "context_sample": [
+        {
+          "folio": "f8r",
+          "before": [],
+          "after": [
+            "cphaiin",
+            "chaiin"
+          ],
+          "line": "okar cphaiin chaiin el plantdaiin chor cha rchealcham"
+        },
+        {
+          "folio": "f17v",
+          "before": [
+            "oytor",
+            "okeor"
+          ],
+          "after": [
+            "okol",
+            "doiiram"
+          ],
+          "line": "oytor okeor okar okol doiiram"
+        },
+        {
+          "folio": "f23r",
+          "before": [],
+          "after": [
+            "olchar",
+            "shaiin"
+          ],
+          "line": "okar olchar shaiin qokchol dar qokchol dairo r ol daiin alg"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": [
+        {
+          "root": "kr",
+          "italian": "cuore/cura",
+          "meaning": "heart/cure",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "word": "lchedy",
+      "frequency": 119,
+      "skeleton": "lchdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_b": 1,
+        "unknown": 4,
+        "biological": 59,
+        "recipes": 55
+      },
+      "context_sample": [
+        {
+          "folio": "f39r",
+          "before": [],
+          "after": [
+            "shedy",
+            "qokaiin"
+          ],
+          "line": "lchedy shedy qokaiin chkeey fchedy okam chcfhhy saiin chcphy dairom"
+        },
+        {
+          "folio": "f57r",
+          "before": [
+            "tair",
+            "sheedy"
+          ],
+          "after": [
+            "ckhchdy",
+            "plantokchy"
+          ],
+          "line": "tair sheedy lchedy ckhchdy plantokchy chedy dal qokedam"
+        },
+        {
+          "folio": "f58v",
+          "before": [
+            "qokeey",
+            "qokar"
+          ],
+          "after": [
+            "qokalor",
+            "sheols"
+          ],
+          "line": "y daiin qokeey qokar lchedy qokalor sheols oteor aiin cheky"
+        }
+      ],
+      "hebrew_matches": [
+        {
+          "root": "chd",
+          "hebrew": "echad",
+          "meaning": "one",
+          "score": 0.6
+        }
+      ],
+      "italian_matches": []
+    },
+    {
+      "word": "okedy",
+      "frequency": 118,
+      "skeleton": "kdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_b": 22,
+        "unknown": 13,
+        "astronomical": 2,
+        "biological": 47,
+        "pharmaceutical": 1,
+        "recipes": 33
+      },
+      "context_sample": [
+        {
+          "folio": "f26r",
+          "before": [
+            "shy",
+            "geedy"
+          ],
+          "after": [
+            "chckhy",
+            "s"
+          ],
+          "line": "tcheo shy geedy okedy chckhy s plantdy plantdy plantykeechy okeedy cheky"
+        },
+        {
+          "folio": "f31r",
+          "before": [
+            "tol",
+            "shso"
+          ],
+          "after": [
+            "okedy",
+            "qokedy"
+          ],
+          "line": "tol shso okedy okedy qokedy qokeedy dar shedshey plant"
+        },
+        {
+          "folio": "f31r",
+          "before": [
+            "shso",
+            "okedy"
+          ],
+          "after": [
+            "qokedy",
+            "qokeedy"
+          ],
+          "line": "tol shso okedy okedy qokedy qokeedy dar shedshey plant"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "okeedy",
+      "frequency": 105,
+      "skeleton": "kdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_b": 12,
+        "unknown": 3,
+        "biological": 39,
+        "pharmaceutical": 3,
+        "recipes": 48
+      },
+      "context_sample": [
+        {
+          "folio": "f26r",
+          "before": [
+            "plantdy",
+            "plantykeechy"
+          ],
+          "after": [
+            "cheky"
+          ],
+          "line": "tcheo shy geedy okedy chckhy s plantdy plantdy plantykeechy okeedy cheky"
+        },
+        {
+          "folio": "f27v",
+          "before": [
+            "dsho",
+            "kchrrr"
+          ],
+          "after": [
+            "plantdchschy",
+            "plantsotchdy"
+          ],
+          "line": "dsho kchrrr okeedy plantdchschy plantsotchdy"
+        },
+        {
+          "folio": "f31r",
+          "before": [
+            "dcheey",
+            "daiin"
+          ],
+          "after": [
+            "qokees",
+            "s"
+          ],
+          "line": "dcheey daiin okeedy qokees s aiin shckhey qef plant"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "qokol",
+      "frequency": 104,
+      "skeleton": "qkl",
+      "has_qo": true,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_a": 14,
+        "herbal_b": 14,
+        "unknown": 20,
+        "astronomical": 1,
+        "biological": 29,
+        "pharmaceutical": 13,
+        "recipes": 13
+      },
+      "context_sample": [
+        {
+          "folio": "f3r",
+          "before": [],
+          "after": [
+            "chololy",
+            "s"
+          ],
+          "line": "qokol chololy s cham cthol plant"
+        },
+        {
+          "folio": "f3r",
+          "before": [
+            "ekshy",
+            "qokeom"
+          ],
+          "after": [
+            "daiin",
+            "plantsoleeg"
+          ],
+          "line": "oteol chol s cheol ekshy qokeom qokol daiin plantsoleeg"
+        },
+        {
+          "folio": "f10v",
+          "before": [
+            "qoty",
+            "qotoiin"
+          ],
+          "after": [
+            "choraiin"
+          ],
+          "line": "shoiin chor shcthy qoty qotoiin qokol choraiin"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "oteedy",
+      "frequency": 99,
+      "skeleton": "tdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_b": 1,
+        "unknown": 14,
+        "biological": 24,
+        "recipes": 60
+      },
+      "context_sample": [
+        {
+          "folio": "f31v",
+          "before": [
+            "sheedy",
+            "otedy"
+          ],
+          "after": [
+            "qotolcheo",
+            "s"
+          ],
+          "line": "podair sheedy otedy oteedy qotolcheo s arar oteey dkarar als"
+        },
+        {
+          "folio": "f66r",
+          "before": [
+            "pdaiin"
+          ],
+          "after": [
+            "opchedy",
+            "chap"
+          ],
+          "line": "pdaiin oteedy opchedy chap chefchy shddy ypcher cholpchd okedals"
+        },
+        {
+          "folio": "f66r",
+          "before": [
+            "sshedy"
+          ],
+          "after": [
+            "ykeeody",
+            "sheocthy"
+          ],
+          "line": "sshedy oteedy ykeeody sheocthy ol ld lshedy chokeey chekey chey"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "ain",
+      "frequency": 91,
+      "skeleton": "n",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 3,
+      "sections": {
+        "herbal_a": 1,
+        "herbal_b": 9,
+        "unknown": 12,
+        "biological": 17,
+        "pharmaceutical": 3,
+        "recipes": 49
+      },
+      "context_sample": [
+        {
+          "folio": "f17r",
+          "before": [
+            "chear",
+            "dsheor"
+          ],
+          "after": [
+            "y",
+            "mol"
+          ],
+          "line": "dar chear dsheor ain y mol plant"
+        },
+        {
+          "folio": "f26r",
+          "before": [
+            "chypchey",
+            "ypchedy"
+          ],
+          "after": [
+            "plantchofochcphdy"
+          ],
+          "line": "psheoky odaiir qoy plantofseod chypchey ypchedy ain plantchofochcphdy"
+        },
+        {
+          "folio": "f31v",
+          "before": [
+            "kor",
+            "oteol"
+          ],
+          "after": [],
+          "line": "dar seoar al kar oeeeos cheos aiin o ekeey okeo kor oteol ain"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "am",
+      "frequency": 87,
+      "skeleton": "m",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 2,
+      "sections": {
+        "herbal_a": 4,
+        "herbal_b": 9,
+        "unknown": 33,
+        "astronomical": 1,
+        "biological": 3,
+        "pharmaceutical": 7,
+        "recipes": 30
+      },
+      "context_sample": [
+        {
+          "folio": "f1v",
+          "before": [
+            "char",
+            "cfhar"
+          ],
+          "after": [],
+          "line": "kchsy chadaiin ol plantoltchey char cfhar am"
+        },
+        {
+          "folio": "f4v",
+          "before": [
+            "planto",
+            "ar"
+          ],
+          "after": [],
+          "line": "sho sho chaiin shaiin daiin qodaiin planto ar am"
+        },
+        {
+          "folio": "f10r",
+          "before": [
+            "plantdain",
+            "dair"
+          ],
+          "after": [],
+          "line": "dchy qokchol ykchaiin yty daiin cth plantdain dair am"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "otol",
+      "frequency": 81,
+      "skeleton": "tl",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_a": 14,
+        "herbal_b": 15,
+        "unknown": 19,
+        "astronomical": 5,
+        "biological": 12,
+        "pharmaceutical": 3,
+        "recipes": 13
+      },
+      "context_sample": [
+        {
+          "folio": "f1r",
+          "before": [],
+          "after": [
+            "daiiin"
+          ],
+          "line": "otol daiiin"
+        },
+        {
+          "folio": "f5r",
+          "before": [
+            "chey",
+            "okaor"
+          ],
+          "after": [],
+          "line": "ochey okey qokaiin sho ckhoy cthey chey okaor otol"
+        },
+        {
+          "folio": "f5v",
+          "before": [
+            "qotor",
+            "shees"
+          ],
+          "after": [
+            "ykoiin",
+            "shol"
+          ],
+          "line": "qotor shees otol ykoiin shol daiin cthor okchy taiin"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "raiin",
+      "frequency": 74,
+      "skeleton": "rn",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 5,
+      "sections": {
+        "herbal_a": 1,
+        "herbal_b": 1,
+        "unknown": 8,
+        "astronomical": 1,
+        "biological": 16,
+        "pharmaceutical": 3,
+        "recipes": 44
+      },
+      "context_sample": [
+        {
+          "folio": "f8v",
+          "before": [
+            "chodey",
+            "cho"
+          ],
+          "after": [],
+          "line": "chor chear chear plantoteey dchor chodey cho raiin"
+        },
+        {
+          "folio": "f30r",
+          "before": [
+            "cho",
+            "ro"
+          ],
+          "after": [
+            "dor",
+            "chseeor"
+          ],
+          "line": "dchorol sho chor cho ro raiin dor chseeor dy plant"
+        },
+        {
+          "folio": "f66r",
+          "before": [],
+          "after": [],
+          "line": "raiin"
+        }
+      ],
+      "hebrew_matches": [],
+      "italian_matches": []
+    },
+    {
+      "word": "air",
+      "frequency": 74,
+      "skeleton": "r",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 3,
+      "sections": {
+        "herbal_b": 8,
+        "unknown": 23,
+        "astronomical": 6,
+        "biological": 2,
+        "pharmaceutical": 3,
+        "recipes": 32
+      },
+      "context_sample": [
+        {
+          "folio": "f34r",
+          "before": [
+            "plantcheckhy",
+            "plant\\ysair"
+          ],
+          "after": [
+            "chodar",
+            "tam"
+          ],
+          "line": "shotchy qoky plantolk plantcheckhy plant\\ysair air chodar tam"
+        },
+        {
+          "folio": "f39v",
+          "before": [
+            "fdykain",
+            "or"
+          ],
+          "after": [
+            "sheykaiiin",
+            "ofchy"
+          ],
+          "line": "pdair chdy fdykain or air sheykaiiin ofchy kar or aiin dol ky oshdy"
+        },
+        {
+          "folio": "f40v",
+          "before": [
+            "s"
+          ],
+          "after": [
+            "ain",
+            "okaiin"
+          ],
+          "line": "s air ain okaiin okam plant"
+        }
+      ]
+    },
+    {
+      "word": "dor",
+      "frequency": 71,
+      "skeleton": "dr",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 3,
+      "sections": {
+        "herbal_a": 23,
+        "herbal_b": 18,
+        "unknown": 10,
+        "biological": 8,
+        "pharmaceutical": 7,
+        "recipes": 5
+      },
+      "context_sample": [
+        {
+          "folio": "f1r",
+          "before": [
+            "kshy",
+            "kchy"
+          ],
+          "after": [
+            "chodaiin",
+            "sho"
+          ],
+          "line": "sho chol shodan kshy kchy dor chodaiin sho kchom"
+        },
+        {
+          "folio": "f2v",
+          "before": [
+            "plants",
+            "shey"
+          ],
+          "after": [
+            "chol",
+            "daiin"
+          ],
+          "line": "kchor shy daiiin chckhoy plants shey dor chol daiin"
+        },
+        {
+          "folio": "f2v",
+          "before": [],
+          "after": [
+            "chol",
+            "chor"
+          ],
+          "line": "dor chol chor chol keol chy chty plantdaiin otchor chan"
+        }
+      ]
+    },
+    {
+      "word": "qokchy",
+      "frequency": 69,
+      "skeleton": "qkchy",
+      "has_qo": true,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_a": 23,
+        "herbal_b": 19,
+        "unknown": 5,
+        "biological": 7,
+        "recipes": 15
+      },
+      "context_sample": [
+        {
+          "folio": "f3v",
+          "before": [
+            "shar",
+            "shkaiin"
+          ],
+          "after": [
+            "yty",
+            "cthal"
+          ],
+          "line": "shar shkaiin qokchy yty cthal chky plant"
+        },
+        {
+          "folio": "f7r",
+          "before": [
+            "deeeese",
+            "choty"
+          ],
+          "after": [
+            "plantshol",
+            "keey"
+          ],
+          "line": "okchey deeeese choty qokchy plantshol keey choty dain"
+        },
+        {
+          "folio": "f7v",
+          "before": [],
+          "after": [
+            "dykchy",
+            "chkeey"
+          ],
+          "line": "qokchy dykchy chkeey kshy ky ty dor cheey ol cheol dy"
+        }
+      ]
+    },
+    {
+      "word": "sain",
+      "frequency": 66,
+      "skeleton": "sn",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 4,
+      "sections": {
+        "herbal_a": 3,
+        "biological": 28,
+        "unknown": 6,
+        "pharmaceutical": 2,
+        "recipes": 27
+      },
+      "context_sample": [
+        {
+          "folio": "f6v",
+          "before": [
+            "os",
+            "chy"
+          ],
+          "after": [
+            "or",
+            "plant"
+          ],
+          "line": "chockhy s os chy sain or plant"
+        },
+        {
+          "folio": "f10v",
+          "before": [
+            "cthor",
+            "otydy"
+          ],
+          "after": [],
+          "line": "paiin daiin sheo pcheey qoty daiin cthor otydy sain"
+        },
+        {
+          "folio": "f24v",
+          "before": [
+            "chcthy",
+            "shol"
+          ],
+          "after": [
+            "plant"
+          ],
+          "line": "kochky chcthy shol sain plant"
+        }
+      ]
+    },
+    {
+      "word": "sol",
+      "frequency": 66,
+      "skeleton": "sl",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 3,
+      "sections": {
+        "herbal_a": 1,
+        "herbal_b": 4,
+        "unknown": 11,
+        "astronomical": 1,
+        "biological": 37,
+        "pharmaceutical": 7,
+        "recipes": 5
+      },
+      "context_sample": [
+        {
+          "folio": "f8r",
+          "before": [
+            "chocty",
+            "cheeody"
+          ],
+          "after": [],
+          "line": "tosh ckcheey koltoldy plantshy chocty cheeody sol"
+        },
+        {
+          "folio": "f30v",
+          "before": [],
+          "after": [
+            "chokcheey",
+            "daiin"
+          ],
+          "line": "sol chokcheey daiin kchydyplant"
+        },
+        {
+          "folio": "f37v",
+          "before": [
+            "qotoldy",
+            "chopdain"
+          ],
+          "after": [
+            "plant"
+          ],
+          "line": "kshody qocthy qotoldy chopdain sol plant"
+        }
+      ]
+    },
+    {
+      "word": "kaiin",
+      "frequency": 65,
+      "skeleton": "kn",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 5,
+      "sections": {
+        "herbal_a": 9,
+        "herbal_b": 13,
+        "astronomical": 1,
+        "biological": 6,
+        "unknown": 8,
+        "recipes": 28
+      },
+      "context_sample": [
+        {
+          "folio": "f1r",
+          "before": [
+            "dar",
+            "shear"
+          ],
+          "after": [
+            "dar",
+            "shey"
+          ],
+          "line": "doin chol dain cthal dar shear kaiin dar shey cthar"
+        },
+        {
+          "folio": "f1r",
+          "before": [
+            "choo"
+          ],
+          "after": [
+            "shoaiin",
+            "okol"
+          ],
+          "line": "choo kaiin shoaiin okol daiin far cthol daiin ctholdar"
+        },
+        {
+          "folio": "f8r",
+          "before": [
+            "dar",
+            "plantshol"
+          ],
+          "after": [
+            "shol",
+            "kaiin"
+          ],
+          "line": "sair cheain cphol dar plantshol kaiin shol kaiin daikam"
+        }
+      ]
+    },
+    {
+      "word": "cho",
+      "frequency": 64,
+      "skeleton": "ch",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 3,
+      "sections": {
+        "herbal_a": 16,
+        "herbal_b": 20,
+        "unknown": 8,
+        "astronomical": 3,
+        "pharmaceutical": 6,
+        "recipes": 11
+      },
+      "context_sample": [
+        {
+          "folio": "f3r",
+          "before": [
+            "cham",
+            "cham"
+          ],
+          "after": [
+            "plant"
+          ],
+          "line": "schey chor chal cham cham cho plant"
+        },
+        {
+          "folio": "f5r",
+          "before": [
+            "daiin",
+            "oteeen"
+          ],
+          "after": [
+            "cthy",
+            "otchy"
+          ],
+          "line": "qoaiin otan chy daiin oteeen cho cthy otchy qotcho dy"
+        },
+        {
+          "folio": "f6r",
+          "before": [
+            "dar"
+          ],
+          "after": [
+            "s",
+            "sheor"
+          ],
+          "line": "dar cho s sheor chocthy otcham plantyaiir chy plant"
+        }
+      ]
+    },
+    {
+      "word": "cheo",
+      "frequency": 63,
+      "skeleton": "ch",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_a": 4,
+        "herbal_b": 7,
+        "unknown": 19,
+        "pharmaceutical": 3,
+        "recipes": 30
+      },
+      "context_sample": [
+        {
+          "folio": "f2v",
+          "before": [
+            "kooiin"
+          ],
+          "after": [
+            "pchor",
+            "otaiin"
+          ],
+          "line": "kooiin cheo pchor otaiin o dain chor plantdair shty"
+        },
+        {
+          "folio": "f5r",
+          "before": [
+            "qotoeey",
+            "keey"
+          ],
+          "after": [
+            "kchy",
+            "shody"
+          ],
+          "line": "qotoeey keey cheo kchy shody"
+        },
+        {
+          "folio": "f17v",
+          "before": [
+            "cthy",
+            "cheeky"
+          ],
+          "after": [
+            "otor",
+            "oteol"
+          ],
+          "line": "ychor cthy cheeky cheo otor oteol plant"
+        }
+      ]
+    },
+    {
+      "word": "cheedy",
+      "frequency": 59,
+      "skeleton": "chdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_b": 1,
+        "unknown": 6,
+        "biological": 25,
+        "pharmaceutical": 3,
+        "recipes": 24
+      },
+      "context_sample": [
+        {
+          "folio": "f33r",
+          "before": [
+            "okaiin",
+            "dar"
+          ],
+          "after": [
+            "chkeey",
+            "far"
+          ],
+          "line": "taiin chekey or alaiiin saiin okaiin dar cheedy chkeey far aiin s"
+        },
+        {
+          "folio": "f66r",
+          "before": [
+            "lshedy",
+            "lchedy"
+          ],
+          "after": [
+            "shekol",
+            "dalol"
+          ],
+          "line": "dor aiin sheeol lshedy lchedy cheedy shekol dalol lodaiin"
+        },
+        {
+          "folio": "f72r1",
+          "before": [
+            "al",
+            "alo"
+          ],
+          "after": [
+            "oteorar",
+            "cheky"
+          ],
+          "line": "oteodar ytey otey shetey chokshor okalal otaiin sheol aiin otaiin chetey cheolor oteoteeody otor chokaiin okaiin al alo cheedy oteorar cheky chokal otas al oqokar gap"
+        }
+      ]
+    },
+    {
+      "word": "odaiin",
+      "frequency": 58,
+      "skeleton": "dn",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 6,
+      "sections": {
+        "herbal_a": 11,
+        "herbal_b": 9,
+        "unknown": 18,
+        "biological": 1,
+        "pharmaceutical": 2,
+        "recipes": 17
+      },
+      "context_sample": [
+        {
+          "folio": "f1r",
+          "before": [
+            "oiin",
+            "chol"
+          ],
+          "after": [
+            "chodain",
+            "chdy"
+          ],
+          "line": "dain oiin chol odaiin chodain chdy okain dan cthy kod"
+        },
+        {
+          "folio": "f3r",
+          "before": [
+            "ycheor",
+            "chol"
+          ],
+          "after": [
+            "chol",
+            "s"
+          ],
+          "line": "ycheor chol odaiin chol s aiin okolor amplant"
+        },
+        {
+          "folio": "f6v",
+          "before": [
+            "qoekchar",
+            "cheas"
+          ],
+          "after": [
+            "kchey",
+            "chor"
+          ],
+          "line": "oees chor chckhy qoekchar cheas odaiin kchey chor chaiin"
+        }
+      ]
+    },
+    {
+      "word": "oly",
+      "frequency": 58,
+      "skeleton": "ly",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 3,
+      "sections": {
+        "herbal_a": 3,
+        "herbal_b": 7,
+        "unknown": 7,
+        "astronomical": 1,
+        "biological": 31,
+        "pharmaceutical": 2,
+        "recipes": 7
+      },
+      "context_sample": [
+        {
+          "folio": "f3v",
+          "before": [
+            "ykoaiin",
+            "s"
+          ],
+          "after": [
+            "plant"
+          ],
+          "line": "koaiin cphor qotoy sha ckhol ykoaiin s oly plant"
+        },
+        {
+          "folio": "f15r",
+          "before": [
+            "otchor",
+            "qokchor"
+          ],
+          "after": [
+            "plantokor",
+            "shy"
+          ],
+          "line": "otchor qokchor oly plantokor shy koly plant"
+        },
+        {
+          "folio": "f23r",
+          "before": [
+            "qokeees",
+            "y"
+          ],
+          "after": [
+            "plantdaiin",
+            "dal"
+          ],
+          "line": "okol ok shy qokol dy plantdal dshe qokeees y oly plantdaiin dal"
+        }
+      ]
+    },
+    {
+      "word": "sal",
+      "frequency": 55,
+      "skeleton": "sl",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 3,
+      "sections": {
+        "herbal_a": 2,
+        "herbal_b": 6,
+        "unknown": 13,
+        "astronomical": 1,
+        "biological": 21,
+        "pharmaceutical": 4,
+        "recipes": 8
+      },
+      "context_sample": [
+        {
+          "folio": "f2r",
+          "before": [
+            "chety",
+            "chyky"
+          ],
+          "after": [],
+          "line": "okol chy chor cthor yor an chan plantsaiin chety chyky sal"
+        },
+        {
+          "folio": "f15r",
+          "before": [
+            "plantsol",
+            "ckhaiin"
+          ],
+          "after": [
+            "plant"
+          ],
+          "line": "scheaiin chodaiin chl plantsol ckhaiin sal plant"
+        },
+        {
+          "folio": "f41r",
+          "before": [
+            "qotchy"
+          ],
+          "after": [
+            "yteedy",
+            "kchdy"
+          ],
+          "line": "qotchy sal yteedy kchdy plantdchedy tchdy dchedy dalain"
+        }
+      ]
+    },
+    {
+      "word": "keedy",
+      "frequency": 53,
+      "skeleton": "kdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_b": 6,
+        "unknown": 3,
+        "biological": 18,
+        "recipes": 26
+      },
+      "context_sample": [
+        {
+          "folio": "f31v",
+          "before": [
+            "daiin",
+            "cheody"
+          ],
+          "after": [],
+          "line": "ytchos octhey okeeos cheody okeey kchody daiin cheody keedy"
+        },
+        {
+          "folio": "f33v",
+          "before": [
+            "darar",
+            "sheey"
+          ],
+          "after": [
+            "okchy",
+            "okar"
+          ],
+          "line": "darar sheey keedy okchy okar okedy chy plantdaiin dy dy plantdar aiin okary"
+        },
+        {
+          "folio": "f34v",
+          "before": [
+            "chedy",
+            "chey"
+          ],
+          "after": [
+            "chy",
+            "kedy"
+          ],
+          "line": "olchdaiin chedy chey keedy chy kedy dy qokedy okey sair chkain otain"
+        }
+      ]
+    },
+    {
+      "word": "kar",
+      "frequency": 52,
+      "skeleton": "kr",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 3,
+      "sections": {
+        "herbal_a": 1,
+        "herbal_b": 17,
+        "unknown": 8,
+        "astronomical": 1,
+        "biological": 6,
+        "pharmaceutical": 1,
+        "recipes": 18
+      },
+      "context_sample": [
+        {
+          "folio": "f6r",
+          "before": [
+            "chor",
+            "chor"
+          ],
+          "after": [
+            "cthy",
+            "plantcthor"
+          ],
+          "line": "daiin chckhy chor chor kar cthy plantcthor chotols"
+        },
+        {
+          "folio": "f31v",
+          "before": [
+            "seoar",
+            "al"
+          ],
+          "after": [
+            "oeeeos",
+            "cheos"
+          ],
+          "line": "dar seoar al kar oeeeos cheos aiin o ekeey okeo kor oteol ain"
+        },
+        {
+          "folio": "f34r",
+          "before": [
+            "ar",
+            "y"
+          ],
+          "after": [
+            "ol",
+            "al"
+          ],
+          "line": "or ar y kar ol al oky plantchody qokal chedy chcthedy cheky daram"
+        }
+      ]
+    },
+    {
+      "word": "qokeol",
+      "frequency": 51,
+      "skeleton": "qkl",
+      "has_qo": true,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_a": 2,
+        "herbal_b": 3,
+        "unknown": 16,
+        "biological": 1,
+        "pharmaceutical": 16,
+        "recipes": 13
+      },
+      "context_sample": [
+        {
+          "folio": "f21r",
+          "before": [
+            "chol",
+            "kol"
+          ],
+          "after": [
+            "cholol",
+            "qoteeol"
+          ],
+          "line": "dchor y kolyky chol kol qokeol cholol qoteeol dady"
+        },
+        {
+          "folio": "f24r",
+          "before": [
+            "qoear",
+            "daiin"
+          ],
+          "after": [
+            "plant"
+          ],
+          "line": "ychor s om qoear daiin qokeol plant"
+        },
+        {
+          "folio": "f48r",
+          "before": [
+            "tocthy"
+          ],
+          "after": [
+            "yteedy",
+            "lolkeol"
+          ],
+          "line": "tocthy qokeol yteedy lolkeol otolches al or ykeeodam okedy okam"
+        }
+      ]
+    },
+    {
+      "word": "kain",
+      "frequency": 48,
+      "skeleton": "kn",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 4,
+      "sections": {
+        "herbal_a": 1,
+        "herbal_b": 3,
+        "biological": 17,
+        "unknown": 6,
+        "recipes": 21
+      },
+      "context_sample": [
+        {
+          "folio": "f15v",
+          "before": [
+            "aiin",
+            "cthy"
+          ],
+          "after": [
+            "dar",
+            "plant"
+          ],
+          "line": "chor or oro r aiin cthy kain dar plant"
+        },
+        {
+          "folio": "f34v",
+          "before": [
+            "checkhy",
+            "chdy"
+          ],
+          "after": [
+            "cheor",
+            "or"
+          ],
+          "line": "daiin chdy tedy kchdy okeedy checkhy chdy kain cheor or okedy okam"
+        },
+        {
+          "folio": "f38r",
+          "before": [
+            "okor",
+            "chey"
+          ],
+          "after": [
+            "plantchor",
+            "ctho"
+          ],
+          "line": "okor chey kain plantchor ctho dain ckholdy"
+        }
+      ]
+    },
+    {
+      "word": "chaiin",
+      "frequency": 44,
+      "skeleton": "chn",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 6,
+      "sections": {
+        "herbal_a": 17,
+        "herbal_b": 17,
+        "unknown": 3,
+        "recipes": 7
+      },
+      "context_sample": [
+        {
+          "folio": "f4r",
+          "before": [
+            "cthol",
+            "shtchy"
+          ],
+          "after": [
+            "plants",
+            "plantchoraiin"
+          ],
+          "line": "dchor chol shol cthol shtchy chaiin plants plantchoraiin chom"
+        },
+        {
+          "folio": "f4r",
+          "before": [
+            "chol",
+            "chy"
+          ],
+          "after": [
+            "qotaiin",
+            "plantdaiin"
+          ],
+          "line": "otchol chol chy chaiin qotaiin plantdaiin shain"
+        },
+        {
+          "folio": "f4r",
+          "before": [
+            "soiin"
+          ],
+          "after": [
+            "chaiin",
+            "plant"
+          ],
+          "line": "soiin chaiin chaiin plant"
+        }
+      ]
+    },
+    {
+      "word": "tedy",
+      "frequency": 43,
+      "skeleton": "tdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_b": 9,
+        "unknown": 4,
+        "biological": 22,
+        "recipes": 8
+      },
+      "context_sample": [
+        {
+          "folio": "f34v",
+          "before": [
+            "daiin",
+            "chdy"
+          ],
+          "after": [
+            "kchdy",
+            "okeedy"
+          ],
+          "line": "daiin chdy tedy kchdy okeedy checkhy chdy kain cheor or okedy okam"
+        },
+        {
+          "folio": "f39r",
+          "before": [
+            "sheolkedy",
+            "otedy"
+          ],
+          "after": [
+            "saiin",
+            "plant"
+          ],
+          "line": "ytor chdar shey qokaiin chor kar sheolkedy otedy tedy saiin plant"
+        },
+        {
+          "folio": "f43r",
+          "before": [
+            "dasar",
+            "ytey"
+          ],
+          "after": [
+            "kar",
+            "or"
+          ],
+          "line": "dasar ytey tedy kar or ar shekalchdy cholty qotaly chedy oty otam"
+        }
+      ]
+    },
+    {
+      "word": "qodaiin",
+      "frequency": 42,
+      "skeleton": "qdn",
+      "has_qo": true,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 7,
+      "sections": {
+        "herbal_a": 4,
+        "herbal_b": 9,
+        "biological": 1,
+        "unknown": 11,
+        "pharmaceutical": 1,
+        "recipes": 16
+      },
+      "context_sample": [
+        {
+          "folio": "f3r",
+          "before": [
+            "otchol"
+          ],
+          "after": [
+            "chom",
+            "shom"
+          ],
+          "line": "otchol qodaiin chom shom damo plant"
+        },
+        {
+          "folio": "f4v",
+          "before": [
+            "shaiin",
+            "daiin"
+          ],
+          "after": [
+            "planto",
+            "ar"
+          ],
+          "line": "sho sho chaiin shaiin daiin qodaiin planto ar am"
+        },
+        {
+          "folio": "f6r",
+          "before": [
+            "daiin"
+          ],
+          "after": [
+            "cho",
+            "s"
+          ],
+          "line": "daiin qodaiin cho s chol okaiin s plant"
+        }
+      ]
+    },
+    {
+      "word": "oteody",
+      "frequency": 38,
+      "skeleton": "tdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_b": 3,
+        "unknown": 15,
+        "astronomical": 9,
+        "pharmaceutical": 3,
+        "recipes": 8
+      },
+      "context_sample": [
+        {
+          "folio": "f41v",
+          "before": [
+            "qokal",
+            "or"
+          ],
+          "after": [],
+          "line": "todaiin ol cheos yteedy okal old plantoteol qokal or oteody"
+        },
+        {
+          "folio": "f43v",
+          "before": [
+            "shetcheodchs",
+            "ochedy"
+          ],
+          "after": [
+            "chedy",
+            "chody"
+          ],
+          "line": "shetcheodchs ochedy oteody chedy chody daiin sheody ykar chef"
+        },
+        {
+          "folio": "f48v",
+          "before": [],
+          "after": [
+            "chkey",
+            "plantokedy"
+          ],
+          "line": "oteody chkey plantokedy chckhedy ykedy oldy plantotoly chey kaly tokar otam"
+        }
+      ]
+    },
+    {
+      "word": "oraiin",
+      "frequency": 37,
+      "skeleton": "rn",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 6,
+      "sections": {
+        "herbal_a": 2,
+        "herbal_b": 4,
+        "unknown": 11,
+        "biological": 2,
+        "pharmaceutical": 5,
+        "recipes": 13
+      },
+      "context_sample": [
+        {
+          "folio": "f9r",
+          "before": [
+            "ytchas"
+          ],
+          "after": [
+            "chkar"
+          ],
+          "line": "ytchas oraiin chkar"
+        },
+        {
+          "folio": "f24v",
+          "before": [
+            "oeor"
+          ],
+          "after": [
+            "tchar",
+            "oroplant"
+          ],
+          "line": "oeor oraiin tchar oroplant"
+        },
+        {
+          "folio": "f26v",
+          "before": [
+            "or",
+            "eeeos"
+          ],
+          "after": [
+            "okeo",
+            "chekaiin"
+          ],
+          "line": "yckheody qokedy deey saldy okedor or eeeos oraiin okeo chekaiin"
+        }
+      ]
+    },
+    {
+      "word": "chos",
+      "frequency": 36,
+      "skeleton": "chs",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_a": 1,
+        "herbal_b": 5,
+        "unknown": 17,
+        "pharmaceutical": 3,
+        "recipes": 10
+      },
+      "context_sample": [
+        {
+          "folio": "f15r",
+          "before": [
+            "octhain",
+            "qokaiin"
+          ],
+          "after": [
+            "plantodaiin",
+            "cthl"
+          ],
+          "line": "octhain qokaiin chos plantodaiin cthl s y plant"
+        },
+        {
+          "folio": "f27r",
+          "before": [
+            "daiiin",
+            "chees"
+          ],
+          "after": [
+            "ctey",
+            "dan"
+          ],
+          "line": "chol daiiin chees chos ctey dan plant"
+        },
+        {
+          "folio": "f29r",
+          "before": [
+            "chocthy",
+            "qoos"
+          ],
+          "after": [],
+          "line": "chocthy qoos chos"
+        }
+      ]
+    },
+    {
+      "word": "ykar",
+      "frequency": 34,
+      "skeleton": "ykr",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_a": 1,
+        "herbal_b": 12,
+        "unknown": 10,
+        "astronomical": 3,
+        "biological": 2,
+        "pharmaceutical": 1,
+        "recipes": 5
+      },
+      "context_sample": [
+        {
+          "folio": "f18v",
+          "before": [
+            "s",
+            "ar"
+          ],
+          "after": [],
+          "line": "qotor chor otchy qokeees chy s ar ykar"
+        },
+        {
+          "folio": "f34v",
+          "before": [
+            "ckhy",
+            "loees"
+          ],
+          "after": [
+            "aiin",
+            "oldam"
+          ],
+          "line": "tol qokchy dychedy okchy chckhdy chdaiin ckhy loees ykar aiin oldam"
+        },
+        {
+          "folio": "f39r",
+          "before": [
+            "aiin",
+            "y"
+          ],
+          "after": [
+            "chdy",
+            "ykal"
+          ],
+          "line": "dshdy ar aiin y ykar chdy ykal olkaiin qokaldar cheol dar aiin plant"
+        }
+      ]
+    },
+    {
+      "word": "oiin",
+      "frequency": 33,
+      "skeleton": "n",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_a": 6,
+        "herbal_b": 1,
+        "unknown": 7,
+        "biological": 7,
+        "pharmaceutical": 2,
+        "recipes": 10
+      },
+      "context_sample": [
+        {
+          "folio": "f1r",
+          "before": [
+            "dain"
+          ],
+          "after": [
+            "chol",
+            "odaiin"
+          ],
+          "line": "dain oiin chol odaiin chodain chdy okain dan cthy kod"
+        },
+        {
+          "folio": "f13r",
+          "before": [
+            "okchy",
+            "okchor"
+          ],
+          "after": [
+            "chckhy",
+            "d"
+          ],
+          "line": "tchor dor daiin qotchol okchy okchor oiin chckhy d"
+        },
+        {
+          "folio": "f15v",
+          "before": [
+            "chor",
+            "ol"
+          ],
+          "after": [
+            "oty",
+            "shol"
+          ],
+          "line": "ytchor chor ol oiin oty shol daiin plant"
+        }
+      ]
+    },
+    {
+      "word": "okor",
+      "frequency": 33,
+      "skeleton": "kr",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_a": 5,
+        "herbal_b": 7,
+        "unknown": 9,
+        "biological": 2,
+        "pharmaceutical": 7,
+        "recipes": 3
+      },
+      "context_sample": [
+        {
+          "folio": "f3v",
+          "before": [
+            "qoteeol",
+            "okchor"
+          ],
+          "after": [
+            "olytol",
+            "dol"
+          ],
+          "line": "daiidy qoteeol okchor okor olytol dol dar plant"
+        },
+        {
+          "folio": "f6v",
+          "before": [
+            "chodam",
+            "dam"
+          ],
+          "after": [
+            "oty",
+            "doldom"
+          ],
+          "line": "dair cshe chodam dam okor oty doldom"
+        },
+        {
+          "folio": "f9r",
+          "before": [
+            "otaiin",
+            "cthy"
+          ],
+          "after": [
+            "chey",
+            "plantcthod"
+          ],
+          "line": "toiin cphy qotod otaiin cthy okor chey plantcthod ram"
+        }
+      ]
+    },
+    {
+      "word": "lkar",
+      "frequency": 30,
+      "skeleton": "lkr",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "biological": 5,
+        "unknown": 4,
+        "recipes": 21
+      },
+      "context_sample": [
+        {
+          "folio": "f75v",
+          "before": [
+            "figuredaiin",
+            "chckhy"
+          ],
+          "after": [
+            "chckhy",
+            "rom"
+          ],
+          "line": "sor sheky qokain okal dal olchedy figuredaiin chckhy lkar chckhy rom l"
+        },
+        {
+          "folio": "f76r",
+          "before": [
+            "ain",
+            "olkeey"
+          ],
+          "after": [
+            "ain",
+            "otchy"
+          ],
+          "line": "shed al shckhy sain chcphedy ain olkeey lkar ain otchy lkain chedy dar daly"
+        },
+        {
+          "folio": "f76r",
+          "before": [
+            "sain",
+            "oky"
+          ],
+          "after": [
+            "chedy",
+            "lkar"
+          ],
+          "line": "saiin olaiin oky shol sain oky lkar chedy lkar al loral"
+        }
+      ]
+    },
+    {
+      "word": "plantdaiin",
+      "frequency": 29,
+      "skeleton": "plntdn",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 10,
+      "sections": {
+        "herbal_a": 9,
+        "herbal_b": 17,
+        "unknown": 1,
+        "pharmaceutical": 2
+      },
+      "context_sample": [
+        {
+          "folio": "f2v",
+          "before": [
+            "chy",
+            "chty"
+          ],
+          "after": [
+            "otchor",
+            "chan"
+          ],
+          "line": "dor chol chor chol keol chy chty plantdaiin otchor chan"
+        },
+        {
+          "folio": "f4r",
+          "before": [
+            "chaiin",
+            "qotaiin"
+          ],
+          "after": [
+            "shain"
+          ],
+          "line": "otchol chol chy chaiin qotaiin plantdaiin shain"
+        },
+        {
+          "folio": "f8r",
+          "before": [
+            "chaiin",
+            "el"
+          ],
+          "after": [
+            "chor",
+            "cha"
+          ],
+          "line": "okar cphaiin chaiin el plantdaiin chor cha rchealcham"
+        }
+      ]
+    },
+    {
+      "word": "lkedy",
+      "frequency": 29,
+      "skeleton": "lkdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_b": 3,
+        "biological": 7,
+        "recipes": 19
+      },
+      "context_sample": [
+        {
+          "folio": "f31v",
+          "before": [
+            "okees",
+            "o"
+          ],
+          "after": [],
+          "line": "ykeeo daiin shedal okedy okey keody okchey sair okees o lkedy"
+        },
+        {
+          "folio": "f39v",
+          "before": [],
+          "after": [
+            "okchey",
+            "shorqoy"
+          ],
+          "line": "lkedy okchey shorqoy kam cho ckhcfhhy or aly shody"
+        },
+        {
+          "folio": "f41v",
+          "before": [
+            "qokeody",
+            "oleeol"
+          ],
+          "after": [
+            "plantlkeeody",
+            "qokeedy"
+          ],
+          "line": "qokeody okey qokeody oleeol lkedy plantlkeeody qokeedy okeey qokol sheols"
+        }
+      ]
+    },
+    {
+      "word": "dchy",
+      "frequency": 28,
+      "skeleton": "dchy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_a": 13,
+        "herbal_b": 9,
+        "unknown": 3,
+        "astronomical": 1,
+        "biological": 2
+      },
+      "context_sample": [
+        {
+          "folio": "f2r",
+          "before": [
+            "plantytoldy",
+            "plantdchol"
+          ],
+          "after": [
+            "cthy"
+          ],
+          "line": "saiin daind plantdkol sor plantytoldy plantdchol dchy cthy"
+        },
+        {
+          "folio": "f6v",
+          "before": [
+            "y",
+            "dady"
+          ],
+          "after": [
+            "dey",
+            "okody"
+          ],
+          "line": "y shckhy ytchoy sos y dady dchy dey okody plantytody"
+        },
+        {
+          "folio": "f8r",
+          "before": [
+            "plantokche",
+            "do"
+          ],
+          "after": [
+            "dain",
+            "al"
+          ],
+          "line": "tchty sh kcheals sho plantokche do dchy dain al"
+        }
+      ]
+    },
+    {
+      "word": "qotor",
+      "frequency": 28,
+      "skeleton": "qtr",
+      "has_qo": true,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_a": 8,
+        "herbal_b": 10,
+        "biological": 1,
+        "unknown": 2,
+        "recipes": 7
+      },
+      "context_sample": [
+        {
+          "folio": "f5v",
+          "before": [],
+          "after": [
+            "shees",
+            "otol"
+          ],
+          "line": "qotor shees otol ykoiin shol daiin cthor okchy taiin"
+        },
+        {
+          "folio": "f8r",
+          "before": [],
+          "after": [
+            "chor",
+            "chor"
+          ],
+          "line": "qotor chor chor sheey plantdchol shesed chofchy dam"
+        },
+        {
+          "folio": "f9v",
+          "before": [
+            "pchor",
+            "ypcheey"
+          ],
+          "after": [
+            "ypchy",
+            "olcfholy"
+          ],
+          "line": "pchor ypcheey qotor ypchy olcfholy te plantar plantchty daiiin plant"
+        }
+      ]
+    },
+    {
+      "word": "okeeey",
+      "frequency": 27,
+      "skeleton": "ky",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_a": 1,
+        "herbal_b": 1,
+        "unknown": 7,
+        "biological": 1,
+        "pharmaceutical": 3,
+        "recipes": 14
+      },
+      "context_sample": [
+        {
+          "folio": "f17v",
+          "before": [
+            "cphol",
+            "olcheol"
+          ],
+          "after": [
+            "plant"
+          ],
+          "line": "kchor fchol cphol olcheol okeeey plant"
+        },
+        {
+          "folio": "f33r",
+          "before": [
+            "okain",
+            "ar"
+          ],
+          "after": [],
+          "line": "dar chos aiin or aiin cheekaiin okain ar okeeey"
+        },
+        {
+          "folio": "f72r3",
+          "before": [
+            "os",
+            "oiin"
+          ],
+          "after": [
+            "cheey",
+            "ches"
+          ],
+          "line": "okfoldeey cheky oteo ykeey chedaiin okeeol cheeor chocthar ar oteody oteedy okeolaiin oteey okarar folddy gapsheol al alaiiin okeos olaiin okos okeoar otes sar aiin chekaithhy chokees oteedy chekar okar ch ches os oiin okeeey cheey ches oteody cheal dy shocthy choteey ereoly oheol sheey chorain fold"
+        }
+      ]
+    },
+    {
+      "word": "orain",
+      "frequency": 27,
+      "skeleton": "rn",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 5,
+      "sections": {
+        "herbal_b": 5,
+        "biological": 6,
+        "unknown": 3,
+        "recipes": 13
+      },
+      "context_sample": [
+        {
+          "folio": "f33v",
+          "before": [
+            "oky",
+            "plantcheol"
+          ],
+          "after": [
+            "plantchdyshdy",
+            "porar"
+          ],
+          "line": "tshdy shefchdy shckhdy oltedy daiin oky plantcheol orain plantchdyshdy porar"
+        },
+        {
+          "folio": "f39r",
+          "before": [
+            "fsey",
+            "dy"
+          ],
+          "after": [
+            "cheepaiin",
+            "ofy"
+          ],
+          "line": "tedo chshd cphhofy chdain shey fsey dy orain cheepaiin ofy shey koly dy"
+        },
+        {
+          "folio": "f40r",
+          "before": [
+            "plantkcheo",
+            "cfhdy"
+          ],
+          "after": [
+            "chefal",
+            "daiin"
+          ],
+          "line": "ksheo keeey dar aim plantkcheo cfhdy orain chefal daiin dm"
+        }
+      ]
+    },
+    {
+      "word": "olkedy",
+      "frequency": 27,
+      "skeleton": "lkdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_b": 1,
+        "biological": 20,
+        "unknown": 1,
+        "recipes": 5
+      },
+      "context_sample": [
+        {
+          "folio": "f40r",
+          "before": [
+            "okal",
+            "shdy"
+          ],
+          "after": [
+            "opches",
+            "ar"
+          ],
+          "line": "pchey keodar aldydy plantqoky okal shdy olkedy opches ar ordaiin"
+        },
+        {
+          "folio": "f75r",
+          "before": [
+            "ol",
+            "kain"
+          ],
+          "after": [
+            "figure"
+          ],
+          "line": "solkedy okal dar oty otar otar ol kain olkedy figure"
+        },
+        {
+          "folio": "f75v",
+          "before": [
+            "qokeey",
+            "qotedy"
+          ],
+          "after": [
+            "chey",
+            "tal"
+          ],
+          "line": "pokain okeedy or chesy sol shey qokeey qotedy olkedy chey tal dy qol"
+        }
+      ]
+    },
+    {
+      "word": "yteedy",
+      "frequency": 27,
+      "skeleton": "ytdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_b": 7,
+        "unknown": 4,
+        "astronomical": 1,
+        "biological": 3,
+        "recipes": 12
+      },
+      "context_sample": [
+        {
+          "folio": "f41r",
+          "before": [
+            "qotchy",
+            "sal"
+          ],
+          "after": [
+            "kchdy",
+            "plantdchedy"
+          ],
+          "line": "qotchy sal yteedy kchdy plantdchedy tchdy dchedy dalain"
+        },
+        {
+          "folio": "f41r",
+          "before": [
+            "parchdy",
+            "kchey"
+          ],
+          "after": [
+            "qokeody",
+            "plantykedy"
+          ],
+          "line": "parchdy kchey yteedy qokeody plantykedy chkedy qokedy chedy qokedy"
+        },
+        {
+          "folio": "f41v",
+          "before": [
+            "ol",
+            "cheos"
+          ],
+          "after": [
+            "okal",
+            "old"
+          ],
+          "line": "todaiin ol cheos yteedy okal old plantoteol qokal or oteody"
+        }
+      ]
+    },
+    {
+      "word": "otchdy",
+      "frequency": 27,
+      "skeleton": "tchdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_b": 5,
+        "unknown": 10,
+        "biological": 4,
+        "recipes": 8
+      },
+      "context_sample": [
+        {
+          "folio": "f43r",
+          "before": [
+            "okaldy",
+            "daral"
+          ],
+          "after": [
+            "daiin",
+            "dal"
+          ],
+          "line": "yteody oteol ytedy ar chety dar aiir okaldy daral otchdy daiin dal s"
+        },
+        {
+          "folio": "f43r",
+          "before": [
+            "toldy",
+            "shody"
+          ],
+          "after": [
+            "shdy",
+            "otolol"
+          ],
+          "line": "ytchedy ty shol toldy shody otchdy shdy otolol shd olky ytol otary cheky dy"
+        },
+        {
+          "folio": "f46v",
+          "before": [
+            "ytasr",
+            "aiin"
+          ],
+          "after": [
+            "okaly",
+            "daiin"
+          ],
+          "line": "ytasr aiin otchdy okaly daiin qokedy otar ar oldy otedy saim okey tody daiin"
+        }
+      ]
+    },
+    {
+      "word": "okam",
+      "frequency": 26,
+      "skeleton": "km",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_a": 1,
+        "herbal_b": 11,
+        "unknown": 7,
+        "recipes": 7
+      },
+      "context_sample": [
+        {
+          "folio": "f24v",
+          "before": [
+            "odchees",
+            "oesearees"
+          ],
+          "after": [
+            "chcth",
+            "plant"
+          ],
+          "line": "octhol odchees oesearees okam chcth plant"
+        },
+        {
+          "folio": "f28r",
+          "before": [
+            "plantcho",
+            "qokol"
+          ],
+          "after": [],
+          "line": "qokchol qodaiin otcholchy daiin plantcho qokol okam"
+        },
+        {
+          "folio": "f31v",
+          "before": [
+            "okechoked",
+            "lchey"
+          ],
+          "after": [],
+          "line": "yk aiin chee ksheey ychek eeor cheor or checthy okechoked lchey okam"
+        }
+      ]
+    },
+    {
+      "word": "ykeedy",
+      "frequency": 26,
+      "skeleton": "ykdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_b": 4,
+        "unknown": 5,
+        "biological": 9,
+        "recipes": 8
+      },
+      "context_sample": [
+        {
+          "folio": "f31r",
+          "before": [
+            "sheol",
+            "qokedy"
+          ],
+          "after": [
+            "chedy",
+            "ldy"
+          ],
+          "line": "ykeedar saiin checkhey sheol qokedy ykeedy chedy ldy plant"
+        },
+        {
+          "folio": "f41r",
+          "before": [
+            "ykeod"
+          ],
+          "after": [
+            "chekeedy",
+            "chekedplant"
+          ],
+          "line": "ykeod ykeedy chekeedy chekedplant"
+        },
+        {
+          "folio": "f43v",
+          "before": [
+            "dshey"
+          ],
+          "after": [
+            "chees",
+            "aiin"
+          ],
+          "line": "dshey ykeedy chees aiin chy qocthedy chey qokar checkhy okam"
+        }
+      ]
+    },
+    {
+      "word": "qokeeey",
+      "frequency": 26,
+      "skeleton": "qky",
+      "has_qo": true,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 7,
+      "sections": {
+        "herbal_b": 1,
+        "biological": 4,
+        "unknown": 2,
+        "pharmaceutical": 3,
+        "recipes": 16
+      },
+      "context_sample": [
+        {
+          "folio": "f55v",
+          "before": [],
+          "after": [
+            "os",
+            "aiin"
+          ],
+          "line": "qokeeey os aiin qool al chedy plantear aiin ol kar am"
+        },
+        {
+          "folio": "f77v",
+          "before": [],
+          "after": [
+            "shedy",
+            "qokeedy"
+          ],
+          "line": "qokeeey shedy qokeedy qodykey qokedy rsheedy taiiin sheol teedy yry"
+        },
+        {
+          "folio": "f82r",
+          "before": [
+            "qoteey",
+            "chedy"
+          ],
+          "after": [
+            "qokedy",
+            "lteedy"
+          ],
+          "line": "dshedy qoteey chedy qokeeey qokedy lteedy qokeedy rolchey"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "frequency": 26,
+      "skeleton": "rn",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 4,
+      "sections": {
+        "unknown": 1,
+        "biological": 6,
+        "recipes": 19
+      },
+      "context_sample": [
+        {
+          "folio": "f67r2",
+          "before": [],
+          "after": [
+            "am",
+            "or"
+          ],
+          "line": "rain am or"
+        },
+        {
+          "folio": "f76r",
+          "before": [
+            "shy",
+            "chedy"
+          ],
+          "after": [
+            "chedy",
+            "shy"
+          ],
+          "line": "label k cheor ain okaiin dain chey dal shedy qokaiin cheol shy chedy rain chedy shy"
+        },
+        {
+          "folio": "f77r",
+          "before": [
+            "qotedy",
+            "qotal"
+          ],
+          "after": [
+            "chlr",
+            "arol"
+          ],
+          "line": "figuredaiin sh qolchey qotedy qotal rain chlr arol"
+        }
+      ]
+    },
+    {
+      "word": "oaiin",
+      "frequency": 25,
+      "skeleton": "n",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 5,
+      "sections": {
+        "herbal_a": 3,
+        "herbal_b": 8,
+        "unknown": 4,
+        "pharmaceutical": 2,
+        "recipes": 8
+      },
+      "context_sample": [
+        {
+          "folio": "f5r",
+          "before": [
+            "fchoy",
+            "chkoy"
+          ],
+          "after": [
+            "oar",
+            "olsy"
+          ],
+          "line": "kshody fchoy chkoy oaiin oar olsy chody dkshy dy"
+        },
+        {
+          "folio": "f13v",
+          "before": [
+            "chey",
+            "okos"
+          ],
+          "after": [
+            "okshy",
+            "qocky"
+          ],
+          "line": "ols chey okos oaiin okshy qocky plant"
+        },
+        {
+          "folio": "f18v",
+          "before": [
+            "qoeees",
+            "or"
+          ],
+          "after": [
+            "shy",
+            "okshy"
+          ],
+          "line": "qoeees or oaiin shy okshy qokchy qokchy s g"
+        }
+      ]
+    },
+    {
+      "word": "qokam",
+      "frequency": 25,
+      "skeleton": "qkm",
+      "has_qo": true,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_a": 2,
+        "herbal_b": 4,
+        "biological": 6,
+        "unknown": 1,
+        "recipes": 12
+      },
+      "context_sample": [
+        {
+          "folio": "f6v",
+          "before": [
+            "ytchos",
+            "shy"
+          ],
+          "after": [
+            "cthy",
+            "plant"
+          ],
+          "line": "ytchos shy qokam cthy plant"
+        },
+        {
+          "folio": "f18v",
+          "before": [
+            "chkchy",
+            "qokshy"
+          ],
+          "after": [],
+          "line": "or shy qoky qoky chkchy qokshy qokam"
+        },
+        {
+          "folio": "f39r",
+          "before": [
+            "otal",
+            "chdam"
+          ],
+          "after": [
+            "plant"
+          ],
+          "line": "daiin shckhy chekl ol daiin chedy ykeey daiin otal chdam qokam plant"
+        }
+      ]
+    },
+    {
+      "word": "yteey",
+      "frequency": 25,
+      "skeleton": "yty",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_b": 4,
+        "astronomical": 2,
+        "biological": 3,
+        "unknown": 9,
+        "recipes": 7
+      },
+      "context_sample": [
+        {
+          "folio": "f33r",
+          "before": [],
+          "after": [
+            "shody",
+            "tchedydy"
+          ],
+          "line": "yteey shody tchedydy chekar okaiin okaiin daiin okal plant"
+        },
+        {
+          "folio": "f43v",
+          "before": [
+            "or",
+            "air"
+          ],
+          "after": [
+            "cheody",
+            "ar"
+          ],
+          "line": "y sheey or air yteey cheody ar sheo qody chckhy chdy choty shecthy"
+        },
+        {
+          "folio": "f52v",
+          "before": [],
+          "after": [
+            "cthor",
+            "cheor"
+          ],
+          "line": "yteey cthor cheor cpheodor dy plantsarg plant"
+        }
+      ]
+    },
+    {
+      "word": "dchedy",
+      "frequency": 25,
+      "skeleton": "dchdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_b": 4,
+        "unknown": 3,
+        "biological": 8,
+        "recipes": 10
+      },
+      "context_sample": [
+        {
+          "folio": "f41r",
+          "before": [
+            "plantdchedy",
+            "tchdy"
+          ],
+          "after": [
+            "dalain"
+          ],
+          "line": "qotchy sal yteedy kchdy plantdchedy tchdy dchedy dalain"
+        },
+        {
+          "folio": "f46v",
+          "before": [],
+          "after": [
+            "cheeky",
+            "dam"
+          ],
+          "line": "dchedy cheeky dam ched l chedy chedy plant"
+        },
+        {
+          "folio": "f48v",
+          "before": [],
+          "after": [
+            "tchddy",
+            "otsh"
+          ],
+          "line": "dchedy tchddy otsh okeey ty otar alchdy plantyteedy oteed y tedy m"
+        }
+      ]
+    },
+    {
+      "word": "okchedy",
+      "frequency": 25,
+      "skeleton": "kchdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 7,
+      "sections": {
+        "herbal_b": 1,
+        "unknown": 6,
+        "astronomical": 1,
+        "biological": 2,
+        "recipes": 15
+      },
+      "context_sample": [
+        {
+          "folio": "f50r",
+          "before": [
+            "kar",
+            "ariin"
+          ],
+          "after": [
+            "dariin"
+          ],
+          "line": "todalain qotal kaiin otaiin otal she kar ariin okchedy dariin"
+        },
+        {
+          "folio": "f70r1",
+          "before": [],
+          "after": [
+            "oteos",
+            "okes"
+          ],
+          "line": "okchedy oteos okes okeos cy okchol sair ody o chopcheopchy chol air shekchy choteody oteeshs opcheody otol choky chody chotey sheal ar ykeody oteey chedaiin chotar soly gapoteody choekeeos alairdy okol okeey dary otorsheod"
+        },
+        {
+          "folio": "f70r1",
+          "before": [
+            "choly",
+            "yky"
+          ],
+          "after": [
+            "chkal",
+            "ofchor"
+          ],
+          "line": "okeol choly yky okchedy chkal ofchor qokal opolaiin okeos oty dal choekeey dal choekeey dal cheo al otchoky chety chodalar okal chear aly oteos ar os al okolair dy gapoteodas chy oteody tochody okchody ytar ytory"
+        }
+      ]
+    },
+    {
+      "word": "kor",
+      "frequency": 24,
+      "skeleton": "kr",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 3,
+      "sections": {
+        "herbal_a": 4,
+        "herbal_b": 12,
+        "biological": 1,
+        "pharmaceutical": 3,
+        "unknown": 3,
+        "recipes": 1
+      },
+      "context_sample": [
+        {
+          "folio": "f1r",
+          "before": [
+            "cthres",
+            "y"
+          ],
+          "after": [
+            "sholdy"
+          ],
+          "line": "fachys ykal ar ataiin shol shory cthres y kor sholdy"
+        },
+        {
+          "folio": "f1r",
+          "before": [
+            "chol",
+            "chol"
+          ],
+          "after": [
+            "chal"
+          ],
+          "line": "daiin shckhey ckKeor chor shey kol chol chol kor chal"
+        },
+        {
+          "folio": "f3v",
+          "before": [
+            "or",
+            "cheor"
+          ],
+          "after": [
+            "chodaly",
+            "chomplant"
+          ],
+          "line": "or cheor kor chodaly chomplant"
+        }
+      ]
+    },
+    {
+      "word": "odar",
+      "frequency": 24,
+      "skeleton": "dr",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_a": 1,
+        "herbal_b": 4,
+        "unknown": 6,
+        "biological": 1,
+        "pharmaceutical": 2,
+        "recipes": 10
+      },
+      "context_sample": [
+        {
+          "folio": "f1r",
+          "before": [],
+          "after": [
+            "o",
+            "y"
+          ],
+          "line": "odar o y shol cphoy oydar sh s cfhoaiin shodary"
+        },
+        {
+          "folio": "f26v",
+          "before": [
+            "otedy",
+            "ckhdy"
+          ],
+          "after": [
+            "chedy",
+            "ytedy"
+          ],
+          "line": "pchdar opar dar cheeol ofchdy otedy ckhdy odar chedy ytedy okchdy g"
+        },
+        {
+          "folio": "f32v",
+          "before": [
+            "daiin"
+          ],
+          "after": [
+            "chy",
+            "daiin"
+          ],
+          "line": "daiin odar chy daiin chey tcho ldy plantdain teor"
+        }
+      ]
+    },
+    {
+      "word": "yty",
+      "frequency": 24,
+      "skeleton": "yty",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 3,
+      "sections": {
+        "herbal_a": 6,
+        "herbal_b": 7,
+        "unknown": 7,
+        "astronomical": 1,
+        "biological": 1,
+        "pharmaceutical": 1,
+        "recipes": 1
+      },
+      "context_sample": [
+        {
+          "folio": "f3v",
+          "before": [
+            "shkaiin",
+            "qokchy"
+          ],
+          "after": [
+            "cthal",
+            "chky"
+          ],
+          "line": "shar shkaiin qokchy yty cthal chky plant"
+        },
+        {
+          "folio": "f4r",
+          "before": [
+            "qotchol",
+            "chy"
+          ],
+          "after": [
+            "daiin",
+            "okaiin"
+          ],
+          "line": "qotchol chy yty daiin okaiin cthyplant"
+        },
+        {
+          "folio": "f10r",
+          "before": [
+            "chol",
+            "or"
+          ],
+          "after": [
+            "dy",
+            "dy"
+          ],
+          "line": "qotor otchy daiin chocthy qotchy chol or yty dy dy"
+        }
+      ]
+    },
+    {
+      "word": "qotey",
+      "frequency": 24,
+      "skeleton": "qty",
+      "has_qo": true,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_a": 2,
+        "unknown": 4,
+        "biological": 7,
+        "recipes": 11
+      },
+      "context_sample": [
+        {
+          "folio": "f4r",
+          "before": [
+            "ol",
+            "sheey"
+          ],
+          "after": [
+            "plantdoiin",
+            "chor"
+          ],
+          "line": "kodalchy chpady sheol ol sheey qotey plantdoiin chor ytoy"
+        },
+        {
+          "folio": "f13r",
+          "before": [
+            "shy",
+            "ykchy"
+          ],
+          "after": [
+            "daiin",
+            "s"
+          ],
+          "line": "dchol chol dol shkchy ydal shy ykchy qotey daiin s y"
+        },
+        {
+          "folio": "f58r",
+          "before": [
+            "todal"
+          ],
+          "after": [
+            "chaly",
+            "dal"
+          ],
+          "line": "todal qotey chaly dal qokaldy otary okalal csees chal ochaly"
+        }
+      ]
+    },
+    {
+      "word": "chedal",
+      "frequency": 24,
+      "skeleton": "chdl",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_b": 2,
+        "unknown": 3,
+        "biological": 2,
+        "recipes": 17
+      },
+      "context_sample": [
+        {
+          "folio": "f31v",
+          "before": [
+            "pcheeody",
+            "qop"
+          ],
+          "after": [
+            "eeecfhy",
+            "chefchol"
+          ],
+          "line": "pcheeody qop chedal eeecfhy chefchol or cheef alaiin opal sheo otar"
+        },
+        {
+          "folio": "f43v",
+          "before": [
+            "chedy",
+            "okeedy"
+          ],
+          "after": [
+            "olkey",
+            "cheky"
+          ],
+          "line": "dykeedain chedy okeedy chedal olkey cheky choal chedy oteorom"
+        },
+        {
+          "folio": "f58v",
+          "before": [
+            "cheal",
+            "qokey"
+          ],
+          "after": [
+            "dy",
+            "tolair"
+          ],
+          "line": "oreeey cheekey cheal qokey chedal dy tolair opchey poaly cfhy"
+        }
+      ]
+    },
+    {
+      "word": "qotchedy",
+      "frequency": 24,
+      "skeleton": "qtchdy",
+      "has_qo": true,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 8,
+      "sections": {
+        "unknown": 3,
+        "biological": 4,
+        "recipes": 17
+      },
+      "context_sample": [
+        {
+          "folio": "f66r",
+          "before": [
+            "pchedy",
+            "kody"
+          ],
+          "after": [
+            "cphedy"
+          ],
+          "line": "sheol oteey ldaiin okalchedy pchedy kody qotchedy cphedy"
+        },
+        {
+          "folio": "f78r",
+          "before": [],
+          "after": [
+            "lchedy",
+            "lchedy"
+          ],
+          "line": "qotchedy lchedy lchedy kedy qol saiin ckhain or figure"
+        },
+        {
+          "folio": "f83r",
+          "before": [
+            "shcthy",
+            "dalchdy"
+          ],
+          "after": [
+            "lchedy"
+          ],
+          "line": "saiin shedal shecthy chey tal shcthy dalchdy qotchedy lchedy"
+        }
+      ]
+    },
+    {
+      "word": "ycheey",
+      "frequency": 23,
+      "skeleton": "ychy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_a": 2,
+        "herbal_b": 1,
+        "biological": 2,
+        "unknown": 3,
+        "pharmaceutical": 1,
+        "recipes": 14
+      },
+      "context_sample": [
+        {
+          "folio": "f1r",
+          "before": [],
+          "after": [
+            "okay",
+            "oky"
+          ],
+          "line": "ycheey okay oky daiin okchey kokaiin chol kchy dal"
+        },
+        {
+          "folio": "f17v",
+          "before": [],
+          "after": [
+            "keeor",
+            "cthodal"
+          ],
+          "line": "ycheey keeor cthodal okol odaiin okal plant"
+        },
+        {
+          "folio": "f53v",
+          "before": [],
+          "after": [
+            "kchy",
+            "oky"
+          ],
+          "line": "ycheey kchy oky kody plantodam plant"
+        }
+      ]
+    },
+    {
+      "word": "qokeeo",
+      "frequency": 23,
+      "skeleton": "qk",
+      "has_qo": true,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_a": 1,
+        "herbal_b": 1,
+        "biological": 1,
+        "pharmaceutical": 3,
+        "unknown": 2,
+        "recipes": 15
+      },
+      "context_sample": [
+        {
+          "folio": "f3r",
+          "before": [
+            "okeom",
+            "yteody"
+          ],
+          "after": [
+            "dal",
+            "sam"
+          ],
+          "line": "soeom okeom yteody qokeeo dal sam"
+        },
+        {
+          "folio": "f55r",
+          "before": [
+            "xaloeees",
+            "cpheody"
+          ],
+          "after": [
+            "dy"
+          ],
+          "line": "dchykey char chek xar odar xaloeees cpheody qokeeo dy"
+        },
+        {
+          "folio": "f76r",
+          "before": [
+            "qokeedy",
+            "qopchedy"
+          ],
+          "after": [
+            "sol",
+            "shedy"
+          ],
+          "line": "solchedy qokeedy qopchedy qokeeo sol shedy qokedy sheey okees al al chedain dar"
+        }
+      ]
+    },
+    {
+      "word": "qoaiin",
+      "frequency": 23,
+      "skeleton": "qn",
+      "has_qo": true,
+      "has_y": false,
+      "has_aiin": true,
+      "length": 6,
+      "sections": {
+        "herbal_a": 5,
+        "herbal_b": 3,
+        "unknown": 5,
+        "biological": 1,
+        "pharmaceutical": 1,
+        "recipes": 8
+      },
+      "context_sample": [
+        {
+          "folio": "f5r",
+          "before": [],
+          "after": [
+            "otan",
+            "chy"
+          ],
+          "line": "qoaiin otan chy daiin oteeen cho cthy otchy qotcho dy"
+        },
+        {
+          "folio": "f5r",
+          "before": [
+            "tshy",
+            "shody"
+          ],
+          "after": [
+            "cholols",
+            "sho"
+          ],
+          "line": "tshy shody qoaiin cholols sho qotcheo daiin shodaiin"
+        },
+        {
+          "folio": "f9v",
+          "before": [
+            "dchor"
+          ],
+          "after": [
+            "chkaiin",
+            "cthor"
+          ],
+          "line": "dchor qoaiin chkaiin cthor chol chor cphol dy plantoty qokaiin dy"
+        }
+      ]
+    },
+    {
+      "word": "ytedy",
+      "frequency": 23,
+      "skeleton": "ytdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_b": 10,
+        "biological": 10,
+        "unknown": 2,
+        "recipes": 1
+      },
+      "context_sample": [
+        {
+          "folio": "f26r",
+          "before": [
+            "plantykecthhy",
+            "chedy"
+          ],
+          "after": [
+            "dy",
+            "plantchecthedy"
+          ],
+          "line": "dchey aiin adeeody plantykecthhy chedy ytedy dy plantchecthedy lr"
+        },
+        {
+          "folio": "f26r",
+          "before": [
+            "qokedy",
+            "cheos"
+          ],
+          "after": [
+            "qokedy",
+            "plantytedy"
+          ],
+          "line": "qokedy cheos ytedy qokedy plantytedy chekedy plantdaiin odam s aldy"
+        },
+        {
+          "folio": "f26v",
+          "before": [
+            "odar",
+            "chedy"
+          ],
+          "after": [
+            "okchdy",
+            "g"
+          ],
+          "line": "pchdar opar dar cheeol ofchdy otedy ckhdy odar chedy ytedy okchdy g"
+        }
+      ]
+    },
+    {
+      "word": "aiir",
+      "frequency": 23,
+      "skeleton": "r",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_b": 4,
+        "unknown": 6,
+        "astronomical": 1,
+        "recipes": 12
+      },
+      "context_sample": [
+        {
+          "folio": "f28v",
+          "before": [
+            "pchol"
+          ],
+          "after": [
+            "chol",
+            "tsho"
+          ],
+          "line": "pchol aiir chol tsho daiin sho planttco chy plantchtshy daiis am"
+        },
+        {
+          "folio": "f34r",
+          "before": [
+            "cheky",
+            "fchs"
+          ],
+          "after": [
+            "amg"
+          ],
+          "line": "oteol chekey chetey oll plantchesy plant\\daiin cheky fchs aiir amg"
+        },
+        {
+          "folio": "f39r",
+          "before": [
+            "shedy",
+            "ar"
+          ],
+          "after": [
+            "okair",
+            "ykeols"
+          ],
+          "line": "pchdar shedy ar aiir okair ykeols shedy qockhdy laiin sSyky plant"
+        }
+      ]
+    },
+    {
+      "word": "kal",
+      "frequency": 23,
+      "skeleton": "kl",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 3,
+      "sections": {
+        "herbal_b": 2,
+        "unknown": 6,
+        "astronomical": 1,
+        "biological": 6,
+        "recipes": 8
+      },
+      "context_sample": [
+        {
+          "folio": "f34v",
+          "before": [
+            "qokedy",
+            "chdy"
+          ],
+          "after": [
+            "shs",
+            "oldaiin"
+          ],
+          "line": "lsheody cphy qokeey keedy kchdy chedy qokedy chdy kal shs oldaiin"
+        },
+        {
+          "folio": "f44v",
+          "before": [
+            "cphaiin",
+            "cthal"
+          ],
+          "after": [
+            "plant"
+          ],
+          "line": "lsho qokchy tshy cphaiin cthal kal plant"
+        },
+        {
+          "folio": "f58r",
+          "before": [
+            "yteochy",
+            "otey"
+          ],
+          "after": [
+            "dy",
+            "alam"
+          ],
+          "line": "toleeshal oleeam dalor chy oteodchy yteochy otey kal dy alam"
+        }
+      ]
+    },
+    {
+      "word": "tchy",
+      "frequency": 22,
+      "skeleton": "tchy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_a": 10,
+        "herbal_b": 8,
+        "unknown": 3,
+        "biological": 1
+      },
+      "context_sample": [
+        {
+          "folio": "f4r",
+          "before": [
+            "daiin",
+            "ckhochy"
+          ],
+          "after": [
+            "koraiin",
+            "plant"
+          ],
+          "line": "daiin ckhochy tchy koraiin plant"
+        },
+        {
+          "folio": "f8v",
+          "before": [
+            "char",
+            "cthey"
+          ],
+          "after": [
+            "ckham"
+          ],
+          "line": "shor okol lokaiin plantshol kol char cthey tchy ckham"
+        },
+        {
+          "folio": "f9v",
+          "before": [
+            "ytey"
+          ],
+          "after": [
+            "kaiin",
+            "cthor"
+          ],
+          "line": "ytey tchy kaiin cthor otol oty toldyplant"
+        }
+      ]
+    },
+    {
+      "word": "daiir",
+      "frequency": 22,
+      "skeleton": "dr",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_a": 4,
+        "herbal_b": 3,
+        "unknown": 13,
+        "recipes": 2
+      },
+      "context_sample": [
+        {
+          "folio": "f5v",
+          "before": [
+            "daiin",
+            "otchor"
+          ],
+          "after": [
+            "qo",
+            "darchor"
+          ],
+          "line": "qotcho ytor daiin daiin otchor daiir qo darchor do"
+        },
+        {
+          "folio": "f7v",
+          "before": [
+            "sho",
+            "keeo"
+          ],
+          "after": [
+            "chokchy",
+            "dor"
+          ],
+          "line": "sho keeo daiir chokchy dor deol dy plantdol daiin"
+        },
+        {
+          "folio": "f18v",
+          "before": [
+            "kchy",
+            "qotchol"
+          ],
+          "after": [
+            "om"
+          ],
+          "line": "r ychoees ykchy qol kchy qotchol daiir om"
+        }
+      ]
+    },
+    {
+      "word": "okeor",
+      "frequency": 22,
+      "skeleton": "kr",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_a": 4,
+        "herbal_b": 2,
+        "unknown": 10,
+        "pharmaceutical": 3,
+        "recipes": 3
+      },
+      "context_sample": [
+        {
+          "folio": "f15v",
+          "before": [
+            "daiin",
+            "qokor"
+          ],
+          "after": [
+            "okaiin",
+            "plant"
+          ],
+          "line": "cthor daiin qokor okeor okaiin plant"
+        },
+        {
+          "folio": "f17v",
+          "before": [
+            "oytor"
+          ],
+          "after": [
+            "okar",
+            "okol"
+          ],
+          "line": "oytor okeor okar okol doiiram"
+        },
+        {
+          "folio": "f17v",
+          "before": [
+            "chkeey"
+          ],
+          "after": [
+            "char",
+            "okeom"
+          ],
+          "line": "chkeey okeor char okeom"
+        }
+      ]
+    },
+    {
+      "word": "qor",
+      "frequency": 22,
+      "skeleton": "qr",
+      "has_qo": true,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 3,
+      "sections": {
+        "herbal_a": 3,
+        "herbal_b": 4,
+        "unknown": 3,
+        "biological": 6,
+        "recipes": 6
+      },
+      "context_sample": [
+        {
+          "folio": "f17r",
+          "before": [
+            "shol",
+            "qokol"
+          ],
+          "after": [
+            "olaiin",
+            "opydg"
+          ],
+          "line": "tcho shol qokol qor olaiin opydg plantsom ypchy ypaim"
+        },
+        {
+          "folio": "f24r",
+          "before": [],
+          "after": [
+            "cfhar",
+            "chor"
+          ],
+          "line": "qor cfhar chor s am chotaiin dy plant"
+        },
+        {
+          "folio": "f24r",
+          "before": [],
+          "after": [
+            "cheey",
+            "qod"
+          ],
+          "line": "qor cheey qod char cthal plant"
+        }
+      ]
+    },
+    {
+      "word": "om",
+      "frequency": 22,
+      "skeleton": "m",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 2,
+      "sections": {
+        "herbal_a": 2,
+        "herbal_b": 4,
+        "unknown": 6,
+        "pharmaceutical": 3,
+        "recipes": 7
+      },
+      "context_sample": [
+        {
+          "folio": "f18v",
+          "before": [
+            "qotchol",
+            "daiir"
+          ],
+          "after": [],
+          "line": "r ychoees ykchy qol kchy qotchol daiir om"
+        },
+        {
+          "folio": "f24r",
+          "before": [
+            "ychor",
+            "s"
+          ],
+          "after": [
+            "qoear",
+            "daiin"
+          ],
+          "line": "ychor s om qoear daiin qokeol plant"
+        },
+        {
+          "folio": "f40r",
+          "before": [
+            "ar",
+            "shokor"
+          ],
+          "after": [
+            "plantolshedy",
+            "qokam"
+          ],
+          "line": "tor or ar shokor om plantolshedy qokam chdy kar oraiin"
+        }
+      ]
+    },
+    {
+      "word": "kchedy",
+      "frequency": 22,
+      "skeleton": "kchdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_b": 3,
+        "biological": 4,
+        "unknown": 1,
+        "recipes": 14
+      },
+      "context_sample": [
+        {
+          "folio": "f40v",
+          "before": [
+            "o",
+            "lchey"
+          ],
+          "after": [
+            "okar",
+            "qokchdy"
+          ],
+          "line": "saiin o lchey kchedy okar qokchdy dy plantqokees am chdy"
+        },
+        {
+          "folio": "f43r",
+          "before": [],
+          "after": [
+            "chedy",
+            "daly"
+          ],
+          "line": "kchedy chedy daly cheody cheolkeepchy"
+        },
+        {
+          "folio": "f50r",
+          "before": [
+            "ytchdy"
+          ],
+          "after": [
+            "plantykeey",
+            "kaiin"
+          ],
+          "line": "ytchdy kchedy plantykeey kaiin qokain aldalosam"
+        }
+      ]
+    },
+    {
+      "word": "cthar",
+      "frequency": 21,
+      "skeleton": "cthr",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_a": 14,
+        "herbal_b": 5,
+        "biological": 1,
+        "recipes": 1
+      },
+      "context_sample": [
+        {
+          "folio": "f1r",
+          "before": [
+            "shar",
+            "are"
+          ],
+          "after": [
+            "cthar",
+            "dan"
+          ],
+          "line": "sory ckhar or y kair chtaiin shar are cthar cthar dan"
+        },
+        {
+          "folio": "f1r",
+          "before": [
+            "are",
+            "cthar"
+          ],
+          "after": [
+            "dan"
+          ],
+          "line": "sory ckhar or y kair chtaiin shar are cthar cthar dan"
+        },
+        {
+          "folio": "f1r",
+          "before": [
+            "oteos",
+            "roloty"
+          ],
+          "after": [
+            "daiin",
+            "otaiin"
+          ],
+          "line": "oo'oiin oteey oteos roloty cthar daiin otaiin or okan"
+        }
+      ]
+    },
+    {
+      "word": "okchdy",
+      "frequency": 21,
+      "skeleton": "kchdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_b": 3,
+        "unknown": 6,
+        "astronomical": 1,
+        "biological": 6,
+        "pharmaceutical": 1,
+        "recipes": 4
+      },
+      "context_sample": [
+        {
+          "folio": "f26v",
+          "before": [
+            "chedy",
+            "ytedy"
+          ],
+          "after": [
+            "g"
+          ],
+          "line": "pchdar opar dar cheeol ofchdy otedy ckhdy odar chedy ytedy okchdy g"
+        },
+        {
+          "folio": "f34v",
+          "before": [
+            "kedaiiin",
+            "chcthy"
+          ],
+          "after": [
+            "chckhy",
+            "dasam"
+          ],
+          "line": "ytal seor chdal olchdy char or ol kedaiiin chcthy okchdy chckhy dasam"
+        },
+        {
+          "folio": "f50v",
+          "before": [
+            "ol",
+            "okeedy"
+          ],
+          "after": [
+            "otar",
+            "chckhey"
+          ],
+          "line": "dar qoain olaiin olraiin ol okeedy okchdy otar chckhey or"
+        }
+      ]
+    },
+    {
+      "word": "qokeor",
+      "frequency": 21,
+      "skeleton": "qkr",
+      "has_qo": true,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "herbal_b": 2,
+        "biological": 6,
+        "pharmaceutical": 4,
+        "unknown": 5,
+        "recipes": 4
+      },
+      "context_sample": [
+        {
+          "folio": "f31r",
+          "before": [
+            "daiin",
+            "sheoody"
+          ],
+          "after": [],
+          "line": "daiin sheoody qokeor"
+        },
+        {
+          "folio": "f49r",
+          "before": [],
+          "after": [
+            "cheey",
+            "qokchy"
+          ],
+          "line": "qokeor cheey qokchy qotody plant"
+        },
+        {
+          "folio": "f75v",
+          "before": [
+            "qol",
+            "sheedy"
+          ],
+          "after": [
+            "sheedy",
+            "qokal"
+          ],
+          "line": "qoqokeey olkain qol sheedy qokeor sheedy qokal or chey qokar ol aiin"
+        }
+      ]
+    },
+    {
+      "word": "okair",
+      "frequency": 21,
+      "skeleton": "kr",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_b": 5,
+        "unknown": 3,
+        "astronomical": 1,
+        "biological": 2,
+        "pharmaceutical": 1,
+        "recipes": 9
+      },
+      "context_sample": [
+        {
+          "folio": "f39r",
+          "before": [
+            "ar",
+            "aiir"
+          ],
+          "after": [
+            "ykeols",
+            "shedy"
+          ],
+          "line": "pchdar shedy ar aiir okair ykeols shedy qockhdy laiin sSyky plant"
+        },
+        {
+          "folio": "f40r",
+          "before": [
+            "oky",
+            "ykedy"
+          ],
+          "after": [
+            "ody"
+          ],
+          "line": "saiin olcheey chdy plantychey karar oky ykedy okair ody"
+        },
+        {
+          "folio": "f40v",
+          "before": [
+            "chckhy",
+            "okal"
+          ],
+          "after": [
+            "arol",
+            "plantqokey"
+          ],
+          "line": "saiin otain chckhy okal okair arol plantqokey okary"
+        }
+      ]
+    },
+    {
+      "word": "rar",
+      "frequency": 21,
+      "skeleton": "rr",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 3,
+      "sections": {
+        "unknown": 4,
+        "biological": 5,
+        "pharmaceutical": 1,
+        "recipes": 11
+      },
+      "context_sample": [
+        {
+          "folio": "f68v2",
+          "before": [
+            "daiir",
+            "oteeys"
+          ],
+          "after": [
+            "ockheey",
+            "dorchy"
+          ],
+          "line": "okeodaiin ykeeody shsdy shyokeey dalches okos cheky otees oteydy okechoy yteody cheteedy chedady ceectheey otychdy oteey cpheeody otey chkey daiin chey daiir oteeys rar ockheey dorchy okchy qokeechy dal chy chokeeey sory"
+        },
+        {
+          "folio": "f70v2",
+          "before": [
+            "otal"
+          ],
+          "after": [],
+          "line": "otal rar"
+        },
+        {
+          "folio": "f72v2",
+          "before": [
+            "okeo"
+          ],
+          "after": [],
+          "line": "okeo rar"
+        }
+      ]
+    },
+    {
+      "word": "olshedy",
+      "frequency": 21,
+      "skeleton": "lshdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 7,
+      "sections": {
+        "biological": 13,
+        "unknown": 3,
+        "recipes": 5
+      },
+      "context_sample": [
+        {
+          "folio": "f75r",
+          "before": [
+            "qokedy",
+            "qokain"
+          ],
+          "after": [],
+          "line": "pchedy keedy qokedy figureqokedy qokedy qokedy qokain olshedy"
+        },
+        {
+          "folio": "f75v",
+          "before": [
+            "qokeedy",
+            "qokar"
+          ],
+          "after": [
+            "oldy"
+          ],
+          "line": "qokain olshey qokain dar ol shedy qokedy qokeedy qokar olshedy oldy"
+        },
+        {
+          "folio": "f76r",
+          "before": [
+            "alol",
+            "lkaiin"
+          ],
+          "after": [
+            "otain",
+            "okar"
+          ],
+          "line": "poleedaran shckhy qoty ykar alol lkaiin olshedy otain okar opar kolpy"
+        }
+      ]
+    },
+    {
+      "word": "dchol",
+      "frequency": 20,
+      "skeleton": "dchl",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_a": 7,
+        "herbal_b": 4,
+        "unknown": 6,
+        "biological": 2,
+        "recipes": 1
+      },
+      "context_sample": [
+        {
+          "folio": "f5v",
+          "before": [],
+          "after": [
+            "sSy",
+            "chol"
+          ],
+          "line": "dchol sSy chol otaiin dain cthor chots ychopordg"
+        },
+        {
+          "folio": "f11r",
+          "before": [],
+          "after": [
+            "chy",
+            "kchy"
+          ],
+          "line": "dchol chy kchy dy daiin"
+        },
+        {
+          "folio": "f13r",
+          "before": [],
+          "after": [
+            "chol",
+            "dol"
+          ],
+          "line": "dchol chol dol shkchy ydal shy ykchy qotey daiin s y"
+        }
+      ]
+    },
+    {
+      "word": "kchdy",
+      "frequency": 20,
+      "skeleton": "kchdy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_a": 1,
+        "herbal_b": 12,
+        "biological": 3,
+        "unknown": 3,
+        "recipes": 1
+      },
+      "context_sample": [
+        {
+          "folio": "f6v",
+          "before": [
+            "qokche",
+            "ychear"
+          ],
+          "after": [
+            "plant"
+          ],
+          "line": "qokche ychear kchdy plant"
+        },
+        {
+          "folio": "f33v",
+          "before": [],
+          "after": [
+            "dam",
+            "dy"
+          ],
+          "line": "kchdy dam dy plantoky plantotal dain chdy plantytam otam cham"
+        },
+        {
+          "folio": "f34v",
+          "before": [
+            "qokeey",
+            "keedy"
+          ],
+          "after": [
+            "chedy",
+            "qokedy"
+          ],
+          "line": "lsheody cphy qokeey keedy kchdy chedy qokedy chdy kal shs oldaiin"
+        }
+      ]
+    },
+    {
+      "word": "rol",
+      "frequency": 20,
+      "skeleton": "rl",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 3,
+      "sections": {
+        "herbal_a": 1,
+        "biological": 13,
+        "recipes": 6
+      },
+      "context_sample": [
+        {
+          "folio": "f8v",
+          "before": [
+            "pchar",
+            "cho"
+          ],
+          "after": [
+            "dal",
+            "plantshear"
+          ],
+          "line": "pchar cho rol dal plantshear cheeotaiin chal daiin"
+        },
+        {
+          "folio": "f75r",
+          "before": [
+            "otedy",
+            "dy"
+          ],
+          "after": [
+            "figure"
+          ],
+          "line": "pdalshor shtol qoty pshar shedy okaldy figuredar otar otedy dy rol figure"
+        },
+        {
+          "folio": "f77v",
+          "before": [
+            "qokeey"
+          ],
+          "after": [
+            "chdor",
+            "cheey"
+          ],
+          "line": "qokeey rol chdor cheey qokaiin saiin shedy qokeedy qokam figure"
+        }
+      ]
+    },
+    {
+      "word": "tal",
+      "frequency": 20,
+      "skeleton": "tl",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 3,
+      "sections": {
+        "herbal_a": 1,
+        "unknown": 9,
+        "biological": 10
+      },
+      "context_sample": [
+        {
+          "folio": "f13v",
+          "before": [
+            "planty",
+            "cho"
+          ],
+          "after": [
+            "plantsho",
+            "qocthy"
+          ],
+          "line": "tchtod otal cthor ytal planty cho tal plantsho qocthy"
+        },
+        {
+          "folio": "f58r",
+          "before": [
+            "olchear",
+            "char"
+          ],
+          "after": [
+            "ytal",
+            "ytar"
+          ],
+          "line": "indentdshodal or ckhy olchear char tal ytal ytar olchokal"
+        },
+        {
+          "folio": "f58r",
+          "before": [],
+          "after": [
+            "ar",
+            "am"
+          ],
+          "line": "tal ar am shar chepchey otar aldy otal cheam qokaiin ote ry"
+        }
+      ]
+    },
+    {
+      "word": "shecthy",
+      "frequency": 20,
+      "skeleton": "shcthy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 7,
+      "sections": {
+        "herbal_a": 1,
+        "herbal_b": 1,
+        "unknown": 1,
+        "biological": 14,
+        "recipes": 3
+      },
+      "context_sample": [
+        {
+          "folio": "f17v",
+          "before": [
+            "sholor",
+            "or"
+          ],
+          "after": [
+            "cpheor",
+            "daiin"
+          ],
+          "line": "oal sheor sholor or shecthy cpheor daiin plant"
+        },
+        {
+          "folio": "f43v",
+          "before": [
+            "chdy",
+            "choty"
+          ],
+          "after": [],
+          "line": "y sheey or air yteey cheody ar sheo qody chckhy chdy choty shecthy"
+        },
+        {
+          "folio": "f66r",
+          "before": [
+            "otey",
+            "ltsholy"
+          ],
+          "after": [
+            "r",
+            "ol"
+          ],
+          "line": "tcheo sheor oteody lpchees ol ar alkey otey ltsholy shecthy r ol"
+        }
+      ]
+    },
+    {
+      "word": "teey",
+      "frequency": 20,
+      "skeleton": "ty",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_a": 1,
+        "herbal_b": 2,
+        "astronomical": 1,
+        "unknown": 2,
+        "biological": 6,
+        "recipes": 8
+      },
+      "context_sample": [
+        {
+          "folio": "f20r",
+          "before": [
+            "ochol",
+            "ol"
+          ],
+          "after": [
+            "otolchey"
+          ],
+          "line": "ochol ol teey otolchey"
+        },
+        {
+          "folio": "f29r",
+          "before": [
+            "sheos",
+            "sheey"
+          ],
+          "after": [
+            "do",
+            "plantshos"
+          ],
+          "line": "kcheol cheor sheos sheey teey do plantshos octTy"
+        },
+        {
+          "folio": "f49r",
+          "before": [
+            "sheor",
+            "chey"
+          ],
+          "after": [
+            "qotan",
+            "plant"
+          ],
+          "line": "chor sheor chey teey qotan plant"
+        }
+      ]
+    },
+    {
+      "word": "qoeedy",
+      "frequency": 20,
+      "skeleton": "qdy",
+      "has_qo": true,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 6,
+      "sections": {
+        "biological": 6,
+        "unknown": 2,
+        "recipes": 12
+      },
+      "context_sample": [
+        {
+          "folio": "f76v",
+          "before": [],
+          "after": [
+            "lchedy",
+            "chees"
+          ],
+          "line": "qoeedy lchedy chees ol oiiin chchky shekeey qokey qoky saiin sy"
+        },
+        {
+          "folio": "f77r",
+          "before": [
+            "figurepol",
+            "shedy"
+          ],
+          "after": [
+            "qokaiin",
+            "chcphey"
+          ],
+          "line": "figurepol shedy qoeedy qokaiin chcphey qol ltaiin shedy qol"
+        },
+        {
+          "folio": "f81v",
+          "before": [
+            "lor",
+            "shedy"
+          ],
+          "after": [
+            "ol",
+            "chy"
+          ],
+          "line": "lor shedy qoeedy ol chy rshdy lshedy dar chdy pchdy"
+        }
+      ]
+    },
+    {
+      "word": "ytchy",
+      "frequency": 19,
+      "skeleton": "ytchy",
+      "has_qo": false,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_a": 6,
+        "herbal_b": 7,
+        "unknown": 4,
+        "astronomical": 1,
+        "recipes": 1
+      },
+      "context_sample": [
+        {
+          "folio": "f3v",
+          "before": [
+            "osh",
+            "chodair"
+          ],
+          "after": [
+            "tchor",
+            "kcham"
+          ],
+          "line": "osh chodair ytchy tchor kcham s plant"
+        },
+        {
+          "folio": "f11r",
+          "before": [
+            "kshy",
+            "daiin"
+          ],
+          "after": [
+            "ytchoky",
+            "kchol"
+          ],
+          "line": "socthody qodor y kshy daiin ytchy ytchoky kchol daiin"
+        },
+        {
+          "folio": "f13r",
+          "before": [
+            "qodchy"
+          ],
+          "after": [
+            "otchor"
+          ],
+          "line": "qodchy ytchy otchor"
+        }
+      ]
+    },
+    {
+      "word": "qotchey",
+      "frequency": 19,
+      "skeleton": "qtchy",
+      "has_qo": true,
+      "has_y": true,
+      "has_aiin": false,
+      "length": 7,
+      "sections": {
+        "herbal_a": 4,
+        "herbal_b": 4,
+        "biological": 2,
+        "unknown": 2,
+        "recipes": 7
+      },
+      "context_sample": [
+        {
+          "folio": "f7v",
+          "before": [
+            "rcho",
+            "cheeody"
+          ],
+          "after": [
+            "tey",
+            "plantokchor"
+          ],
+          "line": "qoteeeo rcho cheeody qotchey tey plantokchor daiin"
+        },
+        {
+          "folio": "f10v",
+          "before": [
+            "shoiin",
+            "daiin"
+          ],
+          "after": [
+            "shcthey",
+            "ytor"
+          ],
+          "line": "qotchytor shoiin daiin qotchey shcthey ytor dain"
+        },
+        {
+          "folio": "f15v",
+          "before": [],
+          "after": [
+            "choty",
+            "kaiin"
+          ],
+          "line": "qotchey choty kaiin otchy r aiin plant"
+        }
+      ]
+    },
+    {
+      "word": "ytal",
+      "frequency": 19,
+      "skeleton": "ytl",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_a": 3,
+        "herbal_b": 3,
+        "unknown": 9,
+        "astronomical": 1,
+        "biological": 3
+      },
+      "context_sample": [
+        {
+          "folio": "f13v",
+          "before": [
+            "otal",
+            "cthor"
+          ],
+          "after": [
+            "planty",
+            "cho"
+          ],
+          "line": "tchtod otal cthor ytal planty cho tal plantsho qocthy"
+        },
+        {
+          "folio": "f19v",
+          "before": [
+            "oky",
+            "chor"
+          ],
+          "after": [
+            "chol",
+            "oky"
+          ],
+          "line": "ychor oky chor ytal chol oky ddor plant"
+        },
+        {
+          "folio": "f22v",
+          "before": [
+            "s",
+            "plantor"
+          ],
+          "after": [
+            "plant"
+          ],
+          "line": "qokchy daiin s plantor ytal plant"
+        }
+      ]
+    },
+    {
+      "word": "olol",
+      "frequency": 19,
+      "skeleton": "ll",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 4,
+      "sections": {
+        "herbal_a": 4,
+        "herbal_b": 1,
+        "unknown": 3,
+        "biological": 10,
+        "recipes": 1
+      },
+      "context_sample": [
+        {
+          "folio": "f14r",
+          "before": [
+            "kchor",
+            "daiin"
+          ],
+          "after": [
+            "plant"
+          ],
+          "line": "ydaiin olchy kchor daiin olol plant"
+        },
+        {
+          "folio": "f17v",
+          "before": [
+            "oldaiin",
+            "chockhol"
+          ],
+          "after": [
+            "plant"
+          ],
+          "line": "oldaim odaiin okal oldaiin chockhol olol plant"
+        },
+        {
+          "folio": "f23r",
+          "before": [
+            "daiir",
+            "qokaiin"
+          ],
+          "after": [
+            "qoaiin",
+            "ykchy"
+          ],
+          "line": "qokshy char daiir qokaiin olol qoaiin ykchy s plantdiil okchy"
+        }
+      ]
+    },
+    {
+      "word": "sheal",
+      "frequency": 19,
+      "skeleton": "shl",
+      "has_qo": false,
+      "has_y": false,
+      "has_aiin": false,
+      "length": 5,
+      "sections": {
+        "herbal_a": 1,
+        "unknown": 6,
+        "biological": 3,
+        "recipes": 9
+      },
+      "context_sample": [
+        {
+          "folio": "f16r",
+          "before": [
+            "ydor"
+          ],
+          "after": [
+            "okchy",
+            "qoy"
+          ],
+          "line": "ydor sheal okchy qoy koiin choky ykairplant"
+        },
+        {
+          "folio": "f58v",
+          "before": [
+            "taiin",
+            "chal"
+          ],
+          "after": [
+            "qockhy",
+            "dar"
+          ],
+          "line": "taiin chal sheal qockhy dar aiin ockhey qokeey qoaiin aral"
+        },
+        {
+          "folio": "f68r2",
+          "before": [
+            "tsheeor",
+            "chor"
+          ],
+          "after": [
+            "dar",
+            "opchey"
+          ],
+          "line": "tsheeor chor sheal dar opchey oeecthy sheol dokechy otcheoly"
+        }
+      ]
+    }
+  ],
+  "context_clusters": {
+    "medical": [
+      "qokeedy",
+      "qokedy",
+      "okaiin",
+      "dain",
+      "qokal",
+      "otedy",
+      "qol",
+      "okain",
+      "otal",
+      "saiin",
+      "okar",
+      "lchedy",
+      "okedy",
+      "okeedy",
+      "qokol",
+      "oteedy",
+      "ain",
+      "am",
+      "otol",
+      "raiin",
+      "air",
+      "dor",
+      "qokchy",
+      "sain",
+      "sol",
+      "kaiin",
+      "cho",
+      "cheo",
+      "cheedy",
+      "odaiin",
+      "oly",
+      "sal",
+      "keedy",
+      "kar",
+      "qokeol",
+      "kain",
+      "chaiin",
+      "tedy",
+      "qodaiin",
+      "oteody",
+      "oraiin",
+      "chos",
+      "ykar",
+      "oiin",
+      "okor",
+      "lkar",
+      "plantdaiin",
+      "lkedy",
+      "dchy",
+      "qotor",
+      "okeeey",
+      "orain",
+      "olkedy",
+      "yteedy",
+      "otchdy",
+      "ykeedy",
+      "qokeeey",
+      "rain",
+      "oaiin",
+      "qokam",
+      "yteey",
+      "dchedy",
+      "okchedy",
+      "kor",
+      "odar",
+      "yty",
+      "qotey",
+      "chedal",
+      "qotchedy",
+      "ycheey",
+      "qokeeo",
+      "qoaiin",
+      "ytedy",
+      "aiir",
+      "kal",
+      "tchy",
+      "okeor",
+      "qor",
+      "om",
+      "kchedy",
+      "cthar",
+      "okchdy",
+      "qokeor",
+      "okair",
+      "rar",
+      "olshedy",
+      "dchol",
+      "kchdy",
+      "rol",
+      "tal",
+      "shecthy",
+      "teey",
+      "qoeedy",
+      "ytchy",
+      "qotchey",
+      "ytal",
+      "olol",
+      "sheal"
+    ],
+    "botanical": [
+      "okam",
+      "daiir"
+    ],
+    "religious": [],
+    "astronomical": [],
+    "measurement": [],
+    "action": [],
+    "unknown": []
+  },
+  "proposed_entries": [
+    {
+      "voynich": "okar",
+      "meaning": "heart/cure",
+      "language": "Italian",
+      "match_details": {
+        "root": "kr",
+        "italian": "cuore/cura",
+        "meaning": "heart/cure",
+        "score": 1.0
+      },
+      "frequency": 126,
+      "primary_section": "recipes",
+      "confidence": 0.7,
+      "evidence": {
+        "skeleton_match": 1.0,
+        "section_fit": "recipes",
+        "similar_exists": false
+      },
+      "validation": {
+        "related_entries": [],
+        "context_sense": false,
+        "context_medical": false,
+        "context_botanical": true,
+        "status": "NEEDS_REVIEW"
+      }
+    },
+    {
+      "voynich": "sol",
+      "meaning": "salt",
+      "language": "Italian",
+      "match_details": {
+        "root": "sl",
+        "italian": "sale",
+        "meaning": "salt",
+        "score": 1.0
+      },
+      "frequency": 66,
+      "primary_section": "biological",
+      "confidence": 0.7,
+      "evidence": {
+        "skeleton_match": 1.0,
+        "section_fit": "biological",
+        "similar_exists": false
+      },
+      "validation": {
+        "related_entries": [],
+        "context_sense": true,
+        "context_medical": false,
+        "context_botanical": true,
+        "status": "VALID"
+      }
+    },
+    {
+      "voynich": "sal",
+      "meaning": "salt",
+      "language": "Italian",
+      "match_details": {
+        "root": "sl",
+        "italian": "sale",
+        "meaning": "salt",
+        "score": 1.0
+      },
+      "frequency": 55,
+      "primary_section": "biological",
+      "confidence": 0.7,
+      "evidence": {
+        "skeleton_match": 1.0,
+        "section_fit": "biological",
+        "similar_exists": false
+      },
+      "validation": {
+        "related_entries": [],
+        "context_sense": true,
+        "context_medical": true,
+        "context_botanical": true,
+        "status": "VALID"
+      }
+    },
+    {
+      "voynich": "kar",
+      "meaning": "heart/cure",
+      "language": "Italian",
+      "match_details": {
+        "root": "kr",
+        "italian": "cuore/cura",
+        "meaning": "heart/cure",
+        "score": 1.0
+      },
+      "frequency": 52,
+      "primary_section": "recipes",
+      "confidence": 0.7,
+      "evidence": {
+        "skeleton_match": 1.0,
+        "section_fit": "recipes",
+        "similar_exists": false
+      },
+      "validation": {
+        "related_entries": [],
+        "context_sense": false,
+        "context_medical": false,
+        "context_botanical": true,
+        "status": "NEEDS_REVIEW"
+      }
+    },
+    {
+      "voynich": "okor",
+      "meaning": "heart/cure",
+      "language": "Italian",
+      "match_details": {
+        "root": "kr",
+        "italian": "cuore/cura",
+        "meaning": "heart/cure",
+        "score": 1.0
+      },
+      "frequency": 33,
+      "primary_section": "unknown",
+      "confidence": 0.6,
+      "evidence": {
+        "skeleton_match": 1.0,
+        "section_fit": "unknown",
+        "similar_exists": false
+      },
+      "validation": {
+        "related_entries": [],
+        "context_sense": false,
+        "context_medical": true,
+        "context_botanical": true,
+        "status": "NEEDS_REVIEW"
+      }
+    },
+    {
+      "voynich": "qokchy",
+      "meaning": "strength",
+      "language": "Hebrew",
+      "match_details": {
+        "root": "kch",
+        "hebrew": "koach",
+        "meaning": "strength",
+        "score": 0.6
+      },
+      "frequency": 69,
+      "primary_section": "herbal_a",
+      "confidence": 0.56,
+      "evidence": {
+        "skeleton_match": 0.6,
+        "section_fit": "herbal_a",
+        "similar_exists": true
+      },
+      "validation": {
+        "related_entries": [],
+        "context_sense": false,
+        "context_medical": true,
+        "context_botanical": true,
+        "status": "LOW_CONFIDENCE"
+      }
+    },
+    {
+      "voynich": "cheedy",
+      "meaning": "one",
+      "language": "Hebrew",
+      "match_details": {
+        "root": "chd",
+        "hebrew": "echad",
+        "meaning": "one",
+        "score": 0.75
+      },
+      "frequency": 59,
+      "primary_section": "biological",
+      "confidence": 0.55,
+      "evidence": {
+        "skeleton_match": 0.75,
+        "section_fit": "biological",
+        "similar_exists": false
+      },
+      "validation": {
+        "related_entries": [
+          "chdy",
+          "chody",
+          "cheody",
+          "ched"
+        ],
+        "context_sense": true,
+        "context_medical": true,
+        "context_botanical": true,
+        "status": "EXTENDS_EXISTING"
+      }
+    },
+    {
+      "voynich": "qotor",
+      "meaning": "earth",
+      "language": "Italian",
+      "match_details": {
+        "root": "tr",
+        "italian": "terra",
+        "meaning": "earth",
+        "score": 0.67
+      },
+      "frequency": 28,
+      "primary_section": "herbal_b",
+      "confidence": 0.5,
+      "evidence": {
+        "skeleton_match": 0.67,
+        "section_fit": "herbal_b",
+        "similar_exists": true
+      },
+      "validation": {
+        "related_entries": [
+          "otar",
+          "tar",
+          "otor",
+          "tor",
+          "otair"
+        ],
+        "context_sense": false,
+        "context_medical": true,
+        "context_botanical": true,
+        "status": "EXTENDS_EXISTING"
+      }
+    },
+    {
+      "voynich": "lchedy",
+      "meaning": "one",
+      "language": "Hebrew",
+      "match_details": {
+        "root": "chd",
+        "hebrew": "echad",
+        "meaning": "one",
+        "score": 0.6
+      },
+      "frequency": 119,
+      "primary_section": "biological",
+      "confidence": 0.46,
+      "evidence": {
+        "skeleton_match": 0.6,
+        "section_fit": "biological",
+        "similar_exists": false
+      },
+      "validation": {
+        "related_entries": [
+          "chdy",
+          "chody",
+          "cheody",
+          "ched"
+        ],
+        "context_sense": true,
+        "context_medical": true,
+        "context_botanical": false,
+        "status": "EXTENDS_EXISTING"
+      }
+    },
+    {
+      "voynich": "ykar",
+      "meaning": "heart/cure",
+      "language": "Italian",
+      "match_details": {
+        "root": "kr",
+        "italian": "cuore/cura",
+        "meaning": "heart/cure",
+        "score": 0.67
+      },
+      "frequency": 34,
+      "primary_section": "herbal_b",
+      "confidence": 0.4,
+      "evidence": {
+        "skeleton_match": 0.67,
+        "section_fit": "herbal_b",
+        "similar_exists": false
+      },
+      "validation": {
+        "related_entries": [],
+        "context_sense": false,
+        "context_medical": false,
+        "context_botanical": false,
+        "status": "LOW_CONFIDENCE"
+      }
+    },
+    {
+      "voynich": "lkar",
+      "meaning": "heart/cure",
+      "language": "Italian",
+      "match_details": {
+        "root": "kr",
+        "italian": "cuore/cura",
+        "meaning": "heart/cure",
+        "score": 0.67
+      },
+      "frequency": 30,
+      "primary_section": "recipes",
+      "confidence": 0.4,
+      "evidence": {
+        "skeleton_match": 0.67,
+        "section_fit": "recipes",
+        "similar_exists": false
+      },
+      "validation": {
+        "related_entries": [],
+        "context_sense": false,
+        "context_medical": true,
+        "context_botanical": false,
+        "status": "LOW_CONFIDENCE"
+      }
+    }
+  ],
+  "validation_results": {
+    "valid": [
+      {
+        "voynich": "sol",
+        "meaning": "salt",
+        "language": "Italian",
+        "match_details": {
+          "root": "sl",
+          "italian": "sale",
+          "meaning": "salt",
+          "score": 1.0
+        },
+        "frequency": 66,
+        "primary_section": "biological",
+        "confidence": 0.7,
+        "evidence": {
+          "skeleton_match": 1.0,
+          "section_fit": "biological",
+          "similar_exists": false
+        },
+        "validation": {
+          "related_entries": [],
+          "context_sense": true,
+          "context_medical": false,
+          "context_botanical": true,
+          "status": "VALID"
+        }
+      },
+      {
+        "voynich": "sal",
+        "meaning": "salt",
+        "language": "Italian",
+        "match_details": {
+          "root": "sl",
+          "italian": "sale",
+          "meaning": "salt",
+          "score": 1.0
+        },
+        "frequency": 55,
+        "primary_section": "biological",
+        "confidence": 0.7,
+        "evidence": {
+          "skeleton_match": 1.0,
+          "section_fit": "biological",
+          "similar_exists": false
+        },
+        "validation": {
+          "related_entries": [],
+          "context_sense": true,
+          "context_medical": true,
+          "context_botanical": true,
+          "status": "VALID"
+        }
+      }
+    ],
+    "extends_existing": [
+      {
+        "voynich": "cheedy",
+        "meaning": "one",
+        "language": "Hebrew",
+        "match_details": {
+          "root": "chd",
+          "hebrew": "echad",
+          "meaning": "one",
+          "score": 0.75
+        },
+        "frequency": 59,
+        "primary_section": "biological",
+        "confidence": 0.55,
+        "evidence": {
+          "skeleton_match": 0.75,
+          "section_fit": "biological",
+          "similar_exists": false
+        },
+        "validation": {
+          "related_entries": [
+            "chdy",
+            "chody",
+            "cheody",
+            "ched"
+          ],
+          "context_sense": true,
+          "context_medical": true,
+          "context_botanical": true,
+          "status": "EXTENDS_EXISTING"
+        }
+      },
+      {
+        "voynich": "qotor",
+        "meaning": "earth",
+        "language": "Italian",
+        "match_details": {
+          "root": "tr",
+          "italian": "terra",
+          "meaning": "earth",
+          "score": 0.67
+        },
+        "frequency": 28,
+        "primary_section": "herbal_b",
+        "confidence": 0.5,
+        "evidence": {
+          "skeleton_match": 0.67,
+          "section_fit": "herbal_b",
+          "similar_exists": true
+        },
+        "validation": {
+          "related_entries": [
+            "otar",
+            "tar",
+            "otor",
+            "tor",
+            "otair"
+          ],
+          "context_sense": false,
+          "context_medical": true,
+          "context_botanical": true,
+          "status": "EXTENDS_EXISTING"
+        }
+      },
+      {
+        "voynich": "lchedy",
+        "meaning": "one",
+        "language": "Hebrew",
+        "match_details": {
+          "root": "chd",
+          "hebrew": "echad",
+          "meaning": "one",
+          "score": 0.6
+        },
+        "frequency": 119,
+        "primary_section": "biological",
+        "confidence": 0.46,
+        "evidence": {
+          "skeleton_match": 0.6,
+          "section_fit": "biological",
+          "similar_exists": false
+        },
+        "validation": {
+          "related_entries": [
+            "chdy",
+            "chody",
+            "cheody",
+            "ched"
+          ],
+          "context_sense": true,
+          "context_medical": true,
+          "context_botanical": false,
+          "status": "EXTENDS_EXISTING"
+        }
+      }
+    ],
+    "needs_review": [
+      {
+        "voynich": "okar",
+        "meaning": "heart/cure",
+        "language": "Italian",
+        "match_details": {
+          "root": "kr",
+          "italian": "cuore/cura",
+          "meaning": "heart/cure",
+          "score": 1.0
+        },
+        "frequency": 126,
+        "primary_section": "recipes",
+        "confidence": 0.7,
+        "evidence": {
+          "skeleton_match": 1.0,
+          "section_fit": "recipes",
+          "similar_exists": false
+        },
+        "validation": {
+          "related_entries": [],
+          "context_sense": false,
+          "context_medical": false,
+          "context_botanical": true,
+          "status": "NEEDS_REVIEW"
+        }
+      },
+      {
+        "voynich": "kar",
+        "meaning": "heart/cure",
+        "language": "Italian",
+        "match_details": {
+          "root": "kr",
+          "italian": "cuore/cura",
+          "meaning": "heart/cure",
+          "score": 1.0
+        },
+        "frequency": 52,
+        "primary_section": "recipes",
+        "confidence": 0.7,
+        "evidence": {
+          "skeleton_match": 1.0,
+          "section_fit": "recipes",
+          "similar_exists": false
+        },
+        "validation": {
+          "related_entries": [],
+          "context_sense": false,
+          "context_medical": false,
+          "context_botanical": true,
+          "status": "NEEDS_REVIEW"
+        }
+      },
+      {
+        "voynich": "okor",
+        "meaning": "heart/cure",
+        "language": "Italian",
+        "match_details": {
+          "root": "kr",
+          "italian": "cuore/cura",
+          "meaning": "heart/cure",
+          "score": 1.0
+        },
+        "frequency": 33,
+        "primary_section": "unknown",
+        "confidence": 0.6,
+        "evidence": {
+          "skeleton_match": 1.0,
+          "section_fit": "unknown",
+          "similar_exists": false
+        },
+        "validation": {
+          "related_entries": [],
+          "context_sense": false,
+          "context_medical": true,
+          "context_botanical": true,
+          "status": "NEEDS_REVIEW"
+        }
+      }
+    ],
+    "low_confidence": [
+      {
+        "voynich": "qokchy",
+        "meaning": "strength",
+        "language": "Hebrew",
+        "match_details": {
+          "root": "kch",
+          "hebrew": "koach",
+          "meaning": "strength",
+          "score": 0.6
+        },
+        "frequency": 69,
+        "primary_section": "herbal_a",
+        "confidence": 0.56,
+        "evidence": {
+          "skeleton_match": 0.6,
+          "section_fit": "herbal_a",
+          "similar_exists": true
+        },
+        "validation": {
+          "related_entries": [],
+          "context_sense": false,
+          "context_medical": true,
+          "context_botanical": true,
+          "status": "LOW_CONFIDENCE"
+        }
+      },
+      {
+        "voynich": "ykar",
+        "meaning": "heart/cure",
+        "language": "Italian",
+        "match_details": {
+          "root": "kr",
+          "italian": "cuore/cura",
+          "meaning": "heart/cure",
+          "score": 0.67
+        },
+        "frequency": 34,
+        "primary_section": "herbal_b",
+        "confidence": 0.4,
+        "evidence": {
+          "skeleton_match": 0.67,
+          "section_fit": "herbal_b",
+          "similar_exists": false
+        },
+        "validation": {
+          "related_entries": [],
+          "context_sense": false,
+          "context_medical": false,
+          "context_botanical": false,
+          "status": "LOW_CONFIDENCE"
+        }
+      },
+      {
+        "voynich": "lkar",
+        "meaning": "heart/cure",
+        "language": "Italian",
+        "match_details": {
+          "root": "kr",
+          "italian": "cuore/cura",
+          "meaning": "heart/cure",
+          "score": 0.67
+        },
+        "frequency": 30,
+        "primary_section": "recipes",
+        "confidence": 0.4,
+        "evidence": {
+          "skeleton_match": 0.67,
+          "section_fit": "recipes",
+          "similar_exists": false
+        },
+        "validation": {
+          "related_entries": [],
+          "context_sense": false,
+          "context_medical": true,
+          "context_botanical": false,
+          "status": "LOW_CONFIDENCE"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+TRACK 62: Zandbergen Resource Cross-Validation
+==============================================
+
+GOAL: Study voynich.nu comprehensively and cross-validate our research
+against the definitive scholarly resource maintained by René Zandbergen.
+
+BACKGROUND:
+- voynich.nu is the most authoritative Voynich Manuscript reference
+- Maintained by René Zandbergen (2004-2025)
+- Contains statistical analysis, illustration analysis, history, transcriptions
+- Our Track 58 showed 75% alignment with Zandbergen's stats
+
+WEBSITE STRUCTURE (explore all):
+- https://voynich.nu/intro.html - Introduction
+- https://voynich.nu/descr.html - Description
+- https://voynich.nu/illustr.html - Illustrations analysis
+- https://voynich.nu/origin.html - Origin theories
+- https://voynich.nu/history.html - Historical provenance
+- https://voynich.nu/solvers.html - Previous decipherment attempts
+- https://voynich.nu/writing.html - Writing/script analysis
+- https://voynich.nu/transcr.html - Transcription systems
+- https://voynich.nu/analysis.html - Statistical analysis
+- https://voynich.nu/myviews.html - Zandbergen's own views
+
+TASK 1: Statistical Cross-Validation
+------------------------------------
+From https://voynich.nu/analysis.html extract:
+- Character frequencies
+- Word length distribution
+- Index of Coincidence values
+- Entropy measurements
+- Zipf's Law analysis
+
+Compare to our values:
+| Metric | Our Value | Zandbergen | Match? |
+|--------|-----------|------------|--------|
+| IC | 0.0769 | ? | ? |
+| Char entropy | 4.18 | 3.83-3.87 | ? |
+| Zipf CV | 0.277 | ? | ? |
+
+TASK 2: Illustration Analysis Comparison
+----------------------------------------
+From https://voynich.nu/illustr.html extract:
+- Plant identification attempts
+- Expert opinions (Toresella, Touwaide)
+- Zodiac illustration analysis
+- Astronomical diagram interpretations
+
+Compare to our findings:
+- Do our decoded plant words match scholarly IDs?
+- Does "Northern Italy" origin align?
+- Do our zodiac findings match expert analysis?
+
+TASK 3: Previous Decipherment Review
+------------------------------------
+From https://voynich.nu/solvers.html document:
+- ALL previous decipherment attempts
+- Why each failed
+- What methods were tried
+- Which are considered credible
+
+Check if we're repeating known mistakes!
+
+TASK 4: Script/Writing Analysis
+-------------------------------
+From https://voynich.nu/writing.html extract:
+- Character analysis findings
+- Writing direction/habits
+- Pen stroke analysis
+- Alphabet size estimates
+
+Compare to our glyph analysis (Track 36):
+- Do we agree on alphabet size (24)?
+- Positional constraints match?
+
+TASK 5: Transcription Systems
+-----------------------------
+From https://voynich.nu/transcr.html understand:
+- EVA vs Currier vs other systems
+- Which system Zandbergen recommends
+- Known transcription issues
+
+Verify we're using correct system for our analysis.
+
+TASK 6: Origin Theories
+-----------------------
+From https://voynich.nu/origin.html extract:
+- Geographic origin theories
+- Dating evidence
+- Author candidates
+- Material analysis (parchment, ink)
+
+Does our "Jewish physician from N.Italy" align with scholarly origin theories?
+
+TASK 7: Zandbergen's Own Views
+------------------------------
+From https://voynich.nu/myviews.html extract:
+- What does Zandbergen personally believe?
+- What theories does he consider plausible?
+- What has he ruled out?
+
+Compare to our conclusions:
+- Judeo-Italian hypothesis
+- Medical/herbal content
+- Hebrew influence
+
+TASK 8: Critical Discrepancies
+------------------------------
+List ALL places where our research CONFLICTS with voynich.nu:
+- Statistical differences
+- Different conclusions
+- Contradictory findings
+
+For each discrepancy, assess:
+- Are we wrong?
+- Is there new evidence?
+- Methodological difference?
+
+TASK 9: Missed Information
+--------------------------
+What does voynich.nu contain that we HAVEN'T considered?
+- New analytical methods
+- Expert opinions we missed
+- Historical evidence we overlooked
+- Failed approaches we should avoid
+
+OUTPUT FILES (REQUIRED):
+- zandbergen_study.py (web scraping/analysis script)
+- results/zandbergen_validation.json:
+  {
+    "statistical_comparison": {
+      "our_values": {...},
+      "zandbergen_values": {...},
+      "match_rate": X%
+    },
+    "illustration_comparison": {...},
+    "previous_decipherments": [...],
+    "origin_theories": {...},
+    "zandbergen_views": {...},
+    "discrepancies": [...],
+    "missed_information": [...],
+    "overall_alignment": X%
+  }
+- results/zandbergen_validation_report.md:
+  - Summary of voynich.nu content
+  - Statistical cross-validation table
+  - Previous decipherment attempts (avoid repeating!)
+  - Origin theory comparison
+  - Zandbergen's views vs ours
+  - Critical discrepancies analysis
+  - Recommendations for our research
+  - Honest assessment: are we on track or off base?
+
+NOTE: If web scraping is blocked, document what pages you could access
+and what information you extracted manually.
