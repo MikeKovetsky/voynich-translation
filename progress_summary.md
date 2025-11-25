@@ -634,11 +634,11 @@ This is our strongest validation methodology yet:
 
 ---
 
-## 🚀 Phase 25: Grammar + Cross-Section Mining ⏳
+## 🚀 Phase 25: Grammar + Cross-Section Mining
 
 | Track | Goal | Status |
 |-------|------|--------|
-| 84 | Master Dictionary v3.0 (consolidate 500+ entries) | ⏳ |
+| 84 | Master Dictionary v3.0 (consolidate 500+ entries) | ✅ **859 entries!** |
 | 85 | Grammar Markers (verbs, prepositions from plant contexts) | ⏳ |
 | 86 | Mine Bio/Cosmo/Pharma sections | ⏳ |
 | 87 | Rosetta Page f116r (full translation attempt) | ⏳ |
@@ -647,6 +647,67 @@ This is our strongest validation methodology yet:
 
 ---
 
+## 🎉 Track 84 Results: Master Dictionary v3.0
+
+### Summary
+| Metric | Value |
+|--------|-------|
+| **Total Entries** | 859 (↑ from 389!) |
+| **Coverage** | 49.3% overall |
+| **New botanical terms** | 511 (from Tracks 80+83) |
+| **ULTRA_HIGH confidence** | 54 plant names |
+
+### Source Distribution
+| Source | Count | % |
+|--------|-------|---|
+| Track80_HerbalMining | 391 | 45.5% |
+| Track56_CleanDict | 287 | 33.4% |
+| Track83_PlantPair | 120 | 14.0% |
+| Track65_HebrewCorpus | 59 | 6.9% |
+
+### Coverage by Section
+| Section | Coverage |
+|---------|----------|
+| **Overall** | **49.3%** |
+| Herbal | 49.7% |
+| Recipe | 50.1% |
+| Zodiac | 39.4% |
+| Biological | 51.0% |
+
+### Key Insight
+The dictionary now covers ~50% of all words across sections. Botanical domain dominates (69.5% of entries), confirming the manuscript's herbal focus.
+
+---
+
+## 🔄 Phase 26: CRITICAL PIVOT - Grammar-First Method
+
+### The "Cohen" Hypothesis is WRONG ❌
+
+**Hard Data:**
+- `qok-` appears 4,500 times (18% of text)
+- Only **1.64%** of `daiin` followed by `qok-`
+- **Conclusion**: `qok-` = PREPOSITION ("of/from"), NOT "priest"
+
+### New Grammar Frame
+```
+daiin [INGREDIENT] qok- [MODIFIER] ol [NOUN]
+"Take [X] of [Y] the [Z]"
+```
+
+### Low-Leakage Strategy
+Focus on words with <20% non-herbal leakage:
+- `char` (14.8%) ← PRIORITY
+- `chl` (13.6%)
+- `ar` (19.2%)
+
+| Track | Goal | Status |
+|-------|------|--------|
+| 88 | Reclassify qok- as preposition | ⏳ |
+| 89 | Low-leakage visual correlation | ⏳ |
+| 90 | Grammar-frame translation | ⏳ |
+
+---
+
 *Last Updated: November 25, 2025*
-*Total Research Duration: 87 tracks across 25 phases*
-*Current Status: 🚀 SCALING - From nouns to full sentences!* ⏳
+*Total Research Duration: 90 tracks across 26 phases*
+*Current Status: 🔄 PIVOT - Grammar-first decoding, "Cohen" hypothesis corrected* ⚠️

@@ -1,0 +1,42 @@
+TRACK 88: Reclassify qok- as Preposition (Cohen Correction)
+==========================================================
+
+CRITICAL FINDING: The "Cohen = priest" hypothesis is WRONG.
+
+EVIDENCE:
+- qok- appears ~4,500 times (18% of text)
+- Only 2/122 (1.64%) of `daiin` occurrences are followed by qok-
+- If qok- were a noun, we'd see "Take priest" pattern frequently
+- We don't → qok- is a PREPOSITION ("of/from/with")
+
+TASK 1: Document the Correction
+-------------------------------
+Update all dictionary entries where qok- variants were labeled "priest/cohen":
+- qokaiin → NOT "priest" → "of the" / prepositional phrase
+- qokain → NOT "priest" → "of the" / prepositional phrase
+- qoky → NOT "priest" → preposition variant
+
+TASK 2: New Grammar Classification
+----------------------------------
+qok- family = Preposition/Connector
+Meaning: "of" / "from" / "with" (like Hebrew של or מ)
+
+Example reclassification:
+OLD: "daiin qokaiin" → "Take priest"
+NEW: "daiin [X] qokaiin [Y]" → "Take [X] of [Y]"
+
+TASK 3: Update Master Dictionary
+--------------------------------
+- Remove all "priest/cohen" translations
+- Replace with "prep:of" or "connector"
+- Recalculate domain distribution (religious → grammar)
+
+TASK 4: Impact Assessment
+-------------------------
+How many sentences change meaning?
+What % of our "Jewish Physician" evidence was based on qok- = priest?
+
+OUTPUT FILES:
+- qok_reclassify.py
+- results/qok_reclassification.json
+- results/qok_correction_report.md

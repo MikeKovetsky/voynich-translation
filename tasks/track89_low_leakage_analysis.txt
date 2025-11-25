@@ -1,0 +1,65 @@
+TRACK 89: Low-Leakage Ingredient Analysis
+=========================================
+
+GOAL: Focus on words with <20% leakage into non-herbal sections.
+These are the BEST candidates for specific plants/ingredients.
+
+TARGET WORDS (Low Leakage):
+| Word | Herbal | Recipe | Astrology | Leakage |
+|------|--------|--------|-----------|---------|
+| char | 26 | 26 | 3 | 14.8% | ← PRIORITY
+| chl | ? | ? | ? | 13.6% |
+| ar | ? | ? | ? | 19.2% |
+
+EXCLUDED (High Leakage >40%):
+- checkhy, chedy, cheedy, sheedy, shey
+- These appear heavily in Biological section
+- Likely body parts/fluids, NOT specific plants
+
+TASK 1: Map `char` to Herbal Pages
+----------------------------------
+For each of the 26 herbal occurrences of `char`:
+1. Which folio does it appear on?
+2. What is the expert plant ID for that folio?
+3. What visual elements are prominent? (roots, leaves, flowers?)
+
+Output:
+{
+  "word": "char",
+  "herbal_folios": ["f3v", "f7r", ...],
+  "expert_ids": ["hypericum", "paeonia", ...],
+  "visual_elements": {
+    "roots_prominent": 15,
+    "leaves_prominent": 8,
+    "flowers_prominent": 3
+  }
+}
+
+TASK 2: Visual Correlation Test
+-------------------------------
+If `char` appears on pages with PROMINENT ROOTS:
+→ `char` likely means "root" or a root-based ingredient
+
+If `char` appears on pages with PROMINENT FLOWERS:
+→ `char` likely means "flower" or flower-based
+
+TASK 3: Repeat for `chl` and `ar`
+---------------------------------
+Same analysis for the other low-leakage words.
+
+TASK 4: Build "Verified Ingredient" List
+----------------------------------------
+Words that:
+- Appear in Golden Intersection (after daiin AND ol)
+- Have <20% leakage
+- Correlate with specific visual element
+
+These are our HIGHEST CONFIDENCE ingredients.
+
+OUTPUT FILES:
+- low_leakage.py
+- results/low_leakage_analysis.json
+- results/low_leakage_report.md:
+  - Visual correlation for each word
+  - Proposed meaning
+  - Confidence level

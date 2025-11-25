@@ -6607,3 +6607,47 @@ Why f116r?
 *Tasks: Track 84, 85, 86, 87* ⏳
 *Goal: From nouns → full sentences* 🎯
 
+
+---
+
+## 🔄 Phase 26: Grammar-First Pivot (Nov 25, 2025)
+
+### CRITICAL CORRECTION: The "Cohen" Hypothesis is WRONG ❌
+
+**Evidence (Hard Data):**
+- `qok-` appears ~4,500 times (18% of text)
+- Only **2/122 (1.64%)** of `daiin` are followed by `qok-`
+- If `qok-` were a noun ("priest"), we'd see "Take priest" frequently
+- **Conclusion**: `qok-` is a PREPOSITION ("of/from/with"), NOT "priest"
+
+### New Grammar Frame (Validated)
+```
+daiin [DIRECT_OBJECT] qok- [MODIFIER] ... ol [NOUN]
+"Take [INGREDIENT] of [SOURCE] ... the [THING]"
+```
+
+### The "Leakage" Problem
+Words appearing heavily in non-herbal sections are NOT plant-specific:
+- **HIGH leakage (>40%)**: checkhy, chedy, sheedy, shey → body parts/fluids
+- **LOW leakage (<20%)**: char (14.8%), chl (13.6%), ar (19.2%) → REAL ingredients
+
+### Golden Intersection (16 words)
+Words appearing after BOTH `daiin` AND `ol`:
+ar, char, cheal, checkhy, chedy, cheedy, cheey, cheol, chey, chl, daiin, okaiin, okeey, sheedy, sheey, shey
+
+### Phase 26 Tasks
+
+| Track | Goal |
+|-------|------|
+| 88 | Reclassify qok- as preposition (remove "priest") |
+| 89 | Low-leakage analysis (focus on char, chl, ar) |
+| 90 | Grammar-frame translation of `char` recipes |
+
+### Hebrew Hypothesis: MODIFIED
+- ✅ KEEP: Vocabulary matches (shor = root, dam = blood)
+- ❌ DROP: "Cohen = priest" translation
+- 🎯 NEW: Focus on functional grammar, not religious interpretation
+
+*Phase 26 Started* 🔄
+*This is a MAJOR methodological pivot!*
+
