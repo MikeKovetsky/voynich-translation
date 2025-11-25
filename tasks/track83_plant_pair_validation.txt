@@ -1,0 +1,105 @@
+TRACK 83: Find Plant Pairs for Ultra-High Confidence Validation
+================================================================
+
+GOAL: Find words that appear on MULTIPLE pages showing the SAME plant.
+(Like `ckhal` appearing on both f6v AND f51r, both identified as ricinus)
+
+This provides ULTRA-HIGH confidence validation!
+
+INPUT FILES:
+- data/eva_ivtff.txt
+- results/scholarly_master.json (expert plant IDs)
+- results/herbal_unique_words.json
+
+KNOWN PLANT PAIRS (same plant on multiple pages):
+| Plant | Pages | Expert Source |
+|-------|-------|---------------|
+| ricinus | f6v, f51r | ELV/ThP consensus |
+| smilax | f17r, f17v | ELV |
+| papaver | f10v, f24r, f48v | Multiple IDs |
+| scabiosa | f33r, f40v | ThP |
+| thistle | f39v, f40r | ThP |
+| gemswurz | f46v, f47r | ThP |
+
+TASK 1: Extract Words from Each Page in Pair
+--------------------------------------------
+For each plant pair:
+{
+  "plant": "ricinus",
+  "pages": ["f6v", "f51r"],
+  "page_words": {
+    "f6v": ["word1", "word2", ...],
+    "f51r": ["word1", "word2", ...]
+  }
+}
+
+TASK 2: Find Shared Rare Words
+------------------------------
+Words that appear on BOTH pages but are rare elsewhere:
+
+{
+  "plant": "ricinus",
+  "shared_rare_words": [
+    {
+      "word": "ckhal",
+      "appears_on": ["f6v", "f51r"],
+      "total_occurrences": 4,
+      "other_folios": ["f116r"],
+      "confidence": "ULTRA_HIGH"
+    }
+  ]
+}
+
+TASK 3: Validate Against Recipe Section
+---------------------------------------
+For each shared rare word:
+- Does it also appear in recipes?
+- If YES → This is almost certainly the plant name!
+
+TASK 4: Calculate Confidence Levels
+-----------------------------------
+- ULTRA_HIGH: Appears on 2+ pages of same plant + recipes
+- VERY_HIGH: Appears on 2+ pages of same plant only
+- HIGH: Appears on 1 plant page + recipes (from Track 79)
+
+TASK 5: Build Validated Plant Names List
+----------------------------------------
+{
+  "ultra_high_confidence": [
+    {
+      "word": "ckhal",
+      "plant": "ricinus",
+      "evidence": {
+        "plant_pages": ["f6v", "f51r"],
+        "recipe_pages": ["f116r"],
+        "total_occurrences": 4
+      }
+    }
+  ],
+  "very_high_confidence": [...],
+  "high_confidence": [...]
+}
+
+TASK 6: Search for More Pairs
+-----------------------------
+Check if any Track 79 entries appear on multiple plant pages:
+- ychear (ricinus, f6v) → does it appear on f51r?
+- cheeal (ricinus, f51r) → does it appear on f6v?
+
+Find new plant pairs we might have missed!
+
+OUTPUT FILES (REQUIRED):
+- plant_pairs.py
+- results/plant_pair_validation.json:
+  {
+    "pairs_analyzed": N,
+    "ultra_high_confidence": N,
+    "very_high_confidence": N,
+    "validated_plant_names": [...],
+    "new_pairs_discovered": [...]
+  }
+- results/plant_pair_report.md:
+  - All plant pairs analyzed
+  - Shared rare words found
+  - Confidence levels
+  - New discoveries

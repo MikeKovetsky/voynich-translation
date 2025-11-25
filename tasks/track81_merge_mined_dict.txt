@@ -1,0 +1,75 @@
+TRACK 81: Merge Mined Plant Names into Master Dictionary
+=========================================================
+
+GOAL: Integrate the 50 new plant-related entries from Track 79 into master dictionary.
+
+INPUT FILES:
+- results/master_dictionary.json (current: 389 entries)
+- results/mined_plant_names.json (50 new entries from Track 79)
+- results/expanded_master_dictionary.json (from Track 75)
+
+TASK 1: Load All Dictionary Sources
+-----------------------------------
+- Master dictionary: 389 entries
+- Track 75 expansion: plant names from expert IDs
+- Track 79 mined: 50 plant-related entries
+
+TASK 2: Merge Strategy
+----------------------
+For each mined entry:
+1. Check if voynich word already exists in dictionary
+2. If exists: compare meanings, keep higher confidence
+3. If new: add with source = "unique_word_mining"
+
+Handle conflicts:
+- If same word has different meanings → flag for review
+- Prefer entries with lower total_occurrences (more unique)
+
+TASK 3: Build Unified Dictionary
+--------------------------------
+{
+  "version": "2.0",
+  "total_entries": N,
+  "sources": {
+    "Track56_CleanDict": N,
+    "Track65_HebrewCorpus": N,
+    "Track75_PlantExpansion": N,
+    "Track79_UniqueWordMining": N
+  },
+  "entries": {...}
+}
+
+TASK 4: Recalculate Coverage
+----------------------------
+Test new dictionary on:
+- Recipe section (f103-f116)
+- Herbal A section
+- Full manuscript
+
+Report:
+| Section | Before | After |
+|---------|--------|-------|
+| Recipes | X% | Y% |
+| Herbal | X% | Y% |
+| Overall | X% | Y% |
+
+TASK 5: Identify Conflicts
+--------------------------
+List any words with conflicting meanings:
+| Word | Meaning 1 | Source 1 | Meaning 2 | Source 2 |
+|------|-----------|----------|-----------|----------|
+
+OUTPUT FILES (REQUIRED):
+- merge_mined.py
+- results/unified_dictionary.json:
+  {
+    "version": "2.0",
+    "total_entries": N,
+    "sources": {...},
+    "coverage": {...},
+    "entries": {...}
+  }
+- results/dictionary_merge_report.md:
+  - Entries added
+  - Conflicts found
+  - Coverage comparison

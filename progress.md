@@ -6477,3 +6477,45 @@ f107r: "...pair.aiiikhedy.shalkaiin..."
 *Track 79 SUCCESS* 🎉
 *New algorithm discovered: Unique Word Mining!* 💎
 
+
+---
+
+## 🚀 Phase 24: Scale & Validate Plant Mining (Nov 24, 2025)
+
+### Four Parallel Tracks!
+
+Building on the Track 79 breakthrough, we're scaling the algorithm:
+
+| Track | Goal | Expected Impact |
+|-------|------|-----------------|
+| 80 | Scale mining to ALL ~130 herbal pages | 300+ new plant entries |
+| 81 | Merge mined entries into master dictionary | Unified dictionary v2.0 |
+| 82 | Deep recipe context for 8 confirmed plants | Build partial sentences |
+| 83 | Find plant pairs (same plant, multiple pages) | Ultra-high confidence |
+
+### Track 80: Scale to All Herbal Pages
+- 15 pages done in Track 79 → 115 remaining
+- Apply same algorithm: rare words that appear in recipes
+- Target: 300+ new plant-related entries
+
+### Track 81: Dictionary Merge
+- Current: 389 entries
+- Adding: 50 from Track 79
+- Goal: Unified dictionary with all sources
+
+### Track 82: Recipe Context Analysis
+For each HIGH confidence plant (8 total):
+- Extract full recipe line + context
+- Apply dictionary to surrounding words
+- Build partial translations like "Take [X] of aconitum for [Y]"
+
+### Track 83: Plant Pair Validation
+Plants appearing on multiple pages (ricinus: f6v + f51r):
+- Find words shared between both pages
+- Cross-validate with recipes
+- ULTRA-HIGH confidence plant names!
+
+*Phase 24 Started* 🚀
+*Tasks: Track 80, 81, 82, 83* ⏳
+*Goal: Scale breakthrough to full manuscript* 🎯
+
