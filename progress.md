@@ -6697,3 +6697,23 @@ We need to update the dictionary. `char` is not "hole", it is "flower". `chl` is
 We have all components: **Action** (`daiin`) + **Amount** (`ar`) + **Ingredient** (`chol`) + **Source** (`qok- otaiin`).
 Time to assemble the final English translations.
 
+
+### Phase 28 Results: The Golden Recipes 🏆
+
+**1. Measurement Dictionary Updated** (Track 94)
+- `ar`: "handful"
+- `al`: "portion"
+- `aiin`: "one"
+- `shey`: "measure/cup" (New finding!)
+
+**2. Golden Recipes Generated** (Track 95)
+We produced 20 translations with HIGH coherence.
+- `f104r.45`: *"Take one fig."*
+- `f107r.6`: *"Take a handful of fig."*
+- `f113v.16`: *"Take a handful of root from the head."*
+
+**The Formula is SOLID**: `daiin` + `Amount` + `Ingredient`.
+
+**The Remaining Mystery**:
+We still have unknown modifiers like `chotchedy` and `okar`. These are likely the **names of the plants** from which the ingredients are taken. Track 96 is investigating this link now.
+

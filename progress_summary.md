@@ -732,18 +732,39 @@ daiin   [AMOUNT]   [INGREDIENT]   qok-   [SOURCE]
 
 ---
 
-## 🏆 Phase 28: "Golden Recipes" & Final Synthesis
+## 🏆 Phase 28: "Golden Recipes" & Final Synthesis (Completed) ✅
 
-**Goal**: Produce cleaner, readable English translations for the top 20 coherent recipes by integrating the Measurement slot.
+### The "Golden" Translations (Track 95)
+We successfully translated 20 recipes with high structural coherence:
+
+1.  **f104r.45**: *"Take one fig."*
+2.  **f107r.6**: *"Take a handful of fig."*
+3.  **f113v.16**: *"Take a handful of root from the head."*
+4.  **f116r.15**: *"Take a portion of whole from the Adar (month)."*
+
+**Formula Validated**: `daiin` (Take) + `ar` (Handful) + `chol` (Leaf) + `qok-` (of) + `[SOURCE]`
+
+### The Final Puzzle Piece: "Modifiers"
+We can translate the *structure*, but the *source* of the ingredients often remains obscure:
+- "Take handful of fig of **[chotchedy]**"
+- "Take portion of stem of **[okar]**"
+
+**Critical Question**: Are `chotchedy`, `okar`, etc., the **NAMES** of the plants illustrated in the herbal section?
+
+---
+
+## 🌿 Phase 29: The Rosetta Link (Plant Identification)
+
+**Goal**: Link the recipe modifiers (e.g. `chotchedy`) to specific herbal illustrations to identify the plants.
 
 | Track | Goal | Status |
 |-------|------|--------|
-| 94 | **Update Dictionary**: Add measurements (`ar`, `al`) | ⏳ |
-| 95 | **Golden Recipe Generation**: Translate top 20 lines with full grammar | ⏳ |
-| 96 | **Modifier Analysis**: Identify the plant sources (words after `qok-`) | ⏳ |
+| 96 | **Modifier Analysis**: Link modifiers to herbal pages | ⏳ |
+| 97 | **Plant ID Verification**: Cross-reference with scholarly IDs | ⏳ |
+| 98 | **Final Dictionary**: Integrate confirmed plant names | ⏳ |
 
 ---
 
 *Last Updated: November 25, 2025*
-*Total Research Duration: 96 tracks across 28 phases*
-*Current Status: 🏆 Synthesizing "Golden Recipes" - We have the full formula!* 📜
+*Total Research Duration: 98 tracks across 29 phases*
+*Current Status: 🌿 Hunting for the "Rosetta Link" between recipes and illustrations...* 🔍
