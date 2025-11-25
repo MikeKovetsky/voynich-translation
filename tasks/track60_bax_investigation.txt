@@ -1,0 +1,84 @@
+TRACK 60: Bax Word Investigation
+=================================
+
+GOAL: Investigate why our readings differ from Stephen Bax's claimed decodings.
+Who is right? Are we reading different things?
+
+BACKGROUND:
+Stephen Bax (2014) claimed to decode ~10 words by matching illustrations to names.
+Track 58 found our labels DON'T match his readings:
+- f17r: Bax says "kantairon" (centaury), we have "fshody"
+- f5r: Bax says "kaur" (hellebore), we have "kshody"
+
+INPUT FILES:
+- data/eva_ivtff.txt
+- images/f17r.jpg, images/f5r.jpg (if available)
+- results/hybrid_dictionary.json
+
+TASK 1: Web Research - Bax's Method
+-----------------------------------
+Search for Stephen Bax's original paper/blog:
+- What EXACTLY did he claim?
+- Which EVA characters did he identify?
+- What was his phonetic mapping?
+
+Document his claimed character values:
+| EVA char | Bax value | Our value | Match? |
+|----------|-----------|-----------|--------|
+
+TASK 2: Extract Our Labels
+--------------------------
+For each Bax folio (f2v, f5r, f17r, f25v, f33v, f66r, f68r3):
+- Extract the FIRST word on the page (often plant label)
+- Extract label near the plant illustration
+- Document in EVA transcription
+
+TASK 3: Character-by-Character Comparison
+-----------------------------------------
+Compare Bax's readings to ours:
+
+Example for f17r:
+- Bax: "kantairon" → k-a-n-t-a-i-r-o-n
+- Our EVA: "fshody" → f-sh-o-d-y
+- Are these even the SAME word? Same position?
+
+TASK 4: Transcription System Check
+----------------------------------
+Bax may have used different transcription:
+- Did he use EVA? Currier? Something else?
+- Our system: EVA from eva_ivtff.txt
+- Could differences be transcription artifacts?
+
+TASK 5: Visual Verification
+---------------------------
+For each disputed word:
+- Look at the manuscript image
+- What characters are ACTUALLY there?
+- Is Bax reading a different word/position?
+
+TASK 6: Assessment
+------------------
+Possible conclusions:
+1. We're reading DIFFERENT words (different positions on page)
+2. Transcription system difference
+3. One of us misread the characters
+4. Both could be partially correct
+
+OUTPUT FILES (REQUIRED):
+- bax_investigate.py
+- results/bax_investigation.json:
+  {
+    "bax_claims": [
+      {"folio": "f17r", "bax_word": "kantairon", "bax_eva": "...", 
+       "our_word": "fshody", "position": "...", "verdict": "..."}
+    ],
+    "character_mapping_comparison": {...},
+    "transcription_system": "...",
+    "conclusion": "..."
+  }
+- results/bax_investigation_report.md:
+  - Summary of Bax's claimed decodings
+  - Our readings for same folios
+  - Character-by-character comparison
+  - Visual verification results
+  - Verdict: who is right? Or are we reading different things?

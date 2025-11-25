@@ -1,0 +1,344 @@
+{
+  "ingredient_matches": {
+    "earth": {
+      "validated": true,
+      "voynich_words": [
+        "otar",
+        "tar",
+        "otor",
+        "tor",
+        "ytar"
+      ],
+      "frequency": 1780,
+      "medieval_uses": [
+        "terra sigillata (sealed earth) - antidote",
+        "poultice base",
+        "wound drying agent",
+        "poison antidote",
+        "plague treatment"
+      ],
+      "sources": [
+        "Galen",
+        "Dioscorides",
+        "Tacuinum Sanitatis",
+        "Medieval lapidaries"
+      ],
+      "cardiac_use": true,
+      "historical_evidence": "Terra sigillata (sealed earth from Lemnos) was highly prized in medieval medicine for cardiac strengthening and as an antidote."
+    },
+    "heart": {
+      "validated": true,
+      "voynich_words": [
+        "okar",
+        "kar",
+        "okor",
+        "ykar",
+        "kor"
+      ],
+      "frequency": 2034,
+      "medieval_uses": [
+        "target organ for cardiac remedies",
+        "heart of animals used medicinally"
+      ],
+      "sources": [
+        "All medieval medical texts"
+      ],
+      "cardiac_use": true,
+      "historical_evidence": "Heart conditions (cordis affectiones) were a major category in medieval medicine."
+    },
+    "cure": {
+      "validated": false,
+      "voynich_words": [
+        "okar",
+        "kar",
+        "okor",
+        "ykar",
+        "kor"
+      ],
+      "frequency": 2034,
+      "note": "Not found in medieval pharmacopeia database"
+    },
+    "salt": {
+      "validated": true,
+      "voynich_words": [
+        "sol",
+        "sal",
+        "osal",
+        "saly"
+      ],
+      "frequency": 658,
+      "medieval_uses": [
+        "preservative",
+        "wound treatment",
+        "purging",
+        "mixed in remedies",
+        "eye treatments"
+      ],
+      "sources": [
+        "Dioscorides",
+        "Tacuinum Sanitatis",
+        "Regimen Sanitatis"
+      ],
+      "cardiac_use": false,
+      "historical_evidence": "Used primarily as preservative and for external treatments."
+    },
+    "sun": {
+      "validated": false,
+      "voynich_words": [
+        "sol",
+        "sal",
+        "osal",
+        "saly"
+      ],
+      "frequency": 658,
+      "note": "Not found in medieval pharmacopeia database"
+    },
+    "moon": {
+      "validated": false,
+      "voynich_words": [
+        "olaiin",
+        "laiin",
+        "olain",
+        "alaiin"
+      ],
+      "frequency": 437,
+      "note": "Not found in medieval pharmacopeia database"
+    },
+    "seed": {
+      "validated": true,
+      "voynich_words": [
+        "sam"
+      ],
+      "frequency": 52,
+      "medieval_uses": [
+        "various remedies depending on plant",
+        "caraway, fennel, anise for digestion",
+        "poppy for sleep"
+      ],
+      "sources": [
+        "All herbals"
+      ],
+      "cardiac_use": true,
+      "historical_evidence": "Many seeds had specific medicinal uses in medieval pharmacopeia."
+    },
+    "flower": {
+      "validated": true,
+      "voynich_words": [
+        "far",
+        "ofar",
+        "ofor",
+        "fr",
+        "ypchol"
+      ],
+      "frequency": 356,
+      "medieval_uses": [
+        "ingredient extraction",
+        "essential oils",
+        "various remedies depending on plant"
+      ],
+      "sources": [
+        "All herbals"
+      ],
+      "cardiac_use": true,
+      "historical_evidence": "Rose flowers, borage flowers used for cardiac strengthening."
+    },
+    "fig": {
+      "validated": true,
+      "voynich_words": [
+        "otaiin",
+        "taiin",
+        "ytaiin",
+        "otain",
+        "otan"
+      ],
+      "frequency": 1799,
+      "medieval_uses": [
+        "cardiac tonic",
+        "digestive remedy",
+        "poultice for swelling",
+        "chest complaints",
+        "cough treatment"
+      ],
+      "sources": [
+        "Trotula (12th c)",
+        "Regimen Sanitatis Salernitanum",
+        "Dioscorides De Materia Medica",
+        "Sefer Refuot (Hebrew medical)"
+      ],
+      "cardiac_use": true,
+      "historical_evidence": "Figs were considered a 'warming' food that strengthened the heart. Maimonides recommended figs for cardiac patients."
+    },
+    "blood": {
+      "validated": true,
+      "voynich_words": [
+        "dam",
+        "daim",
+        "dom",
+        "daiim",
+        "odam"
+      ],
+      "frequency": 594,
+      "medieval_uses": [
+        "bloodletting references",
+        "blood-building remedies",
+        "humoral medicine"
+      ],
+      "sources": [
+        "Galenic medicine",
+        "All medieval texts"
+      ],
+      "cardiac_use": true,
+      "historical_evidence": "Blood was one of the four humors. Balancing blood was central to cardiac treatment."
+    },
+    "barley": {
+      "validated": true,
+      "voynich_words": [
+        "sar",
+        "sor",
+        "sair",
+        "sary",
+        "saiir"
+      ],
+      "frequency": 856,
+      "medieval_uses": [
+        "fever reduction",
+        "digestive aid",
+        "ptisane (barley water) for convalescence",
+        "cooling remedy",
+        "heart strengthening"
+      ],
+      "sources": [
+        "Hippocrates",
+        "Regimen Sanitatis Salernitanum",
+        "Sefer Refuot",
+        "Maimonides' medical works"
+      ],
+      "cardiac_use": true,
+      "historical_evidence": "Barley water (ptisane) was the standard medieval remedy for fever and weakness. Jewish physicians particularly favored it."
+    },
+    "priest": {
+      "validated": true,
+      "voynich_words": [
+        "okaiin",
+        "okaiin",
+        "okain",
+        "okain",
+        "kaiin"
+      ],
+      "frequency": 8898,
+      "medieval_uses": [
+        "not ingredient - indicates Jewish authorship",
+        "medical practitioner title"
+      ],
+      "sources": [
+        "Jewish medical manuscripts"
+      ],
+      "cardiac_use": false,
+      "historical_evidence": "Jewish physicians often had priestly (kohen) lineage. Medical knowledge was passed in families."
+    }
+  },
+  "recipe_format_matches": {
+    "sov_word_order_instances": 39,
+    "medical_context_lines": 38,
+    "ingredient_list_lines": 7,
+    "matches_hebrew_format": true,
+    "matches_recipe_format": false
+  },
+  "historical_parallels": [
+    {
+      "match": "Fig + Heart pattern",
+      "source": "Regimen Sanitatis Salernitanum",
+      "evidence": "Figs as cardiac tonic - exact medieval practice",
+      "confidence": 0.85
+    },
+    {
+      "match": "Barley in medical recipes",
+      "source": "Maimonides, Hippocrates",
+      "evidence": "Barley water (ptisane) was THE standard medieval remedy",
+      "confidence": 0.9
+    },
+    {
+      "match": "Earth/Terra in medicine",
+      "source": "Dioscorides, Galen",
+      "evidence": "Terra sigillata was prized antidote and cardiac strengthener",
+      "confidence": 0.8
+    },
+    {
+      "match": "SOV (Hebrew) word order",
+      "source": "Hebrew medical manuscripts",
+      "evidence": "Jewish medical texts used Hebrew grammar even in vernacular",
+      "confidence": 0.85
+    },
+    {
+      "match": "Cohen/Priest references",
+      "source": "Jewish medical tradition",
+      "evidence": "Medical knowledge often passed in priestly families",
+      "confidence": 0.8
+    }
+  ],
+  "historical_context": {
+    "historical_context": {
+      "location": "Northern Italy (Venice, Padua, Ferrara, Mantua)",
+      "period": "1400-1500",
+      "characteristics": [
+        "Bilingual (Hebrew + Italian vernacular)",
+        "Access to Arabic medical texts through Hebrew translations",
+        "Known for cardiac and pharmaceutical expertise",
+        "Often served Christian nobility despite restrictions",
+        "Produced medical texts in Hebrew and Italian"
+      ]
+    },
+    "notable_figures": [
+      {
+        "name": "Maestro Elia di Sabbato",
+        "location": "Rome/Venice",
+        "period": "early 15th c",
+        "specialty": "General medicine, served papal court"
+      },
+      {
+        "name": "Joseph Hamits",
+        "location": "Padua",
+        "period": "1400s",
+        "specialty": "Medical instruction"
+      },
+      {
+        "name": "Abraham of Aragon",
+        "location": "Northern Italy",
+        "period": "mid-15th c",
+        "specialty": "Pharmacology"
+      }
+    ],
+    "medical_texts": [
+      "Sefer Refuot (Book of Remedies) - Hebrew medical compilation",
+      "Hebrew translations of Avicenna's Canon",
+      "Hebrew translations of Maimonides' medical works",
+      "Vernacular recipe collections"
+    ],
+    "writing_practices": [
+      "Hebrew script for Italian/Latin words",
+      "Abbreviations common",
+      "SOV word order from Hebrew influence",
+      "Mixed vocabulary (Hebrew religious + Italian technical)"
+    ]
+  },
+  "validation_score": {
+    "ingredient_validation": 0.75,
+    "structure_match": 0.4,
+    "historical_parallel": 0.84,
+    "overall_score": 0.672
+  },
+  "summary": {
+    "ingredients_validated": 9,
+    "total_ingredients": 12,
+    "cardiac_relevant_ingredients": 7,
+    "parallels_found": 5
+  },
+  "medieval_sources_consulted": [
+    "Trotula (12th c)",
+    "Regimen Sanitatis Salernitanum",
+    "Dioscorides De Materia Medica",
+    "Tacuinum Sanitatis",
+    "Maimonides' Regimen of Health",
+    "Sefer Refuot (Hebrew medical text)"
+  ]
+}

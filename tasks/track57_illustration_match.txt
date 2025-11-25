@@ -1,0 +1,74 @@
+TRACK 57: Illustration Ground Truth Test
+=========================================
+
+GOAL: Test if our decoded words match what we SEE in the illustrations.
+This is the ultimate validation - does "flower" appear near flower drawings?
+
+INPUT FILES:
+- results/hybrid_dictionary.json
+- results/full_translation.json
+- data/eva_ivtff.txt
+- images/ folder (f2v, f3r, f3v - botanical pages with clear plants)
+
+TASK 1: Select Test Pages
+-------------------------
+Choose 3 botanical pages with CLEAR illustrations:
+- f2v, f3r, f3v (these have distinct plant drawings)
+- For each page, note what's visually depicted:
+  - Plant type (flower, root, leaf structure)
+  - Colors mentioned in any labels
+  - Number of plants shown
+
+TASK 2: Extract Page Vocabulary
+-------------------------------
+For each test page:
+- Get all Voynich words on that page
+- Look up their "translations" in our dictionary
+- List all content words (ignore grammar)
+
+TASK 3: Visual-Textual Comparison
+---------------------------------
+For each page, check:
+- If we decode "flower" - is there a flower visible?
+- If we decode "root" - is there a root visible?
+- If we decode "red" - is there red color?
+- If we decode "three" - are there 3 of something?
+
+TASK 4: Calculate Match Score
+-----------------------------
+For each decoded content word:
+- MATCH: Word meaning visible in illustration
+- MISMATCH: Word meaning NOT visible
+- UNKNOWN: Can't determine
+
+Compute: matches / (matches + mismatches) = visual accuracy
+
+TASK 5: Analyze Mismatches
+--------------------------
+For each mismatch:
+- Is our translation wrong?
+- Is the illustration unrelated to text?
+- Are we misreading the word?
+
+OUTPUT FILES (REQUIRED):
+- illust_match.py (analysis script)
+- results/illustration_match.json:
+  {
+    "pages_tested": ["f2v", "f3r", "f3v"],
+    "per_page": {
+      "f2v": {
+        "visual_elements": [...],
+        "decoded_words": [...],
+        "matches": [...],
+        "mismatches": [...],
+        "score": 0.XX
+      }
+    },
+    "overall_score": 0.XX,
+    "confidence": "low/medium/high"
+  }
+- results/illustration_match_report.md:
+  - Visual description of each test page
+  - What we decoded vs what we see
+  - Match/mismatch analysis
+  - Honest assessment: does our translation match reality?

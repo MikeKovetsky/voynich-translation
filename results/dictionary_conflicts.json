@@ -1,0 +1,3882 @@
+{
+  "total_entries": 409,
+  "conflicting_words": [
+    "okar",
+    "kar",
+    "sol",
+    "sal",
+    "okor",
+    "ykar",
+    "kor",
+    "okair",
+    "kair",
+    "okeor",
+    "sam",
+    "okary",
+    "okear",
+    "okeeor",
+    "ykor",
+    "keor",
+    "keeor",
+    "okaiir",
+    "ykair",
+    "kary",
+    "ykeor",
+    "osal",
+    "okeear",
+    "ykeeor",
+    "keear",
+    "kairy",
+    "okairy",
+    "saly",
+    "dam",
+    "okaiin",
+    "okain",
+    "kaiin",
+    "kain",
+    "qokeedy",
+    "qokedy",
+    "dain",
+    "qokal",
+    "chdy",
+    "qol",
+    "okal",
+    "saiin",
+    "okedy",
+    "okeedy",
+    "qokol",
+    "chody",
+    "cheody",
+    "okol",
+    "raiin",
+    "qokchy",
+    "sain",
+    "okeol",
+    "cheedy",
+    "oly",
+    "odaiin",
+    "keedy",
+    "qokeol",
+    "sheor",
+    "chaiin",
+    "qodaiin",
+    "chodaiin",
+    "oraiin",
+    "kol",
+    "chos",
+    "choty",
+    "otedy",
+    "lchedy",
+    "sheol",
+    "oteedy",
+    "cheky",
+    "tedy",
+    "oteody",
+    "dar",
+    "otal",
+    "dair",
+    "sheedy",
+    "dor",
+    "ain",
+    "am",
+    "otol",
+    "air",
+    "cho",
+    "cheo",
+    "sheo",
+    "oiin",
+    "lkar"
+  ],
+  "conflict_count": 85,
+  "clean_entries": 324,
+  "removed_entries": [
+    "okar",
+    "kar",
+    "sol",
+    "sal",
+    "okor",
+    "ykar",
+    "kor",
+    "okair",
+    "kair",
+    "okeor",
+    "sam",
+    "okary",
+    "okear",
+    "okeeor",
+    "ykor",
+    "keor",
+    "keeor",
+    "okaiir",
+    "ykair",
+    "kary",
+    "ykeor",
+    "osal",
+    "okeear",
+    "ykeeor",
+    "keear",
+    "kairy",
+    "okairy",
+    "saly",
+    "dam",
+    "okaiin",
+    "okain",
+    "kaiin",
+    "kain",
+    "qokeedy",
+    "qokedy",
+    "dain",
+    "qokal",
+    "chdy",
+    "qol",
+    "okal",
+    "saiin",
+    "okedy",
+    "okeedy",
+    "qokol",
+    "chody",
+    "cheody",
+    "okol",
+    "raiin",
+    "qokchy",
+    "sain",
+    "okeol",
+    "cheedy",
+    "oly",
+    "odaiin",
+    "keedy",
+    "qokeol",
+    "sheor",
+    "chaiin",
+    "qodaiin",
+    "chodaiin",
+    "oraiin",
+    "kol",
+    "chos",
+    "choty",
+    "otedy",
+    "lchedy",
+    "sheol",
+    "oteedy",
+    "cheky",
+    "tedy",
+    "oteody",
+    "dar",
+    "otal",
+    "dair",
+    "sheedy",
+    "dor",
+    "ain",
+    "am",
+    "otol",
+    "air",
+    "cho",
+    "cheo",
+    "sheo",
+    "oiin",
+    "lkar"
+  ],
+  "clean_coverage": "43.26%",
+  "conflicts_by_type": {
+    "same_domain": 31,
+    "cross_domain": 48,
+    "grammar_vs_content": 6
+  },
+  "worst_offenders": [
+    {
+      "word": "saiin",
+      "num_meanings": 6,
+      "meanings": [
+        "ear",
+        "links -ed/-ing verb to to",
+        "without",
+        "medicine/drug",
+        "year"
+      ],
+      "conflict_type": "grammar_vs_content",
+      "domains": [
+        "astronomical",
+        "grammar",
+        "botanical",
+        "pharmaceutical",
+        "medical"
+      ]
+    },
+    {
+      "word": "qokal",
+      "num_meanings": 5,
+      "meanings": [
+        "eat",
+        "modifier of which/that",
+        "sky",
+        "sick",
+        "garlic"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "astronomical",
+        "grammar",
+        "botanical",
+        "pharmaceutical",
+        "medical"
+      ]
+    },
+    {
+      "word": "okal",
+      "num_meanings": 5,
+      "meanings": [
+        "all/voice",
+        "eat",
+        "sky",
+        "sick",
+        "garlic"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "astronomical",
+        "botanical",
+        "pharmaceutical",
+        "medical",
+        "number"
+      ]
+    },
+    {
+      "word": "qokol",
+      "num_meanings": 5,
+      "meanings": [
+        "links the to of the/from",
+        "eat",
+        "sky",
+        "sick",
+        "garlic"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "astronomical",
+        "grammar",
+        "botanical",
+        "pharmaceutical",
+        "medical"
+      ]
+    },
+    {
+      "word": "okol",
+      "num_meanings": 5,
+      "meanings": [
+        "links to to priest/cohen",
+        "all/voice",
+        "eat",
+        "sick",
+        "garlic"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "grammar",
+        "botanical",
+        "pharmaceutical",
+        "medical",
+        "number"
+      ]
+    },
+    {
+      "word": "sain",
+      "num_meanings": 5,
+      "meanings": [
+        "ear",
+        "without",
+        "medicine/drug",
+        "modifier of the",
+        "seed"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "pharmaceutical",
+        "botanical",
+        "medical",
+        "grammar"
+      ]
+    },
+    {
+      "word": "sheol",
+      "num_meanings": 5,
+      "meanings": [
+        "salt",
+        "medical/cardiac term",
+        "sky",
+        "three",
+        "sick"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "other",
+        "astronomical",
+        "pharmaceutical",
+        "medical",
+        "number"
+      ]
+    },
+    {
+      "word": "qokeedy",
+      "num_meanings": 4,
+      "meanings": [
+        "wheat",
+        "links which/that to is/has (verb)",
+        "capricorn",
+        "vinegar"
+      ],
+      "conflict_type": "grammar_vs_content",
+      "domains": [
+        "pharmaceutical",
+        "astronomical",
+        "botanical",
+        "grammar"
+      ]
+    },
+    {
+      "word": "qokedy",
+      "num_meanings": 4,
+      "meanings": [
+        "wheat",
+        "capricorn",
+        "vinegar",
+        "medical/cardiac term"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "other",
+        "astronomical",
+        "grammar",
+        "botanical",
+        "pharmaceutical"
+      ]
+    },
+    {
+      "word": "okedy",
+      "num_meanings": 4,
+      "meanings": [
+        "wheat",
+        "capricorn",
+        "vinegar",
+        "medical/cardiac term"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "other",
+        "astronomical",
+        "grammar",
+        "botanical",
+        "pharmaceutical"
+      ]
+    },
+    {
+      "word": "okeedy",
+      "num_meanings": 4,
+      "meanings": [
+        "wheat",
+        "capricorn",
+        "vinegar",
+        "botanical/earth term"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "astronomical",
+        "grammar",
+        "botanical",
+        "pharmaceutical",
+        "medical"
+      ]
+    },
+    {
+      "word": "odaiin",
+      "num_meanings": 4,
+      "meanings": [
+        "blood",
+        "fig",
+        "noun (genitive)",
+        "medical/cardiac term"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "other",
+        "botanical",
+        "medical",
+        "grammar"
+      ]
+    },
+    {
+      "word": "kar",
+      "num_meanings": 3,
+      "meanings": [
+        "heart",
+        "hebrew: kar",
+        "cure"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "other",
+        "medical"
+      ]
+    },
+    {
+      "word": "chdy",
+      "num_meanings": 3,
+      "meanings": [
+        "wheat",
+        "capricorn",
+        "vinegar"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "pharmaceutical",
+        "astronomical",
+        "botanical",
+        "grammar"
+      ]
+    },
+    {
+      "word": "chody",
+      "num_meanings": 3,
+      "meanings": [
+        "wheat",
+        "vinegar",
+        "medical/cardiac term"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "pharmaceutical",
+        "botanical",
+        "grammar",
+        "other"
+      ]
+    },
+    {
+      "word": "cheody",
+      "num_meanings": 3,
+      "meanings": [
+        "wheat",
+        "vinegar",
+        "botanical/earth term"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "pharmaceutical",
+        "botanical",
+        "medical",
+        "grammar"
+      ]
+    },
+    {
+      "word": "raiin",
+      "num_meanings": 3,
+      "meanings": [
+        "kidney",
+        "branch",
+        "botanical/earth term"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "botanical",
+        "medical"
+      ]
+    },
+    {
+      "word": "qokchy",
+      "num_meanings": 3,
+      "meanings": [
+        "wheat",
+        "vinegar",
+        "eye"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "pharmaceutical",
+        "botanical",
+        "medical",
+        "grammar"
+      ]
+    },
+    {
+      "word": "okeol",
+      "num_meanings": 3,
+      "meanings": [
+        "sick",
+        "all/voice",
+        "garlic"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "botanical",
+        "medical",
+        "number"
+      ]
+    },
+    {
+      "word": "sheor",
+      "num_meanings": 3,
+      "meanings": [
+        "root",
+        "barley",
+        "cure"
+      ],
+      "conflict_type": "cross_domain",
+      "domains": [
+        "botanical",
+        "medical"
+      ]
+    }
+  ],
+  "full_conflicts": [
+    {
+      "voynich": "okar",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "kar",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "heart",
+        "hebrew: kar",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "other",
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "Hebrew: kar",
+          "source": "hybrid",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "sol",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "sun",
+        "salt"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "astronomical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "salt",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "sun",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "astronomical"
+        }
+      ]
+    },
+    {
+      "voynich": "sal",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "sun",
+        "salt"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "astronomical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "salt",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "sun",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "astronomical"
+        }
+      ]
+    },
+    {
+      "voynich": "okor",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "ykar",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "kor",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "okair",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "kair",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "okeor",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "sam",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "medicine/drug",
+        "seed"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "botanical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "seed",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7999999999999999,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "medicine/drug",
+          "source": "hybrid",
+          "language": "Hebrew",
+          "confidence": 0.75,
+          "domain": "pharmaceutical"
+        }
+      ]
+    },
+    {
+      "voynich": "okary",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "okear",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "okeeor",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "ykor",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "keor",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "keeor",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "okaiir",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "ykair",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "kary",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "ykeor",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "osal",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "sun",
+        "salt"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "astronomical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "salt",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "sun",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "astronomical"
+        }
+      ]
+    },
+    {
+      "voynich": "okeear",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "ykeeor",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "keear",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "kairy",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "okairy",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "heart",
+        "cure"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "heart",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        },
+        {
+          "meaning": "cure",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "saly",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "sun",
+        "salt"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "astronomical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "salt",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "sun",
+          "source": "hybrid",
+          "language": "Italian",
+          "confidence": 0.7,
+          "domain": "astronomical"
+        }
+      ]
+    },
+    {
+      "voynich": "dam",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "hebrew: dam",
+        "blood"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "other",
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "blood",
+          "source": "hybrid",
+          "language": "Hebrew",
+          "confidence": 0.65,
+          "domain": "medical"
+        },
+        {
+          "meaning": "Hebrew: dam",
+          "source": "hybrid",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "okaiin",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "priest/cohen",
+        "priest"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "other"
+      ],
+      "all_entries": [
+        {
+          "meaning": "priest/cohen",
+          "source": "hybrid",
+          "language": "Hebrew",
+          "confidence": 0.8,
+          "domain": "other"
+        },
+        {
+          "meaning": "priest",
+          "source": "hybrid",
+          "language": "Judeo-Italian",
+          "confidence": 0.75,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "okain",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "priest/cohen",
+        "priest"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "other"
+      ],
+      "all_entries": [
+        {
+          "meaning": "priest/cohen",
+          "source": "hybrid",
+          "language": "Hebrew",
+          "confidence": 0.8,
+          "domain": "other"
+        },
+        {
+          "meaning": "priest",
+          "source": "hybrid",
+          "language": "Judeo-Italian",
+          "confidence": 0.75,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "kaiin",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "priest/cohen",
+        "priest"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "other"
+      ],
+      "all_entries": [
+        {
+          "meaning": "priest/cohen",
+          "source": "hybrid",
+          "language": "Hebrew",
+          "confidence": 0.8,
+          "domain": "other"
+        },
+        {
+          "meaning": "priest",
+          "source": "hybrid",
+          "language": "Judeo-Italian",
+          "confidence": 0.75,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "kain",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "priest/cohen",
+        "priest"
+      ],
+      "sources": [
+        "hybrid"
+      ],
+      "domains": [
+        "other"
+      ],
+      "all_entries": [
+        {
+          "meaning": "priest/cohen",
+          "source": "hybrid",
+          "language": "Hebrew",
+          "confidence": 0.8,
+          "domain": "other"
+        },
+        {
+          "meaning": "priest",
+          "source": "hybrid",
+          "language": "Judeo-Italian",
+          "confidence": 0.75,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "qokeedy",
+      "conflict_type": "grammar_vs_content",
+      "meanings": [
+        "wheat",
+        "links which/that to is/has (verb)",
+        "capricorn",
+        "vinegar"
+      ],
+      "sources": [
+        "semantic_botanical",
+        "freq",
+        "semantic_pharmaceutical",
+        "semantic_astronomical",
+        "context"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "astronomical",
+        "botanical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "wheat",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "capricorn",
+          "source": "semantic_astronomical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "astronomical"
+        },
+        {
+          "meaning": "vinegar",
+          "source": "semantic_pharmaceutical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "the (+ noun)",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.6,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "links which/that to is/has (verb)",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.4,
+          "domain": "grammar"
+        }
+      ]
+    },
+    {
+      "voynich": "qokedy",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "wheat",
+        "capricorn",
+        "vinegar",
+        "medical/cardiac term"
+      ],
+      "sources": [
+        "semantic_botanical",
+        "freq",
+        "semantic_pharmaceutical",
+        "semantic_astronomical",
+        "context"
+      ],
+      "domains": [
+        "other",
+        "astronomical",
+        "grammar",
+        "botanical",
+        "pharmaceutical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "wheat",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "capricorn",
+          "source": "semantic_astronomical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "astronomical"
+        },
+        {
+          "meaning": "vinegar",
+          "source": "semantic_pharmaceutical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "the (+ noun)",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.6,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "medical/cardiac term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "dain",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "blood",
+        "fig"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "botanical",
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "fig",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "blood",
+          "source": "semantic_medical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "unknown",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "qokal",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "eat",
+        "modifier of which/that",
+        "sky",
+        "sick",
+        "garlic"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "freq",
+        "semantic_pharmaceutical",
+        "semantic_astronomical",
+        "context"
+      ],
+      "domains": [
+        "astronomical",
+        "grammar",
+        "botanical",
+        "pharmaceutical",
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "garlic",
+          "source": "semantic_botanical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "sick",
+          "source": "semantic_medical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "sky",
+          "source": "semantic_astronomical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "astronomical"
+        },
+        {
+          "meaning": "eat",
+          "source": "semantic_pharmaceutical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "the (+ noun)",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.6,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "modifier of which/that",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.4,
+          "domain": "grammar"
+        }
+      ]
+    },
+    {
+      "voynich": "chdy",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "wheat",
+        "capricorn",
+        "vinegar"
+      ],
+      "sources": [
+        "freq",
+        "semantic_botanical",
+        "semantic_pharmaceutical",
+        "semantic_astronomical"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "astronomical",
+        "botanical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "wheat",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "capricorn",
+          "source": "semantic_astronomical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "astronomical"
+        },
+        {
+          "meaning": "vinegar",
+          "source": "semantic_pharmaceutical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "verbal/adjectival",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.5,
+          "domain": "grammar"
+        }
+      ]
+    },
+    {
+      "voynich": "qol",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "oil",
+        "aloe"
+      ],
+      "sources": [
+        "semantic_botanical",
+        "semantic_pharmaceutical",
+        "freq"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "botanical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "aloe",
+          "source": "semantic_botanical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "oil",
+          "source": "semantic_pharmaceutical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "the (+ noun)",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.6,
+          "domain": "grammar"
+        }
+      ]
+    },
+    {
+      "voynich": "okal",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "all/voice",
+        "eat",
+        "sky",
+        "sick",
+        "garlic"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "freq",
+        "semantic_pharmaceutical",
+        "semantic_astronomical"
+      ],
+      "domains": [
+        "astronomical",
+        "botanical",
+        "pharmaceutical",
+        "medical",
+        "number"
+      ],
+      "all_entries": [
+        {
+          "meaning": "garlic",
+          "source": "semantic_botanical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "sick",
+          "source": "semantic_medical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "sky",
+          "source": "semantic_astronomical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "astronomical"
+        },
+        {
+          "meaning": "eat",
+          "source": "semantic_pharmaceutical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "all/voice",
+          "source": "freq",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "number"
+        }
+      ]
+    },
+    {
+      "voynich": "saiin",
+      "conflict_type": "grammar_vs_content",
+      "meanings": [
+        "ear",
+        "links -ed/-ing verb to to",
+        "without",
+        "medicine/drug",
+        "year",
+        "seed"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "freq",
+        "semantic_pharmaceutical",
+        "semantic_astronomical",
+        "context"
+      ],
+      "domains": [
+        "astronomical",
+        "grammar",
+        "botanical",
+        "pharmaceutical",
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "seed",
+          "source": "semantic_botanical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "ear",
+          "source": "semantic_medical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "year",
+          "source": "semantic_astronomical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "astronomical"
+        },
+        {
+          "meaning": "medicine/drug",
+          "source": "semantic_pharmaceutical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "without",
+          "source": "freq",
+          "language": "Latin",
+          "confidence": 0.5,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "links -ed/-ing verb to to",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.4,
+          "domain": "grammar"
+        }
+      ]
+    },
+    {
+      "voynich": "okedy",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "wheat",
+        "capricorn",
+        "vinegar",
+        "medical/cardiac term"
+      ],
+      "sources": [
+        "semantic_botanical",
+        "freq",
+        "semantic_pharmaceutical",
+        "semantic_astronomical",
+        "context"
+      ],
+      "domains": [
+        "other",
+        "astronomical",
+        "grammar",
+        "botanical",
+        "pharmaceutical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "wheat",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "capricorn",
+          "source": "semantic_astronomical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "astronomical"
+        },
+        {
+          "meaning": "vinegar",
+          "source": "semantic_pharmaceutical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "verb form",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.55,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "medical/cardiac term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "okeedy",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "wheat",
+        "capricorn",
+        "vinegar",
+        "botanical/earth term"
+      ],
+      "sources": [
+        "semantic_botanical",
+        "freq",
+        "semantic_pharmaceutical",
+        "semantic_astronomical",
+        "context"
+      ],
+      "domains": [
+        "astronomical",
+        "grammar",
+        "botanical",
+        "pharmaceutical",
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "wheat",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "capricorn",
+          "source": "semantic_astronomical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "astronomical"
+        },
+        {
+          "meaning": "vinegar",
+          "source": "semantic_pharmaceutical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "verb form",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.55,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "botanical/earth term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "qokol",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "links the to of the/from",
+        "eat",
+        "sky",
+        "sick",
+        "garlic"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "freq",
+        "semantic_pharmaceutical",
+        "semantic_astronomical",
+        "context"
+      ],
+      "domains": [
+        "astronomical",
+        "grammar",
+        "botanical",
+        "pharmaceutical",
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "garlic",
+          "source": "semantic_botanical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "sick",
+          "source": "semantic_medical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "sky",
+          "source": "semantic_astronomical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "astronomical"
+        },
+        {
+          "meaning": "eat",
+          "source": "semantic_pharmaceutical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "the (+ noun)",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.6,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "links the to of the/from",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.4,
+          "domain": "grammar"
+        }
+      ]
+    },
+    {
+      "voynich": "chody",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "wheat",
+        "vinegar",
+        "medical/cardiac term"
+      ],
+      "sources": [
+        "context",
+        "semantic_botanical",
+        "semantic_pharmaceutical",
+        "freq"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "botanical",
+        "grammar",
+        "other"
+      ],
+      "all_entries": [
+        {
+          "meaning": "wheat",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "vinegar",
+          "source": "semantic_pharmaceutical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "verb form",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.55,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "medical/cardiac term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "cheody",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "wheat",
+        "vinegar",
+        "botanical/earth term"
+      ],
+      "sources": [
+        "context",
+        "semantic_botanical",
+        "semantic_pharmaceutical",
+        "freq"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "botanical",
+        "medical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "wheat",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "vinegar",
+          "source": "semantic_pharmaceutical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "verb form",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.55,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "botanical/earth term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "okol",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "links to to priest/cohen",
+        "all/voice",
+        "eat",
+        "sick",
+        "garlic"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "freq",
+        "semantic_pharmaceutical",
+        "context"
+      ],
+      "domains": [
+        "grammar",
+        "botanical",
+        "pharmaceutical",
+        "medical",
+        "number"
+      ],
+      "all_entries": [
+        {
+          "meaning": "garlic",
+          "source": "semantic_botanical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "sick",
+          "source": "semantic_medical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "eat",
+          "source": "semantic_pharmaceutical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "all/voice",
+          "source": "freq",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "number"
+        },
+        {
+          "meaning": "links to to priest/cohen",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.4,
+          "domain": "grammar"
+        }
+      ]
+    },
+    {
+      "voynich": "raiin",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "kidney",
+        "branch",
+        "botanical/earth term"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "botanical",
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "branch",
+          "source": "semantic_botanical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "kidney",
+          "source": "semantic_medical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "kidney",
+          "source": "freq",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "botanical/earth term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "qokchy",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "wheat",
+        "vinegar",
+        "eye"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "semantic_pharmaceutical",
+        "freq"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "botanical",
+        "medical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "wheat",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "eye",
+          "source": "semantic_medical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "vinegar",
+          "source": "semantic_pharmaceutical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "the (+ noun)",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.6,
+          "domain": "grammar"
+        }
+      ]
+    },
+    {
+      "voynich": "sain",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "ear",
+        "without",
+        "medicine/drug",
+        "modifier of the",
+        "seed"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "freq",
+        "semantic_pharmaceutical",
+        "context"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "botanical",
+        "medical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "seed",
+          "source": "semantic_botanical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "ear",
+          "source": "semantic_medical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "medicine/drug",
+          "source": "semantic_pharmaceutical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "without",
+          "source": "freq",
+          "language": "Latin",
+          "confidence": 0.5,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "modifier of the",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.4,
+          "domain": "grammar"
+        }
+      ]
+    },
+    {
+      "voynich": "okeol",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "sick",
+        "all/voice",
+        "garlic"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "freq"
+      ],
+      "domains": [
+        "botanical",
+        "medical",
+        "number"
+      ],
+      "all_entries": [
+        {
+          "meaning": "garlic",
+          "source": "semantic_botanical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "sick",
+          "source": "semantic_medical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "all/voice",
+          "source": "freq",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "number"
+        }
+      ]
+    },
+    {
+      "voynich": "cheedy",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "wheat",
+        "medical/cardiac term"
+      ],
+      "sources": [
+        "semantic_botanical",
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "botanical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "wheat",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "verb form",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.55,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "medical/cardiac term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "oly",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "preposition/conjunction",
+        "aloe"
+      ],
+      "sources": [
+        "semantic_botanical",
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "botanical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "aloe",
+          "source": "semantic_botanical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "verb form",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.55,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "preposition/conjunction",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "odaiin",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "blood",
+        "fig",
+        "noun (genitive)",
+        "medical/cardiac term"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "botanical",
+        "medical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "fig",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "blood",
+          "source": "semantic_medical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "noun (genitive)",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.5,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "medical/cardiac term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "keedy",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "wheat",
+        "botanical/earth term"
+      ],
+      "sources": [
+        "semantic_botanical",
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "botanical",
+        "medical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "wheat",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "verb form",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.55,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "botanical/earth term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "qokeol",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "sick",
+        "garlic"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "freq"
+      ],
+      "domains": [
+        "botanical",
+        "medical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "garlic",
+          "source": "semantic_botanical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "sick",
+          "source": "semantic_medical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "the (+ noun)",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.6,
+          "domain": "grammar"
+        }
+      ]
+    },
+    {
+      "voynich": "sheor",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "root",
+        "barley",
+        "cure"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "freq"
+      ],
+      "domains": [
+        "botanical",
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "barley",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "cure",
+          "source": "semantic_medical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "root",
+          "source": "freq",
+          "language": "Hebrew",
+          "confidence": 0.4,
+          "domain": "botanical"
+        }
+      ]
+    },
+    {
+      "voynich": "chaiin",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "heat/fever",
+        "priest",
+        "fig"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "botanical",
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "fig",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "heat/fever",
+          "source": "semantic_medical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "priest",
+          "source": "freq",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "qodaiin",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "blood",
+        "fig"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "freq"
+      ],
+      "domains": [
+        "botanical",
+        "medical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "fig",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "blood",
+          "source": "semantic_medical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "the (+ noun)",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.6,
+          "domain": "grammar"
+        }
+      ]
+    },
+    {
+      "voynich": "chodaiin",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "wheat",
+        "blood",
+        "noun (genitive)"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "freq"
+      ],
+      "domains": [
+        "botanical",
+        "medical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "wheat",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "blood",
+          "source": "semantic_medical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "noun (genitive)",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.5,
+          "domain": "grammar"
+        }
+      ]
+    },
+    {
+      "voynich": "oraiin",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "kidney",
+        "branch"
+      ],
+      "sources": [
+        "semantic_medical",
+        "semantic_botanical",
+        "freq"
+      ],
+      "domains": [
+        "botanical",
+        "medical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "branch",
+          "source": "semantic_botanical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "kidney",
+          "source": "semantic_medical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "kidney",
+          "source": "freq",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "medical"
+        }
+      ]
+    },
+    {
+      "voynich": "kol",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "preposition/conjunction",
+        "all/voice",
+        "garlic"
+      ],
+      "sources": [
+        "semantic_botanical",
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "botanical",
+        "number"
+      ],
+      "all_entries": [
+        {
+          "meaning": "garlic",
+          "source": "semantic_botanical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "all/voice",
+          "source": "freq",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "number"
+        },
+        {
+          "meaning": "preposition/conjunction",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "chos",
+      "conflict_type": "grammar_vs_content",
+      "meanings": [
+        "tree",
+        "verb (unknown)"
+      ],
+      "sources": [
+        "semantic_botanical",
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "botanical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "tree",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "unknown",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.5,
+          "domain": "other"
+        },
+        {
+          "meaning": "verb (unknown)",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.6,
+          "domain": "grammar"
+        }
+      ]
+    },
+    {
+      "voynich": "choty",
+      "conflict_type": "grammar_vs_content",
+      "meanings": [
+        "wheat",
+        "verb (unknown)"
+      ],
+      "sources": [
+        "semantic_botanical",
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "botanical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "wheat",
+          "source": "semantic_botanical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "botanical"
+        },
+        {
+          "meaning": "verb form",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.55,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "verb (unknown)",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.6,
+          "domain": "grammar"
+        }
+      ]
+    },
+    {
+      "voynich": "otedy",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "finger",
+        "medical/cardiac term"
+      ],
+      "sources": [
+        "semantic_medical",
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "medical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "finger",
+          "source": "semantic_medical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "verb form",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.55,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "medical/cardiac term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "lchedy",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "milk",
+        "medical/cardiac term"
+      ],
+      "sources": [
+        "semantic_medical",
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "medical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "milk",
+          "source": "semantic_medical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "verb form",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.55,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "medical/cardiac term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "sheol",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "salt",
+        "medical/cardiac term",
+        "sky",
+        "three",
+        "sick"
+      ],
+      "sources": [
+        "semantic_medical",
+        "freq",
+        "semantic_pharmaceutical",
+        "semantic_astronomical",
+        "context"
+      ],
+      "domains": [
+        "other",
+        "astronomical",
+        "pharmaceutical",
+        "medical",
+        "number"
+      ],
+      "all_entries": [
+        {
+          "meaning": "sick",
+          "source": "semantic_medical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "sky",
+          "source": "semantic_astronomical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "astronomical"
+        },
+        {
+          "meaning": "salt",
+          "source": "semantic_pharmaceutical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "three",
+          "source": "freq",
+          "language": "Hebrew",
+          "confidence": 0.4,
+          "domain": "number"
+        },
+        {
+          "meaning": "medical/cardiac term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "oteedy",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "finger",
+        "medical/cardiac term"
+      ],
+      "sources": [
+        "semantic_medical",
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "medical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "finger",
+          "source": "semantic_medical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "verb form",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.55,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "medical/cardiac term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "cheky",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "links the to of the/from",
+        "eye"
+      ],
+      "sources": [
+        "semantic_medical",
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "medical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "eye",
+          "source": "semantic_medical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "verb form",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.55,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "links the to of the/from",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.4,
+          "domain": "grammar"
+        }
+      ]
+    },
+    {
+      "voynich": "tedy",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "finger",
+        "preposition/conjunction"
+      ],
+      "sources": [
+        "semantic_medical",
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "medical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "finger",
+          "source": "semantic_medical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "verb form",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.55,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "preposition/conjunction",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "oteody",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "finger",
+        "medical/cardiac term"
+      ],
+      "sources": [
+        "semantic_medical",
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "medical",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "finger",
+          "source": "semantic_medical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "medical"
+        },
+        {
+          "meaning": "verb form",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.55,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "medical/cardiac term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "dar",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "taurus",
+        "to give",
+        "give"
+      ],
+      "sources": [
+        "freq",
+        "semantic_pharmaceutical",
+        "semantic_astronomical"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "astronomical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "taurus",
+          "source": "semantic_astronomical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "astronomical"
+        },
+        {
+          "meaning": "give",
+          "source": "semantic_pharmaceutical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "to give",
+          "source": "freq",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        }
+      ]
+    },
+    {
+      "voynich": "otal",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "all/voice",
+        "aries"
+      ],
+      "sources": [
+        "freq",
+        "semantic_astronomical"
+      ],
+      "domains": [
+        "astronomical",
+        "number"
+      ],
+      "all_entries": [
+        {
+          "meaning": "aries",
+          "source": "semantic_astronomical",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "astronomical"
+        },
+        {
+          "meaning": "all/voice",
+          "source": "freq",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "number"
+        }
+      ]
+    },
+    {
+      "voynich": "dair",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "taurus",
+        "to give",
+        "give"
+      ],
+      "sources": [
+        "freq",
+        "semantic_pharmaceutical",
+        "semantic_astronomical"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "astronomical"
+      ],
+      "all_entries": [
+        {
+          "meaning": "taurus",
+          "source": "semantic_astronomical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "astronomical"
+        },
+        {
+          "meaning": "give",
+          "source": "semantic_pharmaceutical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "to give",
+          "source": "freq",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        }
+      ]
+    },
+    {
+      "voynich": "sheedy",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "vinegar",
+        "medical/cardiac term"
+      ],
+      "sources": [
+        "context",
+        "semantic_pharmaceutical",
+        "freq"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "grammar",
+        "other"
+      ],
+      "all_entries": [
+        {
+          "meaning": "vinegar",
+          "source": "semantic_pharmaceutical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "verb form",
+          "source": "freq",
+          "language": "unknown",
+          "confidence": 0.55,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "medical/cardiac term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "dor",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "preposition/conjunction",
+        "to give",
+        "give"
+      ],
+      "sources": [
+        "context",
+        "semantic_pharmaceutical",
+        "freq"
+      ],
+      "domains": [
+        "pharmaceutical",
+        "other"
+      ],
+      "all_entries": [
+        {
+          "meaning": "give",
+          "source": "semantic_pharmaceutical",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "to give",
+          "source": "freq",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "pharmaceutical"
+        },
+        {
+          "meaning": "preposition/conjunction",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "ain",
+      "conflict_type": "grammar_vs_content",
+      "meanings": [
+        "one",
+        "preposition/conjunction"
+      ],
+      "sources": [
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "number"
+      ],
+      "all_entries": [
+        {
+          "meaning": "one",
+          "source": "freq",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "number"
+        },
+        {
+          "meaning": "preposition/conjunction",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "am",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "man",
+        "preposition/conjunction"
+      ],
+      "sources": [
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other"
+      ],
+      "all_entries": [
+        {
+          "meaning": "man",
+          "source": "freq",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "other"
+        },
+        {
+          "meaning": "preposition/conjunction",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "otol",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "all/voice",
+        "medical/cardiac term"
+      ],
+      "sources": [
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "number"
+      ],
+      "all_entries": [
+        {
+          "meaning": "all/voice",
+          "source": "freq",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "number"
+        },
+        {
+          "meaning": "medical/cardiac term",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "air",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "preposition/conjunction",
+        "air"
+      ],
+      "sources": [
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other"
+      ],
+      "all_entries": [
+        {
+          "meaning": "air",
+          "source": "freq",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "other"
+        },
+        {
+          "meaning": "preposition/conjunction",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "cho",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "preposition/conjunction",
+        "life"
+      ],
+      "sources": [
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other"
+      ],
+      "all_entries": [
+        {
+          "meaning": "life",
+          "source": "freq",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "other"
+        },
+        {
+          "meaning": "preposition/conjunction",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "cheo",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "preposition/conjunction",
+        "life"
+      ],
+      "sources": [
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other"
+      ],
+      "all_entries": [
+        {
+          "meaning": "life",
+          "source": "freq",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "other"
+        },
+        {
+          "meaning": "preposition/conjunction",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "sheo",
+      "conflict_type": "same_domain",
+      "meanings": [
+        "fire",
+        "preposition/conjunction"
+      ],
+      "sources": [
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other"
+      ],
+      "all_entries": [
+        {
+          "meaning": "fire",
+          "source": "freq",
+          "language": "Hebrew",
+          "confidence": 0.6,
+          "domain": "other"
+        },
+        {
+          "meaning": "preposition/conjunction",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "oiin",
+      "conflict_type": "grammar_vs_content",
+      "meanings": [
+        "one",
+        "preposition/conjunction"
+      ],
+      "sources": [
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "number"
+      ],
+      "all_entries": [
+        {
+          "meaning": "one",
+          "source": "freq",
+          "language": "Italian",
+          "confidence": 0.6,
+          "domain": "number"
+        },
+        {
+          "meaning": "preposition/conjunction",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    },
+    {
+      "voynich": "lkar",
+      "conflict_type": "cross_domain",
+      "meanings": [
+        "preposition/conjunction",
+        "to filter"
+      ],
+      "sources": [
+        "context",
+        "freq"
+      ],
+      "domains": [
+        "other",
+        "grammar"
+      ],
+      "all_entries": [
+        {
+          "meaning": "to filter",
+          "source": "freq",
+          "language": "Italian",
+          "confidence": 0.4,
+          "domain": "grammar"
+        },
+        {
+          "meaning": "preposition/conjunction",
+          "source": "context",
+          "language": "inferred",
+          "confidence": 0.5,
+          "domain": "other"
+        }
+      ]
+    }
+  ]
+}

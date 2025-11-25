@@ -1,0 +1,2275 @@
+{
+  "version": "clean_1.0",
+  "description": "Dictionary with conflicting entries removed",
+  "total_entries": 324,
+  "entries": {
+    "otar": {
+      "voynich": "otar",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "tar": {
+      "voynich": "tar",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "olaiin": {
+      "voynich": "olaiin",
+      "meaning": "moon",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "astronomical"
+    },
+    "otam": {
+      "voynich": "otam",
+      "meaning": "thyme",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "otor": {
+      "voynich": "otor",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "tor": {
+      "voynich": "tor",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "ytar": {
+      "voynich": "ytar",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "otair": {
+      "voynich": "otair",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "pol": {
+      "voynich": "pol",
+      "meaning": "skin",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "ytor": {
+      "voynich": "ytor",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "ram": {
+      "voynich": "ram",
+      "meaning": "branch",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "laiin": {
+      "voynich": "laiin",
+      "meaning": "moon",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "astronomical"
+    },
+    "oteor": {
+      "voynich": "oteor",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "opal": {
+      "voynich": "opal",
+      "meaning": "skin",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "tair": {
+      "voynich": "tair",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "ytam": {
+      "voynich": "ytam",
+      "meaning": "thyme",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "tam": {
+      "voynich": "tam",
+      "meaning": "thyme",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "oram": {
+      "voynich": "oram",
+      "meaning": "branch",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "far": {
+      "voynich": "far",
+      "meaning": "flower",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "aram": {
+      "voynich": "aram",
+      "meaning": "branch",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "dalor": {
+      "voynich": "dalor",
+      "meaning": "pain",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "otary": {
+      "voynich": "otary",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "otear": {
+      "voynich": "otear",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "ofar": {
+      "voynich": "ofar",
+      "meaning": "flower",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "olain": {
+      "voynich": "olain",
+      "meaning": "moon",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "astronomical"
+    },
+    "opol": {
+      "voynich": "opol",
+      "meaning": "skin",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "alaiin": {
+      "voynich": "alaiin",
+      "meaning": "moon",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "astronomical"
+    },
+    "teor": {
+      "voynich": "teor",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "ytair": {
+      "voynich": "ytair",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "tr": {
+      "voynich": "tr",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "yteor": {
+      "voynich": "yteor",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "otaiir": {
+      "voynich": "otaiir",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "toar": {
+      "voynich": "toar",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "orom": {
+      "voynich": "orom",
+      "meaning": "branch",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "dalar": {
+      "voynich": "dalar",
+      "meaning": "pain",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "ypal": {
+      "voynich": "ypal",
+      "meaning": "skin",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "opydy": {
+      "voynich": "opydy",
+      "meaning": "foot",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "oteeor": {
+      "voynich": "oteeor",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "ofor": {
+      "voynich": "ofor",
+      "meaning": "flower",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "dolar": {
+      "voynich": "dolar",
+      "meaning": "pain",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "dalary": {
+      "voynich": "dalary",
+      "meaning": "pain",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "dolor": {
+      "voynich": "dolor",
+      "meaning": "pain",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "otaim": {
+      "voynich": "otaim",
+      "meaning": "thyme",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "otory": {
+      "voynich": "otory",
+      "meaning": "earth",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "sokeey": {
+      "voynich": "sokeey",
+      "meaning": "juice",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "otaiin": {
+      "voynich": "otaiin",
+      "meaning": "fig",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "sar": {
+      "voynich": "sar",
+      "meaning": "barley",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "taiin": {
+      "voynich": "taiin",
+      "meaning": "fig",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "sor": {
+      "voynich": "sor",
+      "meaning": "barley",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "ytaiin": {
+      "voynich": "ytaiin",
+      "meaning": "fig",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "sair": {
+      "voynich": "sair",
+      "meaning": "barley",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "oteos": {
+      "voynich": "oteos",
+      "meaning": "tree",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "otain": {
+      "voynich": "otain",
+      "meaning": "fig",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "daim": {
+      "voynich": "daim",
+      "meaning": "blood",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "medical"
+    },
+    "opar": {
+      "voynich": "opar",
+      "meaning": "fruit",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "other"
+    },
+    "por": {
+      "voynich": "por",
+      "meaning": "fruit",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "other"
+    },
+    "otees": {
+      "voynich": "otees",
+      "meaning": "tree",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "dom": {
+      "voynich": "dom",
+      "meaning": "blood",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "medical"
+    },
+    "par": {
+      "voynich": "par",
+      "meaning": "fruit",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "other"
+    },
+    "oteeos": {
+      "voynich": "oteeos",
+      "meaning": "tree",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "daiim": {
+      "voynich": "daiim",
+      "meaning": "blood",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "medical"
+    },
+    "odam": {
+      "voynich": "odam",
+      "meaning": "blood",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "medical"
+    },
+    "tos": {
+      "voynich": "tos",
+      "meaning": "tree",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "dm": {
+      "voynich": "dm",
+      "meaning": "blood",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "medical"
+    },
+    "sary": {
+      "voynich": "sary",
+      "meaning": "barley",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "opor": {
+      "voynich": "opor",
+      "meaning": "fruit",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "other"
+    },
+    "opair": {
+      "voynich": "opair",
+      "meaning": "fruit",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "other"
+    },
+    "saiir": {
+      "voynich": "saiir",
+      "meaning": "barley",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "ypar": {
+      "voynich": "ypar",
+      "meaning": "fruit",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "other"
+    },
+    "otes": {
+      "voynich": "otes",
+      "meaning": "tree",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "opary": {
+      "voynich": "opary",
+      "meaning": "fruit",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "other"
+    },
+    "pair": {
+      "voynich": "pair",
+      "meaning": "fruit",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "other"
+    },
+    "otos": {
+      "voynich": "otos",
+      "meaning": "tree",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "ypair": {
+      "voynich": "ypair",
+      "meaning": "fruit",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "other"
+    },
+    "otan": {
+      "voynich": "otan",
+      "meaning": "fig",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "ytain": {
+      "voynich": "ytain",
+      "meaning": "fig",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "poar": {
+      "voynich": "poar",
+      "meaning": "fruit",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "other"
+    },
+    "toiin": {
+      "voynich": "toiin",
+      "meaning": "fig",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "toaiin": {
+      "voynich": "toaiin",
+      "meaning": "fig",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "oteeys": {
+      "voynich": "oteeys",
+      "meaning": "tree",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "oteaiin": {
+      "voynich": "oteaiin",
+      "meaning": "fig",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "sairy": {
+      "voynich": "sairy",
+      "meaning": "barley",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "sory": {
+      "voynich": "sory",
+      "meaning": "barley",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "yteos": {
+      "voynich": "yteos",
+      "meaning": "tree",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "oteees": {
+      "voynich": "oteees",
+      "meaning": "tree",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "teeos": {
+      "voynich": "teeos",
+      "meaning": "tree",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "teos": {
+      "voynich": "teos",
+      "meaning": "tree",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "otoaiin": {
+      "voynich": "otoaiin",
+      "meaning": "fig",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "damo": {
+      "voynich": "damo",
+      "meaning": "blood",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "medical"
+    },
+    "toees": {
+      "voynich": "toees",
+      "meaning": "tree",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "otoiin": {
+      "voynich": "otoiin",
+      "meaning": "fig",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "adam": {
+      "voynich": "adam",
+      "meaning": "blood",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "medical"
+    },
+    "syaiir": {
+      "voynich": "syaiir",
+      "meaning": "barley",
+      "language": "Hebrew",
+      "confidence": 0.65,
+      "domain": "botanical"
+    },
+    "okan": {
+      "voynich": "okan",
+      "meaning": "priest",
+      "language": "Judeo-Italian",
+      "confidence": 0.75,
+      "domain": "other"
+    },
+    "okoiin": {
+      "voynich": "okoiin",
+      "meaning": "priest",
+      "language": "Judeo-Italian",
+      "confidence": 0.75,
+      "domain": "other"
+    },
+    "koiin": {
+      "voynich": "koiin",
+      "meaning": "priest",
+      "language": "Judeo-Italian",
+      "confidence": 0.75,
+      "domain": "other"
+    },
+    "okaiiin": {
+      "voynich": "okaiiin",
+      "meaning": "priest",
+      "language": "Judeo-Italian",
+      "confidence": 0.75,
+      "domain": "other"
+    },
+    "akaiin": {
+      "voynich": "akaiin",
+      "meaning": "priest",
+      "language": "Judeo-Italian",
+      "confidence": 0.75,
+      "domain": "other"
+    },
+    "oekaiin": {
+      "voynich": "oekaiin",
+      "meaning": "priest",
+      "language": "Judeo-Italian",
+      "confidence": 0.75,
+      "domain": "other"
+    },
+    "okiin": {
+      "voynich": "okiin",
+      "meaning": "priest",
+      "language": "Judeo-Italian",
+      "confidence": 0.75,
+      "domain": "other"
+    },
+    "koaiin": {
+      "voynich": "koaiin",
+      "meaning": "priest",
+      "language": "Judeo-Italian",
+      "confidence": 0.75,
+      "domain": "other"
+    },
+    "cl": {
+      "voynich": "cl",
+      "meaning": "bread",
+      "language": "Judeo-Italian",
+      "confidence": 0.75,
+      "domain": "other"
+    },
+    "fr": {
+      "voynich": "fr",
+      "meaning": "flower",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "okees": {
+      "voynich": "okees",
+      "meaning": "is (essere)",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "grammar"
+    },
+    "okeos": {
+      "voynich": "okeos",
+      "meaning": "is (essere)",
+      "language": "Italian",
+      "confidence": 0.7,
+      "domain": "grammar"
+    },
+    "shok": {
+      "voynich": "shok",
+      "meaning": "Hebrew: shok",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "other"
+    },
+    "mar": {
+      "voynich": "mar",
+      "meaning": "Hebrew: mar",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "other"
+    },
+    "qokaiin": {
+      "voynich": "qokaiin",
+      "meaning": "priest/cohen",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "other"
+    },
+    "qokain": {
+      "voynich": "qokain",
+      "meaning": "priest/cohen",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "other"
+    },
+    "lkaiin": {
+      "voynich": "lkaiin",
+      "meaning": "priest/cohen",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "other"
+    },
+    "olkaiin": {
+      "voynich": "olkaiin",
+      "meaning": "priest/cohen",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "other"
+    },
+    "ykaiin": {
+      "voynich": "ykaiin",
+      "meaning": "priest/cohen",
+      "language": "Hebrew",
+      "confidence": 0.8,
+      "domain": "other"
+    },
+    "olkain": {
+      "voynich": "olkain",
+      "meaning": "priest/cohen",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "other"
+    },
+    "lkain": {
+      "voynich": "lkain",
+      "meaning": "priest/cohen",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "other"
+    },
+    "chkaiin": {
+      "voynich": "chkaiin",
+      "meaning": "priest/cohen",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "other"
+    },
+    "chokain": {
+      "voynich": "chokain",
+      "meaning": "male/remember (zachar)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "chekain": {
+      "voynich": "chekain",
+      "meaning": "male/remember (zachar)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "chok": {
+      "voynich": "chok",
+      "meaning": "male/remember (zachar)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "chokeo": {
+      "voynich": "chokeo",
+      "meaning": "male/remember (zachar)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "chokody": {
+      "voynich": "chokody",
+      "meaning": "male/remember (zachar)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "ypchol": {
+      "voynich": "ypchol",
+      "meaning": "flower (perach)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "otchalypchaiin": {
+      "voynich": "otchalypchaiin",
+      "meaning": "flower (perach)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "pchor": {
+      "voynich": "pchor",
+      "meaning": "flower (perach)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "pcheol": {
+      "voynich": "pcheol",
+      "meaning": "flower (perach)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "pcheoldom": {
+      "voynich": "pcheoldom",
+      "meaning": "flower (perach)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "okcho": {
+      "voynich": "okcho",
+      "meaning": "strength (koach)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "kchy": {
+      "voynich": "kchy",
+      "meaning": "strength (koach)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "shokcheey": {
+      "voynich": "shokcheey",
+      "meaning": "strength (koach)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "okchey": {
+      "voynich": "okchey",
+      "meaning": "strength (koach)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "kochey": {
+      "voynich": "kochey",
+      "meaning": "strength (koach)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "otchol": {
+      "voynich": "otchol",
+      "meaning": "sick (choleh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "chol": {
+      "voynich": "chol",
+      "meaning": "sick (choleh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "chal": {
+      "voynich": "chal",
+      "meaning": "sick (choleh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "cheol": {
+      "voynich": "cheol",
+      "meaning": "sick (choleh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "kychol": {
+      "voynich": "kychol",
+      "meaning": "sick (choleh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "medical"
+    },
+    "shol": {
+      "voynich": "shol",
+      "meaning": "extract/draw out (shol)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "pshol": {
+      "voynich": "pshol",
+      "meaning": "extract/draw out (shol)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "darshol": {
+      "voynich": "darshol",
+      "meaning": "extract/draw out (shol)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "sheoldam": {
+      "voynich": "sheoldam",
+      "meaning": "extract/draw out (shol)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "sheoldaj": {
+      "voynich": "sheoldaj",
+      "meaning": "extract/draw out (shol)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "shory": {
+      "voynich": "shory",
+      "meaning": "root (shoresh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "shar": {
+      "voynich": "shar",
+      "meaning": "root (shoresh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "shor": {
+      "voynich": "shor",
+      "meaning": "root (shoresh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "shear": {
+      "voynich": "shear",
+      "meaning": "root (shoresh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "sshor": {
+      "voynich": "sshor",
+      "meaning": "root (shoresh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "chear": {
+      "voynich": "chear",
+      "meaning": "hole/pierce (chor)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "chor": {
+      "voynich": "chor",
+      "meaning": "hole/pierce (chor)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "dchar": {
+      "voynich": "dchar",
+      "meaning": "hole/pierce (chor)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "cheor": {
+      "voynich": "cheor",
+      "meaning": "hole/pierce (chor)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "char": {
+      "voynich": "char",
+      "meaning": "hole/pierce (chor)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "shos": {
+      "voynich": "shos",
+      "meaning": "root (shoresh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "shoshy": {
+      "voynich": "shoshy",
+      "meaning": "root (shoresh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "tsheos": {
+      "voynich": "tsheos",
+      "meaning": "root (shoresh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "shyshol": {
+      "voynich": "shyshol",
+      "meaning": "root (shoresh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "shees": {
+      "voynich": "shees",
+      "meaning": "root (shoresh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "shom": {
+      "voynich": "shom",
+      "meaning": "name (shem)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "sheam": {
+      "voynich": "sheam",
+      "meaning": "name (shem)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "sham": {
+      "voynich": "sham",
+      "meaning": "name (shem)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "okydsham": {
+      "voynich": "okydsham",
+      "meaning": "name (shem)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "okydshom": {
+      "voynich": "okydshom",
+      "meaning": "name (shem)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "eoporchy": {
+      "voynich": "eoporchy",
+      "meaning": "flower (perach)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "porechol": {
+      "voynich": "porechol",
+      "meaning": "flower (perach)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "porachol": {
+      "voynich": "porachol",
+      "meaning": "flower (perach)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "porchey": {
+      "voynich": "porchey",
+      "meaning": "flower (perach)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "botanical"
+    },
+    "ol": {
+      "voynich": "ol",
+      "meaning": "the/of",
+      "language": "Grammar",
+      "confidence": 0.7,
+      "domain": "grammar"
+    },
+    "ar": {
+      "voynich": "ar",
+      "meaning": "to/for",
+      "language": "Grammar",
+      "confidence": 0.65,
+      "domain": "grammar"
+    },
+    "or": {
+      "voynich": "or",
+      "meaning": "or/and",
+      "language": "Grammar",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "al": {
+      "voynich": "al",
+      "meaning": "to the",
+      "language": "Grammar",
+      "confidence": 0.65,
+      "domain": "grammar"
+    },
+    "qo": {
+      "voynich": "qo",
+      "meaning": "the (definite article)",
+      "language": "Grammar",
+      "confidence": 0.75,
+      "domain": "grammar"
+    },
+    "dy": {
+      "voynich": "dy",
+      "meaning": "-ness/-ly (suffix)",
+      "language": "Grammar",
+      "confidence": 0.7,
+      "domain": "other"
+    },
+    "y": {
+      "voynich": "y",
+      "meaning": "-s/-i (plural/genitive)",
+      "language": "Grammar",
+      "confidence": 0.8,
+      "domain": "other"
+    },
+    "daiin": {
+      "voynich": "daiin",
+      "meaning": "of the/from",
+      "language": "Grammar",
+      "confidence": 0.7,
+      "domain": "grammar"
+    },
+    "chedy": {
+      "voynich": "chedy",
+      "meaning": "is/has (verb)",
+      "language": "Grammar",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "shedy": {
+      "voynich": "shedy",
+      "meaning": "which/that",
+      "language": "Grammar",
+      "confidence": 0.55,
+      "domain": "other"
+    },
+    "okeody": {
+      "voynich": "okeody",
+      "meaning": "wheat",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "okchy": {
+      "voynich": "okchy",
+      "meaning": "wheat",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "cheos": {
+      "voynich": "cheos",
+      "meaning": "tree",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "chees": {
+      "voynich": "chees",
+      "meaning": "tree",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "qokeody": {
+      "voynich": "qokeody",
+      "meaning": "wheat",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "chety": {
+      "voynich": "chety",
+      "meaning": "wheat",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "keody": {
+      "voynich": "keody",
+      "meaning": "wheat",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "kchol": {
+      "voynich": "kchol",
+      "meaning": "lily",
+      "language": "Italian",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "kchey": {
+      "voynich": "kchey",
+      "meaning": "wheat",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "shaiin": {
+      "voynich": "shaiin",
+      "meaning": "seed",
+      "language": "Italian",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "keol": {
+      "voynich": "keol",
+      "meaning": "garlic",
+      "language": "Italian",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "soiin": {
+      "voynich": "soiin",
+      "meaning": "seed",
+      "language": "Italian",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "ykchy": {
+      "voynich": "ykchy",
+      "meaning": "wheat",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "ydaiin": {
+      "voynich": "ydaiin",
+      "meaning": "fig",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "qokchol": {
+      "voynich": "qokchol",
+      "meaning": "lily",
+      "language": "Italian",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "ykedy": {
+      "voynich": "ykedy",
+      "meaning": "wheat",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "doiin": {
+      "voynich": "doiin",
+      "meaning": "fig",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "odain": {
+      "voynich": "odain",
+      "meaning": "fig",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "ols": {
+      "voynich": "ols",
+      "meaning": "almond tree",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "botanical"
+    },
+    "qotedy": {
+      "voynich": "qotedy",
+      "meaning": "finger",
+      "language": "Italian",
+      "confidence": 0.6,
+      "domain": "medical"
+    },
+    "qoteedy": {
+      "voynich": "qoteedy",
+      "meaning": "finger",
+      "language": "Italian",
+      "confidence": 0.6,
+      "domain": "medical"
+    },
+    "qotchy": {
+      "voynich": "qotchy",
+      "meaning": "finger",
+      "language": "Italian",
+      "confidence": 0.6,
+      "domain": "medical"
+    },
+    "opchedy": {
+      "voynich": "opchedy",
+      "meaning": "chest",
+      "language": "Italian",
+      "confidence": 0.6,
+      "domain": "medical"
+    },
+    "otchy": {
+      "voynich": "otchy",
+      "meaning": "finger",
+      "language": "Italian",
+      "confidence": 0.6,
+      "domain": "medical"
+    },
+    "choky": {
+      "voynich": "choky",
+      "meaning": "eye",
+      "language": "Italian",
+      "confidence": 0.6,
+      "domain": "medical"
+    },
+    "dal": {
+      "voynich": "dal",
+      "meaning": "aries",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "astronomical"
+    },
+    "dol": {
+      "voynich": "dol",
+      "meaning": "aries",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "astronomical"
+    },
+    "aiin": {
+      "voynich": "aiin",
+      "meaning": "one",
+      "language": "Italian",
+      "confidence": 0.6,
+      "domain": "number"
+    },
+    "chey": {
+      "voynich": "chey",
+      "meaning": "verbal/adjectival",
+      "language": "unknown",
+      "confidence": 0.5,
+      "domain": "grammar"
+    },
+    "qokeey": {
+      "voynich": "qokeey",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "shey": {
+      "voynich": "shey",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "cheey": {
+      "voynich": "cheey",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "okeey": {
+      "voynich": "okeey",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "qokar": {
+      "voynich": "qokar",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "qoky": {
+      "voynich": "qoky",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "chy": {
+      "voynich": "chy",
+      "meaning": "verbal/adjectival",
+      "language": "unknown",
+      "confidence": 0.5,
+      "domain": "grammar"
+    },
+    "sheey": {
+      "voynich": "sheey",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "chckhy": {
+      "voynich": "chckhy",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "oteey": {
+      "voynich": "oteey",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "sho": {
+      "voynich": "sho",
+      "meaning": "fire",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "other"
+    },
+    "oty": {
+      "voynich": "oty",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "cthy": {
+      "voynich": "cthy",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "qokey": {
+      "voynich": "qokey",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "shy": {
+      "voynich": "shy",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "oky": {
+      "voynich": "oky",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "qoty": {
+      "voynich": "qoty",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "qotaiin": {
+      "voynich": "qotaiin",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "chcthy": {
+      "voynich": "chcthy",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "qotain": {
+      "voynich": "qotain",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "okey": {
+      "voynich": "okey",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "qotar": {
+      "voynich": "qotar",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "cthol": {
+      "voynich": "cthol",
+      "meaning": "unknown",
+      "language": "unknown",
+      "confidence": 0.4,
+      "domain": "other"
+    },
+    "qotal": {
+      "voynich": "qotal",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "shckhy": {
+      "voynich": "shckhy",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "otey": {
+      "voynich": "otey",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "qokchdy": {
+      "voynich": "qokchdy",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "ykeey": {
+      "voynich": "ykeey",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "shody": {
+      "voynich": "shody",
+      "meaning": "verb",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "sheody": {
+      "voynich": "sheody",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "cthey": {
+      "voynich": "cthey",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "qotol": {
+      "voynich": "qotol",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "tol": {
+      "voynich": "tol",
+      "meaning": "all/voice",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "number"
+    },
+    "ody": {
+      "voynich": "ody",
+      "meaning": "verb",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "checkhy": {
+      "voynich": "checkhy",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "keey": {
+      "voynich": "keey",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "shdy": {
+      "voynich": "shdy",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "lchey": {
+      "voynich": "lchey",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "lol": {
+      "voynich": "lol",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.45,
+      "domain": "grammar"
+    },
+    "kedy": {
+      "voynich": "kedy",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "cthor": {
+      "voynich": "cthor",
+      "meaning": "unknown",
+      "language": "unknown",
+      "confidence": 0.4,
+      "domain": "other"
+    },
+    "lor": {
+      "voynich": "lor",
+      "meaning": "unknown",
+      "language": "unknown",
+      "confidence": 0.4,
+      "domain": "other"
+    },
+    "qoteey": {
+      "voynich": "qoteey",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "lshedy": {
+      "voynich": "lshedy",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "olkeedy": {
+      "voynich": "olkeedy",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "oteol": {
+      "voynich": "oteol",
+      "meaning": "all/voice",
+      "language": "Hebrew",
+      "confidence": 0.6,
+      "domain": "number"
+    },
+    "aiiin": {
+      "voynich": "aiiin",
+      "meaning": "one",
+      "language": "Italian",
+      "confidence": 0.6,
+      "domain": "number"
+    },
+    "lkeedy": {
+      "voynich": "lkeedy",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "lkeey": {
+      "voynich": "lkeey",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "olkeey": {
+      "voynich": "olkeey",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "ckhy": {
+      "voynich": "ckhy",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "qokchedy": {
+      "voynich": "qokchedy",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "olchedy": {
+      "voynich": "olchedy",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "ches": {
+      "voynich": "ches",
+      "meaning": "unknown",
+      "language": "unknown",
+      "confidence": 0.5,
+      "domain": "other"
+    },
+    "sheky": {
+      "voynich": "sheky",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "qokor": {
+      "voynich": "qokor",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "sheckhy": {
+      "voynich": "sheckhy",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "pchedy": {
+      "voynich": "pchedy",
+      "meaning": "verbal/adjectival",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "dshedy": {
+      "voynich": "dshedy",
+      "meaning": "verbal/adjectival",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "tchedy": {
+      "voynich": "tchedy",
+      "meaning": "verbal/adjectival",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "chedaiin": {
+      "voynich": "chedaiin",
+      "meaning": "noun (genitive)",
+      "language": "unknown",
+      "confidence": 0.5,
+      "domain": "grammar"
+    },
+    "otchedy": {
+      "voynich": "otchedy",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "qopchedy": {
+      "voynich": "qopchedy",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "ckhey": {
+      "voynich": "ckhey",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "shcthy": {
+      "voynich": "shcthy",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "otchey": {
+      "voynich": "otchey",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar"
+    },
+    "olor": {
+      "voynich": "olor",
+      "meaning": "verb form",
+      "language": "unknown",
+      "confidence": 0.45,
+      "domain": "grammar"
+    },
+    "qokchey": {
+      "voynich": "qokchey",
+      "meaning": "the (+ noun)",
+      "language": "unknown",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "cheal": {
+      "voynich": "cheal",
+      "meaning": "sick",
+      "language": "Hebrew",
+      "confidence": 0.4,
+      "domain": "medical"
+    },
+    "sy": {
+      "voynich": "sy",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "chckhey": {
+      "voynich": "chckhey",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "chedar": {
+      "voynich": "chedar",
+      "meaning": "unknown",
+      "language": "unknown",
+      "confidence": 0.4,
+      "domain": "other"
+    },
+    "chory": {
+      "voynich": "chory",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "chary": {
+      "voynich": "chary",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "aly": {
+      "voynich": "aly",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "ary": {
+      "voynich": "ary",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "dary": {
+      "voynich": "dary",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "olky": {
+      "voynich": "olky",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "opchdy": {
+      "voynich": "opchdy",
+      "meaning": "verb",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "otaly": {
+      "voynich": "otaly",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "daldy": {
+      "voynich": "daldy",
+      "meaning": "verb",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "opchy": {
+      "voynich": "opchy",
+      "meaning": "verb (imperative?)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "ockhy": {
+      "voynich": "ockhy",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "olkey": {
+      "voynich": "olkey",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "otshedy": {
+      "voynich": "otshedy",
+      "meaning": "verb (past/perfective)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "arody": {
+      "voynich": "arody",
+      "meaning": "verb",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "sholdy": {
+      "voynich": "sholdy",
+      "meaning": "verb",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "cfhy": {
+      "voynich": "cfhy",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "oy": {
+      "voynich": "oy",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "ykaly": {
+      "voynich": "ykaly",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "shckhedy": {
+      "voynich": "shckhedy",
+      "meaning": "verb (past/perfective)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "ochy": {
+      "voynich": "ochy",
+      "meaning": "verb (imperative?)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "chetey": {
+      "voynich": "chetey",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "aithy": {
+      "voynich": "aithy",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "choy": {
+      "voynich": "choy",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "chty": {
+      "voynich": "chty",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "chyky": {
+      "voynich": "chyky",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "chocthey": {
+      "voynich": "chocthey",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "chokey": {
+      "voynich": "chokey",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "cholody": {
+      "voynich": "cholody",
+      "meaning": "verb",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "daly": {
+      "voynich": "daly",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "oldy": {
+      "voynich": "oldy",
+      "meaning": "verb",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "ldy": {
+      "voynich": "ldy",
+      "meaning": "verb",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "okaly": {
+      "voynich": "okaly",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "chockhy": {
+      "voynich": "chockhy",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "cham": {
+      "voynich": "cham",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "yky": {
+      "voynich": "yky",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "cthody": {
+      "voynich": "cthody",
+      "meaning": "verb",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "qokaly": {
+      "voynich": "qokaly",
+      "meaning": "verb (unknown)",
+      "language": "inferred",
+      "confidence": 0.6,
+      "domain": "grammar"
+    },
+    "checthy": {
+      "voynich": "checthy",
+      "meaning": "ingredient/preservation",
+      "language": "inferred",
+      "confidence": 0.5,
+      "domain": "other"
+    },
+    "ky": {
+      "voynich": "ky",
+      "meaning": "preposition/conjunction",
+      "language": "inferred",
+      "confidence": 0.5,
+      "domain": "other"
+    },
+    "cheeky": {
+      "voynich": "cheeky",
+      "meaning": "adjective/modifier",
+      "language": "inferred",
+      "confidence": 0.5,
+      "domain": "other"
+    },
+    "tey": {
+      "voynich": "tey",
+      "meaning": "preposition/conjunction",
+      "language": "inferred",
+      "confidence": 0.5,
+      "domain": "other"
+    },
+    "olsheey": {
+      "voynich": "olsheey",
+      "meaning": "adjective/modifier",
+      "language": "inferred",
+      "confidence": 0.5,
+      "domain": "other"
+    },
+    "os": {
+      "voynich": "os",
+      "meaning": "preposition/conjunction",
+      "language": "inferred",
+      "confidence": 0.5,
+      "domain": "other"
+    },
+    "chl": {
+      "voynich": "chl",
+      "meaning": "preposition/conjunction",
+      "language": "inferred",
+      "confidence": 0.5,
+      "domain": "other"
+    },
+    "she": {
+      "voynich": "she",
+      "meaning": "preposition/conjunction",
+      "language": "inferred",
+      "confidence": 0.5,
+      "domain": "other"
+    },
+    "chs": {
+      "voynich": "chs",
+      "meaning": "preposition/conjunction",
+      "language": "inferred",
+      "confidence": 0.5,
+      "domain": "other"
+    },
+    "ty": {
+      "voynich": "ty",
+      "meaning": "preposition/conjunction",
+      "language": "inferred",
+      "confidence": 0.5,
+      "domain": "other"
+    },
+    "key": {
+      "voynich": "key",
+      "meaning": "preposition/conjunction",
+      "language": "inferred",
+      "confidence": 0.5,
+      "domain": "other"
+    },
+    "oto": {
+      "voynich": "oto",
+      "meaning": "preposition/conjunction",
+      "language": "inferred",
+      "confidence": 0.5,
+      "domain": "other"
+    }
+  }
+}

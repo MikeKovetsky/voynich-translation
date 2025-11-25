@@ -1,0 +1,71 @@
+TRACK 59: Clean Dictionary Translation
+======================================
+
+GOAL: Re-run translation using ONLY validated dictionary entries.
+Get honest, readable output without overfitting.
+
+INPUT FILES:
+- results/clean_dictionary.json (324 validated entries)
+- data/eva_ivtff.txt
+- results/grammar_words.json (for SOV structure)
+
+TASK 1: Load Clean Dictionary
+-----------------------------
+- Use ONLY entries from clean_dictionary.json
+- NO conflicting words (removed in Track 56)
+- Should have 324 entries
+
+TASK 2: Translate Recipe Pages
+------------------------------
+Target folios (same as Track 53 for comparison):
+- f111v (recipes section)
+- f107r (recipes section)
+- f107v (recipes section)
+
+For each page:
+- Apply clean dictionary
+- Apply SOV grammar model
+- Track translated vs unknown words
+
+TASK 3: Attempt Sentence Reconstruction
+---------------------------------------
+For lines with >50% translation:
+- Try to form readable sentences
+- Use medieval recipe patterns:
+  - "Take X, add Y, boil until Z"
+  - "For illness X, use Y"
+  - Ingredient lists
+
+TASK 4: Compare to Track 53
+---------------------------
+| Metric | Track 53 | Track 59 |
+|--------|----------|----------|
+| Coverage | 50.9% | ? |
+| Coherent sentences | 104 | ? |
+| Readable output | ? | ? |
+
+TASK 5: Quality Assessment
+--------------------------
+For translated content:
+- Does it make sense as medical text?
+- Are ingredient sequences logical?
+- Does grammar flow naturally?
+
+OUTPUT FILES (REQUIRED):
+- clean_translate.py
+- results/clean_translation.json:
+  {
+    "dictionary_size": 324,
+    "per_folio": {
+      "f111v": { "words": N, "translated": N, "rate": X% },
+      ...
+    },
+    "total_coverage": "X%",
+    "coherent_sentences": N,
+    "comparison_to_track53": {...}
+  }
+- results/clean_translation_report.md:
+  - Coverage comparison (Track 53 vs Track 59)
+  - Sample translated sentences
+  - Quality assessment
+  - Honest verdict: is output more readable?
