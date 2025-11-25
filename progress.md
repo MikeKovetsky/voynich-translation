@@ -6717,3 +6717,19 @@ We produced 20 translations with HIGH coherence.
 **The Remaining Mystery**:
 We still have unknown modifiers like `chotchedy` and `okar`. These are likely the **names of the plants** from which the ingredients are taken. Track 96 is investigating this link now.
 
+
+### Phase 29: The Final Distinction (Generic vs Specific)
+
+**Breakthrough Insight (Track 96)**:
+- Most modifiers (`chedy`, `chey`) appear on DOZENS of plant pages. They are **GENERIC TERMS** ("herb", "plant"), not specific names.
+- Only a few (`qotain`, `lkar`) are **SPECIFIC**.
+
+**The Plan:**
+1.  **Verify Specifics**: Confirm `qotain` = Geranium (Track 97).
+2.  **Update Dictionary**: Label `chedy` as "herb" and `qotain` as "Geranium" (Track 98).
+3.  **Final Translation**: Produce recipes that read naturally:
+    *   *"Take a handful of leaves from the herb."* (Generic)
+    *   *"Take a handful of leaves from the Geranium."* (Specific)
+
+This is the final step to readable, scientifically valid translation. 🏁
+

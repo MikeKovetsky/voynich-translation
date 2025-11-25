@@ -755,16 +755,17 @@ We can translate the *structure*, but the *source* of the ingredients often rema
 
 ## 🌿 Phase 29: The Rosetta Link (Plant Identification)
 
-**Goal**: Link the recipe modifiers (e.g. `chotchedy`) to specific herbal illustrations to identify the plants.
+**Key Discovery**: Most recipe modifiers (`chedy`, `chey`) are **GENERIC** ("herb", "plant"), appearing on dozens of pages. Only a few (`qotain`) are **SPECIFIC**.
 
 | Track | Goal | Status |
 |-------|------|--------|
-| 96 | **Modifier Analysis**: Link modifiers to herbal pages | ⏳ |
-| 97 | **Plant ID Verification**: Cross-reference with scholarly IDs | ⏳ |
-| 98 | **Final Dictionary**: Integrate confirmed plant names | ⏳ |
+| 96 | **Modifier Analysis**: Found 3 specific vs 36 generic terms | ✅ |
+| 97 | **Plant ID Verification**: Confirm `qotain`=Geranium | ⏳ |
+| 98 | **Final Dictionary**: Split Generic/Specific terms | ⏳ |
+| 99 | **Final Translation**: Generate "Golden Recipes" v2 | ⏳ |
 
 ---
 
 *Last Updated: November 25, 2025*
-*Total Research Duration: 98 tracks across 29 phases*
-*Current Status: 🌿 Hunting for the "Rosetta Link" between recipes and illustrations...* 🔍
+*Total Research Duration: 99 tracks across 29 phases*
+*Current Status: 🏁 Finalizing Dictionary - Distinguishing "Herb" from "Geranium"!* 🌿
