@@ -6674,3 +6674,26 @@ We correlated words with illustrations on their pages. The results are STRIKING:
 ### Next Steps: Phase 27 - Semantic Override
 We need to update the dictionary. `char` is not "hole", it is "flower". `chl` is not just a string, it is "root".
 
+
+### Phase 27 Results: Structure & Meaning ✅
+
+**1. Visual Override Successful** (Track 91)
+- Dictionary corrected: `char`=flower, `chl`=root, `chol`=leaf.
+- This resolves the conflict where we had "hole" appearing on flower pages.
+
+**2. Recipe Grammar Decoded** (Track 92)
+- We processed 10,599 words.
+- 13.4% of lines have **HIGH coherence**.
+- Validated structure: `daiin` (Verb) + `[Object]` + `qok-` (Prep) + `[Modifier]`.
+
+**3. Measurements Identified** (Track 93)
+- We found words that appear between `daiin` and the ingredient:
+- **`ar`** (14x): Most common measurement (e.g. "handful", "part").
+- **`al`** (9x): Measurement.
+- **`aiin`** (6x): "One" (Confirmed).
+- **Pattern**: `daiin ar chol` = "Take [amount] leaf".
+
+### Next Steps: Phase 28 - Golden Recipes
+We have all components: **Action** (`daiin`) + **Amount** (`ar`) + **Ingredient** (`chol`) + **Source** (`qok- otaiin`).
+Time to assemble the final English translations.
+

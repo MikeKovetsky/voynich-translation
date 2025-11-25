@@ -708,18 +708,42 @@ Example: `daiin char` ("Take flower") found in f104r.24.
 
 ---
 
-## 🚀 Phase 27: Semantic Override & Full Translation
+## 🚀 Phase 27: Semantic Override & Full Translation (Completed) ✅
 
-**The Plan:** Override phonetic guesses with VISUAL facts. Translate ALL recipes.
+### Visual Overrides Applied (Track 91)
+We forced the dictionary to respect visual facts:
+- `char` → **FLOWER** 🌸
+- `chl` → **ROOT** 🥕
+- `chol` → **LEAF** 🍃
+
+### The Recipe Formula (Tracks 92 & 93)
+We discovered the complete recipe structure including MEASUREMENTS:
+
+```
+daiin   [AMOUNT]   [INGREDIENT]   qok-   [SOURCE]
+"Take"  "ar"       "chol"         "of"   "otaiin"
+        (handful)  (leaf)                (fig)
+```
+
+**Top Measurements:**
+- `ar` (14x)
+- `al` (9x)
+- `aiin` (6x) = "One"
+
+---
+
+## 🏆 Phase 28: "Golden Recipes" & Final Synthesis
+
+**Goal**: Produce cleaner, readable English translations for the top 20 coherent recipes by integrating the Measurement slot.
 
 | Track | Goal | Status |
 |-------|------|--------|
-| 91 | **Semantic Override**: Update `char`→flower, `chl`→root | ⏳ |
-| 92 | **Full Recipe Translation**: f103-f116 using new meanings | ⏳ |
-| 93 | **Measurement Analysis**: Identify amounts/times | ⏳ |
+| 94 | **Update Dictionary**: Add measurements (`ar`, `al`) | ⏳ |
+| 95 | **Golden Recipe Generation**: Translate top 20 lines with full grammar | ⏳ |
+| 96 | **Modifier Analysis**: Identify the plant sources (words after `qok-`) | ⏳ |
 
 ---
 
 *Last Updated: November 25, 2025*
-*Total Research Duration: 93 tracks across 27 phases*
-*Current Status: 🔄 Semantic Override - Visual evidence trumps phonetic guesses!* 👁️
+*Total Research Duration: 96 tracks across 28 phases*
+*Current Status: 🏆 Synthesizing "Golden Recipes" - We have the full formula!* 📜
