@@ -1,0 +1,33 @@
+TRACK 87: "Rosetta Page" Translation Attempt (f116r)
+====================================================
+
+GOAL: Attempt a full, coherent translation of Folio f116r.
+
+WHY f116r?
+- It contains `shtshy` (aconitum).
+- It contains `ckhal` (ricinus).
+- It contains `chtain` (cannabis).
+- It is a recipe page with dense text.
+- It is the single most cross-validated page in the manuscript.
+
+INPUTS:
+- data/eva_ivtff.txt (Source text for f116r)
+- results/plant_pair_validation.json (Confirmed plants)
+- results/full_herbal_mining.json (Other candidates)
+- results/grammar_analysis.json (From Track 85 - run in parallel, use if available or analyze locally)
+
+LOGIC:
+1. Get full text of f116r.
+2. Map ALL known words (Plants, Stars, Basic vocab).
+3. Mark Grammar slots (using logic from Track 85).
+4. For gaps, look at morphology (does it look like `chetaiin`? `daiin`?).
+5. Produce a "Mad Libs" style translation:
+   - "Take [QUANTITY] of [ACONITUM] and [RICINUS]..."
+6. Evaluate coherence. Does it look like a medical instruction?
+
+OUTPUTS:
+- translate_f116r.py
+- results/f116r_translation.md:
+  - Line-by-line translation.
+  - Visual representation of "cracked" vs "unknown" words.
+  - Estimated readability score.

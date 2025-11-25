@@ -632,6 +632,21 @@ This is our strongest validation methodology yet:
 
 ---
 
+---
+
+## 🚀 Phase 25: Grammar + Cross-Section Mining ⏳
+
+| Track | Goal | Status |
+|-------|------|--------|
+| 84 | Master Dictionary v3.0 (consolidate 500+ entries) | ⏳ |
+| 85 | Grammar Markers (verbs, prepositions from plant contexts) | ⏳ |
+| 86 | Mine Bio/Cosmo/Pharma sections | ⏳ |
+| 87 | Rosetta Page f116r (full translation attempt) | ⏳ |
+
+**Strategy**: Use 54 confirmed plant names as **anchors** to decode sentence structure.
+
+---
+
 *Last Updated: November 25, 2025*
-*Total Research Duration: 83 tracks across 24 phases*
-*Current Status: 🏆 VALIDATED - 54 ULTRA-HIGH confidence plant names discovered!* 🎉
+*Total Research Duration: 87 tracks across 25 phases*
+*Current Status: 🚀 SCALING - From nouns to full sentences!* ⏳

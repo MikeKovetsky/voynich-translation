@@ -1,0 +1,456 @@
+{
+  "plants_analyzed": 8,
+  "full_contexts": [
+    {
+      "plant": "aconitum",
+      "voynich_word": "shtshy",
+      "folio": "f116r",
+      "line_number": 13,
+      "full_line": "sar!aiin.tey.chetaiin.shtshy.okey.chedy.qoteedy.qokaiin.shety.okeedam",
+      "context_before": [
+        "chd?iin.checkhy.dar.shedy.qokeedy.shdy.raiin.sheedy.cphol.rteol.chcpham",
+        "ol.aiin.shed.qoteedy.okeol.shey.qotaiin.okedy.chedy.olchedy.olkaiin.als",
+        "qo??o.ar.chol.ches.okaiin.daiin.cheey.okeey.ota?!.olchdy.otal.daiin.olam"
+      ],
+      "context_after": [
+        "saiin.chey.chear.aiin.chll.s!oleedy<$>",
+        "pchoetal.otedal.otal.oteedy.olr.daiin.okeedy.qoky.dar.al.keedy.shdy",
+        "dar.chedy.sheedy.otal.al.lchedy.shcthy.qotey.daiin.otar.otarar.opam"
+      ],
+      "translation": "sar!aiin [preposition/conjunction] chetaiin **aconitum** [verb form] [is/has (verb)] [finger] [priest/cohen] shety okeedam",
+      "known_words": {
+        "tey": "preposition/conjunction",
+        "shtshy": "aconitum",
+        "okey": "verb form",
+        "chedy": "is/has (verb)",
+        "qoteedy": "finger",
+        "qokaiin": "priest/cohen"
+      },
+      "unknown_words": [
+        "sar!aiin",
+        "chetaiin",
+        "shety",
+        "okeedam"
+      ],
+      "coverage": 60.0
+    },
+    {
+      "plant": "ricinus",
+      "voynich_word": "ychear",
+      "folio": "f111v",
+      "line_number": 22,
+      "full_line": "saiin.ychear.olsheey.chet!ai!n.chedy.qokai!n.okai!n.al.chan.okal.chey.lkeeey",
+      "context_before": [
+        "qokaiin.cheal.tai!n.qokai!n.shey.qokai!n.char.shcthey.qoky.chy.qokaiin",
+        "shai!n.qokal.shar.qoteayl.qotai!n.chedy.qotai!n.shcthy.qokshedy.qotai!n.ar",
+        "sain.air.ai!n.qol.rar.ai!n.cheey.lkeey.lkai!n.cheokai!n.sheo.qo.qokai!n.chear.alam"
+      ],
+      "context_after": [
+        "qokaiin.sheckhy.qokar.chal!kai!n.chckhedy.lcheol.okaiin.qokai!n.cheol.daiin.lom",
+        "cheodai!n.qokar.otai!n.chedy.lkai!n.chey.shckhy.qokl.chedy.qokar.chctham",
+        "tair.alchedar.shykaiin.chdiy<$>"
+      ],
+      "translation": "saiin **ricinus** [adjective/modifier] chet!ai!n [is/has (verb)] qokai!n okai!n [to the] chan [all/voice] [verbal/adjectival] lkeeey",
+      "known_words": {
+        "ychear": "ricinus",
+        "olsheey": "adjective/modifier",
+        "chedy": "is/has (verb)",
+        "al": "to the",
+        "okal": "all/voice",
+        "chey": "verbal/adjectival"
+      },
+      "unknown_words": [
+        "saiin",
+        "chet!ai!n",
+        "qokai!n",
+        "okai!n",
+        "chan",
+        "lkeeey"
+      ],
+      "coverage": 50.0
+    },
+    {
+      "plant": "ricinus",
+      "voynich_word": "cheeal",
+      "folio": "f111v",
+      "line_number": 44,
+      "full_line": "dai!n.teeodain.cheevl.olaiin.or<$>",
+      "context_before": [
+        "oteey.l.chedy.teeedy.lkeey.oteedy.okedy.chedy.qokeey.checthy.qotal",
+        "cheeo.l.keeo.chear.qokeain.okeeor.cheedy.okai!n.chedy.chedy.teedy.lcheam",
+        "ycheo.daiin.sheeky.chokeal.sheekar.okaiin.otai!n.chear.alo.l.aiin.chotam"
+      ],
+      "context_after": [
+        "pol!laiin.okai!n.sheal.pchedai!n.opchey.polshy.okshey.opchedy.qopchais.alky",
+        "sol.chey.lkeey.rol!keey.chcthy.okeeey.lchedy.lkeai!n.checthy.qotain.aly",
+        "sai!n.cheey.qokeey.chey.tai!n.olai!n.okeeedy.chekai!n.chckhey.lchar<$>"
+      ],
+      "translation": "dai!n teeodain cheevl [moon] [or/and]",
+      "known_words": {
+        "olaiin": "moon",
+        "or": "or/and"
+      },
+      "unknown_words": [
+        "dai!n",
+        "teeodain",
+        "cheevl"
+      ],
+      "coverage": 40.0
+    },
+    {
+      "plant": "ricinus",
+      "voynich_word": "opchear",
+      "folio": "f113r",
+      "line_number": 37,
+      "full_line": "tshedy.qokaiin.shedar.sheocphy.okchdy.pcheody.opchear.opchedy.lfchedy.otal",
+      "context_before": [
+        "palshsar.lshdaiin.otshdaiin.shocfhy.qopchear.shkair.qopchdy.qoteedy.rchedy.ldy",
+        "yshs!sheeo.l.keeos.aiin.qokeees.okchedy.qotaiin.otar.okar.ackhy.rchedy.qosai!n",
+        "dcheey.sheady.shedai!n<$>"
+      ],
+      "context_after": [
+        "daiin.sheor.qoteey.daiin.okchedy.sheos.aiin<$>",
+        "pcheockhy.lkchey.qofsheeey.lkeody.kcheo!daiin.por.sheed.qopoeey.pokeey.rair.aly",
+        "tar.ar.cheey.cheokeol.chcheey.cther.aiin.ctheey.cthar.ad.shee.qotchey.taram"
+      ],
+      "translation": "tshedy [priest/cohen] shedar sheocphy okchdy pcheody **ricinus** [chest] lfchedy otal",
+      "known_words": {
+        "qokaiin": "priest/cohen",
+        "opchear": "ricinus",
+        "opchedy": "chest"
+      },
+      "unknown_words": [
+        "tshedy",
+        "shedar",
+        "sheocphy",
+        "okchdy",
+        "pcheody",
+        "lfchedy",
+        "otal"
+      ],
+      "coverage": 30.0
+    },
+    {
+      "plant": "scabiosa",
+      "voynich_word": "pair",
+      "folio": "f107r",
+      "line_number": 30,
+      "full_line": "pair.ainckhe!dy.shal.kaiin.kairy.okaral.qokaiin.opaichy.opal.rary.ky",
+      "context_before": [
+        "podar.ainsom.qokiir.ota!r.ofchedy.qofchedy.qofchol.chkaiin.chpaiin.orol",
+        "kar.aiin.chl.cholor.sheees.aiin.cheey.otchy.lkaiin.ykaiin.ykal.kal",
+        "olkeeo.lkeeo.ar.shol<$>"
+      ],
+      "context_after": [
+        "daiin.sheol.chdy.okaiin.shey.kal.shy.kl.al.kal.chdy.raiin.chaiin.yols",
+        "salxar.shy.qokaiin.okal.qockhedy.okraiin.otar.qocthy.ralky",
+        "yaiin.chekaiin.cheo.kaiin.chey.qol.kaii!n.chky.lcheel.lkar.oo.okal<$>"
+      ],
+      "translation": "**scabiosa** ainckhe!dy shal kaiin kairy okaral [priest/cohen] opaichy [skin] rary [preposition/conjunction]",
+      "known_words": {
+        "pair": "scabiosa",
+        "qokaiin": "priest/cohen",
+        "opal": "skin",
+        "ky": "preposition/conjunction"
+      },
+      "unknown_words": [
+        "ainckhe!dy",
+        "shal",
+        "kaiin",
+        "kairy",
+        "okaral",
+        "opaichy",
+        "rary"
+      ],
+      "coverage": 36.36363636363637
+    },
+    {
+      "plant": "hypericum",
+      "voynich_word": "qotoy",
+      "folio": "f114v",
+      "line_number": 18,
+      "full_line": "dorkcheky.cheo.aiin.qotaiin.otody.qokal.sheody.choy.pshedy.qoto?.shxam",
+      "context_before": [
+        "ochedaiin.chedy.okal.chaiin.qokod.qokol.cheedy.qotody.cheol.kchedy.ldy",
+        "ytchedy.qool.chey.ol.aiin.chedar.chdaiin.chdal.qokaiin.choky.chol.dam",
+        "sheoal.chos.oaiir.alchedy.chcphedy.okary<$>"
+      ],
+      "context_after": [
+        "osh?o.daiin.chotaiin.qotar<$>",
+        "tshedaiin.qotchody.qokol.shedy.qokchedy.daiin.qofchdar.chdor.chdy.dary",
+        "dair.cheeo.chy.chdaiin.qokedy.otcheo.daiin.qokchdy.otedal.daiin.aral"
+      ],
+      "translation": "dorkcheky cheo [one] [the (+ noun)] otody qokal [verb form] [verb (unknown)] pshedy qoto shxam",
+      "known_words": {
+        "aiin": "one",
+        "qotaiin": "the (+ noun)",
+        "sheody": "verb form",
+        "choy": "verb (unknown)"
+      },
+      "unknown_words": [
+        "dorkcheky",
+        "cheo",
+        "otody",
+        "qokal",
+        "pshedy",
+        "qoto",
+        "shxam"
+      ],
+      "coverage": 36.36363636363637
+    },
+    {
+      "plant": "papaver",
+      "voynich_word": "opchar",
+      "folio": "f104r",
+      "line_number": 22,
+      "full_line": "tshedar.chllo.rl.shed.kchedy.chokor.cheedy.opchar.cheor.chckhey.taiin.dam",
+      "context_before": [
+        "toaiin.chdar.otar.shd.qotar.olkchedy.cheokeey.kary.opair.otar.airod.lshd",
+        "dsheoy.qocthey.qokchdy.qokaiin.chol.rar.cheody.cheekan.ar.aiin.ar.alam",
+        "dsheedy.qokaiin.chear.olkchedy.charaiin<$>"
+      ],
+      "context_after": [
+        "ol.sheo.ckhey.chol.kechdy.ikeedal.lkaiin.chol.keeody.otchor.ai!r.chol.kar.alol",
+        "daiin.char.qotal.okechol.olkeear.olkeeo.dal.lkaiin.chal.keeedy.qokam",
+        "sar.okair.chckhey.qodaiin.chckhy.checkhd.l,raiin.otai!n.ar.airam"
+      ],
+      "translation": "tshedar chllo rl shed kchedy chokor cheedy **papaver** [hole/pierce (chor)] [verb (unknown)] [fig] [blood]",
+      "known_words": {
+        "opchar": "papaver",
+        "cheor": "hole/pierce (chor)",
+        "chckhey": "verb (unknown)",
+        "taiin": "fig",
+        "dam": "blood"
+      },
+      "unknown_words": [
+        "tshedar",
+        "chllo",
+        "rl",
+        "shed",
+        "kchedy",
+        "chokor",
+        "cheedy"
+      ],
+      "coverage": 41.66666666666667
+    },
+    {
+      "plant": "mentastrum",
+      "voynich_word": "otaiir",
+      "folio": "f113v",
+      "line_number": 2,
+      "full_line": "teoar.ai!n.qotar.ycheey.qtaiir.otaiin.okchy.lkchdy.oteol.ar.al.ar.aiin.okal.cheyor",
+      "context_before": [],
+      "context_after": [
+        "sar.aiin.chotar.okeeodar.qokai!n.olol.olam<$>",
+        "fchoctheody.keeodar.oteedy.rchedy.qokechy.otcher.oporaiin.oteody.otaiin.otl.aroshy",
+        "dcheor.otaiin.otedy.otodaiin.qokeey.rcheey.qoe!ear.oteedy.qokeedy.otedar.ar.ot.oteel.al"
+      ],
+      "translation": "teoar ai!n [the (+ noun)] ycheey qtaiir [fig] [wheat] lkchdy [all/voice] [to/for] [to the] [to/for] [one] [all/voice] cheyor",
+      "known_words": {
+        "qotar": "the (+ noun)",
+        "otaiin": "fig",
+        "okchy": "wheat",
+        "oteol": "all/voice",
+        "ar": "to/for",
+        "al": "to the",
+        "aiin": "one",
+        "okal": "all/voice"
+      },
+      "unknown_words": [
+        "teoar",
+        "ai!n",
+        "ycheey",
+        "qtaiir",
+        "lkchdy",
+        "cheyor"
+      ],
+      "coverage": 53.333333333333336
+    }
+  ],
+  "pattern_analysis": {
+    "word_frequency": {
+      "qokaiin": 3,
+      "chedy": 2,
+      "al": 2,
+      "okal": 2,
+      "aiin": 2,
+      "ar": 2,
+      "sar!aiin": 1,
+      "tey": 1,
+      "chetaiin": 1,
+      "shtshy": 1,
+      "okey": 1,
+      "qoteedy": 1,
+      "shety": 1,
+      "okeedam": 1,
+      "saiin": 1,
+      "ychear": 1,
+      "olsheey": 1,
+      "chet!ai!n": 1,
+      "qokai!n": 1,
+      "okai!n": 1,
+      "chan": 1,
+      "chey": 1,
+      "lkeeey": 1,
+      "dai!n": 1,
+      "teeodain": 1,
+      "cheevl": 1,
+      "olaiin": 1,
+      "or": 1,
+      "tshedy": 1,
+      "shedar": 1
+    },
+    "unknown_frequency": {
+      "sar!aiin": 1,
+      "chetaiin": 1,
+      "shety": 1,
+      "okeedam": 1,
+      "saiin": 1,
+      "chet!ai!n": 1,
+      "qokai!n": 1,
+      "okai!n": 1,
+      "chan": 1,
+      "lkeeey": 1,
+      "dai!n": 1,
+      "teeodain": 1,
+      "cheevl": 1,
+      "tshedy": 1,
+      "shedar": 1,
+      "sheocphy": 1,
+      "okchdy": 1,
+      "pcheody": 1,
+      "lfchedy": 1,
+      "otal": 1
+    },
+    "position_patterns": {
+      "before_plant": [
+        [
+          "chetaiin",
+          1
+        ],
+        [
+          "saiin",
+          1
+        ],
+        [
+          "pcheody",
+          1
+        ],
+        [
+          "cheedy",
+          1
+        ]
+      ],
+      "2_before_plant": [
+        [
+          "tey",
+          1
+        ],
+        [
+          "okchdy",
+          1
+        ],
+        [
+          "chokor",
+          1
+        ]
+      ],
+      "after_plant": [
+        [
+          "okey",
+          1
+        ],
+        [
+          "olsheey",
+          1
+        ],
+        [
+          "opchedy",
+          1
+        ],
+        [
+          "ainckhe!dy",
+          1
+        ],
+        [
+          "cheor",
+          1
+        ]
+      ],
+      "2_after_plant": [
+        [
+          "chedy",
+          1
+        ],
+        [
+          "chet!ai!n",
+          1
+        ],
+        [
+          "lfchedy",
+          1
+        ],
+        [
+          "shal",
+          1
+        ],
+        [
+          "chckhey",
+          1
+        ]
+      ]
+    }
+  },
+  "proposed_entries": [
+    {
+      "word": "chetaiin",
+      "proposed_meaning": "ingredient marker / 'of (the plant)'",
+      "evidence": "Appears before aconitum (shtshy) in f116r.13",
+      "confidence": "medium",
+      "context": "sar.aiin.tey.chetaiin.shtshy \u2192 barley.one.?.ingredient-marker.aconitum"
+    },
+    {
+      "word": "saiin",
+      "proposed_meaning": "seed / preparation (similar to 'semen')",
+      "evidence": "Appears before ricinus (ychear) in f111v.22, similar to 'soiin' (seed)",
+      "confidence": "medium",
+      "context": "saiin.ychear \u2192 seed.ricinus (castor oil plant is famous for seeds)"
+    },
+    {
+      "word": "tshedar",
+      "proposed_meaning": "pound/grind (preparation verb)",
+      "evidence": "Appears at start of recipe line with papaver (opchar)",
+      "confidence": "low",
+      "context": "tshedar.chllo.rl.shed.kchedy.chokor.cheedy.opchar"
+    },
+    {
+      "word": "tshedy",
+      "proposed_meaning": "pound/grind (preparation verb)",
+      "evidence": "Appears at start of recipe line with ricinus (opchear)",
+      "confidence": "low",
+      "context": "tshedy.qokaiin.shedar \u2192 prepare.priest.?"
+    },
+    {
+      "word": "shal",
+      "proposed_meaning": "part / portion (measurement)",
+      "evidence": "Appears after scabiosa in recipe context",
+      "confidence": "low",
+      "context": "pair.ainckhe!dy.shal.kaiin \u2192 scabiosa.?.portion.priest"
+    },
+    {
+      "word": "otal",
+      "proposed_meaning": "whole / complete / all",
+      "evidence": "Similar to Hebrew 'kol' (all), appears at end of recipe lines",
+      "confidence": "medium",
+      "context": "Appears in 'opchear.opchedy.lfchedy.otal'"
+    },
+    {
+      "word": "okeedam",
+      "proposed_meaning": "for remedy / medicinal use",
+      "evidence": "Ends recipe line with aconitum",
+      "confidence": "low",
+      "context": "qoteedy.qokaiin.shety.okeedam \u2192 finger.priest.?.for-remedy"
+    }
+  ],
+  "avg_coverage": 43.46590909090909
+}

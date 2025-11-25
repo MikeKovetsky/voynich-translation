@@ -1,0 +1,23 @@
+# Track 86: Syntax & Collocation Mapping
+
+## Problem
+We assume SOV word order, but our translations are "bag of words". 
+We need to find **structural anchors** in the recipes to enable real translation.
+Recipes are highly formulaic: "Take [Ingredient], Mix with [Ingredient], Boil..."
+
+## Hypothesis
+1. The **First Word** of a recipe paragraph is likely an IMPERATIVE VERB ("Take", "Mix").
+2. The word **before** an ingredient might be a PREPOSITION ("of", "with").
+3. The word **after** an ingredient might be a QUANTITY or FORM ("powder", "roots").
+
+## Tasks
+1. **Recipe Segmentation**: Identify the start of recipe entries (stars/bullets).
+2. **First-Word Analysis**: What are the most common sentence-starters in the Recipe section? (Is "Cohen" one of them?)
+3. **Collocation Scan**: 
+   - For the 8 High-Confidence ingredients (from Track 79/83), what words immediately precede/follow them?
+   - Look for patterns like `[VERB] [INGREDIENT] [QUANTITY]` or `[INGREDIENT] [ADJECTIVE]`.
+4. **Structure Definition**: Propose a formal grammar for the recipes based on these patterns.
+
+## Expected Output
+- `results/recipe_structure_analysis.json`: Common openers, collocations, and sentence structures.
+- `results/recipe_grammar_report.md`: A formal description of recipe syntax.
