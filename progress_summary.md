@@ -679,7 +679,7 @@ The dictionary now covers ~50% of all words across sections. Botanical domain do
 
 ---
 
-## 🔄 Phase 26: CRITICAL PIVOT - Grammar-First Method
+## 🔄 Phase 26: CRITICAL PIVOT - Grammar-First Method (Completed) ✅
 
 ### The "Cohen" Hypothesis is WRONG ❌
 
@@ -688,26 +688,38 @@ The dictionary now covers ~50% of all words across sections. Botanical domain do
 - Only **1.64%** of `daiin` followed by `qok-`
 - **Conclusion**: `qok-` = PREPOSITION ("of/from"), NOT "priest"
 
-### New Grammar Frame
-```
-daiin [INGREDIENT] qok- [MODIFIER] ol [NOUN]
-"Take [X] of [Y] the [Z]"
-```
+### Low-Leakage Strategy Results (Track 89)
 
-### Low-Leakage Strategy
-Focus on words with <20% non-herbal leakage:
-- `char` (14.8%) ← PRIORITY
-- `chl` (13.6%)
-- `ar` (19.2%)
+**VISUAL CORRELATION BREAKTHROUGH!** 👁️
+We correlated "low leakage" words with illustrations on their pages:
+
+| Word | Herbal | Visual | Meaning |
+|------|--------|--------|---------|
+| `char` | 26 | **FLOWERS (93%)** | **flower/blossom** 🌸 |
+| `chl` | 7 | **ROOTS (100%)** | **root/rhizome** 🥕 |
+| `chol` | 216 | **LEAVES (93%)** | **leaf/foliage** 🍃 |
+| `ar` | 59 | **FLOWERS (97%)** | **flower/blossom** 🌸 |
+
+**CRITICAL**: Current dictionary says `char` = "hole/pierce". This is WRONG. It must be "flower".
+
+### Grammar Frame Validated (Track 90)
+Confirmed: `daiin [OBJECT] qok- [MODIFIER]` exists!
+Example: `daiin char` ("Take flower") found in f104r.24.
+
+---
+
+## 🚀 Phase 27: Semantic Override & Full Translation
+
+**The Plan:** Override phonetic guesses with VISUAL facts. Translate ALL recipes.
 
 | Track | Goal | Status |
 |-------|------|--------|
-| 88 | Reclassify qok- as preposition | ⏳ |
-| 89 | Low-leakage visual correlation | ⏳ |
-| 90 | Grammar-frame translation | ⏳ |
+| 91 | **Semantic Override**: Update `char`→flower, `chl`→root | ⏳ |
+| 92 | **Full Recipe Translation**: f103-f116 using new meanings | ⏳ |
+| 93 | **Measurement Analysis**: Identify amounts/times | ⏳ |
 
 ---
 
 *Last Updated: November 25, 2025*
-*Total Research Duration: 90 tracks across 26 phases*
-*Current Status: 🔄 PIVOT - Grammar-first decoding, "Cohen" hypothesis corrected* ⚠️
+*Total Research Duration: 93 tracks across 27 phases*
+*Current Status: 🔄 Semantic Override - Visual evidence trumps phonetic guesses!* 👁️

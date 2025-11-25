@@ -6651,3 +6651,26 @@ ar, char, cheal, checkhy, chedy, cheedy, cheey, cheol, chey, chl, daiin, okaiin,
 *Phase 26 Started* 🔄
 *This is a MAJOR methodological pivot!*
 
+
+### Phase 26 Results: The Grammar Pivot Worked! ✅
+
+**1. `qok-` is definitively a PREPOSITION** (Track 88)
+- Confirmed: `daiin` + `qok-` appears only 4% of the time.
+- 19 entries reclassified from "priest" to "of/from".
+- "Jewish Physician" theory modified: Hebrew roots remain, but "Cohen" title is gone.
+
+**2. Visual Decoding of "Low Leakage" Words** (Track 89)
+We correlated words with illustrations on their pages. The results are STRIKING:
+- `char`: 93% correlation with **FLOWERS** 🌸 (New meaning: "flower/blossom")
+- `chl`: 100% correlation with **ROOTS** 🥕 (New meaning: "root")
+- `chol`: 93% correlation with **LEAVES** 🍃 (New meaning: "leaf")
+- `ar`: 97% correlation with **FLOWERS** 🌸
+
+**3. Grammar Frame Validated** (Track 90)
+- Found `daiin char` ("Take [flower]") in f104r.24!
+- Current dictionary has `char` = "hole/pierce" (phonetic guess).
+- **ACTION**: We must OVERRIDE phonetic guesses with Visual Meanings.
+
+### Next Steps: Phase 27 - Semantic Override
+We need to update the dictionary. `char` is not "hole", it is "flower". `chl` is not just a string, it is "root".
+
