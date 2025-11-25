@@ -1,0 +1,149 @@
+# Track 47: Build Complete Hybrid Dictionary
+
+## OBJECTIVE
+Consolidate ALL vocabulary findings into a master translation dictionary.
+This is the key deliverable for attempting actual translation.
+
+## INPUT FILES (REQUIRED - READ ALL)
+- `results/proto_romance_analysis.json` - Italian/Hebrew matches
+- `results/hebrew_analysis.json` - Hebrew patterns
+- `results/judeo_italian_analysis.json` - Judeo-Italian matches
+- `results/root_decoding.json` - Root mappings
+- `results/cohen_analysis.json` - Cohen pattern data
+- `data/eva_ivtff.txt` - Source text
+
+## TASKS
+
+### 1. Compile All Vocabulary Matches
+
+From each source, extract:
+- Voynich word/pattern
+- Proposed meaning
+- Source language (Italian/Hebrew/Hybrid)
+- Confidence score
+- Frequency in corpus
+
+### 2. Resolve Conflicts
+
+When same Voynich word has multiple interpretations:
+- Prefer higher confidence matches
+- Note semantic domain (botanical, medical, etc.)
+- Keep alternatives with lower priority
+
+### 3. Build Master Dictionary Structure
+
+```python
+dictionary = {
+    "otar": {
+        "meanings": [
+            {"translation": "earth/land", "language": "Italian", 
+             "source": "terra", "confidence": 0.8, "domain": "botanical"}
+        ],
+        "frequency": 745,
+        "variants": ["tar", "otor", "ytar"]
+    },
+    "dam": {
+        "meanings": [
+            {"translation": "blood", "language": "Hebrew",
+             "source": "דם", "confidence": 0.9, "domain": "medical"}
+        ],
+        "frequency": 510,
+        "variants": ["daim", "dom", "odam"]
+    }
+}
+```
+
+### 4. Categorize by Semantic Domain
+
+Group words into:
+- **Botanical**: plants, parts, processes
+- **Medical**: body parts, conditions, treatments
+- **Astronomical**: celestial bodies, time
+- **General**: common words, grammar
+
+### 5. Identify Grammar Words
+
+From high-frequency patterns, identify:
+- Articles/determiners (the, a)
+- Prepositions (of, with, in)
+- Conjunctions (and, or)
+- Verbs (is, has, take)
+
+Candidates from cohen analysis:
+- `ol` (very common before/after cohen) - could be "the" or "of"
+- `chedy`, `shedy` (common in context) - possible verb forms?
+
+### 6. Calculate Coverage
+
+- How many unique words can we now translate?
+- What % of total corpus?
+- Which sections have best coverage?
+
+## EXPECTED OUTPUT FILES
+
+### Script
+`hybrid_dict.py`
+
+### Results
+
+1. **`results/hybrid_dictionary.json`**
+```json
+{
+  "version": "1.0",
+  "total_entries": 0,
+  "entries": {
+    "otar": {
+      "primary_meaning": "earth/land",
+      "all_meanings": [...],
+      "language": "Italian",
+      "confidence": 0.8,
+      "frequency": 745,
+      "domain": "botanical",
+      "variants": ["tar", "otor"]
+    }
+  },
+  "by_domain": {
+    "botanical": [...],
+    "medical": [...],
+    "astronomical": [...],
+    "grammar": [...]
+  },
+  "coverage": {
+    "unique_words_translated": 0,
+    "total_unique_words": 0,
+    "percentage": 0.0
+  }
+}
+```
+
+2. **`results/hybrid_dictionary_report.md`**
+```markdown
+# Voynich Hybrid Dictionary v1.0
+
+## Summary
+- Total entries: X
+- Coverage: Y%
+- Domains: botanical, medical, astronomical, grammar
+
+## High-Confidence Words (>0.7)
+[Table of best matches]
+
+## Botanical Terms
+[All plant-related words]
+
+## Medical Terms
+[All medical words]
+
+## Grammar Words
+[Articles, prepositions, etc.]
+
+## Coverage by Section
+[Which sections can we translate best?]
+```
+
+## SUCCESS CRITERIA
+- [ ] All sources consolidated
+- [ ] Conflicts resolved
+- [ ] 100+ dictionary entries
+- [ ] Grammar words identified
+- [ ] Coverage calculated

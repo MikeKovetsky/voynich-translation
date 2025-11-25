@@ -1,0 +1,1013 @@
+{
+  "candidates": {
+    "otal": {
+      "frequency": 137,
+      "length": 4,
+      "position": {
+        "total": 137,
+        "line_start": 0.088,
+        "line_middle": 0.861,
+        "line_end": 0.051,
+        "second_pos": 0.051,
+        "penult_pos": 0.204
+      },
+      "context_before": [
+        "otaiin",
+        "qokaiin",
+        "daiin",
+        "qokal",
+        "qokedy"
+      ],
+      "context_after": [
+        "chedy",
+        "ol",
+        "or",
+        "dar",
+        "al"
+      ],
+      "proposed_function": "article",
+      "possible_meanings": [
+        "the",
+        "a/an"
+      ],
+      "confidence": 0.73
+    },
+    "shol": {
+      "frequency": 179,
+      "length": 4,
+      "position": {
+        "total": 179,
+        "line_start": 0.089,
+        "line_middle": 0.888,
+        "line_end": 0.022,
+        "second_pos": 0.246,
+        "penult_pos": 0.056
+      },
+      "context_before": [
+        "chol",
+        "shol",
+        "sho",
+        "shor",
+        "daiin"
+      ],
+      "context_after": [
+        "daiin",
+        "shol",
+        "chol",
+        "kol",
+        "dy"
+      ],
+      "proposed_function": "article",
+      "possible_meanings": [
+        "the",
+        "a/an"
+      ],
+      "confidence": 0.74
+    },
+    "chor": {
+      "frequency": 206,
+      "length": 4,
+      "position": {
+        "total": 206,
+        "line_start": 0.058,
+        "line_middle": 0.927,
+        "line_end": 0.015,
+        "second_pos": 0.33,
+        "penult_pos": 0.083
+      },
+      "context_before": [
+        "chor",
+        "chol",
+        "or",
+        "daiin",
+        "shor"
+      ],
+      "context_after": [
+        "chol",
+        "daiin",
+        "chor",
+        "or",
+        "chy"
+      ],
+      "proposed_function": "article",
+      "possible_meanings": [
+        "the",
+        "a/an"
+      ],
+      "confidence": 0.76
+    },
+    "chol": {
+      "frequency": 383,
+      "length": 4,
+      "position": {
+        "total": 383,
+        "line_start": 0.047,
+        "line_middle": 0.943,
+        "line_end": 0.01,
+        "second_pos": 0.23,
+        "penult_pos": 0.107
+      },
+      "context_before": [
+        "chol",
+        "chor",
+        "otol",
+        "cheol",
+        "or"
+      ],
+      "context_after": [
+        "daiin",
+        "chol",
+        "dy",
+        "ol",
+        "cthol"
+      ],
+      "proposed_function": "article",
+      "possible_meanings": [
+        "the",
+        "a/an"
+      ],
+      "confidence": 0.77
+    },
+    "shey": {
+      "frequency": 275,
+      "length": 4,
+      "position": {
+        "total": 275,
+        "line_start": 0.015,
+        "line_middle": 0.945,
+        "line_end": 0.04,
+        "second_pos": 0.276,
+        "penult_pos": 0.08
+      },
+      "context_before": [
+        "ol",
+        "daiin",
+        "dar",
+        "shedy",
+        "qokain"
+      ],
+      "context_after": [
+        "qokain",
+        "qokey",
+        "qokaiin",
+        "qokeey",
+        "qokeedy"
+      ],
+      "proposed_function": "verb_form",
+      "possible_meanings": [
+        "verb suffix"
+      ],
+      "confidence": 0.55
+    },
+    "sho": {
+      "frequency": 123,
+      "length": 3,
+      "position": {
+        "total": 123,
+        "line_start": 0.268,
+        "line_middle": 0.732,
+        "line_end": 0.0,
+        "second_pos": 0.195,
+        "penult_pos": 0.065
+      },
+      "context_before": [
+        "sho",
+        "chol",
+        "ksheody",
+        "chodaiin",
+        "daiin"
+      ],
+      "context_after": [
+        "shol",
+        "chol",
+        "cthy",
+        "ykeey",
+        "kchol"
+      ],
+      "proposed_function": "verb_marker",
+      "possible_meanings": [
+        "verb/imperative"
+      ],
+      "confidence": 0.41
+    },
+    "al": {
+      "frequency": 256,
+      "length": 2,
+      "position": {
+        "total": 256,
+        "line_start": 0.004,
+        "line_middle": 0.867,
+        "line_end": 0.129,
+        "second_pos": 0.133,
+        "penult_pos": 0.121
+      },
+      "context_before": [
+        "ar",
+        "aiin",
+        "or",
+        "dar",
+        "sar"
+      ],
+      "context_after": [
+        "ar",
+        "chedy",
+        "s",
+        "ol",
+        "al"
+      ],
+      "proposed_function": "article",
+      "possible_meanings": [
+        "the",
+        "of"
+      ],
+      "confidence": 0.65
+    },
+    "ar": {
+      "frequency": 347,
+      "length": 2,
+      "position": {
+        "total": 347,
+        "line_start": 0.014,
+        "line_middle": 0.919,
+        "line_end": 0.066,
+        "second_pos": 0.17,
+        "penult_pos": 0.147
+      },
+      "context_before": [
+        "okar",
+        "ar",
+        "s",
+        "otar",
+        "or"
+      ],
+      "context_after": [
+        "al",
+        "aiin",
+        "ar",
+        "or",
+        "ain"
+      ],
+      "proposed_function": "preposition",
+      "possible_meanings": [
+        "to",
+        "at",
+        "by"
+      ],
+      "confidence": 0.55
+    },
+    "dair": {
+      "frequency": 100,
+      "length": 4,
+      "position": {
+        "total": 100,
+        "line_start": 0.3,
+        "line_middle": 0.66,
+        "line_end": 0.04,
+        "second_pos": 0.08,
+        "penult_pos": 0.14
+      },
+      "context_before": [
+        "chdy",
+        "cheey",
+        "qokeeey",
+        "ol",
+        "dal"
+      ],
+      "context_after": [
+        "al",
+        "or",
+        "chody",
+        "chey",
+        "ol"
+      ],
+      "proposed_function": "verb_marker",
+      "possible_meanings": [
+        "verb/imperative"
+      ],
+      "confidence": 0.42
+    },
+    "ol": {
+      "frequency": 530,
+      "length": 2,
+      "position": {
+        "total": 530,
+        "line_start": 0.055,
+        "line_middle": 0.887,
+        "line_end": 0.058,
+        "second_pos": 0.164,
+        "penult_pos": 0.113
+      },
+      "context_before": [
+        "qokain",
+        "or",
+        "qokaiin",
+        "aiin",
+        "ol"
+      ],
+      "context_after": [
+        "chedy",
+        "shedy",
+        "aiin",
+        "daiin",
+        "shey"
+      ],
+      "proposed_function": "article",
+      "possible_meanings": [
+        "the",
+        "of"
+      ],
+      "confidence": 0.65
+    },
+    "chey": {
+      "frequency": 343,
+      "length": 4,
+      "position": {
+        "total": 343,
+        "line_start": 0.015,
+        "line_middle": 0.939,
+        "line_end": 0.047,
+        "second_pos": 0.213,
+        "penult_pos": 0.067
+      },
+      "context_before": [
+        "daiin",
+        "aiin",
+        "dain",
+        "ol",
+        "okain"
+      ],
+      "context_after": [
+        "qol",
+        "qokeedy",
+        "daiin",
+        "qokeey",
+        "qokaiin"
+      ],
+      "proposed_function": "verb_form",
+      "possible_meanings": [
+        "verb suffix"
+      ],
+      "confidence": 0.55
+    },
+    "dy": {
+      "frequency": 265,
+      "length": 2,
+      "position": {
+        "total": 265,
+        "line_start": 0.008,
+        "line_middle": 0.679,
+        "line_end": 0.313,
+        "second_pos": 0.057,
+        "penult_pos": 0.166
+      },
+      "context_before": [
+        "dal",
+        "chol",
+        "dy",
+        "daiin",
+        "chedy"
+      ],
+      "context_after": [
+        "plant",
+        "figure",
+        "daiin",
+        "dy",
+        "shey"
+      ],
+      "proposed_function": "verb_form",
+      "possible_meanings": [
+        "-ed/-ing verb"
+      ],
+      "confidence": 0.5
+    },
+    "okar": {
+      "frequency": 126,
+      "length": 4,
+      "position": {
+        "total": 126,
+        "line_start": 0.079,
+        "line_middle": 0.873,
+        "line_end": 0.048,
+        "second_pos": 0.119,
+        "penult_pos": 0.087
+      },
+      "context_before": [
+        "qokar",
+        "daiin",
+        "chedy",
+        "qokedy",
+        "qokaiin"
+      ],
+      "context_after": [
+        "ar",
+        "ol",
+        "shedy",
+        "okedy",
+        "chdy"
+      ],
+      "proposed_function": "article",
+      "possible_meanings": [
+        "the",
+        "a/an"
+      ],
+      "confidence": 0.74
+    },
+    "dal": {
+      "frequency": 247,
+      "length": 3,
+      "position": {
+        "total": 247,
+        "line_start": 0.04,
+        "line_middle": 0.814,
+        "line_end": 0.146,
+        "second_pos": 0.069,
+        "penult_pos": 0.206
+      },
+      "context_before": [
+        "daiin",
+        "qokedy",
+        "chey",
+        "qokal",
+        "shedy"
+      ],
+      "context_after": [
+        "plant",
+        "shedy",
+        "dy",
+        "daiin",
+        "s"
+      ],
+      "proposed_function": "article",
+      "possible_meanings": [
+        "the",
+        "a/an"
+      ],
+      "confidence": 0.71
+    },
+    "dol": {
+      "frequency": 113,
+      "length": 3,
+      "position": {
+        "total": 113,
+        "line_start": 0.142,
+        "line_middle": 0.832,
+        "line_end": 0.027,
+        "second_pos": 0.062,
+        "penult_pos": 0.124
+      },
+      "context_before": [
+        "chol",
+        "ol",
+        "daiin",
+        "qokal",
+        "qokeey"
+      ],
+      "context_after": [
+        "ol",
+        "shedy",
+        "sheey",
+        "or",
+        "dar"
+      ],
+      "proposed_function": "preposition",
+      "possible_meanings": [
+        "of",
+        "to",
+        "in",
+        "from"
+      ],
+      "confidence": 0.5
+    },
+    "okal": {
+      "frequency": 136,
+      "length": 4,
+      "position": {
+        "total": 136,
+        "line_start": 0.059,
+        "line_middle": 0.875,
+        "line_end": 0.066,
+        "second_pos": 0.066,
+        "penult_pos": 0.162
+      },
+      "context_before": [
+        "aiin",
+        "qokaiin",
+        "okaiin",
+        "qokain",
+        "chey"
+      ],
+      "context_after": [
+        "chedy",
+        "plant",
+        "chol",
+        "chey",
+        "dy"
+      ],
+      "proposed_function": "article",
+      "possible_meanings": [
+        "the",
+        "a/an"
+      ],
+      "confidence": 0.74
+    },
+    "or": {
+      "frequency": 356,
+      "length": 2,
+      "position": {
+        "total": 356,
+        "line_start": 0.087,
+        "line_middle": 0.874,
+        "line_end": 0.039,
+        "second_pos": 0.163,
+        "penult_pos": 0.104
+      },
+      "context_before": [
+        "daiin",
+        "ar",
+        "aiin",
+        "ol",
+        "dal"
+      ],
+      "context_after": [
+        "aiin",
+        "ol",
+        "ar",
+        "cheey",
+        "aiiin"
+      ],
+      "proposed_function": "preposition",
+      "possible_meanings": [
+        "to",
+        "at",
+        "by"
+      ],
+      "confidence": 0.55
+    },
+    "aiin": {
+      "frequency": 464,
+      "length": 4,
+      "position": {
+        "total": 464,
+        "line_start": 0.0,
+        "line_middle": 0.946,
+        "line_end": 0.054,
+        "second_pos": 0.164,
+        "penult_pos": 0.188
+      },
+      "context_before": [
+        "or",
+        "s",
+        "ar",
+        "ol",
+        "r"
+      ],
+      "context_after": [
+        "al",
+        "ol",
+        "chey",
+        "okal",
+        "okaiin"
+      ],
+      "proposed_function": "verb_copula",
+      "possible_meanings": [
+        "is/are",
+        "to be"
+      ],
+      "confidence": 0.6
+    },
+    "dar": {
+      "frequency": 304,
+      "length": 3,
+      "position": {
+        "total": 304,
+        "line_start": 0.118,
+        "line_middle": 0.763,
+        "line_end": 0.118,
+        "second_pos": 0.089,
+        "penult_pos": 0.125
+      },
+      "context_before": [
+        "daiin",
+        "qokal",
+        "dal",
+        "oteey",
+        "dar"
+      ],
+      "context_after": [
+        "ol",
+        "ar",
+        "aiin",
+        "al",
+        "plant"
+      ],
+      "proposed_function": "preposition",
+      "possible_meanings": [
+        "of",
+        "to",
+        "in",
+        "from"
+      ],
+      "confidence": 0.5
+    },
+    "chy": {
+      "frequency": 144,
+      "length": 3,
+      "position": {
+        "total": 144,
+        "line_start": 0.014,
+        "line_middle": 0.924,
+        "line_end": 0.062,
+        "second_pos": 0.153,
+        "penult_pos": 0.076
+      },
+      "context_before": [
+        "chol",
+        "daiin",
+        "chor",
+        "ol",
+        "s"
+      ],
+      "context_after": [
+        "kchy",
+        "daiin",
+        "s",
+        "cthy",
+        "chaiin"
+      ],
+      "proposed_function": "verb_form",
+      "possible_meanings": [
+        "verb suffix"
+      ],
+      "confidence": 0.55
+    },
+    "qoky": {
+      "frequency": 145,
+      "length": 4,
+      "position": {
+        "total": 145,
+        "line_start": 0.034,
+        "line_middle": 0.828,
+        "line_end": 0.138,
+        "second_pos": 0.048,
+        "penult_pos": 0.152
+      },
+      "context_before": [
+        "shedy",
+        "okedy",
+        "chey",
+        "qokeedy",
+        "qokedy"
+      ],
+      "context_after": [
+        "daiin",
+        "chedy",
+        "figure",
+        "shedy",
+        "plant"
+      ],
+      "proposed_function": "verb_form",
+      "possible_meanings": [
+        "-ed/-ing verb"
+      ],
+      "confidence": 0.71
+    },
+    "cthy": {
+      "frequency": 108,
+      "length": 4,
+      "position": {
+        "total": 108,
+        "line_start": 0.0,
+        "line_middle": 0.898,
+        "line_end": 0.102,
+        "second_pos": 0.139,
+        "penult_pos": 0.269
+      },
+      "context_before": [
+        "daiin",
+        "chol",
+        "chy",
+        "sho",
+        "chor"
+      ],
+      "context_after": [
+        "plant",
+        "daiin",
+        "s",
+        "dy",
+        "chor"
+      ],
+      "proposed_function": "verb_form",
+      "possible_meanings": [
+        "-ed/-ing verb"
+      ],
+      "confidence": 0.75
+    },
+    "dain": {
+      "frequency": 198,
+      "length": 4,
+      "position": {
+        "total": 198,
+        "line_start": 0.237,
+        "line_middle": 0.657,
+        "line_end": 0.106,
+        "second_pos": 0.066,
+        "penult_pos": 0.121
+      },
+      "context_before": [
+        "daiin",
+        "ol",
+        "chol",
+        "cheo",
+        "chey"
+      ],
+      "context_after": [
+        "chey",
+        "plant",
+        "chedy",
+        "ol",
+        "daiin"
+      ],
+      "proposed_function": "verb_copula",
+      "possible_meanings": [
+        "is/are",
+        "to be"
+      ],
+      "confidence": 0.6
+    },
+    "qol": {
+      "frequency": 150,
+      "length": 3,
+      "position": {
+        "total": 150,
+        "line_start": 0.107,
+        "line_middle": 0.847,
+        "line_end": 0.047,
+        "second_pos": 0.133,
+        "penult_pos": 0.053
+      },
+      "context_before": [
+        "chedy",
+        "shedy",
+        "chey",
+        "cheey",
+        "sheedy"
+      ],
+      "context_after": [
+        "chedy",
+        "shedy",
+        "sheedy",
+        "cheey",
+        "chey"
+      ],
+      "proposed_function": "preposition",
+      "possible_meanings": [
+        "of",
+        "to",
+        "in",
+        "from"
+      ],
+      "confidence": 0.5
+    },
+    "oty": {
+      "frequency": 113,
+      "length": 3,
+      "position": {
+        "total": 113,
+        "line_start": 0.044,
+        "line_middle": 0.779,
+        "line_end": 0.177,
+        "second_pos": 0.044,
+        "penult_pos": 0.212
+      },
+      "context_before": [
+        "dar",
+        "qokal",
+        "otol",
+        "oiin",
+        "aiin"
+      ],
+      "context_after": [
+        "plant",
+        "dy",
+        "or",
+        "shor",
+        "daiin"
+      ],
+      "proposed_function": "verb_form",
+      "possible_meanings": [
+        "-ed/-ing verb"
+      ],
+      "confidence": 0.5
+    },
+    "otar": {
+      "frequency": 138,
+      "length": 4,
+      "position": {
+        "total": 138,
+        "line_start": 0.036,
+        "line_middle": 0.928,
+        "line_end": 0.036,
+        "second_pos": 0.051,
+        "penult_pos": 0.159
+      },
+      "context_before": [
+        "aiin",
+        "qokain",
+        "otaiin",
+        "ar",
+        "chedy"
+      ],
+      "context_after": [
+        "ar",
+        "ol",
+        "aiin",
+        "chedy",
+        "otedy"
+      ],
+      "proposed_function": "article",
+      "possible_meanings": [
+        "the",
+        "a/an"
+      ],
+      "confidence": 0.76
+    },
+    "chdy": {
+      "frequency": 151,
+      "length": 4,
+      "position": {
+        "total": 151,
+        "line_start": 0.013,
+        "line_middle": 0.868,
+        "line_end": 0.119,
+        "second_pos": 0.079,
+        "penult_pos": 0.099
+      },
+      "context_before": [
+        "ol",
+        "chdy",
+        "daiin",
+        "okar",
+        "qokaiin"
+      ],
+      "context_after": [
+        "qokaiin",
+        "chdy",
+        "lchedy",
+        "dair",
+        "qokar"
+      ],
+      "proposed_function": "verb_form",
+      "possible_meanings": [
+        "verb suffix"
+      ],
+      "confidence": 0.55
+    }
+  },
+  "grammar_categories": {
+    "uncertain": [
+      "otal",
+      "shol",
+      "chor",
+      "chol",
+      "shey",
+      "sho",
+      "al",
+      "ar",
+      "dair",
+      "ol",
+      "chey",
+      "dy",
+      "okar",
+      "dal",
+      "dol",
+      "okal",
+      "or",
+      "aiin",
+      "dar",
+      "chy",
+      "qoky",
+      "cthy",
+      "dain",
+      "qol",
+      "oty",
+      "otar",
+      "chdy"
+    ]
+  },
+  "test_sentences": [
+    {
+      "folio": "f100r",
+      "voynich": "dcheor shol qokeeol chor chol qokeeody dorean",
+      "with_grammar": "dcheor [SUBJ] qokeeol [SUBJ] [SUBJ] qokeeody dorean",
+      "grammar_words_found": 3,
+      "coherence": 0.43
+    },
+    {
+      "folio": "f103v",
+      "voynich": "daiin chey lkeey chalkar cheeey lchealaiin or",
+      "with_grammar": "[is] [-ed] lkeey chalkar cheeey lchealaiin [for/by]",
+      "grammar_words_found": 3,
+      "coherence": 0.43
+    },
+    {
+      "folio": "f103r",
+      "voynich": "daiin sheckhy lchedy chckhy shol",
+      "with_grammar": "[is] sheckhy lchedy chckhy [SUBJ]",
+      "grammar_words_found": 2,
+      "coherence": 0.4
+    },
+    {
+      "folio": "f102r2",
+      "voynich": "tor sheo or chey qoos yteor chol choky",
+      "with_grammar": "tor sheo [for/by] [-ed] qoos yteor [SUBJ] choky",
+      "grammar_words_found": 3,
+      "coherence": 0.38
+    },
+    {
+      "folio": "f103r",
+      "voynich": "ychain shckhy qokaiin shey qokain shedy olor",
+      "with_grammar": "ychain shckhy qokaiin [-ed] qokain [VB-ed] olor",
+      "grammar_words_found": 2,
+      "coherence": 0.29
+    },
+    {
+      "folio": "f103r",
+      "voynich": "oteedy okeey qotchy shey olcheedar shey lotos",
+      "with_grammar": "oteedy okeey qotchy [-ed] olcheedar [-ed] lotos",
+      "grammar_words_found": 2,
+      "coherence": 0.29
+    },
+    {
+      "folio": "f102r1",
+      "voynich": "daiin ykeeol oldy okodaiin",
+      "with_grammar": "[is] ykeeol oldy okodaiin",
+      "grammar_words_found": 1,
+      "coherence": 0.25
+    },
+    {
+      "folio": "f102r2",
+      "voynich": "daiin ckheeol ol dor okol cheodor sor airam",
+      "with_grammar": "[is] ckheeol [the/of] dor okol cheodor sor airam",
+      "grammar_words_found": 2,
+      "coherence": 0.25
+    },
+    {
+      "folio": "f102v2",
+      "voynich": "ocheos chy okeor okeol okeol shy o plant",
+      "with_grammar": "ocheos [VB] okeor okeol okeol [VB] o plant",
+      "grammar_words_found": 2,
+      "coherence": 0.25
+    },
+    {
+      "folio": "f103r",
+      "voynich": "saiin chekeey shey cheosaiin",
+      "with_grammar": "saiin chekeey [-ed] cheosaiin",
+      "grammar_words_found": 1,
+      "coherence": 0.25
+    }
+  ],
+  "language_comparisons": {
+    "al": {
+      "italian_match": "al(la)",
+      "hebrew_match": "el (\u05d0\u05dc) = to/god",
+      "latin_match": null,
+      "best_theory": "Italian definite article"
+    },
+    "ar": {
+      "italian_match": null,
+      "hebrew_match": null,
+      "latin_match": "ad",
+      "best_theory": "Latin-style preposition"
+    },
+    "ol": {
+      "italian_match": "il/lo/la",
+      "hebrew_match": "el (\u05d0\u05dc) = to/god",
+      "latin_match": null,
+      "best_theory": "Italian definite article"
+    },
+    "or": {
+      "italian_match": null,
+      "hebrew_match": "or (\u05d0\u05d5\u05e8) = light",
+      "latin_match": null,
+      "best_theory": "Latin-style preposition"
+    },
+    "aiin": {
+      "italian_match": null,
+      "hebrew_match": "ain (\u05d0\u05d9\u05df) = not/nothing, or ayin (\u05e2\u05d9\u05df) = eye",
+      "latin_match": null,
+      "best_theory": "Hebrew grammatical particle or copula"
+    },
+    "dain": {
+      "italian_match": null,
+      "hebrew_match": "ain (\u05d0\u05d9\u05df) = not/nothing, or ayin (\u05e2\u05d9\u05df) = eye",
+      "latin_match": null,
+      "best_theory": "Hebrew grammatical particle or copula"
+    }
+  },
+  "statistics": {
+    "total_candidates": 27,
+    "total_lines": 5207,
+    "total_words": 38781,
+    "unique_words": 8637
+  }
+}

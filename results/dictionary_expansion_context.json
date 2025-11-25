@@ -1,0 +1,2206 @@
+{
+  "patterns_analyzed": 2741,
+  "words_inferred": 120,
+  "entries": {
+    "chory": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=27%",
+        "follows_noun",
+        "ch- prefix"
+      ],
+      "examples": [
+        "skaiiodar otaiin chory plant",
+        "chor qokchol chory plant"
+      ],
+      "frequency": 11
+    },
+    "chary": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=67%",
+        "follows_noun",
+        "ch- prefix"
+      ],
+      "examples": [
+        "shealy daiin chary",
+        "shy plantshod chary"
+      ],
+      "frequency": 6
+    },
+    "oky": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (3 chars)",
+        "freq=96",
+        "connects knowns"
+      ],
+      "examples": [
+        "ycheey okay oky daiin okchey",
+        "chor chol oky damo plant"
+      ],
+      "frequency": 96
+    },
+    "qoty": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=15%",
+        "follows_noun"
+      ],
+      "examples": [
+        "qotcho loeees qoty plantchor daiin",
+        "qopol opchol qoty plantotolom"
+      ],
+      "frequency": 85
+    },
+    "oly": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (3 chars)",
+        "freq=58",
+        "connects knowns"
+      ],
+      "examples": [
+        "ckhol ykoaiin oly plant",
+        "otchor qokchor oly plantokor shy"
+      ],
+      "frequency": 58
+    },
+    "shody": {
+      "meaning": "verb",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -dy",
+        "line_end=15%",
+        "follows_noun"
+      ],
+      "examples": [
+        "yshey shody okchoy otchol",
+        "shos cfhol shody"
+      ],
+      "frequency": 52
+    },
+    "ody": {
+      "meaning": "verb",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -dy",
+        "line_end=22%",
+        "follows_noun"
+      ],
+      "examples": [
+        "shar char ody plant",
+        "chtchor doiir ody"
+      ],
+      "frequency": 46
+    },
+    "aly": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=41%",
+        "follows_noun"
+      ],
+      "examples": [
+        "ordy chees aly okalcheg",
+        "ckhcfhhy or aly shody"
+      ],
+      "frequency": 29
+    },
+    "ary": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=84%",
+        "follows_noun"
+      ],
+      "examples": [
+        "cheokar okor ary",
+        "chetan plants ary plantokol chetaiin"
+      ],
+      "frequency": 25
+    },
+    "dary": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=45%",
+        "follows_noun"
+      ],
+      "examples": [
+        "tor chyty dary plantytoldy plant",
+        "cthold plantytchor dary"
+      ],
+      "frequency": 22
+    },
+    "olky": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=23%",
+        "follows_noun"
+      ],
+      "examples": [
+        "qoty kchdy olky dor chdy",
+        "aiin olkaiin olky dar ald"
+      ],
+      "frequency": 22
+    },
+    "opchdy": {
+      "meaning": "verb",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -dy",
+        "line_end=21%",
+        "follows_noun"
+      ],
+      "examples": [
+        "otey kshdy opchdy kedar okedy",
+        "yfchdy qockhhdy opchdy daiin qokedy"
+      ],
+      "frequency": 19
+    },
+    "otaly": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=26%",
+        "follows_noun"
+      ],
+      "examples": [
+        "chofchol sholy otaly dal",
+        "choty otchy otaly shoty"
+      ],
+      "frequency": 19
+    },
+    "daldy": {
+      "meaning": "verb",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -dy",
+        "line_end=41%",
+        "follows_noun"
+      ],
+      "examples": [
+        "ykoly plantokchal daldy",
+        "daiin plantdais daldy"
+      ],
+      "frequency": 17
+    },
+    "opchy": {
+      "meaning": "verb (imperative?)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=21%",
+        "follows_noun"
+      ],
+      "examples": [
+        "torshor opchy shol dy",
+        "qopchey sykaiin opchy dor ychy"
+      ],
+      "frequency": 14
+    },
+    "ockhy": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=31%",
+        "follows_noun"
+      ],
+      "examples": [
+        "okor choor ockhy plant",
+        "plantokar cheodal ockhy"
+      ],
+      "frequency": 13
+    },
+    "olkey": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=25%",
+        "follows_noun"
+      ],
+      "examples": [
+        "okeedy chedal olkey cheky choal",
+        "ol oloin olkey olshed qokaly"
+      ],
+      "frequency": 12
+    },
+    "otshedy": {
+      "meaning": "verb (past/perfective)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -dy",
+        "line_end=17%",
+        "follows_noun"
+      ],
+      "examples": [
+        "otaiin otshedy chokeedy otes",
+        "ofas al otshedy ofalar alshdy"
+      ],
+      "frequency": 12
+    },
+    "arody": {
+      "meaning": "verb",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -dy",
+        "line_end=50%",
+        "follows_noun"
+      ],
+      "examples": [
+        "chs aiin arody",
+        "chor ar arody qokchdy chdal"
+      ],
+      "frequency": 12
+    },
+    "sholdy": {
+      "meaning": "verb",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -dy",
+        "line_end=38%",
+        "follows_noun"
+      ],
+      "examples": [
+        "cthres kor sholdy",
+        "shaiin cthy sholdy doldy doldaiin"
+      ],
+      "frequency": 8
+    },
+    "cfhy": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=17%",
+        "follows_noun"
+      ],
+      "examples": [
+        "oqotar otor cfhy cthor osain",
+        "tshol schoal cfhy shfydaiin cphy"
+      ],
+      "frequency": 6
+    },
+    "oy": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=17%",
+        "follows_noun"
+      ],
+      "examples": [
+        "oy choy koaiin",
+        "qokeol sol oy ykeoees yty"
+      ],
+      "frequency": 6
+    },
+    "ykaly": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=17%",
+        "follows_noun"
+      ],
+      "examples": [
+        "tshaly alols ykaly kar aram",
+        "otaiin ykaiin ykaly dam"
+      ],
+      "frequency": 6
+    },
+    "shckhedy": {
+      "meaning": "verb (past/perfective)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -dy",
+        "line_end=33%",
+        "follows_noun"
+      ],
+      "examples": [
+        "saiin otaiin shckhedy",
+        "qoteedy otey shckhedy sokol or"
+      ],
+      "frequency": 6
+    },
+    "ochy": {
+      "meaning": "verb (imperative?)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=20%",
+        "follows_noun"
+      ],
+      "examples": [
+        "char or ochy plantdcho lkody",
+        "ochy cthar cthar"
+      ],
+      "frequency": 5
+    },
+    "chetey": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=20%",
+        "follows_noun"
+      ],
+      "examples": [
+        "oteol chekey chetey oll plantchesy",
+        "yteody chetey"
+      ],
+      "frequency": 5
+    },
+    "aithy": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=20%",
+        "follows_noun"
+      ],
+      "examples": [
+        "chedy dalor aithy plant",
+        "qody shar aithy qokchey kchey"
+      ],
+      "frequency": 5
+    },
+    "choy": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=15%",
+        "ch- prefix"
+      ],
+      "examples": [
+        "odol choy ksheody chody",
+        "ykchy dy choy qoty chy"
+      ],
+      "frequency": 13
+    },
+    "chty": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=18%",
+        "ch- prefix"
+      ],
+      "examples": [
+        "keol chy chty plantdaiin otchor",
+        "cthoor char chty os chair"
+      ],
+      "frequency": 11
+    },
+    "chyky": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=17%",
+        "ch- prefix"
+      ],
+      "examples": [
+        "plantsaiin chety chyky sal",
+        "ytor qotol chyky plantchodar aiin"
+      ],
+      "frequency": 6
+    },
+    "chocthey": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=17%",
+        "ch- prefix"
+      ],
+      "examples": [
+        "tchody shocthol chocthey plant",
+        "cthscthain shosaiin chocthey sho chepchy"
+      ],
+      "frequency": 6
+    },
+    "chokey": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=17%",
+        "ch- prefix"
+      ],
+      "examples": [
+        "chokey chol okey",
+        "sh okeodaiin chokey"
+      ],
+      "frequency": 6
+    },
+    "cholody": {
+      "meaning": "verb",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -dy",
+        "line_end=40%",
+        "ch- prefix"
+      ],
+      "examples": [
+        "qotshey dchaiin cholody",
+        "sho tchos cholody dain plantchcth"
+      ],
+      "frequency": 5
+    },
+    "chckhy": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=93%",
+        "-y ending"
+      ],
+      "examples": [
+        "daiin chckhy chor chor",
+        "oees chor chckhy qoekchar cheas"
+      ],
+      "frequency": 138
+    },
+    "chody": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'dal'",
+        "middle_pos=90%"
+      ],
+      "examples": [
+        "lkody okodar chody",
+        "plantchol cthol chody chol daiin"
+      ],
+      "frequency": 93
+    },
+    "chcthy": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "follows_noun",
+        "ch- prefix"
+      ],
+      "examples": [
+        "chey daiin chcthy",
+        "qooko iiincheom chcthy shoky daiin"
+      ],
+      "frequency": 78
+    },
+    "olchedy": {
+      "meaning": "ingredient/preservation",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'dal'",
+        "middle_pos=84%"
+      ],
+      "examples": [
+        "oloy plantykeedy olchedy gal planty",
+        "otal kol olchedy"
+      ],
+      "frequency": 37
+    },
+    "choty": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "follows_noun",
+        "ch- prefix"
+      ],
+      "examples": [
+        "chol chok choty chotey",
+        "okchey deeeese choty qokchy plantshol"
+      ],
+      "frequency": 36
+    },
+    "chos": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "line_end=17%",
+        "follows_noun",
+        "ch- prefix"
+      ],
+      "examples": [
+        "octhain qokaiin chos plantodaiin cthl",
+        "daiiin chees chos ctey dan"
+      ],
+      "frequency": 36
+    },
+    "sy": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=47%"
+      ],
+      "examples": [
+        "qody cheal sy plantchory plantchear",
+        "qotchy koiin sy plantshoty dy"
+      ],
+      "frequency": 30
+    },
+    "chckhey": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "follows_noun",
+        "ch- prefix"
+      ],
+      "examples": [
+        "choy koaiin chckhey ol chor",
+        "okchdy otar chckhey or"
+      ],
+      "frequency": 30
+    },
+    "daly": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=38%"
+      ],
+      "examples": [
+        "ar aiiin daly",
+        "shekchy cheky daly"
+      ],
+      "frequency": 29
+    },
+    "oldy": {
+      "meaning": "verb",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -dy",
+        "line_end=39%"
+      ],
+      "examples": [
+        "dy qokhy oldy plantokchor doaiin",
+        "oldy shey chol"
+      ],
+      "frequency": 28
+    },
+    "ldy": {
+      "meaning": "verb",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -dy",
+        "line_end=56%"
+      ],
+      "examples": [
+        "plantotchol chyqo ldy",
+        "ykeedy chedy ldy plant"
+      ],
+      "frequency": 25
+    },
+    "okaly": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=18%"
+      ],
+      "examples": [
+        "oor okeedy okaly plant",
+        "shekey okedy okaly plantdaiin okedy"
+      ],
+      "frequency": 22
+    },
+    "chockhy": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "follows_noun",
+        "ch- prefix"
+      ],
+      "examples": [
+        "chockhy os chy",
+        "doiiin chockhy dar cheockhy"
+      ],
+      "frequency": 21
+    },
+    "cham": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "line_end=45%",
+        "follows_noun",
+        "ch- prefix"
+      ],
+      "examples": [
+        "dam qotcham cham plant",
+        "chor chal cham cham cho"
+      ],
+      "frequency": 20
+    },
+    "yky": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=28%"
+      ],
+      "examples": [
+        "so plantchol yky dain daiirol",
+        "plantotchy plantcthod yky plant"
+      ],
+      "frequency": 18
+    },
+    "cthody": {
+      "meaning": "verb",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -dy",
+        "line_end=17%"
+      ],
+      "examples": [
+        "chy otchy cthody",
+        "odaiir qotchy cthody chodchy"
+      ],
+      "frequency": 18
+    },
+    "qokaly": {
+      "meaning": "verb (unknown)",
+      "category": "verb",
+      "confidence": 0.6,
+      "evidence_type": "positional_suffix",
+      "evidence": [
+        "suffix -y",
+        "line_end=17%"
+      ],
+      "examples": [
+        "okaiin shedy qokaly chdy oty",
+        "cheor oekeody qokaly qokar dy"
+      ],
+      "frequency": 18
+    },
+    "shy": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (3 chars)",
+        "mid_pos=87%",
+        "freq=97",
+        "connects knowns"
+      ],
+      "examples": [
+        "ckho ckhy shy plantdksheey cthy",
+        "kchor shy daiiin chckhoy"
+      ],
+      "frequency": 97
+    },
+    "qokedy": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'al'",
+        "before 'otar'",
+        "middle_pos=90%"
+      ],
+      "examples": [
+        "qokedy cheos ytedy",
+        "cheos ytedy qokedy plantytedy chekedy"
+      ],
+      "frequency": 268
+    },
+    "qokar": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "before 'okar'",
+        "middle_pos=93%"
+      ],
+      "examples": [
+        "chol dchy qokar chl plantaiin",
+        "ytchedy qokar cheky okaldy"
+      ],
+      "frequency": 150
+    },
+    "cheey": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=95%",
+        "-y ending"
+      ],
+      "examples": [
+        "ty dor cheey ol cheol",
+        "dchodaiin qotchy cheey tcheey"
+      ],
+      "frequency": 174
+    },
+    "sheey": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=95%",
+        "-y ending"
+      ],
+      "examples": [
+        "dlssho kol sheey qokey ykody",
+        "dan plantolsaiin sheey ckhor"
+      ],
+      "frequency": 143
+    },
+    "oteey": {
+      "meaning": "botanical/earth term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'al'",
+        "middle_pos=85%",
+        "-y ending"
+      ],
+      "examples": [
+        "oo'oiin oteey oteos roloty",
+        "qotolcheo arar oteey dkarar als"
+      ],
+      "frequency": 134
+    },
+    "qokey": {
+      "meaning": "ingredient/preservation",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "before 'okar'",
+        "middle_pos=88%",
+        "-y ending"
+      ],
+      "examples": [
+        "kol sheey qokey ykody so",
+        "qokey chor char"
+      ],
+      "frequency": 104
+    },
+    "shckhy": {
+      "meaning": "adjective/modifier",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'dol'",
+        "middle_pos=98%",
+        "-y ending"
+      ],
+      "examples": [
+        "shckhy ytchoy sos",
+        "daiiol daiin shckhy plantorchaiin"
+      ],
+      "frequency": 57
+    },
+    "checkhy": {
+      "meaning": "ingredient/preservation",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=98%",
+        "-y ending"
+      ],
+      "examples": [
+        "daiin chor checkhy qotchod daiin",
+        "chol keeol checkhy okeol okal"
+      ],
+      "frequency": 46
+    },
+    "keey": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "mid_pos=98%",
+        "connects knowns"
+      ],
+      "examples": [
+        "cthy okchey keey keey dal",
+        "okchey keey keey dal chtor"
+      ],
+      "frequency": 45
+    },
+    "checthy": {
+      "meaning": "ingredient/preservation",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'dol'",
+        "middle_pos=93%",
+        "-y ending"
+      ],
+      "examples": [
+        "chol choiin checthy otol chol",
+        "qokeody cheol checthy plant"
+      ],
+      "frequency": 28
+    },
+    "ky": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (2 chars)",
+        "mid_pos=88%",
+        "connects knowns"
+      ],
+      "examples": [
+        "kechy chol ky plantchol cthol",
+        "chol dol ky dar plantshol"
+      ],
+      "frequency": 25
+    },
+    "cheeky": {
+      "meaning": "adjective/modifier",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=96%",
+        "-y ending"
+      ],
+      "examples": [
+        "cheain char cheeky chor ry",
+        "ychor cthy cheeky cheo otor"
+      ],
+      "frequency": 24
+    },
+    "tey": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (3 chars)",
+        "mid_pos=100%",
+        "connects knowns"
+      ],
+      "examples": [
+        "cheeody qotchey tey plantokchor daiin",
+        "daiin sheoy tey plantsoaiin plant"
+      ],
+      "frequency": 11
+    },
+    "olsheey": {
+      "meaning": "adjective/modifier",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=100%",
+        "-y ending"
+      ],
+      "examples": [
+        "fodan plantyksh olsheey daiildy",
+        "okeody cheockhy olsheey qoekaiin octhey"
+      ],
+      "frequency": 7
+    },
+    "otedy": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "before 'otar'",
+        "middle_pos=91%"
+      ],
+      "examples": [
+        "chekedy qokedy otedy sar etedy",
+        "cheeol ofchdy otedy ckhdy odar"
+      ],
+      "frequency": 154
+    },
+    "lchedy": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=82%"
+      ],
+      "examples": [
+        "lchedy shedy qokaiin",
+        "tair sheedy lchedy ckhchdy plantokchy"
+      ],
+      "frequency": 119
+    },
+    "okedy": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=90%"
+      ],
+      "examples": [
+        "shy geedy okedy chckhy plantdy",
+        "tol shso okedy okedy qokedy"
+      ],
+      "frequency": 118
+    },
+    "sheol": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=91%"
+      ],
+      "examples": [
+        "shol sols sheol shey",
+        "kodalchy chpady sheol ol sheey"
+      ],
+      "frequency": 112
+    },
+    "okeedy": {
+      "meaning": "botanical/earth term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=89%"
+      ],
+      "examples": [
+        "plantdy plantykeechy okeedy cheky",
+        "dsho kchrrr okeedy plantdchschy plantsotchdy"
+      ],
+      "frequency": 105
+    },
+    "oteedy": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=92%"
+      ],
+      "examples": [
+        "sheedy otedy oteedy qotolcheo arar",
+        "pdaiin oteedy opchedy chap"
+      ],
+      "frequency": 99
+    },
+    "ain": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (3 chars)",
+        "mid_pos=87%",
+        "freq=91",
+        "connects knowns"
+      ],
+      "examples": [
+        "chear dsheor ain mol plant",
+        "chypchey ypchedy ain plantchofochcphdy"
+      ],
+      "frequency": 91
+    },
+    "cheody": {
+      "meaning": "botanical/earth term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'dal'",
+        "middle_pos=84%"
+      ],
+      "examples": [
+        "qokody qokchey cheody plant",
+        "kchey otchy cheody"
+      ],
+      "frequency": 88
+    },
+    "sheedy": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=96%"
+      ],
+      "examples": [
+        "podair sheedy otedy oteedy",
+        "shedy qokar sheedy oraly plantolaiir"
+      ],
+      "frequency": 84
+    },
+    "otol": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=80%"
+      ],
+      "examples": [
+        "otol daiiin",
+        "chey okaor otol"
+      ],
+      "frequency": 81
+    },
+    "qotaiin": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "before 'otar'",
+        "middle_pos=84%"
+      ],
+      "examples": [
+        "qotaiin plantcthey plantchor",
+        "chy chaiin qotaiin plantdaiin shain"
+      ],
+      "frequency": 79
+    },
+    "raiin": {
+      "meaning": "botanical/earth term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=89%"
+      ],
+      "examples": [
+        "chodey cho raiin",
+        "cho ro raiin dor chseeor"
+      ],
+      "frequency": 74
+    },
+    "air": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (3 chars)",
+        "mid_pos=93%",
+        "freq=74",
+        "connects knowns"
+      ],
+      "examples": [
+        "plantcheckhy plant\\ysair air chodar tam",
+        "fdykain or air sheykaiiin ofchy"
+      ],
+      "frequency": 74
+    },
+    "qotar": {
+      "meaning": "ingredient/recipe term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "before 'okar'",
+        "middle_pos=87%"
+      ],
+      "examples": [
+        "cthal okol qotar ckhy plant",
+        "qotar chy dar"
+      ],
+      "frequency": 63
+    },
+    "cheedy": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=95%"
+      ],
+      "examples": [
+        "okaiin dar cheedy chkeey far",
+        "lshedy lchedy cheedy shekol dalol"
+      ],
+      "frequency": 59
+    },
+    "odaiin": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'al'",
+        "middle_pos=83%"
+      ],
+      "examples": [
+        "oiin chol odaiin chodain chdy",
+        "ycheor chol odaiin chol aiin"
+      ],
+      "frequency": 58
+    },
+    "qokchdy": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "before 'otar'",
+        "middle_pos=91%"
+      ],
+      "examples": [
+        "plantol plantotedy qokchdy qokedy",
+        "plantykcheg plant\\ykedy qokchdy ar oldam"
+      ],
+      "frequency": 56
+    },
+    "keedy": {
+      "meaning": "botanical/earth term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "after article 'ol'",
+        "middle_pos=91%"
+      ],
+      "examples": [
+        "daiin cheody keedy",
+        "darar sheey keedy okchy okar"
+      ],
+      "frequency": 53
+    },
+    "shdy": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "mid_pos=87%",
+        "connects knowns"
+      ],
+      "examples": [
+        "ypchdy qopy shdy",
+        "sho ykcho shdy plantdchd plantchschsa"
+      ],
+      "frequency": 45
+    },
+    "kedy": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "mid_pos=95%",
+        "connects knowns"
+      ],
+      "examples": [
+        "keedy chy kedy dy qokedy",
+        "toees chedy kedy olfchedy qokedy"
+      ],
+      "frequency": 44
+    },
+    "oteody": {
+      "meaning": "medical/cardiac term",
+      "category": "adjective",
+      "confidence": 0.5,
+      "evidence_type": "position_context",
+      "evidence": [
+        "before 'otaiin'",
+        "middle_pos=84%"
+      ],
+      "examples": [
+        "qokal or oteody",
+        "shetcheodchs ochedy oteody chedy chody"
+      ],
+      "frequency": 38
+    },
+    "oiin": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "mid_pos=97%",
+        "connects knowns"
+      ],
+      "examples": [
+        "dain oiin chol odaiin",
+        "okchy okchor oiin chckhy"
+      ],
+      "frequency": 33
+    },
+    "cho": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (3 chars)",
+        "mid_pos=97%",
+        "freq=64",
+        "connects knowns"
+      ],
+      "examples": [
+        "cham cham cho plant",
+        "daiin oteeen cho cthy otchy"
+      ],
+      "frequency": 64
+    },
+    "cheo": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "mid_pos=98%",
+        "freq=63",
+        "connects knowns"
+      ],
+      "examples": [
+        "kooiin cheo pchor otaiin",
+        "qotoeey keey cheo kchy shody"
+      ],
+      "frequency": 63
+    },
+    "okey": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "mid_pos=89%",
+        "freq=63",
+        "connects knowns"
+      ],
+      "examples": [
+        "ochey okey qokaiin sho",
+        "shedal okedy okey keody okchey"
+      ],
+      "frequency": 63
+    },
+    "otey": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "mid_pos=95%",
+        "freq=57",
+        "connects knowns"
+      ],
+      "examples": [
+        "plants she otey sy",
+        "plant\\ykeedl chedy otey okaiin"
+      ],
+      "frequency": 57
+    },
+    "kol": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (3 chars)",
+        "mid_pos=95%",
+        "connects knowns"
+      ],
+      "examples": [
+        "chor shey kol chol chol",
+        "okol shol kol kechy chol"
+      ],
+      "frequency": 37
+    },
+    "os": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (2 chars)",
+        "mid_pos=90%",
+        "connects knowns"
+      ],
+      "examples": [
+        "dain os teody",
+        "kshor choky os cheoees plantykeor"
+      ],
+      "frequency": 29
+    },
+    "chl": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (3 chars)",
+        "mid_pos=100%",
+        "connects knowns"
+      ],
+      "examples": [
+        "dchy qokar chl plantaiin chean",
+        "scheaiin chodaiin chl plantsol ckhaiin"
+      ],
+      "frequency": 26
+    },
+    "she": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (3 chars)",
+        "mid_pos=100%",
+        "connects knowns"
+      ],
+      "examples": [
+        "cphodaiils cthey she oldain",
+        "yto shol she kodshey cphealy"
+      ],
+      "frequency": 25
+    },
+    "chs": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (3 chars)",
+        "mid_pos=100%",
+        "connects knowns"
+      ],
+      "examples": [
+        "tchor chor chs ykch shocthy",
+        "opchedy ofchy chs ar"
+      ],
+      "frequency": 17
+    },
+    "ty": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (2 chars)",
+        "mid_pos=94%",
+        "connects knowns"
+      ],
+      "examples": [
+        "kshy ky ty dor cheey",
+        "cthy otchy ty chol daiin"
+      ],
+      "frequency": 16
+    },
+    "key": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (3 chars)",
+        "mid_pos=100%",
+        "connects knowns"
+      ],
+      "examples": [
+        "sho keeey key tey daiin",
+        "chdy chy key chyky plantdchy"
+      ],
+      "frequency": 13
+    },
+    "oto": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (3 chars)",
+        "mid_pos=90%",
+        "connects knowns"
+      ],
+      "examples": [
+        "oto dar archol",
+        "okeoky oteody oto otol oteey"
+      ],
+      "frequency": 10
+    },
+    "am": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (2 chars)",
+        "freq=87",
+        "connects knowns"
+      ],
+      "examples": [
+        "char cfhar am",
+        "planto ar am"
+      ],
+      "frequency": 87
+    },
+    "dor": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "short (3 chars)",
+        "freq=71",
+        "connects knowns"
+      ],
+      "examples": [
+        "kshy kchy dor chodaiin sho",
+        "plants shey dor chol daiin"
+      ],
+      "frequency": 71
+    },
+    "sheo": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "mid_pos=100%",
+        "connects knowns"
+      ],
+      "examples": [
+        "tchey chokain sheo pshol dydyd",
+        "cthy shkchor sheo cheory plantcholdy"
+      ],
+      "frequency": 47
+    },
+    "tedy": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "mid_pos=86%",
+        "connects knowns"
+      ],
+      "examples": [
+        "daiin chdy tedy kchdy okeedy",
+        "sheolkedy otedy tedy saiin plant"
+      ],
+      "frequency": 43
+    },
+    "ckhy": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "mid_pos=90%",
+        "connects knowns"
+      ],
+      "examples": [
+        "do ckhy ckho ckhy",
+        "ckhy ckho ckhy shy plantdksheey"
+      ],
+      "frequency": 39
+    },
+    "ches": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "mid_pos=92%",
+        "connects knowns"
+      ],
+      "examples": [
+        "ytcho cthol ches cthor",
+        "olteedam ches chol keeol"
+      ],
+      "frequency": 36
+    },
+    "lkar": {
+      "meaning": "preposition/conjunction",
+      "category": "preposition",
+      "confidence": 0.5,
+      "evidence_type": "position_frequency",
+      "evidence": [
+        "mid_pos=93%",
+        "connects knowns"
+      ],
+      "examples": [
+        "figuredaiin chckhy lkar chckhy rom",
+        "ain olkeey lkar ain otchy"
+      ],
+      "frequency": 30
+    },
+    "qokeey": {
+      "meaning": "links is/has (verb) to of the/from",
+      "category": "connector",
+      "confidence": 0.4,
+      "evidence_type": "between_knowns",
+      "evidence": [
+        "after 'chedy' (is/has (verb))",
+        "before 'daiin' (of the/from)"
+      ],
+      "examples": [
+        "qokeey qot shey",
+        "qodair okeey qokeey",
+        "qokeey kchar ol"
+      ],
+      "frequency": 308
+    },
+    "qokal": {
+      "meaning": "modifier of which/that",
+      "category": "connector",
+      "confidence": 0.4,
+      "evidence_type": "between_knowns",
+      "evidence": [
+        "after 'shedy' (which/that)",
+        "before 'shedy' (which/that)"
+      ],
+      "examples": [
+        "oky plantchody qokal chedy chcthedy",
+        "shy qokal chdy chckhd",
+        "old plantoteol qokal or oteody"
+      ],
+      "frequency": 187
+    },
+    "qokeedy": {
+      "meaning": "links which/that to is/has (verb)",
+      "category": "connector",
+      "confidence": 0.4,
+      "evidence_type": "between_knowns",
+      "evidence": [
+        "after 'shedy' (which/that)",
+        "before 'chedy' (is/has (verb))"
+      ],
+      "examples": [
+        "daiin shedy qokeedy qoteedar plantok",
+        "okedy qokedy qokeedy dar shedshey",
+        "tochey qokeedy qokaiin okeor"
+      ],
+      "frequency": 301
+    },
+    "qotain": {
+      "meaning": "modifier of is/has (verb)",
+      "category": "connector",
+      "confidence": 0.4,
+      "evidence_type": "between_knowns",
+      "evidence": [
+        "after 'chedy' (is/has (verb))",
+        "before 'chedy' (is/has (verb))"
+      ],
+      "examples": [
+        "todal qotain sho ckheey",
+        "qotain okeor sheey",
+        "ychey qotain sheckhy qokedy"
+      ],
+      "frequency": 64
+    },
+    "cthol": {
+      "meaning": "links the to of the/from",
+      "category": "connector",
+      "confidence": 0.4,
+      "evidence_type": "between_knowns",
+      "evidence": [
+        "after 'chol' (the)",
+        "before 'daiin' (of the/from)"
+      ],
+      "examples": [
+        "daiin far cthol daiin ctholdar",
+        "choky chol cthol shol okal",
+        "ky plantchol cthol chody chol"
+      ],
+      "frequency": 59
+    },
+    "okeey": {
+      "meaning": "links is/are to of the/from",
+      "category": "connector",
+      "confidence": 0.4,
+      "evidence_type": "between_knowns",
+      "evidence": [
+        "after 'aiin' (is/are)",
+        "before 'daiin' (of the/from)"
+      ],
+      "examples": [
+        "chor qodair okeey qokeey",
+        "ykeey okeey cheor chol",
+        "okeeos cheody okeey kchody daiin"
+      ],
+      "frequency": 172
+    },
+    "cthor": {
+      "meaning": "links of the/from to the",
+      "category": "connector",
+      "confidence": 0.4,
+      "evidence_type": "between_knowns",
+      "evidence": [
+        "after 'daiin' (of the/from)",
+        "before 'chol' (the)"
+      ],
+      "examples": [
+        "chy chor cthor yor an",
+        "otaiin dain cthor chots ychopordg",
+        "shol daiin cthor okchy taiin"
+      ],
+      "frequency": 43
+    },
+    "saiin": {
+      "meaning": "links -ed/-ing verb to to",
+      "category": "connector",
+      "confidence": 0.4,
+      "evidence_type": "between_knowns",
+      "evidence": [
+        "after 'qoky' (-ed/-ing verb)",
+        "before 'or' (to)"
+      ],
+      "examples": [
+        "saiin daind plantdkol",
+        "plantcthey keol saiin saiin",
+        "keol saiin saiin"
+      ],
+      "frequency": 134
+    },
+    "qokol": {
+      "meaning": "links the to of the/from",
+      "category": "connector",
+      "confidence": 0.4,
+      "evidence_type": "between_knowns",
+      "evidence": [
+        "after 'shol' (the)",
+        "before 'daiin' (of the/from)"
+      ],
+      "examples": [
+        "qokol chololy cham",
+        "ekshy qokeom qokol daiin plantsoleeg",
+        "qoty qotoiin qokol choraiin"
+      ],
+      "frequency": 104
+    },
+    "okol": {
+      "meaning": "links to to priest/cohen",
+      "category": "connector",
+      "confidence": 0.4,
+      "evidence_type": "between_knowns",
+      "evidence": [
+        "after 'ar' (to)",
+        "before 'okaiin' (priest/cohen)"
+      ],
+      "examples": [
+        "kaiin shoaiin okol daiin far",
+        "okol shol kol",
+        "shor okol chol dol"
+      ],
+      "frequency": 79
+    },
+    "sain": {
+      "meaning": "modifier of the",
+      "category": "connector",
+      "confidence": 0.4,
+      "evidence_type": "between_knowns",
+      "evidence": [
+        "after 'shol' (the)",
+        "before 'ol' (the)"
+      ],
+      "examples": [
+        "os chy sain or plant",
+        "cthor otydy sain",
+        "chcthy shol sain plant"
+      ],
+      "frequency": 66
+    },
+    "cheky": {
+      "meaning": "links the to of the/from",
+      "category": "connector",
+      "confidence": 0.4,
+      "evidence_type": "between_knowns",
+      "evidence": [
+        "after 'chor' (the)",
+        "before 'daiin' (of the/from)"
+      ],
+      "examples": [
+        "chyky chol cheky daiin dain",
+        "plantykeechy okeedy cheky",
+        "dar chey cheky ytchdy"
+      ],
+      "frequency": 64
+    },
+    "qotal": {
+      "meaning": "links is/has (verb) to which/that",
+      "category": "connector",
+      "confidence": 0.4,
+      "evidence_type": "between_knowns",
+      "evidence": [
+        "after 'chedy' (is/has (verb))",
+        "before 'shedy' (which/that)"
+      ],
+      "examples": [
+        "daiin ykoiin qotal daiin plant",
+        "chepchefy shdchdy qotal dar",
+        "todalain qotal kaiin otaiin"
+      ],
+      "frequency": 59
+    },
+    "ykeey": {
+      "meaning": "links verb/imperative to of the/from",
+      "category": "connector",
+      "confidence": 0.4,
+      "evidence_type": "between_knowns",
+      "evidence": [
+        "after 'sho' (verb/imperative)",
+        "before 'daiin' (of the/from)"
+      ],
+      "examples": [
+        "sho ykeey chey daiin",
+        "sho ykeey daiin qotchy",
+        "ykeey soiiin chok"
+      ],
+      "frequency": 54
+    }
+  },
+  "by_category": {
+    "verbs": [
+      "chory",
+      "chary",
+      "oky",
+      "qoty",
+      "oly",
+      "shody",
+      "ody",
+      "aly",
+      "ary",
+      "dary",
+      "olky",
+      "opchdy",
+      "otaly",
+      "daldy",
+      "opchy",
+      "ockhy",
+      "olkey",
+      "otshedy",
+      "arody",
+      "sholdy",
+      "cfhy",
+      "oy",
+      "ykaly",
+      "shckhedy",
+      "ochy",
+      "chetey",
+      "aithy",
+      "choy",
+      "chty",
+      "chyky",
+      "chocthey",
+      "chokey",
+      "cholody",
+      "chckhy",
+      "chody",
+      "chcthy",
+      "olchedy",
+      "choty",
+      "chos",
+      "sy",
+      "chckhey",
+      "daly",
+      "oldy",
+      "ldy",
+      "okaly",
+      "chockhy",
+      "cham",
+      "yky",
+      "cthody",
+      "qokaly"
+    ],
+    "adjectives": [
+      "shy",
+      "qokedy",
+      "qokar",
+      "cheey",
+      "sheey",
+      "chckhy",
+      "oteey",
+      "qokey",
+      "shckhy",
+      "checkhy",
+      "keey",
+      "checthy",
+      "ky",
+      "cheeky",
+      "tey",
+      "olsheey",
+      "otedy",
+      "lchedy",
+      "okedy",
+      "sheol",
+      "okeedy",
+      "oteedy",
+      "chody",
+      "ain",
+      "cheody",
+      "sheedy",
+      "otol",
+      "qotaiin",
+      "raiin",
+      "air",
+      "qotar",
+      "cheedy",
+      "odaiin",
+      "qokchdy",
+      "keedy",
+      "shdy",
+      "kedy",
+      "oteody",
+      "olchedy",
+      "oiin"
+    ],
+    "prepositions": [
+      "shy",
+      "ain",
+      "air",
+      "cho",
+      "cheo",
+      "okey",
+      "otey",
+      "kol",
+      "os",
+      "chl",
+      "she",
+      "ky",
+      "chs",
+      "ty",
+      "key",
+      "tey",
+      "oto",
+      "oky",
+      "am",
+      "dor",
+      "oly",
+      "sheo",
+      "keey",
+      "shdy",
+      "kedy",
+      "tedy",
+      "ckhy",
+      "ches",
+      "oiin",
+      "lkar"
+    ],
+    "connectors": [
+      "qokedy",
+      "qokeey",
+      "qokal",
+      "qokar",
+      "qokeedy",
+      "cheey",
+      "sheey",
+      "chckhy",
+      "ain",
+      "qotain",
+      "cthol",
+      "okeey",
+      "lchedy",
+      "oteey",
+      "okedy",
+      "sheedy",
+      "chcthy",
+      "cthor",
+      "otedy",
+      "saiin",
+      "sheol",
+      "okeedy",
+      "qokey",
+      "qokol",
+      "chody",
+      "okol",
+      "sain",
+      "cheky",
+      "qotal",
+      "ykeey"
+    ]
+  },
+  "suffix_patterns": {
+    "ey": 110,
+    "eey": 46,
+    "dy": 172,
+    "edy": 82,
+    "al": 41,
+    "kal": 7,
+    "ar": 44,
+    "kar": 6,
+    "hy": 58,
+    "khy": 10,
+    "in": 86,
+    "iin": 59,
+    "ol": 79,
+    "eol": 32,
+    "key": 10,
+    "kol": 5,
+    "ky": 16,
+    "ody": 48,
+    "ty": 10,
+    "tol": 6,
+    "thy": 9,
+    "ir": 10,
+    "or": 43,
+    "chy": 25,
+    "ain": 25,
+    "ho": 13,
+    "eo": 17,
+    "heo": 5,
+    "hol": 23,
+    "ly": 16,
+    "tey": 5,
+    "hdy": 24,
+    "eor": 9,
+    "hey": 47,
+    "hor": 18,
+    "oky": 5,
+    "es": 8,
+    "os": 9,
+    "eos": 5,
+    "ees": 5,
+    "dar": 19,
+    "aly": 8,
+    "ldy": 12,
+    "am": 19,
+    "kam": 6,
+    "ry": 5,
+    "dal": 10,
+    "eeo": 8,
+    "ed": 8,
+    "air": 6,
+    "oly": 6,
+    "om": 7,
+    "cho": 7,
+    "od": 7,
+    "shy": 7
+  },
+  "prefix_patterns": {
+    "pl": 21,
+    "pla": 21,
+    "qo": 121,
+    "qok": 49,
+    "ch": 132,
+    "che": 51,
+    "ok": 42,
+    "oke": 20,
+    "ot": 38,
+    "ote": 18,
+    "sh": 61,
+    "she": 35,
+    "chc": 12,
+    "lc": 10,
+    "lch": 10,
+    "cho": 40,
+    "qot": 30,
+    "ai": 7,
+    "oto": 5,
+    "oko": 5,
+    "ra": 6,
+    "ct": 15,
+    "cth": 15,
+    "od": 7,
+    "oda": 5,
+    "ol": 36,
+    "shc": 6,
+    "yk": 23,
+    "yke": 10,
+    "ke": 10,
+    "kee": 6,
+    "sho": 11,
+    "op": 10,
+    "opc": 8,
+    "lo": 5,
+    "otc": 9,
+    "cha": 6,
+    "te": 7,
+    "qod": 5,
+    "olk": 13,
+    "lk": 16,
+    "lke": 7,
+    "ck": 8,
+    "ckh": 8,
+    "or": 9,
+    "ora": 5,
+    "olc": 6,
+    "okc": 7,
+    "la": 5,
+    "pc": 11,
+    "pch": 11,
+    "ds": 8,
+    "dsh": 8,
+    "tc": 12,
+    "tch": 12,
+    "qop": 9,
+    "da": 18,
+    "dal": 7,
+    "al": 12,
+    "dc": 10,
+    "dch": 10,
+    "yt": 18,
+    "yte": 7,
+    "oka": 6,
+    "ar": 7,
+    "yc": 11,
+    "ych": 11,
+    "dai": 6,
+    "kc": 10,
+    "kch": 10,
+    "chd": 6,
+    "ykc": 7,
+    "ytc": 5,
+    "so": 8,
+    "qoc": 6,
+    "chk": 8,
+    "cp": 6,
+    "cph": 6,
+    "oc": 10,
+    "qol": 6,
+    "ts": 5,
+    "tsh": 5,
+    "och": 5,
+    "ks": 6,
+    "ksh": 6
+  },
+  "statistics": {
+    "total_lines": 5139,
+    "words_indexed": 8620,
+    "unknown_analyzed": 845,
+    "known_words": 224
+  }
+}

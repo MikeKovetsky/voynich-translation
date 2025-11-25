@@ -1,0 +1,2955 @@
+{
+  "domains": {
+    "botanical": {
+      "raw_matches": 266,
+      "validated": 168,
+      "new": 134,
+      "entries": [
+        {
+          "voynich": "qokeedy",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 301,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 7,
+            "biological": 150,
+            "recipes": 137
+          },
+          "skeleton": "qkdy"
+        },
+        {
+          "voynich": "qokedy",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 268,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 36,
+            "biological": 162,
+            "recipes": 61
+          },
+          "skeleton": "qkdy"
+        },
+        {
+          "voynich": "dain",
+          "source": "tena",
+          "language": "Hebrew",
+          "meaning": "fig",
+          "frequency": 198,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 33,
+            "herbal_b": 39,
+            "biological": 46,
+            "pharmaceutical": 9,
+            "recipes": 53
+          },
+          "skeleton": "dn"
+        },
+        {
+          "voynich": "qokal",
+          "source": "aglio",
+          "language": "Italian",
+          "meaning": "garlic",
+          "frequency": 187,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 6,
+            "biological": 104,
+            "pharmaceutical": 2,
+            "recipes": 41
+          },
+          "skeleton": "qkl"
+        },
+        {
+          "voynich": "chdy",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 151,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 3,
+            "herbal_b": 40,
+            "astronomical": 5,
+            "biological": 23,
+            "pharmaceutical": 4,
+            "recipes": 40
+          },
+          "skeleton": "chdy"
+        },
+        {
+          "voynich": "qol",
+          "source": "aloe",
+          "language": "Italian",
+          "meaning": "aloe",
+          "frequency": 150,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 1,
+            "herbal_b": 2,
+            "biological": 116,
+            "pharmaceutical": 1,
+            "recipes": 28
+          },
+          "skeleton": "ql"
+        },
+        {
+          "voynich": "okal",
+          "source": "aglio",
+          "language": "Italian",
+          "meaning": "garlic",
+          "frequency": 136,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 10,
+            "herbal_b": 22,
+            "astronomical": 3,
+            "biological": 24,
+            "pharmaceutical": 4,
+            "recipes": 41
+          },
+          "skeleton": "kl"
+        },
+        {
+          "voynich": "saiin",
+          "source": "seme",
+          "language": "Italian",
+          "meaning": "seed",
+          "frequency": 134,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 9,
+            "herbal_b": 21,
+            "biological": 37,
+            "pharmaceutical": 5,
+            "recipes": 37
+          },
+          "skeleton": "sn"
+        },
+        {
+          "voynich": "okedy",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 118,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 22,
+            "astronomical": 2,
+            "biological": 47,
+            "pharmaceutical": 1,
+            "recipes": 33
+          },
+          "skeleton": "kdy"
+        },
+        {
+          "voynich": "okeedy",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 105,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 12,
+            "biological": 39,
+            "pharmaceutical": 3,
+            "recipes": 48
+          },
+          "skeleton": "kdy"
+        },
+        {
+          "voynich": "qokol",
+          "source": "aglio",
+          "language": "Italian",
+          "meaning": "garlic",
+          "frequency": 104,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 14,
+            "herbal_b": 14,
+            "astronomical": 1,
+            "biological": 29,
+            "pharmaceutical": 13,
+            "recipes": 13
+          },
+          "skeleton": "qkl"
+        },
+        {
+          "voynich": "chody",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 93,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 14,
+            "herbal_b": 22,
+            "biological": 1,
+            "pharmaceutical": 11,
+            "recipes": 22
+          },
+          "skeleton": "chdy"
+        },
+        {
+          "voynich": "cheody",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 88,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 4,
+            "herbal_b": 7,
+            "astronomical": 4,
+            "pharmaceutical": 8,
+            "recipes": 33
+          },
+          "skeleton": "chdy"
+        },
+        {
+          "voynich": "okol",
+          "source": "aglio",
+          "language": "Italian",
+          "meaning": "garlic",
+          "frequency": 79,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 15,
+            "herbal_b": 8,
+            "astronomical": 3,
+            "biological": 8,
+            "pharmaceutical": 14,
+            "recipes": 9
+          },
+          "skeleton": "kl"
+        },
+        {
+          "voynich": "raiin",
+          "source": "ramo",
+          "language": "Italian",
+          "meaning": "branch",
+          "frequency": 74,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 1,
+            "herbal_b": 1,
+            "astronomical": 1,
+            "biological": 16,
+            "pharmaceutical": 3,
+            "recipes": 44
+          },
+          "skeleton": "rn"
+        },
+        {
+          "voynich": "qokchy",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 69,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 23,
+            "herbal_b": 19,
+            "biological": 7,
+            "recipes": 15
+          },
+          "skeleton": "qkchy"
+        },
+        {
+          "voynich": "sain",
+          "source": "seme",
+          "language": "Italian",
+          "meaning": "seed",
+          "frequency": 66,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 3,
+            "biological": 28,
+            "pharmaceutical": 2,
+            "recipes": 27
+          },
+          "skeleton": "sn"
+        },
+        {
+          "voynich": "okeol",
+          "source": "aglio",
+          "language": "Italian",
+          "meaning": "garlic",
+          "frequency": 65,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 5,
+            "herbal_b": 2,
+            "astronomical": 2,
+            "biological": 3,
+            "pharmaceutical": 20,
+            "recipes": 13
+          },
+          "skeleton": "kl"
+        },
+        {
+          "voynich": "cheedy",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 59,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 1,
+            "biological": 25,
+            "pharmaceutical": 3,
+            "recipes": 24
+          },
+          "skeleton": "chdy"
+        },
+        {
+          "voynich": "oly",
+          "source": "aloe",
+          "language": "Italian",
+          "meaning": "aloe",
+          "frequency": 58,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 3,
+            "herbal_b": 7,
+            "astronomical": 1,
+            "biological": 31,
+            "pharmaceutical": 2,
+            "recipes": 7
+          },
+          "skeleton": "ly"
+        },
+        {
+          "voynich": "odaiin",
+          "source": "tena",
+          "language": "Hebrew",
+          "meaning": "fig",
+          "frequency": 58,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 11,
+            "herbal_b": 9,
+            "biological": 1,
+            "pharmaceutical": 2,
+            "recipes": 17
+          },
+          "skeleton": "dn"
+        },
+        {
+          "voynich": "keedy",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 53,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 6,
+            "biological": 18,
+            "recipes": 26
+          },
+          "skeleton": "kdy"
+        },
+        {
+          "voynich": "qokeol",
+          "source": "aglio",
+          "language": "Italian",
+          "meaning": "garlic",
+          "frequency": 51,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 2,
+            "herbal_b": 3,
+            "biological": 1,
+            "pharmaceutical": 16,
+            "recipes": 13
+          },
+          "skeleton": "qkl"
+        },
+        {
+          "voynich": "sheor",
+          "source": "seorah",
+          "language": "Hebrew",
+          "meaning": "barley",
+          "frequency": 51,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 2,
+            "herbal_b": 7,
+            "biological": 11,
+            "pharmaceutical": 8,
+            "recipes": 11
+          },
+          "skeleton": "shr"
+        },
+        {
+          "voynich": "chaiin",
+          "source": "tena",
+          "language": "Hebrew",
+          "meaning": "fig",
+          "frequency": 44,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 17,
+            "herbal_b": 17,
+            "recipes": 7
+          },
+          "skeleton": "chn"
+        },
+        {
+          "voynich": "qodaiin",
+          "source": "tena",
+          "language": "Hebrew",
+          "meaning": "fig",
+          "frequency": 42,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 4,
+            "herbal_b": 9,
+            "biological": 1,
+            "pharmaceutical": 1,
+            "recipes": 16
+          },
+          "skeleton": "qdn"
+        },
+        {
+          "voynich": "chodaiin",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 40,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 10,
+            "herbal_b": 8,
+            "astronomical": 1,
+            "biological": 1,
+            "pharmaceutical": 3,
+            "recipes": 12
+          },
+          "skeleton": "chdn"
+        },
+        {
+          "voynich": "oraiin",
+          "source": "ramo",
+          "language": "Italian",
+          "meaning": "branch",
+          "frequency": 37,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 2,
+            "herbal_b": 4,
+            "biological": 2,
+            "pharmaceutical": 5,
+            "recipes": 13
+          },
+          "skeleton": "rn"
+        },
+        {
+          "voynich": "kol",
+          "source": "aglio",
+          "language": "Italian",
+          "meaning": "garlic",
+          "frequency": 37,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 8,
+            "herbal_b": 12,
+            "biological": 2,
+            "pharmaceutical": 5,
+            "recipes": 4
+          },
+          "skeleton": "kl"
+        },
+        {
+          "voynich": "chos",
+          "source": "ets",
+          "language": "Hebrew",
+          "meaning": "tree",
+          "frequency": 36,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 1,
+            "herbal_b": 5,
+            "pharmaceutical": 3,
+            "recipes": 10
+          },
+          "skeleton": "chs"
+        },
+        {
+          "voynich": "choty",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 36,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 11,
+            "herbal_b": 9,
+            "astronomical": 1,
+            "biological": 1,
+            "pharmaceutical": 1,
+            "recipes": 7
+          },
+          "skeleton": "chty"
+        },
+        {
+          "voynich": "okeody",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 36,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 1,
+            "herbal_b": 5,
+            "astronomical": 5,
+            "pharmaceutical": 1,
+            "recipes": 5
+          },
+          "skeleton": "kdy"
+        },
+        {
+          "voynich": "okchy",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 35,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 8,
+            "herbal_b": 7,
+            "astronomical": 3,
+            "biological": 2,
+            "recipes": 4
+          },
+          "skeleton": "kchy"
+        },
+        {
+          "voynich": "cheos",
+          "source": "ets",
+          "language": "Hebrew",
+          "meaning": "tree",
+          "frequency": 33,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 1,
+            "herbal_b": 4,
+            "astronomical": 1,
+            "pharmaceutical": 3,
+            "recipes": 9
+          },
+          "skeleton": "chs"
+        },
+        {
+          "voynich": "chees",
+          "source": "ets",
+          "language": "Hebrew",
+          "meaning": "tree",
+          "frequency": 32,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 2,
+            "herbal_b": 8,
+            "astronomical": 1,
+            "biological": 5,
+            "pharmaceutical": 4,
+            "recipes": 8
+          },
+          "skeleton": "chs"
+        },
+        {
+          "voynich": "qokeody",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 32,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 4,
+            "astronomical": 1,
+            "pharmaceutical": 8,
+            "recipes": 4
+          },
+          "skeleton": "qkdy"
+        },
+        {
+          "voynich": "chety",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 25,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 1,
+            "herbal_b": 7,
+            "biological": 5,
+            "pharmaceutical": 1,
+            "recipes": 4
+          },
+          "skeleton": "chty"
+        },
+        {
+          "voynich": "keody",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 22,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 1,
+            "herbal_b": 7,
+            "astronomical": 1,
+            "pharmaceutical": 2,
+            "recipes": 3
+          },
+          "skeleton": "kdy"
+        },
+        {
+          "voynich": "kchol",
+          "source": "giglio",
+          "language": "Italian",
+          "meaning": "lily",
+          "frequency": 21,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 10,
+            "herbal_b": 7,
+            "biological": 1,
+            "pharmaceutical": 1,
+            "recipes": 1
+          },
+          "skeleton": "kchl"
+        },
+        {
+          "voynich": "kchey",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 21,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 4,
+            "herbal_b": 8,
+            "biological": 3,
+            "pharmaceutical": 1,
+            "recipes": 3
+          },
+          "skeleton": "kchy"
+        },
+        {
+          "voynich": "shaiin",
+          "source": "seme",
+          "language": "Italian",
+          "meaning": "seed",
+          "frequency": 20,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 9,
+            "herbal_b": 5,
+            "recipes": 6
+          },
+          "skeleton": "shn"
+        },
+        {
+          "voynich": "keol",
+          "source": "aglio",
+          "language": "Italian",
+          "meaning": "garlic",
+          "frequency": 20,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 3,
+            "herbal_b": 4,
+            "biological": 2,
+            "pharmaceutical": 1,
+            "recipes": 6
+          },
+          "skeleton": "kl"
+        },
+        {
+          "voynich": "soiin",
+          "source": "seme",
+          "language": "Italian",
+          "meaning": "seed",
+          "frequency": 19,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 2,
+            "herbal_b": 3,
+            "biological": 4,
+            "pharmaceutical": 3,
+            "recipes": 5
+          },
+          "skeleton": "sn"
+        },
+        {
+          "voynich": "ykchy",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 19,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 11,
+            "herbal_b": 5,
+            "pharmaceutical": 1
+          },
+          "skeleton": "ykchy"
+        },
+        {
+          "voynich": "ydaiin",
+          "source": "tena",
+          "language": "Hebrew",
+          "meaning": "fig",
+          "frequency": 19,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 4,
+            "herbal_b": 5,
+            "biological": 1,
+            "recipes": 3
+          },
+          "skeleton": "ydn"
+        },
+        {
+          "voynich": "qokchol",
+          "source": "giglio",
+          "language": "Italian",
+          "meaning": "lily",
+          "frequency": 18,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 10,
+            "herbal_b": 3,
+            "pharmaceutical": 2,
+            "recipes": 3
+          },
+          "skeleton": "qkchl"
+        },
+        {
+          "voynich": "ykedy",
+          "source": "chitah",
+          "language": "Hebrew",
+          "meaning": "wheat",
+          "frequency": 18,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 7,
+            "biological": 6,
+            "recipes": 3
+          },
+          "skeleton": "ykdy"
+        },
+        {
+          "voynich": "doiin",
+          "source": "tena",
+          "language": "Hebrew",
+          "meaning": "fig",
+          "frequency": 18,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 3,
+            "herbal_b": 5,
+            "biological": 1,
+            "pharmaceutical": 1,
+            "recipes": 3
+          },
+          "skeleton": "dn"
+        },
+        {
+          "voynich": "odain",
+          "source": "tena",
+          "language": "Hebrew",
+          "meaning": "fig",
+          "frequency": 18,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 1,
+            "herbal_b": 3,
+            "astronomical": 1,
+            "biological": 1,
+            "recipes": 7
+          },
+          "skeleton": "dn"
+        },
+        {
+          "voynich": "ols",
+          "source": "luz",
+          "language": "Hebrew",
+          "meaning": "almond tree",
+          "frequency": 18,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 3,
+            "herbal_b": 1,
+            "biological": 4,
+            "pharmaceutical": 3,
+            "recipes": 3
+          },
+          "skeleton": "ls"
+        }
+      ]
+    },
+    "medical": {
+      "raw_matches": 339,
+      "validated": 291,
+      "new": 211,
+      "entries": [
+        {
+          "voynich": "dain",
+          "source": "dam",
+          "language": "Hebrew",
+          "meaning": "blood",
+          "frequency": 198,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 33,
+            "herbal_b": 39,
+            "biological": 46,
+            "pharmaceutical": 9,
+            "recipes": 53
+          },
+          "skeleton": "dn"
+        },
+        {
+          "voynich": "qokal",
+          "source": "choleh",
+          "language": "Hebrew",
+          "meaning": "sick",
+          "frequency": 187,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 6,
+            "biological": 104,
+            "pharmaceutical": 2,
+            "recipes": 41
+          },
+          "skeleton": "qkl"
+        },
+        {
+          "voynich": "otedy",
+          "source": "dito",
+          "language": "Italian",
+          "meaning": "finger",
+          "frequency": 154,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 18,
+            "astronomical": 3,
+            "biological": 54,
+            "pharmaceutical": 1,
+            "recipes": 60
+          },
+          "skeleton": "tdy"
+        },
+        {
+          "voynich": "okal",
+          "source": "choleh",
+          "language": "Hebrew",
+          "meaning": "sick",
+          "frequency": 136,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 10,
+            "herbal_b": 22,
+            "astronomical": 3,
+            "biological": 24,
+            "pharmaceutical": 4,
+            "recipes": 41
+          },
+          "skeleton": "kl"
+        },
+        {
+          "voynich": "saiin",
+          "source": "ozen",
+          "language": "Hebrew",
+          "meaning": "ear",
+          "frequency": 134,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 9,
+            "herbal_b": 21,
+            "biological": 37,
+            "pharmaceutical": 5,
+            "recipes": 37
+          },
+          "skeleton": "sn"
+        },
+        {
+          "voynich": "lchedy",
+          "source": "latte",
+          "language": "Italian",
+          "meaning": "milk",
+          "frequency": 119,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 1,
+            "biological": 59,
+            "recipes": 55
+          },
+          "skeleton": "lchdy"
+        },
+        {
+          "voynich": "sheol",
+          "source": "choleh",
+          "language": "Hebrew",
+          "meaning": "sick",
+          "frequency": 112,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 3,
+            "herbal_b": 6,
+            "astronomical": 1,
+            "biological": 29,
+            "pharmaceutical": 13,
+            "recipes": 27
+          },
+          "skeleton": "shl"
+        },
+        {
+          "voynich": "qokol",
+          "source": "choleh",
+          "language": "Hebrew",
+          "meaning": "sick",
+          "frequency": 104,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 14,
+            "herbal_b": 14,
+            "astronomical": 1,
+            "biological": 29,
+            "pharmaceutical": 13,
+            "recipes": 13
+          },
+          "skeleton": "qkl"
+        },
+        {
+          "voynich": "oteedy",
+          "source": "dito",
+          "language": "Italian",
+          "meaning": "finger",
+          "frequency": 99,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 1,
+            "biological": 24,
+            "recipes": 60
+          },
+          "skeleton": "tdy"
+        },
+        {
+          "voynich": "qotedy",
+          "source": "dito",
+          "language": "Italian",
+          "meaning": "finger",
+          "frequency": 92,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 12,
+            "biological": 49,
+            "recipes": 27
+          },
+          "skeleton": "qtdy"
+        },
+        {
+          "voynich": "okol",
+          "source": "choleh",
+          "language": "Hebrew",
+          "meaning": "sick",
+          "frequency": 79,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 15,
+            "herbal_b": 8,
+            "astronomical": 3,
+            "biological": 8,
+            "pharmaceutical": 14,
+            "recipes": 9
+          },
+          "skeleton": "kl"
+        },
+        {
+          "voynich": "raiin",
+          "source": "rene",
+          "language": "Italian",
+          "meaning": "kidney",
+          "frequency": 74,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 1,
+            "herbal_b": 1,
+            "astronomical": 1,
+            "biological": 16,
+            "pharmaceutical": 3,
+            "recipes": 44
+          },
+          "skeleton": "rn"
+        },
+        {
+          "voynich": "qoteedy",
+          "source": "dito",
+          "language": "Italian",
+          "meaning": "finger",
+          "frequency": 73,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 2,
+            "astronomical": 1,
+            "biological": 38,
+            "recipes": 31
+          },
+          "skeleton": "qtdy"
+        },
+        {
+          "voynich": "qokchy",
+          "source": "occhio",
+          "language": "Italian",
+          "meaning": "eye",
+          "frequency": 69,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 23,
+            "herbal_b": 19,
+            "biological": 7,
+            "recipes": 15
+          },
+          "skeleton": "qkchy"
+        },
+        {
+          "voynich": "sain",
+          "source": "ozen",
+          "language": "Hebrew",
+          "meaning": "ear",
+          "frequency": 66,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 3,
+            "biological": 28,
+            "pharmaceutical": 2,
+            "recipes": 27
+          },
+          "skeleton": "sn"
+        },
+        {
+          "voynich": "okeol",
+          "source": "choleh",
+          "language": "Hebrew",
+          "meaning": "sick",
+          "frequency": 65,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 5,
+            "herbal_b": 2,
+            "astronomical": 2,
+            "biological": 3,
+            "pharmaceutical": 20,
+            "recipes": 13
+          },
+          "skeleton": "kl"
+        },
+        {
+          "voynich": "cheky",
+          "source": "occhio",
+          "language": "Italian",
+          "meaning": "eye",
+          "frequency": 64,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 1,
+            "herbal_b": 23,
+            "astronomical": 1,
+            "biological": 10,
+            "pharmaceutical": 2,
+            "recipes": 11
+          },
+          "skeleton": "chky"
+        },
+        {
+          "voynich": "qotchy",
+          "source": "dito",
+          "language": "Italian",
+          "meaning": "finger",
+          "frequency": 63,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 26,
+            "herbal_b": 24,
+            "biological": 3,
+            "pharmaceutical": 2,
+            "recipes": 6
+          },
+          "skeleton": "qtchy"
+        },
+        {
+          "voynich": "odaiin",
+          "source": "dam",
+          "language": "Hebrew",
+          "meaning": "blood",
+          "frequency": 58,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 11,
+            "herbal_b": 9,
+            "biological": 1,
+            "pharmaceutical": 2,
+            "recipes": 17
+          },
+          "skeleton": "dn"
+        },
+        {
+          "voynich": "sheor",
+          "source": "cura",
+          "language": "Italian",
+          "meaning": "cure",
+          "frequency": 51,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 2,
+            "herbal_b": 7,
+            "biological": 11,
+            "pharmaceutical": 8,
+            "recipes": 11
+          },
+          "skeleton": "shr"
+        },
+        {
+          "voynich": "qokeol",
+          "source": "choleh",
+          "language": "Hebrew",
+          "meaning": "sick",
+          "frequency": 51,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 2,
+            "herbal_b": 3,
+            "biological": 1,
+            "pharmaceutical": 16,
+            "recipes": 13
+          },
+          "skeleton": "qkl"
+        },
+        {
+          "voynich": "opchedy",
+          "source": "petto",
+          "language": "Italian",
+          "meaning": "chest",
+          "frequency": 49,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 4,
+            "biological": 15,
+            "recipes": 26
+          },
+          "skeleton": "pchdy"
+        },
+        {
+          "voynich": "otchy",
+          "source": "dito",
+          "language": "Italian",
+          "meaning": "finger",
+          "frequency": 44,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 21,
+            "herbal_b": 5,
+            "astronomical": 2,
+            "biological": 4,
+            "pharmaceutical": 2,
+            "recipes": 4
+          },
+          "skeleton": "tchy"
+        },
+        {
+          "voynich": "chaiin",
+          "source": "chom",
+          "language": "Hebrew",
+          "meaning": "heat/fever",
+          "frequency": 44,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 17,
+            "herbal_b": 17,
+            "recipes": 7
+          },
+          "skeleton": "chn"
+        },
+        {
+          "voynich": "tedy",
+          "source": "dito",
+          "language": "Italian",
+          "meaning": "finger",
+          "frequency": 43,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 9,
+            "biological": 22,
+            "recipes": 8
+          },
+          "skeleton": "tdy"
+        },
+        {
+          "voynich": "qodaiin",
+          "source": "dam",
+          "language": "Hebrew",
+          "meaning": "blood",
+          "frequency": 42,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 4,
+            "herbal_b": 9,
+            "biological": 1,
+            "pharmaceutical": 1,
+            "recipes": 16
+          },
+          "skeleton": "qdn"
+        },
+        {
+          "voynich": "chodaiin",
+          "source": "dam",
+          "language": "Hebrew",
+          "meaning": "blood",
+          "frequency": 40,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 10,
+            "herbal_b": 8,
+            "astronomical": 1,
+            "biological": 1,
+            "pharmaceutical": 3,
+            "recipes": 12
+          },
+          "skeleton": "chdn"
+        },
+        {
+          "voynich": "choky",
+          "source": "occhio",
+          "language": "Italian",
+          "meaning": "eye",
+          "frequency": 39,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 6,
+            "herbal_b": 13,
+            "astronomical": 1,
+            "pharmaceutical": 3,
+            "recipes": 3
+          },
+          "skeleton": "chky"
+        },
+        {
+          "voynich": "oteody",
+          "source": "dito",
+          "language": "Italian",
+          "meaning": "finger",
+          "frequency": 38,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 3,
+            "astronomical": 9,
+            "pharmaceutical": 3,
+            "recipes": 8
+          },
+          "skeleton": "tdy"
+        },
+        {
+          "voynich": "oraiin",
+          "source": "rene",
+          "language": "Italian",
+          "meaning": "kidney",
+          "frequency": 37,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 2,
+            "herbal_b": 4,
+            "biological": 2,
+            "pharmaceutical": 5,
+            "recipes": 13
+          },
+          "skeleton": "rn"
+        }
+      ]
+    },
+    "astronomical": {
+      "raw_matches": 260,
+      "validated": 118,
+      "new": 84,
+      "entries": [
+        {
+          "voynich": "dar",
+          "source": "toro",
+          "language": "Italian",
+          "meaning": "taurus",
+          "frequency": 304,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 39,
+            "herbal_b": 56,
+            "astronomical": 10,
+            "biological": 66,
+            "pharmaceutical": 13,
+            "recipes": 42
+          },
+          "skeleton": "dr"
+        },
+        {
+          "voynich": "qokeedy",
+          "source": "gedi",
+          "language": "Hebrew",
+          "meaning": "capricorn",
+          "frequency": 301,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 7,
+            "biological": 150,
+            "recipes": 137
+          },
+          "skeleton": "qkdy"
+        },
+        {
+          "voynich": "qokedy",
+          "source": "gedi",
+          "language": "Hebrew",
+          "meaning": "capricorn",
+          "frequency": 268,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 36,
+            "biological": 162,
+            "recipes": 61
+          },
+          "skeleton": "qkdy"
+        },
+        {
+          "voynich": "dal",
+          "source": "taleh",
+          "language": "Hebrew",
+          "meaning": "aries",
+          "frequency": 247,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 22,
+            "herbal_b": 31,
+            "astronomical": 8,
+            "biological": 67,
+            "pharmaceutical": 9,
+            "recipes": 27
+          },
+          "skeleton": "dl"
+        },
+        {
+          "voynich": "qokal",
+          "source": "cielo",
+          "language": "Italian",
+          "meaning": "sky",
+          "frequency": 187,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 6,
+            "biological": 104,
+            "pharmaceutical": 2,
+            "recipes": 41
+          },
+          "skeleton": "qkl"
+        },
+        {
+          "voynich": "chdy",
+          "source": "gedi",
+          "language": "Hebrew",
+          "meaning": "capricorn",
+          "frequency": 151,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 3,
+            "herbal_b": 40,
+            "astronomical": 5,
+            "biological": 23,
+            "pharmaceutical": 4,
+            "recipes": 40
+          },
+          "skeleton": "chdy"
+        },
+        {
+          "voynich": "otal",
+          "source": "taleh",
+          "language": "Hebrew",
+          "meaning": "aries",
+          "frequency": 137,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 3,
+            "herbal_b": 9,
+            "astronomical": 5,
+            "biological": 23,
+            "pharmaceutical": 4,
+            "recipes": 56
+          },
+          "skeleton": "tl"
+        },
+        {
+          "voynich": "okal",
+          "source": "cielo",
+          "language": "Italian",
+          "meaning": "sky",
+          "frequency": 136,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 10,
+            "herbal_b": 22,
+            "astronomical": 3,
+            "biological": 24,
+            "pharmaceutical": 4,
+            "recipes": 41
+          },
+          "skeleton": "kl"
+        },
+        {
+          "voynich": "saiin",
+          "source": "shana",
+          "language": "Hebrew",
+          "meaning": "year",
+          "frequency": 134,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 9,
+            "herbal_b": 21,
+            "biological": 37,
+            "pharmaceutical": 5,
+            "recipes": 37
+          },
+          "skeleton": "sn"
+        },
+        {
+          "voynich": "okedy",
+          "source": "gedi",
+          "language": "Hebrew",
+          "meaning": "capricorn",
+          "frequency": 118,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 22,
+            "astronomical": 2,
+            "biological": 47,
+            "pharmaceutical": 1,
+            "recipes": 33
+          },
+          "skeleton": "kdy"
+        },
+        {
+          "voynich": "dol",
+          "source": "taleh",
+          "language": "Hebrew",
+          "meaning": "aries",
+          "frequency": 113,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 20,
+            "herbal_b": 15,
+            "biological": 34,
+            "pharmaceutical": 11,
+            "recipes": 8
+          },
+          "skeleton": "dl"
+        },
+        {
+          "voynich": "sheol",
+          "source": "cielo",
+          "language": "Italian",
+          "meaning": "sky",
+          "frequency": 112,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 3,
+            "herbal_b": 6,
+            "astronomical": 1,
+            "biological": 29,
+            "pharmaceutical": 13,
+            "recipes": 27
+          },
+          "skeleton": "shl"
+        },
+        {
+          "voynich": "okeedy",
+          "source": "gedi",
+          "language": "Hebrew",
+          "meaning": "capricorn",
+          "frequency": 105,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 12,
+            "biological": 39,
+            "pharmaceutical": 3,
+            "recipes": 48
+          },
+          "skeleton": "kdy"
+        },
+        {
+          "voynich": "qokol",
+          "source": "cielo",
+          "language": "Italian",
+          "meaning": "sky",
+          "frequency": 104,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 14,
+            "herbal_b": 14,
+            "astronomical": 1,
+            "biological": 29,
+            "pharmaceutical": 13,
+            "recipes": 13
+          },
+          "skeleton": "qkl"
+        },
+        {
+          "voynich": "dair",
+          "source": "toro",
+          "language": "Italian",
+          "meaning": "taurus",
+          "frequency": 100,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 13,
+            "herbal_b": 14,
+            "astronomical": 4,
+            "biological": 3,
+            "pharmaceutical": 3,
+            "recipes": 29
+          },
+          "skeleton": "dr"
+        }
+      ]
+    },
+    "pharmaceutical": {
+      "raw_matches": 368,
+      "validated": 269,
+      "new": 178,
+      "entries": [
+        {
+          "voynich": "dar",
+          "source": "dare",
+          "language": "Italian",
+          "meaning": "give",
+          "frequency": 304,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 39,
+            "herbal_b": 56,
+            "astronomical": 10,
+            "biological": 66,
+            "pharmaceutical": 13,
+            "recipes": 42
+          },
+          "skeleton": "dr"
+        },
+        {
+          "voynich": "qokeedy",
+          "source": "aceto",
+          "language": "Italian",
+          "meaning": "vinegar",
+          "frequency": 301,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 7,
+            "biological": 150,
+            "recipes": 137
+          },
+          "skeleton": "qkdy"
+        },
+        {
+          "voynich": "qokedy",
+          "source": "aceto",
+          "language": "Italian",
+          "meaning": "vinegar",
+          "frequency": 268,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 36,
+            "biological": 162,
+            "recipes": 61
+          },
+          "skeleton": "qkdy"
+        },
+        {
+          "voynich": "qokal",
+          "source": "achal",
+          "language": "Hebrew",
+          "meaning": "eat",
+          "frequency": 187,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 6,
+            "biological": 104,
+            "pharmaceutical": 2,
+            "recipes": 41
+          },
+          "skeleton": "qkl"
+        },
+        {
+          "voynich": "chdy",
+          "source": "aceto",
+          "language": "Italian",
+          "meaning": "vinegar",
+          "frequency": 151,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 3,
+            "herbal_b": 40,
+            "astronomical": 5,
+            "biological": 23,
+            "pharmaceutical": 4,
+            "recipes": 40
+          },
+          "skeleton": "chdy"
+        },
+        {
+          "voynich": "qol",
+          "source": "olio",
+          "language": "Italian",
+          "meaning": "oil",
+          "frequency": 150,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 1,
+            "herbal_b": 2,
+            "biological": 116,
+            "pharmaceutical": 1,
+            "recipes": 28
+          },
+          "skeleton": "ql"
+        },
+        {
+          "voynich": "okal",
+          "source": "achal",
+          "language": "Hebrew",
+          "meaning": "eat",
+          "frequency": 136,
+          "match_type": "exact",
+          "section_dist": {
+            "herbal_a": 10,
+            "herbal_b": 22,
+            "astronomical": 3,
+            "biological": 24,
+            "pharmaceutical": 4,
+            "recipes": 41
+          },
+          "skeleton": "kl"
+        },
+        {
+          "voynich": "saiin",
+          "source": "sam",
+          "language": "Hebrew",
+          "meaning": "medicine/drug",
+          "frequency": 134,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 9,
+            "herbal_b": 21,
+            "biological": 37,
+            "pharmaceutical": 5,
+            "recipes": 37
+          },
+          "skeleton": "sn"
+        },
+        {
+          "voynich": "okedy",
+          "source": "aceto",
+          "language": "Italian",
+          "meaning": "vinegar",
+          "frequency": 118,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 22,
+            "astronomical": 2,
+            "biological": 47,
+            "pharmaceutical": 1,
+            "recipes": 33
+          },
+          "skeleton": "kdy"
+        },
+        {
+          "voynich": "sheol",
+          "source": "sale",
+          "language": "Italian",
+          "meaning": "salt",
+          "frequency": 112,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 3,
+            "herbal_b": 6,
+            "astronomical": 1,
+            "biological": 29,
+            "pharmaceutical": 13,
+            "recipes": 27
+          },
+          "skeleton": "shl"
+        },
+        {
+          "voynich": "okeedy",
+          "source": "aceto",
+          "language": "Italian",
+          "meaning": "vinegar",
+          "frequency": 105,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 12,
+            "biological": 39,
+            "pharmaceutical": 3,
+            "recipes": 48
+          },
+          "skeleton": "kdy"
+        },
+        {
+          "voynich": "qokol",
+          "source": "achal",
+          "language": "Hebrew",
+          "meaning": "eat",
+          "frequency": 104,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 14,
+            "herbal_b": 14,
+            "astronomical": 1,
+            "biological": 29,
+            "pharmaceutical": 13,
+            "recipes": 13
+          },
+          "skeleton": "qkl"
+        },
+        {
+          "voynich": "dair",
+          "source": "dare",
+          "language": "Italian",
+          "meaning": "give",
+          "frequency": 100,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 13,
+            "herbal_b": 14,
+            "astronomical": 4,
+            "biological": 3,
+            "pharmaceutical": 3,
+            "recipes": 29
+          },
+          "skeleton": "dr"
+        },
+        {
+          "voynich": "chody",
+          "source": "aceto",
+          "language": "Italian",
+          "meaning": "vinegar",
+          "frequency": 93,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 14,
+            "herbal_b": 22,
+            "biological": 1,
+            "pharmaceutical": 11,
+            "recipes": 22
+          },
+          "skeleton": "chdy"
+        },
+        {
+          "voynich": "cheody",
+          "source": "aceto",
+          "language": "Italian",
+          "meaning": "vinegar",
+          "frequency": 88,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 4,
+            "herbal_b": 7,
+            "astronomical": 4,
+            "pharmaceutical": 8,
+            "recipes": 33
+          },
+          "skeleton": "chdy"
+        },
+        {
+          "voynich": "sheedy",
+          "source": "aceto",
+          "language": "Italian",
+          "meaning": "vinegar",
+          "frequency": 84,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_b": 5,
+            "biological": 43,
+            "pharmaceutical": 1,
+            "recipes": 27
+          },
+          "skeleton": "shdy"
+        },
+        {
+          "voynich": "okol",
+          "source": "achal",
+          "language": "Hebrew",
+          "meaning": "eat",
+          "frequency": 79,
+          "match_type": "exact",
+          "section_dist": {
+            "herbal_a": 15,
+            "herbal_b": 8,
+            "astronomical": 3,
+            "biological": 8,
+            "pharmaceutical": 14,
+            "recipes": 9
+          },
+          "skeleton": "kl"
+        },
+        {
+          "voynich": "dor",
+          "source": "dare",
+          "language": "Italian",
+          "meaning": "give",
+          "frequency": 71,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 23,
+            "herbal_b": 18,
+            "biological": 8,
+            "pharmaceutical": 7,
+            "recipes": 5
+          },
+          "skeleton": "dr"
+        },
+        {
+          "voynich": "qokchy",
+          "source": "aceto",
+          "language": "Italian",
+          "meaning": "vinegar",
+          "frequency": 69,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 23,
+            "herbal_b": 19,
+            "biological": 7,
+            "recipes": 15
+          },
+          "skeleton": "qkchy"
+        },
+        {
+          "voynich": "sain",
+          "source": "sam",
+          "language": "Hebrew",
+          "meaning": "medicine/drug",
+          "frequency": 66,
+          "match_type": "skeleton",
+          "section_dist": {
+            "herbal_a": 3,
+            "biological": 28,
+            "pharmaceutical": 2,
+            "recipes": 27
+          },
+          "skeleton": "sn"
+        }
+      ]
+    }
+  },
+  "new_entries": [
+    {
+      "voynich": "qokeedy",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 301,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 7,
+        "biological": 150,
+        "recipes": 137
+      },
+      "skeleton": "qkdy"
+    },
+    {
+      "voynich": "qokedy",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 268,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 36,
+        "biological": 162,
+        "recipes": 61
+      },
+      "skeleton": "qkdy"
+    },
+    {
+      "voynich": "dain",
+      "source": "tena",
+      "language": "Hebrew",
+      "meaning": "fig",
+      "frequency": 198,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 33,
+        "herbal_b": 39,
+        "biological": 46,
+        "pharmaceutical": 9,
+        "recipes": 53
+      },
+      "skeleton": "dn"
+    },
+    {
+      "voynich": "qokal",
+      "source": "aglio",
+      "language": "Italian",
+      "meaning": "garlic",
+      "frequency": 187,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 6,
+        "biological": 104,
+        "pharmaceutical": 2,
+        "recipes": 41
+      },
+      "skeleton": "qkl"
+    },
+    {
+      "voynich": "chdy",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 151,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 3,
+        "herbal_b": 40,
+        "astronomical": 5,
+        "biological": 23,
+        "pharmaceutical": 4,
+        "recipes": 40
+      },
+      "skeleton": "chdy"
+    },
+    {
+      "voynich": "qol",
+      "source": "aloe",
+      "language": "Italian",
+      "meaning": "aloe",
+      "frequency": 150,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 1,
+        "herbal_b": 2,
+        "biological": 116,
+        "pharmaceutical": 1,
+        "recipes": 28
+      },
+      "skeleton": "ql"
+    },
+    {
+      "voynich": "okal",
+      "source": "aglio",
+      "language": "Italian",
+      "meaning": "garlic",
+      "frequency": 136,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 10,
+        "herbal_b": 22,
+        "astronomical": 3,
+        "biological": 24,
+        "pharmaceutical": 4,
+        "recipes": 41
+      },
+      "skeleton": "kl"
+    },
+    {
+      "voynich": "saiin",
+      "source": "seme",
+      "language": "Italian",
+      "meaning": "seed",
+      "frequency": 134,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 9,
+        "herbal_b": 21,
+        "biological": 37,
+        "pharmaceutical": 5,
+        "recipes": 37
+      },
+      "skeleton": "sn"
+    },
+    {
+      "voynich": "okedy",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 118,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 22,
+        "astronomical": 2,
+        "biological": 47,
+        "pharmaceutical": 1,
+        "recipes": 33
+      },
+      "skeleton": "kdy"
+    },
+    {
+      "voynich": "okeedy",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 105,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 12,
+        "biological": 39,
+        "pharmaceutical": 3,
+        "recipes": 48
+      },
+      "skeleton": "kdy"
+    },
+    {
+      "voynich": "qokol",
+      "source": "aglio",
+      "language": "Italian",
+      "meaning": "garlic",
+      "frequency": 104,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 14,
+        "herbal_b": 14,
+        "astronomical": 1,
+        "biological": 29,
+        "pharmaceutical": 13,
+        "recipes": 13
+      },
+      "skeleton": "qkl"
+    },
+    {
+      "voynich": "chody",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 93,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 14,
+        "herbal_b": 22,
+        "biological": 1,
+        "pharmaceutical": 11,
+        "recipes": 22
+      },
+      "skeleton": "chdy"
+    },
+    {
+      "voynich": "cheody",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 88,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 4,
+        "herbal_b": 7,
+        "astronomical": 4,
+        "pharmaceutical": 8,
+        "recipes": 33
+      },
+      "skeleton": "chdy"
+    },
+    {
+      "voynich": "okol",
+      "source": "aglio",
+      "language": "Italian",
+      "meaning": "garlic",
+      "frequency": 79,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 15,
+        "herbal_b": 8,
+        "astronomical": 3,
+        "biological": 8,
+        "pharmaceutical": 14,
+        "recipes": 9
+      },
+      "skeleton": "kl"
+    },
+    {
+      "voynich": "raiin",
+      "source": "ramo",
+      "language": "Italian",
+      "meaning": "branch",
+      "frequency": 74,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 1,
+        "herbal_b": 1,
+        "astronomical": 1,
+        "biological": 16,
+        "pharmaceutical": 3,
+        "recipes": 44
+      },
+      "skeleton": "rn"
+    },
+    {
+      "voynich": "qokchy",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 69,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 23,
+        "herbal_b": 19,
+        "biological": 7,
+        "recipes": 15
+      },
+      "skeleton": "qkchy"
+    },
+    {
+      "voynich": "sain",
+      "source": "seme",
+      "language": "Italian",
+      "meaning": "seed",
+      "frequency": 66,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 3,
+        "biological": 28,
+        "pharmaceutical": 2,
+        "recipes": 27
+      },
+      "skeleton": "sn"
+    },
+    {
+      "voynich": "okeol",
+      "source": "aglio",
+      "language": "Italian",
+      "meaning": "garlic",
+      "frequency": 65,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 5,
+        "herbal_b": 2,
+        "astronomical": 2,
+        "biological": 3,
+        "pharmaceutical": 20,
+        "recipes": 13
+      },
+      "skeleton": "kl"
+    },
+    {
+      "voynich": "cheedy",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 59,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 1,
+        "biological": 25,
+        "pharmaceutical": 3,
+        "recipes": 24
+      },
+      "skeleton": "chdy"
+    },
+    {
+      "voynich": "oly",
+      "source": "aloe",
+      "language": "Italian",
+      "meaning": "aloe",
+      "frequency": 58,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 3,
+        "herbal_b": 7,
+        "astronomical": 1,
+        "biological": 31,
+        "pharmaceutical": 2,
+        "recipes": 7
+      },
+      "skeleton": "ly"
+    },
+    {
+      "voynich": "odaiin",
+      "source": "tena",
+      "language": "Hebrew",
+      "meaning": "fig",
+      "frequency": 58,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 11,
+        "herbal_b": 9,
+        "biological": 1,
+        "pharmaceutical": 2,
+        "recipes": 17
+      },
+      "skeleton": "dn"
+    },
+    {
+      "voynich": "keedy",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 53,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 6,
+        "biological": 18,
+        "recipes": 26
+      },
+      "skeleton": "kdy"
+    },
+    {
+      "voynich": "qokeol",
+      "source": "aglio",
+      "language": "Italian",
+      "meaning": "garlic",
+      "frequency": 51,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 2,
+        "herbal_b": 3,
+        "biological": 1,
+        "pharmaceutical": 16,
+        "recipes": 13
+      },
+      "skeleton": "qkl"
+    },
+    {
+      "voynich": "sheor",
+      "source": "seorah",
+      "language": "Hebrew",
+      "meaning": "barley",
+      "frequency": 51,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 2,
+        "herbal_b": 7,
+        "biological": 11,
+        "pharmaceutical": 8,
+        "recipes": 11
+      },
+      "skeleton": "shr"
+    },
+    {
+      "voynich": "chaiin",
+      "source": "tena",
+      "language": "Hebrew",
+      "meaning": "fig",
+      "frequency": 44,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 17,
+        "herbal_b": 17,
+        "recipes": 7
+      },
+      "skeleton": "chn"
+    },
+    {
+      "voynich": "qodaiin",
+      "source": "tena",
+      "language": "Hebrew",
+      "meaning": "fig",
+      "frequency": 42,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 4,
+        "herbal_b": 9,
+        "biological": 1,
+        "pharmaceutical": 1,
+        "recipes": 16
+      },
+      "skeleton": "qdn"
+    },
+    {
+      "voynich": "chodaiin",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 40,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 10,
+        "herbal_b": 8,
+        "astronomical": 1,
+        "biological": 1,
+        "pharmaceutical": 3,
+        "recipes": 12
+      },
+      "skeleton": "chdn"
+    },
+    {
+      "voynich": "oraiin",
+      "source": "ramo",
+      "language": "Italian",
+      "meaning": "branch",
+      "frequency": 37,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 2,
+        "herbal_b": 4,
+        "biological": 2,
+        "pharmaceutical": 5,
+        "recipes": 13
+      },
+      "skeleton": "rn"
+    },
+    {
+      "voynich": "kol",
+      "source": "aglio",
+      "language": "Italian",
+      "meaning": "garlic",
+      "frequency": 37,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 8,
+        "herbal_b": 12,
+        "biological": 2,
+        "pharmaceutical": 5,
+        "recipes": 4
+      },
+      "skeleton": "kl"
+    },
+    {
+      "voynich": "chos",
+      "source": "ets",
+      "language": "Hebrew",
+      "meaning": "tree",
+      "frequency": 36,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 1,
+        "herbal_b": 5,
+        "pharmaceutical": 3,
+        "recipes": 10
+      },
+      "skeleton": "chs"
+    },
+    {
+      "voynich": "choty",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 36,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 11,
+        "herbal_b": 9,
+        "astronomical": 1,
+        "biological": 1,
+        "pharmaceutical": 1,
+        "recipes": 7
+      },
+      "skeleton": "chty"
+    },
+    {
+      "voynich": "okeody",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 36,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 1,
+        "herbal_b": 5,
+        "astronomical": 5,
+        "pharmaceutical": 1,
+        "recipes": 5
+      },
+      "skeleton": "kdy"
+    },
+    {
+      "voynich": "okchy",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 35,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 8,
+        "herbal_b": 7,
+        "astronomical": 3,
+        "biological": 2,
+        "recipes": 4
+      },
+      "skeleton": "kchy"
+    },
+    {
+      "voynich": "cheos",
+      "source": "ets",
+      "language": "Hebrew",
+      "meaning": "tree",
+      "frequency": 33,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 1,
+        "herbal_b": 4,
+        "astronomical": 1,
+        "pharmaceutical": 3,
+        "recipes": 9
+      },
+      "skeleton": "chs"
+    },
+    {
+      "voynich": "chees",
+      "source": "ets",
+      "language": "Hebrew",
+      "meaning": "tree",
+      "frequency": 32,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 2,
+        "herbal_b": 8,
+        "astronomical": 1,
+        "biological": 5,
+        "pharmaceutical": 4,
+        "recipes": 8
+      },
+      "skeleton": "chs"
+    },
+    {
+      "voynich": "qokeody",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 32,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 4,
+        "astronomical": 1,
+        "pharmaceutical": 8,
+        "recipes": 4
+      },
+      "skeleton": "qkdy"
+    },
+    {
+      "voynich": "chety",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 25,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 1,
+        "herbal_b": 7,
+        "biological": 5,
+        "pharmaceutical": 1,
+        "recipes": 4
+      },
+      "skeleton": "chty"
+    },
+    {
+      "voynich": "keody",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 22,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 1,
+        "herbal_b": 7,
+        "astronomical": 1,
+        "pharmaceutical": 2,
+        "recipes": 3
+      },
+      "skeleton": "kdy"
+    },
+    {
+      "voynich": "kchol",
+      "source": "giglio",
+      "language": "Italian",
+      "meaning": "lily",
+      "frequency": 21,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 10,
+        "herbal_b": 7,
+        "biological": 1,
+        "pharmaceutical": 1,
+        "recipes": 1
+      },
+      "skeleton": "kchl"
+    },
+    {
+      "voynich": "kchey",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 21,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 4,
+        "herbal_b": 8,
+        "biological": 3,
+        "pharmaceutical": 1,
+        "recipes": 3
+      },
+      "skeleton": "kchy"
+    },
+    {
+      "voynich": "shaiin",
+      "source": "seme",
+      "language": "Italian",
+      "meaning": "seed",
+      "frequency": 20,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 9,
+        "herbal_b": 5,
+        "recipes": 6
+      },
+      "skeleton": "shn"
+    },
+    {
+      "voynich": "keol",
+      "source": "aglio",
+      "language": "Italian",
+      "meaning": "garlic",
+      "frequency": 20,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 3,
+        "herbal_b": 4,
+        "biological": 2,
+        "pharmaceutical": 1,
+        "recipes": 6
+      },
+      "skeleton": "kl"
+    },
+    {
+      "voynich": "soiin",
+      "source": "seme",
+      "language": "Italian",
+      "meaning": "seed",
+      "frequency": 19,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 2,
+        "herbal_b": 3,
+        "biological": 4,
+        "pharmaceutical": 3,
+        "recipes": 5
+      },
+      "skeleton": "sn"
+    },
+    {
+      "voynich": "ykchy",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 19,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 11,
+        "herbal_b": 5,
+        "pharmaceutical": 1
+      },
+      "skeleton": "ykchy"
+    },
+    {
+      "voynich": "ydaiin",
+      "source": "tena",
+      "language": "Hebrew",
+      "meaning": "fig",
+      "frequency": 19,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 4,
+        "herbal_b": 5,
+        "biological": 1,
+        "recipes": 3
+      },
+      "skeleton": "ydn"
+    },
+    {
+      "voynich": "qokchol",
+      "source": "giglio",
+      "language": "Italian",
+      "meaning": "lily",
+      "frequency": 18,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 10,
+        "herbal_b": 3,
+        "pharmaceutical": 2,
+        "recipes": 3
+      },
+      "skeleton": "qkchl"
+    },
+    {
+      "voynich": "ykedy",
+      "source": "chitah",
+      "language": "Hebrew",
+      "meaning": "wheat",
+      "frequency": 18,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 7,
+        "biological": 6,
+        "recipes": 3
+      },
+      "skeleton": "ykdy"
+    },
+    {
+      "voynich": "doiin",
+      "source": "tena",
+      "language": "Hebrew",
+      "meaning": "fig",
+      "frequency": 18,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 3,
+        "herbal_b": 5,
+        "biological": 1,
+        "pharmaceutical": 1,
+        "recipes": 3
+      },
+      "skeleton": "dn"
+    },
+    {
+      "voynich": "odain",
+      "source": "tena",
+      "language": "Hebrew",
+      "meaning": "fig",
+      "frequency": 18,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 1,
+        "herbal_b": 3,
+        "astronomical": 1,
+        "biological": 1,
+        "recipes": 7
+      },
+      "skeleton": "dn"
+    },
+    {
+      "voynich": "ols",
+      "source": "luz",
+      "language": "Hebrew",
+      "meaning": "almond tree",
+      "frequency": 18,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 3,
+        "herbal_b": 1,
+        "biological": 4,
+        "pharmaceutical": 3,
+        "recipes": 3
+      },
+      "skeleton": "ls"
+    },
+    {
+      "voynich": "otedy",
+      "source": "dito",
+      "language": "Italian",
+      "meaning": "finger",
+      "frequency": 154,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 18,
+        "astronomical": 3,
+        "biological": 54,
+        "pharmaceutical": 1,
+        "recipes": 60
+      },
+      "skeleton": "tdy"
+    },
+    {
+      "voynich": "lchedy",
+      "source": "latte",
+      "language": "Italian",
+      "meaning": "milk",
+      "frequency": 119,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 1,
+        "biological": 59,
+        "recipes": 55
+      },
+      "skeleton": "lchdy"
+    },
+    {
+      "voynich": "sheol",
+      "source": "choleh",
+      "language": "Hebrew",
+      "meaning": "sick",
+      "frequency": 112,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 3,
+        "herbal_b": 6,
+        "astronomical": 1,
+        "biological": 29,
+        "pharmaceutical": 13,
+        "recipes": 27
+      },
+      "skeleton": "shl"
+    },
+    {
+      "voynich": "oteedy",
+      "source": "dito",
+      "language": "Italian",
+      "meaning": "finger",
+      "frequency": 99,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 1,
+        "biological": 24,
+        "recipes": 60
+      },
+      "skeleton": "tdy"
+    },
+    {
+      "voynich": "qotedy",
+      "source": "dito",
+      "language": "Italian",
+      "meaning": "finger",
+      "frequency": 92,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 12,
+        "biological": 49,
+        "recipes": 27
+      },
+      "skeleton": "qtdy"
+    },
+    {
+      "voynich": "qoteedy",
+      "source": "dito",
+      "language": "Italian",
+      "meaning": "finger",
+      "frequency": 73,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 2,
+        "astronomical": 1,
+        "biological": 38,
+        "recipes": 31
+      },
+      "skeleton": "qtdy"
+    },
+    {
+      "voynich": "cheky",
+      "source": "occhio",
+      "language": "Italian",
+      "meaning": "eye",
+      "frequency": 64,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 1,
+        "herbal_b": 23,
+        "astronomical": 1,
+        "biological": 10,
+        "pharmaceutical": 2,
+        "recipes": 11
+      },
+      "skeleton": "chky"
+    },
+    {
+      "voynich": "qotchy",
+      "source": "dito",
+      "language": "Italian",
+      "meaning": "finger",
+      "frequency": 63,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 26,
+        "herbal_b": 24,
+        "biological": 3,
+        "pharmaceutical": 2,
+        "recipes": 6
+      },
+      "skeleton": "qtchy"
+    },
+    {
+      "voynich": "opchedy",
+      "source": "petto",
+      "language": "Italian",
+      "meaning": "chest",
+      "frequency": 49,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 4,
+        "biological": 15,
+        "recipes": 26
+      },
+      "skeleton": "pchdy"
+    },
+    {
+      "voynich": "otchy",
+      "source": "dito",
+      "language": "Italian",
+      "meaning": "finger",
+      "frequency": 44,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 21,
+        "herbal_b": 5,
+        "astronomical": 2,
+        "biological": 4,
+        "pharmaceutical": 2,
+        "recipes": 4
+      },
+      "skeleton": "tchy"
+    },
+    {
+      "voynich": "tedy",
+      "source": "dito",
+      "language": "Italian",
+      "meaning": "finger",
+      "frequency": 43,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 9,
+        "biological": 22,
+        "recipes": 8
+      },
+      "skeleton": "tdy"
+    },
+    {
+      "voynich": "choky",
+      "source": "occhio",
+      "language": "Italian",
+      "meaning": "eye",
+      "frequency": 39,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 6,
+        "herbal_b": 13,
+        "astronomical": 1,
+        "pharmaceutical": 3,
+        "recipes": 3
+      },
+      "skeleton": "chky"
+    },
+    {
+      "voynich": "oteody",
+      "source": "dito",
+      "language": "Italian",
+      "meaning": "finger",
+      "frequency": 38,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 3,
+        "astronomical": 9,
+        "pharmaceutical": 3,
+        "recipes": 8
+      },
+      "skeleton": "tdy"
+    },
+    {
+      "voynich": "dar",
+      "source": "toro",
+      "language": "Italian",
+      "meaning": "taurus",
+      "frequency": 304,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 39,
+        "herbal_b": 56,
+        "astronomical": 10,
+        "biological": 66,
+        "pharmaceutical": 13,
+        "recipes": 42
+      },
+      "skeleton": "dr"
+    },
+    {
+      "voynich": "dal",
+      "source": "taleh",
+      "language": "Hebrew",
+      "meaning": "aries",
+      "frequency": 247,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 22,
+        "herbal_b": 31,
+        "astronomical": 8,
+        "biological": 67,
+        "pharmaceutical": 9,
+        "recipes": 27
+      },
+      "skeleton": "dl"
+    },
+    {
+      "voynich": "otal",
+      "source": "taleh",
+      "language": "Hebrew",
+      "meaning": "aries",
+      "frequency": 137,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 3,
+        "herbal_b": 9,
+        "astronomical": 5,
+        "biological": 23,
+        "pharmaceutical": 4,
+        "recipes": 56
+      },
+      "skeleton": "tl"
+    },
+    {
+      "voynich": "dol",
+      "source": "taleh",
+      "language": "Hebrew",
+      "meaning": "aries",
+      "frequency": 113,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 20,
+        "herbal_b": 15,
+        "biological": 34,
+        "pharmaceutical": 11,
+        "recipes": 8
+      },
+      "skeleton": "dl"
+    },
+    {
+      "voynich": "dair",
+      "source": "toro",
+      "language": "Italian",
+      "meaning": "taurus",
+      "frequency": 100,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 13,
+        "herbal_b": 14,
+        "astronomical": 4,
+        "biological": 3,
+        "pharmaceutical": 3,
+        "recipes": 29
+      },
+      "skeleton": "dr"
+    },
+    {
+      "voynich": "sheedy",
+      "source": "aceto",
+      "language": "Italian",
+      "meaning": "vinegar",
+      "frequency": 84,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_b": 5,
+        "biological": 43,
+        "pharmaceutical": 1,
+        "recipes": 27
+      },
+      "skeleton": "shdy"
+    },
+    {
+      "voynich": "dor",
+      "source": "dare",
+      "language": "Italian",
+      "meaning": "give",
+      "frequency": 71,
+      "match_type": "skeleton",
+      "section_dist": {
+        "herbal_a": 23,
+        "herbal_b": 18,
+        "biological": 8,
+        "pharmaceutical": 7,
+        "recipes": 5
+      },
+      "skeleton": "dr"
+    }
+  ],
+  "total_new_entries": 70
+}

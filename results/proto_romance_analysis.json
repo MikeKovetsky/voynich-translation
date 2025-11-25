@@ -1,0 +1,3979 @@
+{
+  "italian_roots": {
+    "dictionary_size": 77,
+    "exact": [
+      {
+        "voynich": "otar",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 745
+      },
+      {
+        "voynich": "okar",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 661
+      },
+      {
+        "voynich": "okar",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 661
+      },
+      {
+        "voynich": "kar",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 352
+      },
+      {
+        "voynich": "kar",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 352
+      },
+      {
+        "voynich": "sol",
+        "voynich_skeleton": "sl",
+        "italian": "sale",
+        "italian_skeleton": "sl",
+        "meaning": "salt",
+        "match_type": "exact",
+        "frequency": 343
+      },
+      {
+        "voynich": "sol",
+        "voynich_skeleton": "sl",
+        "italian": "sole",
+        "italian_skeleton": "sl",
+        "meaning": "sun",
+        "match_type": "exact",
+        "frequency": 343
+      },
+      {
+        "voynich": "sal",
+        "voynich_skeleton": "sl",
+        "italian": "sale",
+        "italian_skeleton": "sl",
+        "meaning": "salt",
+        "match_type": "exact",
+        "frequency": 283
+      },
+      {
+        "voynich": "sal",
+        "voynich_skeleton": "sl",
+        "italian": "sole",
+        "italian_skeleton": "sl",
+        "meaning": "sun",
+        "match_type": "exact",
+        "frequency": 283
+      },
+      {
+        "voynich": "tar",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 276
+      },
+      {
+        "voynich": "olaiin",
+        "voynich_skeleton": "ln",
+        "italian": "luna",
+        "italian_skeleton": "ln",
+        "meaning": "moon",
+        "match_type": "exact",
+        "frequency": 252
+      },
+      {
+        "voynich": "otam",
+        "voynich_skeleton": "tm",
+        "italian": "timo",
+        "italian_skeleton": "tm",
+        "meaning": "thyme",
+        "match_type": "exact",
+        "frequency": 226
+      },
+      {
+        "voynich": "otor",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 185
+      },
+      {
+        "voynich": "okor",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 154
+      },
+      {
+        "voynich": "okor",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 154
+      },
+      {
+        "voynich": "ykar",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 151
+      },
+      {
+        "voynich": "ykar",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 151
+      },
+      {
+        "voynich": "kor",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 141
+      },
+      {
+        "voynich": "kor",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 141
+      },
+      {
+        "voynich": "tor",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 138
+      },
+      {
+        "voynich": "ytar",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 124
+      },
+      {
+        "voynich": "otair",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 123
+      },
+      {
+        "voynich": "okair",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 113
+      },
+      {
+        "voynich": "okair",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 113
+      },
+      {
+        "voynich": "kair",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 100
+      },
+      {
+        "voynich": "kair",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 100
+      },
+      {
+        "voynich": "okeor",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 100
+      },
+      {
+        "voynich": "okeor",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 100
+      },
+      {
+        "voynich": "pol",
+        "voynich_skeleton": "pl",
+        "italian": "pelle",
+        "italian_skeleton": "pl",
+        "meaning": "skin",
+        "match_type": "exact",
+        "frequency": 82
+      },
+      {
+        "voynich": "ytor",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 70
+      },
+      {
+        "voynich": "ram",
+        "voynich_skeleton": "rm",
+        "italian": "ramo",
+        "italian_skeleton": "rm",
+        "meaning": "branch",
+        "match_type": "exact",
+        "frequency": 69
+      },
+      {
+        "voynich": "laiin",
+        "voynich_skeleton": "ln",
+        "italian": "luna",
+        "italian_skeleton": "ln",
+        "meaning": "moon",
+        "match_type": "exact",
+        "frequency": 69
+      },
+      {
+        "voynich": "oteor",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 64
+      },
+      {
+        "voynich": "opal",
+        "voynich_skeleton": "pl",
+        "italian": "pelle",
+        "italian_skeleton": "pl",
+        "meaning": "skin",
+        "match_type": "exact",
+        "frequency": 61
+      },
+      {
+        "voynich": "tair",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 55
+      },
+      {
+        "voynich": "sam",
+        "voynich_skeleton": "sm",
+        "italian": "seme",
+        "italian_skeleton": "sm",
+        "meaning": "seed",
+        "match_type": "exact",
+        "frequency": 54
+      },
+      {
+        "voynich": "ytam",
+        "voynich_skeleton": "tm",
+        "italian": "timo",
+        "italian_skeleton": "tm",
+        "meaning": "thyme",
+        "match_type": "exact",
+        "frequency": 51
+      },
+      {
+        "voynich": "tam",
+        "voynich_skeleton": "tm",
+        "italian": "timo",
+        "italian_skeleton": "tm",
+        "meaning": "thyme",
+        "match_type": "exact",
+        "frequency": 49
+      },
+      {
+        "voynich": "okary",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 48
+      },
+      {
+        "voynich": "okary",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 48
+      },
+      {
+        "voynich": "oram",
+        "voynich_skeleton": "rm",
+        "italian": "ramo",
+        "italian_skeleton": "rm",
+        "meaning": "branch",
+        "match_type": "exact",
+        "frequency": 48
+      },
+      {
+        "voynich": "okear",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 45
+      },
+      {
+        "voynich": "okear",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 45
+      },
+      {
+        "voynich": "far",
+        "voynich_skeleton": "fr",
+        "italian": "fiore",
+        "italian_skeleton": "fr",
+        "meaning": "flower",
+        "match_type": "exact",
+        "frequency": 44
+      },
+      {
+        "voynich": "okeeor",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 43
+      },
+      {
+        "voynich": "okeeor",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 43
+      },
+      {
+        "voynich": "ykor",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 43
+      },
+      {
+        "voynich": "ykor",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 43
+      },
+      {
+        "voynich": "aram",
+        "voynich_skeleton": "rm",
+        "italian": "ramo",
+        "italian_skeleton": "rm",
+        "meaning": "branch",
+        "match_type": "exact",
+        "frequency": 42
+      },
+      {
+        "voynich": "keor",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 39
+      },
+      {
+        "voynich": "keor",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 39
+      },
+      {
+        "voynich": "keeor",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 39
+      },
+      {
+        "voynich": "keeor",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 39
+      },
+      {
+        "voynich": "dalor",
+        "voynich_skeleton": "dlr",
+        "italian": "dolore",
+        "italian_skeleton": "dlr",
+        "meaning": "pain",
+        "match_type": "exact",
+        "frequency": 37
+      },
+      {
+        "voynich": "otary",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 34
+      },
+      {
+        "voynich": "otear",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 30
+      },
+      {
+        "voynich": "okaiir",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 30
+      },
+      {
+        "voynich": "okaiir",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 30
+      },
+      {
+        "voynich": "ykair",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 30
+      },
+      {
+        "voynich": "ykair",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 30
+      },
+      {
+        "voynich": "kary",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 30
+      },
+      {
+        "voynich": "kary",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 30
+      },
+      {
+        "voynich": "ykeor",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 27
+      },
+      {
+        "voynich": "ykeor",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 27
+      },
+      {
+        "voynich": "ofar",
+        "voynich_skeleton": "fr",
+        "italian": "fiore",
+        "italian_skeleton": "fr",
+        "meaning": "flower",
+        "match_type": "exact",
+        "frequency": 27
+      },
+      {
+        "voynich": "olain",
+        "voynich_skeleton": "ln",
+        "italian": "luna",
+        "italian_skeleton": "ln",
+        "meaning": "moon",
+        "match_type": "exact",
+        "frequency": 24
+      },
+      {
+        "voynich": "opol",
+        "voynich_skeleton": "pl",
+        "italian": "pelle",
+        "italian_skeleton": "pl",
+        "meaning": "skin",
+        "match_type": "exact",
+        "frequency": 23
+      },
+      {
+        "voynich": "alaiin",
+        "voynich_skeleton": "ln",
+        "italian": "luna",
+        "italian_skeleton": "ln",
+        "meaning": "moon",
+        "match_type": "exact",
+        "frequency": 21
+      },
+      {
+        "voynich": "osal",
+        "voynich_skeleton": "sl",
+        "italian": "sale",
+        "italian_skeleton": "sl",
+        "meaning": "salt",
+        "match_type": "exact",
+        "frequency": 21
+      },
+      {
+        "voynich": "osal",
+        "voynich_skeleton": "sl",
+        "italian": "sole",
+        "italian_skeleton": "sl",
+        "meaning": "sun",
+        "match_type": "exact",
+        "frequency": 21
+      },
+      {
+        "voynich": "teor",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 19
+      },
+      {
+        "voynich": "okeear",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 19
+      },
+      {
+        "voynich": "okeear",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 19
+      },
+      {
+        "voynich": "ykeeor",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 18
+      },
+      {
+        "voynich": "ykeeor",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 18
+      },
+      {
+        "voynich": "ytair",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 18
+      },
+      {
+        "voynich": "tr",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 17
+      },
+      {
+        "voynich": "yteor",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 17
+      },
+      {
+        "voynich": "otaiir",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 16
+      },
+      {
+        "voynich": "toar",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 14
+      },
+      {
+        "voynich": "orom",
+        "voynich_skeleton": "rm",
+        "italian": "ramo",
+        "italian_skeleton": "rm",
+        "meaning": "branch",
+        "match_type": "exact",
+        "frequency": 13
+      },
+      {
+        "voynich": "dalar",
+        "voynich_skeleton": "dlr",
+        "italian": "dolore",
+        "italian_skeleton": "dlr",
+        "meaning": "pain",
+        "match_type": "exact",
+        "frequency": 13
+      },
+      {
+        "voynich": "ypal",
+        "voynich_skeleton": "pl",
+        "italian": "pelle",
+        "italian_skeleton": "pl",
+        "meaning": "skin",
+        "match_type": "exact",
+        "frequency": 13
+      },
+      {
+        "voynich": "keear",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 13
+      },
+      {
+        "voynich": "keear",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 13
+      },
+      {
+        "voynich": "opydy",
+        "voynich_skeleton": "pd",
+        "italian": "piede",
+        "italian_skeleton": "pd",
+        "meaning": "foot",
+        "match_type": "exact",
+        "frequency": 12
+      },
+      {
+        "voynich": "oteeor",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 12
+      },
+      {
+        "voynich": "ofor",
+        "voynich_skeleton": "fr",
+        "italian": "fiore",
+        "italian_skeleton": "fr",
+        "meaning": "flower",
+        "match_type": "exact",
+        "frequency": 12
+      },
+      {
+        "voynich": "dolar",
+        "voynich_skeleton": "dlr",
+        "italian": "dolore",
+        "italian_skeleton": "dlr",
+        "meaning": "pain",
+        "match_type": "exact",
+        "frequency": 11
+      },
+      {
+        "voynich": "dalary",
+        "voynich_skeleton": "dlr",
+        "italian": "dolore",
+        "italian_skeleton": "dlr",
+        "meaning": "pain",
+        "match_type": "exact",
+        "frequency": 11
+      },
+      {
+        "voynich": "dolor",
+        "voynich_skeleton": "dlr",
+        "italian": "dolore",
+        "italian_skeleton": "dlr",
+        "meaning": "pain",
+        "match_type": "exact",
+        "frequency": 11
+      },
+      {
+        "voynich": "kairy",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 11
+      },
+      {
+        "voynich": "kairy",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 11
+      },
+      {
+        "voynich": "otaim",
+        "voynich_skeleton": "tm",
+        "italian": "timo",
+        "italian_skeleton": "tm",
+        "meaning": "thyme",
+        "match_type": "exact",
+        "frequency": 10
+      },
+      {
+        "voynich": "otory",
+        "voynich_skeleton": "tr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "exact",
+        "frequency": 10
+      },
+      {
+        "voynich": "okairy",
+        "voynich_skeleton": "kr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "exact",
+        "frequency": 10
+      },
+      {
+        "voynich": "okairy",
+        "voynich_skeleton": "kr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "exact",
+        "frequency": 10
+      },
+      {
+        "voynich": "saly",
+        "voynich_skeleton": "sl",
+        "italian": "sale",
+        "italian_skeleton": "sl",
+        "meaning": "salt",
+        "match_type": "exact",
+        "frequency": 10
+      },
+      {
+        "voynich": "saly",
+        "voynich_skeleton": "sl",
+        "italian": "sole",
+        "italian_skeleton": "sl",
+        "meaning": "sun",
+        "match_type": "exact",
+        "frequency": 10
+      },
+      {
+        "voynich": "sokeey",
+        "voynich_skeleton": "sk",
+        "italian": "succo",
+        "italian_skeleton": "sk",
+        "meaning": "juice",
+        "match_type": "exact",
+        "frequency": 10
+      }
+    ],
+    "contains": [
+      {
+        "voynich": "qokar",
+        "voynich_skeleton": "qkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 768
+      },
+      {
+        "voynich": "qokar",
+        "voynich_skeleton": "qkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 768
+      },
+      {
+        "voynich": "qotar",
+        "voynich_skeleton": "qtr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "contains",
+        "frequency": 307
+      },
+      {
+        "voynich": "qokor",
+        "voynich_skeleton": "qkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 162
+      },
+      {
+        "voynich": "qokor",
+        "voynich_skeleton": "qkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 162
+      },
+      {
+        "voynich": "lkar",
+        "voynich_skeleton": "lkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 154
+      },
+      {
+        "voynich": "lkar",
+        "voynich_skeleton": "lkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 154
+      },
+      {
+        "voynich": "qotor",
+        "voynich_skeleton": "qtr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "contains",
+        "frequency": 126
+      },
+      {
+        "voynich": "qokeor",
+        "voynich_skeleton": "qkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 102
+      },
+      {
+        "voynich": "qokeor",
+        "voynich_skeleton": "qkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 102
+      },
+      {
+        "voynich": "olkar",
+        "voynich_skeleton": "lkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 95
+      },
+      {
+        "voynich": "olkar",
+        "voynich_skeleton": "lkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 95
+      },
+      {
+        "voynich": "qokair",
+        "voynich_skeleton": "qkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 91
+      },
+      {
+        "voynich": "qokair",
+        "voynich_skeleton": "qkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 91
+      },
+      {
+        "voynich": "qotam",
+        "voynich_skeleton": "qtm",
+        "italian": "timo",
+        "italian_skeleton": "tm",
+        "meaning": "thyme",
+        "match_type": "contains",
+        "frequency": 67
+      },
+      {
+        "voynich": "chotar",
+        "voynich_skeleton": "chtr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "contains",
+        "frequency": 57
+      },
+      {
+        "voynich": "chkar",
+        "voynich_skeleton": "chkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 53
+      },
+      {
+        "voynich": "chkar",
+        "voynich_skeleton": "chkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 53
+      },
+      {
+        "voynich": "qokeeor",
+        "voynich_skeleton": "qkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 45
+      },
+      {
+        "voynich": "qokeeor",
+        "voynich_skeleton": "qkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 45
+      },
+      {
+        "voynich": "chekar",
+        "voynich_skeleton": "chkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 41
+      },
+      {
+        "voynich": "chekar",
+        "voynich_skeleton": "chkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 41
+      },
+      {
+        "voynich": "chokar",
+        "voynich_skeleton": "chkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 34
+      },
+      {
+        "voynich": "chokar",
+        "voynich_skeleton": "chkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 34
+      },
+      {
+        "voynich": "qokear",
+        "voynich_skeleton": "qkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 33
+      },
+      {
+        "voynich": "qokear",
+        "voynich_skeleton": "qkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 33
+      },
+      {
+        "voynich": "polaiin",
+        "voynich_skeleton": "pln",
+        "italian": "luna",
+        "italian_skeleton": "ln",
+        "meaning": "moon",
+        "match_type": "contains",
+        "frequency": 32
+      },
+      {
+        "voynich": "polaiin",
+        "voynich_skeleton": "pln",
+        "italian": "pelle",
+        "italian_skeleton": "pl",
+        "meaning": "skin",
+        "match_type": "contains",
+        "frequency": 32
+      },
+      {
+        "voynich": "qopol",
+        "voynich_skeleton": "qpl",
+        "italian": "pelle",
+        "italian_skeleton": "pl",
+        "meaning": "skin",
+        "match_type": "contains",
+        "frequency": 31
+      },
+      {
+        "voynich": "daram",
+        "voynich_skeleton": "drm",
+        "italian": "ramo",
+        "italian_skeleton": "rm",
+        "meaning": "branch",
+        "match_type": "contains",
+        "frequency": 31
+      },
+      {
+        "voynich": "chetar",
+        "voynich_skeleton": "chtr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "contains",
+        "frequency": 31
+      },
+      {
+        "voynich": "qotair",
+        "voynich_skeleton": "qtr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "contains",
+        "frequency": 29
+      },
+      {
+        "voynich": "qoteor",
+        "voynich_skeleton": "qtr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "contains",
+        "frequency": 26
+      },
+      {
+        "voynich": "chokor",
+        "voynich_skeleton": "chkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 25
+      },
+      {
+        "voynich": "chokor",
+        "voynich_skeleton": "chkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 25
+      },
+      {
+        "voynich": "polchedy",
+        "voynich_skeleton": "plchd",
+        "italian": "pelle",
+        "italian_skeleton": "pl",
+        "meaning": "skin",
+        "match_type": "contains",
+        "frequency": 25
+      },
+      {
+        "voynich": "olkair",
+        "voynich_skeleton": "lkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 24
+      },
+      {
+        "voynich": "olkair",
+        "voynich_skeleton": "lkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 24
+      },
+      {
+        "voynich": "chotam",
+        "voynich_skeleton": "chtm",
+        "italian": "timo",
+        "italian_skeleton": "tm",
+        "meaning": "thyme",
+        "match_type": "contains",
+        "frequency": 24
+      },
+      {
+        "voynich": "otarar",
+        "voynich_skeleton": "trr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "contains",
+        "frequency": 24
+      },
+      {
+        "voynich": "solkeedy",
+        "voynich_skeleton": "slkd",
+        "italian": "sale",
+        "italian_skeleton": "sl",
+        "meaning": "salt",
+        "match_type": "contains",
+        "frequency": 23
+      },
+      {
+        "voynich": "solkeedy",
+        "voynich_skeleton": "slkd",
+        "italian": "sole",
+        "italian_skeleton": "sl",
+        "meaning": "sun",
+        "match_type": "contains",
+        "frequency": 23
+      },
+      {
+        "voynich": "okaral",
+        "voynich_skeleton": "krl",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 20
+      },
+      {
+        "voynich": "okaral",
+        "voynich_skeleton": "krl",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 20
+      },
+      {
+        "voynich": "cholaiin",
+        "voynich_skeleton": "chln",
+        "italian": "luna",
+        "italian_skeleton": "ln",
+        "meaning": "moon",
+        "match_type": "contains",
+        "frequency": 19
+      },
+      {
+        "voynich": "chotor",
+        "voynich_skeleton": "chtr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "contains",
+        "frequency": 19
+      },
+      {
+        "voynich": "alkar",
+        "voynich_skeleton": "lkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 19
+      },
+      {
+        "voynich": "alkar",
+        "voynich_skeleton": "lkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 19
+      },
+      {
+        "voynich": "podaiin",
+        "voynich_skeleton": "pdn",
+        "italian": "piede",
+        "italian_skeleton": "pd",
+        "meaning": "foot",
+        "match_type": "contains",
+        "frequency": 18
+      },
+      {
+        "voynich": "otaram",
+        "voynich_skeleton": "trm",
+        "italian": "ramo",
+        "italian_skeleton": "rm",
+        "meaning": "branch",
+        "match_type": "contains",
+        "frequency": 18
+      },
+      {
+        "voynich": "otaram",
+        "voynich_skeleton": "trm",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "contains",
+        "frequency": 18
+      },
+      {
+        "voynich": "lkair",
+        "voynich_skeleton": "lkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 17
+      },
+      {
+        "voynich": "lkair",
+        "voynich_skeleton": "lkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 17
+      },
+      {
+        "voynich": "qolain",
+        "voynich_skeleton": "qln",
+        "italian": "luna",
+        "italian_skeleton": "ln",
+        "meaning": "moon",
+        "match_type": "contains",
+        "frequency": 16
+      },
+      {
+        "voynich": "shokar",
+        "voynich_skeleton": "shkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 16
+      },
+      {
+        "voynich": "shokar",
+        "voynich_skeleton": "shkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 16
+      },
+      {
+        "voynich": "pdaiin",
+        "voynich_skeleton": "pdn",
+        "italian": "piede",
+        "italian_skeleton": "pd",
+        "meaning": "foot",
+        "match_type": "contains",
+        "frequency": 16
+      },
+      {
+        "voynich": "okaram",
+        "voynich_skeleton": "krm",
+        "italian": "ramo",
+        "italian_skeleton": "rm",
+        "meaning": "branch",
+        "match_type": "contains",
+        "frequency": 16
+      },
+      {
+        "voynich": "okaram",
+        "voynich_skeleton": "krm",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 16
+      },
+      {
+        "voynich": "okaram",
+        "voynich_skeleton": "krm",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 16
+      },
+      {
+        "voynich": "olkor",
+        "voynich_skeleton": "lkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 16
+      },
+      {
+        "voynich": "olkor",
+        "voynich_skeleton": "lkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 16
+      },
+      {
+        "voynich": "qopal",
+        "voynich_skeleton": "qpl",
+        "italian": "pelle",
+        "italian_skeleton": "pl",
+        "meaning": "skin",
+        "match_type": "contains",
+        "frequency": 15
+      },
+      {
+        "voynich": "opydaiin",
+        "voynich_skeleton": "pdn",
+        "italian": "piede",
+        "italian_skeleton": "pd",
+        "meaning": "foot",
+        "match_type": "contains",
+        "frequency": 15
+      },
+      {
+        "voynich": "skaiin",
+        "voynich_skeleton": "skn",
+        "italian": "succo",
+        "italian_skeleton": "sk",
+        "meaning": "juice",
+        "match_type": "contains",
+        "frequency": 15
+      },
+      {
+        "voynich": "raram",
+        "voynich_skeleton": "rrm",
+        "italian": "ramo",
+        "italian_skeleton": "rm",
+        "meaning": "branch",
+        "match_type": "contains",
+        "frequency": 15
+      },
+      {
+        "voynich": "chtor",
+        "voynich_skeleton": "chtr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "contains",
+        "frequency": 14
+      },
+      {
+        "voynich": "chtar",
+        "voynich_skeleton": "chtr",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "contains",
+        "frequency": 14
+      },
+      {
+        "voynich": "dalkar",
+        "voynich_skeleton": "dlkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 14
+      },
+      {
+        "voynich": "dalkar",
+        "voynich_skeleton": "dlkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 14
+      },
+      {
+        "voynich": "opdaiin",
+        "voynich_skeleton": "pdn",
+        "italian": "piede",
+        "italian_skeleton": "pd",
+        "meaning": "foot",
+        "match_type": "contains",
+        "frequency": 14
+      },
+      {
+        "voynich": "sheekar",
+        "voynich_skeleton": "shkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 13
+      },
+      {
+        "voynich": "sheekar",
+        "voynich_skeleton": "shkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 13
+      },
+      {
+        "voynich": "qokaiir",
+        "voynich_skeleton": "qkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 13
+      },
+      {
+        "voynich": "qokaiir",
+        "voynich_skeleton": "qkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 13
+      },
+      {
+        "voynich": "olkeear",
+        "voynich_skeleton": "lkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 13
+      },
+      {
+        "voynich": "olkeear",
+        "voynich_skeleton": "lkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 13
+      },
+      {
+        "voynich": "polar",
+        "voynich_skeleton": "plr",
+        "italian": "pelle",
+        "italian_skeleton": "pl",
+        "meaning": "skin",
+        "match_type": "contains",
+        "frequency": 13
+      },
+      {
+        "voynich": "pydaiin",
+        "voynich_skeleton": "pdn",
+        "italian": "piede",
+        "italian_skeleton": "pd",
+        "meaning": "foot",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "saldy",
+        "voynich_skeleton": "sld",
+        "italian": "sale",
+        "italian_skeleton": "sl",
+        "meaning": "salt",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "saldy",
+        "voynich_skeleton": "sld",
+        "italian": "sole",
+        "italian_skeleton": "sl",
+        "meaning": "sun",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "shkair",
+        "voynich_skeleton": "shkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "shkair",
+        "voynich_skeleton": "shkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "poldy",
+        "voynich_skeleton": "pld",
+        "italian": "pelle",
+        "italian_skeleton": "pl",
+        "meaning": "skin",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "qofair",
+        "voynich_skeleton": "qfr",
+        "italian": "fiore",
+        "italian_skeleton": "fr",
+        "meaning": "flower",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "dalaiin",
+        "voynich_skeleton": "dln",
+        "italian": "luna",
+        "italian_skeleton": "ln",
+        "meaning": "moon",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "charam",
+        "voynich_skeleton": "chrm",
+        "italian": "ramo",
+        "italian_skeleton": "rm",
+        "meaning": "branch",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "taral",
+        "voynich_skeleton": "trl",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "solkeey",
+        "voynich_skeleton": "slk",
+        "italian": "sale",
+        "italian_skeleton": "sl",
+        "meaning": "salt",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "solkeey",
+        "voynich_skeleton": "slk",
+        "italian": "sole",
+        "italian_skeleton": "sl",
+        "meaning": "sun",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "otaral",
+        "voynich_skeleton": "trl",
+        "italian": "terra",
+        "italian_skeleton": "tr",
+        "meaning": "earth",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "koraiin",
+        "voynich_skeleton": "krn",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 11
+      },
+      {
+        "voynich": "koraiin",
+        "voynich_skeleton": "krn",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 11
+      },
+      {
+        "voynich": "chotom",
+        "voynich_skeleton": "chtm",
+        "italian": "timo",
+        "italian_skeleton": "tm",
+        "meaning": "thyme",
+        "match_type": "contains",
+        "frequency": 11
+      },
+      {
+        "voynich": "sharam",
+        "voynich_skeleton": "shrm",
+        "italian": "ramo",
+        "italian_skeleton": "rm",
+        "meaning": "branch",
+        "match_type": "contains",
+        "frequency": 11
+      },
+      {
+        "voynich": "shekar",
+        "voynich_skeleton": "shkr",
+        "italian": "cuore",
+        "italian_skeleton": "kr",
+        "meaning": "heart",
+        "match_type": "contains",
+        "frequency": 11
+      },
+      {
+        "voynich": "shekar",
+        "voynich_skeleton": "shkr",
+        "italian": "cura",
+        "italian_skeleton": "kr",
+        "meaning": "cure",
+        "match_type": "contains",
+        "frequency": 11
+      },
+      {
+        "voynich": "salar",
+        "voynich_skeleton": "slr",
+        "italian": "sale",
+        "italian_skeleton": "sl",
+        "meaning": "salt",
+        "match_type": "contains",
+        "frequency": 11
+      },
+      {
+        "voynich": "salar",
+        "voynich_skeleton": "slr",
+        "italian": "sole",
+        "italian_skeleton": "sl",
+        "meaning": "sun",
+        "match_type": "contains",
+        "frequency": 11
+      },
+      {
+        "voynich": "otalaiin",
+        "voynich_skeleton": "tln",
+        "italian": "luna",
+        "italian_skeleton": "ln",
+        "meaning": "moon",
+        "match_type": "contains",
+        "frequency": 11
+      }
+    ]
+  },
+  "hebrew_roots": {
+    "dictionary_size": 32,
+    "exact": [
+      {
+        "voynich": "otaiin",
+        "voynich_skeleton": "tn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "exact",
+        "frequency": 851
+      },
+      {
+        "voynich": "dam",
+        "voynich_skeleton": "dm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "exact",
+        "frequency": 510
+      },
+      {
+        "voynich": "sar",
+        "voynich_skeleton": "sr",
+        "hebrew": "seorah",
+        "hebrew_root": "s-ayin-r",
+        "meaning": "barley",
+        "match_type": "exact",
+        "frequency": 388
+      },
+      {
+        "voynich": "taiin",
+        "voynich_skeleton": "tn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "exact",
+        "frequency": 256
+      },
+      {
+        "voynich": "sor",
+        "voynich_skeleton": "sr",
+        "hebrew": "seorah",
+        "hebrew_root": "s-ayin-r",
+        "meaning": "barley",
+        "match_type": "exact",
+        "frequency": 236
+      },
+      {
+        "voynich": "ytaiin",
+        "voynich_skeleton": "tn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "exact",
+        "frequency": 213
+      },
+      {
+        "voynich": "sair",
+        "voynich_skeleton": "sr",
+        "hebrew": "seorah",
+        "hebrew_root": "s-ayin-r",
+        "meaning": "barley",
+        "match_type": "exact",
+        "frequency": 123
+      },
+      {
+        "voynich": "oteos",
+        "voynich_skeleton": "ts",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "exact",
+        "frequency": 85
+      },
+      {
+        "voynich": "otain",
+        "voynich_skeleton": "tn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "exact",
+        "frequency": 85
+      },
+      {
+        "voynich": "daim",
+        "voynich_skeleton": "dm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "exact",
+        "frequency": 62
+      },
+      {
+        "voynich": "opar",
+        "voynich_skeleton": "pr",
+        "hebrew": "pri",
+        "hebrew_root": "p-r-y",
+        "meaning": "fruit",
+        "match_type": "exact",
+        "frequency": 59
+      },
+      {
+        "voynich": "sam",
+        "voynich_skeleton": "sm",
+        "hebrew": "sam",
+        "hebrew_root": "s-m",
+        "meaning": "medicine/drug",
+        "match_type": "exact",
+        "frequency": 54
+      },
+      {
+        "voynich": "por",
+        "voynich_skeleton": "pr",
+        "hebrew": "pri",
+        "hebrew_root": "p-r-y",
+        "meaning": "fruit",
+        "match_type": "exact",
+        "frequency": 43
+      },
+      {
+        "voynich": "otees",
+        "voynich_skeleton": "ts",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "exact",
+        "frequency": 40
+      },
+      {
+        "voynich": "dom",
+        "voynich_skeleton": "dm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "exact",
+        "frequency": 38
+      },
+      {
+        "voynich": "par",
+        "voynich_skeleton": "pr",
+        "hebrew": "pri",
+        "hebrew_root": "p-r-y",
+        "meaning": "fruit",
+        "match_type": "exact",
+        "frequency": 37
+      },
+      {
+        "voynich": "oteeos",
+        "voynich_skeleton": "ts",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "exact",
+        "frequency": 31
+      },
+      {
+        "voynich": "daiim",
+        "voynich_skeleton": "dm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "exact",
+        "frequency": 26
+      },
+      {
+        "voynich": "odam",
+        "voynich_skeleton": "dm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "exact",
+        "frequency": 24
+      },
+      {
+        "voynich": "tos",
+        "voynich_skeleton": "ts",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "exact",
+        "frequency": 24
+      },
+      {
+        "voynich": "dm",
+        "voynich_skeleton": "dm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "exact",
+        "frequency": 23
+      },
+      {
+        "voynich": "sary",
+        "voynich_skeleton": "sr",
+        "hebrew": "seorah",
+        "hebrew_root": "s-ayin-r",
+        "meaning": "barley",
+        "match_type": "exact",
+        "frequency": 23
+      },
+      {
+        "voynich": "opor",
+        "voynich_skeleton": "pr",
+        "hebrew": "pri",
+        "hebrew_root": "p-r-y",
+        "meaning": "fruit",
+        "match_type": "exact",
+        "frequency": 23
+      },
+      {
+        "voynich": "opair",
+        "voynich_skeleton": "pr",
+        "hebrew": "pri",
+        "hebrew_root": "p-r-y",
+        "meaning": "fruit",
+        "match_type": "exact",
+        "frequency": 21
+      },
+      {
+        "voynich": "saiir",
+        "voynich_skeleton": "sr",
+        "hebrew": "seorah",
+        "hebrew_root": "s-ayin-r",
+        "meaning": "barley",
+        "match_type": "exact",
+        "frequency": 20
+      },
+      {
+        "voynich": "ypar",
+        "voynich_skeleton": "pr",
+        "hebrew": "pri",
+        "hebrew_root": "p-r-y",
+        "meaning": "fruit",
+        "match_type": "exact",
+        "frequency": 19
+      },
+      {
+        "voynich": "otes",
+        "voynich_skeleton": "ts",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "exact",
+        "frequency": 19
+      },
+      {
+        "voynich": "opary",
+        "voynich_skeleton": "pr",
+        "hebrew": "pri",
+        "hebrew_root": "p-r-y",
+        "meaning": "fruit",
+        "match_type": "exact",
+        "frequency": 19
+      },
+      {
+        "voynich": "pair",
+        "voynich_skeleton": "pr",
+        "hebrew": "pri",
+        "hebrew_root": "p-r-y",
+        "meaning": "fruit",
+        "match_type": "exact",
+        "frequency": 18
+      },
+      {
+        "voynich": "otos",
+        "voynich_skeleton": "ts",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "exact",
+        "frequency": 16
+      },
+      {
+        "voynich": "ypair",
+        "voynich_skeleton": "pr",
+        "hebrew": "pri",
+        "hebrew_root": "p-r-y",
+        "meaning": "fruit",
+        "match_type": "exact",
+        "frequency": 15
+      },
+      {
+        "voynich": "otan",
+        "voynich_skeleton": "tn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "exact",
+        "frequency": 13
+      },
+      {
+        "voynich": "ytain",
+        "voynich_skeleton": "tn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "exact",
+        "frequency": 12
+      },
+      {
+        "voynich": "poar",
+        "voynich_skeleton": "pr",
+        "hebrew": "pri",
+        "hebrew_root": "p-r-y",
+        "meaning": "fruit",
+        "match_type": "exact",
+        "frequency": 12
+      },
+      {
+        "voynich": "toiin",
+        "voynich_skeleton": "tn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "exact",
+        "frequency": 12
+      },
+      {
+        "voynich": "toaiin",
+        "voynich_skeleton": "tn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "exact",
+        "frequency": 12
+      },
+      {
+        "voynich": "oteeys",
+        "voynich_skeleton": "ts",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "exact",
+        "frequency": 12
+      },
+      {
+        "voynich": "oteaiin",
+        "voynich_skeleton": "tn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "exact",
+        "frequency": 12
+      },
+      {
+        "voynich": "sairy",
+        "voynich_skeleton": "sr",
+        "hebrew": "seorah",
+        "hebrew_root": "s-ayin-r",
+        "meaning": "barley",
+        "match_type": "exact",
+        "frequency": 12
+      },
+      {
+        "voynich": "sory",
+        "voynich_skeleton": "sr",
+        "hebrew": "seorah",
+        "hebrew_root": "s-ayin-r",
+        "meaning": "barley",
+        "match_type": "exact",
+        "frequency": 11
+      },
+      {
+        "voynich": "yteos",
+        "voynich_skeleton": "ts",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "exact",
+        "frequency": 11
+      },
+      {
+        "voynich": "oteees",
+        "voynich_skeleton": "ts",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "exact",
+        "frequency": 11
+      },
+      {
+        "voynich": "teeos",
+        "voynich_skeleton": "ts",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "exact",
+        "frequency": 10
+      },
+      {
+        "voynich": "teos",
+        "voynich_skeleton": "ts",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "exact",
+        "frequency": 10
+      },
+      {
+        "voynich": "otoaiin",
+        "voynich_skeleton": "tn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "exact",
+        "frequency": 9
+      },
+      {
+        "voynich": "damo",
+        "voynich_skeleton": "dm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "exact",
+        "frequency": 9
+      },
+      {
+        "voynich": "toees",
+        "voynich_skeleton": "ts",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "exact",
+        "frequency": 9
+      },
+      {
+        "voynich": "otoiin",
+        "voynich_skeleton": "tn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "exact",
+        "frequency": 8
+      },
+      {
+        "voynich": "adam",
+        "voynich_skeleton": "dm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "exact",
+        "frequency": 8
+      },
+      {
+        "voynich": "syaiir",
+        "voynich_skeleton": "sr",
+        "hebrew": "seorah",
+        "hebrew_root": "s-ayin-r",
+        "meaning": "barley",
+        "match_type": "exact",
+        "frequency": 7
+      }
+    ],
+    "contains": [
+      {
+        "voynich": "qotaiin",
+        "voynich_skeleton": "qtn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "contains",
+        "frequency": 445
+      },
+      {
+        "voynich": "qotain",
+        "voynich_skeleton": "qtn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "contains",
+        "frequency": 54
+      },
+      {
+        "voynich": "chotaiin",
+        "voynich_skeleton": "chtn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "contains",
+        "frequency": 49
+      },
+      {
+        "voynich": "otshedy",
+        "voynich_skeleton": "tshd",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 49
+      },
+      {
+        "voynich": "chdam",
+        "voynich_skeleton": "chdm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "contains",
+        "frequency": 48
+      },
+      {
+        "voynich": "tshedy",
+        "voynich_skeleton": "tshd",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 42
+      },
+      {
+        "voynich": "tsho",
+        "voynich_skeleton": "tsh",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 36
+      },
+      {
+        "voynich": "tshey",
+        "voynich_skeleton": "tsh",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 36
+      },
+      {
+        "voynich": "tshol",
+        "voynich_skeleton": "tshl",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 34
+      },
+      {
+        "voynich": "otshey",
+        "voynich_skeleton": "tsh",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 34
+      },
+      {
+        "voynich": "oldam",
+        "voynich_skeleton": "ldm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "contains",
+        "frequency": 30
+      },
+      {
+        "voynich": "tshdy",
+        "voynich_skeleton": "tshd",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 27
+      },
+      {
+        "voynich": "qotshy",
+        "voynich_skeleton": "qtsh",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 25
+      },
+      {
+        "voynich": "chedam",
+        "voynich_skeleton": "chdm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "contains",
+        "frequency": 25
+      },
+      {
+        "voynich": "soraiin",
+        "voynich_skeleton": "srn",
+        "hebrew": "seorah",
+        "hebrew_root": "s-ayin-r",
+        "meaning": "barley",
+        "match_type": "contains",
+        "frequency": 24
+      },
+      {
+        "voynich": "otshy",
+        "voynich_skeleton": "tsh",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 22
+      },
+      {
+        "voynich": "qopar",
+        "voynich_skeleton": "qpr",
+        "hebrew": "pri",
+        "hebrew_root": "p-r-y",
+        "meaning": "fruit",
+        "match_type": "contains",
+        "frequency": 22
+      },
+      {
+        "voynich": "chtaiin",
+        "voynich_skeleton": "chtn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "contains",
+        "frequency": 20
+      },
+      {
+        "voynich": "tshor",
+        "voynich_skeleton": "tshr",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 20
+      },
+      {
+        "voynich": "sarol",
+        "voynich_skeleton": "srl",
+        "hebrew": "seorah",
+        "hebrew_root": "s-ayin-r",
+        "meaning": "barley",
+        "match_type": "contains",
+        "frequency": 20
+      },
+      {
+        "voynich": "chetaiin",
+        "voynich_skeleton": "chtn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "contains",
+        "frequency": 19
+      },
+      {
+        "voynich": "tshy",
+        "voynich_skeleton": "tsh",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 18
+      },
+      {
+        "voynich": "qotees",
+        "voynich_skeleton": "qts",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 18
+      },
+      {
+        "voynich": "otshdy",
+        "voynich_skeleton": "tshd",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 18
+      },
+      {
+        "voynich": "qopor",
+        "voynich_skeleton": "qpr",
+        "hebrew": "pri",
+        "hebrew_root": "p-r-y",
+        "meaning": "fruit",
+        "match_type": "contains",
+        "frequency": 17
+      },
+      {
+        "voynich": "rshedy",
+        "voynich_skeleton": "rshd",
+        "hebrew": "rosh",
+        "hebrew_root": "r-'-sh",
+        "meaning": "head",
+        "match_type": "contains",
+        "frequency": 17
+      },
+      {
+        "voynich": "tshed",
+        "voynich_skeleton": "tshd",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 16
+      },
+      {
+        "voynich": "rsheedy",
+        "voynich_skeleton": "rshd",
+        "hebrew": "rosh",
+        "hebrew_root": "r-'-sh",
+        "meaning": "head",
+        "match_type": "contains",
+        "frequency": 16
+      },
+      {
+        "voynich": "qotshdy",
+        "voynich_skeleton": "qtshd",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 16
+      },
+      {
+        "voynich": "ytshy",
+        "voynich_skeleton": "tsh",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 15
+      },
+      {
+        "voynich": "okedam",
+        "voynich_skeleton": "kdm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "contains",
+        "frequency": 15
+      },
+      {
+        "voynich": "saraiin",
+        "voynich_skeleton": "srn",
+        "hebrew": "seorah",
+        "hebrew_root": "s-ayin-r",
+        "meaning": "barley",
+        "match_type": "contains",
+        "frequency": 15
+      },
+      {
+        "voynich": "tedam",
+        "voynich_skeleton": "tdm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "contains",
+        "frequency": 15
+      },
+      {
+        "voynich": "qotoiin",
+        "voynich_skeleton": "qtn",
+        "hebrew": "tena",
+        "hebrew_root": "t-'-n",
+        "meaning": "fig",
+        "match_type": "contains",
+        "frequency": 14
+      },
+      {
+        "voynich": "qodam",
+        "voynich_skeleton": "qdm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "contains",
+        "frequency": 14
+      },
+      {
+        "voynich": "aldam",
+        "voynich_skeleton": "ldm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "contains",
+        "frequency": 14
+      },
+      {
+        "voynich": "qotas",
+        "voynich_skeleton": "qts",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 14
+      },
+      {
+        "voynich": "qotshedy",
+        "voynich_skeleton": "qtshd",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 14
+      },
+      {
+        "voynich": "otshol",
+        "voynich_skeleton": "tshl",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "chotshol",
+        "voynich_skeleton": "chtshl",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "qotshey",
+        "voynich_skeleton": "qtsh",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "tshedar",
+        "voynich_skeleton": "tshdr",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "qoteees",
+        "voynich_skeleton": "qts",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "saral",
+        "voynich_skeleton": "srl",
+        "hebrew": "seorah",
+        "hebrew_root": "s-ayin-r",
+        "meaning": "barley",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "otedam",
+        "voynich_skeleton": "tdm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "contains",
+        "frequency": 12
+      },
+      {
+        "voynich": "chepar",
+        "voynich_skeleton": "chpr",
+        "hebrew": "pri",
+        "hebrew_root": "p-r-y",
+        "meaning": "fruit",
+        "match_type": "contains",
+        "frequency": 11
+      },
+      {
+        "voynich": "tsheody",
+        "voynich_skeleton": "tshd",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 11
+      },
+      {
+        "voynich": "otsho",
+        "voynich_skeleton": "tsh",
+        "hebrew": "ets",
+        "hebrew_root": "ayin-ts",
+        "meaning": "tree",
+        "match_type": "contains",
+        "frequency": 11
+      },
+      {
+        "voynich": "shedam",
+        "voynich_skeleton": "shdm",
+        "hebrew": "dam",
+        "hebrew_root": "d-m",
+        "meaning": "blood",
+        "match_type": "contains",
+        "frequency": 11
+      },
+      {
+        "voynich": "darshol",
+        "voynich_skeleton": "drshl",
+        "hebrew": "rosh",
+        "hebrew_root": "r-'-sh",
+        "meaning": "head",
+        "match_type": "contains",
+        "frequency": 10
+      }
+    ]
+  },
+  "hybrid_mappings": [
+    {
+      "voynich": "sam",
+      "skeleton": "sm",
+      "italian": "seme",
+      "italian_meaning": "seed",
+      "hebrew": "sam",
+      "hebrew_root": "s-m",
+      "hebrew_meaning": "medicine/drug",
+      "both_systems": true,
+      "meanings_align": false,
+      "confidence": 0.6,
+      "frequency": 54
+    },
+    {
+      "voynich": "qokar",
+      "skeleton": "qkr",
+      "italian": "cuore",
+      "italian_meaning": "heart",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 768
+    },
+    {
+      "voynich": "otar",
+      "skeleton": "tr",
+      "italian": "terra",
+      "italian_meaning": "earth",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 745
+    },
+    {
+      "voynich": "okar",
+      "skeleton": "kr",
+      "italian": "cuore",
+      "italian_meaning": "heart",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 661
+    },
+    {
+      "voynich": "sol",
+      "skeleton": "sl",
+      "italian": "sale",
+      "italian_meaning": "salt",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 343
+    },
+    {
+      "voynich": "qotar",
+      "skeleton": "qtr",
+      "italian": "terra",
+      "italian_meaning": "earth",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 307
+    },
+    {
+      "voynich": "olaiin",
+      "skeleton": "ln",
+      "italian": "luna",
+      "italian_meaning": "moon",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 252
+    },
+    {
+      "voynich": "otam",
+      "skeleton": "tm",
+      "italian": "timo",
+      "italian_meaning": "thyme",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 226
+    },
+    {
+      "voynich": "lkar",
+      "skeleton": "lkr",
+      "italian": "cuore",
+      "italian_meaning": "heart",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 154
+    },
+    {
+      "voynich": "pol",
+      "skeleton": "pl",
+      "italian": "pelle",
+      "italian_meaning": "skin",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 82
+    },
+    {
+      "voynich": "ram",
+      "skeleton": "rm",
+      "italian": "ramo",
+      "italian_meaning": "branch",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 69
+    },
+    {
+      "voynich": "qotam",
+      "skeleton": "qtm",
+      "italian": "timo",
+      "italian_meaning": "thyme",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 67
+    },
+    {
+      "voynich": "chotar",
+      "skeleton": "chtr",
+      "italian": "terra",
+      "italian_meaning": "earth",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 57
+    },
+    {
+      "voynich": "chkar",
+      "skeleton": "chkr",
+      "italian": "cuore",
+      "italian_meaning": "heart",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 53
+    },
+    {
+      "voynich": "far",
+      "skeleton": "fr",
+      "italian": "fiore",
+      "italian_meaning": "flower",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 44
+    },
+    {
+      "voynich": "dalor",
+      "skeleton": "dlr",
+      "italian": "dolore",
+      "italian_meaning": "pain",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 37
+    },
+    {
+      "voynich": "polaiin",
+      "skeleton": "pln",
+      "italian": "luna",
+      "italian_meaning": "moon",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 32
+    },
+    {
+      "voynich": "qopol",
+      "skeleton": "qpl",
+      "italian": "pelle",
+      "italian_meaning": "skin",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 31
+    },
+    {
+      "voynich": "daram",
+      "skeleton": "drm",
+      "italian": "ramo",
+      "italian_meaning": "branch",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 31
+    },
+    {
+      "voynich": "polchedy",
+      "skeleton": "plchd",
+      "italian": "pelle",
+      "italian_meaning": "skin",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 25
+    },
+    {
+      "voynich": "otarar",
+      "skeleton": "trr",
+      "italian": "terra",
+      "italian_meaning": "earth",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 24
+    },
+    {
+      "voynich": "chotam",
+      "skeleton": "chtm",
+      "italian": "timo",
+      "italian_meaning": "thyme",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 24
+    },
+    {
+      "voynich": "solkeedy",
+      "skeleton": "slkd",
+      "italian": "sale",
+      "italian_meaning": "salt",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 23
+    },
+    {
+      "voynich": "okaral",
+      "skeleton": "krl",
+      "italian": "cuore",
+      "italian_meaning": "heart",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 20
+    },
+    {
+      "voynich": "cholaiin",
+      "skeleton": "chln",
+      "italian": "luna",
+      "italian_meaning": "moon",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 19
+    },
+    {
+      "voynich": "podaiin",
+      "skeleton": "pdn",
+      "italian": "piede",
+      "italian_meaning": "foot",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 18
+    },
+    {
+      "voynich": "otaram",
+      "skeleton": "trm",
+      "italian": "ramo",
+      "italian_meaning": "branch",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 18
+    },
+    {
+      "voynich": "qolain",
+      "skeleton": "qln",
+      "italian": "luna",
+      "italian_meaning": "moon",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 16
+    },
+    {
+      "voynich": "shokar",
+      "skeleton": "shkr",
+      "italian": "cuore",
+      "italian_meaning": "heart",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 16
+    },
+    {
+      "voynich": "okaram",
+      "skeleton": "krm",
+      "italian": "ramo",
+      "italian_meaning": "branch",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 16
+    },
+    {
+      "voynich": "raram",
+      "skeleton": "rrm",
+      "italian": "ramo",
+      "italian_meaning": "branch",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 15
+    },
+    {
+      "voynich": "skaiin",
+      "skeleton": "skn",
+      "italian": "succo",
+      "italian_meaning": "juice",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 15
+    },
+    {
+      "voynich": "dalkar",
+      "skeleton": "dlkr",
+      "italian": "cuore",
+      "italian_meaning": "heart",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 14
+    },
+    {
+      "voynich": "polar",
+      "skeleton": "plr",
+      "italian": "pelle",
+      "italian_meaning": "skin",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 13
+    },
+    {
+      "voynich": "solkeey",
+      "skeleton": "slk",
+      "italian": "sale",
+      "italian_meaning": "salt",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 12
+    },
+    {
+      "voynich": "poldy",
+      "skeleton": "pld",
+      "italian": "pelle",
+      "italian_meaning": "skin",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 12
+    },
+    {
+      "voynich": "taral",
+      "skeleton": "trl",
+      "italian": "terra",
+      "italian_meaning": "earth",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 12
+    },
+    {
+      "voynich": "qofair",
+      "skeleton": "qfr",
+      "italian": "fiore",
+      "italian_meaning": "flower",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 12
+    },
+    {
+      "voynich": "dalaiin",
+      "skeleton": "dln",
+      "italian": "luna",
+      "italian_meaning": "moon",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 12
+    },
+    {
+      "voynich": "saldy",
+      "skeleton": "sld",
+      "italian": "sale",
+      "italian_meaning": "salt",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 12
+    },
+    {
+      "voynich": "charam",
+      "skeleton": "chrm",
+      "italian": "ramo",
+      "italian_meaning": "branch",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 12
+    },
+    {
+      "voynich": "opydy",
+      "skeleton": "pd",
+      "italian": "piede",
+      "italian_meaning": "foot",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 12
+    },
+    {
+      "voynich": "sharam",
+      "skeleton": "shrm",
+      "italian": "ramo",
+      "italian_meaning": "branch",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 11
+    },
+    {
+      "voynich": "otalaiin",
+      "skeleton": "tln",
+      "italian": "luna",
+      "italian_meaning": "moon",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 11
+    },
+    {
+      "voynich": "koraiin",
+      "skeleton": "krn",
+      "italian": "cuore",
+      "italian_meaning": "heart",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 11
+    },
+    {
+      "voynich": "salar",
+      "skeleton": "slr",
+      "italian": "sale",
+      "italian_meaning": "salt",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 11
+    },
+    {
+      "voynich": "sokeey",
+      "skeleton": "sk",
+      "italian": "succo",
+      "italian_meaning": "juice",
+      "hebrew": null,
+      "hebrew_root": null,
+      "hebrew_meaning": null,
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.5,
+      "frequency": 10
+    },
+    {
+      "voynich": "otaiin",
+      "skeleton": "tn",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "tena",
+      "hebrew_root": "t-'-n",
+      "hebrew_meaning": "fig",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 851
+    },
+    {
+      "voynich": "dam",
+      "skeleton": "dm",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "dam",
+      "hebrew_root": "d-m",
+      "hebrew_meaning": "blood",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 510
+    },
+    {
+      "voynich": "qotaiin",
+      "skeleton": "qtn",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "tena",
+      "hebrew_root": "t-'-n",
+      "hebrew_meaning": "fig",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 445
+    },
+    {
+      "voynich": "sar",
+      "skeleton": "sr",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "seorah",
+      "hebrew_root": "s-ayin-r",
+      "hebrew_meaning": "barley",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 388
+    },
+    {
+      "voynich": "oteos",
+      "skeleton": "ts",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "ets",
+      "hebrew_root": "ayin-ts",
+      "hebrew_meaning": "tree",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 85
+    },
+    {
+      "voynich": "opar",
+      "skeleton": "pr",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "pri",
+      "hebrew_root": "p-r-y",
+      "hebrew_meaning": "fruit",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 59
+    },
+    {
+      "voynich": "otshedy",
+      "skeleton": "tshd",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "ets",
+      "hebrew_root": "ayin-ts",
+      "hebrew_meaning": "tree",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 49
+    },
+    {
+      "voynich": "chotaiin",
+      "skeleton": "chtn",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "tena",
+      "hebrew_root": "t-'-n",
+      "hebrew_meaning": "fig",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 49
+    },
+    {
+      "voynich": "chdam",
+      "skeleton": "chdm",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "dam",
+      "hebrew_root": "d-m",
+      "hebrew_meaning": "blood",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 48
+    },
+    {
+      "voynich": "tsho",
+      "skeleton": "tsh",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "ets",
+      "hebrew_root": "ayin-ts",
+      "hebrew_meaning": "tree",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 36
+    },
+    {
+      "voynich": "tshol",
+      "skeleton": "tshl",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "ets",
+      "hebrew_root": "ayin-ts",
+      "hebrew_meaning": "tree",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 34
+    },
+    {
+      "voynich": "oldam",
+      "skeleton": "ldm",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "dam",
+      "hebrew_root": "d-m",
+      "hebrew_meaning": "blood",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 30
+    },
+    {
+      "voynich": "qotshy",
+      "skeleton": "qtsh",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "ets",
+      "hebrew_root": "ayin-ts",
+      "hebrew_meaning": "tree",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 25
+    },
+    {
+      "voynich": "soraiin",
+      "skeleton": "srn",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "seorah",
+      "hebrew_root": "s-ayin-r",
+      "hebrew_meaning": "barley",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 24
+    },
+    {
+      "voynich": "qopar",
+      "skeleton": "qpr",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "pri",
+      "hebrew_root": "p-r-y",
+      "hebrew_meaning": "fruit",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 22
+    },
+    {
+      "voynich": "tshor",
+      "skeleton": "tshr",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "ets",
+      "hebrew_root": "ayin-ts",
+      "hebrew_meaning": "tree",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 20
+    },
+    {
+      "voynich": "sarol",
+      "skeleton": "srl",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "seorah",
+      "hebrew_root": "s-ayin-r",
+      "hebrew_meaning": "barley",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 20
+    },
+    {
+      "voynich": "qotees",
+      "skeleton": "qts",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "ets",
+      "hebrew_root": "ayin-ts",
+      "hebrew_meaning": "tree",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 18
+    },
+    {
+      "voynich": "rshedy",
+      "skeleton": "rshd",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "rosh",
+      "hebrew_root": "r-'-sh",
+      "hebrew_meaning": "head",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 17
+    },
+    {
+      "voynich": "qotshdy",
+      "skeleton": "qtshd",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "ets",
+      "hebrew_root": "ayin-ts",
+      "hebrew_meaning": "tree",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 16
+    },
+    {
+      "voynich": "okedam",
+      "skeleton": "kdm",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "dam",
+      "hebrew_root": "d-m",
+      "hebrew_meaning": "blood",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 15
+    },
+    {
+      "voynich": "tedam",
+      "skeleton": "tdm",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "dam",
+      "hebrew_root": "d-m",
+      "hebrew_meaning": "blood",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 15
+    },
+    {
+      "voynich": "qodam",
+      "skeleton": "qdm",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "dam",
+      "hebrew_root": "d-m",
+      "hebrew_meaning": "blood",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 14
+    },
+    {
+      "voynich": "chotshol",
+      "skeleton": "chtshl",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "ets",
+      "hebrew_root": "ayin-ts",
+      "hebrew_meaning": "tree",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 12
+    },
+    {
+      "voynich": "tshedar",
+      "skeleton": "tshdr",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "ets",
+      "hebrew_root": "ayin-ts",
+      "hebrew_meaning": "tree",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 12
+    },
+    {
+      "voynich": "shedam",
+      "skeleton": "shdm",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "dam",
+      "hebrew_root": "d-m",
+      "hebrew_meaning": "blood",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 11
+    },
+    {
+      "voynich": "chepar",
+      "skeleton": "chpr",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "pri",
+      "hebrew_root": "p-r-y",
+      "hebrew_meaning": "fruit",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 11
+    },
+    {
+      "voynich": "darshol",
+      "skeleton": "drshl",
+      "italian": null,
+      "italian_meaning": null,
+      "hebrew": "rosh",
+      "hebrew_root": "r-'-sh",
+      "hebrew_meaning": "head",
+      "both_systems": false,
+      "meanings_align": false,
+      "confidence": 0.4,
+      "frequency": 10
+    }
+  ],
+  "sample_decoded": {
+    "folio": "f2v",
+    "total_words": 351,
+    "decoded_sample": [
+      {
+        "voynich": "kooiin",
+        "skeleton": "kn",
+        "decoded": "[kooiin]"
+      },
+      {
+        "voynich": "cheo",
+        "skeleton": "ch",
+        "decoded": "[cheo]"
+      },
+      {
+        "voynich": "pchor",
+        "skeleton": "pchr",
+        "decoded": "[pchor]"
+      },
+      {
+        "voynich": "otaiin",
+        "skeleton": "tn",
+        "decoded": "fig(?)"
+      },
+      {
+        "voynich": "dain",
+        "skeleton": "dn",
+        "decoded": "[dain]"
+      },
+      {
+        "voynich": "chordair",
+        "skeleton": "chrdr",
+        "decoded": "[chordair]"
+      },
+      {
+        "voynich": "shty",
+        "skeleton": "sht",
+        "decoded": "[shty]"
+      },
+      {
+        "voynich": "kooiin",
+        "skeleton": "kn",
+        "decoded": "[kooiin]"
+      },
+      {
+        "voynich": "cheo",
+        "skeleton": "ch",
+        "decoded": "[cheo]"
+      },
+      {
+        "voynich": "pchor",
+        "skeleton": "pchr",
+        "decoded": "[pchor]"
+      },
+      {
+        "voynich": "otaiin",
+        "skeleton": "tn",
+        "decoded": "fig(?)"
+      },
+      {
+        "voynich": "dain",
+        "skeleton": "dn",
+        "decoded": "[dain]"
+      },
+      {
+        "voynich": "chordair",
+        "skeleton": "chrdr",
+        "decoded": "[chordair]"
+      },
+      {
+        "voynich": "shty",
+        "skeleton": "sht",
+        "decoded": "[shty]"
+      },
+      {
+        "voynich": "kaoiin",
+        "skeleton": "kn",
+        "decoded": "[kaoiin]"
+      },
+      {
+        "voynich": "cheo",
+        "skeleton": "ch",
+        "decoded": "[cheo]"
+      },
+      {
+        "voynich": "pchor",
+        "skeleton": "pchr",
+        "decoded": "[pchor]"
+      },
+      {
+        "voynich": "otaiin",
+        "skeleton": "tn",
+        "decoded": "fig(?)"
+      },
+      {
+        "voynich": "dain",
+        "skeleton": "dn",
+        "decoded": "[dain]"
+      },
+      {
+        "voynich": "chordair",
+        "skeleton": "chrdr",
+        "decoded": "[chordair]"
+      },
+      {
+        "voynich": "shty",
+        "skeleton": "sht",
+        "decoded": "[shty]"
+      },
+      {
+        "voynich": "kooiin",
+        "skeleton": "kn",
+        "decoded": "[kooiin]"
+      },
+      {
+        "voynich": "cheo",
+        "skeleton": "ch",
+        "decoded": "[cheo]"
+      },
+      {
+        "voynich": "pchor",
+        "skeleton": "pchr",
+        "decoded": "[pchor]"
+      },
+      {
+        "voynich": "otaiin",
+        "skeleton": "tn",
+        "decoded": "fig(?)"
+      },
+      {
+        "voynich": "dain",
+        "skeleton": "dn",
+        "decoded": "[dain]"
+      },
+      {
+        "voynich": "chordair",
+        "skeleton": "chrdr",
+        "decoded": "[chordair]"
+      },
+      {
+        "voynich": "shty",
+        "skeleton": "sht",
+        "decoded": "[shty]"
+      },
+      {
+        "voynich": "kaoiin",
+        "skeleton": "kn",
+        "decoded": "[kaoiin]"
+      },
+      {
+        "voynich": "cheo",
+        "skeleton": "ch",
+        "decoded": "[cheo]"
+      },
+      {
+        "voynich": "pchor",
+        "skeleton": "pchr",
+        "decoded": "[pchor]"
+      },
+      {
+        "voynich": "otaiin",
+        "skeleton": "tn",
+        "decoded": "fig(?)"
+      },
+      {
+        "voynich": "dain",
+        "skeleton": "dn",
+        "decoded": "[dain]"
+      },
+      {
+        "voynich": "chordair",
+        "skeleton": "chrdr",
+        "decoded": "[chordair]"
+      },
+      {
+        "voynich": "shty",
+        "skeleton": "sht",
+        "decoded": "[shty]"
+      },
+      {
+        "voynich": "kooiin",
+        "skeleton": "kn",
+        "decoded": "[kooiin]"
+      },
+      {
+        "voynich": "cheo",
+        "skeleton": "ch",
+        "decoded": "[cheo]"
+      },
+      {
+        "voynich": "pchor",
+        "skeleton": "pchr",
+        "decoded": "[pchor]"
+      },
+      {
+        "voynich": "otaiin",
+        "skeleton": "tn",
+        "decoded": "fig(?)"
+      },
+      {
+        "voynich": "dain",
+        "skeleton": "dn",
+        "decoded": "[dain]"
+      },
+      {
+        "voynich": "chordair",
+        "skeleton": "chrdr",
+        "decoded": "[chordair]"
+      },
+      {
+        "voynich": "shty",
+        "skeleton": "sht",
+        "decoded": "[shty]"
+      },
+      {
+        "voynich": "oiin",
+        "skeleton": "n",
+        "decoded": "[oiin]"
+      },
+      {
+        "voynich": "cheo",
+        "skeleton": "ch",
+        "decoded": "[cheo]"
+      },
+      {
+        "voynich": "pchor",
+        "skeleton": "pchr",
+        "decoded": "[pchor]"
+      },
+      {
+        "voynich": "otaiin",
+        "skeleton": "tn",
+        "decoded": "fig(?)"
+      },
+      {
+        "voynich": "dain",
+        "skeleton": "dn",
+        "decoded": "[dain]"
+      },
+      {
+        "voynich": "chordair",
+        "skeleton": "chrdr",
+        "decoded": "[chordair]"
+      },
+      {
+        "voynich": "shty",
+        "skeleton": "sht",
+        "decoded": "[shty]"
+      },
+      {
+        "voynich": "kcho",
+        "skeleton": "kch",
+        "decoded": "[kcho]"
+      }
+    ],
+    "decoded_text": "[kooiin] [cheo] [pchor] fig(?) [dain] [chordair] [shty] [kooiin] [cheo] [pchor] fig(?) [dain] [chordair] [shty] [kaoiin] [cheo] [pchor] fig(?) [dain] [chordair] [shty] [kooiin] [cheo] [pchor] fig(?) [dain] [chordair] [shty] [kaoiin] [cheo] [pchor] fig(?) [dain] [chordair] [shty] [kooiin] [cheo] [pchor] fig(?) [dain] [chordair] [shty] [oiin] [cheo] [pchor] fig(?) [dain] [chordair] [shty] [kcho]"
+  },
+  "grammar": {
+    "italian_endings": {
+      "o": 7174,
+      "a": 1263,
+      "e": 1905,
+      "i": 5522,
+      "ar": 13985,
+      "er": 94,
+      "ir": 3000,
+      "ato": 0,
+      "ito": 0,
+      "uto": 0
+    },
+    "hebrew_patterns": {
+      "prefix_ch": 31976,
+      "prefix_qo": 27451,
+      "prefix_sh": 17509,
+      "prefix_o": 36413,
+      "suffix_in": 25232,
+      "suffix_dy": 35006,
+      "suffix_y": 77378,
+      "suffix_r": 28770
+    },
+    "italian_grammar_score": 0.167,
+    "hebrew_grammar_score": 0.5179,
+    "interpretation": "HEBREW-LIKE"
+  },
+  "overall_score": 0.654,
+  "verdict": "SUPPORTS - Strong evidence for hybrid system"
+}

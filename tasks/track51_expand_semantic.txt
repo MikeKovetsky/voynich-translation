@@ -1,0 +1,184 @@
+# Track 51: Expand Dictionary - Semantic Domains
+
+## OBJECTIVE
+Systematically expand vocabulary in specific semantic domains:
+- Botanical (plants, parts, processes)
+- Medical (body parts, conditions, treatments)
+- Astronomical (celestial bodies, time)
+- Pharmaceutical (ingredients, preparations)
+
+## INPUT FILES
+- `results/hybrid_dictionary.json` - Current dictionary
+- `results/proto_romance_analysis.json` - Italian/Hebrew matches
+- `results/hebrew_analysis.json` - Hebrew patterns
+- `data/eva_ivtff.txt` - Source text
+
+## BACKGROUND
+Current dictionary has:
+- 105 botanical terms
+- 37 medical terms
+- 21 religious terms
+- 10 grammar words
+
+Target: Double each domain.
+
+## TASKS
+
+### 1. Botanical Expansion
+
+Build comprehensive plant vocabulary:
+
+**Italian botanical terms to match:**
+- foglia (leaf) → fgl skeleton
+- radice (root) → rdc skeleton  
+- corteccia (bark) → crtc skeleton
+- seme (seed) → sm skeleton
+- bacca (berry) → bc skeleton
+- frutto (fruit) → frt skeleton
+- gambo (stem) → gmb skeleton
+- petalo (petal) → ptl skeleton
+- spina (thorn) → spn skeleton
+
+**Hebrew botanical terms:**
+- aleh (עלה) = leaf
+- shoresh (שורש) = root
+- pri (פרי) = fruit
+- etz (עץ) = tree
+- gefen (גפן) = vine
+- deshe (דשא) = grass/herb
+
+### 2. Medical Expansion
+
+Body parts and conditions:
+
+**Italian medical:**
+- fegato (liver) → fgt
+- polmone (lung) → plmn
+- stomaco (stomach) → stmc
+- rene (kidney) → rn
+- occhio (eye) → ch
+- orecchio (ear) → rch
+- febbre (fever) → fbr
+- tosse (cough) → ts
+
+**Hebrew medical:**
+- lev (לב) = heart
+- kaved (כבד) = liver
+- regel (רגל) = foot/leg
+- yad (יד) = hand
+- rosh (ראש) = head
+- choleh (חולה) = sick
+- refuah (רפואה) = medicine
+
+### 3. Astronomical Expansion
+
+Celestial and time terms:
+
+**Italian:**
+- stella (star) → stl
+- cielo (sky) → cl
+- notte (night) → nt
+- giorno (day) → grn
+
+**Hebrew:**
+- kochav (כוכב) = star
+- shamayim (שמים) = sky/heaven
+- layla (לילה) = night
+- yom (יום) = day
+- chodesh (חודש) = month
+- shana (שנה) = year
+
+### 4. Pharmaceutical Expansion
+
+Preparation and treatment terms:
+
+**Latin/Italian:**
+- mescolare (mix) → mscl
+- bollire (boil) → blr
+- macinare (grind) → mcn
+- applicare (apply) → plc
+- bere (drink) → br
+- olio (oil) → l
+- acqua (water) → q
+
+**Hebrew:**
+- mayim (מים) = water
+- shemen (שמן) = oil
+- melach (מלח) = salt
+- dvash (דבש) = honey
+
+### 5. Search Corpus for Matches
+
+For each target term:
+- Generate possible Voynich spellings
+- Search corpus for matches
+- Validate by context
+
+### 6. Cross-Validate with Illustrations
+
+For botanical terms:
+- Check if word appears on pages with plant illustrations
+- Match decoded meaning to visual content
+
+## EXPECTED OUTPUT FILES
+
+### Script
+`expand_dict_semantic.py`
+
+### Results
+
+1. **`results/dictionary_expansion_semantic.json`**
+```json
+{
+  "domains": {
+    "botanical": {
+      "existing": 105,
+      "new": 50,
+      "entries": {}
+    },
+    "medical": {
+      "existing": 37,
+      "new": 30,
+      "entries": {}
+    },
+    "astronomical": {
+      "existing": 5,
+      "new": 15,
+      "entries": {}
+    },
+    "pharmaceutical": {
+      "existing": 10,
+      "new": 20,
+      "entries": {}
+    }
+  },
+  "total_new_entries": 115
+}
+```
+
+2. **`results/dictionary_expansion_semantic_report.md`**
+```markdown
+# Dictionary Expansion: Semantic Domains
+
+## Botanical Terms (+50)
+[Table of new plant vocabulary]
+
+## Medical Terms (+30)
+[Table of new body/condition vocabulary]
+
+## Astronomical Terms (+15)
+[Table of new celestial vocabulary]
+
+## Pharmaceutical Terms (+20)
+[Table of new preparation vocabulary]
+
+## Validation
+[Cross-reference with illustrations]
+```
+
+## SUCCESS CRITERIA
+- [ ] 50+ new botanical terms
+- [ ] 30+ new medical terms
+- [ ] 15+ new astronomical terms
+- [ ] 20+ new pharmaceutical terms
+- [ ] Cross-validation with illustrations

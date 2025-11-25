@@ -1,0 +1,4608 @@
+{
+  "version": "2.0",
+  "description": "Consolidated Voynich hybrid dictionary combining Italian, Hebrew, and Judeo-Italian matches",
+  "total_entries": 207,
+  "entries": {
+    "otar": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 681,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "okar": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 634,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "kar": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "Hebrew: kar",
+          "language": "Hebrew",
+          "source": "kar",
+          "confidence": 0.6,
+          "match_type": "direct"
+        }
+      ],
+      "frequency": 259,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "sol": {
+      "meanings": [
+        {
+          "translation": "salt",
+          "language": "Italian",
+          "source": "sale",
+          "skeleton": "sl",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "sun",
+          "language": "Italian",
+          "source": "sole",
+          "skeleton": "sl",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 348,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "salt",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "sal": {
+      "meanings": [
+        {
+          "translation": "salt",
+          "language": "Italian",
+          "source": "sale",
+          "skeleton": "sl",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "sun",
+          "language": "Italian",
+          "source": "sole",
+          "skeleton": "sl",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 273,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "salt",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "tar": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 223,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "olaiin": {
+      "meanings": [
+        {
+          "translation": "moon",
+          "language": "Italian",
+          "source": "luna",
+          "skeleton": "ln",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 270,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "moon",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "otam": {
+      "meanings": [
+        {
+          "translation": "thyme",
+          "language": "Italian",
+          "source": "timo",
+          "skeleton": "tm",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 229,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "thyme",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "otor": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 175,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "okor": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 151,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "ykar": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 165,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "kor": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 106,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "tor": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 113,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "ytar": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 118,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "otair": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 107,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "okair": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 106,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "kair": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 66,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "okeor": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 108,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "pol": {
+      "meanings": [
+        {
+          "translation": "skin",
+          "language": "Italian",
+          "source": "pelle",
+          "skeleton": "pl",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 108,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "skin",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "ytor": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 68,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "ram": {
+      "meanings": [
+        {
+          "translation": "branch",
+          "language": "Italian",
+          "source": "ramo",
+          "skeleton": "rm",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 63,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "branch",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "laiin": {
+      "meanings": [
+        {
+          "translation": "moon",
+          "language": "Italian",
+          "source": "luna",
+          "skeleton": "ln",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 76,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "moon",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "oteor": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 54,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "opal": {
+      "meanings": [
+        {
+          "translation": "skin",
+          "language": "Italian",
+          "source": "pelle",
+          "skeleton": "pl",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 46,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "skin",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "tair": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 58,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "sam": {
+      "meanings": [
+        {
+          "translation": "seed",
+          "language": "Italian",
+          "source": "seme",
+          "skeleton": "sm",
+          "confidence": 0.7999999999999999,
+          "match_type": "exact"
+        },
+        {
+          "translation": "medicine/drug",
+          "language": "Hebrew",
+          "source": "sam",
+          "hebrew_root": "s-m",
+          "confidence": 0.75,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 52,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "seed",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7999999999999999
+    },
+    "ytam": {
+      "meanings": [
+        {
+          "translation": "thyme",
+          "language": "Italian",
+          "source": "timo",
+          "skeleton": "tm",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 58,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "thyme",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "tam": {
+      "meanings": [
+        {
+          "translation": "thyme",
+          "language": "Italian",
+          "source": "timo",
+          "skeleton": "tm",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 34,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "thyme",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "okary": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 54,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "oram": {
+      "meanings": [
+        {
+          "translation": "branch",
+          "language": "Italian",
+          "source": "ramo",
+          "skeleton": "rm",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 52,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "branch",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "okear": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 41,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "far": {
+      "meanings": [
+        {
+          "translation": "flower",
+          "language": "Italian",
+          "source": "fiore",
+          "skeleton": "fr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 22,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "flower",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "okeeor": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 46,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "ykor": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 44,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "aram": {
+      "meanings": [
+        {
+          "translation": "branch",
+          "language": "Italian",
+          "source": "ramo",
+          "skeleton": "rm",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 54,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "branch",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "keor": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 35,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "keeor": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 35,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "dalor": {
+      "meanings": [
+        {
+          "translation": "pain",
+          "language": "Italian",
+          "source": "dolore",
+          "skeleton": "dlr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 39,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "pain",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "otary": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 34,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "otear": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 30,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "okaiir": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 31,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "ykair": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 29,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "kary": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 30,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "ykeor": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 27,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "ofar": {
+      "meanings": [
+        {
+          "translation": "flower",
+          "language": "Italian",
+          "source": "fiore",
+          "skeleton": "fr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 25,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "flower",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "olain": {
+      "meanings": [
+        {
+          "translation": "moon",
+          "language": "Italian",
+          "source": "luna",
+          "skeleton": "ln",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 67,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "moon",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "opol": {
+      "meanings": [
+        {
+          "translation": "skin",
+          "language": "Italian",
+          "source": "pelle",
+          "skeleton": "pl",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 17,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "skin",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "alaiin": {
+      "meanings": [
+        {
+          "translation": "moon",
+          "language": "Italian",
+          "source": "luna",
+          "skeleton": "ln",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 24,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "moon",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "osal": {
+      "meanings": [
+        {
+          "translation": "salt",
+          "language": "Italian",
+          "source": "sale",
+          "skeleton": "sl",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "sun",
+          "language": "Italian",
+          "source": "sole",
+          "skeleton": "sl",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 19,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "salt",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "teor": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 21,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "okeear": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 18,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "ykeeor": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 19,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "ytair": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 17,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "tr": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 7,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "yteor": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 17,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "otaiir": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 16,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "toar": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 19,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "orom": {
+      "meanings": [
+        {
+          "translation": "branch",
+          "language": "Italian",
+          "source": "ramo",
+          "skeleton": "rm",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 14,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "branch",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "dalar": {
+      "meanings": [
+        {
+          "translation": "pain",
+          "language": "Italian",
+          "source": "dolore",
+          "skeleton": "dlr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 22,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "pain",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "ypal": {
+      "meanings": [
+        {
+          "translation": "skin",
+          "language": "Italian",
+          "source": "pelle",
+          "skeleton": "pl",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 13,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "skin",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "keear": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 12,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "opydy": {
+      "meanings": [
+        {
+          "translation": "foot",
+          "language": "Italian",
+          "source": "piede",
+          "skeleton": "pd",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 12,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "foot",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "oteeor": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 12,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "ofor": {
+      "meanings": [
+        {
+          "translation": "flower",
+          "language": "Italian",
+          "source": "fiore",
+          "skeleton": "fr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 7,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "flower",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "dolar": {
+      "meanings": [
+        {
+          "translation": "pain",
+          "language": "Italian",
+          "source": "dolore",
+          "skeleton": "dlr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 11,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "pain",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "dalary": {
+      "meanings": [
+        {
+          "translation": "pain",
+          "language": "Italian",
+          "source": "dolore",
+          "skeleton": "dlr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 11,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "pain",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "dolor": {
+      "meanings": [
+        {
+          "translation": "pain",
+          "language": "Italian",
+          "source": "dolore",
+          "skeleton": "dlr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 11,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "pain",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "kairy": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 5,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "otaim": {
+      "meanings": [
+        {
+          "translation": "thyme",
+          "language": "Italian",
+          "source": "timo",
+          "skeleton": "tm",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 10,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "thyme",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "otory": {
+      "meanings": [
+        {
+          "translation": "earth",
+          "language": "Italian",
+          "source": "terra",
+          "skeleton": "tr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 10,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "earth",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "okairy": {
+      "meanings": [
+        {
+          "translation": "heart",
+          "language": "Italian",
+          "source": "cuore",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "cure",
+          "language": "Italian",
+          "source": "cura",
+          "skeleton": "kr",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 13,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "heart",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "saly": {
+      "meanings": [
+        {
+          "translation": "salt",
+          "language": "Italian",
+          "source": "sale",
+          "skeleton": "sl",
+          "confidence": 0.7,
+          "match_type": "exact"
+        },
+        {
+          "translation": "sun",
+          "language": "Italian",
+          "source": "sole",
+          "skeleton": "sl",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 18,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "salt",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "sokeey": {
+      "meanings": [
+        {
+          "translation": "juice",
+          "language": "Italian",
+          "source": "succo",
+          "skeleton": "sk",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 10,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "juice",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "otaiin": {
+      "meanings": [
+        {
+          "translation": "fig",
+          "language": "Hebrew",
+          "source": "tena",
+          "hebrew_root": "t-'-n",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 849,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fig",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "dam": {
+      "meanings": [
+        {
+          "translation": "blood",
+          "language": "Hebrew",
+          "source": "dam",
+          "hebrew_root": "d-m",
+          "confidence": 0.65,
+          "match_type": "exact"
+        },
+        {
+          "translation": "Hebrew: dam",
+          "language": "Hebrew",
+          "source": "dam",
+          "confidence": 0.6,
+          "match_type": "direct"
+        }
+      ],
+      "frequency": 431,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "blood",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "sar": {
+      "meanings": [
+        {
+          "translation": "barley",
+          "language": "Hebrew",
+          "source": "seorah",
+          "hebrew_root": "s-ayin-r",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 394,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "barley",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "taiin": {
+      "meanings": [
+        {
+          "translation": "fig",
+          "language": "Hebrew",
+          "source": "tena",
+          "hebrew_root": "t-'-n",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 224,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fig",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "sor": {
+      "meanings": [
+        {
+          "translation": "barley",
+          "language": "Hebrew",
+          "source": "seorah",
+          "hebrew_root": "s-ayin-r",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 240,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "barley",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "ytaiin": {
+      "meanings": [
+        {
+          "translation": "fig",
+          "language": "Hebrew",
+          "source": "tena",
+          "hebrew_root": "t-'-n",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 213,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fig",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "sair": {
+      "meanings": [
+        {
+          "translation": "barley",
+          "language": "Hebrew",
+          "source": "seorah",
+          "hebrew_root": "s-ayin-r",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 133,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "barley",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "oteos": {
+      "meanings": [
+        {
+          "translation": "tree",
+          "language": "Hebrew",
+          "source": "ets",
+          "hebrew_root": "ayin-ts",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 81,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "tree",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "otain": {
+      "meanings": [
+        {
+          "translation": "fig",
+          "language": "Hebrew",
+          "source": "tena",
+          "hebrew_root": "t-'-n",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 396,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fig",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "daim": {
+      "meanings": [
+        {
+          "translation": "blood",
+          "language": "Hebrew",
+          "source": "dam",
+          "hebrew_root": "d-m",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 52,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "blood",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "opar": {
+      "meanings": [
+        {
+          "translation": "fruit",
+          "language": "Hebrew",
+          "source": "pri",
+          "hebrew_root": "p-r-y",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 55,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fruit",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "por": {
+      "meanings": [
+        {
+          "translation": "fruit",
+          "language": "Hebrew",
+          "source": "pri",
+          "hebrew_root": "p-r-y",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 32,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fruit",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "otees": {
+      "meanings": [
+        {
+          "translation": "tree",
+          "language": "Hebrew",
+          "source": "ets",
+          "hebrew_root": "ayin-ts",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 33,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "tree",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "dom": {
+      "meanings": [
+        {
+          "translation": "blood",
+          "language": "Hebrew",
+          "source": "dam",
+          "hebrew_root": "d-m",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 32,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "blood",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "par": {
+      "meanings": [
+        {
+          "translation": "fruit",
+          "language": "Hebrew",
+          "source": "pri",
+          "hebrew_root": "p-r-y",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 29,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fruit",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "oteeos": {
+      "meanings": [
+        {
+          "translation": "tree",
+          "language": "Hebrew",
+          "source": "ets",
+          "hebrew_root": "ayin-ts",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 34,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "tree",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "daiim": {
+      "meanings": [
+        {
+          "translation": "blood",
+          "language": "Hebrew",
+          "source": "dam",
+          "hebrew_root": "d-m",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 22,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "blood",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "odam": {
+      "meanings": [
+        {
+          "translation": "blood",
+          "language": "Hebrew",
+          "source": "dam",
+          "hebrew_root": "d-m",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 24,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "blood",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "tos": {
+      "meanings": [
+        {
+          "translation": "tree",
+          "language": "Hebrew",
+          "source": "ets",
+          "hebrew_root": "ayin-ts",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 17,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "tree",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "dm": {
+      "meanings": [
+        {
+          "translation": "blood",
+          "language": "Hebrew",
+          "source": "dam",
+          "hebrew_root": "d-m",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 16,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "blood",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "sary": {
+      "meanings": [
+        {
+          "translation": "barley",
+          "language": "Hebrew",
+          "source": "seorah",
+          "hebrew_root": "s-ayin-r",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 30,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "barley",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "opor": {
+      "meanings": [
+        {
+          "translation": "fruit",
+          "language": "Hebrew",
+          "source": "pri",
+          "hebrew_root": "p-r-y",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 24,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fruit",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "opair": {
+      "meanings": [
+        {
+          "translation": "fruit",
+          "language": "Hebrew",
+          "source": "pri",
+          "hebrew_root": "p-r-y",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 21,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fruit",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "saiir": {
+      "meanings": [
+        {
+          "translation": "barley",
+          "language": "Hebrew",
+          "source": "seorah",
+          "hebrew_root": "s-ayin-r",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 20,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "barley",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "ypar": {
+      "meanings": [
+        {
+          "translation": "fruit",
+          "language": "Hebrew",
+          "source": "pri",
+          "hebrew_root": "p-r-y",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 19,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fruit",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "otes": {
+      "meanings": [
+        {
+          "translation": "tree",
+          "language": "Hebrew",
+          "source": "ets",
+          "hebrew_root": "ayin-ts",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 19,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "tree",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "opary": {
+      "meanings": [
+        {
+          "translation": "fruit",
+          "language": "Hebrew",
+          "source": "pri",
+          "hebrew_root": "p-r-y",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 18,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fruit",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "pair": {
+      "meanings": [
+        {
+          "translation": "fruit",
+          "language": "Hebrew",
+          "source": "pri",
+          "hebrew_root": "p-r-y",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 16,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fruit",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "otos": {
+      "meanings": [
+        {
+          "translation": "tree",
+          "language": "Hebrew",
+          "source": "ets",
+          "hebrew_root": "ayin-ts",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 15,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "tree",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "ypair": {
+      "meanings": [
+        {
+          "translation": "fruit",
+          "language": "Hebrew",
+          "source": "pri",
+          "hebrew_root": "p-r-y",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 13,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fruit",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "otan": {
+      "meanings": [
+        {
+          "translation": "fig",
+          "language": "Hebrew",
+          "source": "tena",
+          "hebrew_root": "t-'-n",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 14,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fig",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "ytain": {
+      "meanings": [
+        {
+          "translation": "fig",
+          "language": "Hebrew",
+          "source": "tena",
+          "hebrew_root": "t-'-n",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 51,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fig",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "poar": {
+      "meanings": [
+        {
+          "translation": "fruit",
+          "language": "Hebrew",
+          "source": "pri",
+          "hebrew_root": "p-r-y",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 10,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fruit",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "toiin": {
+      "meanings": [
+        {
+          "translation": "fig",
+          "language": "Hebrew",
+          "source": "tena",
+          "hebrew_root": "t-'-n",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 11,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fig",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "toaiin": {
+      "meanings": [
+        {
+          "translation": "fig",
+          "language": "Hebrew",
+          "source": "tena",
+          "hebrew_root": "t-'-n",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 11,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fig",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "oteeys": {
+      "meanings": [
+        {
+          "translation": "tree",
+          "language": "Hebrew",
+          "source": "ets",
+          "hebrew_root": "ayin-ts",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 12,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "tree",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "oteaiin": {
+      "meanings": [
+        {
+          "translation": "fig",
+          "language": "Hebrew",
+          "source": "tena",
+          "hebrew_root": "t-'-n",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 12,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fig",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "sairy": {
+      "meanings": [
+        {
+          "translation": "barley",
+          "language": "Hebrew",
+          "source": "seorah",
+          "hebrew_root": "s-ayin-r",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 17,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "barley",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "sory": {
+      "meanings": [
+        {
+          "translation": "barley",
+          "language": "Hebrew",
+          "source": "seorah",
+          "hebrew_root": "s-ayin-r",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 15,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "barley",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "yteos": {
+      "meanings": [
+        {
+          "translation": "tree",
+          "language": "Hebrew",
+          "source": "ets",
+          "hebrew_root": "ayin-ts",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 11,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "tree",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "oteees": {
+      "meanings": [
+        {
+          "translation": "tree",
+          "language": "Hebrew",
+          "source": "ets",
+          "hebrew_root": "ayin-ts",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 9,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "tree",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "teeos": {
+      "meanings": [
+        {
+          "translation": "tree",
+          "language": "Hebrew",
+          "source": "ets",
+          "hebrew_root": "ayin-ts",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 10,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "tree",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "teos": {
+      "meanings": [
+        {
+          "translation": "tree",
+          "language": "Hebrew",
+          "source": "ets",
+          "hebrew_root": "ayin-ts",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 5,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "tree",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "otoaiin": {
+      "meanings": [
+        {
+          "translation": "fig",
+          "language": "Hebrew",
+          "source": "tena",
+          "hebrew_root": "t-'-n",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 10,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fig",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "damo": {
+      "meanings": [
+        {
+          "translation": "blood",
+          "language": "Hebrew",
+          "source": "dam",
+          "hebrew_root": "d-m",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 9,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "blood",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "toees": {
+      "meanings": [
+        {
+          "translation": "tree",
+          "language": "Hebrew",
+          "source": "ets",
+          "hebrew_root": "ayin-ts",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 9,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "tree",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "otoiin": {
+      "meanings": [
+        {
+          "translation": "fig",
+          "language": "Hebrew",
+          "source": "tena",
+          "hebrew_root": "t-'-n",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 8,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "fig",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "adam": {
+      "meanings": [
+        {
+          "translation": "blood",
+          "language": "Hebrew",
+          "source": "dam",
+          "hebrew_root": "d-m",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 8,
+      "variants": [],
+      "domain": "medical",
+      "primary_meaning": "blood",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "syaiir": {
+      "meanings": [
+        {
+          "translation": "barley",
+          "language": "Hebrew",
+          "source": "seorah",
+          "hebrew_root": "s-ayin-r",
+          "confidence": 0.65,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 7,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "barley",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.65
+    },
+    "okaiin": {
+      "meanings": [
+        {
+          "translation": "priest/cohen",
+          "language": "Hebrew",
+          "source": "cohen (כהן)",
+          "confidence": 0.8,
+          "match_type": "pattern"
+        },
+        {
+          "translation": "priest",
+          "language": "Judeo-Italian",
+          "source": "cohen",
+          "confidence": 0.75,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 1197,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest/cohen",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.8
+    },
+    "okain": {
+      "meanings": [
+        {
+          "translation": "priest/cohen",
+          "language": "Hebrew",
+          "source": "cohen (כהן)",
+          "confidence": 0.8,
+          "match_type": "pattern"
+        },
+        {
+          "translation": "priest",
+          "language": "Judeo-Italian",
+          "source": "cohen",
+          "confidence": 0.75,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 600,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest/cohen",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.8
+    },
+    "kaiin": {
+      "meanings": [
+        {
+          "translation": "priest/cohen",
+          "language": "Hebrew",
+          "source": "cohen (כהן)",
+          "confidence": 0.8,
+          "match_type": "pattern"
+        },
+        {
+          "translation": "priest",
+          "language": "Judeo-Italian",
+          "source": "cohen",
+          "confidence": 0.75,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 402,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest/cohen",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.8
+    },
+    "kain": {
+      "meanings": [
+        {
+          "translation": "priest/cohen",
+          "language": "Hebrew",
+          "source": "cohen (כהן)",
+          "confidence": 0.8,
+          "match_type": "pattern"
+        },
+        {
+          "translation": "priest",
+          "language": "Judeo-Italian",
+          "source": "cohen",
+          "confidence": 0.75,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 176,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest/cohen",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.8
+    },
+    "okan": {
+      "meanings": [
+        {
+          "translation": "priest",
+          "language": "Judeo-Italian",
+          "source": "cohen",
+          "confidence": 0.75,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 33,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest",
+      "primary_language": "Judeo-Italian",
+      "primary_confidence": 0.75
+    },
+    "okoiin": {
+      "meanings": [
+        {
+          "translation": "priest",
+          "language": "Judeo-Italian",
+          "source": "cohen",
+          "confidence": 0.75,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 32,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest",
+      "primary_language": "Judeo-Italian",
+      "primary_confidence": 0.75
+    },
+    "koiin": {
+      "meanings": [
+        {
+          "translation": "priest",
+          "language": "Judeo-Italian",
+          "source": "cohen",
+          "confidence": 0.75,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 25,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest",
+      "primary_language": "Judeo-Italian",
+      "primary_confidence": 0.75
+    },
+    "okaiiin": {
+      "meanings": [
+        {
+          "translation": "priest",
+          "language": "Judeo-Italian",
+          "source": "cohen",
+          "confidence": 0.75,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 17,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest",
+      "primary_language": "Judeo-Italian",
+      "primary_confidence": 0.75
+    },
+    "akaiin": {
+      "meanings": [
+        {
+          "translation": "priest",
+          "language": "Judeo-Italian",
+          "source": "cohen",
+          "confidence": 0.75,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 13,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest",
+      "primary_language": "Judeo-Italian",
+      "primary_confidence": 0.75
+    },
+    "oekaiin": {
+      "meanings": [
+        {
+          "translation": "priest",
+          "language": "Judeo-Italian",
+          "source": "cohen",
+          "confidence": 0.75,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 14,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest",
+      "primary_language": "Judeo-Italian",
+      "primary_confidence": 0.75
+    },
+    "okiin": {
+      "meanings": [
+        {
+          "translation": "priest",
+          "language": "Judeo-Italian",
+          "source": "cohen",
+          "confidence": 0.75,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 15,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest",
+      "primary_language": "Judeo-Italian",
+      "primary_confidence": 0.75
+    },
+    "koaiin": {
+      "meanings": [
+        {
+          "translation": "priest",
+          "language": "Judeo-Italian",
+          "source": "cohen",
+          "confidence": 0.75,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 13,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest",
+      "primary_language": "Judeo-Italian",
+      "primary_confidence": 0.75
+    },
+    "cl": {
+      "meanings": [
+        {
+          "translation": "bread",
+          "language": "Judeo-Italian",
+          "source": "chalah",
+          "confidence": 0.75,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 12,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "bread",
+      "primary_language": "Judeo-Italian",
+      "primary_confidence": 0.75
+    },
+    "fr": {
+      "meanings": [
+        {
+          "translation": "flower",
+          "language": "Italian",
+          "source": "fiore",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 144,
+      "variants": [],
+      "domain": "botanical",
+      "primary_meaning": "flower",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "okees": {
+      "meanings": [
+        {
+          "translation": "is (essere)",
+          "language": "Italian",
+          "source": "xe",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 53,
+      "variants": [],
+      "domain": "general",
+      "primary_meaning": "is (essere)",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "okeos": {
+      "meanings": [
+        {
+          "translation": "is (essere)",
+          "language": "Italian",
+          "source": "xe",
+          "confidence": 0.7,
+          "match_type": "exact"
+        }
+      ],
+      "frequency": 33,
+      "variants": [],
+      "domain": "general",
+      "primary_meaning": "is (essere)",
+      "primary_language": "Italian",
+      "primary_confidence": 0.7
+    },
+    "shok": {
+      "meanings": [
+        {
+          "translation": "Hebrew: shok",
+          "language": "Hebrew",
+          "source": "shok",
+          "confidence": 0.6,
+          "match_type": "direct"
+        }
+      ],
+      "frequency": 29,
+      "variants": [],
+      "domain": "general",
+      "primary_meaning": "Hebrew: shok",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.6
+    },
+    "mar": {
+      "meanings": [
+        {
+          "translation": "Hebrew: mar",
+          "language": "Hebrew",
+          "source": "mar",
+          "confidence": 0.6,
+          "match_type": "direct"
+        }
+      ],
+      "frequency": 1,
+      "variants": [],
+      "domain": "general",
+      "primary_meaning": "Hebrew: mar",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.6
+    },
+    "qokaiin": {
+      "meanings": [
+        {
+          "translation": "priest/cohen",
+          "language": "Hebrew",
+          "source": "cohen (כהן)",
+          "confidence": 0.6,
+          "match_type": "pattern"
+        }
+      ],
+      "frequency": 1622,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest/cohen",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.6
+    },
+    "qokain": {
+      "meanings": [
+        {
+          "translation": "priest/cohen",
+          "language": "Hebrew",
+          "source": "cohen (כהן)",
+          "confidence": 0.6,
+          "match_type": "pattern"
+        }
+      ],
+      "frequency": 1246,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest/cohen",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.6
+    },
+    "lkaiin": {
+      "meanings": [
+        {
+          "translation": "priest/cohen",
+          "language": "Hebrew",
+          "source": "cohen (כהן)",
+          "confidence": 0.6,
+          "match_type": "pattern"
+        }
+      ],
+      "frequency": 273,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest/cohen",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.6
+    },
+    "olkaiin": {
+      "meanings": [
+        {
+          "translation": "priest/cohen",
+          "language": "Hebrew",
+          "source": "cohen (כהן)",
+          "confidence": 0.6,
+          "match_type": "pattern"
+        }
+      ],
+      "frequency": 209,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest/cohen",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.6
+    },
+    "ykaiin": {
+      "meanings": [
+        {
+          "translation": "priest/cohen",
+          "language": "Hebrew",
+          "source": "cohen (כהן)",
+          "confidence": 0.8,
+          "match_type": "pattern"
+        }
+      ],
+      "frequency": 232,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest/cohen",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.8
+    },
+    "olkain": {
+      "meanings": [
+        {
+          "translation": "priest/cohen",
+          "language": "Hebrew",
+          "source": "cohen (כהן)",
+          "confidence": 0.6,
+          "match_type": "pattern"
+        }
+      ],
+      "frequency": 155,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest/cohen",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.6
+    },
+    "lkain": {
+      "meanings": [
+        {
+          "translation": "priest/cohen",
+          "language": "Hebrew",
+          "source": "cohen (כהן)",
+          "confidence": 0.6,
+          "match_type": "pattern"
+        }
+      ],
+      "frequency": 132,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest/cohen",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.6
+    },
+    "chkaiin": {
+      "meanings": [
+        {
+          "translation": "priest/cohen",
+          "language": "Hebrew",
+          "source": "cohen (כהן)",
+          "confidence": 0.6,
+          "match_type": "pattern"
+        }
+      ],
+      "frequency": 117,
+      "variants": [],
+      "domain": "religious",
+      "primary_meaning": "priest/cohen",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.6
+    },
+    "chokain": {
+      "meanings": [
+        {
+          "translation": "male/remember (zachar)",
+          "language": "Hebrew",
+          "source": "z-kh-r",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 41,
+      "variants": [
+        "chokain",
+        "chekain",
+        "chok",
+        "chokeo",
+        "chokody"
+      ],
+      "domain": "general",
+      "primary_meaning": "male/remember (zachar)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "chekain": {
+      "meanings": [
+        {
+          "translation": "male/remember (zachar)",
+          "language": "Hebrew",
+          "source": "z-kh-r",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 32,
+      "variants": [
+        "chokain",
+        "chekain",
+        "chok",
+        "chokeo",
+        "chokody"
+      ],
+      "domain": "general",
+      "primary_meaning": "male/remember (zachar)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "chok": {
+      "meanings": [
+        {
+          "translation": "male/remember (zachar)",
+          "language": "Hebrew",
+          "source": "z-kh-r",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 26,
+      "variants": [
+        "chokain",
+        "chekain",
+        "chok",
+        "chokeo",
+        "chokody"
+      ],
+      "domain": "general",
+      "primary_meaning": "male/remember (zachar)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "chokeo": {
+      "meanings": [
+        {
+          "translation": "male/remember (zachar)",
+          "language": "Hebrew",
+          "source": "z-kh-r",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 15,
+      "variants": [
+        "chokain",
+        "chekain",
+        "chok",
+        "chokeo",
+        "chokody"
+      ],
+      "domain": "general",
+      "primary_meaning": "male/remember (zachar)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "chokody": {
+      "meanings": [
+        {
+          "translation": "male/remember (zachar)",
+          "language": "Hebrew",
+          "source": "z-kh-r",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 14,
+      "variants": [
+        "chokain",
+        "chekain",
+        "chok",
+        "chokeo",
+        "chokody"
+      ],
+      "domain": "general",
+      "primary_meaning": "male/remember (zachar)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "ypchol": {
+      "meanings": [
+        {
+          "translation": "flower (perach)",
+          "language": "Hebrew",
+          "source": "p-r-ch",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 14,
+      "variants": [
+        "ypchol",
+        "otchalypchaiin",
+        "pchor",
+        "pcheol",
+        "pcheoldom"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "flower (perach)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "otchalypchaiin": {
+      "meanings": [
+        {
+          "translation": "flower (perach)",
+          "language": "Hebrew",
+          "source": "p-r-ch",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 5,
+      "variants": [
+        "ypchol",
+        "otchalypchaiin",
+        "pchor",
+        "pcheol",
+        "pcheoldom"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "flower (perach)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "pchor": {
+      "meanings": [
+        {
+          "translation": "flower (perach)",
+          "language": "Hebrew",
+          "source": "p-r-ch",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 64,
+      "variants": [
+        "ypchol",
+        "otchalypchaiin",
+        "pchor",
+        "pcheol",
+        "pcheoldom"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "flower (perach)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "pcheol": {
+      "meanings": [
+        {
+          "translation": "flower (perach)",
+          "language": "Hebrew",
+          "source": "p-r-ch",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 60,
+      "variants": [
+        "ypchol",
+        "otchalypchaiin",
+        "pchor",
+        "pcheol",
+        "pcheoldom"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "flower (perach)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "pcheoldom": {
+      "meanings": [
+        {
+          "translation": "flower (perach)",
+          "language": "Hebrew",
+          "source": "p-r-ch",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 5,
+      "variants": [
+        "ypchol",
+        "otchalypchaiin",
+        "pchor",
+        "pcheol",
+        "pcheoldom"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "flower (perach)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "okcho": {
+      "meanings": [
+        {
+          "translation": "strength (koach)",
+          "language": "Hebrew",
+          "source": "k-ch",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 45,
+      "variants": [
+        "okcho",
+        "kchy",
+        "shokcheey",
+        "okchey",
+        "kochey"
+      ],
+      "domain": "general",
+      "primary_meaning": "strength (koach)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "kchy": {
+      "meanings": [
+        {
+          "translation": "strength (koach)",
+          "language": "Hebrew",
+          "source": "k-ch",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 156,
+      "variants": [
+        "okcho",
+        "kchy",
+        "shokcheey",
+        "okchey",
+        "kochey"
+      ],
+      "domain": "general",
+      "primary_meaning": "strength (koach)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "shokcheey": {
+      "meanings": [
+        {
+          "translation": "strength (koach)",
+          "language": "Hebrew",
+          "source": "k-ch",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 7,
+      "variants": [
+        "okcho",
+        "kchy",
+        "shokcheey",
+        "okchey",
+        "kochey"
+      ],
+      "domain": "general",
+      "primary_meaning": "strength (koach)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "okchey": {
+      "meanings": [
+        {
+          "translation": "strength (koach)",
+          "language": "Hebrew",
+          "source": "k-ch",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 164,
+      "variants": [
+        "okcho",
+        "kchy",
+        "shokcheey",
+        "okchey",
+        "kochey"
+      ],
+      "domain": "general",
+      "primary_meaning": "strength (koach)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "kochey": {
+      "meanings": [
+        {
+          "translation": "strength (koach)",
+          "language": "Hebrew",
+          "source": "k-ch",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 2,
+      "variants": [
+        "okcho",
+        "kchy",
+        "shokcheey",
+        "okchey",
+        "kochey"
+      ],
+      "domain": "general",
+      "primary_meaning": "strength (koach)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "otchol": {
+      "meanings": [
+        {
+          "translation": "sick (choleh)",
+          "language": "Hebrew",
+          "source": "ch-l",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 135,
+      "variants": [
+        "otchol",
+        "chol",
+        "chal",
+        "cheol",
+        "kychol"
+      ],
+      "domain": "general",
+      "primary_meaning": "sick (choleh)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "chol": {
+      "meanings": [
+        {
+          "translation": "sick (choleh)",
+          "language": "Hebrew",
+          "source": "ch-l",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 1954,
+      "variants": [
+        "otchol",
+        "chol",
+        "chal",
+        "cheol",
+        "kychol"
+      ],
+      "domain": "general",
+      "primary_meaning": "sick (choleh)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "chal": {
+      "meanings": [
+        {
+          "translation": "sick (choleh)",
+          "language": "Hebrew",
+          "source": "ch-l",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 223,
+      "variants": [
+        "otchol",
+        "chol",
+        "chal",
+        "cheol",
+        "kychol"
+      ],
+      "domain": "general",
+      "primary_meaning": "sick (choleh)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "cheol": {
+      "meanings": [
+        {
+          "translation": "sick (choleh)",
+          "language": "Hebrew",
+          "source": "ch-l",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 785,
+      "variants": [
+        "otchol",
+        "chol",
+        "chal",
+        "cheol",
+        "kychol"
+      ],
+      "domain": "general",
+      "primary_meaning": "sick (choleh)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "kychol": {
+      "meanings": [
+        {
+          "translation": "sick (choleh)",
+          "language": "Hebrew",
+          "source": "ch-l",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 3,
+      "variants": [
+        "otchol",
+        "chol",
+        "chal",
+        "cheol",
+        "kychol"
+      ],
+      "domain": "general",
+      "primary_meaning": "sick (choleh)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "shol": {
+      "meanings": [
+        {
+          "translation": "extract/draw out (shol)",
+          "language": "Hebrew",
+          "source": "sh-l",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 909,
+      "variants": [
+        "shol",
+        "pshol",
+        "darshol",
+        "sheoldam",
+        "sheoldaj"
+      ],
+      "domain": "general",
+      "primary_meaning": "extract/draw out (shol)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "pshol": {
+      "meanings": [
+        {
+          "translation": "extract/draw out (shol)",
+          "language": "Hebrew",
+          "source": "sh-l",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 22,
+      "variants": [
+        "shol",
+        "pshol",
+        "darshol",
+        "sheoldam",
+        "sheoldaj"
+      ],
+      "domain": "general",
+      "primary_meaning": "extract/draw out (shol)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "darshol": {
+      "meanings": [
+        {
+          "translation": "extract/draw out (shol)",
+          "language": "Hebrew",
+          "source": "sh-l",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 10,
+      "variants": [
+        "shol",
+        "pshol",
+        "darshol",
+        "sheoldam",
+        "sheoldaj"
+      ],
+      "domain": "general",
+      "primary_meaning": "extract/draw out (shol)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "sheoldam": {
+      "meanings": [
+        {
+          "translation": "extract/draw out (shol)",
+          "language": "Hebrew",
+          "source": "sh-l",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 3,
+      "variants": [
+        "shol",
+        "pshol",
+        "darshol",
+        "sheoldam",
+        "sheoldaj"
+      ],
+      "domain": "general",
+      "primary_meaning": "extract/draw out (shol)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "sheoldaj": {
+      "meanings": [
+        {
+          "translation": "extract/draw out (shol)",
+          "language": "Hebrew",
+          "source": "sh-l",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 1,
+      "variants": [
+        "shol",
+        "pshol",
+        "darshol",
+        "sheoldam",
+        "sheoldaj"
+      ],
+      "domain": "general",
+      "primary_meaning": "extract/draw out (shol)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "shory": {
+      "meanings": [
+        {
+          "translation": "root (shoresh)",
+          "language": "Hebrew",
+          "source": "sh-r-sh",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 35,
+      "variants": [
+        "shory",
+        "shar",
+        "shor",
+        "shear",
+        "sshor"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "root (shoresh)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "shar": {
+      "meanings": [
+        {
+          "translation": "root (shoresh)",
+          "language": "Hebrew",
+          "source": "sh-r-sh",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 178,
+      "variants": [
+        "shory",
+        "shar",
+        "shor",
+        "shear",
+        "sshor"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "root (shoresh)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "shor": {
+      "meanings": [
+        {
+          "translation": "root (shoresh)",
+          "language": "Hebrew",
+          "source": "sh-r-sh",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 468,
+      "variants": [
+        "shory",
+        "shar",
+        "shor",
+        "shear",
+        "sshor"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "root (shoresh)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "shear": {
+      "meanings": [
+        {
+          "translation": "root (shoresh)",
+          "language": "Hebrew",
+          "source": "sh-r-sh",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 112,
+      "variants": [
+        "shory",
+        "shar",
+        "shor",
+        "shear",
+        "sshor"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "root (shoresh)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "sshor": {
+      "meanings": [
+        {
+          "translation": "root (shoresh)",
+          "language": "Hebrew",
+          "source": "sh-r-sh",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 9,
+      "variants": [
+        "shory",
+        "shar",
+        "shor",
+        "shear",
+        "sshor"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "root (shoresh)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "chear": {
+      "meanings": [
+        {
+          "translation": "hole/pierce (chor)",
+          "language": "Hebrew",
+          "source": "ch-r",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 249,
+      "variants": [
+        "chear",
+        "chor",
+        "dchar",
+        "cheor",
+        "char"
+      ],
+      "domain": "general",
+      "primary_meaning": "hole/pierce (chor)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "chor": {
+      "meanings": [
+        {
+          "translation": "hole/pierce (chor)",
+          "language": "Hebrew",
+          "source": "ch-r",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 1077,
+      "variants": [
+        "chear",
+        "chor",
+        "dchar",
+        "cheor",
+        "char"
+      ],
+      "domain": "general",
+      "primary_meaning": "hole/pierce (chor)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "dchar": {
+      "meanings": [
+        {
+          "translation": "hole/pierce (chor)",
+          "language": "Hebrew",
+          "source": "ch-r",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 15,
+      "variants": [
+        "chear",
+        "chor",
+        "dchar",
+        "cheor",
+        "char"
+      ],
+      "domain": "general",
+      "primary_meaning": "hole/pierce (chor)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "cheor": {
+      "meanings": [
+        {
+          "translation": "hole/pierce (chor)",
+          "language": "Hebrew",
+          "source": "ch-r",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 456,
+      "variants": [
+        "chear",
+        "chor",
+        "dchar",
+        "cheor",
+        "char"
+      ],
+      "domain": "general",
+      "primary_meaning": "hole/pierce (chor)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "char": {
+      "meanings": [
+        {
+          "translation": "hole/pierce (chor)",
+          "language": "Hebrew",
+          "source": "ch-r",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 366,
+      "variants": [
+        "chear",
+        "chor",
+        "dchar",
+        "cheor",
+        "char"
+      ],
+      "domain": "general",
+      "primary_meaning": "hole/pierce (chor)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "shos": {
+      "meanings": [
+        {
+          "translation": "root (shoresh)",
+          "language": "Hebrew",
+          "source": "sh-r-sh",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 44,
+      "variants": [
+        "shos",
+        "shoshy",
+        "tsheos",
+        "shyshol",
+        "shees"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "root (shoresh)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "shoshy": {
+      "meanings": [
+        {
+          "translation": "root (shoresh)",
+          "language": "Hebrew",
+          "source": "sh-r-sh",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 16,
+      "variants": [
+        "shos",
+        "shoshy",
+        "tsheos",
+        "shyshol",
+        "shees"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "root (shoresh)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "tsheos": {
+      "meanings": [
+        {
+          "translation": "root (shoresh)",
+          "language": "Hebrew",
+          "source": "sh-r-sh",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 5,
+      "variants": [
+        "shos",
+        "shoshy",
+        "tsheos",
+        "shyshol",
+        "shees"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "root (shoresh)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "shyshol": {
+      "meanings": [
+        {
+          "translation": "root (shoresh)",
+          "language": "Hebrew",
+          "source": "sh-r-sh",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 5,
+      "variants": [
+        "shos",
+        "shoshy",
+        "tsheos",
+        "shyshol",
+        "shees"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "root (shoresh)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "shees": {
+      "meanings": [
+        {
+          "translation": "root (shoresh)",
+          "language": "Hebrew",
+          "source": "sh-r-sh",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 46,
+      "variants": [
+        "shos",
+        "shoshy",
+        "tsheos",
+        "shyshol",
+        "shees"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "root (shoresh)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "shom": {
+      "meanings": [
+        {
+          "translation": "name (shem)",
+          "language": "Hebrew",
+          "source": "sh-m",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 19,
+      "variants": [
+        "shom",
+        "sheam",
+        "sham",
+        "okydsham",
+        "okydshom"
+      ],
+      "domain": "general",
+      "primary_meaning": "name (shem)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "sheam": {
+      "meanings": [
+        {
+          "translation": "name (shem)",
+          "language": "Hebrew",
+          "source": "sh-m",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 12,
+      "variants": [
+        "shom",
+        "sheam",
+        "sham",
+        "okydsham",
+        "okydshom"
+      ],
+      "domain": "general",
+      "primary_meaning": "name (shem)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "sham": {
+      "meanings": [
+        {
+          "translation": "name (shem)",
+          "language": "Hebrew",
+          "source": "sh-m",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 35,
+      "variants": [
+        "shom",
+        "sheam",
+        "sham",
+        "okydsham",
+        "okydshom"
+      ],
+      "domain": "general",
+      "primary_meaning": "name (shem)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "okydsham": {
+      "meanings": [
+        {
+          "translation": "name (shem)",
+          "language": "Hebrew",
+          "source": "sh-m",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 1,
+      "variants": [
+        "shom",
+        "sheam",
+        "sham",
+        "okydsham",
+        "okydshom"
+      ],
+      "domain": "general",
+      "primary_meaning": "name (shem)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "okydshom": {
+      "meanings": [
+        {
+          "translation": "name (shem)",
+          "language": "Hebrew",
+          "source": "sh-m",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 1,
+      "variants": [
+        "shom",
+        "sheam",
+        "sham",
+        "okydsham",
+        "okydshom"
+      ],
+      "domain": "general",
+      "primary_meaning": "name (shem)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "eoporchy": {
+      "meanings": [
+        {
+          "translation": "flower (perach)",
+          "language": "Hebrew",
+          "source": "p-r-ch",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 1,
+      "variants": [
+        "eoporchy",
+        "porechol",
+        "porachol",
+        "porchey"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "flower (perach)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "porechol": {
+      "meanings": [
+        {
+          "translation": "flower (perach)",
+          "language": "Hebrew",
+          "source": "p-r-ch",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 1,
+      "variants": [
+        "eoporchy",
+        "porechol",
+        "porachol",
+        "porchey"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "flower (perach)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "porachol": {
+      "meanings": [
+        {
+          "translation": "flower (perach)",
+          "language": "Hebrew",
+          "source": "p-r-ch",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 4,
+      "variants": [
+        "eoporchy",
+        "porechol",
+        "porachol",
+        "porchey"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "flower (perach)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "porchey": {
+      "meanings": [
+        {
+          "translation": "flower (perach)",
+          "language": "Hebrew",
+          "source": "p-r-ch",
+          "confidence": 0.7,
+          "match_type": "root"
+        }
+      ],
+      "frequency": 4,
+      "variants": [
+        "eoporchy",
+        "porechol",
+        "porachol",
+        "porchey"
+      ],
+      "domain": "botanical",
+      "primary_meaning": "flower (perach)",
+      "primary_language": "Hebrew",
+      "primary_confidence": 0.7
+    },
+    "ol": {
+      "meanings": [
+        {
+          "translation": "the/of",
+          "language": "Grammar",
+          "source": "article/preposition",
+          "confidence": 0.7,
+          "match_type": "frequency"
+        }
+      ],
+      "frequency": 2568,
+      "variants": [
+        "oly",
+        "olol"
+      ],
+      "domain": "grammar",
+      "primary_meaning": "the/of",
+      "primary_language": "Grammar",
+      "primary_confidence": 0.7
+    },
+    "ar": {
+      "meanings": [
+        {
+          "translation": "to/for",
+          "language": "Grammar",
+          "source": "preposition",
+          "confidence": 0.65,
+          "match_type": "frequency"
+        }
+      ],
+      "frequency": 1516,
+      "variants": [
+        "ar",
+        "ary"
+      ],
+      "domain": "grammar",
+      "primary_meaning": "to/for",
+      "primary_language": "Grammar",
+      "primary_confidence": 0.65
+    },
+    "or": {
+      "meanings": [
+        {
+          "translation": "or/and",
+          "language": "Grammar",
+          "source": "conjunction",
+          "confidence": 0.6,
+          "match_type": "frequency"
+        }
+      ],
+      "frequency": 1583,
+      "variants": [
+        "or",
+        "ory"
+      ],
+      "domain": "grammar",
+      "primary_meaning": "or/and",
+      "primary_language": "Grammar",
+      "primary_confidence": 0.6
+    },
+    "al": {
+      "meanings": [
+        {
+          "translation": "to the",
+          "language": "Grammar",
+          "source": "preposition+article",
+          "confidence": 0.65,
+          "match_type": "frequency"
+        }
+      ],
+      "frequency": 1067,
+      "variants": [
+        "al",
+        "aly"
+      ],
+      "domain": "grammar",
+      "primary_meaning": "to the",
+      "primary_language": "Grammar",
+      "primary_confidence": 0.65
+    },
+    "qo": {
+      "meanings": [
+        {
+          "translation": "the (definite article)",
+          "language": "Grammar",
+          "source": "Hebrew ha-",
+          "confidence": 0.75,
+          "match_type": "prefix"
+        }
+      ],
+      "frequency": 152,
+      "variants": [],
+      "domain": "grammar",
+      "primary_meaning": "the (definite article)",
+      "primary_language": "Grammar",
+      "primary_confidence": 0.75
+    },
+    "dy": {
+      "meanings": [
+        {
+          "translation": "-ness/-ly (suffix)",
+          "language": "Grammar",
+          "source": "suffix",
+          "confidence": 0.7,
+          "match_type": "suffix"
+        }
+      ],
+      "frequency": 1134,
+      "variants": [
+        "edy",
+        "ody"
+      ],
+      "domain": "grammar",
+      "primary_meaning": "-ness/-ly (suffix)",
+      "primary_language": "Grammar",
+      "primary_confidence": 0.7
+    },
+    "y": {
+      "meanings": [
+        {
+          "translation": "-s/-i (plural/genitive)",
+          "language": "Grammar",
+          "source": "suffix",
+          "confidence": 0.8,
+          "match_type": "suffix"
+        }
+      ],
+      "frequency": 77378,
+      "variants": [],
+      "domain": "grammar",
+      "primary_meaning": "-s/-i (plural/genitive)",
+      "primary_language": "Grammar",
+      "primary_confidence": 0.8
+    },
+    "daiin": {
+      "meanings": [
+        {
+          "translation": "of the/from",
+          "language": "Grammar",
+          "source": "preposition de+",
+          "confidence": 0.7,
+          "match_type": "frequency"
+        }
+      ],
+      "frequency": 4401,
+      "variants": [
+        "dain",
+        "dam"
+      ],
+      "domain": "grammar",
+      "primary_meaning": "of the/from",
+      "primary_language": "Grammar",
+      "primary_confidence": 0.7
+    },
+    "chedy": {
+      "meanings": [
+        {
+          "translation": "is/has (verb)",
+          "language": "Grammar",
+          "source": "verb form",
+          "confidence": 0.6,
+          "match_type": "context"
+        }
+      ],
+      "frequency": 2664,
+      "variants": [
+        "shedy",
+        "chey"
+      ],
+      "domain": "grammar",
+      "primary_meaning": "is/has (verb)",
+      "primary_language": "Grammar",
+      "primary_confidence": 0.6
+    },
+    "shedy": {
+      "meanings": [
+        {
+          "translation": "which/that",
+          "language": "Grammar",
+          "source": "relative pronoun",
+          "confidence": 0.55,
+          "match_type": "context"
+        }
+      ],
+      "frequency": 2317,
+      "variants": [
+        "sheedy",
+        "sedy"
+      ],
+      "domain": "grammar",
+      "primary_meaning": "which/that",
+      "primary_language": "Grammar",
+      "primary_confidence": 0.55
+    }
+  },
+  "by_domain": {
+    "botanical": [
+      "alaiin",
+      "aram",
+      "eoporchy",
+      "far",
+      "fr",
+      "laiin",
+      "ofar",
+      "ofor",
+      "olaiin",
+      "olain",
+      "opair",
+      "opal",
+      "opar",
+      "opary",
+      "opol",
+      "opor",
+      "oram",
+      "orom",
+      "osal",
+      "otaiin",
+      "otaiir",
+      "otaim",
+      "otain",
+      "otair",
+      "otam",
+      "otan",
+      "otar",
+      "otary",
+      "otchalypchaiin",
+      "oteaiin",
+      "otear",
+      "oteees",
+      "oteeor",
+      "oteeos",
+      "otees",
+      "oteeys",
+      "oteor",
+      "oteos",
+      "otes",
+      "otoaiin",
+      "otoiin",
+      "otor",
+      "otory",
+      "otos",
+      "pair",
+      "par",
+      "pcheol",
+      "pcheoldom",
+      "pchor",
+      "poar",
+      "pol",
+      "por",
+      "porachol",
+      "porchey",
+      "porechol",
+      "ram",
+      "saiir",
+      "sair",
+      "sairy",
+      "sal",
+      "saly",
+      "sam",
+      "sar",
+      "sary",
+      "shar",
+      "shear",
+      "shees",
+      "shor",
+      "shory",
+      "shos",
+      "shoshy",
+      "shyshol",
+      "sokeey",
+      "sol",
+      "sor",
+      "sory",
+      "sshor",
+      "syaiir",
+      "taiin",
+      "tair",
+      "tam",
+      "tar",
+      "teeos",
+      "teor",
+      "teos",
+      "toaiin",
+      "toar",
+      "toees",
+      "toiin",
+      "tor",
+      "tos",
+      "tr",
+      "tsheos",
+      "ypair",
+      "ypal",
+      "ypar",
+      "ypchol",
+      "ytaiin",
+      "ytain",
+      "ytair",
+      "ytam",
+      "ytar",
+      "yteor",
+      "yteos",
+      "ytor"
+    ],
+    "medical": [
+      "adam",
+      "daiim",
+      "daim",
+      "dalar",
+      "dalary",
+      "dalor",
+      "dam",
+      "damo",
+      "dm",
+      "dolar",
+      "dolor",
+      "dom",
+      "kair",
+      "kairy",
+      "kar",
+      "kary",
+      "keear",
+      "keeor",
+      "keor",
+      "kor",
+      "odam",
+      "okaiir",
+      "okair",
+      "okairy",
+      "okar",
+      "okary",
+      "okear",
+      "okeear",
+      "okeeor",
+      "okeor",
+      "okor",
+      "opydy",
+      "ykair",
+      "ykar",
+      "ykeeor",
+      "ykeor",
+      "ykor"
+    ],
+    "religious": [
+      "akaiin",
+      "chkaiin",
+      "cl",
+      "kaiin",
+      "kain",
+      "koaiin",
+      "koiin",
+      "lkaiin",
+      "lkain",
+      "oekaiin",
+      "okaiiin",
+      "okaiin",
+      "okain",
+      "okan",
+      "okiin",
+      "okoiin",
+      "olkaiin",
+      "olkain",
+      "qokaiin",
+      "qokain",
+      "ykaiin"
+    ],
+    "general": [
+      "chal",
+      "char",
+      "chear",
+      "chekain",
+      "cheol",
+      "cheor",
+      "chok",
+      "chokain",
+      "chokeo",
+      "chokody",
+      "chol",
+      "chor",
+      "darshol",
+      "dchar",
+      "kchy",
+      "kochey",
+      "kychol",
+      "mar",
+      "okchey",
+      "okcho",
+      "okees",
+      "okeos",
+      "okydsham",
+      "okydshom",
+      "otchol",
+      "pshol",
+      "sham",
+      "sheam",
+      "sheoldaj",
+      "sheoldam",
+      "shok",
+      "shokcheey",
+      "shol",
+      "shom"
+    ],
+    "grammar": [
+      "al",
+      "ar",
+      "chedy",
+      "daiin",
+      "dy",
+      "ol",
+      "or",
+      "qo",
+      "shedy",
+      "y"
+    ]
+  },
+  "high_confidence_words": [
+    "akaiin",
+    "alaiin",
+    "aram",
+    "chal",
+    "char",
+    "chear",
+    "chekain",
+    "cheol",
+    "cheor",
+    "chok",
+    "chokain",
+    "chokeo",
+    "chokody",
+    "chol",
+    "chor",
+    "cl",
+    "daiin",
+    "dalar",
+    "dalary",
+    "dalor",
+    "darshol",
+    "dchar",
+    "dolar",
+    "dolor",
+    "dy",
+    "eoporchy",
+    "far",
+    "fr",
+    "kaiin",
+    "kain",
+    "kair",
+    "kairy",
+    "kar",
+    "kary",
+    "kchy",
+    "keear",
+    "keeor",
+    "keor",
+    "koaiin",
+    "kochey",
+    "koiin",
+    "kor",
+    "kychol",
+    "laiin",
+    "oekaiin",
+    "ofar",
+    "ofor",
+    "okaiiin",
+    "okaiin",
+    "okaiir",
+    "okain",
+    "okair",
+    "okairy",
+    "okan",
+    "okar",
+    "okary",
+    "okchey",
+    "okcho",
+    "okear",
+    "okeear",
+    "okeeor",
+    "okees",
+    "okeor",
+    "okeos",
+    "okiin",
+    "okoiin",
+    "okor",
+    "okydsham",
+    "okydshom",
+    "ol",
+    "olaiin",
+    "olain",
+    "opal",
+    "opol",
+    "opydy",
+    "oram",
+    "orom",
+    "osal",
+    "otaiir",
+    "otaim",
+    "otair",
+    "otam",
+    "otar",
+    "otary",
+    "otchalypchaiin",
+    "otchol",
+    "otear",
+    "oteeor",
+    "oteor",
+    "otor",
+    "otory",
+    "pcheol",
+    "pcheoldom",
+    "pchor",
+    "pol",
+    "porachol",
+    "porchey",
+    "porechol",
+    "pshol",
+    "qo",
+    "ram",
+    "sal",
+    "saly",
+    "sam",
+    "sham",
+    "shar",
+    "sheam",
+    "shear",
+    "shees",
+    "sheoldaj",
+    "sheoldam",
+    "shokcheey",
+    "shol",
+    "shom",
+    "shor",
+    "shory",
+    "shos",
+    "shoshy",
+    "shyshol",
+    "sokeey",
+    "sol",
+    "sshor",
+    "tair",
+    "tam",
+    "tar",
+    "teor",
+    "toar",
+    "tor",
+    "tr",
+    "tsheos",
+    "y",
+    "ykaiin",
+    "ykair",
+    "ykar",
+    "ykeeor",
+    "ykeor",
+    "ykor",
+    "ypal",
+    "ypchol",
+    "ytair",
+    "ytam",
+    "ytar",
+    "yteor",
+    "ytor"
+  ],
+  "coverage": {
+    "unique_words_translated": 204,
+    "total_unique_words": 14977,
+    "percentage": 1.36,
+    "occurrences_translated": 41465,
+    "total_occurrences": 186501,
+    "occurrence_percentage": 22.23
+  },
+  "sources": [
+    "proto_romance_analysis.json",
+    "judeo_italian_analysis.json",
+    "hebrew_analysis.json",
+    "cohen_analysis.json",
+    "root_decoding.json"
+  ]
+}

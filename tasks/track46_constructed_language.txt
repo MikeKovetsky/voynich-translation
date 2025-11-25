@@ -1,0 +1,181 @@
+# Track 46: Constructed Language / Cipher System Analysis
+
+## OBJECTIVE
+Test if Voynich is a deliberately CONSTRUCTED system rather than a natural language.
+Compare against known medieval cryptographic and esoteric traditions.
+
+## INPUT FILES
+- `data/eva_ivtff.txt` - Source transcription
+- `results/hebrew_analysis.json` - Structural patterns
+- `results/glyph_analysis.json` - Glyph properties
+
+## BACKGROUND
+Track 41 found: "Different encoding system that shares structural features with Semitic languages"
+This suggests intentional construction rather than natural language.
+
+Medieval constructed systems include:
+- Trithemius cipher (1508)
+- Roger Bacon's cipher proposals
+- Alchemical notation
+- Secret society codes
+- Angelic/Enochian scripts
+
+## TASKS
+
+### 1. Test for Cipher Characteristics
+
+#### 1a. Regularity Test
+Natural languages have irregularities. Constructed systems are more regular.
+- Measure word length distribution variance
+- Check for overly consistent patterns
+- Compare to natural language baselines
+
+#### 1b. Entropy Analysis
+- Calculate Shannon entropy
+- Compare to known ciphered texts vs plain texts
+- Is it too regular or too random?
+
+### 2. Medieval Cipher Comparison
+
+#### 2a. Trithemius System
+Compare Voynich patterns to Johannes Trithemius's "Polygraphia" (1508):
+- Substitution tables
+- Steganographic techniques
+
+#### 2b. Alchemical Notation
+Check for alchemical symbol patterns:
+- Element symbols (🜍 sulfur, 🜔 mercury, etc.)
+- Process terms (calcination, dissolution, etc.)
+- Do Voynich sections match alchemical stages?
+
+#### 2c. Null Cipher Test
+Are some characters/words meaningless "nulls"?
+- Check for characters that add no information
+- Test if removing certain glyphs improves readability
+
+### 3. Artificial Grammar Detection
+
+#### 3a. Markov Analysis
+- Build character/word transition probabilities
+- Is the grammar too simple (low-order Markov)?
+- Natural languages need higher-order models
+
+#### 3b. Zipf's Law Test
+- Does word frequency follow Zipf's law?
+- Deviations suggest constructed origin
+
+### 4. Pattern Injection Test
+Check if patterns were deliberately inserted:
+- Repeating sequences
+- Palindromic structures
+- Mathematical relationships (Fibonacci, etc.)
+
+### 5. Compare to Known Constructed Languages
+- Hildegard von Bingen's "Lingua Ignota" (12th c.)
+- John Dee's Enochian (16th c.)
+- Are there structural similarities?
+
+### 6. Encoding Layer Analysis
+Test for multiple encoding layers:
+- Simple substitution (letter-for-letter)
+- Syllabic encoding (symbol-for-syllable)
+- Word-level encoding (symbol-for-word)
+- Combination systems
+
+## EXPECTED OUTPUT FILES
+
+### Script
+`constructed_lang.py`
+
+### Results
+
+1. **`results/constructed_language_analysis.json`**
+```json
+{
+  "regularity_test": {
+    "word_length_variance": 0.0,
+    "pattern_consistency": 0.0,
+    "natural_language_baseline": 0.0,
+    "verdict": "NATURAL/CONSTRUCTED"
+  },
+  "entropy_analysis": {
+    "shannon_entropy": 0.0,
+    "comparison": "CIPHER/PLAIN/MIXED"
+  },
+  "medieval_cipher_comparison": {
+    "trithemius_similarity": 0.0,
+    "alchemical_patterns": [],
+    "null_characters_found": []
+  },
+  "artificial_grammar": {
+    "markov_order": 0,
+    "zipf_deviation": 0.0,
+    "verdict": "NATURAL/ARTIFICIAL"
+  },
+  "pattern_injection": {
+    "repeating_sequences": [],
+    "palindromes": [],
+    "mathematical_patterns": []
+  },
+  "known_conlang_comparison": {
+    "lingua_ignota_similarity": 0.0,
+    "enochian_similarity": 0.0
+  },
+  "encoding_layers": {
+    "likely_layers": [],
+    "confidence": 0.0
+  },
+  "overall_verdict": "NATURAL_LANGUAGE/CONSTRUCTED_LANGUAGE/CIPHER/HOAX"
+}
+```
+
+2. **`results/constructed_language_report.md`**
+```markdown
+# Constructed Language Analysis Report
+
+## Executive Summary
+Overall Verdict: [NATURAL/CONSTRUCTED/CIPHER/HOAX]
+
+## Regularity Analysis
+[Is the text too regular for natural language?]
+
+## Entropy Analysis
+[Shannon entropy results and comparison]
+
+## Medieval Cipher Comparison
+### Trithemius System
+[Comparison results]
+
+### Alchemical Notation
+[Any alchemical patterns?]
+
+### Null Cipher Test
+[Are there meaningless characters?]
+
+## Artificial Grammar Detection
+### Markov Analysis
+[Results]
+
+### Zipf's Law
+[Deviation analysis]
+
+## Pattern Injection
+[Deliberate patterns found?]
+
+## Comparison to Known Constructed Languages
+[Similarity to Lingua Ignota, Enochian]
+
+## Encoding Layer Analysis
+[How many layers of encoding?]
+
+## Final Verdict
+[Is Voynich a constructed language, cipher, or natural language?]
+```
+
+## SUCCESS CRITERIA
+- [ ] Regularity test completed
+- [ ] Entropy analysis done
+- [ ] Medieval cipher comparison done
+- [ ] Markov/Zipf analysis completed
+- [ ] Known conlang comparison done
+- [ ] Clear verdict on constructed vs natural origin

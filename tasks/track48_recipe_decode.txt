@@ -1,0 +1,134 @@
+# Track 48: Decode Recipes Section
+
+## OBJECTIVE
+Apply the hybrid dictionary to decode the RECIPES section (highest signal).
+This is the practical test of our translation hypothesis.
+
+## INPUT FILES (REQUIRED)
+- `results/hybrid_dictionary.json` - From Track 47 (or build inline)
+- `results/proto_romance_analysis.json` - Italian/Hebrew matches
+- `results/cohen_analysis.json` - Cohen pattern locations
+- `data/eva_ivtff.txt` - Source text
+
+## TARGET FOLIOS
+From Track 44, highest "cohen" concentration (likely medical content):
+- **f111v** (510 cohen occurrences) - PRIMARY TARGET
+- **f107v** (311)
+- **f107r** (259)
+- **f80r** (350)
+- **f80v** (291)
+
+## TASKS
+
+### 1. Extract Target Folios
+
+Get complete text from f111v, f107v, f107r:
+- All lines
+- Paragraph structure
+- Any labels or markers
+
+### 2. Apply Dictionary Translation
+
+For each word:
+- Look up in hybrid dictionary
+- Mark confidence level
+- Note untranslatable words
+
+### 3. Attempt Sentence Reconstruction
+
+Using known patterns:
+- Hebrew word order (Verb-Subject-Object or Subject-Verb-Object)
+- Italian word order (Subject-Verb-Object)
+- Medieval recipe structure: "Take X, add Y, boil until Z"
+
+### 4. Look for Recipe Patterns
+
+Medieval medical recipes typically have:
+- Ingredient lists (plants, minerals)
+- Quantities (not always present in abbreviated texts)
+- Preparation verbs (take, grind, boil, mix)
+- Application instructions (apply to, drink, etc.)
+
+### 5. Semantic Coherence Check
+
+Does the translation make sense as:
+- Medical prescription?
+- Herbal remedy?
+- Alchemical formula?
+
+### 6. Cross-Reference Illustrations
+
+For f111v:
+- What do the illustrations show?
+- Do translated words match visual content?
+
+## EXPECTED OUTPUT FILES
+
+### Script
+`recipe_decode.py`
+
+### Results
+
+1. **`results/recipe_translation.json`**
+```json
+{
+  "target_folios": ["f111v", "f107v", "f107r"],
+  "translations": {
+    "f111v": {
+      "total_words": 0,
+      "translated_words": 0,
+      "translation_rate": 0.0,
+      "lines": [
+        {
+          "line_num": 1,
+          "voynich": "original text",
+          "translated": "translation attempt",
+          "confidence": 0.0,
+          "unknown_words": []
+        }
+      ],
+      "coherent_phrases": [],
+      "recipe_patterns_found": []
+    }
+  },
+  "overall_stats": {
+    "total_words_attempted": 0,
+    "successfully_translated": 0,
+    "translation_rate": 0.0,
+    "coherence_score": 0.0
+  },
+  "verdict": "READABLE/PARTIAL/UNREADABLE"
+}
+```
+
+2. **`results/recipe_translation_report.md`**
+```markdown
+# Recipe Section Translation Attempt
+
+## Target: f111v (510 cohen variants)
+
+### Full Translation Attempt
+[Line by line with Voynich and translation]
+
+### Coherent Phrases Found
+[Any readable segments]
+
+### Recipe Pattern Analysis
+[Does it look like a medical recipe?]
+
+### Illustration Cross-Reference
+[Do translations match images?]
+
+## Target: f107v
+[Same structure]
+
+## Overall Verdict
+[Can we read the recipes section?]
+```
+
+## SUCCESS CRITERIA
+- [ ] f111v fully processed
+- [ ] At least 2 other folios attempted
+- [ ] Translation rate calculated
+- [ ] Coherent phrases identified (if any)
+- [ ] Clear verdict on readability

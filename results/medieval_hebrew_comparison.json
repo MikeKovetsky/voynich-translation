@@ -1,1405 +1,1110 @@
 {
   "reference_corpus": {
-    "month_names": 12,
-    "plant_terms": 13,
-    "body_parts": 17,
-    "astrological": 16,
-    "medical": 8,
-    "total_terms": 66
-  },
-  "zodiac_hebrew_matches": [
-    {
-      "sign": "Pisces",
-      "folio": "70v2",
-      "expected_hebrew_months": [
-        "adar",
-        "nisan"
-      ],
-      "expected_hebrew_zodiac": "dagim",
-      "month_matches": [
-        {
-          "voynich": "okdo",
-          "decoded": "akda",
-          "hebrew_month": "adar",
-          "score": 0.65
-        },
-        {
-          "voynich": "aean",
-          "decoded": "eien",
-          "hebrew_month": "nisan",
-          "score": 0.467
-        },
-        {
-          "voynich": "1ohan",
-          "decoded": "1ahen",
-          "hebrew_month": "nisan",
-          "score": 0.427
-        }
-      ],
-      "zodiac_matches": [
-        {
-          "voynich": "1oeam",
-          "decoded": "1aiem",
-          "hebrew_sign": "dagim",
-          "score": 0.6
-        },
-        {
-          "voynich": "okdo",
-          "decoded": "akda",
-          "hebrew_sign": "dagim",
-          "score": 0.427
-        },
-        {
-          "voynich": "ko7am",
-          "decoded": "ka7em",
-          "hebrew_sign": "dagim",
-          "score": 0.427
-        }
-      ],
-      "best_month_score": 0.65,
-      "best_zodiac_score": 0.6
-    },
-    {
-      "sign": "Aries",
-      "folio": "70v1",
-      "expected_hebrew_months": [
-        "nisan",
-        "iyar"
-      ],
-      "expected_hebrew_zodiac": "taleh",
-      "month_matches": [
-        {
-          "voynich": "ay",
-          "decoded": "ey",
-          "hebrew_month": "iyar",
-          "score": 0.467
-        },
-        {
-          "voynich": "1ckae1y",
-          "decoded": "1ckei1y",
-          "hebrew_month": "iyar",
-          "score": 0.427
-        },
-        {
-          "voynich": "Qay",
-          "decoded": "Qey",
-          "hebrew_month": "iyar",
-          "score": 0.371
-        }
-      ],
-      "zodiac_matches": [
-        {
-          "voynich": "ohoe29",
-          "decoded": "ahai29",
-          "hebrew_sign": "taleh",
-          "score": 0.467
-        },
-        {
-          "voynich": "2ohc9",
-          "decoded": "2ahc9",
-          "hebrew_sign": "taleh",
-          "score": 0.46
-        },
-        {
-          "voynich": "ok1o8aes",
-          "decoded": "ak1a8eish",
-          "hebrew_sign": "taleh",
-          "score": 0.433
-        }
-      ],
-      "best_month_score": 0.467,
-      "best_zodiac_score": 0.467
-    },
-    {
-      "sign": "Aries",
-      "folio": "71r",
-      "expected_hebrew_months": [
-        "nisan",
-        "iyar"
-      ],
-      "expected_hebrew_zodiac": "taleh",
-      "month_matches": [
-        {
-          "voynich": "ay",
-          "decoded": "ey",
-          "hebrew_month": "iyar",
-          "score": 0.467
-        },
-        {
-          "voynich": "ay",
-          "decoded": "ey",
-          "hebrew_month": "iyar",
-          "score": 0.467
-        },
-        {
-          "voynich": "oay",
-          "decoded": "aey",
-          "hebrew_month": "iyar",
-          "score": 0.438
-        }
-      ],
-      "zodiac_matches": [
-        {
-          "voynich": "oh9",
-          "decoded": "ah9",
-          "hebrew_sign": "taleh",
-          "score": 0.543
-        },
-        {
-          "voynich": "2oH9",
-          "decoded": "2aH9",
-          "hebrew_sign": "taleh",
-          "score": 0.543
-        },
-        {
-          "voynich": "oho89",
-          "decoded": "aha89",
-          "hebrew_sign": "taleh",
-          "score": 0.5
-        }
-      ],
-      "best_month_score": 0.467,
-      "best_zodiac_score": 0.543
-    },
-    {
-      "sign": "Taurus",
-      "folio": "71v",
-      "expected_hebrew_months": [
-        "iyar",
-        "sivan"
-      ],
-      "expected_hebrew_zodiac": "shor",
-      "month_matches": [
-        {
-          "voynich": "ayoe",
-          "decoded": "eyai",
-          "hebrew_month": "iyar",
-          "score": 0.567
-        },
-        {
-          "voynich": "oyop",
-          "decoded": "ayap",
-          "hebrew_month": "iyar",
-          "score": 0.5
-        },
-        {
-          "voynich": "ay",
-          "decoded": "ey",
-          "hebrew_month": "iyar",
-          "score": 0.467
-        }
-      ],
-      "zodiac_matches": [
-        {
-          "voynich": "1coes",
-          "decoded": "1caish",
-          "hebrew_sign": "shor",
-          "score": 0.533
-        },
-        {
-          "voynich": "hC9",
-          "decoded": "hC9",
-          "hebrew_sign": "shor",
-          "score": 0.36
-        },
-        {
-          "voynich": "ohap",
-          "decoded": "ahep",
-          "hebrew_sign": "shor",
-          "score": 0.31
-        }
-      ],
-      "best_month_score": 0.567,
-      "best_zodiac_score": 0.533
-    },
-    {
-      "sign": "Taurus",
-      "folio": "72r1",
-      "expected_hebrew_months": [
-        "iyar",
-        "sivan"
-      ],
-      "expected_hebrew_zodiac": "shor",
-      "month_matches": [
-        {
-          "voynich": "8ay",
-          "decoded": "8ey",
-          "hebrew_month": "iyar",
-          "score": 0.467
-        },
-        {
-          "voynich": "ay",
-          "decoded": "ey",
-          "hebrew_month": "iyar",
-          "score": 0.467
-        },
-        {
-          "voynich": "7ay",
-          "decoded": "7ey",
-          "hebrew_month": "iyar",
-          "score": 0.467
-        }
-      ],
-      "zodiac_matches": [
-        {
-          "voynich": "sae",
-          "decoded": "shei",
-          "hebrew_sign": "shor",
-          "score": 0.62
-        },
-        {
-          "voynich": "okos",
-          "decoded": "akash",
-          "hebrew_sign": "shor",
-          "score": 0.533
-        },
-        {
-          "voynich": "ohccos",
-          "decoded": "ahccash",
-          "hebrew_sign": "shor",
-          "score": 0.418
-        }
-      ],
-      "best_month_score": 0.467,
-      "best_zodiac_score": 0.62
-    },
-    {
-      "sign": "Gemini",
-      "folio": "72r2",
-      "expected_hebrew_months": [
-        "sivan",
-        "tammuz"
-      ],
-      "expected_hebrew_zodiac": "teomim",
-      "month_matches": [
-        {
-          "voynich": "1okam",
-          "decoded": "1akem",
-          "hebrew_month": "tammuz",
-          "score": 0.373
-        },
-        {
-          "voynich": "okam",
-          "decoded": "akem",
-          "hebrew_month": "tammuz",
-          "score": 0.373
-        },
-        {
-          "voynich": "ohaeam",
-          "decoded": "aheiem",
-          "hebrew_month": "tammuz",
-          "score": 0.333
-        }
-      ],
-      "zodiac_matches": [
-        {
-          "voynich": "am",
-          "decoded": "em",
-          "hebrew_sign": "teomim",
-          "score": 0.5
-        },
-        {
-          "voynich": "8am",
-          "decoded": "8em",
-          "hebrew_sign": "teomim",
-          "score": 0.5
-        },
-        {
-          "voynich": "8am",
-          "decoded": "8em",
-          "hebrew_sign": "teomim",
-          "score": 0.5
-        }
-      ],
-      "best_month_score": 0.373,
-      "best_zodiac_score": 0.5
-    },
-    {
-      "sign": "Cancer",
-      "folio": "72r3",
-      "expected_hebrew_months": [
-        "tammuz",
-        "av"
-      ],
-      "expected_hebrew_zodiac": "sartan",
-      "month_matches": [
-        {
-          "voynich": "om",
-          "decoded": "am",
-          "hebrew_month": "tammuz",
-          "score": 0.46
-        },
-        {
-          "voynich": "oeam",
-          "decoded": "aiem",
-          "hebrew_month": "tammuz",
-          "score": 0.4
-        },
-        {
-          "voynich": "?am",
-          "decoded": "?em",
-          "hebrew_month": "tammuz",
-          "score": 0.31
-        }
-      ],
-      "zodiac_matches": [
-        {
-          "voynich": "1oyan",
-          "decoded": "1ayen",
-          "hebrew_sign": "sartan",
-          "score": 0.373
-        },
-        {
-          "voynich": "ohcos",
-          "decoded": "ahcash",
-          "hebrew_sign": "sartan",
-          "score": 0.3
-        },
-        {
-          "voynich": "os",
-          "decoded": "ash",
-          "hebrew_sign": "sartan",
-          "score": 0.267
-        }
-      ],
-      "best_month_score": 0.46,
-      "best_zodiac_score": 0.373
-    },
-    {
-      "sign": "Leo",
-      "folio": "72v3",
-      "expected_hebrew_months": [
-        "av",
-        "elul"
-      ],
-      "expected_hebrew_zodiac": "aryeh",
-      "month_matches": [
-        {
-          "voynich": "2o",
-          "decoded": "2a",
-          "hebrew_month": "av",
-          "score": 0.4
-        },
-        {
-          "voynich": "2oe",
-          "decoded": "2ai",
-          "hebrew_month": "av",
-          "score": 0.3
-        },
-        {
-          "voynich": "1oe",
-          "decoded": "1ai",
-          "hebrew_month": "av",
-          "score": 0.3
-        }
-      ],
-      "zodiac_matches": [
-        {
-          "voynich": "ohoe",
-          "decoded": "ahai",
-          "hebrew_sign": "aryeh",
-          "score": 0.467
-        },
-        {
-          "voynich": "ohae9",
-          "decoded": "ahei9",
-          "hebrew_sign": "aryeh",
-          "score": 0.467
-        },
-        {
-          "voynich": "ohae79",
-          "decoded": "ahei79",
-          "hebrew_sign": "aryeh",
-          "score": 0.467
-        }
-      ],
-      "best_month_score": 0.4,
-      "best_zodiac_score": 0.467
-    },
-    {
-      "sign": "Virgo",
-      "folio": "72v2",
-      "expected_hebrew_months": [
-        "elul",
-        "tishrei"
-      ],
-      "expected_hebrew_zodiac": "betulah",
-      "month_matches": [
-        {
-          "voynich": "k1oes",
-          "decoded": "k1aish",
-          "hebrew_month": "tishrei",
-          "score": 0.529
-        },
-        {
-          "voynich": "ohoesam",
-          "decoded": "ahaishem",
-          "hebrew_month": "tishrei",
-          "score": 0.52
-        },
-        {
-          "voynich": "2cos",
-          "decoded": "2cash",
-          "hebrew_month": "tishrei",
-          "score": 0.447
-        }
-      ],
-      "zodiac_matches": [
-        {
-          "voynich": "1oH?",
-          "decoded": "1aH?",
-          "hebrew_sign": "betulah",
-          "score": 0.427
-        },
-        {
-          "voynich": "1coH9",
-          "decoded": "1caH9",
-          "hebrew_sign": "betulah",
-          "score": 0.373
-        },
-        {
-          "voynich": "ohc79",
-          "decoded": "ahc79",
-          "hebrew_sign": "betulah",
-          "score": 0.373
-        }
-      ],
-      "best_month_score": 0.529,
-      "best_zodiac_score": 0.427
-    },
-    {
-      "sign": "Libra",
-      "folio": "72v1",
-      "expected_hebrew_months": [
-        "tishrei",
-        "cheshvan"
-      ],
-      "expected_hebrew_zodiac": "moznayim",
-      "month_matches": [
-        {
-          "voynich": "8aes",
-          "decoded": "8eish",
-          "hebrew_month": "tishrei",
-          "score": 0.594
-        },
-        {
-          "voynich": "oW1csae",
-          "decoded": "aW1cshei",
-          "hebrew_month": "tishrei",
-          "score": 0.543
-        },
-        {
-          "voynich": "8aes",
-          "decoded": "8eish",
-          "hebrew_month": "cheshvan",
-          "score": 0.5
-        }
-      ],
-      "zodiac_matches": [
-        {
-          "voynich": "9koeam",
-          "decoded": "9kaiem",
-          "hebrew_sign": "moznayim",
-          "score": 0.391
-        },
-        {
-          "voynich": "okaeam",
-          "decoded": "akeiem",
-          "hebrew_sign": "moznayim",
-          "score": 0.371
-        },
-        {
-          "voynich": "okay",
-          "decoded": "akey",
-          "hebrew_sign": "moznayim",
-          "score": 0.314
-        }
-      ],
-      "best_month_score": 0.594,
-      "best_zodiac_score": 0.391
-    },
-    {
-      "sign": "Scorpio",
-      "folio": "73r",
-      "expected_hebrew_months": [
-        "cheshvan",
-        "kislev"
-      ],
-      "expected_hebrew_zodiac": "akrav",
-      "month_matches": [
-        {
-          "voynich": "1cs",
-          "decoded": "1csh",
-          "hebrew_month": "cheshvan",
-          "score": 0.594
-        },
-        {
-          "voynich": "2chae",
-          "decoded": "2chei",
-          "hebrew_month": "cheshvan",
-          "score": 0.5
-        },
-        {
-          "voynich": "okcos",
-          "decoded": "akcash",
-          "hebrew_month": "cheshvan",
-          "score": 0.497
-        }
-      ],
-      "zodiac_matches": [
-        {
-          "voynich": "okae9",
-          "decoded": "akei9",
-          "hebrew_sign": "akrav",
-          "score": 0.467
-        },
-        {
-          "voynich": "1okC9",
-          "decoded": "1akC9",
-          "hebrew_sign": "akrav",
-          "score": 0.46
-        },
-        {
-          "voynich": "1ck1o89",
-          "decoded": "1ck1a89",
-          "hebrew_sign": "akrav",
-          "score": 0.46
-        }
-      ],
-      "best_month_score": 0.594,
-      "best_zodiac_score": 0.467
-    },
-    {
-      "sign": "Sagittarius",
-      "folio": "73v",
-      "expected_hebrew_months": [
-        "kislev",
-        "tevet"
-      ],
-      "expected_hebrew_zodiac": "keshet",
-      "month_matches": [
-        {
-          "voynich": "okcsaeo8",
-          "decoded": "akcsheia8",
-          "hebrew_month": "kislev",
-          "score": 0.457
-        },
-        {
-          "voynich": "koe9",
-          "decoded": "kai9",
-          "hebrew_month": "kislev",
-          "score": 0.427
-        },
-        {
-          "voynich": "9kc7ay",
-          "decoded": "9kc7ey",
-          "hebrew_month": "kislev",
-          "score": 0.354
-        }
-      ],
-      "zodiac_matches": [
-        {
-          "voynich": "okcsaeo8",
-          "decoded": "akcsheia8",
-          "hebrew_sign": "keshet",
-          "score": 0.643
-        },
-        {
-          "voynich": "89s",
-          "decoded": "89sh",
-          "hebrew_sign": "keshet",
-          "score": 0.567
-        },
-        {
-          "voynich": "ouaes",
-          "decoded": "aueish",
-          "hebrew_sign": "keshet",
-          "score": 0.567
-        }
-      ],
-      "best_month_score": 0.457,
-      "best_zodiac_score": 0.643
-    }
-  ],
-  "plant_hebrew_matches": [
-    {
-      "voynich": "ochor",
-      "decoded": "achar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.888,
-      "frequency": 5
-    },
-    {
-      "voynich": "okal",
-      "decoded": "akel",
-      "hebrew_term": "kela",
-      "meaning": "bark/peel",
-      "score": 0.85,
-      "frequency": 32
-    },
-    {
-      "voynich": "chor",
-      "decoded": "char",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.823,
-      "frequency": 141
-    },
-    {
-      "voynich": "otchor",
-      "decoded": "atchar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.8,
-      "frequency": 13
-    },
-    {
-      "voynich": "okchor",
-      "decoded": "akchar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.8,
-      "frequency": 12
-    },
-    {
-      "voynich": "opchor",
-      "decoded": "apchar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.8,
-      "frequency": 3
-    },
-    {
-      "voynich": "cheor",
-      "decoded": "chiar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.779,
-      "frequency": 33
-    },
-    {
-      "voynich": "ykal",
-      "decoded": "ykel",
-      "hebrew_term": "kela",
-      "meaning": "bark/peel",
-      "score": 0.77,
-      "frequency": 5
-    },
-    {
-      "voynich": "ols",
-      "decoded": "alsh",
-      "hebrew_term": "aleh",
-      "meaning": "leaf",
-      "score": 0.77,
-      "frequency": 4
-    },
-    {
-      "voynich": "shos",
-      "decoded": "shash",
-      "hebrew_term": "shoresh",
-      "meaning": "root",
-      "score": 0.756,
-      "frequency": 5
-    },
-    {
-      "voynich": "sos",
-      "decoded": "shash",
-      "hebrew_term": "shoresh",
-      "meaning": "root",
-      "score": 0.756,
-      "frequency": 5
-    },
-    {
-      "voynich": "kol",
-      "decoded": "kal",
-      "hebrew_term": "kela",
-      "meaning": "bark/peel",
-      "score": 0.743,
-      "frequency": 20
-    },
-    {
-      "voynich": "cthor",
-      "decoded": "cthar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.736,
-      "frequency": 39
-    },
-    {
-      "voynich": "dchor",
-      "decoded": "dchar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.736,
-      "frequency": 21
-    },
-    {
-      "voynich": "kchor",
-      "decoded": "kchar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.736,
-      "frequency": 16
-    },
-    {
-      "voynich": "tchor",
-      "decoded": "tchar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.736,
-      "frequency": 11
-    },
-    {
-      "voynich": "ychor",
-      "decoded": "ychar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.736,
-      "frequency": 9
-    },
-    {
-      "voynich": "chory",
-      "decoded": "chary",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.736,
-      "frequency": 8
-    },
-    {
-      "voynich": "pchor",
-      "decoded": "pchar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.736,
-      "frequency": 6
-    },
-    {
-      "voynich": "ckhor",
-      "decoded": "ckhar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.736,
-      "frequency": 5
-    },
-    {
-      "voynich": "cphor",
-      "decoded": "cphar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.736,
-      "frequency": 5
-    },
-    {
-      "voynich": "qotchor",
-      "decoded": "qatchar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.728,
-      "frequency": 13
-    },
-    {
-      "voynich": "qokchor",
-      "decoded": "qakchar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.728,
-      "frequency": 8
-    },
-    {
-      "voynich": "qopchor",
-      "decoded": "qapchar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.728,
-      "frequency": 3
-    },
-    {
-      "voynich": "shees",
-      "decoded": "shiish",
-      "hebrew_term": "shoresh",
-      "meaning": "root",
-      "score": 0.725,
-      "frequency": 4
-    },
-    {
-      "voynich": "sheos",
-      "decoded": "shiash",
-      "hebrew_term": "shoresh",
-      "meaning": "root",
-      "score": 0.725,
-      "frequency": 3
-    },
-    {
-      "voynich": "qokal",
-      "decoded": "qakel",
-      "hebrew_term": "kela",
-      "meaning": "bark/peel",
-      "score": 0.72,
-      "frequency": 6
-    },
-    {
-      "voynich": "char",
-      "decoded": "cher",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.703,
-      "frequency": 28
-    },
-    {
-      "voynich": "keol",
-      "decoded": "kial",
-      "hebrew_term": "kela",
-      "meaning": "bark/peel",
-      "score": 0.7,
-      "frequency": 7
-    },
-    {
-      "voynich": "ycheor",
-      "decoded": "ychiar",
-      "hebrew_term": "zachar",
-      "meaning": "male plant",
-      "score": 0.7,
-      "frequency": 5
-    }
-  ],
-  "gematria_analysis": {
-    "value_distribution": {
-      "331": 15,
-      "40": 13,
-      "48": 11,
-      "53": 10,
-      "69": 9,
-      "330": 9,
-      "121": 9,
-      "68": 8,
-      "39": 8,
-      "335": 7,
-      "340": 7,
-      "210": 7,
-      "35": 7,
-      "55": 7,
-      "49": 6,
-      "239": 6,
-      "60": 6,
-      "61": 6,
-      "51": 6,
-      "72": 6
-    },
-    "significant_numbers": [
-      {
-        "value": 18,
-        "meaning": "chai (life)",
-        "count": 1,
-        "examples": [
-          {
-            "word": "cheeey",
-            "decoded": "chiiiy",
-            "gematria": 18
-          }
-        ]
-      },
-      {
-        "value": 26,
-        "meaning": "YHVH (God name)",
-        "count": 5,
-        "examples": [
-          {
-            "word": "dchedy",
-            "decoded": "dchidy",
-            "gematria": 26
-          },
-          {
-            "word": "dchyd",
-            "decoded": "dchyd",
-            "gematria": 26
-          },
-          {
-            "word": "dacheedy",
-            "decoded": "dechiidy",
-            "gematria": 26
-          },
-          {
-            "word": "fdeechdy",
-            "decoded": "fdiichdy",
-            "gematria": 26
-          },
-          {
-            "word": "chcheey",
-            "decoded": "chchiiy",
-            "gematria": 26
-          }
-        ]
-      },
-      {
-        "value": 36,
-        "meaning": "2x chai",
-        "count": 2,
-        "examples": [
-          {
-            "word": "tchty",
-            "decoded": "tchty",
-            "gematria": 36
-          },
-          {
-            "word": "chotchy",
-            "decoded": "chatchy",
-            "gematria": 36
-          }
-        ]
-      },
-      {
-        "value": 72,
-        "meaning": "shem ha-meforash",
-        "count": 6,
-        "examples": [
-          {
-            "word": "ololy",
-            "decoded": "alaly",
-            "gematria": 72
-          },
-          {
-            "word": "kalchdy",
-            "decoded": "kelchdy",
-            "gematria": 72
-          },
-          {
-            "word": "cheekdam",
-            "decoded": "chiikdem",
-            "gematria": 72
-          },
-          {
-            "word": "lkchdy",
-            "decoded": "lkchdy",
-            "gematria": 72
-          },
-          {
-            "word": "chdain",
-            "decoded": "chdeyn",
-            "gematria": 72
-          }
-        ]
-      },
-      {
-        "value": 248,
-        "meaning": "positive commandments",
-        "count": 1,
-        "examples": [
-          {
-            "word": "choltar",
-            "decoded": "chalter",
-            "gematria": 248
-          }
-        ]
-      },
-      {
-        "value": 365,
-        "meaning": "negative commandments / days in year",
-        "count": 4,
-        "examples": [
-          {
-            "word": "olkshedy",
-            "decoded": "alkshidy",
-            "gematria": 365
-          },
-          {
-            "word": "okalshdy",
-            "decoded": "akelshdy",
-            "gematria": 365
-          },
-          {
-            "word": "olkshdy",
-            "decoded": "alkshdy",
-            "gematria": 365
-          },
-          {
-            "word": "poleedaran",
-            "decoded": "paliideren",
-            "gematria": 365
-          }
-        ]
-      }
+    "medical_terms": [
+      "rosh",
+      "lev",
+      "kaved",
+      "kelayot",
+      "meah",
+      "beten",
+      "dam",
+      "etzem",
+      "basar",
+      "or",
+      "ayin",
+      "ozen",
+      "af",
+      "peh",
+      "yad",
+      "regel",
+      "tzavar",
+      "katef",
+      "holeh",
+      "rofe",
+      "makhala",
+      "chom",
+      "kor",
+      "lach",
+      "yavesh"
     ],
-    "sample_words": [
-      {
-        "word": "dchedy",
-        "decoded": "dchidy",
-        "gematria": 26
-      },
-      {
-        "word": "shekeod",
-        "decoded": "shikiad",
-        "gematria": 325
-      },
-      {
-        "word": "qotechy",
-        "decoded": "qatichy",
-        "gematria": 128
-      },
-      {
-        "word": "olkshedy",
-        "decoded": "alkshidy",
-        "gematria": 365
-      },
-      {
-        "word": "kydain",
-        "decoded": "kydeyn",
-        "gematria": 94
-      },
-      {
-        "word": "ocheain",
-        "decoded": "achieyn",
-        "gematria": 69
-      },
-      {
-        "word": "oralaror",
-        "decoded": "arelerar",
-        "gematria": 632
-      },
-      {
-        "word": "tos",
-        "decoded": "tash",
-        "gematria": 310
-      },
-      {
-        "word": "okalsalchey",
-        "decoded": "akelshelchiy",
-        "gematria": 399
-      },
-      {
-        "word": "figuretechedy",
-        "decoded": "fyguritichidy",
-        "gematria": 244
-      },
-      {
-        "word": "chtar",
-        "decoded": "chter",
-        "gematria": 217
-      },
-      {
-        "word": "dsheol",
-        "decoded": "dshial",
-        "gematria": 335
-      },
-      {
-        "word": "qoctheody",
-        "decoded": "qacthiady",
-        "gematria": 516
-      },
-      {
-        "word": "shofom",
-        "decoded": "shafam",
-        "gematria": 342
-      },
-      {
-        "word": "chcphol",
-        "decoded": "chcphal",
-        "gematria": 124
-      },
-      {
-        "word": "pcholkal",
-        "decoded": "pchalkel",
-        "gematria": 169
-      },
-      {
-        "word": "chom",
-        "decoded": "cham",
-        "gematria": 49
-      },
-      {
-        "word": "koar",
-        "decoded": "kaer",
-        "gematria": 221
-      },
-      {
-        "word": "olkees",
-        "decoded": "alkiish",
-        "gematria": 351
-      },
-      {
-        "word": "dalchckhy",
-        "decoded": "delchckhy",
-        "gematria": 77
-      },
-      {
-        "word": "ycheealkaiin",
-        "decoded": "ychiielkeyyn",
-        "gematria": 138
-      },
-      {
-        "word": "ypchdaiin",
-        "decoded": "ypchdeyyn",
-        "gematria": 172
-      },
-      {
-        "word": "dsheeoteey",
-        "decoded": "dshiiatiiy",
-        "gematria": 324
-      },
-      {
-        "word": "ytalody",
-        "decoded": "ytelady",
-        "gematria": 64
-      },
-      {
-        "word": "sols",
-        "decoded": "shalsh",
-        "gematria": 631
-      },
-      {
-        "word": "qoscheody",
-        "decoded": "qashchiady",
-        "gematria": 424
-      },
-      {
-        "word": "plantchey",
-        "decoded": "plentchiy",
-        "gematria": 187
-      },
-      {
-        "word": "olchar",
-        "decoded": "alcher",
-        "gematria": 239
-      },
-      {
-        "word": "odchaiin",
-        "decoded": "adcheyyn",
-        "gematria": 83
-      },
-      {
-        "word": "yokeody",
-        "decoded": "yakiady",
-        "gematria": 46
-      },
-      {
-        "word": "cheod",
-        "decoded": "chiad",
-        "gematria": 13
-      },
-      {
-        "word": "ched",
-        "decoded": "chid",
-        "gematria": 12
-      },
-      {
-        "word": "shkchy",
-        "decoded": "shkchy",
-        "gematria": 338
-      },
-      {
-        "word": "stitched",
-        "decoded": "shtytchid",
-        "gematria": 340
-      },
-      {
-        "word": "arakaiin",
-        "decoded": "erekeyyn",
-        "gematria": 290
-      },
-      {
-        "word": "chtor",
-        "decoded": "chtar",
-        "gematria": 218
-      },
-      {
-        "word": "lkech",
-        "decoded": "lkich",
-        "gematria": 58
-      },
-      {
-        "word": "ckheckhy",
-        "decoded": "ckhickhy",
-        "gematria": 60
-      },
-      {
-        "word": "seeder",
-        "decoded": "shiidir",
-        "gematria": 504
-      },
-      {
-        "word": "ykeeos",
-        "decoded": "ykiiash",
-        "gematria": 331
-      },
-      {
-        "word": "atey",
-        "decoded": "etiy",
-        "gematria": 19
-      },
-      {
-        "word": "ysholshy",
-        "decoded": "yshalshy",
-        "gematria": 651
-      },
-      {
-        "word": "dchom",
-        "decoded": "dcham",
-        "gematria": 53
-      },
-      {
-        "word": "oedair",
-        "decoded": "aideyr",
-        "gematria": 215
-      },
-      {
-        "word": "foldlol",
-        "decoded": "faldlal",
-        "gematria": 96
-      },
-      {
-        "word": "checkhey",
-        "decoded": "chickhiy",
-        "gematria": 43
-      },
-      {
-        "word": "chet",
-        "decoded": "chit",
-        "gematria": 17
-      },
-      {
-        "word": "shysho",
-        "decoded": "shysha",
-        "gematria": 611
-      },
-      {
-        "word": "diiin",
-        "decoded": "dyyyn",
-        "gematria": 84
-      },
-      {
-        "word": "chkain",
-        "decoded": "chkeyn",
-        "gematria": 88
-      }
+    "plant_terms": [
+      "shoresh",
+      "aleh",
+      "perach",
+      "pri",
+      "zera",
+      "anaf",
+      "geza",
+      "kelipa",
+      "mitz",
+      "riach",
+      "taam",
+      "segula",
+      "refuah",
+      "terufa",
+      "sam"
+    ],
+    "plant_names": [
+      "vered",
+      "shoshen",
+      "tapuach",
+      "gefen",
+      "tamar",
+      "zayit",
+      "rimmon",
+      "teen",
+      "egoz",
+      "shaked",
+      "ezov",
+      "kamon",
+      "kusbar",
+      "shumshum",
+      "batzal",
+      "shum",
+      "mor",
+      "levona",
+      "kinamon",
+      "bosem"
+    ],
+    "month_names": [
+      "nisan",
+      "iyar",
+      "sivan",
+      "tammuz",
+      "av",
+      "elul",
+      "tishrei",
+      "cheshvan",
+      "kislev",
+      "tevet",
+      "shevat",
+      "adar"
+    ],
+    "body_parts": [
+      "rosh",
+      "lev",
+      "kaved",
+      "kelayot",
+      "dam",
+      "etzem",
+      "basar",
+      "or",
+      "ayin",
+      "ozen",
+      "af",
+      "peh",
+      "yad",
+      "tzavar",
+      "katef"
+    ],
+    "astrological_terms": [
+      "mazal",
+      "kochav",
+      "shemesh",
+      "yareach",
+      "shamayim",
+      "or",
+      "layla",
+      "yom",
+      "tekufa",
+      "molad",
+      "keshet",
+      "taleh",
+      "shor",
+      "teomim",
+      "sartan",
+      "aryeh",
+      "betula",
+      "moznayim",
+      "akrav",
+      "gedi",
+      "dli",
+      "dagim"
+    ],
+    "zodiac_signs": [
+      "keshet",
+      "taleh",
+      "shor",
+      "teomim",
+      "sartan",
+      "aryeh",
+      "betula",
+      "moznayim",
+      "akrav",
+      "gedi",
+      "dli",
+      "dagim"
+    ],
+    "total_terms": 121,
+    "sources": [
+      "Sefer ha-Refu'ot (Book of Remedies)",
+      "Asaph ha-Rofe (medical encyclopedia)",
+      "Maimonides medical works",
+      "Medieval Hebrew herbals",
+      "Hebrew calendar tradition"
     ]
   },
-  "kabbalistic_patterns": {
-    "notarikon": {
-      "description": "Three-letter words (potential acronyms)",
-      "count": 255,
-      "examples": [
-        "tos",
-        "cky",
-        "dls",
-        "sor",
-        "diy",
-        "amy",
-        "shy",
-        "las",
-        "chl",
-        "odr",
-        "shl",
-        "tor",
-        "ors",
-        "tol",
-        "dld",
-        "als",
-        "ror",
-        "sas",
-        "kol",
-        "ain"
-      ]
-    },
-    "temurah": {
-      "description": "Word pairs differing by one character",
-      "count": 2,
-      "examples": [
+  "structural_comparison": {
+    "layout_analysis": {
+      "avg_line_length": 45.1,
+      "avg_words_per_line": 7.4,
+      "total_folios": 225,
+      "common_paragraph_starters": [
         [
-          "chtar",
-          "chtor"
+          "qok",
+          81
         ],
         [
-          "ched",
-          "chet"
+          "dai",
+          64
+        ],
+        [
+          "pch",
+          61
+        ],
+        [
+          "ych",
+          44
+        ],
+        [
+          "dch",
+          39
+        ],
+        [
+          "sho",
+          38
+        ],
+        [
+          "tch",
+          38
+        ],
+        [
+          "cho",
+          34
+        ],
+        [
+          "oko",
+          33
+        ],
+        [
+          "ote",
+          33
         ]
       ]
     },
-    "repetition": {
-      "description": "Words with repeated characters",
-      "count": 138,
-      "examples": [
-        "olkees",
-        "ycheealkaiin",
-        "ypchdaiin",
-        "dsheeoteey",
-        "odchaiin",
-        "arakaiin",
-        "seeder",
-        "ykeeos",
-        "diiin",
-        "lcheeey",
-        "folddar",
-        "kaiiin",
-        "oqaiin",
-        "tshaiin",
-        "tdaiin",
-        "qoteedaiin",
-        "lshdaiin",
-        "saiinplant",
-        "tchdaiin",
-        "odchees"
+    "text_flow": "left-to-right",
+    "text_flow_note": "EVA transcription assumes LTR; Hebrew is RTL",
+    "structural_similarity": {
+      "hebrew_manuscript_features": [
+        "Justified text (both margins)",
+        "Paragraph markers",
+        "Marginal annotations",
+        "Section breaks"
+      ],
+      "voynich_similarities": [
+        "Dense text blocks",
+        "Line-initial patterns",
+        "Apparent paragraph structure",
+        "Labels near illustrations"
       ]
-    }
-  },
-  "structural_comparison": {
-    "text_direction": "left-to-right (assumed from manuscript)",
-    "final_letter_forms": [
-      {
-        "glyph": "G04",
-        "final_ratio": 0.862,
-        "total": 17691
-      },
-      {
-        "glyph": "G16",
-        "final_ratio": 0.714,
-        "total": 7838
-      },
-      {
-        "glyph": "G06",
-        "final_ratio": 0.802,
-        "total": 7531
-      },
-      {
-        "glyph": "G07",
-        "final_ratio": 0.924,
-        "total": 1125
-      }
-    ],
-    "positional_patterns": {
-      "strong_initial": 7,
-      "strong_final": 4,
-      "strong_medial": 12
     },
-    "final_forms_count": 4,
-    "hebrew_final_forms_count": 5
+    "layout_similarity_score": 0.5
   },
-  "judeo_italian_test": {
-    "hypothesis": "Judeo-Italian (Hebrew stems + Italian morphology)",
-    "matches": [
+  "zodiac_hebrew_matches": {
+    "zodiac_words_found": 971,
+    "unique_words": 971,
+    "hebrew_matches": [
       {
-        "voynich": "ocheain",
-        "decoded": "achieyn",
-        "italian_ending": false,
-        "hebrew_stem": true,
-        "frequency": 1
+        "voynich": "chory",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
       },
       {
-        "voynich": "orara",
-        "decoded": "arere",
-        "italian_ending": true,
-        "hebrew_stem": false,
-        "frequency": 1
+        "voynich": "tshey",
+        "hebrew_month": "tishrei",
+        "zodiac": "libra",
+        "match_type": "prefix_consonants"
       },
       {
-        "voynich": "ocheor",
-        "decoded": "achiar",
-        "italian_ending": false,
-        "hebrew_stem": true,
-        "frequency": 1
+        "voynich": "sheeteey",
+        "hebrew_month": "shevat",
+        "zodiac": "aquarius",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "chckhy",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "cheky",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "choteos",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "cholairy",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "olalaiin",
+        "hebrew_month": "elul",
+        "zodiac": "virgo",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "cheal",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "chedain",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "shocthhy",
+        "hebrew_month": "shevat",
+        "zodiac": "aquarius",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "ekeolol",
+        "hebrew_month": "elul",
+        "zodiac": "virgo",
+        "match_type": "suffix_consonants"
+      },
+      {
+        "voynich": "sheeoeky",
+        "hebrew_month": "shevat",
+        "zodiac": "aquarius",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "okes",
+        "hebrew_month": "kislev",
+        "zodiac": "sagittarius",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "chekey",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "chsary",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "chokeedam",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "chkal",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "chokey",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "cheeoekey",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "cheolky",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "sheedy",
+        "hebrew_month": "shevat",
+        "zodiac": "aquarius",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "cheoekey",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "chedal",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "chotam",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "chedaly",
+        "hebrew_month": "cheshvan",
+        "zodiac": "scorpio",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "dair",
+        "hebrew_month": "adar",
+        "zodiac": "pisces",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "lal",
+        "hebrew_month": "elul",
+        "zodiac": "virgo",
+        "match_type": "prefix_consonants"
+      },
+      {
+        "voynich": "oteochor",
+        "hebrew_month": "tishrei",
+        "zodiac": "libra",
+        "match_type": "suffix_consonants"
+      },
+      {
+        "voynich": "otosaiin",
+        "hebrew_month": "nisan",
+        "zodiac": "aries",
+        "match_type": "suffix_consonants"
       }
     ],
-    "match_count": 3
+    "match_count": 385,
+    "match_rate": 0.3965,
+    "interpretation": "POSSIBLE_MATCHES"
   },
-  "overall_hebrew_match": 0.652,
-  "verdict": "STRONG Hebrew connection likely"
+  "plant_hebrew_matches": {
+    "herbal_words_found": 5805,
+    "hebrew_matches": [
+      {
+        "voynich": "aiikam",
+        "hebrew_term": "kamon",
+        "meaning": "cumin",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "sheokeedy",
+        "hebrew_term": "shoresh",
+        "meaning": "root",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "sheokeedy",
+        "hebrew_term": "shoshen",
+        "meaning": "lily",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "sheokeedy",
+        "hebrew_term": "shaked",
+        "meaning": "almond",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "sheokeedy",
+        "hebrew_term": "shumshum",
+        "meaning": "sesame",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "sheokeedy",
+        "hebrew_term": "shum",
+        "meaning": "garlic",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "sholo",
+        "hebrew_term": "shoresh",
+        "meaning": "root",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "sholo",
+        "hebrew_term": "shoshen",
+        "meaning": "lily",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "sholo",
+        "hebrew_term": "shaked",
+        "meaning": "almond",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "sholo",
+        "hebrew_term": "shumshum",
+        "meaning": "sesame",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "sholo",
+        "hebrew_term": "shum",
+        "meaning": "garlic",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "sheedy",
+        "hebrew_term": "shoresh",
+        "meaning": "root",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "sheedy",
+        "hebrew_term": "shoshen",
+        "meaning": "lily",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "sheedy",
+        "hebrew_term": "shaked",
+        "meaning": "almond",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "sheedy",
+        "hebrew_term": "shumshum",
+        "meaning": "sesame",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "sheedy",
+        "hebrew_term": "shum",
+        "meaning": "garlic",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "shot",
+        "hebrew_term": "shoresh",
+        "meaning": "root",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "shot",
+        "hebrew_term": "shoshen",
+        "meaning": "lily",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "shot",
+        "hebrew_term": "shaked",
+        "meaning": "almond",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "shot",
+        "hebrew_term": "shumshum",
+        "meaning": "sesame",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "shot",
+        "hebrew_term": "shum",
+        "meaning": "garlic",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "shkeedy",
+        "hebrew_term": "shoresh",
+        "meaning": "root",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "shkeedy",
+        "hebrew_term": "shoshen",
+        "meaning": "lily",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "shkeedy",
+        "hebrew_term": "shaked",
+        "meaning": "almond",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "shkeedy",
+        "hebrew_term": "shumshum",
+        "meaning": "sesame",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "shkeedy",
+        "hebrew_term": "shum",
+        "meaning": "garlic",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "shckheol",
+        "hebrew_term": "shoresh",
+        "meaning": "root",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "shckheol",
+        "hebrew_term": "shoshen",
+        "meaning": "lily",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "shckheol",
+        "hebrew_term": "shaked",
+        "meaning": "almond",
+        "match_type": "prefix"
+      },
+      {
+        "voynich": "shckheol",
+        "hebrew_term": "shumshum",
+        "meaning": "sesame",
+        "match_type": "prefix"
+      }
+    ],
+    "match_count": 2367,
+    "strong_matches": 0,
+    "match_rate": 0.4078,
+    "interpretation": "SOME_MATCHES"
+  },
+  "gematria_analysis": {
+    "words_analyzed": 100,
+    "significant_matches": [
+      {
+        "value": 50,
+        "significance": "Jubilee",
+        "word_count": 1,
+        "examples": [
+          "cheody"
+        ]
+      }
+    ],
+    "value_distribution_mod10": {
+      "5": 25,
+      "1": 24,
+      "6": 22,
+      "0": 17,
+      "7": 5,
+      "9": 4,
+      "4": 3
+    },
+    "most_common_values": [
+      [
+        35,
+        4
+      ],
+      [
+        45,
+        4
+      ],
+      [
+        41,
+        3
+      ],
+      [
+        145,
+        2
+      ],
+      [
+        141,
+        2
+      ],
+      [
+        60,
+        2
+      ],
+      [
+        205,
+        2
+      ],
+      [
+        201,
+        2
+      ],
+      [
+        151,
+        2
+      ],
+      [
+        95,
+        2
+      ]
+    ],
+    "interpretation": "NO_CLEAR_PATTERN",
+    "note": "Gematria analysis depends on correct EVA-Hebrew mapping"
+  },
+  "kabbalistic_patterns": {
+    "notarikon_analysis": {
+      "candidates": [
+        {
+          "expanded": "cphy",
+          "acronym": "ch",
+          "freq": 5
+        },
+        {
+          "expanded": "olkeees",
+          "acronym": "oke",
+          "freq": 1
+        },
+        {
+          "expanded": "llod",
+          "acronym": "lo",
+          "freq": 15
+        },
+        {
+          "expanded": "shot",
+          "acronym": "so",
+          "freq": 5
+        },
+        {
+          "expanded": "toairshy",
+          "acronym": "tar",
+          "freq": 43
+        },
+        {
+          "expanded": "dald",
+          "acronym": "dl",
+          "freq": 18
+        },
+        {
+          "expanded": "epairody",
+          "acronym": "ear",
+          "freq": 1
+        },
+        {
+          "expanded": "okeosar",
+          "acronym": "oes",
+          "freq": 1
+        },
+        {
+          "expanded": "cpheesy",
+          "acronym": "che",
+          "freq": 2
+        },
+        {
+          "expanded": "dkam",
+          "acronym": "da",
+          "freq": 9
+        },
+        {
+          "expanded": "chso",
+          "acronym": "cs",
+          "freq": 3
+        },
+        {
+          "expanded": "sham",
+          "acronym": "sa",
+          "freq": 3
+        },
+        {
+          "expanded": "oran",
+          "acronym": "oa",
+          "freq": 1
+        },
+        {
+          "expanded": "schedair",
+          "acronym": "shd",
+          "freq": 7
+        },
+        {
+          "expanded": "okyld",
+          "acronym": "oyd",
+          "freq": 1
+        }
+      ],
+      "count": 1067,
+      "interpretation": "POSSIBLE"
+    },
+    "temurah_analysis": {
+      "common_substitution_pairs": [
+        {
+          "pair": "ch",
+          "frequency": 388,
+          "examples": [
+            "ksholochey",
+            "opcheaiin",
+            "olpchdy",
+            "tcheepchey",
+            "tcheepchey"
+          ]
+        },
+        {
+          "pair": "he",
+          "frequency": 267,
+          "examples": [
+            "ksholochey",
+            "opcheaiin",
+            "sheokeedy",
+            "plantorockhey",
+            "dsheeo"
+          ]
+        },
+        {
+          "pair": "ee",
+          "frequency": 201,
+          "examples": [
+            "sheokeedy",
+            "dsheeo",
+            "tcheepchey",
+            "olkeees",
+            "olkeees"
+          ]
+        },
+        {
+          "pair": "ol",
+          "frequency": 176,
+          "examples": [
+            "ksholochey",
+            "olpchdy",
+            "fol",
+            "olsheody",
+            "sholo"
+          ]
+        },
+        {
+          "pair": "sh",
+          "frequency": 164,
+          "examples": [
+            "ksholochey",
+            "sheokeedy",
+            "dsheeo",
+            "olsheody",
+            "sholo"
+          ]
+        },
+        {
+          "pair": "dy",
+          "frequency": 161,
+          "examples": [
+            "daltedy",
+            "kedydy",
+            "kedydy",
+            "sheokeedy",
+            "olpchdy"
+          ]
+        },
+        {
+          "pair": "eo",
+          "frequency": 160,
+          "examples": [
+            "sheokeedy",
+            "dsheeo",
+            "okeohdar",
+            "olsheody",
+            "plantoteod"
+          ]
+        },
+        {
+          "pair": "ho",
+          "frequency": 145,
+          "examples": [
+            "ksholochey",
+            "chockhdy",
+            "plantchotchy",
+            "sholo",
+            "qchodal"
+          ]
+        },
+        {
+          "pair": "ai",
+          "frequency": 134,
+          "examples": [
+            "plantdaim",
+            "opcheaiin",
+            "aiikam",
+            "airchy",
+            "daisn"
+          ]
+        },
+        {
+          "pair": "ok",
+          "frequency": 121,
+          "examples": [
+            "oqokar",
+            "sheokeedy",
+            "qokodar",
+            "okeohdar",
+            "qokeedy"
+          ]
+        },
+        {
+          "pair": "al",
+          "frequency": 120,
+          "examples": [
+            "daltedy",
+            "ylaly",
+            "qchodal",
+            "lal",
+            "dalshal"
+          ]
+        },
+        {
+          "pair": "ke",
+          "frequency": 118,
+          "examples": [
+            "kedydy",
+            "sheokeedy",
+            "okeohdar",
+            "olkeees",
+            "ykeeshedy"
+          ]
+        },
+        {
+          "pair": "ey",
+          "frequency": 113,
+          "examples": [
+            "ksholochey",
+            "plantorockhey",
+            "tcheepchey",
+            "okeeycrease",
+            "qodykey"
+          ]
+        },
+        {
+          "pair": "ed",
+          "frequency": 113,
+          "examples": [
+            "daltedy",
+            "kedydy",
+            "sheokeedy",
+            "sheedy",
+            "ykeeshedy"
+          ]
+        },
+        {
+          "pair": "da",
+          "frequency": 106,
+          "examples": [
+            "plantdaim",
+            "daltedy",
+            "qokodar",
+            "okeohdar",
+            "daisn"
+          ]
+        }
+      ],
+      "interpretation": "Regular bigram patterns (may or may not be cipher)"
+    },
+    "atbash_test": {
+      "note": "Atbash (first=last letter swap) hard to test without confirmed alphabet",
+      "applicable": false
+    },
+    "repetitive_patterns": {
+      "count": 199,
+      "examples": [
+        {
+          "word": "kedydy",
+          "repeated": "dy"
+        },
+        {
+          "word": "raraiiin",
+          "repeated": "ra"
+        },
+        {
+          "word": "ytchchy",
+          "repeated": "ch"
+        },
+        {
+          "word": "dkarar",
+          "repeated": "ar"
+        },
+        {
+          "word": "pchallarar",
+          "repeated": "ar"
+        },
+        {
+          "word": "odalaly",
+          "repeated": "al"
+        },
+        {
+          "word": "doeoeas",
+          "repeated": "oe"
+        },
+        {
+          "word": "odeeeey",
+          "repeated": "ee"
+        },
+        {
+          "word": "ololdal",
+          "repeated": "ol"
+        },
+        {
+          "word": "chcheky",
+          "repeated": "ch"
+        }
+      ],
+      "interpretation": "Hebrew often doubles letters for emphasis"
+    },
+    "overall_kabbalistic_score": 0.4,
+    "conclusion": "Some patterns consistent with Kabbalistic encoding but not definitive"
+  },
+  "judeo_romance_hypothesis": {
+    "judeo_italian_context": {
+      "description": "Judeo-Italian (Italkian) was Hebrew-script Italian used by Italian Jews",
+      "time_period": "10th-20th century",
+      "location": "Northern Italy (fits Voynich provenance)",
+      "characteristics": [
+        "Italian vocabulary",
+        "Hebrew script",
+        "Hebrew grammatical influences",
+        "Unique vocabulary for religious concepts"
+      ]
+    },
+    "suffix_analysis": {
+      "eva_italian_matches": {
+        "dy": 1145,
+        "in": 951,
+        "ar": 530,
+        "ol": 478,
+        "or": 427,
+        "al": 406
+      },
+      "note": "High -dy/-ar/-or endings could reflect Italian verb/noun endings"
+    },
+    "vocabulary_matches": {
+      "potential_matches": [
+        {
+          "voynich": "oteoarar",
+          "italian": "terra",
+          "pattern": "trr"
+        },
+        {
+          "voynich": "stolpchy",
+          "italian": "stella",
+          "pattern": "stl"
+        },
+        {
+          "voynich": "taror",
+          "italian": "terra",
+          "pattern": "trr"
+        },
+        {
+          "voynich": "arodchedy",
+          "italian": "radice",
+          "pattern": "rdc"
+        },
+        {
+          "voynich": "otorar",
+          "italian": "terra",
+          "pattern": "trr"
+        },
+        {
+          "voynich": "otairor",
+          "italian": "terra",
+          "pattern": "trr"
+        },
+        {
+          "voynich": "oteorar",
+          "italian": "terra",
+          "pattern": "trr"
+        },
+        {
+          "voynich": "tarairy",
+          "italian": "terra",
+          "pattern": "trr"
+        },
+        {
+          "voynich": "qoteeotchy",
+          "italian": "quattro",
+          "pattern": "qtt"
+        },
+        {
+          "voynich": "qoteotor",
+          "italian": "quattro",
+          "pattern": "qtt"
+        },
+        {
+          "voynich": "tairoor",
+          "italian": "terra",
+          "pattern": "trr"
+        },
+        {
+          "voynich": "otarar",
+          "italian": "terra",
+          "pattern": "trr"
+        },
+        {
+          "voynich": "soteol",
+          "italian": "stella",
+          "pattern": "stl"
+        },
+        {
+          "voynich": "tarar",
+          "italian": "terra",
+          "pattern": "trr"
+        },
+        {
+          "voynich": "tarair",
+          "italian": "terra",
+          "pattern": "trr"
+        },
+        {
+          "voynich": "qototeeey",
+          "italian": "quattro",
+          "pattern": "qtt"
+        },
+        {
+          "voynich": "qotoeetchy",
+          "italian": "quattro",
+          "pattern": "qtt"
+        },
+        {
+          "voynich": "otariir",
+          "italian": "terra",
+          "pattern": "trr"
+        },
+        {
+          "voynich": "toror",
+          "italian": "terra",
+          "pattern": "trr"
+        },
+        {
+          "voynich": "otararain",
+          "italian": "terra",
+          "pattern": "trr"
+        }
+      ],
+      "count": 21,
+      "interpretation": "POSSIBLE"
+    },
+    "structural_fit": {
+      "word_length": "Italian words average 6-8 letters (Voynich avg ~6.75)",
+      "vowel_ratio": "Italian vowel-rich (Voynich shows high vowel ratio)",
+      "conclusion": "Structural features moderately consistent"
+    },
+    "overall_judeo_romance_score": 0.45,
+    "verdict": "Judeo-Italian hypothesis is plausible but unproven"
+  },
+  "overall_hebrew_match": 0.5798,
+  "component_scores": {
+    "corpus_richness": 1.0,
+    "structural": 0.5,
+    "zodiac_match": 0.793,
+    "plant_match": 0.8156,
+    "gematria": 0.1,
+    "kabbalistic": 0.4,
+    "judeo_romance": 0.45
+  },
+  "verdict": "STRONG_MEDIEVAL_HEBREW_FIT"
 }

@@ -1,0 +1,146 @@
+# Track 45: Proto-Romance + Hebrew Structure Hypothesis
+
+## OBJECTIVE
+Test if Voynich is a hybrid system combining:
+- Hebrew-style 3-consonant ROOT structure
+- Italian/Venetian PHONETICS and vocabulary
+- Medieval medical/botanical terminology
+
+## INPUT FILES
+- `data/eva_ivtff.txt` - Source transcription
+- `results/hebrew_analysis.json` - Hebrew patterns
+- `results/judeo_italian_analysis.json` - Italian matches
+- `results/root_decoding.json` - Root patterns
+
+## BACKGROUND
+Track 41 found Hebrew-like roots but TOO MANY VOWELS for pure Hebrew.
+Track 43 found Italian skeleton matches (sole, luna, cuore, fiore).
+Theory: The author used Hebrew root SYSTEM but Italian WORDS.
+
+## HYBRID MAPPING CONCEPT
+
+Example: Italian word "fiore" (flower)
+- Hebrew root pattern: P-R-CH (perach = flower)
+- Italian phonetics: fi-o-re
+- Voynich encoding: combines both?
+
+## TASKS
+
+### 1. Build Italian Root Dictionary
+Extract consonant skeletons from Italian botanical terms:
+```
+fiore → f-r
+foglia → f-gl
+radice → r-d-c
+acqua → q
+erba → r-b
+seme → s-m
+```
+
+### 2. Build Hebrew Root Dictionary  
+Common botanical/medical roots:
+```
+shoresh (root) → sh-r-sh
+perach (flower) → p-r-ch
+aleh (leaf) → ayin-l-h
+mayim (water) → m-y-m
+```
+
+### 3. Create Hybrid Mapping Table
+Map Voynich patterns to BOTH systems:
+
+| Voynich | Consonants | Italian Match | Hebrew Match | Combined Meaning |
+|---------|------------|---------------|--------------|------------------|
+| pchor | p-ch-r | - | perach | flower |
+| otar | t-r | terra | - | earth |
+| fr | f-r | fiore | perach | flower |
+
+### 4. Decode Sample Page with Hybrid Key
+Take f2v (botanical page):
+- Apply Italian phonetics
+- Apply Hebrew root meanings
+- See if combination makes sense
+
+### 5. Grammar Analysis
+Check if word patterns match:
+- Italian noun endings (-o, -a, -e, -i)
+- Hebrew root + pattern system
+- Medieval Latin abbreviations
+
+### 6. Build Hybrid Dictionary
+For words that match BOTH systems:
+- Assign confidence scores
+- Note semantic domain (plant, medical, etc.)
+
+## EXPECTED OUTPUT FILES
+
+### Script
+`proto_romance.py`
+
+### Results
+
+1. **`results/proto_romance_analysis.json`**
+```json
+{
+  "italian_roots": {
+    "fiore": {"skeleton": "fr", "voynich_matches": []},
+    "foglia": {"skeleton": "fgl", "voynich_matches": []}
+  },
+  "hebrew_roots": {
+    "perach": {"skeleton": "prch", "voynich_matches": []},
+    "shoresh": {"skeleton": "shrsh", "voynich_matches": []}
+  },
+  "hybrid_mappings": [
+    {
+      "voynich": "pchor",
+      "italian": null,
+      "hebrew": "perach",
+      "meaning": "flower",
+      "confidence": 0.7
+    }
+  ],
+  "sample_page_decoded": {
+    "folio": "f2v",
+    "lines": []
+  },
+  "grammar_matches": {
+    "italian_endings": 0,
+    "hebrew_patterns": 0
+  },
+  "overall_score": 0.0,
+  "verdict": "SUPPORTS/PARTIAL/REJECTS"
+}
+```
+
+2. **`results/proto_romance_report.md`**
+```markdown
+# Proto-Romance + Hebrew Hybrid Analysis
+
+## Hypothesis
+The Voynich manuscript uses Hebrew root structure with Italian phonetics.
+
+## Italian Root Matches
+[Table of Italian botanical terms and Voynich matches]
+
+## Hebrew Root Matches  
+[Table of Hebrew roots and Voynich matches]
+
+## Hybrid Mappings
+[Words that match BOTH systems]
+
+## Sample Page Decoding
+[f2v decoded with hybrid approach]
+
+## Grammar Analysis
+[Do word patterns match either language?]
+
+## Verdict
+[Does the hybrid hypothesis work?]
+```
+
+## SUCCESS CRITERIA
+- [ ] Italian root dictionary built (50+ terms)
+- [ ] Hebrew root dictionary built (30+ terms)
+- [ ] Hybrid mappings identified
+- [ ] Sample page decoded
+- [ ] Clear verdict on hybrid hypothesis

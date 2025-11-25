@@ -1,0 +1,58 @@
+# Track 56: Push Dictionary to 70% Coverage
+
+## OBJECTIVE
+Expand dictionary from 409 to 600+ entries to achieve 70% translation coverage.
+
+## CURRENT STATUS
+- Dictionary: 409 entries
+- Coverage: 50.9%
+- Target: 70%+
+
+## TASKS
+
+### 1. Analyze Untranslated Words
+From full_translation.json, extract all words that returned "?"
+Group by:
+- Frequency (prioritize high-frequency unknowns)
+- Pattern (common prefixes/suffixes)
+- Context (what known words surround them)
+
+### 2. Pattern Completion
+Known patterns to expand:
+- `qo-` prefix (article "the") - find all variants
+- `-y` suffix (verb marker) - find all roots
+- `-aiin` suffix (genitive?) - find all bases
+
+### 3. Cognate Expansion
+For each known translation:
+- Find morphological variants
+- Map to Italian/Hebrew cognates
+- Add verb conjugations
+
+### 4. Context Inference
+Use bigram/trigram patterns:
+- If X always appears before "okar" (heart), X might be adjective
+- If Y always appears after "dar" (give), Y might be object
+
+## OUTPUT FILES
+
+### Script
+`expand_dict_70.py`
+
+### Results
+1. **`results/dictionary_expansion_70.json`**
+```json
+{
+  "new_entries": {},
+  "coverage_before": 0.509,
+  "coverage_after": 0.0,
+  "method_breakdown": {}
+}
+```
+
+2. **`results/dictionary_expansion_70_report.md`**
+
+## SUCCESS CRITERIA
+- [ ] 200+ new entries added
+- [ ] Coverage reaches 65%+
+- [ ] High-frequency unknowns resolved

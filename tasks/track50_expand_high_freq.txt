@@ -1,0 +1,132 @@
+# Track 50: Expand Dictionary - High Frequency Words
+
+## OBJECTIVE
+Analyze the most common UNTRANSLATED words and attempt to decode them.
+Target: Add 100+ new entries from high-frequency unknowns.
+
+## INPUT FILES
+- `results/hybrid_dictionary.json` - Current 207 entries
+- `data/eva_ivtff.txt` - Source text
+- `results/grammar_words.json` - Grammar analysis
+
+## BACKGROUND
+Current dictionary covers 22.23% of corpus by occurrence.
+Many high-frequency words remain untranslated.
+Goal: Push coverage to 40%+
+
+## TASKS
+
+### 1. Extract All Unknown High-Frequency Words
+
+Find words that:
+- Appear 50+ times in corpus
+- Are NOT in current dictionary
+- Are NOT obvious variants of known words
+
+### 2. Categorize by Pattern
+
+Group unknowns by structure:
+- Words starting with `qo-` (article prefix?)
+- Words ending in `-y` (suffix)
+- Words ending in `-dy` / `-edy` (verb suffix?)
+- Words with `ch-` prefix
+- Words with `-aiin` ending
+
+### 3. Context-Based Deduction
+
+For each unknown, analyze:
+- What known words appear BEFORE it?
+- What known words appear AFTER it?
+- Does position suggest grammar function?
+
+Example:
+```
+If "X" always appears after "heart" and before "-y" suffix:
+→ X might be an adjective or verb related to heart
+```
+
+### 4. Consonant Skeleton Matching
+
+Try matching unknown word skeletons to:
+- Italian botanical terms not yet matched
+- Hebrew medical terms not yet matched
+- Latin pharmaceutical terms
+
+### 5. Variant Grouping
+
+Many words are variants of the same root:
+- `chedy`, `shedy`, `chey`, `shey` → all verb forms?
+- `okeedy`, `qokeedy`, `okeey` → same root with prefixes?
+
+Group variants and assign unified meaning.
+
+### 6. Build Expanded Dictionary
+
+For each new entry:
+```json
+{
+  "word": "chedy",
+  "meaning": "is/has (verb)",
+  "confidence": 0.6,
+  "evidence": "appears after subjects, before objects",
+  "frequency": 2664,
+  "variants": ["shedy", "chey", "shey"]
+}
+```
+
+## EXPECTED OUTPUT FILES
+
+### Script
+`expand_dict_freq.py`
+
+### Results
+
+1. **`results/dictionary_expansion_freq.json`**
+```json
+{
+  "analyzed_words": 200,
+  "new_entries": 100,
+  "entries": {
+    "chedy": {
+      "meaning": "is/has",
+      "confidence": 0.6,
+      "frequency": 2664,
+      "evidence": "...",
+      "category": "verb"
+    }
+  },
+  "coverage_improvement": {
+    "before": 22.23,
+    "after": 0.0
+  }
+}
+```
+
+2. **`results/dictionary_expansion_freq_report.md`**
+```markdown
+# Dictionary Expansion: High-Frequency Words
+
+## Summary
+- Words analyzed: X
+- New entries added: Y
+- Coverage improvement: Z%
+
+## New Vocabulary by Category
+### Verbs
+[Table]
+
+### Nouns  
+[Table]
+
+### Grammar Words
+[Table]
+
+## Evidence and Methodology
+[How each word was decoded]
+```
+
+## SUCCESS CRITERIA
+- [ ] 100+ new entries added
+- [ ] Coverage improved by 10%+
+- [ ] Each entry has evidence/rationale
+- [ ] Variants grouped together
