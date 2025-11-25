@@ -1,0 +1,188 @@
+================================================================================
+TRACK 8: HUNGARIAN & TURKISH DEEP VALIDATION
+================================================================================
+
+GOAL:
+Test Hungarian and Old Turkish as Voynich source languages using actual 
+vocabulary comparison, not just structural similarity.
+
+================================================================================
+CRITICAL CONTEXT:
+================================================================================
+
+From historical analysis:
+- Hungarian: 18 cases, geographic link to Prague (Rudolf II), agglutinative
+- Turkish: Active Ardıç theory (2018), Ottoman presence in Mediterranean
+
+Key facts:
+- Hungarian: Has definite article suffix (-a/-az) + 18 case endings
+- Turkish: Vowel harmony, 6 cases, no articles
+- Voynich: '4o' prefix (12.9%) = article-like, '9' suffix (37%) = default case
+
+Identified Voynich plant names to test:
+- Cornflower → f2o89
+- Hellebore → h2o89
+- Poppy → foay
+- Cyclamen → hoom
+- Castor Bean → goCam
+
+================================================================================
+INPUT DATA:
+================================================================================
+
+1. /voynich_raw.txt - Full transcription
+2. /results/language_scores.json - Current scores (Hungarian: 70.1%, Turkish: 73.4%)
+3. /results/plant_identifications.json - Plant mappings
+4. /results/zodiac_analysis.json - Zodiac labels per sign
+
+================================================================================
+PART A: HUNGARIAN TESTING
+================================================================================
+
+1. GET HUNGARIAN BOTANICAL VOCABULARY
+   - Search for medieval Hungarian plant names (15th-16th century)
+   - Modern Hungarian plant names:
+     * Cornflower = "Búzavirág" (wheat-flower)
+     * Hellebore = "Hunyor" 
+     * Poppy = "Mák"
+     * Cyclamen = "Ciklámen" (loan) or "Disznókenyér" (pig-bread)
+     * Castor = "Ricinusfa"
+
+2. VOWEL HARMONY TEST
+   - Hungarian uses front/back vowel harmony
+   - Front vowels: e, é, i, í, ö, ő, ü, ű
+   - Back vowels: a, á, o, ó, u, ú
+   - Check if Voynich words show vowel harmony:
+     * Extract all words, map vowel-like chars (o, a, e?)
+     * Test if words tend to have consistent vowel type
+     * If harmony present → supports Hungarian/Turkish
+
+3. HUNGARIAN SUFFIX MAPPING
+   Hungarian cases (singular):
+   - Nominative: -Ø (no ending)
+   - Accusative: -t
+   - Dative: -nak/-nek
+   - Genitive: -é
+   - Instrumental: -val/-vel
+   - Superessive: -n/-on/-en/-ön
+   - Inessive: -ban/-ben
+   - Illative: -ba/-be
+   - Elative: -ból/-ből
+
+   Map to Voynich suffixes:
+   - '9' → Nominative (-Ø)? But 37% have this ending...
+   - 'am' → Could be accusative?
+   - 'an' → Superessive (-n)?
+
+4. ARTICLE PATTERN TEST
+   - Hungarian definite article: "a" (before consonant), "az" (before vowel)
+   - Voynich '4o' = 12.9% as prefix
+   - Does '4o' behave like Hungarian article?
+     * Check if '4o-' words are nouns (follow article pattern)
+     * Check distribution matches article usage
+
+================================================================================
+PART B: TURKISH TESTING
+================================================================================
+
+1. GET OTTOMAN/OLD TURKISH VOCABULARY
+   - Search for 15th century Ottoman Turkish botanical terms
+   - Modern Turkish plant names:
+     * Cornflower = "Peygamber çiçeği" (prophet's flower) or "Mavi kantaron"
+     * Hellebore = "Çöpleme" or "Karaot"
+     * Poppy = "Gelincik" (little bride) or "Haşhaş"
+     * Cyclamen = "Sıklamen" or "Tavşankulağı" (rabbit ear)
+     * Castor = "Hint yağı ağacı"
+
+2. VOWEL HARMONY TEST (Turkish is STRICT)
+   - Back vowels: a, ı, o, u
+   - Front vowels: e, i, ö, ü
+   - Check same pattern as Hungarian section
+
+3. TURKISH SUFFIX MAPPING
+   Turkish cases:
+   - Nominative: -Ø
+   - Accusative: -(y)I (where I = ı/i/u/ü based on harmony)
+   - Dative: -(y)A (A = a/e)
+   - Locative: -DA (D = d/t, A = a/e)
+   - Ablative: -DAn
+   - Genitive: -(n)In
+
+   Test against Voynich:
+   - 'am' → Could be accusative with harmony?
+   - 'an' → Ablative or locative?
+
+4. ARDIC THEORY VALIDATION
+   - Ahmet Ardıç (2018) claimed Turkish readings
+   - Search for his specific claims and test them:
+     * What words did he claim to read?
+     * Can we replicate his phonetic mappings?
+     * Do his readings produce valid Turkish?
+
+================================================================================
+EXPECTED OUTPUT FORMAT:
+================================================================================
+
+1. FILE: results/hungarian_turkish_validation.json
+{
+  "hungarian": {
+    "plant_name_tests": [
+      {
+        "plant": "Cornflower",
+        "hungarian_name": "Búzavirág",
+        "voynich_name": "f2o89",
+        "match_score": 0.0-1.0
+      }
+    ],
+    "vowel_harmony_test": {
+      "words_tested": N,
+      "harmony_compliant": N,
+      "percentage": 0.0-1.0,
+      "verdict": "PRESENT" | "ABSENT" | "WEAK"
+    },
+    "suffix_mapping_confidence": 0.0-1.0,
+    "article_pattern_match": true/false,
+    "overall_score": 0.0-1.0
+  },
+  "turkish": {
+    "plant_name_tests": [...],
+    "vowel_harmony_test": {...},
+    "suffix_mapping_confidence": 0.0-1.0,
+    "ardic_validation": {
+      "claims_tested": N,
+      "claims_verified": N,
+      "specific_issues": [...]
+    },
+    "overall_score": 0.0-1.0
+  },
+  "comparison": {
+    "better_candidate": "HUNGARIAN" | "TURKISH" | "NEITHER",
+    "confidence": 0.0-1.0,
+    "key_differentiators": [...]
+  }
+}
+
+2. FILE: results/hungarian_turkish_report.md
+- Detailed methodology
+- Clear verdict with evidence
+- Recommendation for next steps
+
+================================================================================
+SUCCESS CRITERIA:
+================================================================================
+
+- [ ] At least 5 Hungarian plant names tested
+- [ ] At least 5 Turkish plant names tested
+- [ ] Vowel harmony analysis completed for both languages
+- [ ] Suffix mapping table for both languages
+- [ ] Clear verdict: which is more likely, or neither
+- [ ] If vowel harmony strongly present → major evidence for Turkish/Hungarian
+- [ ] If Ardıç readings validate → Turkish gets priority
+
+================================================================================
+NOTES:
+================================================================================
+
+- Be skeptical of partial matches - we need STRONG evidence
+- Vowel harmony is the key test - if absent, both languages become unlikely
+- Document methodology clearly for reproducibility

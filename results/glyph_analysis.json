@@ -1,0 +1,1028 @@
+{
+  "glyph_inventory": {
+    "total_unique": 24,
+    "shapes": [
+      {
+        "id": "G01",
+        "eva": "o",
+        "desc": "small circle",
+        "type": "basic"
+      },
+      {
+        "id": "G02",
+        "eva": "a",
+        "desc": "circle with tail left",
+        "type": "basic"
+      },
+      {
+        "id": "G03",
+        "eva": "e",
+        "desc": "short stroke / c-shape",
+        "type": "basic"
+      },
+      {
+        "id": "G04",
+        "eva": "y",
+        "desc": "circle with descender",
+        "type": "basic"
+      },
+      {
+        "id": "G05",
+        "eva": "i",
+        "desc": "single stroke / minim",
+        "type": "basic"
+      },
+      {
+        "id": "G06",
+        "eva": "n",
+        "desc": "double stroke / two minims",
+        "type": "basic"
+      },
+      {
+        "id": "G07",
+        "eva": "m",
+        "desc": "triple stroke / three minims",
+        "type": "basic"
+      },
+      {
+        "id": "G08",
+        "eva": "ch",
+        "desc": "bench (c + h)",
+        "type": "bench"
+      },
+      {
+        "id": "G09",
+        "eva": "sh",
+        "desc": "tall bench (s + h)",
+        "type": "bench"
+      },
+      {
+        "id": "G10",
+        "eva": "t",
+        "desc": "gallows type 1",
+        "type": "gallows"
+      },
+      {
+        "id": "G11",
+        "eva": "k",
+        "desc": "gallows type 2 (with loop)",
+        "type": "gallows"
+      },
+      {
+        "id": "G12",
+        "eva": "p",
+        "desc": "gallows type 3 (curved top)",
+        "type": "gallows"
+      },
+      {
+        "id": "G13",
+        "eva": "f",
+        "desc": "gallows type 4 (double curved)",
+        "type": "gallows"
+      },
+      {
+        "id": "G14",
+        "eva": "d",
+        "desc": "loop with descender",
+        "type": "special"
+      },
+      {
+        "id": "G15",
+        "eva": "s",
+        "desc": "tall s-shape",
+        "type": "special"
+      },
+      {
+        "id": "G16",
+        "eva": "r",
+        "desc": "small r-shape",
+        "type": "special"
+      },
+      {
+        "id": "G17",
+        "eva": "l",
+        "desc": "tall stroke",
+        "type": "special"
+      },
+      {
+        "id": "G18",
+        "eva": "q",
+        "desc": "special form (rare)",
+        "type": "special"
+      },
+      {
+        "id": "G19",
+        "eva": "x",
+        "desc": "cross-like (rare)",
+        "type": "special"
+      },
+      {
+        "id": "G20",
+        "eva": "g",
+        "desc": "special g-form (rare)",
+        "type": "special"
+      },
+      {
+        "id": "G21",
+        "eva": "cth",
+        "desc": "benched gallows type 1",
+        "type": "ligature"
+      },
+      {
+        "id": "G22",
+        "eva": "ckh",
+        "desc": "benched gallows type 2",
+        "type": "ligature"
+      },
+      {
+        "id": "G23",
+        "eva": "cph",
+        "desc": "benched gallows type 3",
+        "type": "ligature"
+      },
+      {
+        "id": "G24",
+        "eva": "cfh",
+        "desc": "benched gallows type 4",
+        "type": "ligature"
+      }
+    ]
+  },
+  "frequencies": {
+    "G01": {
+      "count": 25589,
+      "freq": 0.1406560909380737
+    },
+    "G03": {
+      "count": 20544,
+      "freq": 0.1129250354539758
+    },
+    "G04": {
+      "count": 17691,
+      "freq": 0.09724283499884569
+    },
+    "G02": {
+      "count": 15775,
+      "freq": 0.08671108032936468
+    },
+    "G14": {
+      "count": 13073,
+      "freq": 0.07185888767960599
+    },
+    "G05": {
+      "count": 12066,
+      "freq": 0.06632367006365225
+    },
+    "G17": {
+      "count": 12029,
+      "freq": 0.0661202906676341
+    },
+    "G08": {
+      "count": 11015,
+      "freq": 0.06054659586864989
+    },
+    "G11": {
+      "count": 10044,
+      "freq": 0.05520926090828139
+    },
+    "G16": {
+      "count": 7838,
+      "freq": 0.043083451513252644
+    },
+    "G06": {
+      "count": 7531,
+      "freq": 0.0413959522003452
+    },
+    "G10": {
+      "count": 7408,
+      "freq": 0.04071985312709563
+    },
+    "G18": {
+      "count": 5430,
+      "freq": 0.029847300550773392
+    },
+    "G09": {
+      "count": 4500,
+      "freq": 0.024735331948154745
+    },
+    "G15": {
+      "count": 2975,
+      "freq": 0.01635280278794675
+    },
+    "G12": {
+      "count": 2818,
+      "freq": 0.015489814539977793
+    },
+    "G07": {
+      "count": 1125,
+      "freq": 0.006183832987038686
+    },
+    "G21": {
+      "count": 949,
+      "freq": 0.005216406670844189
+    },
+    "G22": {
+      "count": 909,
+      "freq": 0.004996537053527259
+    },
+    "G13": {
+      "count": 791,
+      "freq": 0.004347921682442312
+    },
+    "G20": {
+      "count": 433,
+      "freq": 0.0023800886074557786
+    },
+    "?u": {
+      "count": 309,
+      "freq": 0.0016984927937732923
+    },
+    "G23": {
+      "count": 217,
+      "freq": 0.001192792673944351
+    },
+    "?h": {
+      "count": 213,
+      "freq": 0.0011708057122126578
+    },
+    "?c": {
+      "count": 209,
+      "freq": 0.0011488187504809647
+    },
+    "?%": {
+      "count": 184,
+      "freq": 0.001011400239657883
+    },
+    "G24": {
+      "count": 74,
+      "freq": 0.00040675879203632244
+    },
+    "?b": {
+      "count": 41,
+      "freq": 0.00022536635774985433
+    },
+    "G19": {
+      "count": 35,
+      "freq": 0.00019238591515231468
+    },
+    "?T": {
+      "count": 20,
+      "freq": 0.00010993480865846553
+    },
+    "?\\": {
+      "count": 14,
+      "freq": 7.695436606092587e-05
+    },
+    "?S": {
+      "count": 13,
+      "freq": 7.14576256280026e-05
+    },
+    "?K": {
+      "count": 9,
+      "freq": 4.947066389630949e-05
+    },
+    "?v": {
+      "count": 9,
+      "freq": 4.947066389630949e-05
+    },
+    "?|": {
+      "count": 7,
+      "freq": 3.8477183030462935e-05
+    },
+    "?Y": {
+      "count": 7,
+      "freq": 3.8477183030462935e-05
+    },
+    "?I": {
+      "count": 6,
+      "freq": 3.298044259753966e-05
+    },
+    "?'": {
+      "count": 5,
+      "freq": 2.7483702164616382e-05
+    },
+    "?j": {
+      "count": 5,
+      "freq": 2.7483702164616382e-05
+    },
+    "?F": {
+      "count": 4,
+      "freq": 2.1986961731693106e-05
+    },
+    "?\"": {
+      "count": 3,
+      "freq": 1.649022129876983e-05
+    },
+    "?w": {
+      "count": 3,
+      "freq": 1.649022129876983e-05
+    },
+    "?O": {
+      "count": 3,
+      "freq": 1.649022129876983e-05
+    },
+    "?z": {
+      "count": 2,
+      "freq": 1.0993480865846553e-05
+    },
+    "?:": {
+      "count": 1,
+      "freq": 5.4967404329232765e-06
+    }
+  },
+  "positions": {
+    "G13": {
+      "initial": 0.5638432364096081,
+      "medial": 0.3994943109987358,
+      "final": 0.025284450063211124,
+      "solo": 0.011378002528445006,
+      "total_occurrences": 791
+    },
+    "G15": {
+      "initial": 0.3442016806722689,
+      "medial": 0.2003361344537815,
+      "final": 0.3757983193277311,
+      "solo": 0.07966386554621849,
+      "total_occurrences": 2975
+    },
+    "G02": {
+      "initial": 0.12310618066561015,
+      "medial": 0.8711251980982567,
+      "final": 0.005578446909667195,
+      "solo": 0.0001901743264659271,
+      "total_occurrences": 15775
+    },
+    "G08": {
+      "initial": 0.5303676804357694,
+      "medial": 0.4675442578302315,
+      "final": 0.001634135270086246,
+      "solo": 0.00045392646391284613,
+      "total_occurrences": 11015
+    },
+    "G04": {
+      "initial": 0.09230682267819795,
+      "medial": 0.03736363122491662,
+      "final": 0.8618506585269347,
+      "solo": 0.008478887569950822,
+      "total_occurrences": 17691
+    },
+    "G17": {
+      "initial": 0.11197938315736969,
+      "medial": 0.3937983207249148,
+      "final": 0.4891512178900989,
+      "solo": 0.005071078227616593,
+      "total_occurrences": 12029
+    },
+    "G11": {
+      "initial": 0.11429709279171645,
+      "medial": 0.8775388291517324,
+      "final": 0.006471525288729589,
+      "solo": 0.0016925527678215851,
+      "total_occurrences": 10044
+    },
+    "G16": {
+      "initial": 0.052947180403164075,
+      "medial": 0.22097473845368718,
+      "final": 0.7137024751212044,
+      "solo": 0.012375606021944374,
+      "total_occurrences": 7838
+    },
+    "G06": {
+      "initial": 0.0,
+      "medial": 0.1975833222679591,
+      "final": 0.8018855397689549,
+      "solo": 0.0005311379630859116,
+      "total_occurrences": 7531
+    },
+    "G10": {
+      "initial": 0.13039956803455724,
+      "medial": 0.7724082073434125,
+      "final": 0.09611231101511879,
+      "solo": 0.0010799136069114472,
+      "total_occurrences": 7408
+    },
+    "G05": {
+      "initial": 0.0014917951268025858,
+      "medial": 0.9980109398309299,
+      "final": 0.0004972650422675286,
+      "solo": 0.0,
+      "total_occurrences": 12066
+    },
+    "G09": {
+      "initial": 0.7011111111111111,
+      "medial": 0.29244444444444445,
+      "final": 0.003111111111111111,
+      "solo": 0.0033333333333333335,
+      "total_occurrences": 4500
+    },
+    "G01": {
+      "initial": 0.32236507874477316,
+      "medial": 0.631482277541131,
+      "final": 0.043143538239087106,
+      "solo": 0.003009105475008793,
+      "total_occurrences": 25589
+    },
+    "G21": {
+      "initial": 0.512118018967334,
+      "medial": 0.47629083245521603,
+      "final": 0.008429926238145416,
+      "solo": 0.003161222339304531,
+      "total_occurrences": 949
+    },
+    "G03": {
+      "initial": 0.006863317757009346,
+      "medial": 0.978679906542056,
+      "final": 0.014164719626168224,
+      "solo": 0.0002920560747663551,
+      "total_occurrences": 20544
+    },
+    "G14": {
+      "initial": 0.265891532165532,
+      "medial": 0.6836227338789872,
+      "final": 0.04650807006807925,
+      "solo": 0.0039776638874015145,
+      "total_occurrences": 13073
+    },
+    "G22": {
+      "initial": 0.21342134213421343,
+      "medial": 0.7810781078107811,
+      "final": 0.005500550055005501,
+      "solo": 0.0,
+      "total_occurrences": 909
+    },
+    "?'": {
+      "initial": 0.0,
+      "medial": 1.0,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 5
+    },
+    "G23": {
+      "initial": 0.5852534562211982,
+      "medial": 0.4147465437788018,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 217
+    },
+    "G24": {
+      "initial": 0.44594594594594594,
+      "medial": 0.5540540540540541,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 74
+    },
+    "?c": {
+      "initial": 0.44976076555023925,
+      "medial": 0.4880382775119617,
+      "final": 0.028708133971291867,
+      "solo": 0.03349282296650718,
+      "total_occurrences": 209
+    },
+    "?K": {
+      "initial": 0.0,
+      "medial": 1.0,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 9
+    },
+    "G07": {
+      "initial": 0.0017777777777777779,
+      "medial": 0.06488888888888888,
+      "final": 0.9235555555555556,
+      "solo": 0.009777777777777778,
+      "total_occurrences": 1125
+    },
+    "G12": {
+      "initial": 0.6511710432931157,
+      "medial": 0.3356990773598297,
+      "final": 0.0106458481192335,
+      "solo": 0.00248403122782115,
+      "total_occurrences": 2818
+    },
+    "?T": {
+      "initial": 0.0,
+      "medial": 0.95,
+      "final": 0.05,
+      "solo": 0.0,
+      "total_occurrences": 20
+    },
+    "G18": {
+      "initial": 0.9843462246777164,
+      "medial": 0.015285451197053407,
+      "final": 0.0,
+      "solo": 0.00036832412523020257,
+      "total_occurrences": 5430
+    },
+    "G20": {
+      "initial": 0.07159353348729793,
+      "medial": 0.7321016166281755,
+      "final": 0.17090069284064666,
+      "solo": 0.025404157043879907,
+      "total_occurrences": 433
+    },
+    "?S": {
+      "initial": 0.0,
+      "medial": 1.0,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 13
+    },
+    "?h": {
+      "initial": 0.023474178403755867,
+      "medial": 0.9577464788732394,
+      "final": 0.018779342723004695,
+      "solo": 0.0,
+      "total_occurrences": 213
+    },
+    "?F": {
+      "initial": 0.0,
+      "medial": 1.0,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 4
+    },
+    "?z": {
+      "initial": 0.5,
+      "medial": 0.5,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 2
+    },
+    "?\\": {
+      "initial": 0.07142857142857142,
+      "medial": 0.9285714285714286,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 14
+    },
+    "G19": {
+      "initial": 0.2,
+      "medial": 0.37142857142857144,
+      "final": 0.17142857142857143,
+      "solo": 0.2571428571428571,
+      "total_occurrences": 35
+    },
+    "?|": {
+      "initial": 0.7142857142857143,
+      "medial": 0.2857142857142857,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 7
+    },
+    "?\"": {
+      "initial": 0.0,
+      "medial": 1.0,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 3
+    },
+    "?b": {
+      "initial": 0.0975609756097561,
+      "medial": 0.9024390243902439,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 41
+    },
+    "?Y": {
+      "initial": 0.0,
+      "medial": 1.0,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 7
+    },
+    "?v": {
+      "initial": 0.2222222222222222,
+      "medial": 0.0,
+      "final": 0.0,
+      "solo": 0.7777777777777778,
+      "total_occurrences": 9
+    },
+    "?I": {
+      "initial": 0.16666666666666666,
+      "medial": 0.8333333333333334,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 6
+    },
+    "?%": {
+      "initial": 0.016304347826086956,
+      "medial": 0.9728260869565217,
+      "final": 0.010869565217391304,
+      "solo": 0.0,
+      "total_occurrences": 184
+    },
+    "?w": {
+      "initial": 0.3333333333333333,
+      "medial": 0.6666666666666666,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 3
+    },
+    "?u": {
+      "initial": 0.0,
+      "medial": 1.0,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 309
+    },
+    "?j": {
+      "initial": 1.0,
+      "medial": 0.0,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 5
+    },
+    "?:": {
+      "initial": 0.0,
+      "medial": 0.0,
+      "final": 1.0,
+      "solo": 0.0,
+      "total_occurrences": 1
+    },
+    "?O": {
+      "initial": 0.0,
+      "medial": 1.0,
+      "final": 0.0,
+      "solo": 0.0,
+      "total_occurrences": 3
+    }
+  },
+  "bigrams": {
+    "G14+G04": 6866,
+    "G02+G05": 6670,
+    "G01+G11": 6129,
+    "G05+G06": 5990,
+    "G01+G17": 5755,
+    "G18+G01": 5292,
+    "G03+G03": 5160,
+    "G03+G14": 5057,
+    "G08+G03": 5019,
+    "G05+G05": 4659,
+    "G14+G02": 4083,
+    "G03+G04": 4049,
+    "G11+G03": 3922,
+    "G01+G10": 3896,
+    "G03+G01": 3508,
+    "G02+G16": 3255,
+    "G02+G17": 3097,
+    "G11+G02": 3012,
+    "G01+G16": 2820,
+    "G08+G01": 2684,
+    "G09+G03": 2603,
+    "G01+G14": 2303,
+    "G10+G03": 1835,
+    "G17+G02": 1825,
+    "G10+G02": 1600,
+    "G02+G06": 1483,
+    "G06+G10": 1361,
+    "G12+G17": 1357,
+    "G10+G08": 1120,
+    "G11+G08": 1097,
+    "G17+G11": 1082,
+    "G08+G04": 1023,
+    "G09+G01": 984,
+    "G10+G01": 955,
+    "G08+G14": 819,
+    "G11+G01": 816,
+    "G02+G07": 798,
+    "G11+G04": 763,
+    "G12+G08": 756,
+    "G16+G02": 752,
+    "G05+G16": 742,
+    "G04+G11": 739,
+    "G17+G08": 732,
+    "G15+G02": 662,
+    "G04+G10": 609,
+    "G10+G04": 596,
+    "G17+G01": 591,
+    "G01+G12": 581,
+    "G14+G01": 562,
+    "G17+G04": 525,
+    "G01+G15": 520,
+    "G17+G14": 500,
+    "G03+G11": 493,
+    "G03+G02": 493,
+    "G08+G02": 481,
+    "G03+G15": 461,
+    "G22+G04": 451,
+    "G15+G01": 427,
+    "G01+G03": 410,
+    "G16+G01": 403,
+    "G16+G03": 370,
+    "G21+G04": 367,
+    "G14+G08": 343,
+    "G01+G05": 336,
+    "G13+G05": 307,
+    "G05+G20": 305,
+    "G20+?u": 304,
+    "?u+G16": 301,
+    "G16+G04": 293,
+    "G09+G04": 284,
+    "G17+G09": 284,
+    "G01+G02": 283,
+    "G12+G01": 270,
+    "G04+G08": 265,
+    "G08+G22": 250,
+    "G22+G03": 248,
+    "G10+G09": 235,
+    "G21+G01": 230,
+    "G03+G10": 221,
+    "G11+G09": 214,
+    "G01+G07": 202,
+    "G21+G03": 201,
+    "G01+G22": 201,
+    "G12+G02": 193,
+    "G13+G08": 193,
+    "G04+G14": 189,
+    "G03+G08": 188,
+    "G01+G08": 182,
+    "G09+G14": 181,
+    "?%+?%": 180,
+    "G14+G09": 167,
+    "G01+G13": 164,
+    "G17+G15": 163,
+    "G08+G11": 160,
+    "G15+G03": 158,
+    "G01+G21": 154,
+    "G01+G04": 147,
+    "G03+G22": 144,
+    "G08+G21": 143,
+    "G10+G14": 142
+  },
+  "script_comparison": {
+    "voynich_positional_profile": {
+      "glyphs_with_strong_initial_bias": 7,
+      "glyphs_with_strong_final_bias": 4,
+      "glyphs_with_strong_medial_bias": 12,
+      "top_initial_glyphs": [
+        [
+          "G18",
+          0.9843462246777164
+        ],
+        [
+          "G09",
+          0.7011111111111111
+        ],
+        [
+          "G12",
+          0.6511710432931157
+        ],
+        [
+          "G23",
+          0.5852534562211982
+        ],
+        [
+          "G13",
+          0.5638432364096081
+        ]
+      ],
+      "top_final_glyphs": [
+        [
+          "G07",
+          0.9235555555555556
+        ],
+        [
+          "G04",
+          0.8618506585269347
+        ],
+        [
+          "G06",
+          0.8018855397689549
+        ],
+        [
+          "G16",
+          0.7137024751212044
+        ],
+        [
+          "G17",
+          0.4891512178900989
+        ]
+      ]
+    },
+    "reference_scripts": {
+      "voynich": {
+        "description": "Voynich manuscript",
+        "strong_initial_glyphs": [
+          [
+            "G18",
+            0.9843462246777164
+          ],
+          [
+            "G09",
+            0.7011111111111111
+          ],
+          [
+            "G12",
+            0.6511710432931157
+          ],
+          [
+            "G23",
+            0.5852534562211982
+          ],
+          [
+            "G13",
+            0.5638432364096081
+          ]
+        ],
+        "strong_final_glyphs": [
+          [
+            "G07",
+            0.9235555555555556
+          ],
+          [
+            "G04",
+            0.8618506585269347
+          ],
+          [
+            "G06",
+            0.8018855397689549
+          ],
+          [
+            "G16",
+            0.7137024751212044
+          ],
+          [
+            "G17",
+            0.4891512178900989
+          ]
+        ]
+      },
+      "latin_reference": {
+        "description": "Latin/Romance languages typically have...",
+        "characteristics": [
+          "Vowels distributed throughout words",
+          "Final positions favor: s, m, t, r (case endings)",
+          "Initial positions: varied consonants",
+          "Medium positional bias (0.2-0.4 typical)"
+        ]
+      },
+      "arabic_reference": {
+        "description": "Arabic/Semitic scripts typically have...",
+        "characteristics": [
+          "Strong positional variants (same letter looks different)",
+          "Root consonants in fixed positions",
+          "Initial/medial/final forms are visually distinct",
+          "Very high positional bias for certain letters"
+        ]
+      },
+      "hebrew_reference": {
+        "description": "Hebrew typically has...",
+        "characteristics": [
+          "Five letters with final forms",
+          "Vowels often not written (consonantal)",
+          "Moderate positional bias"
+        ]
+      }
+    },
+    "positional_rigidity_score": 0.2948717948717949,
+    "interpretation": "MEDIUM rigidity (0.15-0.3): Could be Latin-like or unique system"
+  },
+  "eva_bias": {
+    "eva_vowel_frequency": 0.5083983945458544,
+    "expected_latin_vowel_freq": 0.38,
+    "difference_from_latin": 0.12839839454585444,
+    "most_frequent_glyphs": [
+      {
+        "glyph_id": "G01",
+        "eva_letter": "o",
+        "is_eva_vowel": true,
+        "count": 25589
+      },
+      {
+        "glyph_id": "G03",
+        "eva_letter": "e",
+        "is_eva_vowel": true,
+        "count": 20544
+      },
+      {
+        "glyph_id": "G04",
+        "eva_letter": "y",
+        "is_eva_vowel": false,
+        "count": 17691
+      },
+      {
+        "glyph_id": "G02",
+        "eva_letter": "a",
+        "is_eva_vowel": true,
+        "count": 15775
+      },
+      {
+        "glyph_id": "G14",
+        "eva_letter": "d",
+        "is_eva_vowel": false,
+        "count": 13073
+      },
+      {
+        "glyph_id": "G05",
+        "eva_letter": "i",
+        "is_eva_vowel": true,
+        "count": 12066
+      },
+      {
+        "glyph_id": "G17",
+        "eva_letter": "l",
+        "is_eva_vowel": false,
+        "count": 12029
+      },
+      {
+        "glyph_id": "G08",
+        "eva_letter": "ch",
+        "is_eva_vowel": false,
+        "count": 11015
+      },
+      {
+        "glyph_id": "G11",
+        "eva_letter": "k",
+        "is_eva_vowel": false,
+        "count": 10044
+      },
+      {
+        "glyph_id": "G16",
+        "eva_letter": "r",
+        "is_eva_vowel": false,
+        "count": 7838
+      }
+    ],
+    "bias_indicators": [
+      "SUSPICIOUS: 3/5 most frequent glyphs assigned EVA vowels"
+    ],
+    "conclusion": "MODERATE BIAS RISK: Some EVA choices may influence results toward Latin patterns.",
+    "alternative_analysis": {
+      "question": "What if we assigned EVA vowels to DIFFERENT glyphs?",
+      "scenarios": [
+        {
+          "scenario": "Current EVA (vowels: o, a, e, i)",
+          "vowel_freq": 0.5083983945458544,
+          "resembles": "Latin-like (if ~0.38)"
+        },
+        {
+          "scenario": "If only G01(o), G02(a) were vowels",
+          "vowel_freq": 0.2842808445128656,
+          "resembles": "More consonantal (Hebrew/Arabic-like)"
+        }
+      ]
+    }
+  },
+  "agnostic_features": {
+    "word_length": {
+      "average_glyphs": 4.690990665772781,
+      "distribution": {
+        "5": 9210,
+        "4": 8356,
+        "3": 6182,
+        "6": 6172,
+        "7": 3019,
+        "2": 2980,
+        "8": 963,
+        "1": 798,
+        "9": 471,
+        "10": 280
+      }
+    },
+    "glyph_diversity": {
+      "average": 0.916710228986877,
+      "interpretation": "HIGH (>0.8): Most glyphs in words are unique"
+    },
+    "repetitions": {
+      "most_repeated_glyphs": {
+        "G03": 5160,
+        "G05": 4659,
+        "?%": 180,
+        "G01": 95,
+        "G14": 28,
+        "G17": 28,
+        "G08": 18,
+        "?h": 8,
+        "G10": 5,
+        "G15": 4
+      },
+      "total_adjacent_repetitions": 10207
+    },
+    "line_position_patterns": {
+      "common_line_initial_glyphs": {
+        "G01": 1160,
+        "G14": 723,
+        "G04": 688,
+        "G18": 520,
+        "G15": 464,
+        "G12": 409,
+        "G10": 397,
+        "G09": 203,
+        "G08": 184,
+        "G17": 114
+      },
+      "common_line_final_glyphs": {
+        "G04": 1742,
+        "G10": 659,
+        "G07": 655,
+        "G06": 547,
+        "G17": 487,
+        "G16": 428,
+        "G03": 194,
+        "G15": 161,
+        "G14": 139,
+        "G01": 74
+      }
+    }
+  }
+}

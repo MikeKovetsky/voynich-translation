@@ -1,0 +1,188 @@
+================================================================================
+TRACK 10: ANCHOR WORD SYSTEMATIC VALIDATION
+================================================================================
+
+GOAL:
+We have identified several potential "anchor words" - Voynich words that 
+might correspond to known meanings. This track validates them systematically.
+
+================================================================================
+CRITICAL CONTEXT:
+================================================================================
+
+Current anchor word hypotheses (from plan.md):
+
+| Voynich | Proposed Meaning | Source |
+|---------|------------------|--------|
+| o4o     | "aqua" (water)   | Phonetic mapping |
+| h2o89   | Hellebore        | Plant identification |
+| f2o89   | Cornflower       | Plant identification |
+| foay    | Poppy            | Plant identification |
+| hoom    | Cyclamen         | Plant identification |
+| goCam   | Castor Bean      | Plant identification |
+| 4ohan   | "from the herb"  | Grammar analysis |
+| oh979   | Sirius (star)    | Astronomical analysis |
+| occ7c9  | Spica (star)     | Astronomical analysis |
+
+PROBLEM: These are HYPOTHESES, not validated translations!
+We need to TEST if these make sense in ANY candidate language.
+
+================================================================================
+INPUT DATA:
+================================================================================
+
+1. /voynich_raw.txt - Full transcription
+2. /results/plant_identifications.json - Plant mappings
+3. /results/star_name_matches.json - Star name hypotheses
+4. /results/language_scores.json - Language candidates
+
+================================================================================
+SPECIFIC TASKS:
+================================================================================
+
+1. VALIDATE o4o = "AQUA" HYPOTHESIS
+   - Find ALL occurrences of 'o4o' in the text
+   - Check context: does it appear in contexts where "water" makes sense?
+     * Near plant preparations (decoctions = water-based)
+     * Near bathing sections
+     * In recipe-like constructions
+   - Test in multiple languages:
+     * Latin: aqua
+     * Italian: acqua
+     * Basque: ura
+     * Hungarian: víz
+   - Score: does 'o4o' phonetically match any of these?
+
+2. VALIDATE PLANT NAME HYPOTHESES
+   For each identified plant:
+
+   a) CORNFLOWER (f2o89)
+      - Latin: Centaurea, Cyanus
+      - Italian: Fiordaliso
+      - Basque: Ehun-belarra
+      - Hungarian: Búzavirág
+      - Apply phonetic mapping: does f2o89 → any of these?
+
+   b) HELLEBORE (h2o89)  
+      - Latin: Helleborus, Elleborus
+      - Italian: Elleboro
+      - Basque: Negu-lorea
+      - Hungarian: Hunyor
+      - Note: h2o89 and f2o89 share "2o89" suffix - what does this mean?
+
+   c) POPPY (foay)
+      - Latin: Papaver
+      - Italian: Papavero
+      - Basque: Mitxoleta
+      - Hungarian: Mák
+      - Short word - easier to test
+
+   d) CYCLAMEN (hoom)
+      - Latin: Cyclamen
+      - Italian: Ciclamino
+      - Basque: Basoko bihotz-belarra
+      - Hungarian: Disznókenyér
+
+   e) CASTOR (goCam)
+      - Latin: Ricinus
+      - Italian: Ricino
+      - Basque: Errizino
+      - Hungarian: Ricinusz
+
+3. VALIDATE STAR NAME HYPOTHESES
+   From star_name_matches.json, only these have decent scores:
+
+   a) occ7c9 = Spica (score 1.0)
+      - Check: is this word in Virgo zodiac section? ✓ (confirmed in progress.md)
+      - Latin: Spica
+      - Arabic: al-Simak
+      - Does 'occ7c9' phonetically match "Spica"?
+
+   b) oh979 = Sirius (score 1.0)
+      - Latin: Sirius
+      - Arabic: al-Shira
+      - Does 'oh979' phonetically match?
+
+   c) ok1o29 = Antares (score 0.857)
+      - Check: is this in Scorpio section?
+      - Latin: Antares
+      - Arabic: Qalb al-Aqrab
+
+4. TEST GRAMMAR HYPOTHESIS: 4ohan = "from the herb"
+   - If '4o' = "the" and '-an' = ablative ("from")
+   - Find all 4oh+suffix words:
+     * 4ohan (ablative) = "from the herb"
+     * 4oham (accusative) = "the herb" (object)
+     * 4ohae (instrumental) = "with the herb"
+   - Check if these appear in grammatically consistent positions
+   - If pattern holds → grammar hypothesis validated
+
+5. CROSS-VALIDATE: DO ANCHOR WORDS SUPPORT SAME LANGUAGE?
+   - If o4o → Latin "aqua" AND plant names → Latin → consistent
+   - If o4o → Latin BUT plant names → Basque → inconsistent, problem!
+   - Track which language each anchor word supports
+   - Calculate: which language has most anchor word support?
+
+================================================================================
+EXPECTED OUTPUT FORMAT:
+================================================================================
+
+1. FILE: results/anchor_word_validation.json
+{
+  "anchor_words": [
+    {
+      "voynich": "o4o",
+      "hypothesis": "water",
+      "occurrences_in_text": N,
+      "contextual_support": "STRONG" | "WEAK" | "CONTRADICTS",
+      "context_examples": ["line1", "line2"],
+      "phonetic_tests": [
+        {"language": "Latin", "target": "aqua", "score": 0.0-1.0},
+        {"language": "Italian", "target": "acqua", "score": 0.0-1.0},
+        ...
+      ],
+      "best_match": {"language": "Latin", "word": "aqua", "score": 0.85},
+      "validation_status": "CONFIRMED" | "PLAUSIBLE" | "UNLIKELY" | "REJECTED"
+    },
+    ... (all anchor words)
+  ],
+  "language_support_tally": {
+    "Latin": N,
+    "Italian": N,
+    "Basque": N,
+    "Hungarian": N
+  },
+  "most_supported_language": "Latin",
+  "anchor_word_consistency": "HIGH" | "MEDIUM" | "LOW",
+  "validated_vocabulary": [
+    {"voynich": "xxx", "meaning": "yyy", "language": "zzz", "confidence": 0.8}
+  ]
+}
+
+2. FILE: results/anchor_word_report.md
+- Table of all anchor words with validation status
+- Summary of which language they support
+- Confidence assessment
+- Recommendations
+
+================================================================================
+SUCCESS CRITERIA:
+================================================================================
+
+- [ ] All 9 anchor words tested
+- [ ] Each tested against at least 4 candidate languages
+- [ ] Context analysis completed for each word
+- [ ] Clear validation status for each (CONFIRMED/PLAUSIBLE/UNLIKELY/REJECTED)
+- [ ] Language support tally calculated
+- [ ] If 3+ words validate to same language → significant progress
+
+================================================================================
+VALIDATION STANDARDS:
+================================================================================
+
+CONFIRMED: Phonetic match >0.7 AND contextual support is STRONG
+PLAUSIBLE: Phonetic match >0.5 OR contextual support is STRONG  
+UNLIKELY: Phonetic match <0.5 AND contextual support is WEAK
+REJECTED: Clear phonetic mismatch AND context contradicts
+
+Be rigorous! Better to have 3 CONFIRMED words than 9 PLAUSIBLE ones.

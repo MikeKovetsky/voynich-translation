@@ -1,0 +1,130 @@
+# Track 28: Phonetic Key Validation
+
+## OBJECTIVE
+Rigorously test whether our phonetic mapping is correct by checking internal consistency and external validation.
+
+## BACKGROUND
+Our phonetic key:
+```
+CONFIRMED: o→a, h→r, 9→s, k→n, c→c, 7→l, m→m
+STRONG:    4→qu, 1→t, 8→d, a→e, e→i, 2→b, y→i
+```
+
+This produces "99.2% Latin match" but text isn't readable.
+Is the key actually correct?
+
+## INPUT FILES
+- `results/master_dictionary.json` - Current mappings
+- `results/transcription_mapping.json` - EVA↔Claston
+- `results/anchor_word_validation.json` - Confirmed words
+- `data/eva_ivtff.txt` - Source text
+
+## TASKS
+
+### 1. Internal Consistency Check
+For each character mapping, verify:
+- Does it produce consistent results across the corpus?
+- Do words with same root decode to related forms?
+- Are there contradictions?
+
+Example test:
+- If `o→a` then all `o` should decode to `a`
+- Check words starting with `o-`: do they make sense as `a-` Latin words?
+
+### 2. Anchor Word Validation
+Re-verify our "confirmed" words:
+- `o4o` → `aqua` (water): Does context support this?
+- `8am` → `de` (of/from): Check in all contexts
+- `4ohan` → `herba`: Is this really "the herb"?
+
+Count how many contexts support vs contradict each anchor.
+
+### 3. Frequency Distribution Test
+If mapping is correct:
+- Decoded letter frequencies should match Latin
+- Case ending frequencies should match Latin grammar
+
+Compare:
+- Our decoded text letter frequencies
+- Medieval Latin letter frequencies
+
+### 4. Reverse Engineering Test
+For known Latin words, predict Voynich form:
+- `radix` (root) → should be `ho8e9` or similar
+- `folium` (leaf) → should be `...`
+- `curat` (cures) → should be `...`
+
+Search for predicted forms. How many are found?
+
+### 5. Alternative Mapping Test
+Test if slight variations improve readability:
+- What if `h→l` instead of `h→r`?
+- What if `8→t` instead of `8→d`?
+- What if `4→c` instead of `4→qu`?
+
+### 6. Statistical Validation
+Calculate:
+- Character bigram frequencies in decoded text
+- Compare with Latin bigram frequencies
+- Calculate correlation coefficient
+
+## EXPECTED OUTPUT
+
+### Main Script
+`key_validation.py` - Validation script
+
+### Result Files
+
+1. `results/phonetic_key_validation.json`
+```json
+{
+  "internal_consistency": {
+    "o_to_a": {
+      "consistent_examples": 0,
+      "contradictions": 0,
+      "consistency_rate": 0.0
+    },
+    ...
+  },
+  "anchor_word_validation": {
+    "o4o_aqua": {
+      "supporting_contexts": 0,
+      "contradicting_contexts": 0,
+      "confidence": 0.0
+    },
+    ...
+  },
+  "frequency_comparison": {
+    "decoded_frequencies": {...},
+    "latin_frequencies": {...},
+    "correlation": 0.0
+  },
+  "reverse_engineering": {
+    "radix": {"predicted": "...", "found": false, "alternatives": []},
+    ...
+  },
+  "alternative_mappings_tested": [...],
+  "overall_validation_score": 0.0
+}
+```
+
+2. `results/phonetic_key_report.md`
+- Consistency analysis
+- Anchor word re-validation
+- Frequency comparison
+- Reverse engineering results
+- Conclusion: Is the key correct?
+
+## SUCCESS CRITERIA
+- [ ] All 14 character mappings tested for consistency
+- [ ] All anchor words re-validated with context
+- [ ] Letter frequency comparison completed
+- [ ] At least 10 Latin words reverse-engineered
+- [ ] Overall validation score calculated
+- [ ] Clear recommendation: Keep, modify, or reject key?
+
+## NOTES
+- Be rigorous and skeptical
+- If key is wrong, we need to know
+- Document all contradictions found
+- Propose corrections if needed

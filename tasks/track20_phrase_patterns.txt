@@ -1,0 +1,202 @@
+================================================================================
+TRACK 20: PHRASE PATTERN ANALYSIS
+================================================================================
+
+GOAL:
+Move beyond word-by-word decoding to identify multi-word Latin phrases
+that appear consistently across the manuscript.
+
+================================================================================
+RATIONALE:
+================================================================================
+
+Individual words decode to Latin-LIKE text, but sentences aren't readable.
+However, PHRASE patterns may be more recognizable:
+
+- "de + NOUN" → "of/from X"
+- "ad + NOUN" → "to/for X"  
+- "in aqua" → "in water"
+- "cum vino" → "with wine"
+- "contra + DISEASE" → "against X"
+
+================================================================================
+TARGET PHRASES (from medieval herbals):
+================================================================================
+
+PREPARATION PHRASES:
+1. "in aqua" (in water)
+2. "cum vino" (with wine)
+3. "cum melle" (with honey)
+4. "cum aceto" (with vinegar)
+5. "in vino" (in wine)
+
+USE PHRASES:
+6. "contra dolorem" (against pain)
+7. "ad stomachum" (for stomach)
+8. "ad oculos" (for eyes)
+9. "pro febribus" (for fevers)
+10. "contra venenum" (against poison)
+
+ACTION PHRASES:
+11. "valet contra" (is good against)
+12. "prodest ad" (helps for)
+13. "curat" + object (cures X)
+
+DESCRIPTION PHRASES:
+14. "folia habet" (has leaves)
+15. "radix est" (the root is)
+16. "flos est" (the flower is)
+
+================================================================================
+CONFIRMED PHONETIC MAP:
+================================================================================
+
+o→a  h→r  9→s  k→n  c→c  7→l  m→m  4→qu  1→t  8→d  a→e  e→i  2→b  y→i
+
+Known Voynich → Latin:
+- o4o → aqua (water) - PERFECT MATCH
+- 8am/8ay/8ae → de (of/from) - HIGH CONFIDENCE
+- oh9 → ars ≈ aries - CONFIRMED
+
+================================================================================
+TASKS:
+================================================================================
+
+1. PREDICT VOYNICH PHRASE FORMS
+   Using phonetic map, predict what each Latin phrase should look like:
+   
+   Example: "in aqua"
+   - in → yk or ok?
+   - aqua → o4o (confirmed!)
+   - Combined: "yk o4o" or "ok o4o"
+   
+   Do this for all 16 target phrases.
+
+2. SEARCH FOR BIGRAMS
+   Extract all 2-word sequences from /voynich_raw.txt
+   - Count frequencies
+   - Decode each bigram
+   - Score against Latin phrase targets
+   
+   Focus on sequences containing known words (o4o, 8am, etc.)
+
+3. SEARCH FOR TRIGRAMS
+   Extract all 3-word sequences
+   - Focus on patterns like: PREP + NOUN + NOUN
+   - Or: NOUN + VERB + OBJECT
+
+4. FIND "8am/de" PATTERNS
+   Since 8am = "de" (of/from):
+   - Find all "8am + X" sequences
+   - Decode X
+   - Check if X is a noun (plant part, body part, etc.)
+   
+   Expected patterns:
+   - "8am radice" (of the root)
+   - "8am herba" (of the herb)
+   - "8am aqua" (of water)
+
+5. FIND "o4o/aqua" PATTERNS
+   Since o4o = "aqua":
+   - Find all "X + o4o" sequences
+   - Find all "o4o + X" sequences
+   - Decode and identify patterns like "in aqua"
+
+6. VALIDATE WITH POSITION
+   Preparation phrases should appear:
+   - Later in herbal entries (after description)
+   - Near other preparation words
+   
+   Check if found phrases appear in expected positions.
+
+================================================================================
+EXPECTED OUTPUT (EXACT FILENAMES REQUIRED):
+================================================================================
+
+CREATE THESE EXACT FILES:
+
+1. SCRIPT: phrase_patterns.py
+   - Main analysis script
+
+2. FILE: results/phrase_patterns.json
+{
+  "preparation_phrases": [
+    {
+      "latin": "in aqua",
+      "meaning": "in water",
+      "predicted_voynich": ["yk o4o", "ok o4o"],
+      "matches_found": [
+        {
+          "voynich": "...",
+          "decoded": "...",
+          "count": N,
+          "pages": ["f17r", "f23r", ...],
+          "confidence": 0.0-1.0
+        }
+      ],
+      "best_match": "...",
+      "overall_confidence": 0.0-1.0
+    }
+  ],
+  "use_phrases": [...],
+  "action_phrases": [...],
+  "description_phrases": [...],
+  "de_patterns": {
+    "sequences_found": [
+      {"voynich": "8am X", "decoded": "de X", "x_meaning": "...", "count": N}
+    ],
+    "most_common_nouns_after_de": [...]
+  },
+  "aqua_patterns": {
+    "sequences_with_aqua": [...],
+    "likely_in_aqua_matches": [...]
+  },
+  "top_bigrams": [
+    {"voynich": "...", "decoded": "...", "count": N, "latin_match": "..."}
+  ],
+  "top_trigrams": [...],
+  "summary": {
+    "phrases_confirmed": N,
+    "high_confidence": N,
+    "patterns_identified": N
+  }
+}
+
+3. FILE: results/phrase_patterns_report.md
+Human-readable report with examples
+
+================================================================================
+SUCCESS CRITERIA:
+================================================================================
+
+- [ ] All 16 target phrases searched
+- [ ] At least 5 phrase patterns identified with >60% confidence
+- [ ] "de + X" patterns analyzed (at least 20 unique)
+- [ ] "aqua" context patterns found
+- [ ] Top 50 bigrams and trigrams listed
+
+================================================================================
+BIGRAM EXAMPLES FROM PHASE 5:
+================================================================================
+
+Already found in Track 15:
+- "1oe 8am" (27 counts) → "tae de"? 
+- "1oe 1oe" (18 counts) → "tae tae"?
+- "oy am" (12 counts) → "i am"?
+- "8am K9" (10 counts) → "de cus"?
+
+Decode these and check against Latin phrase expectations!
+
+================================================================================
+ADDITIONAL HINTS:
+================================================================================
+
+Look for these Voynich patterns:
+- "X 8am Y" → "X de Y" (genitive construction)
+- "yk X" → "in X" (locative)
+- "o8 X" → "ad X" (dative/purpose)
+- "4oh- X" → "herba X" (plant name constructions)
+
+The "4oh-" paradigm (article) should appear before nouns!
+
+================================================================================

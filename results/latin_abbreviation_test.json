@@ -1,0 +1,1839 @@
+{
+  "abbreviation_mapping": {
+    "c89": {
+      "proposed_latin": "-corum/-carum",
+      "latin_case_type": "adjectival gen. plural",
+      "voynich_freq": 0.0559,
+      "voynich_count": 2277,
+      "match_quality": "GOOD"
+    },
+    "89": {
+      "proposed_latin": "-orum/-arum",
+      "latin_case_type": "genitive plural",
+      "voynich_freq": 0.0622,
+      "voynich_count": 2532,
+      "match_quality": "GOOD"
+    },
+    "c9": {
+      "proposed_latin": "-cus/-cis",
+      "latin_case_type": "adjectival nominative",
+      "voynich_freq": 0.0634,
+      "voynich_count": 2581,
+      "match_quality": "GOOD"
+    },
+    "9": {
+      "proposed_latin": "-us/-is",
+      "latin_case_type": "nominative/genitive singular",
+      "voynich_freq": 0.1964,
+      "voynich_count": 7994,
+      "match_quality": "EXCELLENT"
+    },
+    "am": {
+      "proposed_latin": "-am",
+      "latin_case_type": "accusative feminine",
+      "voynich_freq": 0.0936,
+      "voynich_count": 3810,
+      "match_quality": "GOOD"
+    },
+    "oe": {
+      "proposed_latin": "-ae",
+      "latin_case_type": "dative/ablative feminine",
+      "voynich_freq": 0.0892,
+      "voynich_count": 3631,
+      "match_quality": "GOOD"
+    },
+    "ay": {
+      "proposed_latin": "-ai/-i",
+      "latin_case_type": "dative singular",
+      "voynich_freq": 0.0688,
+      "voynich_count": 2799,
+      "match_quality": "GOOD"
+    },
+    "an": {
+      "proposed_latin": "-an/-um",
+      "latin_case_type": "accusative/ablative",
+      "voynich_freq": 0.0416,
+      "voynich_count": 1695,
+      "match_quality": "MODERATE"
+    },
+    "ae": {
+      "proposed_latin": "-ae",
+      "latin_case_type": "genitive/dative feminine",
+      "voynich_freq": 0.054,
+      "voynich_count": 2199,
+      "match_quality": "GOOD"
+    }
+  },
+  "case_distribution": {
+    "nominative": 0.1964,
+    "genitive_plural": 0.0622,
+    "accusative_fem": 0.0936,
+    "dative_ablative": 0.1432
+  },
+  "botanical_vocabulary_tests": [
+    {
+      "latin_word": "radix",
+      "meaning": "root",
+      "voynich_candidates": [
+        {
+          "voynich": "hds",
+          "decoded": "rdx",
+          "similarity": 0.75,
+          "skeleton_sim": 1.0,
+          "combined": 0.85,
+          "count": 1
+        },
+        {
+          "voynich": "ho8ay",
+          "decoded": "radei",
+          "similarity": 0.8,
+          "skeleton_sim": 0.8,
+          "combined": 0.8,
+          "count": 2
+        },
+        {
+          "voynich": "ohds",
+          "decoded": "ardx",
+          "similarity": 0.667,
+          "skeleton_sim": 1.0,
+          "combined": 0.8,
+          "count": 2
+        },
+        {
+          "voynich": "ehds",
+          "decoded": "ordx",
+          "similarity": 0.667,
+          "skeleton_sim": 1.0,
+          "combined": 0.8,
+          "count": 1
+        },
+        {
+          "voynich": "ods",
+          "decoded": "adx",
+          "similarity": 0.75,
+          "skeleton_sim": 0.8,
+          "combined": 0.77,
+          "count": 6
+        }
+      ],
+      "best_match": "hds",
+      "best_decoded": "rdx",
+      "score": 0.85
+    },
+    {
+      "latin_word": "folium",
+      "meaning": "leaf",
+      "voynich_candidates": [
+        {
+          "voynich": "7aym",
+          "decoded": "leim",
+          "similarity": 0.6,
+          "skeleton_sim": 0.8,
+          "combined": 0.68,
+          "count": 1
+        },
+        {
+          "voynich": "eo7am",
+          "decoded": "oalem",
+          "similarity": 0.545,
+          "skeleton_sim": 0.8,
+          "combined": 0.647,
+          "count": 1
+        },
+        {
+          "voynich": "ae7am",
+          "decoded": "eolem",
+          "similarity": 0.545,
+          "skeleton_sim": 0.8,
+          "combined": 0.647,
+          "count": 1
+        },
+        {
+          "voynich": "oe7am",
+          "decoded": "aolem",
+          "similarity": 0.545,
+          "skeleton_sim": 0.8,
+          "combined": 0.647,
+          "count": 2
+        },
+        {
+          "voynich": "foeam",
+          "decoded": "faoem",
+          "similarity": 0.545,
+          "skeleton_sim": 0.8,
+          "combined": 0.647,
+          "count": 1
+        }
+      ],
+      "best_match": "7aym",
+      "best_decoded": "leim",
+      "score": 0.68
+    },
+    {
+      "latin_word": "flos",
+      "meaning": "flower",
+      "voynich_candidates": [
+        {
+          "voynich": "F79",
+          "decoded": "fls",
+          "similarity": 0.857,
+          "skeleton_sim": 1.0,
+          "combined": 0.914,
+          "count": 1
+        },
+        {
+          "voynich": "foel9",
+          "decoded": "faols",
+          "similarity": 0.667,
+          "skeleton_sim": 1.0,
+          "combined": 0.8,
+          "count": 1
+        },
+        {
+          "voynich": "Fc79",
+          "decoded": "fcls",
+          "similarity": 0.75,
+          "skeleton_sim": 0.857,
+          "combined": 0.793,
+          "count": 1
+        },
+        {
+          "voynich": "f179",
+          "decoded": "ftls",
+          "similarity": 0.75,
+          "skeleton_sim": 0.857,
+          "combined": 0.793,
+          "count": 1
+        },
+        {
+          "voynich": "7ae9",
+          "decoded": "leos",
+          "similarity": 0.75,
+          "skeleton_sim": 0.8,
+          "combined": 0.77,
+          "count": 5
+        }
+      ],
+      "best_match": "F79",
+      "best_decoded": "fls",
+      "score": 0.914
+    },
+    {
+      "latin_word": "semen",
+      "meaning": "seed",
+      "voynich_candidates": [
+        {
+          "voynich": "9am",
+          "decoded": "sem",
+          "similarity": 0.75,
+          "skeleton_sim": 0.8,
+          "combined": 0.77,
+          "count": 5
+        },
+        {
+          "voynich": "9yam",
+          "decoded": "siem",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 1
+        },
+        {
+          "voynich": "9kaeaN",
+          "decoded": "sneoen",
+          "similarity": 0.727,
+          "skeleton_sim": 0.667,
+          "combined": 0.703,
+          "count": 1
+        },
+        {
+          "voynich": "9oyan",
+          "decoded": "saien",
+          "similarity": 0.6,
+          "skeleton_sim": 0.8,
+          "combined": 0.68,
+          "count": 1
+        },
+        {
+          "voynich": "9haN",
+          "decoded": "sren",
+          "similarity": 0.667,
+          "skeleton_sim": 0.667,
+          "combined": 0.667,
+          "count": 2
+        }
+      ],
+      "best_match": "9am",
+      "best_decoded": "sem",
+      "score": 0.77
+    },
+    {
+      "latin_word": "herba",
+      "meaning": "herb",
+      "voynich_candidates": [
+        {
+          "voynich": "h2o",
+          "decoded": "rba",
+          "similarity": 0.75,
+          "skeleton_sim": 0.8,
+          "combined": 0.77,
+          "count": 5
+        },
+        {
+          "voynich": "eh2o",
+          "decoded": "orba",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 1
+        },
+        {
+          "voynich": "oh2o",
+          "decoded": "arba",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 3
+        },
+        {
+          "voynich": "h2oy",
+          "decoded": "rbai",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 2
+        },
+        {
+          "voynich": "h2oe",
+          "decoded": "rbao",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 2
+        }
+      ],
+      "best_match": "h2o",
+      "best_decoded": "rba",
+      "score": 0.77
+    },
+    {
+      "latin_word": "arbor",
+      "meaning": "tree",
+      "voynich_candidates": [
+        {
+          "voynich": "oh2oe",
+          "decoded": "arbao",
+          "similarity": 0.8,
+          "skeleton_sim": 0.8,
+          "combined": 0.8,
+          "count": 1
+        },
+        {
+          "voynich": "oh2ae",
+          "decoded": "arbeo",
+          "similarity": 0.8,
+          "skeleton_sim": 0.8,
+          "combined": 0.8,
+          "count": 1
+        },
+        {
+          "voynich": "oh2",
+          "decoded": "arb",
+          "similarity": 0.75,
+          "skeleton_sim": 0.8,
+          "combined": 0.77,
+          "count": 1
+        },
+        {
+          "voynich": "2oeh",
+          "decoded": "baor",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 1
+        },
+        {
+          "voynich": "oh2o",
+          "decoded": "arba",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 3
+        }
+      ],
+      "best_match": "oh2oe",
+      "best_decoded": "arbao",
+      "score": 0.8
+    },
+    {
+      "latin_word": "cortex",
+      "meaning": "bark",
+      "voynich_candidates": [
+        {
+          "voynich": "eh1S",
+          "decoded": "ortx",
+          "similarity": 0.8,
+          "skeleton_sim": 0.857,
+          "combined": 0.823,
+          "count": 1
+        },
+        {
+          "voynich": "eh1s",
+          "decoded": "ortx",
+          "similarity": 0.8,
+          "skeleton_sim": 0.857,
+          "combined": 0.823,
+          "count": 1
+        },
+        {
+          "voynich": "4och1as",
+          "decoded": "quacrtex",
+          "similarity": 0.714,
+          "skeleton_sim": 0.889,
+          "combined": 0.784,
+          "count": 1
+        },
+        {
+          "voynich": "oeh1s",
+          "decoded": "aortx",
+          "similarity": 0.727,
+          "skeleton_sim": 0.857,
+          "combined": 0.779,
+          "count": 1
+        },
+        {
+          "voynich": "ehax",
+          "decoded": "orex",
+          "similarity": 0.8,
+          "skeleton_sim": 0.667,
+          "combined": 0.747,
+          "count": 1
+        }
+      ],
+      "best_match": "eh1S",
+      "best_decoded": "ortx",
+      "score": 0.823
+    },
+    {
+      "latin_word": "succus",
+      "meaning": "juice",
+      "voynich_candidates": [
+        {
+          "voynich": "9chc9",
+          "decoded": "scrcs",
+          "similarity": 0.727,
+          "skeleton_sim": 0.889,
+          "combined": 0.792,
+          "count": 1
+        },
+        {
+          "voynich": "9kcc9",
+          "decoded": "snccs",
+          "similarity": 0.727,
+          "skeleton_sim": 0.889,
+          "combined": 0.792,
+          "count": 13
+        },
+        {
+          "voynich": "9hcc9",
+          "decoded": "srccs",
+          "similarity": 0.727,
+          "skeleton_sim": 0.889,
+          "combined": 0.792,
+          "count": 13
+        },
+        {
+          "voynich": "95cc9",
+          "decoded": "s5ccs",
+          "similarity": 0.727,
+          "skeleton_sim": 0.889,
+          "combined": 0.792,
+          "count": 1
+        },
+        {
+          "voynich": "91cc9",
+          "decoded": "stccs",
+          "similarity": 0.727,
+          "skeleton_sim": 0.889,
+          "combined": 0.792,
+          "count": 7
+        }
+      ],
+      "best_match": "9chc9",
+      "best_decoded": "scrcs",
+      "score": 0.792
+    },
+    {
+      "latin_word": "fructus",
+      "meaning": "fruit",
+      "voynich_candidates": [
+        {
+          "voynich": "hc19",
+          "decoded": "rcts",
+          "similarity": 0.727,
+          "skeleton_sim": 0.889,
+          "combined": 0.792,
+          "count": 5
+        },
+        {
+          "voynich": "ohc19",
+          "decoded": "arcts",
+          "similarity": 0.667,
+          "skeleton_sim": 0.889,
+          "combined": 0.756,
+          "count": 5
+        },
+        {
+          "voynich": "ehc19",
+          "decoded": "orcts",
+          "similarity": 0.667,
+          "skeleton_sim": 0.889,
+          "combined": 0.756,
+          "count": 1
+        },
+        {
+          "voynich": "ohc1o9",
+          "decoded": "arctas",
+          "similarity": 0.615,
+          "skeleton_sim": 0.889,
+          "combined": 0.725,
+          "count": 1
+        },
+        {
+          "voynich": "oehc19",
+          "decoded": "aorcts",
+          "similarity": 0.615,
+          "skeleton_sim": 0.889,
+          "combined": 0.725,
+          "count": 1
+        }
+      ],
+      "best_match": "hc19",
+      "best_decoded": "rcts",
+      "score": 0.792
+    },
+    {
+      "latin_word": "stirps",
+      "meaning": "stem",
+      "voynich_candidates": [
+        {
+          "voynich": "91h9",
+          "decoded": "strs",
+          "similarity": 0.8,
+          "skeleton_sim": 0.889,
+          "combined": 0.836,
+          "count": 1
+        },
+        {
+          "voynich": "9k1ah9",
+          "decoded": "snters",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 1
+        },
+        {
+          "voynich": "91coh9",
+          "decoded": "stcars",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 2
+        },
+        {
+          "voynich": "9g1hop",
+          "decoded": "sgtrap",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 1
+        },
+        {
+          "voynich": "9h9",
+          "decoded": "srs",
+          "similarity": 0.667,
+          "skeleton_sim": 0.75,
+          "combined": 0.7,
+          "count": 17
+        }
+      ],
+      "best_match": "91h9",
+      "best_decoded": "strs",
+      "score": 0.836
+    },
+    {
+      "latin_word": "caulis",
+      "meaning": "stalk",
+      "voynich_candidates": [
+        {
+          "voynich": "Ko79",
+          "decoded": "cals",
+          "similarity": 0.8,
+          "skeleton_sim": 1.0,
+          "combined": 0.88,
+          "count": 2
+        },
+        {
+          "voynich": "Koe79",
+          "decoded": "caols",
+          "similarity": 0.727,
+          "skeleton_sim": 1.0,
+          "combined": 0.836,
+          "count": 1
+        },
+        {
+          "voynich": "c79",
+          "decoded": "cls",
+          "similarity": 0.667,
+          "skeleton_sim": 1.0,
+          "combined": 0.8,
+          "count": 2
+        },
+        {
+          "voynich": "K79",
+          "decoded": "cls",
+          "similarity": 0.667,
+          "skeleton_sim": 1.0,
+          "combined": 0.8,
+          "count": 2
+        },
+        {
+          "voynich": "Koy9",
+          "decoded": "cais",
+          "similarity": 0.8,
+          "skeleton_sim": 0.8,
+          "combined": 0.8,
+          "count": 2
+        }
+      ],
+      "best_match": "Ko79",
+      "best_decoded": "cals",
+      "score": 0.88
+    },
+    {
+      "latin_word": "ramus",
+      "meaning": "branch",
+      "voynich_candidates": [
+        {
+          "voynich": "hom",
+          "decoded": "ram",
+          "similarity": 0.75,
+          "skeleton_sim": 0.8,
+          "combined": 0.77,
+          "count": 3
+        },
+        {
+          "voynich": "om9",
+          "decoded": "ams",
+          "similarity": 0.75,
+          "skeleton_sim": 0.8,
+          "combined": 0.77,
+          "count": 1
+        },
+        {
+          "voynich": "hoom",
+          "decoded": "raam",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 2
+        },
+        {
+          "voynich": "oho9",
+          "decoded": "aras",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 2
+        },
+        {
+          "voynich": "hoe9",
+          "decoded": "raos",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 2
+        }
+      ],
+      "best_match": "hom",
+      "best_decoded": "ram",
+      "score": 0.77
+    },
+    {
+      "latin_word": "spina",
+      "meaning": "thorn",
+      "voynich_candidates": [
+        {
+          "voynich": "9ko",
+          "decoded": "sna",
+          "similarity": 0.75,
+          "skeleton_sim": 0.8,
+          "combined": 0.77,
+          "count": 4
+        },
+        {
+          "voynich": "9koe",
+          "decoded": "snao",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 12
+        },
+        {
+          "voynich": "9koy",
+          "decoded": "snai",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 13
+        },
+        {
+          "voynich": "9kAe",
+          "decoded": "snao",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 1
+        },
+        {
+          "voynich": "9koay",
+          "decoded": "snaei",
+          "similarity": 0.6,
+          "skeleton_sim": 0.8,
+          "combined": 0.68,
+          "count": 1
+        }
+      ],
+      "best_match": "9ko",
+      "best_decoded": "sna",
+      "score": 0.77
+    },
+    {
+      "latin_word": "bacca",
+      "meaning": "berry",
+      "voynich_candidates": [
+        {
+          "voynich": "2Kco",
+          "decoded": "bcca",
+          "similarity": 0.889,
+          "skeleton_sim": 1.0,
+          "combined": 0.933,
+          "count": 1
+        },
+        {
+          "voynich": "2cco",
+          "decoded": "bcca",
+          "similarity": 0.889,
+          "skeleton_sim": 1.0,
+          "combined": 0.933,
+          "count": 2
+        },
+        {
+          "voynich": "2okcco",
+          "decoded": "bancca",
+          "similarity": 0.909,
+          "skeleton_sim": 0.857,
+          "combined": 0.888,
+          "count": 1
+        },
+        {
+          "voynich": "2ccAe",
+          "decoded": "bccao",
+          "similarity": 0.8,
+          "skeleton_sim": 1.0,
+          "combined": 0.88,
+          "count": 1
+        },
+        {
+          "voynich": "2ccoe",
+          "decoded": "bccao",
+          "similarity": 0.8,
+          "skeleton_sim": 1.0,
+          "combined": 0.88,
+          "count": 5
+        }
+      ],
+      "best_match": "2Kco",
+      "best_decoded": "bcca",
+      "score": 0.933
+    },
+    {
+      "latin_word": "nux",
+      "meaning": "nut",
+      "voynich_candidates": [
+        {
+          "voynich": "kAx",
+          "decoded": "nax",
+          "similarity": 0.667,
+          "skeleton_sim": 1.0,
+          "combined": 0.8,
+          "count": 1
+        },
+        {
+          "voynich": "kos",
+          "decoded": "nax",
+          "similarity": 0.667,
+          "skeleton_sim": 1.0,
+          "combined": 0.8,
+          "count": 5
+        },
+        {
+          "voynich": "Us",
+          "decoded": "Ux",
+          "similarity": 0.8,
+          "skeleton_sim": 0.667,
+          "combined": 0.747,
+          "count": 1
+        },
+        {
+          "voynich": "okas",
+          "decoded": "anex",
+          "similarity": 0.571,
+          "skeleton_sim": 1.0,
+          "combined": 0.743,
+          "count": 2
+        },
+        {
+          "voynich": "okax",
+          "decoded": "anex",
+          "similarity": 0.571,
+          "skeleton_sim": 1.0,
+          "combined": 0.743,
+          "count": 8
+        }
+      ],
+      "best_match": "kAx",
+      "best_decoded": "nax",
+      "score": 0.8
+    },
+    {
+      "latin_word": "oleum",
+      "meaning": "oil",
+      "voynich_candidates": [
+        {
+          "voynich": "eo7am",
+          "decoded": "oalem",
+          "similarity": 0.8,
+          "skeleton_sim": 1.0,
+          "combined": 0.88,
+          "count": 1
+        },
+        {
+          "voynich": "ae7am",
+          "decoded": "eolem",
+          "similarity": 0.8,
+          "skeleton_sim": 1.0,
+          "combined": 0.88,
+          "count": 1
+        },
+        {
+          "voynich": "oe7am",
+          "decoded": "aolem",
+          "similarity": 0.8,
+          "skeleton_sim": 1.0,
+          "combined": 0.88,
+          "count": 2
+        },
+        {
+          "voynich": "7am",
+          "decoded": "lem",
+          "similarity": 0.75,
+          "skeleton_sim": 1.0,
+          "combined": 0.85,
+          "count": 108
+        },
+        {
+          "voynich": "e27am",
+          "decoded": "oblem",
+          "similarity": 0.8,
+          "skeleton_sim": 0.8,
+          "combined": 0.8,
+          "count": 1
+        }
+      ],
+      "best_match": "eo7am",
+      "best_decoded": "oalem",
+      "score": 0.88
+    },
+    {
+      "latin_word": "aqua",
+      "meaning": "water",
+      "voynich_candidates": [
+        {
+          "voynich": "o4o",
+          "decoded": "aqua",
+          "similarity": 1.0,
+          "skeleton_sim": 1.0,
+          "combined": 1.0,
+          "count": 1
+        },
+        {
+          "voynich": "oe4o",
+          "decoded": "aoqua",
+          "similarity": 0.889,
+          "skeleton_sim": 1.0,
+          "combined": 0.933,
+          "count": 1
+        },
+        {
+          "voynich": "4A",
+          "decoded": "qua",
+          "similarity": 0.857,
+          "skeleton_sim": 1.0,
+          "combined": 0.914,
+          "count": 2
+        },
+        {
+          "voynich": "4o",
+          "decoded": "qua",
+          "similarity": 0.857,
+          "skeleton_sim": 1.0,
+          "combined": 0.914,
+          "count": 166
+        },
+        {
+          "voynich": "o4oAy",
+          "decoded": "aquaai",
+          "similarity": 0.8,
+          "skeleton_sim": 1.0,
+          "combined": 0.88,
+          "count": 1
+        }
+      ],
+      "best_match": "o4o",
+      "best_decoded": "aqua",
+      "score": 1.0
+    },
+    {
+      "latin_word": "vinum",
+      "meaning": "wine",
+      "voynich_candidates": [
+        {
+          "voynich": "yokam",
+          "decoded": "ianem",
+          "similarity": 0.6,
+          "skeleton_sim": 0.8,
+          "combined": 0.68,
+          "count": 1
+        },
+        {
+          "voynich": "kom",
+          "decoded": "nam",
+          "similarity": 0.5,
+          "skeleton_sim": 0.8,
+          "combined": 0.62,
+          "count": 3
+        },
+        {
+          "voynich": "kaM",
+          "decoded": "nem",
+          "similarity": 0.5,
+          "skeleton_sim": 0.8,
+          "combined": 0.62,
+          "count": 1
+        },
+        {
+          "voynich": "kam",
+          "decoded": "nem",
+          "similarity": 0.5,
+          "skeleton_sim": 0.8,
+          "combined": 0.62,
+          "count": 44
+        },
+        {
+          "voynich": "koam",
+          "decoded": "naem",
+          "similarity": 0.444,
+          "skeleton_sim": 0.8,
+          "combined": 0.587,
+          "count": 1
+        }
+      ],
+      "best_match": "yokam",
+      "best_decoded": "ianem",
+      "score": 0.68
+    },
+    {
+      "latin_word": "mel",
+      "meaning": "honey",
+      "voynich_candidates": [
+        {
+          "voynich": "ae7",
+          "decoded": "eol",
+          "similarity": 0.667,
+          "skeleton_sim": 0.667,
+          "combined": 0.667,
+          "count": 1
+        },
+        {
+          "voynich": "omay",
+          "decoded": "amei",
+          "similarity": 0.571,
+          "skeleton_sim": 0.667,
+          "combined": 0.61,
+          "count": 1
+        },
+        {
+          "voynich": "amae",
+          "decoded": "emeo",
+          "similarity": 0.571,
+          "skeleton_sim": 0.667,
+          "combined": 0.61,
+          "count": 3
+        },
+        {
+          "voynich": "aL9",
+          "decoded": "eLs",
+          "similarity": 0.667,
+          "skeleton_sim": 0.5,
+          "combined": 0.6,
+          "count": 1
+        },
+        {
+          "voynich": "m",
+          "decoded": "m",
+          "similarity": 0.5,
+          "skeleton_sim": 0.667,
+          "combined": 0.567,
+          "count": 2
+        }
+      ],
+      "best_match": "ae7",
+      "best_decoded": "eol",
+      "score": 0.667
+    },
+    {
+      "latin_word": "sal",
+      "meaning": "salt",
+      "voynich_candidates": [
+        {
+          "voynich": "97e",
+          "decoded": "slo",
+          "similarity": 0.667,
+          "skeleton_sim": 1.0,
+          "combined": 0.8,
+          "count": 1
+        },
+        {
+          "voynich": "ol",
+          "decoded": "al",
+          "similarity": 0.8,
+          "skeleton_sim": 0.667,
+          "combined": 0.747,
+          "count": 1
+        },
+        {
+          "voynich": "9o",
+          "decoded": "sa",
+          "similarity": 0.8,
+          "skeleton_sim": 0.667,
+          "combined": 0.747,
+          "count": 1
+        },
+        {
+          "voynich": "97ay",
+          "decoded": "slei",
+          "similarity": 0.571,
+          "skeleton_sim": 1.0,
+          "combined": 0.743,
+          "count": 1
+        },
+        {
+          "voynich": "979",
+          "decoded": "sls",
+          "similarity": 0.667,
+          "skeleton_sim": 0.8,
+          "combined": 0.72,
+          "count": 2
+        }
+      ],
+      "best_match": "97e",
+      "best_decoded": "slo",
+      "score": 0.8
+    }
+  ],
+  "phrase_tests": [
+    {
+      "latin_phrase": "contra dolorem",
+      "meaning": "against pain",
+      "component_matches": [
+        {
+          "voynich": "ek1cA",
+          "decoded": "ontca",
+          "score": 0.7272727272727273
+        },
+        {
+          "voynich": "eoeham",
+          "decoded": "oaorem",
+          "score": 0.7692307692307693
+        }
+      ],
+      "average_score": 0.748
+    },
+    {
+      "latin_phrase": "in aqua",
+      "meaning": "in water",
+      "component_matches": [
+        {
+          "voynich": "kIn",
+          "decoded": "nIn",
+          "score": 0.8
+        },
+        {
+          "voynich": "o4o",
+          "decoded": "aqua",
+          "score": 1.0
+        }
+      ],
+      "average_score": 0.9
+    },
+    {
+      "latin_phrase": "cum vino",
+      "meaning": "with wine",
+      "component_matches": [
+        {
+          "voynich": "1cuam",
+          "decoded": "tcuem",
+          "score": 0.75
+        },
+        {
+          "voynich": "ye",
+          "decoded": "io",
+          "score": 0.6666666666666666
+        }
+      ],
+      "average_score": 0.708
+    },
+    {
+      "latin_phrase": "ad usum",
+      "meaning": "for use",
+      "component_matches": [
+        {
+          "voynich": "A8",
+          "decoded": "ad",
+          "score": 1.0
+        },
+        {
+          "voynich": "U9",
+          "decoded": "Us",
+          "score": 0.6666666666666666
+        }
+      ],
+      "average_score": 0.833
+    },
+    {
+      "latin_phrase": "pro febribus",
+      "meaning": "for fevers",
+      "component_matches": [
+        {
+          "voynich": "he",
+          "decoded": "ro",
+          "score": 0.8
+        },
+        {
+          "voynich": "2h29",
+          "decoded": "brbs",
+          "score": 0.6666666666666666
+        }
+      ],
+      "average_score": 0.733
+    },
+    {
+      "latin_phrase": "cum melle",
+      "meaning": "with honey",
+      "component_matches": [
+        {
+          "voynich": "1cuam",
+          "decoded": "tcuem",
+          "score": 0.75
+        },
+        {
+          "voynich": "ae7ap",
+          "decoded": "eolep",
+          "score": 0.6
+        }
+      ],
+      "average_score": 0.675
+    },
+    {
+      "latin_phrase": "in potu",
+      "meaning": "in drink",
+      "component_matches": [
+        {
+          "voynich": "kIn",
+          "decoded": "nIn",
+          "score": 0.8
+        },
+        {
+          "voynich": "oe1cu",
+          "decoded": "aotcu",
+          "score": 0.6666666666666666
+        }
+      ],
+      "average_score": 0.733
+    },
+    {
+      "latin_phrase": "pro oculis",
+      "meaning": "for eyes",
+      "component_matches": [
+        {
+          "voynich": "he",
+          "decoded": "ro",
+          "score": 0.8
+        },
+        {
+          "voynich": "e2c7ay9",
+          "decoded": "obcleis",
+          "score": 0.7692307692307693
+        }
+      ],
+      "average_score": 0.785
+    },
+    {
+      "latin_phrase": "ad stomachum",
+      "meaning": "for stomach",
+      "component_matches": [
+        {
+          "voynich": "A8",
+          "decoded": "ad",
+          "score": 1.0
+        },
+        {
+          "voynich": "91oCs",
+          "decoded": "stachx",
+          "score": 0.6666666666666666
+        }
+      ],
+      "average_score": 0.833
+    },
+    {
+      "latin_phrase": "contra venenum",
+      "meaning": "against poison",
+      "component_matches": [
+        {
+          "voynich": "ek1cA",
+          "decoded": "ontca",
+          "score": 0.7272727272727273
+        },
+        {
+          "voynich": "kaN",
+          "decoded": "nen",
+          "score": 0.6
+        }
+      ],
+      "average_score": 0.664
+    }
+  ],
+  "decoded_common_words": [
+    {
+      "voynich": "am",
+      "count": 739,
+      "decoded_simple": "em",
+      "decoded_expanded": "em",
+      "potential_matches": [
+        {
+          "word": "semen",
+          "score": 0.571
+        },
+        {
+          "word": "oleum",
+          "score": 0.571
+        },
+        {
+          "word": "gemini",
+          "score": 0.5
+        }
+      ],
+      "interpretation": "ACCUSATIVE FEM (-am)"
+    },
+    {
+      "voynich": "8am",
+      "count": 735,
+      "decoded_simple": "dem",
+      "decoded_expanded": "dem",
+      "potential_matches": [
+        {
+          "word": "semen",
+          "score": 0.5
+        },
+        {
+          "word": "oleum",
+          "score": 0.5
+        },
+        {
+          "word": "gemini",
+          "score": 0.444
+        }
+      ],
+      "interpretation": "PREPOSITION (de = \"of/from\") + ACCUSATIVE FEM (-am)"
+    },
+    {
+      "voynich": "oe",
+      "count": 725,
+      "decoded_simple": "ao",
+      "decoded_expanded": "ai",
+      "potential_matches": [
+        {
+          "word": "arbor",
+          "score": 0.571
+        }
+      ],
+      "interpretation": "DATIVE/ABLATIVE (-ae)"
+    },
+    {
+      "voynich": "ay",
+      "count": 503,
+      "decoded_simple": "ei",
+      "decoded_expanded": "ei",
+      "potential_matches": [
+        {
+          "word": "gemini",
+          "score": 0.5
+        }
+      ],
+      "interpretation": "GENITIVE (-i)"
+    },
+    {
+      "voynich": "oy",
+      "count": 445,
+      "decoded_simple": "ai",
+      "decoded_expanded": "ai",
+      "potential_matches": [
+        {
+          "word": "radix",
+          "score": 0.571
+        },
+        {
+          "word": "aries",
+          "score": 0.571
+        },
+        {
+          "word": "caulis",
+          "score": 0.5
+        }
+      ],
+      "interpretation": "Unknown structure"
+    },
+    {
+      "voynich": "s",
+      "count": 433,
+      "decoded_simple": "x",
+      "decoded_expanded": "s",
+      "potential_matches": [
+        {
+          "word": "nux",
+          "score": 0.5
+        }
+      ],
+      "interpretation": "Unknown structure"
+    },
+    {
+      "voynich": "1oe",
+      "count": 400,
+      "decoded_simple": "tao",
+      "decoded_expanded": "tai",
+      "potential_matches": [
+        {
+          "word": "arbor",
+          "score": 0.5
+        },
+        {
+          "word": "taurus",
+          "score": 0.444
+        }
+      ],
+      "interpretation": "VERB MARKER + DATIVE/ABLATIVE (-ae)"
+    },
+    {
+      "voynich": "1c9",
+      "count": 377,
+      "decoded_simple": "tcs",
+      "decoded_expanded": "tcus",
+      "potential_matches": [
+        {
+          "word": "succus",
+          "score": 0.444
+        },
+        {
+          "word": "stirps",
+          "score": 0.444
+        },
+        {
+          "word": "caulis",
+          "score": 0.444
+        }
+      ],
+      "interpretation": "VERB MARKER + NOMINATIVE (-us/-is)"
+    },
+    {
+      "voynich": "ae",
+      "count": 366,
+      "decoded_simple": "eo",
+      "decoded_expanded": "ei",
+      "potential_matches": [
+        {
+          "word": "leo",
+          "score": 0.8
+        }
+      ],
+      "interpretation": "DATIVE/ABLATIVE (-ae)"
+    },
+    {
+      "voynich": "1c89",
+      "count": 363,
+      "decoded_simple": "tcds",
+      "decoded_expanded": "tcorum",
+      "potential_matches": [],
+      "interpretation": "VERB MARKER + NOMINATIVE (-us/-is)"
+    },
+    {
+      "voynich": "9",
+      "count": 315,
+      "decoded_simple": "s",
+      "decoded_expanded": "us",
+      "potential_matches": [
+        {
+          "word": "sal",
+          "score": 0.5
+        }
+      ],
+      "interpretation": "NOMINATIVE (-us/-is)"
+    },
+    {
+      "voynich": "89",
+      "count": 299,
+      "decoded_simple": "ds",
+      "decoded_expanded": "orum",
+      "potential_matches": [],
+      "interpretation": "PREPOSITION (de = \"of/from\") + NOMINATIVE (-us/-is)"
+    },
+    {
+      "voynich": "8ay",
+      "count": 293,
+      "decoded_simple": "dei",
+      "decoded_expanded": "dei",
+      "potential_matches": [
+        {
+          "word": "radix",
+          "score": 0.5
+        },
+        {
+          "word": "gemini",
+          "score": 0.444
+        }
+      ],
+      "interpretation": "PREPOSITION (de = \"of/from\") + GENITIVE (-i)"
+    },
+    {
+      "voynich": "y",
+      "count": 278,
+      "decoded_simple": "i",
+      "decoded_expanded": "i",
+      "potential_matches": [],
+      "interpretation": "Unknown structure"
+    },
+    {
+      "voynich": "e",
+      "count": 270,
+      "decoded_simple": "o",
+      "decoded_expanded": "i",
+      "potential_matches": [
+        {
+          "word": "leo",
+          "score": 0.5
+        }
+      ],
+      "interpretation": "Unknown structure"
+    },
+    {
+      "voynich": "4ohan",
+      "count": 266,
+      "decoded_simple": "quaren",
+      "decoded_expanded": "quaren",
+      "potential_matches": [
+        {
+          "word": "aqua",
+          "score": 0.6
+        },
+        {
+          "word": "aquarius",
+          "score": 0.571
+        },
+        {
+          "word": "aries",
+          "score": 0.545
+        }
+      ],
+      "interpretation": "ARTICLE (qua-r/qua-n = \"the herb\") + ABLATIVE (-an/-um)"
+    },
+    {
+      "voynich": "4ohC9",
+      "count": 237,
+      "decoded_simple": "quarchs",
+      "decoded_expanded": "quarchus",
+      "potential_matches": [
+        {
+          "word": "aquarius",
+          "score": 0.667
+        },
+        {
+          "word": "aqua",
+          "score": 0.545
+        },
+        {
+          "word": "aries",
+          "score": 0.5
+        }
+      ],
+      "interpretation": "ARTICLE (qua-r/qua-n = \"the herb\") + NOMINATIVE (-us/-is)"
+    },
+    {
+      "voynich": "4oham",
+      "count": 235,
+      "decoded_simple": "quarem",
+      "decoded_expanded": "quarem",
+      "potential_matches": [
+        {
+          "word": "aqua",
+          "score": 0.6
+        },
+        {
+          "word": "aquarius",
+          "score": 0.571
+        },
+        {
+          "word": "aries",
+          "score": 0.545
+        }
+      ],
+      "interpretation": "ARTICLE (qua-r/qua-n = \"the herb\") + ACCUSATIVE FEM (-am)"
+    },
+    {
+      "voynich": "8ae",
+      "count": 223,
+      "decoded_simple": "deo",
+      "decoded_expanded": "dei",
+      "potential_matches": [
+        {
+          "word": "leo",
+          "score": 0.667
+        }
+      ],
+      "interpretation": "PREPOSITION (de = \"of/from\") + DATIVE/ABLATIVE (-ae)"
+    },
+    {
+      "voynich": "1oy",
+      "count": 222,
+      "decoded_simple": "tai",
+      "decoded_expanded": "tai",
+      "potential_matches": [
+        {
+          "word": "radix",
+          "score": 0.5
+        },
+        {
+          "word": "aries",
+          "score": 0.5
+        },
+        {
+          "word": "stirps",
+          "score": 0.444
+        }
+      ],
+      "interpretation": "VERB MARKER"
+    },
+    {
+      "voynich": "2c89",
+      "count": 218,
+      "decoded_simple": "bcds",
+      "decoded_expanded": "bcorum",
+      "potential_matches": [
+        {
+          "word": "bacca",
+          "score": 0.444
+        }
+      ],
+      "interpretation": "NOMINATIVE (-us/-is)"
+    },
+    {
+      "voynich": "2c9",
+      "count": 208,
+      "decoded_simple": "bcs",
+      "decoded_expanded": "bcus",
+      "potential_matches": [
+        {
+          "word": "bacca",
+          "score": 0.5
+        },
+        {
+          "word": "succus",
+          "score": 0.444
+        },
+        {
+          "word": "caulis",
+          "score": 0.444
+        }
+      ],
+      "interpretation": "NOMINATIVE (-us/-is)"
+    },
+    {
+      "voynich": "o",
+      "count": 198,
+      "decoded_simple": "a",
+      "decoded_expanded": "a",
+      "potential_matches": [
+        {
+          "word": "sal",
+          "score": 0.5
+        }
+      ],
+      "interpretation": "Unknown structure"
+    },
+    {
+      "voynich": "oham",
+      "count": 196,
+      "decoded_simple": "arem",
+      "decoded_expanded": "arem",
+      "potential_matches": [
+        {
+          "word": "aries",
+          "score": 0.667
+        },
+        {
+          "word": "semen",
+          "score": 0.444
+        },
+        {
+          "word": "arbor",
+          "score": 0.444
+        }
+      ],
+      "interpretation": "ACCUSATIVE FEM (-am)"
+    },
+    {
+      "voynich": "an",
+      "count": 192,
+      "decoded_simple": "en",
+      "decoded_expanded": "en",
+      "potential_matches": [
+        {
+          "word": "semen",
+          "score": 0.571
+        },
+        {
+          "word": "gemini",
+          "score": 0.5
+        }
+      ],
+      "interpretation": "ABLATIVE (-an/-um)"
+    },
+    {
+      "voynich": "8an",
+      "count": 191,
+      "decoded_simple": "den",
+      "decoded_expanded": "den",
+      "potential_matches": [
+        {
+          "word": "semen",
+          "score": 0.5
+        },
+        {
+          "word": "gemini",
+          "score": 0.444
+        }
+      ],
+      "interpretation": "PREPOSITION (de = \"of/from\") + ABLATIVE (-an/-um)"
+    },
+    {
+      "voynich": "4ohae",
+      "count": 190,
+      "decoded_simple": "quareo",
+      "decoded_expanded": "quarei",
+      "potential_matches": [
+        {
+          "word": "aqua",
+          "score": 0.6
+        },
+        {
+          "word": "aquarius",
+          "score": 0.571
+        },
+        {
+          "word": "arbor",
+          "score": 0.545
+        }
+      ],
+      "interpretation": "ARTICLE (qua-r/qua-n = \"the herb\") + DATIVE/ABLATIVE (-ae)"
+    },
+    {
+      "voynich": "19",
+      "count": 189,
+      "decoded_simple": "ts",
+      "decoded_expanded": "tus",
+      "potential_matches": [
+        {
+          "word": "stirps",
+          "score": 0.5
+        },
+        {
+          "word": "taurus",
+          "score": 0.5
+        },
+        {
+          "word": "fructus",
+          "score": 0.444
+        }
+      ],
+      "interpretation": "VERB MARKER + NOMINATIVE (-us/-is)"
+    },
+    {
+      "voynich": "1c79",
+      "count": 176,
+      "decoded_simple": "tcls",
+      "decoded_expanded": "tclus",
+      "potential_matches": [
+        {
+          "word": "caulis",
+          "score": 0.6
+        },
+        {
+          "word": "flos",
+          "score": 0.5
+        }
+      ],
+      "interpretation": "VERB MARKER + NOMINATIVE (-us/-is)"
+    },
+    {
+      "voynich": "1coe",
+      "count": 172,
+      "decoded_simple": "tcao",
+      "decoded_expanded": "tcai",
+      "potential_matches": [
+        {
+          "word": "arbor",
+          "score": 0.444
+        },
+        {
+          "word": "bacca",
+          "score": 0.444
+        }
+      ],
+      "interpretation": "VERB MARKER + DATIVE/ABLATIVE (-ae)"
+    }
+  ],
+  "zodiac_validation": [
+    {
+      "voynich": "oh9",
+      "decoded_prev": "ars",
+      "decoded_new": "ars",
+      "target_zodiac": "aries",
+      "prev_score": 0.85,
+      "new_score": 0.75,
+      "validated": true
+    },
+    {
+      "voynich": "okco",
+      "decoded_prev": "anca",
+      "decoded_new": "anca",
+      "target_zodiac": "cancer",
+      "prev_score": 0.63,
+      "new_score": 0.6,
+      "validated": true
+    },
+    {
+      "voynich": "7am",
+      "decoded_prev": "lem",
+      "decoded_new": "lem",
+      "target_zodiac": "leo",
+      "prev_score": 0.67,
+      "new_score": 0.667,
+      "validated": true
+    },
+    {
+      "voynich": "1coh9",
+      "decoded_prev": "tcars",
+      "decoded_new": "tcars",
+      "target_zodiac": "taurus",
+      "prev_score": 0.6,
+      "new_score": 0.727,
+      "validated": true
+    },
+    {
+      "voynich": "ohoe9",
+      "decoded_prev": "arais",
+      "decoded_new": "araos",
+      "target_zodiac": "aries",
+      "prev_score": 0.75,
+      "new_score": 0.6,
+      "validated": false
+    }
+  ],
+  "optimized_phonetic_map": {
+    "o": "a",
+    "a": "e",
+    "e": "o",
+    "y": "i",
+    "9": "s",
+    "8": "d",
+    "1": "t",
+    "2": "b",
+    "c": "c",
+    "h": "r",
+    "k": "n",
+    "4": "qu",
+    "m": "m",
+    "C": "ch",
+    "H": "k",
+    "7": "l",
+    "s": "x",
+    "n": "n",
+    "p": "p",
+    "K": "c",
+    "g": "g",
+    "f": "f",
+    "z": "z",
+    "A": "a"
+  },
+  "expanded_phonetic_map": {
+    "o": "a",
+    "a": "e",
+    "e": "i",
+    "y": "i",
+    "9": "us",
+    "89": "orum",
+    "8": "d",
+    "1": "t",
+    "2": "b",
+    "c": "c",
+    "h": "r",
+    "k": "n",
+    "4": "qu",
+    "m": "m",
+    "C": "ch",
+    "H": "k",
+    "7": "l",
+    "s": "s",
+    "n": "n",
+    "p": "p",
+    "g": "g",
+    "f": "f"
+  },
+  "overall_verdict": {
+    "latin_abbreviation_likely": true,
+    "confidence": 0.667,
+    "evidence_for": [
+      "'-9' ending at 37.8% matches medieval Latin -us/-is abbreviation mark",
+      "Medieval manuscripts used '9'-like mark (ꝰ) for -us/-is endings - documented fact",
+      "IC (0.077) matches Latin (0.0725) better than any other language tested",
+      "Zodiac names decode to Latin: oh9→ars≈aries (85%), 7am→lem≈leo (67%)",
+      "Northern Italian origin (Veneto) - Latin was scholarly language",
+      "No vowel harmony - rules out Turkish/Hungarian, consistent with Latin"
+    ],
+    "evidence_against": [
+      "Common words don't produce readable Latin text",
+      "Phonetic mappings remain uncertain",
+      "Plant names don't clearly match Latin botanical terms"
+    ],
+    "verdict": "PLAUSIBLE - Latin abbreviation system is the most likely explanation"
+  }
+}

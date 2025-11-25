@@ -1,0 +1,6768 @@
+{
+  "statistics": {
+    "total_sentences": 881,
+    "avg_sentence_length": 10.73,
+    "boundary_words": [
+      "aiin",
+      "ar",
+      "dain",
+      "daiin",
+      "y",
+      "or",
+      "ol",
+      "dar",
+      "dy"
+    ],
+    "candidates_evaluated": 112,
+    "high_confidence": 35,
+    "medium_confidence": 40
+  },
+  "svo_middle_words": [
+    {
+      "word": "okeol",
+      "decoded": "anial",
+      "avg_position": 0.5,
+      "occurrences": 7,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "odaiin",
+      "decoded": "adeiin",
+      "avg_position": 0.501,
+      "occurrences": 21,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "shaiin",
+      "decoded": "beiin",
+      "avg_position": 0.502,
+      "occurrences": 14,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "char",
+      "decoded": "ces",
+      "avg_position": 0.498,
+      "occurrences": 28,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "otor",
+      "decoded": "acas",
+      "avg_position": 0.502,
+      "occurrences": 14,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "otam",
+      "decoded": "acem",
+      "avg_position": 0.502,
+      "occurrences": 12,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "otey",
+      "decoded": "acir",
+      "avg_position": 0.502,
+      "occurrences": 5,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "dor",
+      "decoded": "das",
+      "avg_position": 0.503,
+      "occurrences": 40,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "oteol",
+      "decoded": "acial",
+      "avg_position": 0.496,
+      "occurrences": 12,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "chol",
+      "decoded": "cal",
+      "avg_position": 0.496,
+      "occurrences": 213,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "do",
+      "decoded": "da",
+      "avg_position": 0.496,
+      "occurrences": 11,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "chotaiin",
+      "decoded": "caceiin",
+      "avg_position": 0.504,
+      "occurrences": 6,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "ytal",
+      "decoded": "rcel",
+      "avg_position": 0.504,
+      "occurrences": 5,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "she",
+      "decoded": "bi",
+      "avg_position": 0.495,
+      "occurrences": 15,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "okar",
+      "decoded": "anes",
+      "avg_position": 0.505,
+      "occurrences": 24,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "shdy",
+      "decoded": "bdr",
+      "avg_position": 0.505,
+      "occurrences": 13,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "okchey",
+      "decoded": "ancir",
+      "avg_position": 0.494,
+      "occurrences": 13,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "qo",
+      "decoded": "qua",
+      "avg_position": 0.494,
+      "occurrences": 9,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "okchor",
+      "decoded": "ancas",
+      "avg_position": 0.507,
+      "occurrences": 12,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "okal",
+      "decoded": "anel",
+      "avg_position": 0.493,
+      "occurrences": 29,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "qokaiin",
+      "decoded": "quaneiin",
+      "avg_position": 0.507,
+      "occurrences": 28,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "sar",
+      "decoded": "xes",
+      "avg_position": 0.493,
+      "occurrences": 10,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "sheaiin",
+      "decoded": "bieiin",
+      "avg_position": 0.507,
+      "occurrences": 7,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "dair",
+      "decoded": "deis",
+      "avg_position": 0.508,
+      "occurrences": 27,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "ochor",
+      "decoded": "acas",
+      "avg_position": 0.508,
+      "occurrences": 5,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "qoty",
+      "decoded": "quacr",
+      "avg_position": 0.508,
+      "occurrences": 24,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "cthal",
+      "decoded": "hcel",
+      "avg_position": 0.491,
+      "occurrences": 6,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "r",
+      "decoded": "s",
+      "avg_position": 0.491,
+      "occurrences": 31,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "ckhy",
+      "decoded": "hnrr",
+      "avg_position": 0.49,
+      "occurrences": 28,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "sheol",
+      "decoded": "bial",
+      "avg_position": 0.51,
+      "occurrences": 9,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "tchody",
+      "decoded": "ccadr",
+      "avg_position": 0.49,
+      "occurrences": 5,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "kchdy",
+      "decoded": "ncdr",
+      "avg_position": 0.49,
+      "occurrences": 10,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "chain",
+      "decoded": "cein",
+      "avg_position": 0.49,
+      "occurrences": 9,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "shos",
+      "decoded": "bax",
+      "avg_position": 0.489,
+      "occurrences": 5,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "sheey",
+      "decoded": "biir",
+      "avg_position": 0.511,
+      "occurrences": 22,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "yky",
+      "decoded": "rnr",
+      "avg_position": 0.512,
+      "occurrences": 12,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "okchy",
+      "decoded": "ancr",
+      "avg_position": 0.512,
+      "occurrences": 14,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "ctho",
+      "decoded": "hca",
+      "avg_position": 0.512,
+      "occurrences": 12,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "g",
+      "decoded": "g",
+      "avg_position": 0.512,
+      "occurrences": 8,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "qokeedy",
+      "decoded": "quaniidr",
+      "avg_position": 0.512,
+      "occurrences": 8,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "d",
+      "decoded": "d",
+      "avg_position": 0.487,
+      "occurrences": 23,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "chety",
+      "decoded": "cicr",
+      "avg_position": 0.513,
+      "occurrences": 8,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "ykor",
+      "decoded": "rnas",
+      "avg_position": 0.487,
+      "occurrences": 7,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "ykedy",
+      "decoded": "rnidr",
+      "avg_position": 0.513,
+      "occurrences": 7,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "okol",
+      "decoded": "anal",
+      "avg_position": 0.486,
+      "occurrences": 22,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "cthol",
+      "decoded": "hcal",
+      "avg_position": 0.514,
+      "occurrences": 44,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "chody",
+      "decoded": "cadr",
+      "avg_position": 0.514,
+      "occurrences": 34,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "chcthy",
+      "decoded": "chcr",
+      "avg_position": 0.486,
+      "occurrences": 19,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "otol",
+      "decoded": "acal",
+      "avg_position": 0.515,
+      "occurrences": 28,
+      "position_category": "verb_zone"
+    },
+    {
+      "word": "qoteey",
+      "decoded": "quaciir",
+      "avg_position": 0.485,
+      "occurrences": 8,
+      "position_category": "verb_zone"
+    }
+  ],
+  "pre_boundary_words": [
+    [
+      "chol",
+      45
+    ],
+    [
+      "s",
+      24
+    ],
+    [
+      "chor",
+      17
+    ],
+    [
+      "shol",
+      14
+    ],
+    [
+      "cthy",
+      13
+    ],
+    [
+      "o",
+      8
+    ],
+    [
+      "cthol",
+      8
+    ],
+    [
+      "dol",
+      8
+    ],
+    [
+      "chy",
+      8
+    ],
+    [
+      "r",
+      8
+    ],
+    [
+      "oky",
+      6
+    ],
+    [
+      "sho",
+      6
+    ],
+    [
+      "otol",
+      6
+    ],
+    [
+      "or",
+      6
+    ],
+    [
+      "kar",
+      6
+    ],
+    [
+      "daiin",
+      6
+    ],
+    [
+      "otaiin",
+      5
+    ],
+    [
+      "d",
+      5
+    ],
+    [
+      "shor",
+      5
+    ],
+    [
+      "cheey",
+      5
+    ],
+    [
+      "dor",
+      5
+    ],
+    [
+      "shy",
+      5
+    ],
+    [
+      "saiin",
+      5
+    ],
+    [
+      "ol",
+      5
+    ],
+    [
+      "dain",
+      5
+    ],
+    [
+      "ykar",
+      5
+    ],
+    [
+      "okar",
+      5
+    ],
+    [
+      "kaiin",
+      4
+    ],
+    [
+      "char",
+      4
+    ],
+    [
+      "ckhy",
+      4
+    ]
+  ],
+  "post_boundary_words": [
+    [
+      "daiin",
+      8
+    ],
+    [
+      "chol",
+      5
+    ],
+    [
+      "shol",
+      4
+    ],
+    [
+      "chey",
+      4
+    ],
+    [
+      "dal",
+      4
+    ],
+    [
+      "shor",
+      4
+    ],
+    [
+      "chor",
+      4
+    ],
+    [
+      "ol",
+      4
+    ],
+    [
+      "dol",
+      4
+    ],
+    [
+      "aiin",
+      4
+    ],
+    [
+      "s",
+      3
+    ],
+    [
+      "cheey",
+      3
+    ],
+    [
+      "sho",
+      3
+    ],
+    [
+      "chy",
+      3
+    ],
+    [
+      "dy",
+      3
+    ],
+    [
+      "dain",
+      3
+    ],
+    [
+      "cthor",
+      3
+    ],
+    [
+      "chear",
+      3
+    ],
+    [
+      "okaiin",
+      3
+    ],
+    [
+      "dam",
+      3
+    ],
+    [
+      "ar",
+      3
+    ],
+    [
+      "al",
+      3
+    ],
+    [
+      "y",
+      3
+    ],
+    [
+      "sor",
+      2
+    ],
+    [
+      "ckhy",
+      2
+    ],
+    [
+      "qotchy",
+      2
+    ],
+    [
+      "tchol",
+      2
+    ],
+    [
+      "chcthy",
+      2
+    ],
+    [
+      "qokcho",
+      2
+    ],
+    [
+      "qokor",
+      2
+    ]
+  ],
+  "post_noun_words": [
+    [
+      "daiin",
+      178
+    ],
+    [
+      "chol",
+      119
+    ],
+    [
+      "chor",
+      74
+    ],
+    [
+      "or",
+      52
+    ],
+    [
+      "shol",
+      48
+    ],
+    [
+      "cthy",
+      46
+    ],
+    [
+      "chy",
+      41
+    ],
+    [
+      "dar",
+      38
+    ],
+    [
+      "dy",
+      37
+    ],
+    [
+      "s",
+      35
+    ],
+    [
+      "shor",
+      34
+    ],
+    [
+      "ol",
+      33
+    ],
+    [
+      "cthol",
+      32
+    ],
+    [
+      "sho",
+      30
+    ],
+    [
+      "dain",
+      30
+    ],
+    [
+      "chey",
+      29
+    ],
+    [
+      "shy",
+      28
+    ],
+    [
+      "aiin",
+      26
+    ],
+    [
+      "ar",
+      25
+    ],
+    [
+      "y",
+      24
+    ],
+    [
+      "cthor",
+      22
+    ],
+    [
+      "chedy",
+      22
+    ],
+    [
+      "dal",
+      20
+    ],
+    [
+      "chaiin",
+      19
+    ],
+    [
+      "qotchy",
+      18
+    ],
+    [
+      "dam",
+      17
+    ],
+    [
+      "okaiin",
+      17
+    ],
+    [
+      "chdy",
+      16
+    ],
+    [
+      "shey",
+      16
+    ],
+    [
+      "dol",
+      16
+    ]
+  ],
+  "sentence_initial": [
+    [
+      "daiin",
+      22
+    ],
+    [
+      "aiin",
+      14
+    ],
+    [
+      "chor",
+      11
+    ],
+    [
+      "chol",
+      11
+    ],
+    [
+      "or",
+      11
+    ],
+    [
+      "sho",
+      10
+    ],
+    [
+      "cthy",
+      9
+    ],
+    [
+      "okaiin",
+      9
+    ],
+    [
+      "y",
+      8
+    ],
+    [
+      "dain",
+      8
+    ],
+    [
+      "chy",
+      8
+    ],
+    [
+      "s",
+      7
+    ],
+    [
+      "ol",
+      7
+    ],
+    [
+      "otaiin",
+      6
+    ],
+    [
+      "cthor",
+      6
+    ],
+    [
+      "dal",
+      6
+    ],
+    [
+      "chckhy",
+      6
+    ],
+    [
+      "dar",
+      6
+    ],
+    [
+      "qotchy",
+      6
+    ],
+    [
+      "dor",
+      5
+    ],
+    [
+      "chey",
+      5
+    ],
+    [
+      "ar",
+      5
+    ],
+    [
+      "shol",
+      5
+    ],
+    [
+      "chedy",
+      5
+    ],
+    [
+      "ykaiin",
+      4
+    ],
+    [
+      "al",
+      4
+    ],
+    [
+      "cthol",
+      4
+    ],
+    [
+      "cheol",
+      4
+    ],
+    [
+      "qokeey",
+      4
+    ],
+    [
+      "qokchy",
+      4
+    ]
+  ],
+  "verb_endings": [
+    [
+      "in",
+      609
+    ],
+    [
+      "dy",
+      554
+    ],
+    [
+      "hy",
+      545
+    ],
+    [
+      "ol",
+      529
+    ],
+    [
+      "or",
+      431
+    ],
+    [
+      "ey",
+      347
+    ],
+    [
+      "ar",
+      224
+    ],
+    [
+      "al",
+      146
+    ],
+    [
+      "ho",
+      132
+    ],
+    [
+      "ky",
+      96
+    ],
+    [
+      "am",
+      95
+    ],
+    [
+      "ty",
+      82
+    ],
+    [
+      "ir",
+      69
+    ],
+    [
+      "om",
+      46
+    ],
+    [
+      "od",
+      46
+    ],
+    [
+      "os",
+      43
+    ],
+    [
+      "ly",
+      41
+    ],
+    [
+      "es",
+      40
+    ],
+    [
+      "eo",
+      36
+    ],
+    [
+      "an",
+      30
+    ],
+    [
+      "oy",
+      28
+    ],
+    [
+      "ry",
+      27
+    ],
+    [
+      "ls",
+      18
+    ],
+    [
+      "he",
+      16
+    ],
+    [
+      "hd",
+      13
+    ],
+    [
+      "ed",
+      10
+    ],
+    [
+      "py",
+      9
+    ],
+    [
+      "ot",
+      8
+    ],
+    [
+      "ld",
+      8
+    ],
+    [
+      "yd",
+      7
+    ]
+  ],
+  "top_candidates": [
+    {
+      "voynich": "chol",
+      "decoded": "cal",
+      "confidence": 1.0,
+      "evidence": [
+        "SVO middle position: 50%",
+        "Before boundary 45x (sentence-final verb position)",
+        "After boundary 5x",
+        "Follows nouns 119x (verb position in SVO)",
+        "Before preposition 28x",
+        "Sentence-initial 11x (imperative?)",
+        "Second position 21x",
+        "Phonetic match: 'cola' (strain) 50%",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "oiin",
+            "chol",
+            "odaiin",
+            "chodain"
+          ],
+          "position": "initial",
+          "rel_position": 0.11
+        },
+        {
+          "context": [
+            "shey",
+            "kol",
+            "chol",
+            "chol",
+            "kor"
+          ],
+          "position": "initial",
+          "rel_position": 0.16
+        },
+        {
+          "context": [
+            "kol",
+            "chol",
+            "chol",
+            "kor",
+            "chal"
+          ],
+          "position": "initial",
+          "rel_position": 0.19
+        },
+        {
+          "context": [
+            "chal",
+            "sho",
+            "chol",
+            "shodan",
+            "kshy"
+          ],
+          "position": "middle",
+          "rel_position": 0.31
+        },
+        {
+          "context": [
+            "shaiin",
+            "shokcheey",
+            "chol",
+            "tshodeesy",
+            "shey"
+          ],
+          "position": "middle",
+          "rel_position": 0.25
+        },
+        {
+          "context": [
+            "d",
+            "doin",
+            "chol",
+            "dain"
+          ],
+          "position": "final",
+          "rel_position": 0.92
+        },
+        {
+          "context": [
+            "okchey",
+            "kokaiin",
+            "chol",
+            "kchy",
+            "dal"
+          ],
+          "position": "initial",
+          "rel_position": 0.11
+        },
+        {
+          "context": [
+            "chtor",
+            "eo",
+            "chol",
+            "chok",
+            "choty"
+          ],
+          "position": "final",
+          "rel_position": 0.83
+        },
+        {
+          "context": [
+            "shoshy",
+            "choky",
+            "chol",
+            "cthol",
+            "shol"
+          ],
+          "position": "middle",
+          "rel_position": 0.74
+        },
+        {
+          "context": [
+            "kol",
+            "kechy",
+            "chol",
+            "kychol",
+            "cthol"
+          ],
+          "position": "middle",
+          "rel_position": 0.72
+        }
+      ],
+      "pre_boundary_count": 45,
+      "post_noun_count": 119
+    },
+    {
+      "voynich": "sho",
+      "decoded": "ba",
+      "confidence": 1.0,
+      "evidence": [
+        "SVO middle position: 46%",
+        "Before boundary 6x",
+        "Follows nouns 30x (verb position in SVO)",
+        "Before preposition 11x",
+        "Sentence-initial 10x (imperative?)",
+        "Second position 12x",
+        "Verb-like length (3 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "kor",
+            "chal",
+            "sho",
+            "chol",
+            "shodan"
+          ],
+          "position": "middle",
+          "rel_position": 0.28
+        },
+        {
+          "context": [
+            "dor",
+            "chodaiin",
+            "sho",
+            "kchom",
+            "ycho"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "chyky",
+            "sal",
+            "sho",
+            "ykeey",
+            "chey"
+          ],
+          "position": "final",
+          "rel_position": 0.9
+        },
+        {
+          "context": [
+            "kcho",
+            "kchy",
+            "sho",
+            "shol",
+            "qotcho"
+          ],
+          "position": "middle",
+          "rel_position": 0.44
+        },
+        {
+          "context": [
+            "sho",
+            "cholo",
+            "cheor"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "oky",
+            "damo",
+            "sho",
+            "or"
+          ],
+          "position": "final",
+          "rel_position": 0.96
+        },
+        {
+          "context": [
+            "chol",
+            "okary",
+            "sho",
+            "shockho",
+            "ckhy"
+          ],
+          "position": "initial",
+          "rel_position": 0.18
+        },
+        {
+          "context": [
+            "sheo",
+            "cheorycholdy",
+            "sho",
+            "sho",
+            "chaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        },
+        {
+          "context": [
+            "cheorycholdy",
+            "sho",
+            "sho",
+            "chaiin",
+            "shaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.7
+        },
+        {
+          "context": [
+            "chor",
+            "cthol",
+            "sho",
+            "otor",
+            "cthory"
+          ],
+          "position": "middle",
+          "rel_position": 0.72
+        }
+      ],
+      "pre_boundary_count": 6,
+      "post_noun_count": 30
+    },
+    {
+      "voynich": "shol",
+      "decoded": "bal",
+      "confidence": 1.0,
+      "evidence": [
+        "SVO middle position: 48%",
+        "Before boundary 14x (sentence-final verb position)",
+        "Follows nouns 48x (verb position in SVO)",
+        "Before preposition 19x",
+        "Sentence-initial 5x (imperative?)",
+        "Phonetic match: 'valet' (is effective) 40%",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "ar",
+            "ataiin",
+            "shol",
+            "shory",
+            "cthres"
+          ],
+          "position": "middle",
+          "rel_position": 0.57
+        },
+        {
+          "context": [
+            "o",
+            "y",
+            "shol",
+            "cphoy",
+            "oydar"
+          ],
+          "position": "initial",
+          "rel_position": 0.19
+        },
+        {
+          "context": [
+            "daicthy",
+            "yto",
+            "shol",
+            "she",
+            "kodshey"
+          ],
+          "position": "final",
+          "rel_position": 0.84
+        },
+        {
+          "context": [
+            "chokody",
+            "potoy",
+            "shol",
+            "dair",
+            "cphoaldar"
+          ],
+          "position": "middle",
+          "rel_position": 0.51
+        },
+        {
+          "context": [
+            "chol",
+            "cthol",
+            "shol",
+            "okaldolchey",
+            "chodo"
+          ],
+          "position": "middle",
+          "rel_position": 0.8
+        },
+        {
+          "context": [
+            "lchody",
+            "okol",
+            "shol",
+            "kol",
+            "kechy"
+          ],
+          "position": "middle",
+          "rel_position": 0.56
+        },
+        {
+          "context": [
+            "qoy",
+            "s",
+            "shol",
+            "fodanyksh",
+            "olsheey"
+          ],
+          "position": "middle",
+          "rel_position": 0.76
+        },
+        {
+          "context": [
+            "qoky",
+            "cholaiin",
+            "shol",
+            "sheky",
+            "daiincthey"
+          ],
+          "position": "initial",
+          "rel_position": 0.1
+        },
+        {
+          "context": [
+            "kchy",
+            "sho",
+            "shol",
+            "qotcho",
+            "loeees"
+          ],
+          "position": "middle",
+          "rel_position": 0.56
+        },
+        {
+          "context": [
+            "cthom",
+            "pcheol",
+            "shol",
+            "sols",
+            "sheol"
+          ],
+          "position": "middle",
+          "rel_position": 0.26
+        }
+      ],
+      "pre_boundary_count": 14,
+      "post_noun_count": 48
+    },
+    {
+      "voynich": "chedy",
+      "decoded": "cidr",
+      "confidence": 0.95,
+      "evidence": [
+        "SVO middle position: 52%",
+        "Follows nouns 22x (verb position in SVO)",
+        "Before preposition 16x",
+        "Sentence-initial 5x (imperative?)",
+        "Verb-like length (5 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "adeeodyykecthhy",
+            "chedy",
+            "ytedy",
+            "dychecthedy"
+          ],
+          "position": "initial",
+          "rel_position": 0.03
+        },
+        {
+          "context": [
+            "aree",
+            "alys",
+            "chedy",
+            "pchdar",
+            "opar"
+          ],
+          "position": "middle",
+          "rel_position": 0.62
+        },
+        {
+          "context": [
+            "ckhdy",
+            "odar",
+            "chedy",
+            "ytedy",
+            "okchdy"
+          ],
+          "position": "middle",
+          "rel_position": 0.36
+        },
+        {
+          "context": [
+            "chedy",
+            "sches",
+            "or"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "qotedy",
+            "chepar",
+            "chedy",
+            "r",
+            "aiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.75
+        },
+        {
+          "context": [
+            "qokedy",
+            "ykeedy",
+            "chedy",
+            "ldy",
+            "shedy"
+          ],
+          "position": "middle",
+          "rel_position": 0.27
+        },
+        {
+          "context": [
+            "chedy",
+            "daiin",
+            "okeedy"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "ckheos",
+            "chedy",
+            "okeey",
+            "qoear"
+          ],
+          "position": "middle",
+          "rel_position": 0.2
+        },
+        {
+          "context": [
+            "fcho",
+            "tchey",
+            "chedy",
+            "otol",
+            "dol"
+          ],
+          "position": "middle",
+          "rel_position": 0.4
+        },
+        {
+          "context": [
+            "olokes",
+            "arykeedl",
+            "chedy",
+            "otey",
+            "okaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.41
+        }
+      ],
+      "pre_boundary_count": 4,
+      "post_noun_count": 22
+    },
+    {
+      "voynich": "chor",
+      "decoded": "cas",
+      "confidence": 0.95,
+      "evidence": [
+        "Before boundary 17x (sentence-final verb position)",
+        "Follows nouns 74x (verb position in SVO)",
+        "Before preposition 19x",
+        "Sentence-initial 11x (imperative?)",
+        "Second position 21x",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "chor",
+            "kos",
+            "daiin"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "shckhey",
+            "ckeor",
+            "chor",
+            "shey",
+            "kol"
+          ],
+          "position": "initial",
+          "rel_position": 0.06
+        },
+        {
+          "context": [
+            "dlocta",
+            "shok",
+            "chor",
+            "chey",
+            "dain"
+          ],
+          "position": "final",
+          "rel_position": 0.83
+        },
+        {
+          "context": [
+            "okol",
+            "chy",
+            "chor",
+            "cthor",
+            "yor"
+          ],
+          "position": "middle",
+          "rel_position": 0.63
+        },
+        {
+          "context": [
+            "otchy",
+            "chor",
+            "lshy",
+            "chol"
+          ],
+          "position": "initial",
+          "rel_position": 0.17
+        },
+        {
+          "context": [
+            "dor",
+            "chol",
+            "chor",
+            "chol",
+            "keol"
+          ],
+          "position": "middle",
+          "rel_position": 0.22
+        },
+        {
+          "context": [
+            "cheaiin",
+            "chokoishe",
+            "chor",
+            "cheol",
+            "chol"
+          ],
+          "position": "middle",
+          "rel_position": 0.67
+        },
+        {
+          "context": [
+            "daimm",
+            "ycheor",
+            "chor",
+            "dam",
+            "qotcham"
+          ],
+          "position": "middle",
+          "rel_position": 0.46
+        },
+        {
+          "context": [
+            "cthy",
+            "schey",
+            "chor",
+            "chal",
+            "cham"
+          ],
+          "position": "initial",
+          "rel_position": 0.07
+        },
+        {
+          "context": [
+            "cthol",
+            "ychtaiin",
+            "chor",
+            "cthom",
+            "otal"
+          ],
+          "position": "middle",
+          "rel_position": 0.46
+        }
+      ],
+      "pre_boundary_count": 17,
+      "post_noun_count": 74
+    },
+    {
+      "voynich": "dor",
+      "decoded": "das",
+      "confidence": 0.93,
+      "evidence": [
+        "SVO middle position: 50%",
+        "Before boundary 5x",
+        "Follows nouns 16x",
+        "Sentence-initial 5x (imperative?)",
+        "Phonetic match: 'datur' (is given) 40%",
+        "Verb-like length (3 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "kshy",
+            "kchy",
+            "dor",
+            "chodaiin",
+            "sho"
+          ],
+          "position": "middle",
+          "rel_position": 0.44
+        },
+        {
+          "context": [
+            "chckhoys",
+            "shey",
+            "dor",
+            "chol",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.82
+        },
+        {
+          "context": [
+            "dor",
+            "chol",
+            "chor"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "kchos",
+            "chy",
+            "dor",
+            "dchor",
+            "choldar"
+          ],
+          "position": "middle",
+          "rel_position": 0.64
+        },
+        {
+          "context": [
+            "ky",
+            "ty",
+            "dor",
+            "cheey",
+            "ol"
+          ],
+          "position": "final",
+          "rel_position": 0.86
+        },
+        {
+          "context": [
+            "shotchodol",
+            "dol",
+            "dor",
+            "aiin"
+          ],
+          "position": "final",
+          "rel_position": 0.96
+        },
+        {
+          "context": [
+            "daiir",
+            "chokchy",
+            "dor",
+            "deol",
+            "dydol"
+          ],
+          "position": "middle",
+          "rel_position": 0.57
+        },
+        {
+          "context": [
+            "chol",
+            "cthy",
+            "dor",
+            "ykychy",
+            "choty"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "ycheor",
+            "ksho",
+            "dor",
+            "cthey",
+            "schold"
+          ],
+          "position": "final",
+          "rel_position": 0.82
+        },
+        {
+          "context": [
+            "tchor",
+            "dor",
+            "daiin",
+            "qotchol"
+          ],
+          "position": "initial",
+          "rel_position": 0.08
+        }
+      ],
+      "pre_boundary_count": 5,
+      "post_noun_count": 16
+    },
+    {
+      "voynich": "cthy",
+      "decoded": "hcr",
+      "confidence": 0.85,
+      "evidence": [
+        "Before boundary 13x (sentence-final verb position)",
+        "Follows nouns 46x (verb position in SVO)",
+        "Before preposition 23x",
+        "Sentence-initial 9x (imperative?)",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "okain",
+            "dan",
+            "cthy",
+            "kod",
+            "daiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.78
+        },
+        {
+          "context": [
+            "pshol",
+            "dydyd",
+            "cthy",
+            "daicthy",
+            "yto"
+          ],
+          "position": "middle",
+          "rel_position": 0.75
+        },
+        {
+          "context": [
+            "shody",
+            "koshey",
+            "cthy",
+            "okchey",
+            "keey"
+          ],
+          "position": "middle",
+          "rel_position": 0.44
+        },
+        {
+          "context": [
+            "ckhy",
+            "shydksheey",
+            "cthy",
+            "kotchody",
+            "dal"
+          ],
+          "position": "middle",
+          "rel_position": 0.26
+        },
+        {
+          "context": [
+            "lol",
+            "chy",
+            "cthy",
+            "qo",
+            "ol"
+          ],
+          "position": "final",
+          "rel_position": 0.94
+        },
+        {
+          "context": [
+            "dorchorychkar",
+            "sshor",
+            "cthy",
+            "cth",
+            "qotaiincthey"
+          ],
+          "position": "initial",
+          "rel_position": 0.16
+        },
+        {
+          "context": [
+            "sorytoldydchol",
+            "dchy",
+            "cthy",
+            "shor",
+            "ckhy"
+          ],
+          "position": "middle",
+          "rel_position": 0.56
+        },
+        {
+          "context": [
+            "cthy",
+            "schey",
+            "chor"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "qoteol",
+            "qosaiinchor",
+            "cthy",
+            "ycheor",
+            "chol"
+          ],
+          "position": "middle",
+          "rel_position": 0.45
+        },
+        {
+          "context": [
+            "cthodoaly",
+            "chor",
+            "cthy",
+            "ochor",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.9
+        }
+      ],
+      "pre_boundary_count": 13,
+      "post_noun_count": 46
+    },
+    {
+      "voynich": "cthol",
+      "decoded": "hcal",
+      "confidence": 0.8,
+      "evidence": [
+        "SVO middle position: 51%",
+        "Before boundary 8x",
+        "Follows nouns 32x (verb position in SVO)",
+        "Verb-like length (5 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "far",
+            "cthol",
+            "daiin",
+            "ctholdar"
+          ],
+          "position": "initial",
+          "rel_position": 0.14
+        },
+        {
+          "context": [
+            "choky",
+            "chol",
+            "cthol",
+            "shol",
+            "okaldolchey"
+          ],
+          "position": "middle",
+          "rel_position": 0.77
+        },
+        {
+          "context": [
+            "chol",
+            "kychol",
+            "cthol",
+            "chody",
+            "chol"
+          ],
+          "position": "final",
+          "rel_position": 0.83
+        },
+        {
+          "context": [
+            "qopal",
+            "chol",
+            "cthol",
+            "daimm",
+            "ycheor"
+          ],
+          "position": "middle",
+          "rel_position": 0.23
+        },
+        {
+          "context": [
+            "s",
+            "cham",
+            "cthol",
+            "ychtaiin",
+            "chor"
+          ],
+          "position": "middle",
+          "rel_position": 0.39
+        },
+        {
+          "context": [
+            "chol",
+            "shol",
+            "cthol",
+            "shtchy",
+            "chaiinschoraiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.35
+        },
+        {
+          "context": [
+            "tcheay",
+            "qotaiin",
+            "cthol",
+            "daiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.67
+        },
+        {
+          "context": [
+            "olaen",
+            "chor",
+            "cthol",
+            "sho",
+            "otor"
+          ],
+          "position": "middle",
+          "rel_position": 0.68
+        },
+        {
+          "context": [
+            "cthol",
+            "dol",
+            "ychor"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "qokor",
+            "chol",
+            "cthol",
+            "tchalody",
+            "chockhy"
+          ],
+          "position": "middle",
+          "rel_position": 0.22
+        }
+      ],
+      "pre_boundary_count": 8,
+      "post_noun_count": 32
+    },
+    {
+      "voynich": "otol",
+      "decoded": "acal",
+      "confidence": 0.7,
+      "evidence": [
+        "SVO middle position: 52%",
+        "Before boundary 6x",
+        "Follows nouns 13x",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "otol",
+            "daiiin"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "chey",
+            "okaor",
+            "otol",
+            "qoaiin",
+            "otan"
+          ],
+          "position": "middle",
+          "rel_position": 0.67
+        },
+        {
+          "context": [
+            "qotor",
+            "shees",
+            "otol",
+            "ykoiin",
+            "shol"
+          ],
+          "position": "middle",
+          "rel_position": 0.73
+        },
+        {
+          "context": [
+            "chol",
+            "chotaiin",
+            "otol",
+            "chol",
+            "dairodg"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        },
+        {
+          "context": [
+            "soocthsol",
+            "shol",
+            "otol",
+            "chol",
+            "opcheaiin"
+          ],
+          "position": "initial",
+          "rel_position": 0.12
+        },
+        {
+          "context": [
+            "kaiin",
+            "cthor",
+            "otol",
+            "oty",
+            "toldy"
+          ],
+          "position": "initial",
+          "rel_position": 0.17
+        },
+        {
+          "context": [
+            "qotchor",
+            "chor",
+            "otol",
+            "chol",
+            "cholorchol"
+          ],
+          "position": "middle",
+          "rel_position": 0.62
+        },
+        {
+          "context": [
+            "ds",
+            "y",
+            "otol",
+            "chaiin",
+            "ykchor"
+          ],
+          "position": "middle",
+          "rel_position": 0.3
+        },
+        {
+          "context": [
+            "otchy",
+            "kchod",
+            "otol",
+            "otchy",
+            "octhos"
+          ],
+          "position": "initial",
+          "rel_position": 0.16
+        },
+        {
+          "context": [
+            "yky",
+            "shody",
+            "otol",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.92
+        }
+      ],
+      "pre_boundary_count": 6,
+      "post_noun_count": 13
+    },
+    {
+      "voynich": "saiin",
+      "decoded": "xeiin",
+      "confidence": 0.7,
+      "evidence": [
+        "SVO middle position: 47%",
+        "Before boundary 5x",
+        "Follows nouns 11x",
+        "Verb-like length (5 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "danytchaiin",
+            "dan",
+            "saiin",
+            "dainddkol",
+            "sorytoldydchol"
+          ],
+          "position": "middle",
+          "rel_position": 0.47
+        },
+        {
+          "context": [
+            "daiincthey",
+            "keol",
+            "saiin",
+            "saiin",
+            "ychain"
+          ],
+          "position": "middle",
+          "rel_position": 0.23
+        },
+        {
+          "context": [
+            "keol",
+            "saiin",
+            "saiin",
+            "ychain",
+            "dal"
+          ],
+          "position": "middle",
+          "rel_position": 0.27
+        },
+        {
+          "context": [
+            "opcheaiin",
+            "opydaiin",
+            "saiin",
+            "shcthal",
+            "sarchor"
+          ],
+          "position": "middle",
+          "rel_position": 0.27
+        },
+        {
+          "context": [
+            "choctoy",
+            "chodykchy",
+            "saiin",
+            "dchydaiin",
+            "ytchas"
+          ],
+          "position": "middle",
+          "rel_position": 0.75
+        },
+        {
+          "context": [
+            "dyky",
+            "schy",
+            "saiin",
+            "doal",
+            "qoky"
+          ],
+          "position": "middle",
+          "rel_position": 0.38
+        },
+        {
+          "context": [
+            "saiin",
+            "ytaiin",
+            "toror"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "okytaiin",
+            "chkchy",
+            "saiin",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.96
+        },
+        {
+          "context": [
+            "otaiin",
+            "chan",
+            "saiin",
+            "chcphy",
+            "oky"
+          ],
+          "position": "middle",
+          "rel_position": 0.47
+        },
+        {
+          "context": [
+            "galy",
+            "sheey",
+            "saiin",
+            "s",
+            "qokedy"
+          ],
+          "position": "middle",
+          "rel_position": 0.35
+        }
+      ],
+      "pre_boundary_count": 5,
+      "post_noun_count": 11
+    },
+    {
+      "voynich": "okar",
+      "decoded": "anes",
+      "confidence": 0.7,
+      "evidence": [
+        "SVO middle position: 50%",
+        "Before boundary 5x",
+        "Before preposition 17x",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "char",
+            "chaiin",
+            "okar",
+            "cphaiin",
+            "chaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.35
+        },
+        {
+          "context": [
+            "oytor",
+            "okeor",
+            "okar",
+            "okol",
+            "doiiram"
+          ],
+          "position": "initial",
+          "rel_position": 0.15
+        },
+        {
+          "context": [
+            "ytcho",
+            "ldals",
+            "okar",
+            "olchar",
+            "shaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        },
+        {
+          "context": [
+            "dor",
+            "olaiin",
+            "okar",
+            "chdy",
+            "chdy"
+          ],
+          "position": "middle",
+          "rel_position": 0.25
+        },
+        {
+          "context": [
+            "keedy",
+            "okchy",
+            "okar",
+            "okedy",
+            "chydaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.7
+        },
+        {
+          "context": [
+            "sheedy",
+            "oralyolaiir",
+            "okar",
+            "ar"
+          ],
+          "position": "final",
+          "rel_position": 0.88
+        },
+        {
+          "context": [
+            "otal",
+            "chd",
+            "okar",
+            "amokar",
+            "cheodal"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "ordaiin",
+            "qokar",
+            "okar",
+            "okedy",
+            "darykchey"
+          ],
+          "position": "initial",
+          "rel_position": 0.11
+        },
+        {
+          "context": [
+            "okos",
+            "chedy",
+            "okar",
+            "aralos",
+            "shy"
+          ],
+          "position": "middle",
+          "rel_position": 0.42
+        },
+        {
+          "context": [
+            "dasqokol",
+            "okaiin",
+            "okar",
+            "oky",
+            "okoldy"
+          ],
+          "position": "middle",
+          "rel_position": 0.57
+        }
+      ],
+      "pre_boundary_count": 5,
+      "post_noun_count": 9
+    },
+    {
+      "voynich": "chy",
+      "decoded": "cr",
+      "confidence": 0.7,
+      "evidence": [
+        "Before boundary 8x",
+        "Follows nouns 41x (verb position in SVO)",
+        "Sentence-initial 8x (imperative?)",
+        "Second position 10x",
+        "Verb-like length (3 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "shey",
+            "pydeey",
+            "chy",
+            "ro",
+            "d"
+          ],
+          "position": "middle",
+          "rel_position": 0.58
+        },
+        {
+          "context": [
+            "chodo",
+            "lol",
+            "chy",
+            "cthy",
+            "qo"
+          ],
+          "position": "final",
+          "rel_position": 0.91
+        },
+        {
+          "context": [
+            "qotaiincthey",
+            "ychor",
+            "chy",
+            "ydychaiin",
+            "chaindychtod"
+          ],
+          "position": "middle",
+          "rel_position": 0.24
+        },
+        {
+          "context": [
+            "ychain",
+            "dal",
+            "chy",
+            "dalor",
+            "shan"
+          ],
+          "position": "middle",
+          "rel_position": 0.37
+        },
+        {
+          "context": [
+            "ckhor",
+            "okol",
+            "chy",
+            "chor",
+            "cthor"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        },
+        {
+          "context": [
+            "chol",
+            "keol",
+            "chy",
+            "chtydaiin",
+            "otchor"
+          ],
+          "position": "middle",
+          "rel_position": 0.56
+        },
+        {
+          "context": [
+            "otchol",
+            "chol",
+            "chy",
+            "chaiin",
+            "qotaiindaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.65
+        },
+        {
+          "context": [
+            "shain",
+            "qotchol",
+            "chy",
+            "yty",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.9
+        },
+        {
+          "context": [
+            "chey",
+            "chy",
+            "cthy",
+            "shkchor"
+          ],
+          "position": "initial",
+          "rel_position": 0.1
+        },
+        {
+          "context": [
+            "qoaiin",
+            "otan",
+            "chy",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.92
+        }
+      ],
+      "pre_boundary_count": 8,
+      "post_noun_count": 41
+    },
+    {
+      "voynich": "chey",
+      "decoded": "cir",
+      "confidence": 0.68,
+      "evidence": [
+        "Follows nouns 29x (verb position in SVO)",
+        "Before preposition 12x",
+        "Sentence-initial 5x (imperative?)",
+        "Phonetic match: 'curat' (cures) 40%",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "shcthaiin",
+            "okaiir",
+            "chey",
+            "rchy",
+            "potol"
+          ],
+          "position": "middle",
+          "rel_position": 0.33
+        },
+        {
+          "context": [
+            "shok",
+            "chor",
+            "chey",
+            "dain"
+          ],
+          "position": "final",
+          "rel_position": 0.92
+        },
+        {
+          "context": [
+            "dair",
+            "cphoaldar",
+            "chey",
+            "tody",
+            "otoaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        },
+        {
+          "context": [
+            "sho",
+            "ykeey",
+            "chey",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.97
+        },
+        {
+          "context": [
+            "chey",
+            "chy",
+            "cthy"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "ckhoy",
+            "cthey",
+            "chey",
+            "okaor",
+            "otol"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "sho",
+            "cheor",
+            "chey",
+            "qoeeey",
+            "qoykeeey"
+          ],
+          "position": "middle",
+          "rel_position": 0.33
+        },
+        {
+          "context": [
+            "shol",
+            "chofydysho",
+            "chey",
+            "kshey",
+            "lody"
+          ],
+          "position": "initial",
+          "rel_position": 0.17
+        },
+        {
+          "context": [
+            "ckhol",
+            "chol",
+            "chey",
+            "kchschy",
+            "etodaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.48
+        },
+        {
+          "context": [
+            "daiin",
+            "cthanytchy",
+            "chey",
+            "kaiin",
+            "dain"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        }
+      ],
+      "pre_boundary_count": 3,
+      "post_noun_count": 29
+    },
+    {
+      "voynich": "shor",
+      "decoded": "bas",
+      "confidence": 0.6,
+      "evidence": [
+        "Before boundary 5x",
+        "Follows nouns 34x (verb position in SVO)",
+        "Before preposition 10x",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "shor",
+            "okol",
+            "chol"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "dchy",
+            "cthy",
+            "shor",
+            "ckhy",
+            "daiinychol"
+          ],
+          "position": "middle",
+          "rel_position": 0.58
+        },
+        {
+          "context": [
+            "qokeey",
+            "tsheoarom",
+            "shor",
+            "or"
+          ],
+          "position": "final",
+          "rel_position": 0.96
+        },
+        {
+          "context": [
+            "cthom",
+            "shor",
+            "shol",
+            "shol"
+          ],
+          "position": "initial",
+          "rel_position": 0.17
+        },
+        {
+          "context": [
+            "koraiin",
+            "odal",
+            "shor",
+            "shyshol",
+            "cphaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.31
+        },
+        {
+          "context": [
+            "ctheychoaiin",
+            "shor",
+            "sheey",
+            "cto"
+          ],
+          "position": "initial",
+          "rel_position": 0.04
+        },
+        {
+          "context": [
+            "ctheod",
+            "chy",
+            "shor",
+            "odshe",
+            "od"
+          ],
+          "position": "middle",
+          "rel_position": 0.58
+        },
+        {
+          "context": [
+            "oheekar",
+            "qoar",
+            "shor",
+            "chapchy",
+            "s"
+          ],
+          "position": "initial",
+          "rel_position": 0.19
+        },
+        {
+          "context": [
+            "dcheey",
+            "keor",
+            "shor",
+            "dolddchey",
+            "kchey"
+          ],
+          "position": "initial",
+          "rel_position": 0.2
+        },
+        {
+          "context": [
+            "shy",
+            "cfhodar",
+            "shor",
+            "tchty",
+            "sh"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        }
+      ],
+      "pre_boundary_count": 5,
+      "post_noun_count": 34
+    },
+    {
+      "voynich": "shy",
+      "decoded": "br",
+      "confidence": 0.6,
+      "evidence": [
+        "Before boundary 5x",
+        "Follows nouns 28x (verb position in SVO)",
+        "Before preposition 17x",
+        "Verb-like length (3 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "chodaiin",
+            "kchor",
+            "shy",
+            "daiiin",
+            "chckhoys"
+          ],
+          "position": "middle",
+          "rel_position": 0.45
+        },
+        {
+          "context": [
+            "ytchos",
+            "shy",
+            "qokam",
+            "cthy"
+          ],
+          "position": "initial",
+          "rel_position": 0.11
+        },
+        {
+          "context": [
+            "chopycphol",
+            "chody",
+            "shy",
+            "cfhodar",
+            "shor"
+          ],
+          "position": "middle",
+          "rel_position": 0.36
+        },
+        {
+          "context": [
+            "al",
+            "chodar",
+            "shy",
+            "rychodaiin",
+            "shokchy"
+          ],
+          "position": "middle",
+          "rel_position": 0.33
+        },
+        {
+          "context": [
+            "orchey",
+            "s",
+            "shy",
+            "odaiin",
+            "saryshor"
+          ],
+          "position": "initial",
+          "rel_position": 0.15
+        },
+        {
+          "context": [
+            "dychy",
+            "taiin",
+            "shy",
+            "dchy",
+            "qokchol"
+          ],
+          "position": "middle",
+          "rel_position": 0.75
+        },
+        {
+          "context": [
+            "dy",
+            "ddycthor",
+            "shy",
+            "arg",
+            "ycheor"
+          ],
+          "position": "middle",
+          "rel_position": 0.45
+        },
+        {
+          "context": [
+            "shkchy",
+            "ydal",
+            "shy",
+            "ykchy",
+            "qotey"
+          ],
+          "position": "middle",
+          "rel_position": 0.77
+        },
+        {
+          "context": [
+            "otchor",
+            "shorodo",
+            "shy",
+            "tshy",
+            "kchol"
+          ],
+          "position": "middle",
+          "rel_position": 0.36
+        },
+        {
+          "context": [
+            "ochkchar",
+            "kol",
+            "shy",
+            "daiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.75
+        }
+      ],
+      "pre_boundary_count": 5,
+      "post_noun_count": 28
+    },
+    {
+      "voynich": "cthor",
+      "decoded": "hcas",
+      "confidence": 0.6,
+      "evidence": [
+        "Follows nouns 22x (verb position in SVO)",
+        "Before preposition 11x",
+        "Sentence-initial 6x (imperative?)",
+        "Verb-like length (5 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "chy",
+            "chor",
+            "cthor",
+            "yor",
+            "an"
+          ],
+          "position": "middle",
+          "rel_position": 0.67
+        },
+        {
+          "context": [
+            "cthor",
+            "chots",
+            "ychopordg"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "cthor",
+            "okchy",
+            "taiin"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "cthol",
+            "ches",
+            "cthor",
+            "ocholy",
+            "kchos"
+          ],
+          "position": "middle",
+          "rel_position": 0.27
+        },
+        {
+          "context": [
+            "orchlchokchy",
+            "chol",
+            "cthor",
+            "chaiin",
+            "scharchyoeesody"
+          ],
+          "position": "initial",
+          "rel_position": 0.19
+        },
+        {
+          "context": [
+            "tydlo",
+            "choly",
+            "cthor",
+            "orchey",
+            "s"
+          ],
+          "position": "initial",
+          "rel_position": 0.06
+        },
+        {
+          "context": [
+            "qoaiin",
+            "chkaiin",
+            "cthor",
+            "chol",
+            "chor"
+          ],
+          "position": "middle",
+          "rel_position": 0.33
+        },
+        {
+          "context": [
+            "tchy",
+            "kaiin",
+            "cthor",
+            "otol",
+            "oty"
+          ],
+          "position": "initial",
+          "rel_position": 0.12
+        },
+        {
+          "context": [
+            "otor",
+            "cfhy",
+            "cthor",
+            "osainytoiin",
+            "rotcho"
+          ],
+          "position": "middle",
+          "rel_position": 0.53
+        },
+        {
+          "context": [
+            "cthor",
+            "otydy",
+            "sain"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        }
+      ],
+      "pre_boundary_count": 4,
+      "post_noun_count": 22
+    },
+    {
+      "voynich": "qokchy",
+      "decoded": "quancr",
+      "confidence": 0.55,
+      "evidence": [
+        "SVO middle position: 48%",
+        "Before preposition 16x",
+        "Verb-like length (6 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "shar",
+            "shkaiin",
+            "qokchy",
+            "yty",
+            "cthal"
+          ],
+          "position": "final",
+          "rel_position": 0.82
+        },
+        {
+          "context": [
+            "cthy",
+            "cthd",
+            "qokchy",
+            "dykchy",
+            "chkeey"
+          ],
+          "position": "middle",
+          "rel_position": 0.43
+        },
+        {
+          "context": [
+            "qotcho",
+            "qokchy",
+            "cthey",
+            "koraiin"
+          ],
+          "position": "initial",
+          "rel_position": 0.06
+        },
+        {
+          "context": [
+            "doiir",
+            "ody",
+            "qokchy",
+            "qotchol",
+            "chol"
+          ],
+          "position": "middle",
+          "rel_position": 0.2
+        },
+        {
+          "context": [
+            "doaiin",
+            "shochy",
+            "qokchy",
+            "torchy",
+            "kcckys"
+          ],
+          "position": "middle",
+          "rel_position": 0.56
+        },
+        {
+          "context": [
+            "cphol",
+            "choty",
+            "qokchy",
+            "qokod",
+            "chy"
+          ],
+          "position": "middle",
+          "rel_position": 0.52
+        },
+        {
+          "context": [
+            "soiiin",
+            "chok",
+            "qokchy",
+            "da",
+            "okol"
+          ],
+          "position": "middle",
+          "rel_position": 0.45
+        },
+        {
+          "context": [
+            "ty",
+            "chody",
+            "qokchy",
+            "chydy",
+            "ykchy"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        },
+        {
+          "context": [
+            "chekeg",
+            "ksheo",
+            "qokchy",
+            "choldshy",
+            "zepchydsaopchordy"
+          ],
+          "position": "middle",
+          "rel_position": 0.72
+        },
+        {
+          "context": [
+            "qokchy",
+            "cthy",
+            "or"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        }
+      ],
+      "pre_boundary_count": 4,
+      "post_noun_count": 7
+    },
+    {
+      "voynich": "qokedy",
+      "decoded": "quanidr",
+      "confidence": 0.55,
+      "evidence": [
+        "SVO middle position: 48%",
+        "Before preposition 10x",
+        "Verb-like length (6 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "saiin",
+            "s",
+            "qokedy",
+            "cheos",
+            "ytedy"
+          ],
+          "position": "middle",
+          "rel_position": 0.41
+        },
+        {
+          "context": [
+            "schydaiin",
+            "cthedyqokeedy",
+            "qokedy",
+            "cthhy",
+            "rchedy"
+          ],
+          "position": "final",
+          "rel_position": 0.82
+        },
+        {
+          "context": [
+            "cthhy",
+            "rchedy",
+            "qokedy",
+            "pcho",
+            "qokedy"
+          ],
+          "position": "final",
+          "rel_position": 0.91
+        },
+        {
+          "context": [
+            "qokedy",
+            "pcho",
+            "qokedy",
+            "dar"
+          ],
+          "position": "final",
+          "rel_position": 0.97
+        },
+        {
+          "context": [
+            "sokolotedy",
+            "qokchdy",
+            "qokedy",
+            "tcheo",
+            "shy"
+          ],
+          "position": "middle",
+          "rel_position": 0.33
+        },
+        {
+          "context": [
+            "saraiir",
+            "chekedy",
+            "qokedy",
+            "otedy",
+            "sar"
+          ],
+          "position": "middle",
+          "rel_position": 0.8
+        },
+        {
+          "context": [
+            "etedy",
+            "qokedy",
+            "or",
+            "aree"
+          ],
+          "position": "initial",
+          "rel_position": 0.12
+        },
+        {
+          "context": [
+            "g",
+            "yckheody",
+            "qokedy",
+            "deey",
+            "saldy"
+          ],
+          "position": "middle",
+          "rel_position": 0.71
+        },
+        {
+          "context": [
+            "qokeor",
+            "tshokeody",
+            "qokedy",
+            "qotedy",
+            "chepar"
+          ],
+          "position": "middle",
+          "rel_position": 0.38
+        },
+        {
+          "context": [
+            "checkhey",
+            "sheol",
+            "qokedy",
+            "ykeedy",
+            "chedy"
+          ],
+          "position": "initial",
+          "rel_position": 0.19
+        }
+      ],
+      "pre_boundary_count": 3,
+      "post_noun_count": 2
+    },
+    {
+      "voynich": "okol",
+      "decoded": "anal",
+      "confidence": 0.55,
+      "evidence": [
+        "SVO middle position: 49%",
+        "Follows nouns 11x",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "kaiin",
+            "shoaiin",
+            "okol",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.83
+        },
+        {
+          "context": [
+            "do",
+            "lchody",
+            "okol",
+            "shol",
+            "kol"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "shor",
+            "okol",
+            "chol",
+            "dol"
+          ],
+          "position": "initial",
+          "rel_position": 0.12
+        },
+        {
+          "context": [
+            "sheey",
+            "ckhor",
+            "okol",
+            "chy",
+            "chor"
+          ],
+          "position": "middle",
+          "rel_position": 0.57
+        },
+        {
+          "context": [
+            "dchor",
+            "choldar",
+            "okol",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.91
+        },
+        {
+          "context": [
+            "satar",
+            "shor",
+            "okol",
+            "lokaiinshol",
+            "kol"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "qokchy",
+            "da",
+            "okol",
+            "ydaiin",
+            "olchy"
+          ],
+          "position": "middle",
+          "rel_position": 0.64
+        },
+        {
+          "context": [
+            "keeor",
+            "cthodal",
+            "okol",
+            "odaiin",
+            "okal"
+          ],
+          "position": "middle",
+          "rel_position": 0.31
+        },
+        {
+          "context": [
+            "okeor",
+            "okar",
+            "okol",
+            "doiiram",
+            "qokcheo"
+          ],
+          "position": "middle",
+          "rel_position": 0.23
+        },
+        {
+          "context": [
+            "okol",
+            "dchey",
+            "daiidal"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        }
+      ],
+      "pre_boundary_count": 3,
+      "post_noun_count": 11
+    },
+    {
+      "voynich": "odaiin",
+      "decoded": "adeiin",
+      "confidence": 0.55,
+      "evidence": [
+        "SVO middle position: 50%",
+        "Follows nouns 12x",
+        "Verb-like length (6 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "oiin",
+            "chol",
+            "odaiin",
+            "chodain",
+            "chdy"
+          ],
+          "position": "middle",
+          "rel_position": 0.22
+        },
+        {
+          "context": [
+            "ycheor",
+            "chol",
+            "odaiin",
+            "chol",
+            "s"
+          ],
+          "position": "middle",
+          "rel_position": 0.73
+        },
+        {
+          "context": [
+            "qoekchar",
+            "cheas",
+            "odaiin",
+            "kchey",
+            "chor"
+          ],
+          "position": "middle",
+          "rel_position": 0.59
+        },
+        {
+          "context": [
+            "chor",
+            "cheor",
+            "odaiin",
+            "shotchodol",
+            "dol"
+          ],
+          "position": "final",
+          "rel_position": 0.83
+        },
+        {
+          "context": [
+            "s",
+            "shy",
+            "odaiin",
+            "saryshor",
+            "cthy"
+          ],
+          "position": "initial",
+          "rel_position": 0.18
+        },
+        {
+          "context": [
+            "cthodal",
+            "okol",
+            "odaiin",
+            "okal",
+            "oldaim"
+          ],
+          "position": "middle",
+          "rel_position": 0.35
+        },
+        {
+          "context": [
+            "okal",
+            "oldaim",
+            "odaiin",
+            "okal",
+            "oldaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.46
+        },
+        {
+          "context": [
+            "qofshey",
+            "shckhol",
+            "odaiin",
+            "shey",
+            "ckholy"
+          ],
+          "position": "middle",
+          "rel_position": 0.29
+        },
+        {
+          "context": [
+            "chocthydoiiin",
+            "dchor",
+            "odaiin",
+            "dain"
+          ],
+          "position": "final",
+          "rel_position": 0.83
+        },
+        {
+          "context": [
+            "qokeol",
+            "odaiin",
+            "ckham",
+            "qodaiikhy"
+          ],
+          "position": "initial",
+          "rel_position": 0.08
+        }
+      ],
+      "pre_boundary_count": 3,
+      "post_noun_count": 12
+    },
+    {
+      "voynich": "cheey",
+      "decoded": "ciir",
+      "confidence": 0.55,
+      "evidence": [
+        "SVO middle position: 47%",
+        "Before boundary 5x",
+        "Verb-like length (5 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "ty",
+            "dor",
+            "cheey",
+            "ol"
+          ],
+          "position": "final",
+          "rel_position": 0.93
+        },
+        {
+          "context": [
+            "dchodaiin",
+            "qotchy",
+            "cheey",
+            "tcheey",
+            "kchor"
+          ],
+          "position": "middle",
+          "rel_position": 0.3
+        },
+        {
+          "context": [
+            "shor",
+            "daiin",
+            "cheey",
+            "teeodan",
+            "dycheocthy"
+          ],
+          "position": "middle",
+          "rel_position": 0.2
+        },
+        {
+          "context": [
+            "kdchody",
+            "chopy",
+            "cheey",
+            "qotchol",
+            "qotoeey"
+          ],
+          "position": "initial",
+          "rel_position": 0.09
+        },
+        {
+          "context": [
+            "okchor",
+            "qotol",
+            "cheey",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.92
+        },
+        {
+          "context": [
+            "chor",
+            "chor",
+            "cheey",
+            "tchey"
+          ],
+          "position": "middle",
+          "rel_position": 0.8
+        },
+        {
+          "context": [
+            "sar",
+            "qor",
+            "cheey",
+            "qod",
+            "char"
+          ],
+          "position": "middle",
+          "rel_position": 0.45
+        },
+        {
+          "context": [
+            "saiin",
+            "chorain",
+            "cheey",
+            "keem",
+            "qokechy"
+          ],
+          "position": "middle",
+          "rel_position": 0.54
+        },
+        {
+          "context": [
+            "r",
+            "ar",
+            "cheey",
+            "keeol",
+            "chd"
+          ],
+          "position": "middle",
+          "rel_position": 0.43
+        },
+        {
+          "context": [
+            "shetchy",
+            "ckhol",
+            "cheey",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.89
+        }
+      ],
+      "pre_boundary_count": 5,
+      "post_noun_count": 9
+    },
+    {
+      "voynich": "okal",
+      "decoded": "anel",
+      "confidence": 0.55,
+      "evidence": [
+        "SVO middle position: 49%",
+        "Follows nouns 14x",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "eey",
+            "kcheol",
+            "okal",
+            "do",
+            "r"
+          ],
+          "position": "middle",
+          "rel_position": 0.52
+        },
+        {
+          "context": [
+            "okal",
+            "chy",
+            "qokchorydchy"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "fchol",
+            "ypchocfy",
+            "okal",
+            "sokchy",
+            "qokol"
+          ],
+          "position": "middle",
+          "rel_position": 0.33
+        },
+        {
+          "context": [
+            "okol",
+            "odaiin",
+            "okal",
+            "oldaim",
+            "odaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.38
+        },
+        {
+          "context": [
+            "oldaim",
+            "odaiin",
+            "okal",
+            "oldaiin",
+            "chockhol"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "cthar",
+            "cthal",
+            "okal",
+            "dar"
+          ],
+          "position": "final",
+          "rel_position": 0.86
+        },
+        {
+          "context": [
+            "dain",
+            "qokor",
+            "okal",
+            "g",
+            "damchor"
+          ],
+          "position": "middle",
+          "rel_position": 0.36
+        },
+        {
+          "context": [
+            "cthain",
+            "qotaiin",
+            "okal",
+            "chotaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.75
+        },
+        {
+          "context": [
+            "checkhy",
+            "okeol",
+            "okal",
+            "oky",
+            "cheokar"
+          ],
+          "position": "middle",
+          "rel_position": 0.65
+        },
+        {
+          "context": [
+            "okal",
+            "otal",
+            "chdal"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        }
+      ],
+      "pre_boundary_count": 4,
+      "post_noun_count": 14
+    },
+    {
+      "voynich": "chody",
+      "decoded": "cadr",
+      "confidence": 0.55,
+      "evidence": [
+        "SVO middle position: 51%",
+        "Follows nouns 12x",
+        "Verb-like length (5 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "lkody",
+            "okodar",
+            "chody",
+            "do",
+            "ckhy"
+          ],
+          "position": "initial",
+          "rel_position": 0.09
+        },
+        {
+          "context": [
+            "kychol",
+            "cthol",
+            "chody",
+            "chol",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.89
+        },
+        {
+          "context": [
+            "lshy",
+            "chol",
+            "chody",
+            "chodainchcthy",
+            "daiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.67
+        },
+        {
+          "context": [
+            "oar",
+            "olsy",
+            "chody",
+            "dkshy",
+            "dy"
+          ],
+          "position": "middle",
+          "rel_position": 0.75
+        },
+        {
+          "context": [
+            "otshal",
+            "chopycphol",
+            "chody",
+            "shy",
+            "cfhodar"
+          ],
+          "position": "middle",
+          "rel_position": 0.29
+        },
+        {
+          "context": [
+            "ykchor",
+            "dair",
+            "chody",
+            "cthy",
+            "s"
+          ],
+          "position": "middle",
+          "rel_position": 0.7
+        },
+        {
+          "context": [
+            "s",
+            "sody",
+            "chody",
+            "otchody",
+            "qotchy"
+          ],
+          "position": "middle",
+          "rel_position": 0.62
+        },
+        {
+          "context": [
+            "chod",
+            "shoty",
+            "chody",
+            "dol",
+            "dy"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        },
+        {
+          "context": [
+            "chol",
+            "chol",
+            "chody",
+            "kan",
+            "sor"
+          ],
+          "position": "middle",
+          "rel_position": 0.23
+        },
+        {
+          "context": [
+            "cthor",
+            "ty",
+            "chody",
+            "qokchy",
+            "chydy"
+          ],
+          "position": "middle",
+          "rel_position": 0.56
+        }
+      ],
+      "pre_boundary_count": 4,
+      "post_noun_count": 12
+    },
+    {
+      "voynich": "ckhy",
+      "decoded": "hnrr",
+      "confidence": 0.55,
+      "evidence": [
+        "SVO middle position: 49%",
+        "Follows nouns 10x",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "chody",
+            "do",
+            "ckhy",
+            "ckho",
+            "ckhy"
+          ],
+          "position": "initial",
+          "rel_position": 0.14
+        },
+        {
+          "context": [
+            "ckhy",
+            "ckho",
+            "ckhy",
+            "shydksheey",
+            "cthy"
+          ],
+          "position": "middle",
+          "rel_position": 0.2
+        },
+        {
+          "context": [
+            "cthy",
+            "shor",
+            "ckhy",
+            "daiinychol",
+            "dan"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        },
+        {
+          "context": [
+            "eeor",
+            "eear",
+            "ckhy",
+            "or"
+          ],
+          "position": "final",
+          "rel_position": 0.95
+        },
+        {
+          "context": [
+            "sho",
+            "shockho",
+            "ckhy",
+            "tchor",
+            "chodaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.27
+        },
+        {
+          "context": [
+            "chaiin",
+            "qoair",
+            "ckhy",
+            "chol",
+            "oochockhy"
+          ],
+          "position": "middle",
+          "rel_position": 0.78
+        },
+        {
+          "context": [
+            "oochockhy",
+            "chekchoy",
+            "ckhy",
+            "okolrychos",
+            "y"
+          ],
+          "position": "final",
+          "rel_position": 0.93
+        },
+        {
+          "context": [
+            "dol",
+            "daiiirchy",
+            "ckhy",
+            "ychey",
+            "kchokchy"
+          ],
+          "position": "middle",
+          "rel_position": 0.7
+        },
+        {
+          "context": [
+            "kaiin",
+            "chkaiin",
+            "ckhy",
+            "chor"
+          ],
+          "position": "final",
+          "rel_position": 0.94
+        },
+        {
+          "context": [
+            "chcthy",
+            "ctho",
+            "ckhy",
+            "or"
+          ],
+          "position": "final",
+          "rel_position": 0.88
+        }
+      ],
+      "pre_boundary_count": 4,
+      "post_noun_count": 10
+    },
+    {
+      "voynich": "dair",
+      "decoded": "deis",
+      "confidence": 0.55,
+      "evidence": [
+        "SVO middle position: 51%",
+        "Follows nouns 13x",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "or",
+            "okan",
+            "dair",
+            "y"
+          ],
+          "position": "middle",
+          "rel_position": 0.75
+        },
+        {
+          "context": [
+            "dol",
+            "chokeo",
+            "dair",
+            "damsochey",
+            "chokody"
+          ],
+          "position": "middle",
+          "rel_position": 0.4
+        },
+        {
+          "context": [
+            "potoy",
+            "shol",
+            "dair",
+            "cphoaldar",
+            "chey"
+          ],
+          "position": "middle",
+          "rel_position": 0.54
+        },
+        {
+          "context": [
+            "cheor",
+            "qoeor",
+            "dair",
+            "qoteol",
+            "qosaiinchor"
+          ],
+          "position": "initial",
+          "rel_position": 0.18
+        },
+        {
+          "context": [
+            "dey",
+            "okodyytody",
+            "dair",
+            "cshe",
+            "chodam"
+          ],
+          "position": "middle",
+          "rel_position": 0.24
+        },
+        {
+          "context": [
+            "cthdain",
+            "dair",
+            "am",
+            "qotchor"
+          ],
+          "position": "initial",
+          "rel_position": 0.12
+        },
+        {
+          "context": [
+            "chaiin",
+            "ykchor",
+            "dair",
+            "chody",
+            "cthy"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        },
+        {
+          "context": [
+            "daiinokshody",
+            "daiindol",
+            "dair",
+            "dam",
+            "dykchy"
+          ],
+          "position": "final",
+          "rel_position": 0.88
+        },
+        {
+          "context": [
+            "ychy",
+            "kchor",
+            "dair",
+            "ytol",
+            "chcthy"
+          ],
+          "position": "final",
+          "rel_position": 0.88
+        },
+        {
+          "context": [
+            "yka",
+            "dshy",
+            "dair",
+            "ykol",
+            "dom"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        }
+      ],
+      "pre_boundary_count": 1,
+      "post_noun_count": 13
+    },
+    {
+      "voynich": "shaiin",
+      "decoded": "beiin",
+      "confidence": 0.55,
+      "evidence": [
+        "SVO middle position: 50%",
+        "Follows nouns 11x",
+        "Verb-like length (6 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "cpho",
+            "shaiin",
+            "shokcheey",
+            "chol"
+          ],
+          "position": "initial",
+          "rel_position": 0.08
+        },
+        {
+          "context": [
+            "dan",
+            "kydain",
+            "shaiin",
+            "qoy",
+            "s"
+          ],
+          "position": "middle",
+          "rel_position": 0.69
+        },
+        {
+          "context": [
+            "sho",
+            "chaiin",
+            "shaiin",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.9
+        },
+        {
+          "context": [
+            "shol",
+            "chaiin",
+            "shaiin",
+            "dolar",
+            "dshol"
+          ],
+          "position": "middle",
+          "rel_position": 0.77
+        },
+        {
+          "context": [
+            "chcthod",
+            "shor",
+            "shaiin",
+            "otar",
+            "dorytol"
+          ],
+          "position": "final",
+          "rel_position": 0.88
+        },
+        {
+          "context": [
+            "dchor",
+            "shaiin",
+            "oeees",
+            "ykor"
+          ],
+          "position": "initial",
+          "rel_position": 0.12
+        },
+        {
+          "context": [
+            "dal",
+            "oshor",
+            "shaiin",
+            "cthy",
+            "sholdy"
+          ],
+          "position": "initial",
+          "rel_position": 0.19
+        },
+        {
+          "context": [
+            "cthy",
+            "or",
+            "shaiin",
+            "cthar",
+            "cthal"
+          ],
+          "position": "middle",
+          "rel_position": 0.43
+        },
+        {
+          "context": [
+            "okar",
+            "olchar",
+            "shaiin",
+            "qokchol",
+            "dar"
+          ],
+          "position": "middle",
+          "rel_position": 0.8
+        },
+        {
+          "context": [
+            "chol",
+            "chaiin",
+            "shaiin",
+            "cthoddarchsshody",
+            "qotcho"
+          ],
+          "position": "final",
+          "rel_position": 0.9
+        }
+      ],
+      "pre_boundary_count": 1,
+      "post_noun_count": 11
+    },
+    {
+      "voynich": "char",
+      "decoded": "ces",
+      "confidence": 0.55,
+      "evidence": [
+        "SVO middle position: 50%",
+        "Follows nouns 14x",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "chadaiin",
+            "ololtchey",
+            "char",
+            "cfhar",
+            "am"
+          ],
+          "position": "middle",
+          "rel_position": 0.38
+        },
+        {
+          "context": [
+            "am",
+            "yteeay",
+            "char",
+            "or"
+          ],
+          "position": "final",
+          "rel_position": 0.88
+        },
+        {
+          "context": [
+            "keey",
+            "shar",
+            "char",
+            "ody",
+            "shody"
+          ],
+          "position": "middle",
+          "rel_position": 0.38
+        },
+        {
+          "context": [
+            "s",
+            "chear",
+            "char",
+            "otchy",
+            "oees"
+          ],
+          "position": "middle",
+          "rel_position": 0.33
+        },
+        {
+          "context": [
+            "kchdy",
+            "lor",
+            "char",
+            "otam",
+            "cthom"
+          ],
+          "position": "final",
+          "rel_position": 0.83
+        },
+        {
+          "context": [
+            "chean",
+            "cky",
+            "char",
+            "chaiin",
+            "okar"
+          ],
+          "position": "middle",
+          "rel_position": 0.26
+        },
+        {
+          "context": [
+            "lokaiinshol",
+            "kol",
+            "char",
+            "cthey",
+            "tchy"
+          ],
+          "position": "middle",
+          "rel_position": 0.71
+        },
+        {
+          "context": [
+            "chckychor",
+            "cheain",
+            "char",
+            "cheeky",
+            "chor"
+          ],
+          "position": "middle",
+          "rel_position": 0.27
+        },
+        {
+          "context": [
+            "dchey",
+            "cthoor",
+            "char",
+            "chty",
+            "os"
+          ],
+          "position": "middle",
+          "rel_position": 0.62
+        },
+        {
+          "context": [
+            "chkeey",
+            "okeor",
+            "char",
+            "okeom"
+          ],
+          "position": "final",
+          "rel_position": 0.88
+        }
+      ],
+      "pre_boundary_count": 4,
+      "post_noun_count": 14
+    },
+    {
+      "voynich": "qokaiin",
+      "decoded": "quaneiin",
+      "confidence": 0.5,
+      "evidence": [
+        "SVO middle position: 51%",
+        "Before preposition 10x"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "ochey",
+            "okey",
+            "qokaiin",
+            "sho",
+            "ckhoy"
+          ],
+          "position": "initial",
+          "rel_position": 0.17
+        },
+        {
+          "context": [
+            "cphol",
+            "dyoty",
+            "qokaiin",
+            "dy"
+          ],
+          "position": "final",
+          "rel_position": 0.89
+        },
+        {
+          "context": [
+            "shy",
+            "koly",
+            "qokaiin",
+            "qotchy",
+            "tydydaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.4
+        },
+        {
+          "context": [
+            "ctholy",
+            "octhain",
+            "qokaiin",
+            "chosodaiin",
+            "cthl"
+          ],
+          "position": "middle",
+          "rel_position": 0.69
+        },
+        {
+          "context": [
+            "cthoiin",
+            "cthy",
+            "qokaiin",
+            "soloiin",
+            "cheor"
+          ],
+          "position": "middle",
+          "rel_position": 0.69
+        },
+        {
+          "context": [
+            "tshol",
+            "ykor",
+            "qokaiin",
+            "yky",
+            "dar"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "char",
+            "daiir",
+            "qokaiin",
+            "olol",
+            "qoaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.28
+        },
+        {
+          "context": [
+            "ylg",
+            "qokaiin",
+            "dain",
+            "qokor"
+          ],
+          "position": "initial",
+          "rel_position": 0.09
+        },
+        {
+          "context": [
+            "dshey",
+            "daiity",
+            "qokaiin",
+            "qokcho",
+            "shol"
+          ],
+          "position": "middle",
+          "rel_position": 0.57
+        },
+        {
+          "context": [
+            "chol",
+            "shokchy",
+            "qokaiin",
+            "choetychoty",
+            "kaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        }
+      ],
+      "pre_boundary_count": 4,
+      "post_noun_count": 7
+    },
+    {
+      "voynich": "chckhy",
+      "decoded": "chnrr",
+      "confidence": 0.5,
+      "evidence": [
+        "Follows nouns 14x",
+        "Before preposition 10x",
+        "Sentence-initial 6x (imperative?)",
+        "Verb-like length (6 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "chckhy",
+            "chor",
+            "chor"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "oees",
+            "chor",
+            "chckhy",
+            "qoekchar",
+            "cheas"
+          ],
+          "position": "middle",
+          "rel_position": 0.48
+        },
+        {
+          "context": [
+            "chckhy"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "shol",
+            "dy",
+            "chckhy",
+            "shcthy",
+            "daiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "okchor",
+            "oiin",
+            "chckhy",
+            "d",
+            "dchy"
+          ],
+          "position": "middle",
+          "rel_position": 0.58
+        },
+        {
+          "context": [
+            "chckhy",
+            "soshy",
+            "fchol"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "chokchy",
+            "dydydy",
+            "chckhy",
+            "dchyd",
+            "n"
+          ],
+          "position": "middle",
+          "rel_position": 0.29
+        },
+        {
+          "context": [
+            "chydy",
+            "ykchy",
+            "chckhy",
+            "otain",
+            "cthor"
+          ],
+          "position": "middle",
+          "rel_position": 0.72
+        },
+        {
+          "context": [
+            "ykchy",
+            "soy",
+            "chckhy",
+            "o",
+            "dar"
+          ],
+          "position": "final",
+          "rel_position": 0.94
+        },
+        {
+          "context": [
+            "qokchor",
+            "chor",
+            "chckhy",
+            "orchey",
+            "qokchol"
+          ],
+          "position": "initial",
+          "rel_position": 0.16
+        }
+      ],
+      "pre_boundary_count": 2,
+      "post_noun_count": 14
+    },
+    {
+      "voynich": "otaiin",
+      "decoded": "aceiin",
+      "confidence": 0.5,
+      "evidence": [
+        "Before boundary 5x",
+        "Follows nouns 14x",
+        "Sentence-initial 6x (imperative?)",
+        "Verb-like length (6 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "otaiin",
+            "or",
+            "okan"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "cheo",
+            "pchor",
+            "otaiin",
+            "o",
+            "dain"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        },
+        {
+          "context": [
+            "otaiin",
+            "sheo",
+            "okeody"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "sy",
+            "chol",
+            "otaiin",
+            "dain"
+          ],
+          "position": "middle",
+          "rel_position": 0.75
+        },
+        {
+          "context": [
+            "sheeol",
+            "skaiiodar",
+            "otaiin",
+            "chory",
+            "tchor"
+          ],
+          "position": "initial",
+          "rel_position": 0.17
+        },
+        {
+          "context": [
+            "shor",
+            "chykchy",
+            "otaiin",
+            "cty",
+            "qody"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "cphy",
+            "qotod",
+            "otaiin",
+            "cthy",
+            "okor"
+          ],
+          "position": "middle",
+          "rel_position": 0.61
+        },
+        {
+          "context": [
+            "cthy",
+            "otaiin",
+            "okyoeees",
+            "daiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.33
+        },
+        {
+          "context": [
+            "dolchds",
+            "okaiin",
+            "otaiin",
+            "chl",
+            "sychor"
+          ],
+          "position": "middle",
+          "rel_position": 0.23
+        },
+        {
+          "context": [
+            "otaiin",
+            "d",
+            "sor"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        }
+      ],
+      "pre_boundary_count": 5,
+      "post_noun_count": 14
+    },
+    {
+      "voynich": "she",
+      "decoded": "bi",
+      "confidence": 0.5,
+      "evidence": [
+        "SVO middle position: 50%",
+        "Phonetic match: 'bibe' (drink) 50%",
+        "Verb-like length (3 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "cphodaiils",
+            "cthey",
+            "she",
+            "oldain",
+            "d"
+          ],
+          "position": "middle",
+          "rel_position": 0.67
+        },
+        {
+          "context": [
+            "yto",
+            "shol",
+            "she",
+            "kodshey",
+            "cphealy"
+          ],
+          "position": "final",
+          "rel_position": 0.88
+        },
+        {
+          "context": [
+            "qoain",
+            "sar",
+            "she",
+            "dol",
+            "qopchaiin"
+          ],
+          "position": "final",
+          "rel_position": 0.81
+        },
+        {
+          "context": [
+            "chor",
+            "opchar",
+            "she",
+            "cheol",
+            "daiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        },
+        {
+          "context": [
+            "poraiin",
+            "she",
+            "aiin",
+            "chep"
+          ],
+          "position": "initial",
+          "rel_position": 0.06
+        },
+        {
+          "context": [
+            "qotchy",
+            "taiins",
+            "she",
+            "otey",
+            "sy"
+          ],
+          "position": "middle",
+          "rel_position": 0.44
+        },
+        {
+          "context": [
+            "cheor",
+            "shey",
+            "she",
+            "keeodol",
+            "sy"
+          ],
+          "position": "middle",
+          "rel_position": 0.35
+        },
+        {
+          "context": [
+            "qotchor",
+            "chy",
+            "she",
+            "kchor",
+            "chory"
+          ],
+          "position": "middle",
+          "rel_position": 0.69
+        },
+        {
+          "context": [
+            "ksho",
+            "cphor",
+            "she",
+            "sheaiin",
+            "otshchor"
+          ],
+          "position": "middle",
+          "rel_position": 0.67
+        },
+        {
+          "context": [
+            "chd",
+            "oky",
+            "she",
+            "cthol",
+            "oty"
+          ],
+          "position": "middle",
+          "rel_position": 0.69
+        }
+      ],
+      "pre_boundary_count": 1,
+      "post_noun_count": 7
+    },
+    {
+      "voynich": "qotchy",
+      "decoded": "quaccr",
+      "confidence": 0.5,
+      "evidence": [
+        "Follows nouns 18x",
+        "Before preposition 19x",
+        "Sentence-initial 6x (imperative?)",
+        "Verb-like length (6 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "cthy",
+            "pydaiin",
+            "qotchy",
+            "dy"
+          ],
+          "position": "middle",
+          "rel_position": 0.75
+        },
+        {
+          "context": [
+            "cheodaiin",
+            "sheeyytcheey",
+            "qotchy",
+            "chald",
+            "qokcho"
+          ],
+          "position": "middle",
+          "rel_position": 0.39
+        },
+        {
+          "context": [
+            "dol",
+            "dchodaiin",
+            "qotchy",
+            "cheey",
+            "tcheey"
+          ],
+          "position": "middle",
+          "rel_position": 0.26
+        },
+        {
+          "context": [
+            "chocthy",
+            "qotchy",
+            "chol",
+            "or"
+          ],
+          "position": "middle",
+          "rel_position": 0.33
+        },
+        {
+          "context": [
+            "qotchy",
+            "qotor"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "ykeey",
+            "daiin",
+            "qotchy",
+            "qotor",
+            "chol"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "qotchy",
+            "okchol",
+            "cthy"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "chody",
+            "otchody",
+            "qotchy",
+            "koiin",
+            "syshoty"
+          ],
+          "position": "middle",
+          "rel_position": 0.77
+        },
+        {
+          "context": [
+            "okchor",
+            "chky",
+            "qotchy",
+            "daiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.67
+        },
+        {
+          "context": [
+            "koly",
+            "qokaiin",
+            "qotchy",
+            "tydydaiin",
+            "chol"
+          ],
+          "position": "middle",
+          "rel_position": 0.44
+        }
+      ],
+      "pre_boundary_count": 3,
+      "post_noun_count": 18
+    },
+    {
+      "voynich": "sheol",
+      "decoded": "bial",
+      "confidence": 0.5,
+      "evidence": [
+        "SVO middle position: 51%",
+        "Phonetic match: 'bibe' (drink) 50%",
+        "Verb-like length (5 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "shol",
+            "sols",
+            "sheol",
+            "shey",
+            "okadaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.33
+        },
+        {
+          "context": [
+            "kodalchy",
+            "chpady",
+            "sheol",
+            "ol"
+          ],
+          "position": "middle",
+          "rel_position": 0.67
+        },
+        {
+          "context": [
+            "cthol",
+            "chkor",
+            "sheol",
+            "olo",
+            "r"
+          ],
+          "position": "initial",
+          "rel_position": 0.19
+        },
+        {
+          "context": [
+            "chty",
+            "qotol",
+            "sheol",
+            "shor",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.89
+        },
+        {
+          "context": [
+            "saiin",
+            "checkhey",
+            "sheol",
+            "qokedy",
+            "ykeedy"
+          ],
+          "position": "initial",
+          "rel_position": 0.15
+        },
+        {
+          "context": [
+            "okeedy",
+            "yshedair",
+            "sheol",
+            "cheky",
+            "okedam"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "aloldy",
+            "olaiir",
+            "sheol",
+            "pchdair",
+            "shd"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "chtedy",
+            "daim",
+            "sheol",
+            "or"
+          ],
+          "position": "final",
+          "rel_position": 0.86
+        },
+        {
+          "context": [
+            "chteeor",
+            "ytol",
+            "sheol",
+            "otam",
+            "tchor"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        }
+      ],
+      "pre_boundary_count": 2,
+      "post_noun_count": 3
+    },
+    {
+      "voynich": "sheey",
+      "decoded": "biir",
+      "confidence": 0.5,
+      "evidence": [
+        "SVO middle position: 51%",
+        "Phonetic match: 'bibe' (drink) 50%",
+        "Verb-like length (5 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "dlssho",
+            "kol",
+            "sheey",
+            "qokey",
+            "ykody"
+          ],
+          "position": "final",
+          "rel_position": 0.89
+        },
+        {
+          "context": [
+            "shan",
+            "danolsaiin",
+            "sheey",
+            "ckhor",
+            "okol"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "sheey",
+            "qoteydoiin",
+            "chor"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "ctheychoaiin",
+            "shor",
+            "sheey",
+            "cto",
+            "otoiin"
+          ],
+          "position": "initial",
+          "rel_position": 0.08
+        },
+        {
+          "context": [
+            "qkoshey",
+            "qoos",
+            "sheey",
+            "chorochy",
+            "dcheey"
+          ],
+          "position": "initial",
+          "rel_position": 0.1
+        },
+        {
+          "context": [
+            "ykshol",
+            "dor",
+            "sheey",
+            "cthy",
+            "dainskyshor"
+          ],
+          "position": "middle",
+          "rel_position": 0.68
+        },
+        {
+          "context": [
+            "qotchol",
+            "oteos",
+            "sheey",
+            "cthy",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.87
+        },
+        {
+          "context": [
+            "ykeea",
+            "chor",
+            "sheey",
+            "ysheol",
+            "chor"
+          ],
+          "position": "final",
+          "rel_position": 0.92
+        },
+        {
+          "context": [
+            "olchedy",
+            "galy",
+            "sheey",
+            "saiin",
+            "s"
+          ],
+          "position": "middle",
+          "rel_position": 0.32
+        },
+        {
+          "context": [
+            "chkeeey",
+            "ykey",
+            "sheey",
+            "teeedy",
+            "okeeos"
+          ],
+          "position": "middle",
+          "rel_position": 0.33
+        }
+      ],
+      "pre_boundary_count": 1,
+      "post_noun_count": 9
+    },
+    {
+      "voynich": "okaiin",
+      "decoded": "aneiin",
+      "confidence": 0.5,
+      "evidence": [
+        "Follows nouns 17x",
+        "Before preposition 16x",
+        "Sentence-initial 9x (imperative?)",
+        "Verb-like length (6 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "okaiin",
+            "cthy",
+            "pydaiin"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "s",
+            "chol",
+            "okaiin",
+            "s",
+            "ychol"
+          ],
+          "position": "middle",
+          "rel_position": 0.36
+        },
+        {
+          "context": [
+            "okshysaiiin",
+            "dolchds",
+            "okaiin",
+            "otaiin",
+            "chl"
+          ],
+          "position": "initial",
+          "rel_position": 0.18
+        },
+        {
+          "context": [
+            "qokor",
+            "okeor",
+            "okaiin",
+            "doiin",
+            "choky"
+          ],
+          "position": "initial",
+          "rel_position": 0.11
+        },
+        {
+          "context": [
+            "sholo",
+            "dshy",
+            "okaiin",
+            "okaiin",
+            "chol"
+          ],
+          "position": "middle",
+          "rel_position": 0.32
+        },
+        {
+          "context": [
+            "dshy",
+            "okaiin",
+            "okaiin",
+            "chol",
+            "chor"
+          ],
+          "position": "middle",
+          "rel_position": 0.36
+        },
+        {
+          "context": [
+            "otchol",
+            "cthar",
+            "okaiin",
+            "chol",
+            "daiiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.43
+        },
+        {
+          "context": [
+            "oekor",
+            "or",
+            "okaiin",
+            "or"
+          ],
+          "position": "middle",
+          "rel_position": 0.75
+        },
+        {
+          "context": [
+            "cthodaiin",
+            "oty",
+            "okaiin",
+            "sho",
+            "tshaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.38
+        },
+        {
+          "context": [
+            "dal",
+            "qok",
+            "okaiin",
+            "chkchy",
+            "syteair"
+          ],
+          "position": "middle",
+          "rel_position": 0.27
+        }
+      ],
+      "pre_boundary_count": 3,
+      "post_noun_count": 17
+    },
+    {
+      "voynich": "choky",
+      "decoded": "canr",
+      "confidence": 0.48,
+      "evidence": [
+        "SVO middle position: 53%",
+        "Phonetic match: 'sanat' (heals) 40%",
+        "Verb-like length (5 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "otoaiin",
+            "shoshy",
+            "choky",
+            "chol",
+            "cthol"
+          ],
+          "position": "middle",
+          "rel_position": 0.71
+        },
+        {
+          "context": [
+            "poeear",
+            "kshor",
+            "choky",
+            "os",
+            "cheoeesykeor"
+          ],
+          "position": "middle",
+          "rel_position": 0.67
+        },
+        {
+          "context": [
+            "oty",
+            "qoty",
+            "choky",
+            "cthy",
+            "chokchy"
+          ],
+          "position": "initial",
+          "rel_position": 0.12
+        },
+        {
+          "context": [
+            "okaiin",
+            "doiin",
+            "choky",
+            "shol",
+            "qoky"
+          ],
+          "position": "middle",
+          "rel_position": 0.21
+        },
+        {
+          "context": [
+            "qoy",
+            "koiin",
+            "choky",
+            "ykair",
+            "dainod"
+          ],
+          "position": "final",
+          "rel_position": 0.82
+        },
+        {
+          "context": [
+            "pchodaiin",
+            "chetody",
+            "choky",
+            "dchy",
+            "toy"
+          ],
+          "position": "middle",
+          "rel_position": 0.57
+        },
+        {
+          "context": [
+            "chotchy",
+            "ctholotol",
+            "choky",
+            "qoty",
+            "oksho"
+          ],
+          "position": "middle",
+          "rel_position": 0.55
+        },
+        {
+          "context": [
+            "chol",
+            "chchoty",
+            "choky",
+            "chy",
+            "ty"
+          ],
+          "position": "final",
+          "rel_position": 0.83
+        },
+        {
+          "context": [
+            "shosaiin",
+            "tchor",
+            "choky",
+            "qotchy",
+            "ky"
+          ],
+          "position": "middle",
+          "rel_position": 0.33
+        },
+        {
+          "context": [
+            "qoto",
+            "ykol",
+            "choky",
+            "choky",
+            "chol"
+          ],
+          "position": "middle",
+          "rel_position": 0.62
+        }
+      ],
+      "pre_boundary_count": 0,
+      "post_noun_count": 9
+    },
+    {
+      "voynich": "okchey",
+      "decoded": "ancir",
+      "confidence": 0.48,
+      "evidence": [
+        "SVO middle position: 49%",
+        "Phonetic match: 'facit' (makes) 40%",
+        "Verb-like length (6 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "okchey",
+            "kokaiin",
+            "chol"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "koshey",
+            "cthy",
+            "okchey",
+            "keey",
+            "keey"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "ychor",
+            "chor",
+            "okchey",
+            "qokom",
+            "oeeo"
+          ],
+          "position": "middle",
+          "rel_position": 0.22
+        },
+        {
+          "context": [
+            "shol",
+            "chotchy",
+            "okchey",
+            "deeeese",
+            "choty"
+          ],
+          "position": "final",
+          "rel_position": 0.85
+        },
+        {
+          "context": [
+            "chofchy",
+            "dam",
+            "okchey",
+            "do",
+            "r"
+          ],
+          "position": "middle",
+          "rel_position": 0.64
+        },
+        {
+          "context": [
+            "torchy",
+            "kcckys",
+            "okchey",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.89
+        },
+        {
+          "context": [
+            "okeeordaiin",
+            "qotcholm",
+            "okchey",
+            "dair",
+            "sholol"
+          ],
+          "position": "middle",
+          "rel_position": 0.44
+        },
+        {
+          "context": [
+            "oschotshl",
+            "daiin",
+            "okchey",
+            "kol",
+            "daiinshol"
+          ],
+          "position": "middle",
+          "rel_position": 0.2
+        },
+        {
+          "context": [
+            "okey",
+            "keody",
+            "okchey",
+            "sair",
+            "okees"
+          ],
+          "position": "initial",
+          "rel_position": 0.19
+        },
+        {
+          "context": [
+            "opchy",
+            "lkedy",
+            "okchey",
+            "shorqoy",
+            "kam"
+          ],
+          "position": "middle",
+          "rel_position": 0.44
+        }
+      ],
+      "pre_boundary_count": 1,
+      "post_noun_count": 5
+    },
+    {
+      "voynich": "shey",
+      "decoded": "bir",
+      "confidence": 0.45,
+      "evidence": [
+        "Follows nouns 16x",
+        "Before preposition 10x",
+        "Phonetic match: 'bibe' (drink) 50%",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "ckeor",
+            "chor",
+            "shey",
+            "kol",
+            "chol"
+          ],
+          "position": "initial",
+          "rel_position": 0.09
+        },
+        {
+          "context": [
+            "chol",
+            "tshodeesy",
+            "shey",
+            "pydeey",
+            "chy"
+          ],
+          "position": "middle",
+          "rel_position": 0.42
+        },
+        {
+          "context": [
+            "shey",
+            "cthar",
+            "choo"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "daiiin",
+            "chckhoys",
+            "shey",
+            "dor",
+            "chol"
+          ],
+          "position": "middle",
+          "rel_position": 0.73
+        },
+        {
+          "context": [
+            "sols",
+            "sheol",
+            "shey",
+            "okadaiin",
+            "qokchor"
+          ],
+          "position": "middle",
+          "rel_position": 0.37
+        },
+        {
+          "context": [
+            "qokeey",
+            "qot",
+            "shey",
+            "qokody",
+            "qokchey"
+          ],
+          "position": "middle",
+          "rel_position": 0.63
+        },
+        {
+          "context": [
+            "cto",
+            "otoiin",
+            "shey",
+            "qotchoiinchodain",
+            "ytchoy"
+          ],
+          "position": "middle",
+          "rel_position": 0.2
+        },
+        {
+          "context": [
+            "polyshy",
+            "shey",
+            "tchody",
+            "qopchy"
+          ],
+          "position": "middle",
+          "rel_position": 0.2
+        },
+        {
+          "context": [
+            "chokesey",
+            "shey",
+            "okalchal"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "sho",
+            "kcholdar",
+            "shey",
+            "cthar",
+            "chotain"
+          ],
+          "position": "middle",
+          "rel_position": 0.25
+        }
+      ],
+      "pre_boundary_count": 2,
+      "post_noun_count": 16
+    },
+    {
+      "voynich": "sheaiin",
+      "decoded": "bieiin",
+      "confidence": 0.436,
+      "evidence": [
+        "SVO middle position: 51%",
+        "Phonetic match: 'bibitur' (is drunk) 43%"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "shcthal",
+            "sarchor",
+            "sheaiin",
+            "shor",
+            "chykchy"
+          ],
+          "position": "middle",
+          "rel_position": 0.38
+        },
+        {
+          "context": [
+            "chcphy",
+            "oky",
+            "sheaiin",
+            "qotchol",
+            "oteos"
+          ],
+          "position": "middle",
+          "rel_position": 0.67
+        },
+        {
+          "context": [
+            "otchy",
+            "s",
+            "sheaiin",
+            "cho",
+            "l"
+          ],
+          "position": "middle",
+          "rel_position": 0.62
+        },
+        {
+          "context": [
+            "chepchy",
+            "shor",
+            "sheaiin",
+            "qotchor",
+            "chy"
+          ],
+          "position": "middle",
+          "rel_position": 0.46
+        },
+        {
+          "context": [
+            "cphor",
+            "she",
+            "sheaiin",
+            "otshchor",
+            "dainshckhy"
+          ],
+          "position": "middle",
+          "rel_position": 0.71
+        },
+        {
+          "context": [
+            "chor",
+            "sholy",
+            "sheaiin",
+            "dotody",
+            "sotoiiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.2
+        },
+        {
+          "context": [
+            "pchair",
+            "oly",
+            "sheaiin",
+            "shol",
+            "daiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        }
+      ],
+      "pre_boundary_count": 0,
+      "post_noun_count": 2
+    },
+    {
+      "voynich": "dol",
+      "decoded": "dal",
+      "confidence": 0.43,
+      "evidence": [
+        "Before boundary 8x",
+        "Follows nouns 16x",
+        "Phonetic match: 'valet' (is effective) 40%",
+        "Verb-like length (3 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "kotchody",
+            "dal",
+            "dol",
+            "chokeo",
+            "dair"
+          ],
+          "position": "middle",
+          "rel_position": 0.34
+        },
+        {
+          "context": [
+            "choeee",
+            "cheol",
+            "dol",
+            "ctheyykol",
+            "dol"
+          ],
+          "position": "initial",
+          "rel_position": 0.11
+        },
+        {
+          "context": [
+            "dol",
+            "ctheyykol",
+            "dol",
+            "dolo",
+            "ykol"
+          ],
+          "position": "middle",
+          "rel_position": 0.22
+        },
+        {
+          "context": [
+            "okol",
+            "chol",
+            "dol",
+            "ky",
+            "darshol"
+          ],
+          "position": "middle",
+          "rel_position": 0.38
+        },
+        {
+          "context": [
+            "okor",
+            "olytol",
+            "dol",
+            "dar"
+          ],
+          "position": "final",
+          "rel_position": 0.93
+        },
+        {
+          "context": [
+            "cthol",
+            "dol",
+            "ychor",
+            "chor"
+          ],
+          "position": "initial",
+          "rel_position": 0.06
+        },
+        {
+          "context": [
+            "shol",
+            "deees",
+            "dol",
+            "dchodaiin",
+            "qotchy"
+          ],
+          "position": "initial",
+          "rel_position": 0.17
+        },
+        {
+          "context": [
+            "odaiin",
+            "shotchodol",
+            "dol",
+            "dor",
+            "aiin"
+          ],
+          "position": "final",
+          "rel_position": 0.91
+        },
+        {
+          "context": [
+            "dycheocthy",
+            "oksheo",
+            "dol",
+            "daird",
+            "shol"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        },
+        {
+          "context": [
+            "kchschy",
+            "etodaiin",
+            "dol",
+            "daiiirchy",
+            "ckhy"
+          ],
+          "position": "middle",
+          "rel_position": 0.61
+        }
+      ],
+      "pre_boundary_count": 8,
+      "post_noun_count": 16
+    },
+    {
+      "voynich": "chdy",
+      "decoded": "cdr",
+      "confidence": 0.43,
+      "evidence": [
+        "Follows nouns 16x",
+        "Before preposition 10x",
+        "Phonetic match: 'curat' (cures) 40%",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "odaiin",
+            "chodain",
+            "chdy",
+            "okain",
+            "dan"
+          ],
+          "position": "middle",
+          "rel_position": 0.44
+        },
+        {
+          "context": [
+            "cfhodoral",
+            "sharsyshydal",
+            "chdy",
+            "or"
+          ],
+          "position": "final",
+          "rel_position": 0.83
+        },
+        {
+          "context": [
+            "olaiin",
+            "okar",
+            "chdy",
+            "chdy",
+            "oldyokar"
+          ],
+          "position": "middle",
+          "rel_position": 0.33
+        },
+        {
+          "context": [
+            "okar",
+            "chdy",
+            "chdy",
+            "oldyokar",
+            "chdy"
+          ],
+          "position": "middle",
+          "rel_position": 0.42
+        },
+        {
+          "context": [
+            "chdy",
+            "oldyokar",
+            "chdy",
+            "tshdy",
+            "shefchdy"
+          ],
+          "position": "middle",
+          "rel_position": 0.58
+        },
+        {
+          "context": [
+            "kschdy",
+            "chdy",
+            "chefchy",
+            "shdy"
+          ],
+          "position": "initial",
+          "rel_position": 0.05
+        },
+        {
+          "context": [
+            "chedy",
+            "qokedy",
+            "chdy",
+            "kal",
+            "shs"
+          ],
+          "position": "middle",
+          "rel_position": 0.71
+        },
+        {
+          "context": [
+            "chdy",
+            "tedy",
+            "kchdy"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "okeedy",
+            "checkhy",
+            "chdy",
+            "kain",
+            "cheor"
+          ],
+          "position": "middle",
+          "rel_position": 0.62
+        },
+        {
+          "context": [
+            "qolain",
+            "chckshy",
+            "chdy",
+            "dair",
+            "shckhey"
+          ],
+          "position": "middle",
+          "rel_position": 0.46
+        }
+      ],
+      "pre_boundary_count": 1,
+      "post_noun_count": 16
+    },
+    {
+      "voynich": "do",
+      "decoded": "da",
+      "confidence": 0.43,
+      "evidence": [
+        "SVO middle position: 50%",
+        "Phonetic match: 'datur' (is given) 40%"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "okodar",
+            "chody",
+            "do",
+            "ckhy",
+            "ckho"
+          ],
+          "position": "initial",
+          "rel_position": 0.11
+        },
+        {
+          "context": [
+            "dolo",
+            "ykol",
+            "do",
+            "lchody",
+            "okol"
+          ],
+          "position": "middle",
+          "rel_position": 0.39
+        },
+        {
+          "context": [
+            "kcheol",
+            "okal",
+            "do",
+            "r",
+            "chear"
+          ],
+          "position": "middle",
+          "rel_position": 0.57
+        },
+        {
+          "context": [
+            "qo",
+            "darchor",
+            "do",
+            "qotor",
+            "shees"
+          ],
+          "position": "middle",
+          "rel_position": 0.45
+        },
+        {
+          "context": [
+            "kcheals",
+            "shookche",
+            "do",
+            "dchy",
+            "dain"
+          ],
+          "position": "final",
+          "rel_position": 0.86
+        },
+        {
+          "context": [
+            "dam",
+            "okchey",
+            "do",
+            "r",
+            "cheeey"
+          ],
+          "position": "middle",
+          "rel_position": 0.73
+        },
+        {
+          "context": [
+            "odor",
+            "sho",
+            "do",
+            "otolodal",
+            "doiir"
+          ],
+          "position": "middle",
+          "rel_position": 0.77
+        },
+        {
+          "context": [
+            "s",
+            "oshctho",
+            "do",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.83
+        },
+        {
+          "context": [
+            "tchy",
+            "do",
+            "ldar",
+            "shotchdy"
+          ],
+          "position": "initial",
+          "rel_position": 0.03
+        },
+        {
+          "context": [
+            "chokam",
+            "otchordyokchol",
+            "do",
+            "qokshy",
+            "qockhom"
+          ],
+          "position": "middle",
+          "rel_position": 0.24
+        }
+      ],
+      "pre_boundary_count": 1,
+      "post_noun_count": 5
+    },
+    {
+      "voynich": "chain",
+      "decoded": "cein",
+      "confidence": 0.4,
+      "evidence": [
+        "SVO middle position: 49%",
+        "Verb-like length (5 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "sheear",
+            "s",
+            "chain",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.95
+        },
+        {
+          "context": [
+            "chain",
+            "dein",
+            "dchckhy"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "okain",
+            "chan",
+            "chain",
+            "cthor",
+            "dainykchydaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.4
+        },
+        {
+          "context": [
+            "okaiin",
+            "tochon",
+            "chain",
+            "shan",
+            "shotychshyshy"
+          ],
+          "position": "middle",
+          "rel_position": 0.74
+        },
+        {
+          "context": [
+            "qor",
+            "chain",
+            "cthorchy",
+            "opchol"
+          ],
+          "position": "middle",
+          "rel_position": 0.25
+        },
+        {
+          "context": [
+            "chtshar",
+            "chotar",
+            "chain",
+            "dal",
+            "shor"
+          ],
+          "position": "middle",
+          "rel_position": 0.74
+        },
+        {
+          "context": [
+            "chain",
+            "dain",
+            "ykolody"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "chariin",
+            "daiin",
+            "chain",
+            "dychetcho",
+            "dy"
+          ],
+          "position": "middle",
+          "rel_position": 0.71
+        },
+        {
+          "context": [
+            "ockh",
+            "odor",
+            "chain",
+            "qokodykchdy",
+            "chees"
+          ],
+          "position": "middle",
+          "rel_position": 0.62
+        }
+      ],
+      "pre_boundary_count": 2,
+      "post_noun_count": 5
+    },
+    {
+      "voynich": "ytal",
+      "decoded": "rcel",
+      "confidence": 0.4,
+      "evidence": [
+        "SVO middle position: 50%",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "oky",
+            "chor",
+            "ytal",
+            "chol",
+            "oky"
+          ],
+          "position": "final",
+          "rel_position": 0.83
+        },
+        {
+          "context": [
+            "daiin",
+            "sor",
+            "ytal",
+            "sokaiin",
+            "oty"
+          ],
+          "position": "middle",
+          "rel_position": 0.5
+        },
+        {
+          "context": [
+            "oldam",
+            "ytal",
+            "seor",
+            "chdal"
+          ],
+          "position": "initial",
+          "rel_position": 0.17
+        },
+        {
+          "context": [
+            "otaiin",
+            "qodal",
+            "ytal",
+            "cheodar",
+            "sodyoteo"
+          ],
+          "position": "middle",
+          "rel_position": 0.77
+        },
+        {
+          "context": [
+            "alchy",
+            "ytal",
+            "dal",
+            "chodoldy"
+          ],
+          "position": "middle",
+          "rel_position": 0.25
+        }
+      ],
+      "pre_boundary_count": 0,
+      "post_noun_count": 4
+    },
+    {
+      "voynich": "shos",
+      "decoded": "bax",
+      "confidence": 0.4,
+      "evidence": [
+        "SVO middle position: 49%",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "kos",
+            "daiin",
+            "shos",
+            "cfhol",
+            "shody"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        },
+        {
+          "context": [
+            "otor",
+            "shol",
+            "shos",
+            "fshodchy",
+            "otchy"
+          ],
+          "position": "middle",
+          "rel_position": 0.64
+        },
+        {
+          "context": [
+            "dar",
+            "cheockhy",
+            "shos",
+            "cheos",
+            "char"
+          ],
+          "position": "middle",
+          "rel_position": 0.36
+        },
+        {
+          "context": [
+            "shos",
+            "chckhol",
+            "n"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "orsheckhy",
+            "ockhody",
+            "shos",
+            "alol",
+            "dy"
+          ],
+          "position": "final",
+          "rel_position": 0.85
+        }
+      ],
+      "pre_boundary_count": 0,
+      "post_noun_count": 2
+    },
+    {
+      "voynich": "okchy",
+      "decoded": "ancr",
+      "confidence": 0.4,
+      "evidence": [
+        "SVO middle position: 51%",
+        "Verb-like length (5 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "cthor",
+            "okchy",
+            "taiin",
+            "shokeeol"
+          ],
+          "position": "initial",
+          "rel_position": 0.14
+        },
+        {
+          "context": [
+            "daiin",
+            "qotchol",
+            "okchy",
+            "okchor",
+            "oiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.33
+        },
+        {
+          "context": [
+            "odyd",
+            "otchy",
+            "okchy",
+            "dshy",
+            "dardy"
+          ],
+          "position": "middle",
+          "rel_position": 0.62
+        },
+        {
+          "context": [
+            "ydor",
+            "sheal",
+            "okchy",
+            "qoy",
+            "koiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.65
+        },
+        {
+          "context": [
+            "chodaiin",
+            "oty",
+            "okchy",
+            "sho",
+            "kchol"
+          ],
+          "position": "middle",
+          "rel_position": 0.65
+        },
+        {
+          "context": [
+            "qokol",
+            "dykaiin",
+            "okchy",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.86
+        },
+        {
+          "context": [
+            "odchaiin",
+            "cthy",
+            "okchy",
+            "kchy",
+            "dchol"
+          ],
+          "position": "middle",
+          "rel_position": 0.22
+        },
+        {
+          "context": [
+            "ykchy",
+            "sdiil",
+            "okchy",
+            "okol",
+            "ok"
+          ],
+          "position": "middle",
+          "rel_position": 0.56
+        },
+        {
+          "context": [
+            "sheey",
+            "keedy",
+            "okchy",
+            "okar",
+            "okedy"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        },
+        {
+          "context": [
+            "qokchy",
+            "dychedy",
+            "okchy",
+            "chckhdy",
+            "chdaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.68
+        }
+      ],
+      "pre_boundary_count": 1,
+      "post_noun_count": 6
+    },
+    {
+      "voynich": "qoteey",
+      "decoded": "quaciir",
+      "confidence": 0.4,
+      "evidence": [
+        "SVO middle position: 48%",
+        "Verb-like length (6 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "soydy",
+            "qoteey",
+            "qotchor",
+            "dy"
+          ],
+          "position": "initial",
+          "rel_position": 0.09
+        },
+        {
+          "context": [
+            "daiin",
+            "qotchy",
+            "qoteey",
+            "daiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.67
+        },
+        {
+          "context": [
+            "cthody",
+            "chodchy",
+            "qoteey",
+            "cho",
+            "chodaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.61
+        },
+        {
+          "context": [
+            "otchy",
+            "tchy",
+            "qoteey",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.97
+        },
+        {
+          "context": [
+            "qoteey",
+            "chy",
+            "kchy"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "toy",
+            "shysho",
+            "qoteey",
+            "chor",
+            "cheeky"
+          ],
+          "position": "middle",
+          "rel_position": 0.64
+        },
+        {
+          "context": [
+            "shodshey",
+            "qoteeey",
+            "qoteey",
+            "daiin"
+          ],
+          "position": "final",
+          "rel_position": 0.9
+        },
+        {
+          "context": [
+            "qoteey",
+            "cthar",
+            "ochey"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        }
+      ],
+      "pre_boundary_count": 3,
+      "post_noun_count": 0
+    },
+    {
+      "voynich": "qoty",
+      "decoded": "quacr",
+      "confidence": 0.4,
+      "evidence": [
+        "SVO middle position: 51%",
+        "Verb-like length (4 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "qotchoiin",
+            "sheyr",
+            "qoty",
+            "soiin",
+            "chaiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.69
+        },
+        {
+          "context": [
+            "chokody",
+            "shodaiin",
+            "qoty",
+            "ochody",
+            "chykey"
+          ],
+          "position": "final",
+          "rel_position": 0.81
+        },
+        {
+          "context": [
+            "rotcho",
+            "shor",
+            "qoty",
+            "qotor",
+            "cthy"
+          ],
+          "position": "middle",
+          "rel_position": 0.74
+        },
+        {
+          "context": [
+            "sheo",
+            "pcheey",
+            "qoty",
+            "daiin"
+          ],
+          "position": "middle",
+          "rel_position": 0.8
+        },
+        {
+          "context": [
+            "chor",
+            "shcthy",
+            "qoty",
+            "qotoiin",
+            "qokol"
+          ],
+          "position": "middle",
+          "rel_position": 0.33
+        },
+        {
+          "context": [
+            "qoty",
+            "chol",
+            "cthy"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "cthor",
+            "oty",
+            "qoty",
+            "choky",
+            "cthy"
+          ],
+          "position": "initial",
+          "rel_position": 0.08
+        },
+        {
+          "context": [
+            "choy",
+            "qoty",
+            "chy",
+            "kchy"
+          ],
+          "position": "initial",
+          "rel_position": 0.04
+        },
+        {
+          "context": [
+            "shol",
+            "chcthy",
+            "qoty",
+            "chy",
+            "tol"
+          ],
+          "position": "final",
+          "rel_position": 0.81
+        },
+        {
+          "context": [
+            "chol",
+            "shd",
+            "qoty",
+            "d",
+            "s"
+          ],
+          "position": "middle",
+          "rel_position": 0.62
+        }
+      ],
+      "pre_boundary_count": 3,
+      "post_noun_count": 3
+    },
+    {
+      "voynich": "cthal",
+      "decoded": "hcel",
+      "confidence": 0.4,
+      "evidence": [
+        "SVO middle position: 49%",
+        "Verb-like length (5 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "cthal",
+            "dar",
+            "shear"
+          ],
+          "position": "initial",
+          "rel_position": 0.0
+        },
+        {
+          "context": [
+            "qokchy",
+            "yty",
+            "cthal",
+            "chky",
+            "dain"
+          ],
+          "position": "final",
+          "rel_position": 0.91
+        },
+        {
+          "context": [
+            "shaiin",
+            "cthar",
+            "cthal",
+            "okal",
+            "dar"
+          ],
+          "position": "middle",
+          "rel_position": 0.71
+        },
+        {
+          "context": [
+            "cthar",
+            "cthal",
+            "okol",
+            "qotar"
+          ],
+          "position": "middle",
+          "rel_position": 0.2
+        },
+        {
+          "context": [
+            "qod",
+            "char",
+            "cthal",
+            "ockhoees",
+            "oeees"
+          ],
+          "position": "middle",
+          "rel_position": 0.73
+        },
+        {
+          "context": [
+            "tshy",
+            "cphaiin",
+            "cthal",
+            "kal",
+            "okol"
+          ],
+          "position": "middle",
+          "rel_position": 0.39
+        }
+      ],
+      "pre_boundary_count": 1,
+      "post_noun_count": 4
+    },
+    {
+      "voynich": "tchody",
+      "decoded": "ccadr",
+      "confidence": 0.4,
+      "evidence": [
+        "SVO middle position: 49%",
+        "Verb-like length (6 chars)"
+      ],
+      "contexts": [
+        {
+          "context": [
+            "oty",
+            "doldom",
+            "tchody",
+            "shocthol",
+            "chocthey"
+          ],
+          "position": "middle",
+          "rel_position": 0.65
+        },
+        {
+          "context": [
+            "polyshy",
+            "shey",
+            "tchody",
+            "qopchy",
+            "otshol"
+          ],
+          "position": "middle",
+          "rel_position": 0.4
+        },
+        {
+          "context": [
+            "cphy",
+            "shey",
+            "tchody",
+            "shoyty",
+            "socthody"
+          ],
+          "position": "middle",
+          "rel_position": 0.6
+        },
+        {
+          "context": [
+            "cthy",
+            "tchody",
+            "cthy",
+            "chckhey"
+          ],
+          "position": "initial",
+          "rel_position": 0.08
+        },
+        {
+          "context": [
+            "qoty",
+            "okchol",
+            "tchody",
+            "qotam",
+            "okyytoldy"
+          ],
+          "position": "middle",
+          "rel_position": 0.72
+        }
+      ],
+      "pre_boundary_count": 0,
+      "post_noun_count": 1
+    }
+  ]
+}

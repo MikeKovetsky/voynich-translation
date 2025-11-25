@@ -1,0 +1,112 @@
+# Track 37: EVA Transliteration Bias Test
+
+## OBJECTIVE
+Test whether our "Latin-like" findings are artifacts of how EVA was designed,
+or genuine properties of the Voynich script.
+
+## THE HYPOTHESIS
+EVA designers may have (consciously or unconsciously) assigned Latin letters
+to Voynich glyphs in ways that produce Latin-like statistics.
+
+## EXPERIMENT DESIGN
+
+### 1. Create Alternative Transliterations
+Design 3-4 alternative letter assignments that are equally valid:
+
+**Alternative A: "Arabic-biased"**
+Assign letters to glyphs to maximize Arabic-like patterns:
+- High-frequency glyphs → Arabic vowels
+- Gallows → Arabic emphatics
+- etc.
+
+**Alternative B: "Hebrew-biased"**  
+Assign letters to maximize Hebrew-like patterns
+
+**Alternative C: "Random"**
+Random but consistent letter assignment
+
+**Alternative D: "Inverted"**
+Swap vowels ↔ consonants from EVA
+
+### 2. Re-analyze with Each System
+For each alternative transliteration:
+- Calculate letter frequencies
+- Find common endings
+- Run language comparison (Track 33 style)
+- Calculate "Latin-like" score
+
+### 3. Compare Results
+| Transliteration | Latin Score | Arabic Score | Hebrew Score |
+|-----------------|-------------|--------------|--------------|
+| EVA (original)  | 45% | ? | ? |
+| Alternative A   | ? | ? | ? |
+| Alternative B   | ? | ? | ? |
+| Random          | ? | ? | ? |
+
+### 4. Statistical Test
+If EVA is unbiased:
+- Latin score should be similar across all transliterations
+- Or at least, EVA shouldn't be HIGHEST for Latin
+
+If EVA is biased:
+- EVA will show highest Latin score
+- Alternatives will show lower Latin scores
+- "Latin-like" finding is an artifact
+
+## EXPECTED OUTPUT
+
+### Main Script
+`eva_bias_test.py` - Bias testing script
+
+### Result Files
+
+1. `results/eva_bias_test.json`
+```json
+{
+  "transliterations_tested": [
+    {
+      "name": "EVA (original)",
+      "mapping": {...},
+      "scores": {
+        "latin": 0.0,
+        "arabic": 0.0,
+        "hebrew": 0.0,
+        "random_baseline": 0.0
+      }
+    }
+  ],
+  "bias_detected": true/false,
+  "conclusion": "..."
+}
+```
+
+2. `results/eva_bias_report.md`
+- Methodology explanation
+- Alternative transliteration designs
+- Comparative scores
+- Statistical significance
+- Conclusion: Is "Latin-like" real or artifact?
+
+## SUCCESS CRITERIA
+- [ ] At least 3 alternative transliterations created
+- [ ] Each tested against Latin, Arabic, Hebrew
+- [ ] Statistical comparison completed
+- [ ] Clear verdict on EVA bias
+
+## IMPLICATIONS
+
+**If bias detected:**
+- All "Latin-like" findings are suspect
+- Need to restart analysis without Latin assumptions
+- Consider Voynich as unknown script family
+
+**If no bias:**
+- "Latin-like" findings are genuine
+- Strengthens Latin hypothesis
+- Focus on abbreviation/encoding explanation
+
+## NOTES
+- This is a crucial methodological validation
+- Could overturn all previous conclusions
+- Scientific rigor requires this test
+- Document methodology carefully for reproducibility

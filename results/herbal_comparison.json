@@ -1,0 +1,450 @@
+{
+  "medieval_vocabulary": {
+    "opening_phrases": [
+      "herba est",
+      "planta est",
+      "haec herba",
+      "de herba",
+      "herba quae",
+      "herbarum vires",
+      "herba dicitur"
+    ],
+    "description_phrases": [
+      "habet folia",
+      "folia sunt",
+      "flos est",
+      "flores habet",
+      "radix est",
+      "caulis est",
+      "crescit in",
+      "nascitur in",
+      "folia longa",
+      "folia lata",
+      "flores rubri",
+      "flores albi"
+    ],
+    "use_phrases": [
+      "valet contra",
+      "prodest ad",
+      "curat",
+      "sanat",
+      "contra dolorem",
+      "ad stomachum",
+      "contra venenum",
+      "pro febribus",
+      "ad oculos",
+      "contra febrem",
+      "ad vulnera",
+      "contra morbos",
+      "remedium est"
+    ],
+    "preparation_phrases": [
+      "in aqua coquatur",
+      "cum vino bibatur",
+      "in aqua",
+      "cum vino",
+      "decoquendo",
+      "pistata",
+      "contusa",
+      "cum melle",
+      "cum aceto",
+      "in vino",
+      "inposita",
+      "in pulvere",
+      "sucus",
+      "decocta"
+    ],
+    "dosage_phrases": [
+      "drachmae",
+      "quantum sufficit",
+      "modice",
+      "ad libitum",
+      "partes aequales",
+      "in potu",
+      "ieiunus"
+    ],
+    "body_parts": [
+      "oculos",
+      "stomachum",
+      "caput",
+      "pectus",
+      "ventrem",
+      "dolorem",
+      "febrem",
+      "vulnera",
+      "dentium",
+      "manus"
+    ],
+    "plant_parts": [
+      "folia",
+      "flos",
+      "flores",
+      "radix",
+      "radices",
+      "caulis",
+      "semen",
+      "cortex",
+      "sucus",
+      "herba",
+      "planta",
+      "stirps"
+    ],
+    "common_words": [
+      "aqua",
+      "vinum",
+      "mel",
+      "oleum",
+      "acetum",
+      "sal",
+      "medicina",
+      "remedium",
+      "virtus",
+      "vires",
+      "potio",
+      "de",
+      "ad",
+      "contra",
+      "cum",
+      "in",
+      "pro",
+      "per",
+      "et"
+    ]
+  },
+  "voynich_patterns": {
+    "entry_openings": [
+      "8am",
+      "2o",
+      "oy",
+      "4ok19",
+      "9",
+      "8oy",
+      "o",
+      "4oh19",
+      "8ay",
+      "8an",
+      "4o",
+      "81oy",
+      "oe",
+      "1oe",
+      "ok1oe",
+      "4okoy",
+      "s",
+      "2oe",
+      "soy",
+      "4ok1oy"
+    ],
+    "entry_endings": [
+      "8am",
+      "89",
+      "K9",
+      "8ay",
+      "s",
+      "8ae",
+      "am",
+      "8ap",
+      "ap",
+      "8an",
+      "1am",
+      "oe",
+      "ok9",
+      "8aN",
+      "s9",
+      "8",
+      "9",
+      "okap",
+      "ohap",
+      "ay"
+    ],
+    "frequent_bigrams": [
+      {
+        "sequence": "1oe 8am",
+        "count": 27
+      },
+      {
+        "sequence": "1oe 1oe",
+        "count": 18
+      },
+      {
+        "sequence": "oy am",
+        "count": 12
+      },
+      {
+        "sequence": "8am K9",
+        "count": 10
+      },
+      {
+        "sequence": "19 8am",
+        "count": 8
+      },
+      {
+        "sequence": "8am Koy",
+        "count": 8
+      },
+      {
+        "sequence": "1oy 8am",
+        "count": 8
+      },
+      {
+        "sequence": "1oe 1oy",
+        "count": 7
+      },
+      {
+        "sequence": "okoe 1oe",
+        "count": 7
+      },
+      {
+        "sequence": "19 h19",
+        "count": 7
+      },
+      {
+        "sequence": "1oy 19",
+        "count": 6
+      },
+      {
+        "sequence": "8am 2o",
+        "count": 6
+      },
+      {
+        "sequence": "1oy 1oe",
+        "count": 6
+      },
+      {
+        "sequence": "1oe 19",
+        "count": 6
+      },
+      {
+        "sequence": "8am 8an",
+        "count": 6
+      },
+      {
+        "sequence": "8an 8am",
+        "count": 6
+      },
+      {
+        "sequence": "oe 8am",
+        "count": 6
+      },
+      {
+        "sequence": "am 8am",
+        "count": 6
+      },
+      {
+        "sequence": "Koe 8am",
+        "count": 5
+      },
+      {
+        "sequence": "1oe Koe",
+        "count": 5
+      }
+    ],
+    "frequent_trigrams": [
+      {
+        "sequence": "1oe 1oe hoy",
+        "count": 2
+      },
+      {
+        "sequence": "1oe 8am K9",
+        "count": 2
+      },
+      {
+        "sequence": "8am K9 s1c9",
+        "count": 2
+      },
+      {
+        "sequence": "1oe 19 1am",
+        "count": 2
+      },
+      {
+        "sequence": "1oe 1oe 1oe",
+        "count": 2
+      },
+      {
+        "sequence": "Koy 1oe 1oy",
+        "count": 2
+      },
+      {
+        "sequence": "8am 4ok19 4okoy",
+        "count": 2
+      },
+      {
+        "sequence": "19 h19 89",
+        "count": 2
+      },
+      {
+        "sequence": "8am K9 89",
+        "count": 2
+      },
+      {
+        "sequence": "8am Koy 1oe",
+        "count": 2
+      },
+      {
+        "sequence": "1oy 1oe 8am",
+        "count": 2
+      },
+      {
+        "sequence": "1oe 8am 1ham",
+        "count": 2
+      },
+      {
+        "sequence": "19 8am 1c9",
+        "count": 2
+      },
+      {
+        "sequence": "am oy am",
+        "count": 2
+      },
+      {
+        "sequence": "oy am oham",
+        "count": 2
+      }
+    ]
+  },
+  "structural_similarity": {
+    "opening_match": 0.0,
+    "description_match": 0.0,
+    "uses_match": 0.182,
+    "preparation_match": 0.0,
+    "article_pattern": 0.637,
+    "case_endings": 1.0,
+    "overall": 0.303
+  },
+  "phrase_matches": [
+    {
+      "voynich": "oho8ay 1o89",
+      "decoded": "aradeitads",
+      "target": "prodest ad",
+      "score": 0.667
+    },
+    {
+      "voynich": "oho8ay 1o89 8o",
+      "decoded": "aradeitadsda",
+      "target": "prodest ad",
+      "score": 0.667
+    },
+    {
+      "voynich": "K9 ho8",
+      "decoded": "csrad",
+      "target": "curat",
+      "score": 0.6
+    },
+    {
+      "voynich": "K9 hok1o89",
+      "decoded": "csrantads",
+      "target": "curat",
+      "score": 0.6
+    },
+    {
+      "voynich": "K9 ho8 8am",
+      "decoded": "csraddem",
+      "target": "curat",
+      "score": 0.6
+    },
+    {
+      "voynich": "K9 hok1o89 8ae",
+      "decoded": "csrantadsdei",
+      "target": "curat",
+      "score": 0.6
+    },
+    {
+      "voynich": "goko9",
+      "decoded": "ganas",
+      "target": "sanat",
+      "score": 0.6
+    },
+    {
+      "voynich": "1ok9 1okc9",
+      "decoded": "tanstancs",
+      "target": "sanat",
+      "score": 0.6
+    },
+    {
+      "voynich": "goko9 2oe",
+      "decoded": "ganasbai",
+      "target": "sanat",
+      "score": 0.6
+    },
+    {
+      "voynich": "1oeo 1coy",
+      "decoded": "taiatcai",
+      "target": "sanat",
+      "score": 0.6
+    },
+    {
+      "voynich": "5oe oes",
+      "decoded": "saiaix",
+      "target": "sanat",
+      "score": 0.6
+    }
+  ],
+  "latin_botanical_terms": [
+    {
+      "voynich": "hA719",
+      "decoded": "ralts",
+      "latin": "sal",
+      "meaning": "salt",
+      "score": 0.667
+    },
+    {
+      "voynich": "9oy",
+      "decoded": "sai",
+      "latin": "sal",
+      "meaning": "salt",
+      "score": 0.667
+    },
+    {
+      "voynich": "5oe",
+      "decoded": "sai",
+      "latin": "sal",
+      "meaning": "salt",
+      "score": 0.667
+    },
+    {
+      "voynich": "5o8am",
+      "decoded": "sadem",
+      "latin": "sal",
+      "meaning": "salt",
+      "score": 0.667
+    }
+  ],
+  "cornflower_comparison": {
+    "expected_content": [
+      "ad oculos",
+      "oculorum ruborem",
+      "contra inflammationem",
+      "ad vulnera",
+      "contra febrem",
+      "ad nervos"
+    ],
+    "first_word_f17r": {
+      "voynich": "f2o89",
+      "decoded": "fuads"
+    },
+    "name_matches": [],
+    "found_in_f17r": [],
+    "structure_match": {
+      "structure_match": "partial",
+      "content_plausibility": "uncertain",
+      "notes": "Text shows PREFIX+ROOT+SUFFIX structure consistent with agglutinative grammar. First word f2o89 likely contains plant name. Multiple case markers suggest descriptive botanical text."
+    }
+  },
+  "verdict": {
+    "is_medieval_herbal": false,
+    "confidence": 0.303,
+    "closest_match": "Latin Herbal (Macer Floridus style)",
+    "evidence": {
+      "for": [
+        "Case endings match Latin grammar",
+        "Article pattern (4oh-) consistent with \"herba\" construction",
+        "4 Latin botanical terms found",
+        "Structure matches PREFIX+ROOT+SUFFIX pattern of Latin"
+      ],
+      "against": [
+        "Not all phrases decode to readable Latin",
+        "Some common words don't match expectations",
+        "Phonetic mapping may be incomplete"
+      ]
+    }
+  }
+}

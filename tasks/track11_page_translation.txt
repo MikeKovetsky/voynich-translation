@@ -1,0 +1,217 @@
+================================================================================
+TRACK 11: FULL PAGE TRANSLATION ATTEMPT
+================================================================================
+
+GOAL:
+Pick ONE botanical page with an identified plant and attempt a complete
+translation. This is the ultimate test: can we produce coherent text?
+
+================================================================================
+CRITICAL CONTEXT:
+================================================================================
+
+Best candidate page: f17r (Cornflower / Centaurea cyanus)
+- 75% plant identification confidence (highest)
+- Clear botanical illustration
+- First word: "f2o89" (likely plant name)
+
+Alternative: f5r (Hellebore / Helleborus)
+- 60% identification confidence
+- First word: "h2o89"
+
+Our grammar model:
+- PREFIX: 4o- = article "the", 1- = verb marker, 8- = "of/from"
+- SUFFIX: -9 = nominative, -89 = genitive plural, -am = accusative, -oe = locative
+- ROOT: ~50 identified morphemes
+
+================================================================================
+INPUT DATA:
+================================================================================
+
+1. /voynich_raw.txt - Extract text for target page
+2. /results/plant_identifications.json - Plant information
+3. /results/case_mapping.json - Grammar mappings
+4. All validation results from other tracks (if available)
+
+================================================================================
+SPECIFIC TASKS:
+================================================================================
+
+1. EXTRACT PAGE TEXT
+   - Get all text from f17r (or f5r as backup)
+   - Format: <17r.1>text <17r.2>text etc.
+   - Parse into individual words
+   - Count: total words, unique words
+
+2. PARSE EACH WORD GRAMMATICALLY
+   For every word on the page:
+   - Identify prefix (4o-, 1-, 8-, o-, or none)
+   - Identify root (middle portion)
+   - Identify suffix (-9, -89, -am, -oe, -ay, -an, etc.)
+   
+   Create table:
+   | Word | Prefix | Root | Suffix | Proposed Function |
+   |------|--------|------|--------|-------------------|
+
+3. APPLY PHONETIC MAPPING
+   Use best mapping from other tracks (or create Latin-based mapping):
+   
+   Proposed mapping (Latin frequency):
+   - o → a/o (most common)
+   - 9 → s/is (nominative ending)
+   - 4 → qu
+   - h → r (common consonant)
+   - c → c/k
+   - 8 → d/t
+   - a → a
+   - m → m
+   - e → e
+   - etc.
+
+   Apply to each word → get "decoded" form
+
+4. ATTEMPT TRANSLATION
+   Using grammar rules + phonetic mapping:
+   
+   a) Translate sentence by sentence
+   b) For each sentence:
+      - Identify subject (nominative case)
+      - Identify verb (1- prefix words)
+      - Identify object (accusative case)
+      - Identify modifiers (genitive, locative)
+   
+   c) Produce English/Latin gloss:
+      - "4ohan 8am 1c89" → "the-herb.ABL of-it root.GEN.PL" → "from the herb, of its roots"
+
+5. COMPARE WITH MEDIEVAL HERBAL STRUCTURE
+   Typical medieval herbal entry structure:
+   
+   1. Plant name
+   2. Physical description (leaves, flowers, roots)
+   3. Habitat (where it grows)
+   4. Medicinal properties (hot/cold, wet/dry)
+   5. Uses (for what ailments)
+   6. Preparation (how to use)
+   
+   Does our translation follow this pattern?
+
+6. ASSESS COHERENCE
+   Rate the translation:
+   - Grammatical coherence (do sentences parse?)
+   - Semantic coherence (do meanings make sense?)
+   - Domain coherence (does it sound like herbal text?)
+   - Cross-reference with known Cornflower/Hellebore properties
+
+================================================================================
+EXPECTED OUTPUT FORMAT:
+================================================================================
+
+1. FILE: results/page_translation_f17r.json
+{
+  "page": "f17r",
+  "identified_plant": "Cornflower (Centaurea cyanus)",
+  "total_words": N,
+  "unique_words": N,
+  
+  "word_analysis": [
+    {
+      "word": "f2o89",
+      "position": "17r.1",
+      "prefix": "f",
+      "root": "2o",
+      "suffix": "89",
+      "decoded": "xxx",
+      "proposed_meaning": "cornflower (genitive plural)",
+      "confidence": 0.0-1.0
+    },
+    ... (all words)
+  ],
+  
+  "sentence_translations": [
+    {
+      "line": "17r.1",
+      "original": "f2o89 xxx xxx xxx",
+      "parsed": "[PLANT] [NOUN.ACC] [VERB] [NOUN.LOC]",
+      "translation_attempt": "Cornflowers, in their roots...",
+      "coherence_score": 0.0-1.0
+    }
+  ],
+  
+  "full_translation": "Complete attempted translation text...",
+  
+  "assessment": {
+    "grammatical_coherence": 0.0-1.0,
+    "semantic_coherence": 0.0-1.0,
+    "domain_coherence": 0.0-1.0,
+    "matches_known_properties": true/false,
+    "overall_verdict": "SUCCESS" | "PARTIAL" | "FAILURE"
+  },
+  
+  "comparison_with_known_herbal": {
+    "structure_match": "Follows medieval herbal pattern: [yes/no/partial]",
+    "content_plausibility": "Description matches known plant: [yes/no/partial]",
+    "notes": "..."
+  }
+}
+
+2. FILE: results/page_translation_f17r.md
+Human-readable translation with commentary:
+- Line-by-line breakdown
+- Alternative readings where uncertain
+- Comparison with actual Cornflower properties
+- Honest assessment of what works and what doesn't
+
+================================================================================
+SUCCESS CRITERIA:
+================================================================================
+
+- [ ] Complete word-by-word analysis of target page
+- [ ] Grammatical parsing for all words
+- [ ] Full translation attempt produced
+- [ ] Coherence assessment completed
+- [ ] Comparison with known herbal text structure
+
+VERDICT STANDARDS:
+
+SUCCESS: Translation is grammatically coherent, makes botanical sense,
+         matches known plant properties
+
+PARTIAL: Some sentences parse well, overall structure recognizable,
+         but significant portions unclear
+
+FAILURE: Translation produces nonsense, no botanical meaning,
+         structure doesn't match herbal texts
+
+================================================================================
+IMPORTANT NOTES:
+================================================================================
+
+- This is the CRITICAL TEST. If we can't produce coherent text for ONE page,
+  our entire model needs revision.
+  
+- Be HONEST in assessment. Partial success is still progress.
+
+- If translation produces recognizable text in a specific language,
+  that's MAJOR PROGRESS even if not perfect.
+
+- Document ALL uncertainties and alternative readings.
+
+- If this fails completely, note what specifically breaks:
+  * Is the phonetic mapping wrong?
+  * Is the grammar model wrong?
+  * Is the word segmentation wrong?
+  * Is the underlying hypothesis (agglutinative language) wrong?
+
+================================================================================
+REFERENCE: CORNFLOWER PROPERTIES (for comparison)
+================================================================================
+
+Centaurea cyanus (Cornflower) medieval uses:
+- Eye wash (blue flowers = eye affinity in doctrine of signatures)
+- Fever reducer
+- Digestive aid
+- Wound healing
+- Often called "Hurt-sickle" (because it dulled harvesting tools)
+
+If our translation mentions eyes, fever, digestion, or wounds,
+that would be STRONG evidence of success!

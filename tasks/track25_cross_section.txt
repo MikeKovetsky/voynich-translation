@@ -1,0 +1,148 @@
+# Track 25: Cross-Section Validation
+
+## OBJECTIVE
+Test if the phonetic mapping developed for the botanical section works on other manuscript sections (astronomical, biological/nymphs).
+
+## BACKGROUND
+All analysis so far focused on botanical section (f1r-f57r). The Voynich has other sections:
+- **Astronomical** (f67r-f73v): Zodiac diagrams, star charts
+- **Biological** (f75r-f84v): "Nymphs" in pools/tubes
+- **Cosmological** (f85r-f86v): Circular diagrams
+- **Pharmaceutical** (f88r-f102v): Containers, recipes
+- **Recipes** (f103r-f116v): Text-only pages
+
+If the same cipher was used throughout, the mapping should work on all sections.
+
+## INPUT FILES
+- `data/eva_ivtff.txt` - Full EVA transcription (all sections)
+- `voynich_raw.txt` - Full Claston transcription
+- `results/master_dictionary.json` - From Track 24 (if available)
+- `results/transcription_mapping.json` - EVA↔Claston conversion
+- `results/botanical_decoded.json` - For comparison
+
+## TASKS
+
+### 1. Section Extraction
+Extract text from each section:
+- Astronomical (f67r-f73v)
+- Biological (f75r-f84v)
+- Pharmaceutical (f88r-f102v)
+- Recipes (f103r-f116v)
+
+### 2. Apply Phonetic Mapping
+For each section:
+- Decode all words using confirmed phonetic key
+- Calculate Latin match rate
+- Compare with botanical section (99.2%)
+
+### 3. Section-Specific Analysis
+
+#### Astronomical Section
+- Look for star names (Sirius, Spica, etc.)
+- Look for month names (Latin months)
+- Look for zodiac names (Aries, Taurus, etc.)
+- Compare decoded words with astronomical vocabulary
+
+#### Biological Section
+- Look for body part terms (manus, caput, etc.)
+- Look for water/liquid terms (aqua, humor)
+- Look for medical terms
+
+#### Pharmaceutical Section
+- Look for preparation terms (recipe, misce, coque)
+- Look for ingredient lists
+- Compare structure with botanical recipes
+
+#### Recipes Section
+- Pure text analysis
+- Look for recipe structure
+- Compare with botanical text patterns
+
+### 4. Vocabulary Comparison
+- Find words unique to each section
+- Find words shared across sections
+- Calculate vocabulary overlap with botanical
+
+### 5. Statistical Comparison
+For each section calculate:
+- Total words
+- Unique words
+- Latin match rate
+- Word length distribution
+- Character frequency
+
+### 6. Consistency Check
+Verify:
+- Same phonetic mapping works
+- Same abbreviation system applies
+- Same grammar structure present
+
+## EXPECTED OUTPUT
+
+### Main Script
+`cross_section.py` - Multi-section analysis script
+
+### Result Files
+
+1. `results/cross_section.json`
+```json
+{
+  "sections": {
+    "astronomical": {
+      "folios": ["f67r", "f67v", ...],
+      "total_words": 0,
+      "unique_words": 0,
+      "latin_match_rate": 0.0,
+      "top_decoded_words": [...],
+      "domain_specific": {
+        "star_names_found": [...],
+        "month_names_found": [...],
+        "zodiac_names_found": [...]
+      }
+    },
+    "biological": {...},
+    "pharmaceutical": {...},
+    "recipes": {...}
+  },
+  "comparison": {
+    "botanical_match_rate": 0.992,
+    "astronomical_match_rate": 0.0,
+    "biological_match_rate": 0.0,
+    "pharmaceutical_match_rate": 0.0,
+    "recipes_match_rate": 0.0
+  },
+  "shared_vocabulary": [...],
+  "section_unique_vocabulary": {...},
+  "consistency_score": 0.0
+}
+```
+
+2. `results/cross_section_report.md`
+- Match rate comparison table
+- Section-specific findings
+- Domain vocabulary identified
+- Consistency assessment
+- Conclusion: same cipher or different?
+
+3. `results/astronomical_decoded.json`
+- Full word-by-word decode of astronomical section
+
+4. `results/biological_decoded.json`
+- Full word-by-word decode of biological section
+
+## SUCCESS CRITERIA
+- [ ] All 4 sections extracted and decoded
+- [ ] Latin match rate calculated for each
+- [ ] Domain-specific vocabulary searched
+- [ ] Vocabulary overlap calculated
+- [ ] Consistency score determined
+- [ ] Conclusion about cipher uniformity
+
+## NOTES
+- Expect some variation between sections (different topics)
+- Astronomical section has known zodiac labels to validate
+- If match rates drop significantly, may indicate:
+  - Different cipher for different sections
+  - Different scribes
+  - Botanical mapping is overfitting
+- This is a CRITICAL validation of our overall hypothesis

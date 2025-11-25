@@ -1,0 +1,121 @@
+# Track 32: Unified Key Synthesis & Test
+
+## OBJECTIVE
+Combine derivations from Track 30 (zodiac) and Track 31 (plants) into a unified key, then rigorously test it.
+
+## BACKGROUND
+If zodiac and plant derivations produce consistent mappings, we may have found the correct key.
+If they conflict, we learn important information about what the encoding IS and ISN'T.
+
+## INPUT FILES
+- `results/zodiac_key_derivation.json` - From Track 30
+- `results/plant_key_derivation.json` - From Track 31
+- `results/phonetic_key_validation.json` - Original key validation
+- `results/master_dictionary.json` - Previous dictionary
+
+## TASKS
+
+### 1. Merge Derived Keys
+Combine zodiac and plant derivations:
+```json
+{
+  "o": {
+    "zodiac_derived": "a",
+    "plant_derived": "a", 
+    "original_key": "a",
+    "consensus": "a",
+    "confidence": 0.95
+  },
+  "k": {
+    "zodiac_derived": "p",
+    "plant_derived": "n",
+    "original_key": "n",
+    "consensus": "CONFLICT",
+    "confidence": 0.0
+  }
+}
+```
+
+### 2. Resolve Conflicts
+For each conflicting character:
+- Count supporting evidence for each value
+- Check which produces more valid Latin words
+- Make principled decision or mark as "uncertain"
+
+### 3. Build Final Unified Key
+Create the best possible key from all evidence:
+- High-confidence mappings (all sources agree)
+- Medium-confidence (2/3 sources agree)
+- Low-confidence (1/3 sources or conflicts)
+
+### 4. Full Corpus Test with New Key
+Apply unified key to:
+- ALL zodiac labels → recalculate match rate
+- ALL plant labels → recalculate match rate
+- Full botanical section → new Latin match rate
+- Sample sentences → coherence scores
+
+### 5. Compare with Original Key
+| Test | Original Key | Unified Key | Change |
+|------|--------------|-------------|--------|
+| Zodiac match | 60-85% | ?% | ? |
+| Plant match | 0.9% | ?% | ? |
+| Medieval vocab | 2.2% | ?% | ? |
+| Coherence | 37.9% | ?% | ? |
+
+### 6. Verdict
+Based on results, conclude:
+- Is the unified key better?
+- If yes, adopt it as new standard
+- If no, what does this tell us about the encoding?
+
+## EXPECTED OUTPUT
+
+### Main Script
+`unified_key.py` - Synthesis and test script
+
+### Result Files
+
+1. `results/unified_key.json`
+```json
+{
+  "sources": ["zodiac", "plant", "original"],
+  "unified_mappings": {
+    "o": {"value": "a", "confidence": 0.95, "sources": ["zodiac", "plant", "original"]},
+    ...
+  },
+  "conflicts_resolved": [...],
+  "conflicts_unresolved": [...],
+  "test_results": {
+    "zodiac_match": 0.0,
+    "plant_match": 0.0,
+    "medieval_vocab": 0.0,
+    "coherence": 0.0
+  },
+  "comparison": {
+    "better_than_original": false,
+    "improvements": [...],
+    "regressions": [...]
+  }
+}
+```
+
+2. `results/unified_key_report.md`
+- Merge process summary
+- Conflict resolution decisions
+- Final unified key table
+- Test results comparison
+- Verdict and recommendations
+
+## SUCCESS CRITERIA
+- [ ] All character mappings merged
+- [ ] Conflicts documented and resolved (or marked)
+- [ ] Full corpus tested with new key
+- [ ] Clear comparison with original key
+- [ ] Actionable verdict: adopt, modify, or reject
+
+## NOTES
+- This is the critical synthesis step
+- If unified key is worse, we learn encoding is NOT simple substitution
+- If unified key is better, we've made progress
+- Either outcome advances our understanding

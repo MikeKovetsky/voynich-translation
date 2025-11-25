@@ -1,0 +1,972 @@
+{
+  "structural_comparison": {
+    "consonantal_analysis": {
+      "voynich_vowel_ratio": 0.3567,
+      "expected_consonantal": 0.15,
+      "expected_full_vowel": 0.4,
+      "is_consonantal": false,
+      "interpretation": "VOWEL-RICH"
+    },
+    "consonantal_score": 0.3
+  },
+  "root_patterns": {
+    "top_roots": [
+      {
+        "root": "pln",
+        "count": 429,
+        "examples": [
+          "plantdoiiin",
+          "plantsor",
+          "planttchor",
+          "plantypchaiin",
+          "plantsol"
+        ]
+      },
+      {
+        "root": "chk",
+        "count": 239,
+        "examples": [
+          "chokedy",
+          "ochoiky",
+          "chokoiin",
+          "ochkchar",
+          "choksy"
+        ]
+      },
+      {
+        "root": "tch",
+        "count": 215,
+        "examples": [
+          "otchol",
+          "tcheodl",
+          "tchokyd",
+          "otechys",
+          "oteechy"
+        ]
+      },
+      {
+        "root": "pch",
+        "count": 198,
+        "examples": [
+          "pchodar",
+          "opchaly",
+          "pochaiin",
+          "ypchd",
+          "pchd"
+        ]
+      },
+      {
+        "root": "kch",
+        "count": 197,
+        "examples": [
+          "okchan",
+          "ykchochdy",
+          "ykechody",
+          "ykchyr",
+          "kchorchor"
+        ]
+      },
+      {
+        "root": "chd",
+        "count": 169,
+        "examples": [
+          "chodalr",
+          "chedaiiin",
+          "chedl",
+          "chdaly",
+          "chdair"
+        ]
+      },
+      {
+        "root": "chc",
+        "count": 166,
+        "examples": [
+          "chctey",
+          "cheockhy",
+          "cheockhedchy",
+          "chcphey",
+          "chcky"
+        ]
+      },
+      {
+        "root": "cht",
+        "count": 156,
+        "examples": [
+          "chotchol",
+          "chotchs",
+          "ocheoithey",
+          "chotear",
+          "chetchey"
+        ]
+      },
+      {
+        "root": "chl",
+        "count": 146,
+        "examples": [
+          "cholfchy",
+          "cheolchdaiin",
+          "chlaiiin",
+          "chealor",
+          "cheolchcthy"
+        ]
+      },
+      {
+        "root": "lch",
+        "count": 138,
+        "examples": [
+          "olcha",
+          "lchedam",
+          "olcheo",
+          "olchey",
+          "olchokal"
+        ]
+      },
+      {
+        "root": "shk",
+        "count": 125,
+        "examples": [
+          "shokeeol",
+          "shkeal",
+          "sheokey",
+          "sheoikhy",
+          "sheokain"
+        ]
+      },
+      {
+        "root": "cth",
+        "count": 114,
+        "examples": [
+          "cths",
+          "ctheyplant",
+          "cthear",
+          "octheol",
+          "ctholo"
+        ]
+      },
+      {
+        "root": "dch",
+        "count": 110,
+        "examples": [
+          "dcheol",
+          "dcheoky",
+          "dchedy",
+          "dcholy",
+          "dchdas"
+        ]
+      },
+      {
+        "root": "shd",
+        "count": 100,
+        "examples": [
+          "sheedain",
+          "sheedar",
+          "sheoody",
+          "shedchy",
+          "sheodaly"
+        ]
+      },
+      {
+        "root": "shc",
+        "count": 86,
+        "examples": [
+          "shchy",
+          "sheecthey",
+          "shckhor",
+          "ysheockhy",
+          "shecphy"
+        ]
+      },
+      {
+        "root": "fgr",
+        "count": 85,
+        "examples": [
+          "figureolshedy",
+          "figureycheeytal",
+          "figureokchdy",
+          "figureteeolain",
+          "figurecsedy"
+        ]
+      },
+      {
+        "root": "ksh",
+        "count": 79,
+        "examples": [
+          "kshol",
+          "ksheo",
+          "oksheey",
+          "keshdy",
+          "keshed"
+        ]
+      },
+      {
+        "root": "fch",
+        "count": 79,
+        "examples": [
+          "fcho",
+          "fchcho",
+          "fchsom",
+          "yfchedy",
+          "ofchey"
+        ]
+      },
+      {
+        "root": "chp",
+        "count": 78,
+        "examples": [
+          "chopchy",
+          "chpor",
+          "chpcheos",
+          "chepol",
+          "chepchy"
+        ]
+      },
+      {
+        "root": "tsh",
+        "count": 76,
+        "examples": [
+          "toshy",
+          "tshedy",
+          "tshodpy",
+          "otshshdy",
+          "ytashy"
+        ]
+      }
+    ],
+    "root_variations": {
+      "pln": {
+        "count": 429,
+        "examples": [
+          "plantdoiiin",
+          "plantsor",
+          "planttchor",
+          "plantypchaiin",
+          "plantsol",
+          "plantopalke",
+          "plantcheody",
+          "plantsheky"
+        ]
+      },
+      "chk": {
+        "count": 239,
+        "examples": [
+          "chokedy",
+          "ochoiky",
+          "chokoiin",
+          "ochkchar",
+          "choksy",
+          "cheykedy",
+          "cheokchey",
+          "chekar"
+        ]
+      },
+      "tch": {
+        "count": 215,
+        "examples": [
+          "otchol",
+          "tcheodl",
+          "tchokyd",
+          "otechys",
+          "oteechy",
+          "tchoep",
+          "ytcheeky",
+          "tchykchy"
+        ]
+      },
+      "pch": {
+        "count": 198,
+        "examples": [
+          "pchodar",
+          "opchaly",
+          "pochaiin",
+          "ypchd",
+          "pchd",
+          "pchodol",
+          "opcheey",
+          "pchedchdy"
+        ]
+      },
+      "kch": {
+        "count": 197,
+        "examples": [
+          "okchan",
+          "ykchochdy",
+          "ykechody",
+          "ykchyr",
+          "kchorchor",
+          "ykchs",
+          "kcheoly",
+          "okchesal"
+        ]
+      },
+      "chd": {
+        "count": 169,
+        "examples": [
+          "chodalr",
+          "chedaiiin",
+          "chedl",
+          "chdaly",
+          "chdair",
+          "chdalor",
+          "chodaly",
+          "chodalg"
+        ]
+      },
+      "chc": {
+        "count": 166,
+        "examples": [
+          "chctey",
+          "cheockhy",
+          "cheockhedchy",
+          "chcphey",
+          "chcky",
+          "chchsty",
+          "chckheey",
+          "chcthaiin"
+        ]
+      },
+      "cht": {
+        "count": 156,
+        "examples": [
+          "chotchol",
+          "chotchs",
+          "ocheoithey",
+          "chotear",
+          "chetchey",
+          "chtaiir",
+          "chetchody",
+          "chetdy"
+        ]
+      },
+      "chl": {
+        "count": 146,
+        "examples": [
+          "cholfchy",
+          "cheolchdaiin",
+          "chlaiiin",
+          "chealor",
+          "cheolchcthy",
+          "cholols",
+          "chal",
+          "chaloly"
+        ]
+      },
+      "lch": {
+        "count": 138,
+        "examples": [
+          "olcha",
+          "lchedam",
+          "olcheo",
+          "olchey",
+          "olchokal",
+          "lched",
+          "lchdal",
+          "olcheees"
+        ]
+      },
+      "shk": {
+        "count": 125,
+        "examples": [
+          "shokeeol",
+          "shkeal",
+          "sheokey",
+          "sheoikhy",
+          "sheokain",
+          "sheoked",
+          "shkchor",
+          "sheekly"
+        ]
+      },
+      "cth": {
+        "count": 114,
+        "examples": [
+          "cths",
+          "ctheyplant",
+          "cthear",
+          "octheol",
+          "ctholo",
+          "cthyaiin",
+          "cthhy",
+          "cthl"
+        ]
+      },
+      "dch": {
+        "count": 110,
+        "examples": [
+          "dcheol",
+          "dcheoky",
+          "dchedy",
+          "dcholy",
+          "dchdas",
+          "dcheytain",
+          "dcholdyplant",
+          "dchod"
+        ]
+      },
+      "shd": {
+        "count": 100,
+        "examples": [
+          "sheedain",
+          "sheedar",
+          "sheoody",
+          "shedchy",
+          "sheodaly",
+          "shodshey",
+          "shody",
+          "sheodaiin"
+        ]
+      },
+      "shc": {
+        "count": 86,
+        "examples": [
+          "shchy",
+          "sheecthey",
+          "shckhor",
+          "ysheockhy",
+          "shecphy",
+          "shckhhy",
+          "shcthaiin",
+          "shocfhey"
+        ]
+      }
+    },
+    "root_pattern_score": 1.0,
+    "total_roots_found": 209,
+    "interpretation": "ROOT_SYSTEM_LIKELY"
+  },
+  "affix_analysis": {
+    "top_prefixes": [
+      {
+        "prefix": "ch",
+        "count": 1067
+      },
+      {
+        "prefix": "qo",
+        "count": 733
+      },
+      {
+        "prefix": "sh",
+        "count": 537
+      },
+      {
+        "prefix": "ot",
+        "count": 447
+      },
+      {
+        "prefix": "pl",
+        "count": 424
+      },
+      {
+        "prefix": "pla",
+        "count": 424
+      },
+      {
+        "prefix": "che",
+        "count": 414
+      },
+      {
+        "prefix": "ok",
+        "count": 399
+      },
+      {
+        "prefix": "cho",
+        "count": 305
+      },
+      {
+        "prefix": "ol",
+        "count": 293
+      },
+      {
+        "prefix": "she",
+        "count": 246
+      },
+      {
+        "prefix": "qok",
+        "count": 241
+      },
+      {
+        "prefix": "da",
+        "count": 232
+      },
+      {
+        "prefix": "yk",
+        "count": 173
+      },
+      {
+        "prefix": "qot",
+        "count": 163
+      }
+    ],
+    "top_suffixes": [
+      {
+        "suffix": "dy",
+        "count": 1144
+      },
+      {
+        "suffix": "in",
+        "count": 950
+      },
+      {
+        "suffix": "ey",
+        "count": 699
+      },
+      {
+        "suffix": "iin",
+        "count": 632
+      },
+      {
+        "suffix": "hy",
+        "count": 614
+      },
+      {
+        "suffix": "ar",
+        "count": 529
+      },
+      {
+        "suffix": "ol",
+        "count": 477
+      },
+      {
+        "suffix": "edy",
+        "count": 429
+      },
+      {
+        "suffix": "or",
+        "count": 426
+      },
+      {
+        "suffix": "al",
+        "count": 405
+      },
+      {
+        "suffix": "ain",
+        "count": 299
+      },
+      {
+        "suffix": "eey",
+        "count": 297
+      },
+      {
+        "suffix": "ody",
+        "count": 290
+      },
+      {
+        "suffix": "chy",
+        "count": 277
+      },
+      {
+        "suffix": "hey",
+        "count": 269
+      }
+    ],
+    "hebrew_prefix_matches": [
+      {
+        "eva": "ch",
+        "hebrew": "ha",
+        "count": 1067
+      },
+      {
+        "eva": "qo",
+        "hebrew": "ha",
+        "count": 733
+      },
+      {
+        "eva": "sh",
+        "hebrew": "she",
+        "count": 537
+      },
+      {
+        "eva": "ot",
+        "hebrew": "mi",
+        "count": 447
+      },
+      {
+        "eva": "ok",
+        "hebrew": "be",
+        "count": 399
+      },
+      {
+        "eva": "ol",
+        "hebrew": "le",
+        "count": 293
+      }
+    ],
+    "hebrew_suffix_matches": [
+      {
+        "eva": "dy",
+        "hebrew": "i",
+        "count": 1144
+      },
+      {
+        "eva": "in",
+        "hebrew": "im",
+        "count": 950
+      },
+      {
+        "eva": "ey",
+        "hebrew": "ot",
+        "count": 699
+      },
+      {
+        "eva": "ar",
+        "hebrew": "cha",
+        "count": 529
+      },
+      {
+        "eva": "ol",
+        "hebrew": "o",
+        "count": 477
+      },
+      {
+        "eva": "al",
+        "hebrew": "ah",
+        "count": 405
+      }
+    ],
+    "prefix_concentration": 0.3722,
+    "suffix_concentration": 0.4686,
+    "affix_pattern_score": 0.4204
+  },
+  "word_length_comparison": {
+    "voynich_avg_length": 6.75,
+    "hebrew_typical_range": "3-5 letters",
+    "voynich_distribution": {
+      "2": 0.0097,
+      "3": 0.0296,
+      "4": 0.0796,
+      "5": 0.1594,
+      "6": 0.2129,
+      "7": 0.2032,
+      "8": 0.1365,
+      "9": 0.0783,
+      "10": 0.0387
+    },
+    "short_words_ratio": 0.1189,
+    "length_similarity": 0.5008,
+    "interpretation": "DIFFERENT"
+  },
+  "glyph_to_hebrew_mapping": {
+    "frequency_based_mapping": {
+      "o": {
+        "hebrew_letter": "yod",
+        "voynich_freq": 0.1278,
+        "hebrew_freq": 0.1106,
+        "difference": 0.0172
+      },
+      "e": {
+        "hebrew_letter": "he",
+        "voynich_freq": 0.1049,
+        "hebrew_freq": 0.1087,
+        "difference": 0.0038
+      },
+      "h": {
+        "hebrew_letter": "vav",
+        "voynich_freq": 0.0945,
+        "hebrew_freq": 0.1038,
+        "difference": 0.0093
+      },
+      "a": {
+        "hebrew_letter": "mem",
+        "voynich_freq": 0.078,
+        "hebrew_freq": 0.0836,
+        "difference": 0.0056
+      },
+      "y": {
+        "hebrew_letter": "lamed",
+        "voynich_freq": 0.0766,
+        "hebrew_freq": 0.0711,
+        "difference": 0.0055
+      },
+      "c": {
+        "hebrew_letter": "alef",
+        "voynich_freq": 0.0725,
+        "hebrew_freq": 0.0618,
+        "difference": 0.0107
+      },
+      "l": {
+        "hebrew_letter": "resh",
+        "voynich_freq": 0.0642,
+        "hebrew_freq": 0.0564,
+        "difference": 0.0078
+      },
+      "d": {
+        "hebrew_letter": "bet",
+        "voynich_freq": 0.0614,
+        "hebrew_freq": 0.0533,
+        "difference": 0.0081
+      },
+      "k": {
+        "hebrew_letter": "nun",
+        "voynich_freq": 0.0477,
+        "hebrew_freq": 0.051,
+        "difference": 0.0033
+      },
+      "s": {
+        "hebrew_letter": "shin",
+        "voynich_freq": 0.0464,
+        "hebrew_freq": 0.0463,
+        "difference": 0.0001
+      },
+      "i": {
+        "hebrew_letter": "tav",
+        "voynich_freq": 0.0453,
+        "hebrew_freq": 0.045,
+        "difference": 0.0003
+      },
+      "t": {
+        "hebrew_letter": "kaf",
+        "voynich_freq": 0.0446,
+        "hebrew_freq": 0.0378,
+        "difference": 0.0068
+      },
+      "r": {
+        "hebrew_letter": "ayin",
+        "voynich_freq": 0.0407,
+        "hebrew_freq": 0.0325,
+        "difference": 0.0082
+      },
+      "n": {
+        "hebrew_letter": "dalet",
+        "voynich_freq": 0.0281,
+        "hebrew_freq": 0.0317,
+        "difference": 0.0036
+      },
+      "p": {
+        "hebrew_letter": "het",
+        "voynich_freq": 0.0241,
+        "hebrew_freq": 0.0253,
+        "difference": 0.0012
+      },
+      "q": {
+        "hebrew_letter": "samekh",
+        "voynich_freq": 0.0156,
+        "hebrew_freq": 0.0186,
+        "difference": 0.003
+      },
+      "f": {
+        "hebrew_letter": "pe",
+        "voynich_freq": 0.0091,
+        "hebrew_freq": 0.0175,
+        "difference": 0.0084
+      },
+      "m": {
+        "hebrew_letter": "gimel",
+        "voynich_freq": 0.008,
+        "hebrew_freq": 0.0165,
+        "difference": 0.0085
+      },
+      "g": {
+        "hebrew_letter": "zayin",
+        "voynich_freq": 0.0033,
+        "hebrew_freq": 0.0157,
+        "difference": 0.0124
+      },
+      "%": {
+        "hebrew_letter": "qof",
+        "voynich_freq": 0.0032,
+        "hebrew_freq": 0.0147,
+        "difference": 0.0115
+      },
+      "u": {
+        "hebrew_letter": "tsade",
+        "voynich_freq": 0.0016,
+        "hebrew_freq": 0.0089,
+        "difference": 0.0073
+      },
+      "x": {
+        "hebrew_letter": "tet",
+        "voynich_freq": 0.0004,
+        "hebrew_freq": 0.0063,
+        "difference": 0.0059
+      }
+    },
+    "average_frequency_similarity": 0.9933,
+    "top_5_matches": {
+      "o": "yod",
+      "e": "he",
+      "h": "vav",
+      "a": "mem",
+      "y": "lamed"
+    },
+    "mapping_quality": "HIGH"
+  },
+  "vocabulary_comparison": {
+    "direct_matches": [
+      "dam",
+      "shok",
+      "mar",
+      "kar"
+    ],
+    "partial_matches": [
+      {
+        "hebrew_term": "kamon",
+        "voynich_word": "lkamo",
+        "match_type": "prefix"
+      },
+      {
+        "hebrew_term": "shoshen",
+        "voynich_word": "plantshos",
+        "match_type": "prefix"
+      },
+      {
+        "hebrew_term": "teomim",
+        "voynich_word": "oteom",
+        "match_type": "prefix"
+      },
+      {
+        "hebrew_term": "seora",
+        "voynich_word": "seorfold",
+        "match_type": "prefix"
+      },
+      {
+        "hebrew_term": "shibolet",
+        "voynich_word": "oletal",
+        "match_type": "prefix"
+      },
+      {
+        "hebrew_term": "holeh",
+        "voynich_word": "oloiramhole",
+        "match_type": "prefix"
+      },
+      {
+        "hebrew_term": "mechem",
+        "voynich_word": "chem",
+        "match_type": "prefix"
+      },
+      {
+        "hebrew_term": "rosh",
+        "voynich_word": "chosaroshol",
+        "match_type": "prefix"
+      },
+      {
+        "hebrew_term": "keshet",
+        "voynich_word": "qokeshs",
+        "match_type": "prefix"
+      },
+      {
+        "hebrew_term": "shok",
+        "voynich_word": "shokeeol",
+        "match_type": "prefix"
+      }
+    ],
+    "consonant_pattern_matches": [
+      {
+        "hebrew_term": "shoshen",
+        "voynich_word": "sheosam",
+        "consonant_pattern": "shs"
+      },
+      {
+        "hebrew_term": "shaked",
+        "voynich_word": "shokeeol",
+        "consonant_pattern": "shk"
+      }
+    ],
+    "total_hebrew_terms_tested": 89,
+    "match_rate": 0.1124,
+    "interpretation": "WEAK_SIMILARITY"
+  },
+  "positional_analysis": {
+    "strong_final_glyphs": {
+      "y": {
+        "final_count": 3286,
+        "initial_count": 596,
+        "ratio": 5.5
+      },
+      "r": {
+        "final_count": 1192,
+        "initial_count": 139,
+        "ratio": 8.51
+      },
+      "n": {
+        "final_count": 1035,
+        "initial_count": 0,
+        "ratio": 1035.0
+      },
+      "m": {
+        "final_count": 397,
+        "initial_count": 2,
+        "ratio": 132.33
+      },
+      "h": {
+        "final_count": 45,
+        "initial_count": 5,
+        "ratio": 7.5
+      },
+      ":": {
+        "final_count": 1,
+        "initial_count": 0,
+        "ratio": 1.0
+      },
+      "T": {
+        "final_count": 1,
+        "initial_count": 0,
+        "ratio": 1.0
+      }
+    },
+    "strong_initial_glyphs": {
+      "o": {
+        "initial_count": 1793,
+        "final_count": 352,
+        "ratio": 5.08
+      },
+      "c": {
+        "initial_count": 1366,
+        "final_count": 3,
+        "ratio": 341.5
+      },
+      "q": {
+        "initial_count": 839,
+        "final_count": 0,
+        "ratio": 839.0
+      },
+      "p": {
+        "initial_count": 722,
+        "final_count": 17,
+        "ratio": 40.11
+      },
+      "t": {
+        "initial_count": 342,
+        "final_count": 97,
+        "ratio": 3.49
+      },
+      "k": {
+        "initial_count": 317,
+        "final_count": 29,
+        "ratio": 10.57
+      },
+      "a": {
+        "initial_count": 277,
+        "final_count": 75,
+        "ratio": 3.64
+      },
+      "f": {
+        "initial_count": 199,
+        "final_count": 16,
+        "ratio": 11.71
+      },
+      "i": {
+        "initial_count": 16,
+        "final_count": 5,
+        "ratio": 2.67
+      },
+      "j": {
+        "initial_count": 5,
+        "final_count": 0,
+        "ratio": 5.0
+      }
+    },
+    "hebrew_final_letters": 5,
+    "voynich_position_specific_glyphs": 24,
+    "positional_score": 1.0,
+    "interpretation": "SIMILAR_TO_HEBREW"
+  },
+  "overall_hebrew_score": 0.6972,
+  "component_scores": {
+    "consonantal": 0.3,
+    "root_patterns": 1.0,
+    "affixes": 0.4204,
+    "word_length": 0.5008,
+    "frequency_mapping": 0.9933,
+    "positional": 1.0
+  },
+  "verdict": "STRONG_HEBREW_CHARACTERISTICS"
+}

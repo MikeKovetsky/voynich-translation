@@ -1,0 +1,872 @@
+{
+  "page": "f2v",
+  "total_sentences": 8,
+  "sentences": [
+    {
+      "voynich_raw": "kooiin cheo pchor otaiin o dain chordair shty",
+      "voynich_segmented": [
+        "kooiin",
+        "cheo",
+        "pchor",
+        "otaiin",
+        "o",
+        "dain",
+        "chordair",
+        "shty"
+      ],
+      "decoded_words": [
+        {
+          "eva": "kooiin",
+          "decoded": "naaiin",
+          "latin": "naaiin",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "cheo",
+          "decoded": "cia",
+          "latin": "cia",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "pchor",
+          "decoded": "pcex",
+          "latin": "pcex",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "otaiin",
+          "decoded": "atiiin",
+          "latin": "atiiin",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "o",
+          "decoded": "a",
+          "latin": "ad",
+          "english": "prep: ad",
+          "confidence": 0.7,
+          "category": "preposition",
+          "source": "phonetic"
+        },
+        {
+          "eva": "dain",
+          "decoded": "dein",
+          "latin": "Latin",
+          "english": "Latin preposition 'de' (of/from) with case endings",
+          "confidence": 0.8,
+          "category": "paradigm",
+          "source": "high_confidence"
+        },
+        {
+          "eva": "chordair",
+          "decoded": "cexdeir",
+          "latin": "ex",
+          "english": "prep: ex",
+          "confidence": 0.7,
+          "category": "preposition",
+          "source": "phonetic"
+        },
+        {
+          "eva": "shty",
+          "decoded": "bts",
+          "latin": "bts",
+          "english": "?noun",
+          "confidence": 0.2,
+          "category": "noun_guess",
+          "source": "phonetic"
+        }
+      ],
+      "grammar_parse": {
+        "subject": "shty",
+        "verb": null,
+        "object": null,
+        "prepositions": [
+          [
+            "o",
+            "dain"
+          ],
+          [
+            "chordair",
+            "shty"
+          ]
+        ]
+      },
+      "latin_reconstruction": "bts ad Latin ex bts",
+      "english_translation": "The ?noun prep: ad Latin preposition 'de' (of/from) with case endings prep: ex ?noun",
+      "coherence_score": 36.8,
+      "coherence_factors": [
+        "high_conf_words: 1/8",
+        "has_subject",
+        "has_prepositions: 2",
+        "latin_words: 2/5"
+      ]
+    },
+    {
+      "voynich_raw": "kcho kchy sho shol qotcho loeees qotychor daiin",
+      "voynich_segmented": [
+        "kcho",
+        "kchy",
+        "sho",
+        "shol",
+        "qotcho",
+        "loeees",
+        "qotychor",
+        "daiin"
+      ],
+      "decoded_words": [
+        {
+          "eva": "kcho",
+          "decoded": "nca",
+          "latin": "nca",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "kchy",
+          "decoded": "ncs",
+          "latin": "ncs",
+          "english": "?noun",
+          "confidence": 0.2,
+          "category": "noun_guess",
+          "source": "phonetic"
+        },
+        {
+          "eva": "sho",
+          "decoded": "ba",
+          "latin": "ba",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "shol",
+          "decoded": "bil",
+          "latin": "bil",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "qotcho",
+          "decoded": "quatca",
+          "latin": "quatca",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "loeees",
+          "decoded": "laiiix",
+          "latin": "laiiix",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "qotychor",
+          "decoded": "quatscex",
+          "latin": "quatscex",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "daiin",
+          "decoded": "deii",
+          "latin": "de + acc. marker",
+          "english": "of/from (+ object)",
+          "confidence": 0.8,
+          "category": "unknown",
+          "source": "high_confidence"
+        }
+      ],
+      "grammar_parse": {
+        "subject": "kchy",
+        "verb": null,
+        "object": null,
+        "prepositions": []
+      },
+      "latin_reconstruction": "ncs",
+      "english_translation": "The ?noun",
+      "coherence_score": 18.8,
+      "coherence_factors": [
+        "high_conf_words: 1/8",
+        "has_subject",
+        "latin_words: 0/1"
+      ]
+    },
+    {
+      "voynich_raw": "otchy chor lshy chol chody chodainchcthy daiin",
+      "voynich_segmented": [
+        "otchy",
+        "chor",
+        "lshy",
+        "chol",
+        "chody",
+        "chodainchcthy",
+        "daiin"
+      ],
+      "decoded_words": [
+        {
+          "eva": "otchy",
+          "decoded": "atcs",
+          "latin": "atcs",
+          "english": "?noun",
+          "confidence": 0.2,
+          "category": "noun_guess",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chor",
+          "decoded": "cex",
+          "latin": "ex",
+          "english": "prep: ex",
+          "confidence": 0.7,
+          "category": "preposition",
+          "source": "phonetic"
+        },
+        {
+          "eva": "lshy",
+          "decoded": "lbs",
+          "latin": "lbs",
+          "english": "?noun",
+          "confidence": 0.2,
+          "category": "noun_guess",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chol",
+          "decoded": "cil",
+          "latin": "cil",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chody",
+          "decoded": "cadr",
+          "latin": "ad",
+          "english": "prep: ad",
+          "confidence": 0.7,
+          "category": "preposition",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chodainchcthy",
+          "decoded": "cadiincrcs",
+          "latin": "radix",
+          "english": "noun: radix",
+          "confidence": 0.5,
+          "category": "noun",
+          "source": "phonetic"
+        },
+        {
+          "eva": "daiin",
+          "decoded": "deii",
+          "latin": "de + acc. marker",
+          "english": "of/from (+ object)",
+          "confidence": 0.8,
+          "category": "unknown",
+          "source": "high_confidence"
+        }
+      ],
+      "grammar_parse": {
+        "subject": "otchy",
+        "verb": "chol",
+        "object": null,
+        "prepositions": [
+          [
+            "chor",
+            "lshy"
+          ],
+          [
+            "chody",
+            "chodainchcthy"
+          ]
+        ]
+      },
+      "latin_reconstruction": "atcs ex lbs ad radix cil",
+      "english_translation": "The ?noun prep: ex ?noun prep: ad noun: radix",
+      "coherence_score": 59.3,
+      "coherence_factors": [
+        "high_conf_words: 1/7",
+        "has_subject",
+        "has_verb",
+        "has_prepositions: 2",
+        "latin_words: 3/6"
+      ]
+    },
+    {
+      "voynich_raw": "sho cholo cheor chodaiin",
+      "voynich_segmented": [
+        "sho",
+        "cholo",
+        "cheor",
+        "chodaiin"
+      ],
+      "decoded_words": [
+        {
+          "eva": "sho",
+          "decoded": "ba",
+          "latin": "ba",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "cholo",
+          "decoded": "cila",
+          "latin": "cila",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "cheor",
+          "decoded": "ciex",
+          "latin": "ciex",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chodaiin",
+          "decoded": "cadiiin",
+          "latin": "radix",
+          "english": "noun: radix",
+          "confidence": 0.5,
+          "category": "noun",
+          "source": "phonetic"
+        }
+      ],
+      "grammar_parse": {
+        "subject": "chodaiin",
+        "verb": null,
+        "object": null,
+        "prepositions": []
+      },
+      "latin_reconstruction": "radix",
+      "english_translation": "The noun: radix",
+      "coherence_score": 35.0,
+      "coherence_factors": [
+        "high_conf_words: 0/4",
+        "has_subject",
+        "latin_words: 1/1"
+      ]
+    },
+    {
+      "voynich_raw": "kchor shy daiiin chckhoys shey dor chol daiin",
+      "voynich_segmented": [
+        "kchor",
+        "shy",
+        "daiiin",
+        "chckhoys",
+        "shey",
+        "dor",
+        "chol",
+        "daiin"
+      ],
+      "decoded_words": [
+        {
+          "eva": "kchor",
+          "decoded": "ncex",
+          "latin": "ncex",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "shy",
+          "decoded": "bs",
+          "latin": "bs",
+          "english": "?noun",
+          "confidence": 0.2,
+          "category": "noun_guess",
+          "source": "phonetic"
+        },
+        {
+          "eva": "daiiin",
+          "decoded": "deiiin",
+          "latin": "Latin",
+          "english": "Latin preposition 'de' (of/from) with case endings",
+          "confidence": 0.8,
+          "category": "paradigm",
+          "source": "high_confidence"
+        },
+        {
+          "eva": "chckhoys",
+          "decoded": "crnasx",
+          "latin": "crnasx",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "shey",
+          "decoded": "bir",
+          "latin": "bir",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "dor",
+          "decoded": "dex",
+          "latin": "de",
+          "english": "prep: de",
+          "confidence": 0.7,
+          "category": "preposition",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chol",
+          "decoded": "cil",
+          "latin": "cil",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "daiin",
+          "decoded": "deii",
+          "latin": "de + acc. marker",
+          "english": "of/from (+ object)",
+          "confidence": 0.8,
+          "category": "unknown",
+          "source": "high_confidence"
+        }
+      ],
+      "grammar_parse": {
+        "subject": "shy",
+        "verb": "chol",
+        "object": null,
+        "prepositions": [
+          [
+            "dor",
+            "chol"
+          ]
+        ]
+      },
+      "latin_reconstruction": "bs de cil cil",
+      "english_translation": "The ?noun",
+      "coherence_score": 57.5,
+      "coherence_factors": [
+        "high_conf_words: 2/8",
+        "has_subject",
+        "has_verb",
+        "has_prepositions: 1",
+        "latin_words: 1/4"
+      ]
+    },
+    {
+      "voynich_raw": "dor chol chor chol keol chy chtydaiin otchor chan",
+      "voynich_segmented": [
+        "dor",
+        "chol",
+        "chor",
+        "chol",
+        "keol",
+        "chy",
+        "chtydaiin",
+        "otchor",
+        "chan"
+      ],
+      "decoded_words": [
+        {
+          "eva": "dor",
+          "decoded": "dex",
+          "latin": "de",
+          "english": "prep: de",
+          "confidence": 0.7,
+          "category": "preposition",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chol",
+          "decoded": "cil",
+          "latin": "cil",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chor",
+          "decoded": "cex",
+          "latin": "ex",
+          "english": "prep: ex",
+          "confidence": 0.7,
+          "category": "preposition",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chol",
+          "decoded": "cil",
+          "latin": "cil",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "keol",
+          "decoded": "niil",
+          "latin": "niil",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chy",
+          "decoded": "cs",
+          "latin": "cs",
+          "english": "?noun",
+          "confidence": 0.2,
+          "category": "noun_guess",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chtydaiin",
+          "decoded": "ctsdiiin",
+          "latin": "ctsdiiin",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "otchor",
+          "decoded": "atcex",
+          "latin": "atcex",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chan",
+          "decoded": "cen",
+          "latin": "ren",
+          "english": "noun: ren",
+          "confidence": 0.5,
+          "category": "noun",
+          "source": "phonetic"
+        }
+      ],
+      "grammar_parse": {
+        "subject": "chy",
+        "verb": "chol",
+        "object": null,
+        "prepositions": [
+          [
+            "dor",
+            "chol"
+          ],
+          [
+            "chor",
+            "chol"
+          ]
+        ]
+      },
+      "latin_reconstruction": "cs de cil ex cil cil",
+      "english_translation": "The ?noun",
+      "coherence_score": 51.7,
+      "coherence_factors": [
+        "high_conf_words: 0/9",
+        "has_subject",
+        "has_verb",
+        "has_prepositions: 2",
+        "latin_words: 2/6"
+      ]
+    },
+    {
+      "voynich_raw": "daiin chotchey qoteeey chokeoschees chr cheaiin",
+      "voynich_segmented": [
+        "daiin",
+        "chotchey",
+        "qoteeey",
+        "chokeoschees",
+        "chr",
+        "cheaiin"
+      ],
+      "decoded_words": [
+        {
+          "eva": "daiin",
+          "decoded": "deii",
+          "latin": "de + acc. marker",
+          "english": "of/from (+ object)",
+          "confidence": 0.8,
+          "category": "unknown",
+          "source": "high_confidence"
+        },
+        {
+          "eva": "chotchey",
+          "decoded": "catcir",
+          "latin": "catcir",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "qoteeey",
+          "decoded": "quatiiir",
+          "latin": "quatiiir",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chokeoschees",
+          "decoded": "caniaxciix",
+          "latin": "caniaxciix",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chr",
+          "decoded": "cr",
+          "latin": "cr",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "cheaiin",
+          "decoded": "ciiiin",
+          "latin": "ciiiin",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        }
+      ],
+      "grammar_parse": {
+        "subject": null,
+        "verb": null,
+        "object": null,
+        "prepositions": []
+      },
+      "latin_reconstruction": "de + acc. marker catcir quatiiir caniaxciix cr ciiiin",
+      "english_translation": "[translation unclear]",
+      "coherence_score": 7.2,
+      "coherence_factors": [
+        "high_conf_words: 1/6",
+        "latin_words: 1/9"
+      ]
+    },
+    {
+      "voynich_raw": "chokoishe chor cheol chol dolody",
+      "voynich_segmented": [
+        "chokoishe",
+        "chor",
+        "cheol",
+        "chol",
+        "dolody"
+      ],
+      "decoded_words": [
+        {
+          "eva": "chokoishe",
+          "decoded": "canaibi",
+          "latin": "sanat",
+          "english": "verb: sanat",
+          "confidence": 0.6,
+          "category": "verb",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chor",
+          "decoded": "cex",
+          "latin": "ex",
+          "english": "prep: ex",
+          "confidence": 0.7,
+          "category": "preposition",
+          "source": "phonetic"
+        },
+        {
+          "eva": "cheol",
+          "decoded": "ciil",
+          "latin": "ciil",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "chol",
+          "decoded": "cil",
+          "latin": "cil",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        },
+        {
+          "eva": "dolody",
+          "decoded": "diladr",
+          "latin": "diladr",
+          "english": "?",
+          "confidence": 0.1,
+          "category": "unknown",
+          "source": "phonetic"
+        }
+      ],
+      "grammar_parse": {
+        "subject": null,
+        "verb": "chol",
+        "object": null,
+        "prepositions": [
+          [
+            "chor",
+            "cheol"
+          ]
+        ]
+      },
+      "latin_reconstruction": "ex ciil cil",
+      "english_translation": "[translation unclear]",
+      "coherence_score": 36.7,
+      "coherence_factors": [
+        "high_conf_words: 0/5",
+        "has_verb",
+        "has_prepositions: 1",
+        "latin_words: 1/3"
+      ]
+    }
+  ],
+  "overall_coherence": 37.9,
+  "readable_sentences": 3,
+  "best_sentence": {
+    "voynich_raw": "otchy chor lshy chol chody chodainchcthy daiin",
+    "voynich_segmented": [
+      "otchy",
+      "chor",
+      "lshy",
+      "chol",
+      "chody",
+      "chodainchcthy",
+      "daiin"
+    ],
+    "decoded_words": [
+      {
+        "eva": "otchy",
+        "decoded": "atcs",
+        "latin": "atcs",
+        "english": "?noun",
+        "confidence": 0.2,
+        "category": "noun_guess",
+        "source": "phonetic"
+      },
+      {
+        "eva": "chor",
+        "decoded": "cex",
+        "latin": "ex",
+        "english": "prep: ex",
+        "confidence": 0.7,
+        "category": "preposition",
+        "source": "phonetic"
+      },
+      {
+        "eva": "lshy",
+        "decoded": "lbs",
+        "latin": "lbs",
+        "english": "?noun",
+        "confidence": 0.2,
+        "category": "noun_guess",
+        "source": "phonetic"
+      },
+      {
+        "eva": "chol",
+        "decoded": "cil",
+        "latin": "cil",
+        "english": "?",
+        "confidence": 0.1,
+        "category": "unknown",
+        "source": "phonetic"
+      },
+      {
+        "eva": "chody",
+        "decoded": "cadr",
+        "latin": "ad",
+        "english": "prep: ad",
+        "confidence": 0.7,
+        "category": "preposition",
+        "source": "phonetic"
+      },
+      {
+        "eva": "chodainchcthy",
+        "decoded": "cadiincrcs",
+        "latin": "radix",
+        "english": "noun: radix",
+        "confidence": 0.5,
+        "category": "noun",
+        "source": "phonetic"
+      },
+      {
+        "eva": "daiin",
+        "decoded": "deii",
+        "latin": "de + acc. marker",
+        "english": "of/from (+ object)",
+        "confidence": 0.8,
+        "category": "unknown",
+        "source": "high_confidence"
+      }
+    ],
+    "grammar_parse": {
+      "subject": "otchy",
+      "verb": "chol",
+      "object": null,
+      "prepositions": [
+        [
+          "chor",
+          "lshy"
+        ],
+        [
+          "chody",
+          "chodainchcthy"
+        ]
+      ]
+    },
+    "latin_reconstruction": "atcs ex lbs ad radix cil",
+    "english_translation": "The ?noun prep: ex ?noun prep: ad noun: radix",
+    "coherence_score": 59.3,
+    "coherence_factors": [
+      "high_conf_words: 1/7",
+      "has_subject",
+      "has_verb",
+      "has_prepositions: 2",
+      "latin_words: 3/6"
+    ]
+  }
+}

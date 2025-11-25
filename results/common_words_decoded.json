@@ -1,0 +1,1350 @@
+{
+  "total_words": 35368,
+  "unique_words": 6336,
+  "paradigms": {
+    "qok": {
+      "prefix": "qok",
+      "prefix_decoded": "quar",
+      "total_count": 2819,
+      "pct_of_text": 7.97,
+      "forms": [
+        {
+          "voynich": "qokeedy",
+          "decoded": "quarccds",
+          "suffix": "eedy",
+          "suffix_decoded": "ccds",
+          "latin_case": "nominative (-us/-is)",
+          "count": 299,
+          "pct": 0.85
+        },
+        {
+          "voynich": "qokeey",
+          "decoded": "quarccs",
+          "suffix": "eey",
+          "suffix_decoded": "ccs",
+          "latin_case": "nominative (-us/-is)",
+          "count": 284,
+          "pct": 0.8
+        },
+        {
+          "voynich": "qokedy",
+          "decoded": "quarcds",
+          "suffix": "edy",
+          "suffix_decoded": "cds",
+          "latin_case": "nominative (-us/-is)",
+          "count": 264,
+          "pct": 0.75
+        },
+        {
+          "voynich": "qokaiin",
+          "decoded": "quareiin",
+          "suffix": "aiin",
+          "suffix_decoded": "eiin",
+          "latin_case": "accusative",
+          "count": 239,
+          "pct": 0.68
+        },
+        {
+          "voynich": "qokai",
+          "decoded": "quarei",
+          "suffix": "ai",
+          "suffix_decoded": "ei",
+          "latin_case": "unknown",
+          "count": 196,
+          "pct": 0.55
+        },
+        {
+          "voynich": "qokal",
+          "decoded": "quarel",
+          "suffix": "al",
+          "suffix_decoded": "el",
+          "latin_case": "ablative/locative",
+          "count": 178,
+          "pct": 0.5
+        },
+        {
+          "voynich": "qoky",
+          "decoded": "quars",
+          "suffix": "y",
+          "suffix_decoded": "s",
+          "latin_case": "nominative (-us/-is)",
+          "count": 137,
+          "pct": 0.39
+        },
+        {
+          "voynich": "qokar",
+          "decoded": "quarer",
+          "suffix": "ar",
+          "suffix_decoded": "er",
+          "latin_case": "dative/genitive",
+          "count": 123,
+          "pct": 0.35
+        },
+        {
+          "voynich": "qokey",
+          "decoded": "quarcs",
+          "suffix": "ey",
+          "suffix_decoded": "cs",
+          "latin_case": "nominative (-us/-is)",
+          "count": 97,
+          "pct": 0.27
+        },
+        {
+          "voynich": "qokol",
+          "decoded": "quaral",
+          "suffix": "ol",
+          "suffix_decoded": "al",
+          "latin_case": "ablative/locative",
+          "count": 90,
+          "pct": 0.25
+        },
+        {
+          "voynich": "qokain",
+          "decoded": "quarein",
+          "suffix": "ain",
+          "suffix_decoded": "ein",
+          "latin_case": "accusative",
+          "count": 72,
+          "pct": 0.2
+        },
+        {
+          "voynich": "qokchy",
+          "decoded": "quarkhs",
+          "suffix": "chy",
+          "suffix_decoded": "khs",
+          "latin_case": "nominative (-us/-is)",
+          "count": 65,
+          "pct": 0.18
+        },
+        {
+          "voynich": "qokchdy",
+          "decoded": "quarkhds",
+          "suffix": "chdy",
+          "suffix_decoded": "khds",
+          "latin_case": "nominative (-us/-is)",
+          "count": 44,
+          "pct": 0.12
+        },
+        {
+          "voynich": "qokeol",
+          "decoded": "quarcal",
+          "suffix": "eol",
+          "suffix_decoded": "cal",
+          "latin_case": "ablative/locative",
+          "count": 38,
+          "pct": 0.11
+        },
+        {
+          "voynich": "qokchedy",
+          "decoded": "quarkhcds",
+          "suffix": "chedy",
+          "suffix_decoded": "khcds",
+          "latin_case": "nominative (-us/-is)",
+          "count": 38,
+          "pct": 0.11
+        }
+      ],
+      "best_hypothesis": "Article/determiner 'the herb' or 'quar-' stem",
+      "confidence": 0.75
+    },
+    "da": {
+      "prefix": "da",
+      "prefix_decoded": "de",
+      "total_count": 2015,
+      "pct_of_text": 5.7,
+      "forms": [
+        {
+          "voynich": "daiin",
+          "decoded": "deiin",
+          "suffix": "iin",
+          "suffix_decoded": "iin",
+          "latin_case": "accusative",
+          "count": 779,
+          "pct": 2.2
+        },
+        {
+          "voynich": "dar",
+          "decoded": "der",
+          "suffix": "r",
+          "suffix_decoded": "r",
+          "latin_case": "unknown",
+          "count": 274,
+          "pct": 0.77
+        },
+        {
+          "voynich": "dal",
+          "decoded": "del",
+          "suffix": "l",
+          "suffix_decoded": "l",
+          "latin_case": "locative/adjectival",
+          "count": 228,
+          "pct": 0.64
+        },
+        {
+          "voynich": "dai",
+          "decoded": "dei",
+          "suffix": "i",
+          "suffix_decoded": "i",
+          "latin_case": "unknown",
+          "count": 119,
+          "pct": 0.34
+        },
+        {
+          "voynich": "dain",
+          "decoded": "dein",
+          "suffix": "in",
+          "suffix_decoded": "in",
+          "latin_case": "accusative",
+          "count": 97,
+          "pct": 0.27
+        },
+        {
+          "voynich": "dair",
+          "decoded": "deir",
+          "suffix": "ir",
+          "suffix_decoded": "ir",
+          "latin_case": "unknown",
+          "count": 87,
+          "pct": 0.25
+        },
+        {
+          "voynich": "dam",
+          "decoded": "dem",
+          "suffix": "m",
+          "suffix_decoded": "m",
+          "latin_case": "unknown",
+          "count": 81,
+          "pct": 0.23
+        },
+        {
+          "voynich": "daly",
+          "decoded": "dels",
+          "suffix": "ly",
+          "suffix_decoded": "ls",
+          "latin_case": "nominative (-us/-is)",
+          "count": 24,
+          "pct": 0.07
+        },
+        {
+          "voynich": "dary",
+          "decoded": "ders",
+          "suffix": "ry",
+          "suffix_decoded": "rs",
+          "latin_case": "nominative (-us/-is)",
+          "count": 19,
+          "pct": 0.05
+        },
+        {
+          "voynich": "da",
+          "decoded": "de",
+          "suffix": "",
+          "suffix_decoded": "",
+          "latin_case": "unknown",
+          "count": 18,
+          "pct": 0.05
+        },
+        {
+          "voynich": "daiiin",
+          "decoded": "deiiin",
+          "suffix": "iiin",
+          "suffix_decoded": "iiin",
+          "latin_case": "accusative",
+          "count": 16,
+          "pct": 0.05
+        },
+        {
+          "voynich": "dan",
+          "decoded": "den",
+          "suffix": "n",
+          "suffix_decoded": "n",
+          "latin_case": "accusative/ablative",
+          "count": 14,
+          "pct": 0.04
+        },
+        {
+          "voynich": "daiir",
+          "decoded": "deiir",
+          "suffix": "iir",
+          "suffix_decoded": "iir",
+          "latin_case": "unknown",
+          "count": 13,
+          "pct": 0.04
+        },
+        {
+          "voynich": "daldy",
+          "decoded": "delds",
+          "suffix": "ldy",
+          "suffix_decoded": "lds",
+          "latin_case": "nominative (-us/-is)",
+          "count": 12,
+          "pct": 0.03
+        },
+        {
+          "voynich": "das",
+          "decoded": "det",
+          "suffix": "s",
+          "suffix_decoded": "t",
+          "latin_case": "unknown",
+          "count": 7,
+          "pct": 0.02
+        }
+      ],
+      "best_hypothesis": "Latin preposition 'de' (of/from) with case endings",
+      "confidence": 0.8
+    },
+    "ch": {
+      "prefix": "ch",
+      "prefix_decoded": "kh",
+      "total_count": 5364,
+      "pct_of_text": 15.17,
+      "forms": [
+        {
+          "voynich": "chedy",
+          "decoded": "khcds",
+          "suffix": "edy",
+          "suffix_decoded": "cds",
+          "latin_case": "nominative (-us/-is)",
+          "count": 523,
+          "pct": 1.48
+        },
+        {
+          "voynich": "chol",
+          "decoded": "khal",
+          "suffix": "ol",
+          "suffix_decoded": "al",
+          "latin_case": "ablative/locative",
+          "count": 381,
+          "pct": 1.08
+        },
+        {
+          "voynich": "chey",
+          "decoded": "khcs",
+          "suffix": "ey",
+          "suffix_decoded": "cs",
+          "latin_case": "nominative (-us/-is)",
+          "count": 352,
+          "pct": 1.0
+        },
+        {
+          "voynich": "chor",
+          "decoded": "khar",
+          "suffix": "or",
+          "suffix_decoded": "ar",
+          "latin_case": "dative/genitive",
+          "count": 210,
+          "pct": 0.59
+        },
+        {
+          "voynich": "cheol",
+          "decoded": "khcal",
+          "suffix": "eol",
+          "suffix_decoded": "cal",
+          "latin_case": "ablative/locative",
+          "count": 166,
+          "pct": 0.47
+        },
+        {
+          "voynich": "chy",
+          "decoded": "khs",
+          "suffix": "y",
+          "suffix_decoded": "s",
+          "latin_case": "nominative (-us/-is)",
+          "count": 158,
+          "pct": 0.45
+        },
+        {
+          "voynich": "cheey",
+          "decoded": "khccs",
+          "suffix": "eey",
+          "suffix_decoded": "ccs",
+          "latin_case": "nominative (-us/-is)",
+          "count": 154,
+          "pct": 0.44
+        },
+        {
+          "voynich": "chdy",
+          "decoded": "khds",
+          "suffix": "dy",
+          "suffix_decoded": "ds",
+          "latin_case": "nominative (-us/-is)",
+          "count": 128,
+          "pct": 0.36
+        },
+        {
+          "voynich": "chckhy",
+          "decoded": "khkrhs",
+          "suffix": "ckhy",
+          "suffix_decoded": "krhs",
+          "latin_case": "nominative (-us/-is)",
+          "count": 125,
+          "pct": 0.35
+        },
+        {
+          "voynich": "cho",
+          "decoded": "kha",
+          "suffix": "o",
+          "suffix_decoded": "a",
+          "latin_case": "unknown",
+          "count": 84,
+          "pct": 0.24
+        },
+        {
+          "voynich": "chody",
+          "decoded": "khads",
+          "suffix": "ody",
+          "suffix_decoded": "ads",
+          "latin_case": "nominative (-us/-is)",
+          "count": 82,
+          "pct": 0.23
+        },
+        {
+          "voynich": "cheor",
+          "decoded": "khcar",
+          "suffix": "eor",
+          "suffix_decoded": "car",
+          "latin_case": "dative/genitive",
+          "count": 78,
+          "pct": 0.22
+        },
+        {
+          "voynich": "char",
+          "decoded": "kher",
+          "suffix": "ar",
+          "suffix_decoded": "er",
+          "latin_case": "dative/genitive",
+          "count": 74,
+          "pct": 0.21
+        },
+        {
+          "voynich": "chcthy",
+          "decoded": "khknhs",
+          "suffix": "cthy",
+          "suffix_decoded": "knhs",
+          "latin_case": "nominative (-us/-is)",
+          "count": 72,
+          "pct": 0.2
+        },
+        {
+          "voynich": "cheo",
+          "decoded": "khca",
+          "suffix": "eo",
+          "suffix_decoded": "ca",
+          "latin_case": "unknown",
+          "count": 70,
+          "pct": 0.2
+        }
+      ],
+      "best_hypothesis": "Verbal/adjectival stem with case inflections",
+      "confidence": 0.5
+    }
+  },
+  "function_words": [
+    {
+      "rank": 1,
+      "voynich": "n",
+      "decoded": "n",
+      "count": 1139,
+      "pct": 3.22,
+      "best_latin_match": {
+        "latin": "in",
+        "meaning": "in",
+        "expected_freq": 3.0,
+        "similarity": 0.667
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 2,
+      "voynich": "daiin",
+      "decoded": "deiin",
+      "count": 779,
+      "pct": 2.2,
+      "best_latin_match": {
+        "latin": "de",
+        "meaning": "of/from",
+        "expected_freq": 2.0,
+        "similarity": 0.571
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 3,
+      "voynich": "ol",
+      "decoded": "al",
+      "count": 582,
+      "pct": 1.65,
+      "best_latin_match": {
+        "latin": "ad",
+        "meaning": "to/for",
+        "expected_freq": 1.5,
+        "similarity": 0.5
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 4,
+      "voynich": "chedy",
+      "decoded": "khcds",
+      "count": 523,
+      "pct": 1.48,
+      "best_latin_match": {
+        "latin": "hic",
+        "meaning": "this",
+        "expected_freq": 1.0,
+        "similarity": 0.5
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 5,
+      "voynich": "aiin",
+      "decoded": "eiin",
+      "count": 433,
+      "pct": 1.22,
+      "best_latin_match": {
+        "latin": "in",
+        "meaning": "in",
+        "expected_freq": 3.0,
+        "similarity": 0.667
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 6,
+      "voynich": "shedy",
+      "decoded": "thcds",
+      "count": 433,
+      "pct": 1.22,
+      "best_latin_match": {
+        "latin": "hic",
+        "meaning": "this",
+        "expected_freq": 1.0,
+        "similarity": 0.5
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 7,
+      "voynich": "chol",
+      "decoded": "khal",
+      "count": 381,
+      "pct": 1.08,
+      "best_latin_match": {
+        "latin": "ad",
+        "meaning": "to/for",
+        "expected_freq": 1.5,
+        "similarity": 0.333
+      },
+      "confidence": "low"
+    },
+    {
+      "rank": 8,
+      "voynich": "s",
+      "decoded": "t",
+      "count": 370,
+      "pct": 1.05,
+      "best_latin_match": {
+        "latin": "et",
+        "meaning": "and",
+        "expected_freq": 5.0,
+        "similarity": 0.667
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 9,
+      "voynich": "or",
+      "decoded": "ar",
+      "count": 353,
+      "pct": 1.0,
+      "best_latin_match": {
+        "latin": "ad",
+        "meaning": "to/for",
+        "expected_freq": 1.5,
+        "similarity": 0.5
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 10,
+      "voynich": "chey",
+      "decoded": "khcs",
+      "count": 352,
+      "pct": 1.0,
+      "best_latin_match": {
+        "latin": "hic",
+        "meaning": "this",
+        "expected_freq": 1.0,
+        "similarity": 0.571
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 11,
+      "voynich": "y",
+      "decoded": "s",
+      "count": 333,
+      "pct": 0.94,
+      "best_latin_match": {
+        "latin": "si",
+        "meaning": "if",
+        "expected_freq": 0.8,
+        "similarity": 0.667
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 12,
+      "voynich": "ar",
+      "decoded": "er",
+      "count": 328,
+      "pct": 0.93,
+      "best_latin_match": {
+        "latin": "per",
+        "meaning": "through",
+        "expected_freq": 0.8,
+        "similarity": 0.8
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 13,
+      "voynich": "dy",
+      "decoded": "ds",
+      "count": 308,
+      "pct": 0.87,
+      "best_latin_match": {
+        "latin": "de",
+        "meaning": "of/from",
+        "expected_freq": 2.0,
+        "similarity": 0.5
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 14,
+      "voynich": "qokeedy",
+      "decoded": "quarccds",
+      "count": 299,
+      "pct": 0.85,
+      "best_latin_match": {
+        "latin": "quae",
+        "meaning": "which",
+        "expected_freq": 1.0,
+        "similarity": 0.5
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 15,
+      "voynich": "figure",
+      "decoded": "figurc",
+      "count": 294,
+      "pct": 0.83,
+      "best_latin_match": {
+        "latin": "hic",
+        "meaning": "this",
+        "expected_freq": 1.0,
+        "similarity": 0.444
+      },
+      "confidence": "low"
+    },
+    {
+      "rank": 16,
+      "voynich": "qokeey",
+      "decoded": "quarccs",
+      "count": 284,
+      "pct": 0.8,
+      "best_latin_match": {
+        "latin": "quae",
+        "meaning": "which",
+        "expected_freq": 1.0,
+        "similarity": 0.545
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 17,
+      "voynich": "dar",
+      "decoded": "der",
+      "count": 274,
+      "pct": 0.77,
+      "best_latin_match": {
+        "latin": "de",
+        "meaning": "of/from",
+        "expected_freq": 2.0,
+        "similarity": 0.8
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 18,
+      "voynich": "shey",
+      "decoded": "thcs",
+      "count": 265,
+      "pct": 0.75,
+      "best_latin_match": {
+        "latin": "hic",
+        "meaning": "this",
+        "expected_freq": 1.0,
+        "similarity": 0.571
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 19,
+      "voynich": "qokedy",
+      "decoded": "quarcds",
+      "count": 264,
+      "pct": 0.75,
+      "best_latin_match": {
+        "latin": "quae",
+        "meaning": "which",
+        "expected_freq": 1.0,
+        "similarity": 0.545
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 20,
+      "voynich": "al",
+      "decoded": "el",
+      "count": 260,
+      "pct": 0.74,
+      "best_latin_match": {
+        "latin": "et",
+        "meaning": "and",
+        "expected_freq": 5.0,
+        "similarity": 0.5
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 21,
+      "voynich": "qokaiin",
+      "decoded": "quareiin",
+      "count": 239,
+      "pct": 0.68,
+      "best_latin_match": {
+        "latin": "quae",
+        "meaning": "which",
+        "expected_freq": 1.0,
+        "similarity": 0.667
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 22,
+      "voynich": "dal",
+      "decoded": "del",
+      "count": 228,
+      "pct": 0.64,
+      "best_latin_match": {
+        "latin": "de",
+        "meaning": "of/from",
+        "expected_freq": 2.0,
+        "similarity": 0.8
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 23,
+      "voynich": "chor",
+      "decoded": "khar",
+      "count": 210,
+      "pct": 0.59,
+      "best_latin_match": {
+        "latin": "ad",
+        "meaning": "to/for",
+        "expected_freq": 1.5,
+        "similarity": 0.333
+      },
+      "confidence": "low"
+    },
+    {
+      "rank": 24,
+      "voynich": "r",
+      "decoded": "r",
+      "count": 200,
+      "pct": 0.57,
+      "best_latin_match": {
+        "latin": "per",
+        "meaning": "through",
+        "expected_freq": 0.8,
+        "similarity": 0.5
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 25,
+      "voynich": "qokai",
+      "decoded": "quarei",
+      "count": 196,
+      "pct": 0.55,
+      "best_latin_match": {
+        "latin": "quae",
+        "meaning": "which",
+        "expected_freq": 1.0,
+        "similarity": 0.8
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 26,
+      "voynich": "okaiin",
+      "decoded": "areiin",
+      "count": 188,
+      "pct": 0.53,
+      "best_latin_match": {
+        "latin": "in",
+        "meaning": "in",
+        "expected_freq": 3.0,
+        "similarity": 0.5
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 27,
+      "voynich": "shol",
+      "decoded": "thal",
+      "count": 182,
+      "pct": 0.51,
+      "best_latin_match": {
+        "latin": "et",
+        "meaning": "and",
+        "expected_freq": 5.0,
+        "similarity": 0.333
+      },
+      "confidence": "low"
+    },
+    {
+      "rank": 28,
+      "voynich": "qokal",
+      "decoded": "quarel",
+      "count": 178,
+      "pct": 0.5,
+      "best_latin_match": {
+        "latin": "quae",
+        "meaning": "which",
+        "expected_freq": 1.0,
+        "similarity": 0.8
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 29,
+      "voynich": "qol",
+      "decoded": "qual",
+      "count": 174,
+      "pct": 0.49,
+      "best_latin_match": {
+        "latin": "quae",
+        "meaning": "which",
+        "expected_freq": 1.0,
+        "similarity": 0.75
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 30,
+      "voynich": "cheol",
+      "decoded": "khcal",
+      "count": 166,
+      "pct": 0.47,
+      "best_latin_match": {
+        "latin": "hic",
+        "meaning": "this",
+        "expected_freq": 1.0,
+        "similarity": 0.5
+      },
+      "confidence": "medium"
+    }
+  ],
+  "short_words": [
+    {
+      "voynich": "n",
+      "decoded": "n",
+      "count": 1139,
+      "pct": 3.22,
+      "hypothesis": "unknown",
+      "is_likely_suffix": true
+    },
+    {
+      "voynich": "ol",
+      "decoded": "al",
+      "count": 582,
+      "pct": 1.65,
+      "hypothesis": "Latin -ae dative/genitive feminine ending",
+      "is_likely_suffix": true
+    },
+    {
+      "voynich": "s",
+      "decoded": "t",
+      "count": 370,
+      "pct": 1.05,
+      "hypothesis": "Latin ending marker",
+      "is_likely_suffix": true
+    },
+    {
+      "voynich": "or",
+      "decoded": "ar",
+      "count": 353,
+      "pct": 1.0,
+      "hypothesis": "Latin -ai ending",
+      "is_likely_suffix": true
+    },
+    {
+      "voynich": "y",
+      "decoded": "s",
+      "count": 333,
+      "pct": 0.94,
+      "hypothesis": "Latin -us/-is ending marker (37% of words)",
+      "is_likely_suffix": true
+    },
+    {
+      "voynich": "ar",
+      "decoded": "er",
+      "count": 328,
+      "pct": 0.93,
+      "hypothesis": "Latin -i dative ending",
+      "is_likely_suffix": true
+    },
+    {
+      "voynich": "dy",
+      "decoded": "ds",
+      "count": 308,
+      "pct": 0.87,
+      "hypothesis": "Latin -orum/-arum genitive plural",
+      "is_likely_suffix": true
+    },
+    {
+      "voynich": "dar",
+      "decoded": "der",
+      "count": 274,
+      "pct": 0.77,
+      "hypothesis": "unknown",
+      "is_likely_suffix": false
+    },
+    {
+      "voynich": "al",
+      "decoded": "el",
+      "count": 260,
+      "pct": 0.74,
+      "hypothesis": "Adjectival ending",
+      "is_likely_suffix": true
+    },
+    {
+      "voynich": "dal",
+      "decoded": "del",
+      "count": 228,
+      "pct": 0.64,
+      "hypothesis": "unknown",
+      "is_likely_suffix": false
+    },
+    {
+      "voynich": "r",
+      "decoded": "r",
+      "count": 200,
+      "pct": 0.57,
+      "hypothesis": "Final consonant / standalone letter",
+      "is_likely_suffix": true
+    },
+    {
+      "voynich": "qol",
+      "decoded": "qual",
+      "count": 174,
+      "pct": 0.49,
+      "hypothesis": "unknown",
+      "is_likely_suffix": false
+    },
+    {
+      "voynich": "l",
+      "decoded": "l",
+      "count": 166,
+      "pct": 0.47,
+      "hypothesis": "Latin -i vowel / liquid consonant",
+      "is_likely_suffix": true
+    },
+    {
+      "voynich": "chy",
+      "decoded": "khs",
+      "count": 158,
+      "pct": 0.45,
+      "hypothesis": "unknown",
+      "is_likely_suffix": false
+    },
+    {
+      "voynich": "o",
+      "decoded": "a",
+      "count": 151,
+      "pct": 0.43,
+      "hypothesis": "Article / preposition \"a\"",
+      "is_likely_suffix": true
+    }
+  ],
+  "sequence_analysis": {
+    "daiin": {
+      "word_following": [
+        [
+          "daiin",
+          17
+        ],
+        [
+          "chey",
+          13
+        ],
+        [
+          "cthy",
+          11
+        ],
+        [
+          "dal",
+          10
+        ],
+        [
+          "chedy",
+          10
+        ],
+        [
+          "dain",
+          9
+        ],
+        [
+          "s",
+          9
+        ],
+        [
+          "cthor",
+          8
+        ],
+        [
+          "chol",
+          8
+        ],
+        [
+          "ol",
+          8
+        ],
+        [
+          "shey",
+          8
+        ],
+        [
+          "sho",
+          7
+        ],
+        [
+          "chckhy",
+          7
+        ],
+        [
+          "cthol",
+          7
+        ],
+        [
+          "chor",
+          7
+        ]
+      ],
+      "two_words_following": [
+        [
+          [
+            "qotchy",
+            "qotor"
+          ],
+          2
+        ],
+        [
+          [
+            "cthor",
+            "oty"
+          ],
+          2
+        ],
+        [
+          [
+            "cthy",
+            "dy"
+          ],
+          2
+        ],
+        [
+          [
+            "cthor",
+            "chol"
+          ],
+          2
+        ],
+        [
+          [
+            "daiin",
+            "dal"
+          ],
+          2
+        ],
+        [
+          [
+            "dal",
+            "s"
+          ],
+          2
+        ],
+        [
+          [
+            "daiin",
+            "y"
+          ],
+          2
+        ],
+        [
+          [
+            "shey",
+            "figure"
+          ],
+          2
+        ],
+        [
+          [
+            "otaiin",
+            "or"
+          ],
+          1
+        ],
+        [
+          [
+            "shos",
+            "cfhol"
+          ],
+          1
+        ]
+      ]
+    },
+    "qokaiin": {
+      "word_following": [
+        [
+          "chedy",
+          10
+        ],
+        [
+          "ol",
+          8
+        ],
+        [
+          "shedy",
+          8
+        ],
+        [
+          "chey",
+          6
+        ],
+        [
+          "chol",
+          5
+        ],
+        [
+          "okal",
+          5
+        ],
+        [
+          "otal",
+          4
+        ],
+        [
+          "checkhy",
+          4
+        ],
+        [
+          "shckhy",
+          4
+        ],
+        [
+          "shey",
+          4
+        ],
+        [
+          "or",
+          3
+        ],
+        [
+          "qokaiin",
+          3
+        ],
+        [
+          "chcthy",
+          3
+        ],
+        [
+          "sheol",
+          3
+        ],
+        [
+          "shcthy",
+          3
+        ]
+      ],
+      "two_words_following": [
+        [
+          [
+            "okai",
+            "n"
+          ],
+          3
+        ],
+        [
+          [
+            "chedy",
+            "qokeedy"
+          ],
+          2
+        ],
+        [
+          [
+            "otai",
+            "n"
+          ],
+          2
+        ],
+        [
+          [
+            "sho",
+            "ckhoy"
+          ],
+          1
+        ],
+        [
+          [
+            "dy",
+            "ykey"
+          ],
+          1
+        ],
+        [
+          [
+            "qotchy",
+            "tydy"
+          ],
+          1
+        ],
+        [
+          [
+            "chos",
+            "odaiin"
+          ],
+          1
+        ],
+        [
+          [
+            "soloiin",
+            "cheor"
+          ],
+          1
+        ],
+        [
+          [
+            "yky",
+            "dar"
+          ],
+          1
+        ],
+        [
+          [
+            "olol",
+            "qoaiin"
+          ],
+          1
+        ]
+      ]
+    }
+  },
+  "decoded_meanings": [
+    {
+      "voynich": "daiin",
+      "decoded": "deii",
+      "proposed": "de + acc. marker",
+      "meaning": "of/from (+ object)",
+      "evidence": "High frequency, matches Latin \"de\" pattern",
+      "confidence": 0.8
+    },
+    {
+      "voynich": "qokaiin",
+      "decoded": "aquerii",
+      "proposed": "article + ablative",
+      "meaning": "from the herb",
+      "evidence": "Case paradigm confirmed (6 forms)",
+      "confidence": 0.85
+    },
+    {
+      "voynich": "qokain",
+      "decoded": "aquerin",
+      "proposed": "article + accusative",
+      "meaning": "the herb (object)",
+      "evidence": "Regular paradigm member",
+      "confidence": 0.85
+    },
+    {
+      "voynich": "aiin",
+      "decoded": "eii",
+      "proposed": "-am accusative suffix",
+      "meaning": "object marker",
+      "evidence": "Most common short word, matches Latin -am",
+      "confidence": 0.7
+    },
+    {
+      "voynich": "ol",
+      "decoded": "al",
+      "proposed": "-ae feminine ending",
+      "meaning": "dative/genitive feminine",
+      "evidence": "Matches Latin -ae pattern",
+      "confidence": 0.65
+    },
+    {
+      "voynich": "y",
+      "decoded": "s",
+      "proposed": "-us/-is abbreviation",
+      "meaning": "nominative singular marker",
+      "evidence": "Medieval \"9\" = -us abbreviation documented (37% of words)",
+      "confidence": 0.85
+    },
+    {
+      "voynich": "dy",
+      "decoded": "ds",
+      "proposed": "-orum/-arum abbreviation",
+      "meaning": "genitive plural",
+      "evidence": "Consistent paradigm pattern",
+      "confidence": 0.75
+    },
+    {
+      "voynich": "chedy",
+      "decoded": "khcds",
+      "proposed": "stem + nominative",
+      "meaning": "verbal/adj root + -us",
+      "evidence": "Regular pattern with ch-",
+      "confidence": 0.5
+    },
+    {
+      "voynich": "oqo",
+      "decoded": "aqua",
+      "proposed": "aqua",
+      "meaning": "water",
+      "evidence": "Perfect phonetic match to Latin",
+      "confidence": 0.95
+    },
+    {
+      "voynich": "okeey",
+      "decoded": "arccs",
+      "proposed": "aries",
+      "meaning": "Aries (zodiac)",
+      "evidence": "Found in Aries zodiac section",
+      "confidence": 0.85
+    }
+  ],
+  "summary": {
+    "paradigms_analyzed": 3,
+    "high_confidence_words": 6,
+    "medium_confidence_words": 3,
+    "function_words_matched": 26,
+    "qok_total": 2819,
+    "da_total": 2015,
+    "ch_total": 5364
+  }
+}

@@ -1,0 +1,151 @@
+# Track 40: Medieval Hebrew Text Comparison
+
+## OBJECTIVE
+Compare Voynich text with actual medieval Hebrew manuscripts, particularly
+medical and botanical texts, to test the Hebrew hypothesis.
+
+## BACKGROUND
+Track 37 showed Hebrew patterns score highest (0.415).
+Medieval Hebrew medical/botanical texts existed and could be a source.
+
+## HISTORICAL CONTEXT
+
+### Medieval Hebrew Medical Texts
+- **Sefer ha-Refu'ot** - Book of Remedies
+- **Asaph ha-Rofe** - 6th-7th century medical encyclopedia
+- **Works translated from Arabic** - Many medical texts
+
+### Medieval Hebrew in Italy
+- Large Jewish communities in Northern Italy
+- Hebrew-Italian bilingualism common
+- Judeo-Italian (Hebrew script for Italian)
+- Medical practitioners often Jewish
+
+### Voynich Provenance
+- Carbon-dated to early 15th century
+- Possibly from Northern Italy
+- Fits timeline and location for Hebrew influence
+
+## INPUT FILES
+- `results/hebrew_analysis.json` - From Track 38
+- `results/glyph_analysis.json` - Glyph patterns
+- `data/eva_ivtff.txt` - Source transcription
+
+## TASKS
+
+### 1. Build Medieval Hebrew Reference Corpus
+Collect vocabulary from:
+- Medieval Hebrew medical texts
+- Hebrew plant names (from Maimonides, etc.)
+- Hebrew anatomical terms
+- Hebrew astrological terms (for zodiac section)
+
+### 2. Structural Comparison
+Compare Voynich structure with Hebrew manuscripts:
+- Page layout
+- Paragraph organization
+- Illustration placement
+- Text flow direction
+
+### 3. Zodiac Section Hebrew Test
+Hebrew month names:
+- Nisan (ניסן) - March/April
+- Iyar (אייר) - April/May
+- Sivan (סיון) - May/June
+- etc.
+
+Test if zodiac labels match Hebrew month names better than Latin.
+
+### 4. Plant Section Hebrew Test
+Hebrew plant terminology:
+- Shoresh (שורש) - root
+- Aleh (עלה) - leaf
+- Perach (פרח) - flower
+- Pri (פרי) - fruit
+- Zera (זרע) - seed
+
+Search for patterns matching these.
+
+### 5. Gematria Analysis
+Hebrew numerology (gematria) assigns values to letters.
+- Could Voynich encode numbers?
+- Are there numerical patterns?
+- Do word values have significance?
+
+### 6. Kabbalistic Pattern Search
+Kabbalistic texts use:
+- Notarikon (acronyms)
+- Temurah (letter substitution)
+- Codes and ciphers
+
+Test if Voynich shows these patterns.
+
+### 7. Judeo-Romance Hypothesis
+Test if Voynich could be:
+- Italian written in Hebrew-style script
+- Judeo-Italian (Italkian)
+- A Hebrew-Italian hybrid language
+
+## EXPECTED OUTPUT
+
+### Main Script
+`medieval_hebrew.py` - Comparison script
+
+### Result Files
+
+1. `results/medieval_hebrew_comparison.json`
+```json
+{
+  "reference_corpus": {
+    "medical_terms": [],
+    "plant_terms": [],
+    "month_names": [],
+    "body_parts": []
+  },
+  "structural_comparison": {
+    "layout_similarity": 0.0,
+    "text_flow": "left-to-right"
+  },
+  "zodiac_hebrew_matches": [],
+  "plant_hebrew_matches": [],
+  "gematria_analysis": {},
+  "kabbalistic_patterns": [],
+  "overall_hebrew_match": 0.0
+}
+```
+
+2. `results/medieval_hebrew_report.md`
+- Reference corpus summary
+- Structural comparison
+- Zodiac analysis
+- Plant section analysis
+- Gematria findings
+- Kabbalistic pattern search
+- Final verdict: Medieval Hebrew connection?
+
+## SUCCESS CRITERIA
+- [ ] Reference corpus of 100+ Hebrew terms built
+- [ ] Structural comparison completed
+- [ ] Zodiac section tested with Hebrew months
+- [ ] Plant section tested with Hebrew terms
+- [ ] Gematria analysis attempted
+- [ ] Clear conclusion on Hebrew hypothesis
+
+## KEY QUESTIONS
+
+1. Do Voynich zodiac labels match Hebrew month names?
+2. Do plant labels match Hebrew plant terminology?
+3. Are there Kabbalistic encoding patterns?
+4. Could this be Judeo-Italian text?
+
+## WEB RESOURCES TO CONSULT
+- Medieval Hebrew medical manuscripts (digitized)
+- Hebrew botanical terminology lists
+- Kabbalistic code systems
+- Judeo-Italian language resources
+
+## NOTES
+- The 15th century Northern Italy setting fits Jewish scribal tradition
+- Many medieval herbals were translated into Hebrew
+- Hebrew medical knowledge was highly valued
+- Jewish physicians served Christian nobility

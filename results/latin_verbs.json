@@ -1,0 +1,2538 @@
+{
+  "total_words": 40787,
+  "unique_words": 9597,
+  "target_verbs": [
+    {
+      "latin": "valet",
+      "meaning": "is effective/good",
+      "predictions": [
+        {
+          "latin_form": "valet",
+          "predicted_voynich": "?o7a1"
+        },
+        {
+          "latin_form": "valent",
+          "predicted_voynich": "?o7ak1"
+        },
+        {
+          "latin_form": "valeat",
+          "predicted_voynich": "?o7ao1"
+        }
+      ],
+      "candidates": [
+        {
+          "voynich": "o7am",
+          "decoded": "alem",
+          "latin_form": "valet",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 7,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 86%",
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "o7ae",
+          "decoded": "alei",
+          "latin_form": "valet",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 2,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 100%",
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "o7az",
+          "decoded": "alez",
+          "latin_form": "valet",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "o7ay",
+          "decoded": "alei",
+          "latin_form": "valet",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "o7an",
+          "decoded": "alen",
+          "latin_form": "valet",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "ok1",
+          "decoded": "ant",
+          "latin_form": "valent",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 4,
+          "context_score": 0.15,
+          "reasons": [
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "ok19",
+          "decoded": "ants",
+          "latin_form": "valent",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 46,
+          "context_score": 0.45,
+          "reasons": [
+            "Mid-line position 85%",
+            "Follows noun stems 1x",
+            "Moderate frequency 0.11%"
+          ]
+        },
+        {
+          "voynich": "7an",
+          "decoded": "len",
+          "latin_form": "valent",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 27,
+          "context_score": 0.45,
+          "reasons": [
+            "Mid-line position 70%",
+            "Follows noun stems 3x",
+            "Moderate frequency 0.07%"
+          ]
+        },
+        {
+          "voynich": "soo1",
+          "decoded": "xaat",
+          "latin_form": "valeat",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.4,
+          "reasons": [
+            "Mid-line position 100%",
+            "Latin verb ending: at"
+          ]
+        },
+        {
+          "voynich": "4ok1(",
+          "decoded": "quant(",
+          "latin_form": "valent",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 2,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 50%",
+            "Follows noun stems 1x"
+          ]
+        }
+      ],
+      "best_match": "o7am",
+      "confidence": 0.55
+    },
+    {
+      "latin": "curat",
+      "meaning": "cures/heals",
+      "predictions": [
+        {
+          "latin_form": "curat",
+          "predicted_voynich": "chho1"
+        },
+        {
+          "latin_form": "curant",
+          "predicted_voynich": "chhok1"
+        },
+        {
+          "latin_form": "curatur",
+          "predicted_voynich": "chho1hh"
+        }
+      ],
+      "candidates": [
+        {
+          "voynich": "Chcok",
+          "decoded": "chrcan",
+          "latin_form": "curant",
+          "match_type": "similar",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "hok19",
+          "decoded": "rants",
+          "latin_form": "curant",
+          "match_type": "similar",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "4ok18",
+          "decoded": "quantd",
+          "latin_form": "curant",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 4,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 75%",
+            "Follows noun stems 3x"
+          ]
+        },
+        {
+          "voynich": "4o1(",
+          "decoded": "quat(",
+          "latin_form": "curat",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 100%",
+            "Follows noun stems 2x"
+          ]
+        },
+        {
+          "voynich": "7cuo",
+          "decoded": "lcua",
+          "latin_form": "curat",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 100%",
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "4ok19",
+          "decoded": "quants",
+          "latin_form": "curant",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 59,
+          "context_score": 0.3,
+          "reasons": [
+            "Mid-line position 68%",
+            "Moderate frequency 0.14%"
+          ]
+        },
+        {
+          "voynich": "1coT",
+          "decoded": "tcaT",
+          "latin_form": "curat",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 2,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 50%"
+          ]
+        },
+        {
+          "voynich": "Ho19",
+          "decoded": "rhats",
+          "latin_form": "curat",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "choe",
+          "decoded": "crai",
+          "latin_form": "curat",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "1cHo",
+          "decoded": "tcrha",
+          "latin_form": "curat",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        }
+      ],
+      "best_match": "Chcok",
+      "confidence": 0.464
+    },
+    {
+      "latin": "sanat",
+      "meaning": "heals",
+      "predictions": [
+        {
+          "latin_form": "sanat",
+          "predicted_voynich": "9oko1"
+        },
+        {
+          "latin_form": "sanant",
+          "predicted_voynich": "9okok1"
+        },
+        {
+          "latin_form": "sanatur",
+          "predicted_voynich": "9oko1hh"
+        }
+      ],
+      "candidates": [
+        {
+          "voynich": "oko",
+          "decoded": "ana",
+          "latin_form": "sanat",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 19,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 95%",
+            "Follows noun stems 3x"
+          ]
+        },
+        {
+          "voynich": "9ko",
+          "decoded": "sna",
+          "latin_form": "sanat",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 4,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 50%"
+          ]
+        },
+        {
+          "voynich": "ok1",
+          "decoded": "ant",
+          "latin_form": "sanat",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 4,
+          "context_score": 0.15,
+          "reasons": [
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "9ko(",
+          "decoded": "sna(",
+          "latin_form": "sanat",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "9k1",
+          "decoded": "snt",
+          "latin_form": "sanat",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "okoe18",
+          "decoded": "anaitd",
+          "latin_form": "sanat",
+          "match_type": "decoded",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 100%",
+            "Follows noun stems 2x"
+          ]
+        },
+        {
+          "voynich": "9kco19",
+          "decoded": "sncats",
+          "latin_form": "sanat",
+          "match_type": "decoded",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 100%",
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "9okoap",
+          "decoded": "sanaep",
+          "latin_form": "sanat",
+          "match_type": "decoded",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "okoh1o",
+          "decoded": "anarta",
+          "latin_form": "sanat",
+          "match_type": "decoded",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "kok19",
+          "decoded": "nants",
+          "latin_form": "sanant",
+          "match_type": "similar",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        }
+      ],
+      "best_match": "oko",
+      "confidence": 0.55
+    },
+    {
+      "latin": "prodest",
+      "meaning": "helps/benefits",
+      "predictions": [
+        {
+          "latin_form": "prodest",
+          "predicted_voynich": "pho8a91"
+        },
+        {
+          "latin_form": "prosit",
+          "predicted_voynich": "pho9e1"
+        }
+      ],
+      "candidates": [
+        {
+          "voynich": "ho89",
+          "decoded": "rads",
+          "latin_form": "prodest",
+          "match_type": "similar",
+          "similarity": 0.727,
+          "count": 9,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 67%",
+            "Follows noun stems 2x"
+          ]
+        },
+        {
+          "voynich": "Ho89",
+          "decoded": "rhads",
+          "latin_form": "prodest",
+          "match_type": "similar",
+          "similarity": 0.727,
+          "count": 3,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 67%",
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "(Ho89",
+          "decoded": "(rhads",
+          "latin_form": "prodest",
+          "match_type": "similar",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "ho8ae19",
+          "decoded": "radeits",
+          "latin_form": "prodest",
+          "match_type": "similar",
+          "similarity": 0.714,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "hoe",
+          "decoded": "rai",
+          "latin_form": "prosit",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 44,
+          "context_score": 0.45,
+          "reasons": [
+            "Mid-line position 89%",
+            "Follows noun stems 1x",
+            "Moderate frequency 0.11%"
+          ]
+        },
+        {
+          "voynich": "Hoe",
+          "decoded": "rhai",
+          "latin_form": "prosit",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 21,
+          "context_score": 0.45,
+          "reasons": [
+            "Mid-line position 95%",
+            "Follows noun stems 1x",
+            "Moderate frequency 0.05%"
+          ]
+        },
+        {
+          "voynich": "ohoe19",
+          "decoded": "araits",
+          "latin_form": "prosit",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 3,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 67%",
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "Ho9",
+          "decoded": "rhas",
+          "latin_form": "prosit",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "#o8ay9",
+          "decoded": "#adeis",
+          "latin_form": "prodest",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "poe",
+          "decoded": "pai",
+          "latin_form": "prosit",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        }
+      ],
+      "best_match": "ho89",
+      "confidence": 0.538
+    },
+    {
+      "latin": "purgat",
+      "meaning": "cleanses/purges",
+      "predictions": [
+        {
+          "latin_form": "purgat",
+          "predicted_voynich": "phhgo1"
+        },
+        {
+          "latin_form": "purgatur",
+          "predicted_voynich": "phhgo1hh"
+        }
+      ],
+      "candidates": [
+        {
+          "voynich": "4oho19",
+          "decoded": "quarats",
+          "latin_form": "purgat",
+          "match_type": "decoded",
+          "similarity": 0.615,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "ho1h9",
+          "decoded": "ratrs",
+          "latin_form": "purgatur",
+          "match_type": "similar",
+          "similarity": 0.615,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "4o1(",
+          "decoded": "quat(",
+          "latin_form": "purgat",
+          "match_type": "decoded",
+          "similarity": 0.6,
+          "count": 1,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 100%",
+            "Follows noun stems 2x"
+          ]
+        },
+        {
+          "voynich": "Ho19",
+          "decoded": "rhats",
+          "latin_form": "purgat",
+          "match_type": "similar",
+          "similarity": 0.6,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "4ho",
+          "decoded": "qura",
+          "latin_form": "purgat",
+          "match_type": "decoded",
+          "similarity": 0.6,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        }
+      ],
+      "best_match": "4oho19",
+      "confidence": 0.407
+    },
+    {
+      "latin": "solvit",
+      "meaning": "dissolves/releases",
+      "predictions": [
+        {
+          "latin_form": "solvit",
+          "predicted_voynich": "9o7?e1"
+        },
+        {
+          "latin_form": "solvitur",
+          "predicted_voynich": "9o7?e1hh"
+        }
+      ],
+      "candidates": [
+        {
+          "voynich": "oe1",
+          "decoded": "ait",
+          "latin_form": "solvit",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 2,
+          "context_score": 0.4,
+          "reasons": [
+            "Mid-line position 100%",
+            "Latin verb ending: it"
+          ]
+        },
+        {
+          "voynich": "97e",
+          "decoded": "sli",
+          "latin_form": "solvit",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 1,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 100%",
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "9oe",
+          "decoded": "sai",
+          "latin_form": "solvit",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 2,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 50%"
+          ]
+        },
+        {
+          "voynich": "o7e",
+          "decoded": "ali",
+          "latin_form": "solvit",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 2,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "9hoe",
+          "decoded": "srai",
+          "latin_form": "solvit",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 10,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 80%"
+          ]
+        },
+        {
+          "voynich": "oe1H9",
+          "decoded": "aitrhs",
+          "latin_form": "solvitur",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "oe1ch9",
+          "decoded": "aitcrs",
+          "latin_form": "solvitur",
+          "match_type": "similar",
+          "similarity": 0.615,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "9oehoe",
+          "decoded": "sairai",
+          "latin_form": "solvitur",
+          "match_type": "similar",
+          "similarity": 0.615,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "9e1A",
+          "decoded": "sitr",
+          "latin_form": "solvit",
+          "match_type": "decoded",
+          "similarity": 0.6,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "97ay",
+          "decoded": "slei",
+          "latin_form": "solvit",
+          "match_type": "decoded",
+          "similarity": 0.6,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        }
+      ],
+      "best_match": "oe1",
+      "confidence": 0.575
+    },
+    {
+      "latin": "facit",
+      "meaning": "makes/does",
+      "predictions": [
+        {
+          "latin_form": "facit",
+          "predicted_voynich": "foce1"
+        },
+        {
+          "latin_form": "faciunt",
+          "predicted_voynich": "focehk1"
+        }
+      ],
+      "candidates": [
+        {
+          "voynich": "oe1",
+          "decoded": "ait",
+          "latin_form": "facit",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 2,
+          "context_score": 0.4,
+          "reasons": [
+            "Mid-line position 100%",
+            "Latin verb ending: it"
+          ]
+        },
+        {
+          "voynich": "Foe",
+          "decoded": "fai",
+          "latin_form": "facit",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 3,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "foe",
+          "decoded": "fai",
+          "latin_form": "facit",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "ockae1",
+          "decoded": "acneit",
+          "latin_form": "facit",
+          "match_type": "similar",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.35,
+          "reasons": [
+            "Follows noun stems 1x",
+            "Latin verb ending: it"
+          ]
+        },
+        {
+          "voynich": "foe1oe",
+          "decoded": "faitai",
+          "latin_form": "facit",
+          "match_type": "similar",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "foe1oy",
+          "decoded": "faitai",
+          "latin_form": "facit",
+          "match_type": "decoded",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "foe1c9",
+          "decoded": "faitcs",
+          "latin_form": "facit",
+          "match_type": "decoded",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "toet",
+          "decoded": "tait",
+          "latin_form": "facit",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.4,
+          "reasons": [
+            "Mid-line position 100%",
+            "Latin verb ending: it"
+          ]
+        },
+        {
+          "voynich": "oe19",
+          "decoded": "aits",
+          "latin_form": "facit",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 10,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 70%",
+            "Follows noun stems 3x"
+          ]
+        },
+        {
+          "voynich": "oeh19",
+          "decoded": "airts",
+          "latin_form": "faciunt",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 3,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 67%",
+            "Follows noun stems 2x"
+          ]
+        }
+      ],
+      "best_match": "oe1",
+      "confidence": 0.575
+    },
+    {
+      "latin": "habet",
+      "meaning": "has",
+      "predictions": [
+        {
+          "latin_form": "habet",
+          "predicted_voynich": "ho2a1"
+        },
+        {
+          "latin_form": "habent",
+          "predicted_voynich": "ho2ak1"
+        }
+      ],
+      "candidates": [
+        {
+          "voynich": "hok19",
+          "decoded": "rants",
+          "latin_form": "habent",
+          "match_type": "similar",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "ho2ck",
+          "decoded": "rabcn",
+          "latin_form": "habent",
+          "match_type": "similar",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "2aN",
+          "decoded": "beN",
+          "latin_form": "habent",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 4,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 50%"
+          ]
+        },
+        {
+          "voynich": "Ho19",
+          "decoded": "rhats",
+          "latin_form": "habet",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "ohoA",
+          "decoded": "arar",
+          "latin_form": "habet",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "ban",
+          "decoded": "ben",
+          "latin_form": "habent",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "oan",
+          "decoded": "aen",
+          "latin_form": "habent",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 10,
+          "context_score": 0.15,
+          "reasons": [
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "ok1",
+          "decoded": "ant",
+          "latin_form": "habent",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 4,
+          "context_score": 0.15,
+          "reasons": [
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "okaT",
+          "decoded": "aneT",
+          "latin_form": "habet",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.15,
+          "reasons": [
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "2an",
+          "decoded": "ben",
+          "latin_form": "habent",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 7,
+          "context_score": 0.0,
+          "reasons": []
+        }
+      ],
+      "best_match": "hok19",
+      "confidence": 0.464
+    },
+    {
+      "latin": "est",
+      "meaning": "is",
+      "predictions": [
+        {
+          "latin_form": "est",
+          "predicted_voynich": "a91"
+        },
+        {
+          "latin_form": "sunt",
+          "predicted_voynich": "9hk1"
+        }
+      ],
+      "candidates": [
+        {
+          "voynich": "9k1",
+          "decoded": "snt",
+          "latin_form": "sunt",
+          "match_type": "similar",
+          "similarity": 0.857,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "E9",
+          "decoded": "Es",
+          "latin_form": "est",
+          "match_type": "decoded",
+          "similarity": 0.8,
+          "count": 1,
+          "context_score": 0.15,
+          "reasons": [
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "9T",
+          "decoded": "sT",
+          "latin_form": "est",
+          "match_type": "decoded",
+          "similarity": 0.8,
+          "count": 1,
+          "context_score": 0.15,
+          "reasons": [
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "9h1o",
+          "decoded": "srta",
+          "latin_form": "sunt",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 5,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 60%",
+            "Follows noun stems 2x"
+          ]
+        },
+        {
+          "voynich": "A9819",
+          "decoded": "rsdts",
+          "latin_form": "est",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 1,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 100%",
+            "Follows noun stems 2x"
+          ]
+        },
+        {
+          "voynich": "9h19",
+          "decoded": "srts",
+          "latin_form": "sunt",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 17,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 71%"
+          ]
+        },
+        {
+          "voynich": "9k19",
+          "decoded": "snts",
+          "latin_form": "sunt",
+          "match_type": "similar",
+          "similarity": 0.75,
+          "count": 16,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 75%"
+          ]
+        },
+        {
+          "voynich": "9kaT",
+          "decoded": "sneT",
+          "latin_form": "sunt",
+          "match_type": "decoded",
+          "similarity": 0.75,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "9k1o",
+          "decoded": "snta",
+          "latin_form": "sunt",
+          "match_type": "decoded",
+          "similarity": 0.75,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "9k1oe",
+          "decoded": "sntai",
+          "latin_form": "sunt",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 6,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 67%",
+            "Follows noun stems 1x"
+          ]
+        }
+      ],
+      "best_match": "9k1",
+      "confidence": 0.428
+    },
+    {
+      "latin": "bibitur",
+      "meaning": "is drunk",
+      "predictions": [
+        {
+          "latin_form": "bibitur",
+          "predicted_voynich": "2e2e1hh"
+        },
+        {
+          "latin_form": "bibatur",
+          "predicted_voynich": "2e2o1hh"
+        }
+      ],
+      "candidates": [
+        {
+          "voynich": "2oj1A",
+          "decoded": "bajtr",
+          "latin_form": "bibatur",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "e2oj19",
+          "decoded": "ibajts",
+          "latin_form": "bibatur",
+          "match_type": "similar",
+          "similarity": 0.615,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "2oh",
+          "decoded": "bar",
+          "latin_form": "bibatur",
+          "match_type": "similar",
+          "similarity": 0.6,
+          "count": 7,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 86%"
+          ]
+        },
+        {
+          "voynich": "e2o",
+          "decoded": "iba",
+          "latin_form": "bibatur",
+          "match_type": "similar",
+          "similarity": 0.6,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        }
+      ],
+      "best_match": "2oj1A",
+      "confidence": 0.433
+    },
+    {
+      "latin": "datur",
+      "meaning": "is given",
+      "predictions": [
+        {
+          "latin_form": "datur",
+          "predicted_voynich": "8o1hh"
+        },
+        {
+          "latin_form": "detur",
+          "predicted_voynich": "8a1hh"
+        }
+      ],
+      "candidates": [
+        {
+          "voynich": "81A",
+          "decoded": "dtr",
+          "latin_form": "datur",
+          "match_type": "decoded",
+          "similarity": 0.75,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "8ae1H9",
+          "decoded": "deitrhs",
+          "latin_form": "detur",
+          "match_type": "similar",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "8oh9",
+          "decoded": "dars",
+          "latin_form": "datur",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 100%",
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "8or9",
+          "decoded": "dars",
+          "latin_form": "datur",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 100%",
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "8ah9",
+          "decoded": "ders",
+          "latin_form": "detur",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 2,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 50%"
+          ]
+        },
+        {
+          "voynich": "81ot",
+          "decoded": "dtat",
+          "latin_form": "datur",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Latin verb ending: at"
+          ]
+        },
+        {
+          "voynich": "81Ap",
+          "decoded": "dtrp",
+          "latin_form": "datur",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "81H9",
+          "decoded": "dtrhs",
+          "latin_form": "datur",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 3,
+          "context_score": 0.15,
+          "reasons": [
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "8ae1dh9",
+          "decoded": "deitdrs",
+          "latin_form": "detur",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "8oyh1ch9",
+          "decoded": "dairtcrs",
+          "latin_form": "datur",
+          "match_type": "similar",
+          "similarity": 0.615,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        }
+      ],
+      "best_match": "81A",
+      "confidence": 0.475
+    },
+    {
+      "latin": "coquatur",
+      "meaning": "let be cooked",
+      "predictions": [
+        {
+          "latin_form": "coquatur",
+          "predicted_voynich": "co4o1hh"
+        },
+        {
+          "latin_form": "coquitur",
+          "predicted_voynich": "co4e1hh"
+        }
+      ],
+      "candidates": [
+        {
+          "voynich": "4oh(",
+          "decoded": "quar(",
+          "latin_form": "coquatur",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 4,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 75%",
+            "Follows noun stems 3x"
+          ]
+        },
+        {
+          "voynich": "o4oH9",
+          "decoded": "aquarhs",
+          "latin_form": "coquatur",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 100%",
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "4o1(",
+          "decoded": "quat(",
+          "latin_form": "coquatur",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 100%",
+            "Follows noun stems 2x"
+          ]
+        },
+        {
+          "voynich": "4oh",
+          "decoded": "quar",
+          "latin_form": "coquatur",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 37,
+          "context_score": 0.3,
+          "reasons": [
+            "Mid-line position 81%",
+            "Moderate frequency 0.09%"
+          ]
+        },
+        {
+          "voynich": "oe1H9",
+          "decoded": "aitrhs",
+          "latin_form": "coquitur",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "4ou",
+          "decoded": "quau",
+          "latin_form": "coquatur",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "4oj1cA",
+          "decoded": "quajtcr",
+          "latin_form": "coquatur",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "4ok1hC(",
+          "decoded": "quantrch(",
+          "latin_form": "coquatur",
+          "match_type": "decoded",
+          "similarity": 0.625,
+          "count": 1,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 100%",
+            "Follows noun stems 2x"
+          ]
+        },
+        {
+          "voynich": "3c4ohap",
+          "decoded": "3cquarep",
+          "latin_form": "coquatur",
+          "match_type": "decoded",
+          "similarity": 0.625,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "4ohe",
+          "decoded": "quari",
+          "latin_form": "coquatur",
+          "match_type": "decoded",
+          "similarity": 0.615,
+          "count": 11,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 82%",
+            "Follows noun stems 1x"
+          ]
+        }
+      ],
+      "best_match": "4oh(",
+      "confidence": 0.508
+    },
+    {
+      "latin": "miscetur",
+      "meaning": "is mixed",
+      "predictions": [
+        {
+          "latin_form": "miscetur",
+          "predicted_voynich": "me9ca1hh"
+        },
+        {
+          "latin_form": "misceatur",
+          "predicted_voynich": "me9cao1hh"
+        }
+      ],
+      "candidates": [],
+      "best_match": null,
+      "confidence": 0.0
+    },
+    {
+      "latin": "tollit",
+      "meaning": "removes/lifts",
+      "predictions": [
+        {
+          "latin_form": "tollit",
+          "predicted_voynich": "1o77e1"
+        },
+        {
+          "latin_form": "tollunt",
+          "predicted_voynich": "1o77hk1"
+        }
+      ],
+      "candidates": [
+        {
+          "voynich": "1o7ae",
+          "decoded": "talei",
+          "latin_form": "tollit",
+          "match_type": "similar",
+          "similarity": 0.727,
+          "count": 2,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 50%",
+            "Follows noun stems 2x"
+          ]
+        },
+        {
+          "voynich": "1oh1(",
+          "decoded": "tart(",
+          "latin_form": "tollunt",
+          "match_type": "similar",
+          "similarity": 0.727,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "1o719",
+          "decoded": "talts",
+          "latin_form": "tollit",
+          "match_type": "similar",
+          "similarity": 0.727,
+          "count": 2,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "1oe",
+          "decoded": "tai",
+          "latin_form": "tollit",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 402,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 95%",
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "1oh19",
+          "decoded": "tarts",
+          "latin_form": "tollunt",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 17,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 82%"
+          ]
+        },
+        {
+          "voynich": "1ok19",
+          "decoded": "tants",
+          "latin_form": "tollunt",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 10,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 80%"
+          ]
+        },
+        {
+          "voynich": "1ok1c",
+          "decoded": "tantc",
+          "latin_form": "tollunt",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "1oh1o",
+          "decoded": "tarta",
+          "latin_form": "tollunt",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "1oe819",
+          "decoded": "taidts",
+          "latin_form": "tollit",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.15,
+          "reasons": [
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "1oe1op",
+          "decoded": "taitap",
+          "latin_form": "tollit",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        }
+      ],
+      "best_match": "1o7ae",
+      "confidence": 0.538
+    },
+    {
+      "latin": "aufert",
+      "meaning": "takes away",
+      "predictions": [
+        {
+          "latin_form": "aufert",
+          "predicted_voynich": "ohfah1"
+        },
+        {
+          "latin_form": "auferunt",
+          "predicted_voynich": "ohfahhk1"
+        }
+      ],
+      "candidates": [
+        {
+          "voynich": "oha",
+          "decoded": "are",
+          "latin_form": "aufert",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 7,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 57%",
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "ouahae",
+          "decoded": "auerei",
+          "latin_form": "aufert",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 100%",
+            "Follows noun stems 1x"
+          ]
+        },
+        {
+          "voynich": "oh1",
+          "decoded": "art",
+          "latin_form": "aufert",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "oua",
+          "decoded": "aue",
+          "latin_form": "aufert",
+          "match_type": "decoded",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.2,
+          "reasons": [
+            "Mid-line position 100%"
+          ]
+        },
+        {
+          "voynich": "ohae19",
+          "decoded": "areits",
+          "latin_form": "aufert",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 2,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "ohae1c",
+          "decoded": "areitc",
+          "latin_form": "aufert",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "ohay19",
+          "decoded": "areits",
+          "latin_form": "aufert",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "ohA",
+          "decoded": "arr",
+          "latin_form": "aufert",
+          "match_type": "similar",
+          "similarity": 0.667,
+          "count": 1,
+          "context_score": 0.0,
+          "reasons": []
+        },
+        {
+          "voynich": "oh19",
+          "decoded": "arts",
+          "latin_form": "aufert",
+          "match_type": "decoded",
+          "similarity": 0.6,
+          "count": 35,
+          "context_score": 0.45,
+          "reasons": [
+            "Mid-line position 74%",
+            "Follows noun stems 1x",
+            "Moderate frequency 0.09%"
+          ]
+        },
+        {
+          "voynich": "oh1o",
+          "decoded": "arta",
+          "latin_form": "aufert",
+          "match_type": "decoded",
+          "similarity": 0.6,
+          "count": 8,
+          "context_score": 0.35,
+          "reasons": [
+            "Mid-line position 75%",
+            "Follows noun stems 4x"
+          ]
+        }
+      ],
+      "best_match": "oha",
+      "confidence": 0.508
+    }
+  ],
+  "passive_voice_candidates": [
+    {
+      "voynich": "4A",
+      "decoded": "qur",
+      "latin_ending": "-ur (passive?)",
+      "count": 2,
+      "context_score": 0.2,
+      "reasons": [
+        "Mid-line position 100%"
+      ]
+    }
+  ],
+  "verb_position_analysis": {
+    "line_initial": [
+      {
+        "voynich": "81ot",
+        "decoded": "dtat",
+        "count": 1,
+        "folio": "68r1.4"
+      },
+      {
+        "voynich": "sae1",
+        "decoded": "xeit",
+        "count": 1,
+        "folio": "83v.12"
+      }
+    ],
+    "post_noun": [
+      {
+        "voynich": "e1",
+        "decoded": "it",
+        "prev_word": "1co",
+        "count": 3
+      },
+      {
+        "voynich": "aeoet",
+        "decoded": "eiait",
+        "prev_word": "okco",
+        "count": 1
+      }
+    ],
+    "pre_contra": []
+  },
+  "summary": {
+    "verbs_searched": 15,
+    "high_confidence": 0,
+    "medium_confidence": 14,
+    "passive_candidates": 1,
+    "verb_patterns_found": 90,
+    "herbal_phrases_found": 2,
+    "line_initial_verbs": 2,
+    "post_noun_verbs": 2
+  },
+  "verb_patterns": [
+    {
+      "voynich": "4o",
+      "decoded": "qua",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 166
+    },
+    {
+      "voynich": "1co",
+      "decoded": "tca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 129
+    },
+    {
+      "voynich": "1o",
+      "decoded": "ta",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 121
+    },
+    {
+      "voynich": "2o",
+      "decoded": "ba",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 105
+    },
+    {
+      "voynich": "2co",
+      "decoded": "bca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 45
+    },
+    {
+      "voynich": "okco",
+      "decoded": "anca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 28
+    },
+    {
+      "voynich": "eo",
+      "decoded": "ia",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 25
+    },
+    {
+      "voynich": "ohco",
+      "decoded": "arca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 24
+    },
+    {
+      "voynich": "1Co",
+      "decoded": "tcha",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 20
+    },
+    {
+      "voynich": "8o",
+      "decoded": "da",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 20
+    },
+    {
+      "voynich": "oko",
+      "decoded": "ana",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 19
+    },
+    {
+      "voynich": "co",
+      "decoded": "ca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 18
+    },
+    {
+      "voynich": "Ko",
+      "decoded": "cca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 18
+    },
+    {
+      "voynich": "hco",
+      "decoded": "rca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 17
+    },
+    {
+      "voynich": "3o",
+      "decoded": "3a",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 17
+    },
+    {
+      "voynich": "ohCo",
+      "decoded": "archa",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 17
+    },
+    {
+      "voynich": "91co",
+      "decoded": "stca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 16
+    },
+    {
+      "voynich": "yo",
+      "decoded": "ia",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 11
+    },
+    {
+      "voynich": "hCo",
+      "decoded": "rcha",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 11
+    },
+    {
+      "voynich": "so",
+      "decoded": "xa",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 11
+    },
+    {
+      "voynich": "ok1o",
+      "decoded": "anta",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 10
+    },
+    {
+      "voynich": "oho",
+      "decoded": "ara",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 10
+    },
+    {
+      "voynich": "4oho",
+      "decoded": "quara",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 9
+    },
+    {
+      "voynich": "2Co",
+      "decoded": "bcha",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 9
+    },
+    {
+      "voynich": "okcco",
+      "decoded": "ancca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 9
+    },
+    {
+      "voynich": "ho",
+      "decoded": "ra",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 8
+    },
+    {
+      "voynich": "81co",
+      "decoded": "dtca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 8
+    },
+    {
+      "voynich": "oh1o",
+      "decoded": "arta",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 8
+    },
+    {
+      "voynich": "hcco",
+      "decoded": "rcca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 8
+    },
+    {
+      "voynich": "4oko",
+      "decoded": "quana",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 7
+    },
+    {
+      "voynich": "k1o",
+      "decoded": "nta",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 7
+    },
+    {
+      "voynich": "1cco",
+      "decoded": "tcca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 7
+    },
+    {
+      "voynich": "e1o",
+      "decoded": "ita",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 7
+    },
+    {
+      "voynich": "oka",
+      "decoded": "ane",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 7
+    },
+    {
+      "voynich": "3co",
+      "decoded": "3ca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 7
+    },
+    {
+      "voynich": "okCo",
+      "decoded": "ancha",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 7
+    },
+    {
+      "voynich": "oyo",
+      "decoded": "aia",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 7
+    },
+    {
+      "voynich": "81o",
+      "decoded": "dta",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 7
+    },
+    {
+      "voynich": "oha",
+      "decoded": "are",
+      "verb_type": "infinitive",
+      "latin_equivalent": null,
+      "count": 7
+    },
+    {
+      "voynich": "9hco",
+      "decoded": "srca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 6
+    },
+    {
+      "voynich": "9hCo",
+      "decoded": "srcha",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 6
+    },
+    {
+      "voynich": "ko",
+      "decoded": "na",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 6
+    },
+    {
+      "voynich": "82o",
+      "decoded": "dba",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 6
+    },
+    {
+      "voynich": "k1co",
+      "decoded": "ntca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 6
+    },
+    {
+      "voynich": "h1o",
+      "decoded": "rta",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 6
+    },
+    {
+      "voynich": "h1co",
+      "decoded": "rtca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 6
+    },
+    {
+      "voynich": "ohcco",
+      "decoded": "arcca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 6
+    },
+    {
+      "voynich": "h2o",
+      "decoded": "rba",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 5
+    },
+    {
+      "voynich": "aeo",
+      "decoded": "eia",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 5
+    },
+    {
+      "voynich": "kco",
+      "decoded": "nca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 5
+    },
+    {
+      "voynich": "9h1o",
+      "decoded": "srta",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 5
+    },
+    {
+      "voynich": "9hcco",
+      "decoded": "srcca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 5
+    },
+    {
+      "voynich": "8aeo",
+      "decoded": "deia",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 5
+    },
+    {
+      "voynich": "ok1",
+      "decoded": "ant",
+      "verb_type": "3pl present",
+      "latin_equivalent": null,
+      "count": 4
+    },
+    {
+      "voynich": "7a",
+      "decoded": "le",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 4
+    },
+    {
+      "voynich": "g1o",
+      "decoded": "gta",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 4
+    },
+    {
+      "voynich": "oeo",
+      "decoded": "aia",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 4
+    },
+    {
+      "voynich": "Hco",
+      "decoded": "rhca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 4
+    },
+    {
+      "voynich": "g1co",
+      "decoded": "gtca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 4
+    },
+    {
+      "voynich": "91Co",
+      "decoded": "stcha",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 4
+    },
+    {
+      "voynich": "Kco",
+      "decoded": "ccca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 4
+    },
+    {
+      "voynich": "91cco",
+      "decoded": "stcca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 4
+    },
+    {
+      "voynich": "91o",
+      "decoded": "sta",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 4
+    },
+    {
+      "voynich": "1ohco",
+      "decoded": "tarca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 4
+    },
+    {
+      "voynich": "Ho",
+      "decoded": "rha",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 4
+    },
+    {
+      "voynich": "9ko",
+      "decoded": "sna",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 4
+    },
+    {
+      "voynich": "1ca",
+      "decoded": "tce",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 4
+    },
+    {
+      "voynich": "e1",
+      "decoded": "it",
+      "verb_type": "3sg present (-it)",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "kCo",
+      "decoded": "ncha",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "92o",
+      "decoded": "sba",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "go",
+      "decoded": "ga",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "oh2o",
+      "decoded": "arba",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "#o",
+      "decoded": "#a",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "1a",
+      "decoded": "te",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "ehco",
+      "decoded": "irca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "ya",
+      "decoded": "ie",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "e1co",
+      "decoded": "itca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "9kco",
+      "decoded": "snca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "k2o",
+      "decoded": "nba",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "ca",
+      "decoded": "ce",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "oh1co",
+      "decoded": "artca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "sa",
+      "decoded": "xe",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "ohdo",
+      "decoded": "arda",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "1Ko",
+      "decoded": "tcca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "ehCo",
+      "decoded": "ircha",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "ok1co",
+      "decoded": "antca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "s1co",
+      "decoded": "xtca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "9kcco",
+      "decoded": "sncca",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "ayo",
+      "decoded": "eia",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    },
+    {
+      "voynich": "Co",
+      "decoded": "cha",
+      "verb_type": "imperative?",
+      "latin_equivalent": null,
+      "count": 3
+    }
+  ],
+  "herbal_phrases": [
+    {
+      "verb_voynich": "oe1",
+      "verb_decoded": "ait",
+      "prep_voynich": "o8ay",
+      "prep_decoded": "adei",
+      "phrase": "oe1 o8ay",
+      "decoded_phrase": "ait adei",
+      "count": 2,
+      "folio": "101v2-v1.5"
+    },
+    {
+      "verb_voynich": "toet",
+      "verb_decoded": "tait",
+      "prep_voynich": "8ayo",
+      "prep_decoded": "deia",
+      "phrase": "toet 8ayo",
+      "decoded_phrase": "tait deia",
+      "count": 1,
+      "folio": "75r.center_text"
+    }
+  ]
+}

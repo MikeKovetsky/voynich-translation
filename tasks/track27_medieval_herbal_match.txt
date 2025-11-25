@@ -1,0 +1,140 @@
+# Track 27: Medieval Herbal Text Comparison
+
+## OBJECTIVE
+Compare decoded Voynich text with ACTUAL medieval Latin herbal texts to validate the Latin hypothesis.
+
+## BACKGROUND
+We claim 99.2% "Latin match" but:
+- Decoded text isn't readable
+- Coherence scores are low
+- Need to compare with REAL medieval herbals
+
+## INPUT FILES
+- `results/botanical_decoded.json` - Our decoded text
+- `results/botanical_word_frequency.json` - Word frequencies
+- `results/master_dictionary.json` - Our vocabulary
+
+## REFERENCE TEXTS (to research/obtain)
+Medieval Latin herbals to compare:
+1. **Pseudo-Apuleius Herbarius** (4th-5th c.)
+2. **Macer Floridus** (11th c.)
+3. **Circa Instans** (12th c.)
+4. **Hortus Sanitatis** (1485)
+
+## TASKS
+
+### 1. Build Reference Vocabulary
+From medieval herbal sources, extract:
+- Top 100 botanical terms (plant parts)
+- Top 50 medical terms (diseases, body parts)
+- Top 30 preparation verbs
+- Top 20 prepositions/conjunctions
+- Common phrase patterns
+
+### 2. Vocabulary Comparison
+Compare decoded Voynich vocabulary with medieval herbal vocabulary:
+- Exact matches
+- Stem matches
+- Phonetic near-matches
+- Missing expected words
+
+### 3. Phrase Pattern Comparison
+Medieval herbals have predictable patterns:
+```
+"Herba [NAME] calida/frigida est"
+"Valet contra [AILMENT]"
+"Radix/Folium/Semen eius..."
+"Recipe [AMOUNT] de [INGREDIENT]"
+"Coque in aqua/vino"
+"Bibitur/Datur cum [LIQUID]"
+```
+
+Search for these patterns in decoded Voynich.
+
+### 4. Structure Comparison
+Medieval herbal entries typically have:
+1. Plant name
+2. Physical description
+3. Properties (hot/cold, wet/dry)
+4. Medicinal uses
+5. Preparation instructions
+6. Dosage
+
+Does Voynich text show this structure?
+
+### 5. Statistical Comparison
+Compare:
+- Word length distributions
+- Case ending frequencies
+- Verb/noun ratios
+- Preposition frequencies
+
+### 6. Specific Word Search
+Search decoded Voynich for expected medieval terms:
+- `radix` (root) - WE CLAIM TO FIND THIS
+- `folium` (leaf)
+- `herba` (herb)
+- `aqua` (water) - CONFIRMED
+- `vinum` (wine)
+- `mel` (honey)
+- `contra` (against)
+- `valet` (is effective)
+- `curat` (cures)
+- `sanat` (heals)
+
+## EXPECTED OUTPUT
+
+### Main Script
+`herbal_match.py` - Comparison script
+
+### Result Files
+
+1. `results/medieval_herbal_comparison.json`
+```json
+{
+  "reference_vocabulary": {
+    "botanical_terms": [...],
+    "medical_terms": [...],
+    "verbs": [...],
+    "prepositions": [...]
+  },
+  "vocabulary_comparison": {
+    "exact_matches": [...],
+    "stem_matches": [...],
+    "missing_expected": [...],
+    "match_rate": 0.0
+  },
+  "phrase_patterns": {
+    "valet_contra": {"found": 0, "examples": []},
+    "recipe_de": {"found": 0, "examples": []},
+    "coque_in": {"found": 0, "examples": []}
+  },
+  "structure_analysis": {
+    "has_plant_names": false,
+    "has_descriptions": false,
+    "has_uses": false,
+    "has_preparations": false
+  },
+  "statistical_comparison": {...}
+}
+```
+
+2. `results/medieval_herbal_report.md`
+- Reference vocabulary summary
+- Match statistics
+- Pattern comparison
+- Structure analysis
+- Conclusion: How similar to real medieval herbals?
+
+## SUCCESS CRITERIA
+- [ ] Reference vocabulary built from medieval sources
+- [ ] Vocabulary match rate calculated
+- [ ] At least 5 phrase patterns searched
+- [ ] Structure comparison completed
+- [ ] Honest assessment: Does it match real herbals?
+
+## NOTES
+- Use web search to find medieval herbal vocabulary lists
+- Be rigorous about comparison methodology
+- If match is low, that's important information
+- Document which terms are missing vs found

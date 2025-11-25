@@ -1,0 +1,5368 @@
+{
+  "word_count": 200,
+  "latin_matches": 131,
+  "match_percentage": 0.655,
+  "vocabulary": [
+    {
+      "rank": 1,
+      "voynich": "oe",
+      "count": 746,
+      "decoded": "ai",
+      "latin_match": "ad (to)",
+      "category": "PREPOSITION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": []
+    },
+    {
+      "rank": 2,
+      "voynich": "am",
+      "count": 745,
+      "decoded": "em",
+      "latin_match": "de (of/from)",
+      "category": "PREPOSITION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": []
+    },
+    {
+      "rank": 3,
+      "voynich": "8am",
+      "count": 736,
+      "decoded": "dem",
+      "latin_match": "de (of/from)",
+      "category": "PREPOSITION",
+      "confidence": 0.97,
+      "match_score": 0.95,
+      "related_forms": [
+        "9ham",
+        "oham",
+        "Kam",
+        "o8am",
+        "1o8am"
+      ]
+    },
+    {
+      "rank": 4,
+      "voynich": "ay",
+      "count": 509,
+      "decoded": "ei",
+      "latin_match": "de (of/from)",
+      "category": "PREPOSITION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": []
+    },
+    {
+      "rank": 5,
+      "voynich": "oy",
+      "count": 454,
+      "decoded": "ai",
+      "latin_match": "ad (to)",
+      "category": "PREPOSITION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": []
+    },
+    {
+      "rank": 6,
+      "voynich": "1oe",
+      "count": 402,
+      "decoded": "tai",
+      "latin_match": "radix (root)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "hoe",
+        "3oe"
+      ]
+    },
+    {
+      "rank": 7,
+      "voynich": "1c9",
+      "count": 379,
+      "decoded": "tcs",
+      "latin_match": "tres (three)",
+      "category": "POSSIBLE",
+      "confidence": 0.443,
+      "match_score": 0.571,
+      "related_forms": [
+        "okcc9",
+        "Hc9",
+        "3c9",
+        "k1c9",
+        "2c9"
+      ]
+    },
+    {
+      "rank": 8,
+      "voynich": "ae",
+      "count": 366,
+      "decoded": "ei",
+      "latin_match": "de (of/from)",
+      "category": "PREPOSITION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": []
+    },
+    {
+      "rank": 9,
+      "voynich": "1c89",
+      "count": 363,
+      "decoded": "tcds",
+      "latin_match": "calidus (hot)",
+      "category": "POSSIBLE",
+      "confidence": 0.391,
+      "match_score": 0.545,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "1co89"
+      ]
+    },
+    {
+      "rank": 10,
+      "voynich": "89",
+      "count": 306,
+      "decoded": "ds",
+      "latin_match": "dens (tooth)",
+      "category": "MEDICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": []
+    },
+    {
+      "rank": 11,
+      "voynich": "8ay",
+      "count": 293,
+      "decoded": "dei",
+      "latin_match": "de (of/from)",
+      "category": "PREPOSITION",
+      "confidence": 0.97,
+      "match_score": 0.95,
+      "related_forms": [
+        "2ay",
+        "Kay",
+        "1cay",
+        "o8ay",
+        "1ay"
+      ]
+    },
+    {
+      "rank": 12,
+      "voynich": "4ohan",
+      "count": 266,
+      "decoded": "quaren",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.805,
+      "match_score": 0.731,
+      "related_forms": [
+        "8an",
+        "9kan",
+        "ohan",
+        "4ohc9",
+        "o8an"
+      ]
+    },
+    {
+      "rank": 13,
+      "voynich": "4ohC9",
+      "count": 237,
+      "decoded": "quarchs",
+      "latin_match": "quartana (quartan fever)",
+      "category": "POSSIBLE",
+      "confidence": 0.469,
+      "match_score": 0.585,
+      "related_forms": [
+        "91C9",
+        "ohC9",
+        "2C9",
+        "4ohc9",
+        "9hC9"
+      ]
+    },
+    {
+      "rank": 14,
+      "voynich": "4oham",
+      "count": 235,
+      "decoded": "quarem",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "o8am"
+      ]
+    },
+    {
+      "rank": 15,
+      "voynich": "1oy",
+      "count": 224,
+      "decoded": "tai",
+      "latin_match": "radix (root)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "hoy",
+        "okcoy",
+        "8oy",
+        "2oy",
+        "81oy"
+      ]
+    },
+    {
+      "rank": 16,
+      "voynich": "8ae",
+      "count": 223,
+      "decoded": "dei",
+      "latin_match": "de (of/from)",
+      "category": "PREPOSITION",
+      "confidence": 0.97,
+      "match_score": 0.95,
+      "related_forms": [
+        "hae",
+        "1ae",
+        "ohae",
+        "sae",
+        "1cae"
+      ]
+    },
+    {
+      "rank": 17,
+      "voynich": "2c89",
+      "count": 218,
+      "decoded": "bcds",
+      "latin_match": "calidus (hot)",
+      "category": "POSSIBLE",
+      "confidence": 0.391,
+      "match_score": 0.545,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "1co89"
+      ]
+    },
+    {
+      "rank": 18,
+      "voynich": "2c9",
+      "count": 209,
+      "decoded": "bcs",
+      "latin_match": "bacca (berry)",
+      "category": "BOTANICAL",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "okcc9",
+        "Hc9",
+        "3c9",
+        "k1c9",
+        "1c9"
+      ]
+    },
+    {
+      "rank": 19,
+      "voynich": "an",
+      "count": 197,
+      "decoded": "en",
+      "latin_match": "lenis (gentle)",
+      "category": "PROPERTY",
+      "confidence": 0.856,
+      "match_score": 0.76,
+      "related_forms": []
+    },
+    {
+      "rank": 20,
+      "voynich": "oham",
+      "count": 196,
+      "decoded": "arem",
+      "latin_match": "auris (ear)",
+      "category": "MEDICAL",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "Kam",
+        "o8am",
+        "ohan"
+      ]
+    },
+    {
+      "rank": 21,
+      "voynich": "19",
+      "count": 193,
+      "decoded": "ts",
+      "latin_match": "tres (three)",
+      "category": "NUMBER",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": []
+    },
+    {
+      "rank": 22,
+      "voynich": "8an",
+      "count": 191,
+      "decoded": "den",
+      "latin_match": "dens (tooth)",
+      "category": "MEDICAL",
+      "confidence": 0.914,
+      "match_score": 0.857,
+      "related_forms": [
+        "9kan",
+        "ohan",
+        "o8an",
+        "okan",
+        "7an"
+      ]
+    },
+    {
+      "rank": 23,
+      "voynich": "4ohae",
+      "count": 190,
+      "decoded": "quarei",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "hae",
+        "1ae",
+        "8ae",
+        "ohae",
+        "4ohc9"
+      ]
+    },
+    {
+      "rank": 24,
+      "voynich": "1c79",
+      "count": 177,
+      "decoded": "tcls",
+      "latin_match": "caulis (stalk)",
+      "category": "BOTANICAL",
+      "confidence": 0.5,
+      "match_score": 0.6,
+      "related_forms": [
+        "9kc79",
+        "179",
+        "4ohc79",
+        "2c79",
+        "4ohcc79"
+      ]
+    },
+    {
+      "rank": 25,
+      "voynich": "1coe",
+      "count": 172,
+      "decoded": "tcai",
+      "latin_match": "caulis (stalk)",
+      "category": "BOTANICAL",
+      "confidence": 0.5,
+      "match_score": 0.6,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "hoe"
+      ]
+    },
+    {
+      "rank": 26,
+      "voynich": "4ohc89",
+      "count": 170,
+      "decoded": "quarcds",
+      "latin_match": "quartana (quartan fever)",
+      "category": "POSSIBLE",
+      "confidence": 0.469,
+      "match_score": 0.585,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "4ohc9"
+      ]
+    },
+    {
+      "rank": 27,
+      "voynich": "4o",
+      "count": 167,
+      "decoded": "qua",
+      "latin_match": "quartana (quartan fever)",
+      "category": "POSSIBLE",
+      "confidence": 0.44,
+      "match_score": 0.57,
+      "related_forms": []
+    },
+    {
+      "rank": 28,
+      "voynich": "4oe",
+      "count": 164,
+      "decoded": "quai",
+      "latin_match": "quartana (quartan fever)",
+      "category": "POSSIBLE",
+      "confidence": 0.44,
+      "match_score": 0.57,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "hoe"
+      ]
+    },
+    {
+      "rank": 29,
+      "voynich": "ohae",
+      "count": 156,
+      "decoded": "arei",
+      "latin_match": "auris (ear)",
+      "category": "MEDICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "hae",
+        "oham",
+        "ohan",
+        "1ae",
+        "8ae"
+      ]
+    },
+    {
+      "rank": 30,
+      "voynich": "okay",
+      "count": 152,
+      "decoded": "anei",
+      "latin_match": "ante (before)",
+      "category": "PREPOSITION",
+      "confidence": 0.889,
+      "match_score": 0.814,
+      "related_forms": [
+        "2ay",
+        "Kay",
+        "8ay",
+        "1cay",
+        "o8ay"
+      ]
+    },
+    {
+      "rank": 31,
+      "voynich": "okam",
+      "count": 151,
+      "decoded": "anem",
+      "latin_match": "ante (before)",
+      "category": "PREPOSITION",
+      "confidence": 0.889,
+      "match_score": 0.814,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "o8am"
+      ]
+    },
+    {
+      "rank": 32,
+      "voynich": "4ohay",
+      "count": 144,
+      "decoded": "quarei",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "2ay",
+        "Kay",
+        "8ay",
+        "1cay",
+        "o8ay"
+      ]
+    },
+    {
+      "rank": 33,
+      "voynich": "okae",
+      "count": 142,
+      "decoded": "anei",
+      "latin_match": "ante (before)",
+      "category": "PREPOSITION",
+      "confidence": 0.889,
+      "match_score": 0.814,
+      "related_forms": [
+        "hae",
+        "1ae",
+        "8ae",
+        "ohae",
+        "okam"
+      ]
+    },
+    {
+      "rank": 34,
+      "voynich": "2oe",
+      "count": 141,
+      "decoded": "bai",
+      "latin_match": "bacca (berry)",
+      "category": "BOTANICAL",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "hoe",
+        "3oe"
+      ]
+    },
+    {
+      "rank": 35,
+      "voynich": "4ohC89",
+      "count": 140,
+      "decoded": "quarchds",
+      "latin_match": "quartana (quartan fever)",
+      "category": "POSSIBLE",
+      "confidence": 0.386,
+      "match_score": 0.543,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "4ohc9"
+      ]
+    },
+    {
+      "rank": 36,
+      "voynich": "4oh9",
+      "count": 136,
+      "decoded": "quars",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.712,
+      "match_score": 0.691,
+      "related_forms": [
+        "2ch9",
+        "oh9",
+        "1oh9",
+        "4ohc9",
+        "9h9"
+      ]
+    },
+    {
+      "rank": 37,
+      "voynich": "1H9",
+      "count": 131,
+      "decoded": "tks",
+      "latin_match": "tres (three)",
+      "category": "POSSIBLE",
+      "confidence": 0.443,
+      "match_score": 0.571,
+      "related_forms": [
+        "1oH9",
+        "oH9",
+        "4oH9",
+        "1cH9",
+        "2H9"
+      ]
+    },
+    {
+      "rank": 38,
+      "voynich": "ohan",
+      "count": 129,
+      "decoded": "aren",
+      "latin_match": "resina (resin)",
+      "category": "BOTANICAL",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "oham",
+        "8an",
+        "9kan",
+        "ohae",
+        "o8an"
+      ]
+    },
+    {
+      "rank": 39,
+      "voynich": "1co",
+      "count": 128,
+      "decoded": "tca",
+      "latin_match": "caulis (stalk)",
+      "category": "POSSIBLE",
+      "confidence": 0.386,
+      "match_score": 0.543,
+      "related_forms": [
+        "1coe",
+        "1coy",
+        "1co89",
+        "2co",
+        "hco"
+      ]
+    },
+    {
+      "rank": 40,
+      "voynich": "ohay",
+      "count": 128,
+      "decoded": "arei",
+      "latin_match": "auris (ear)",
+      "category": "MEDICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "2ay",
+        "Kay",
+        "8ay",
+        "oham",
+        "1cay"
+      ]
+    },
+    {
+      "rank": 41,
+      "voynich": "1o",
+      "count": 122,
+      "decoded": "ta",
+      "latin_match": "ad (to)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": []
+    },
+    {
+      "rank": 42,
+      "voynich": "ap",
+      "count": 119,
+      "decoded": "ep",
+      "latin_match": "lepra (leprosy)",
+      "category": "DISEASE",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": []
+    },
+    {
+      "rank": 43,
+      "voynich": "ok9",
+      "count": 117,
+      "decoded": "ans",
+      "latin_match": "manus (hand)",
+      "category": "MEDICAL",
+      "confidence": 0.856,
+      "match_score": 0.76,
+      "related_forms": [
+        "1ok9",
+        "1ck9",
+        "4ok9",
+        "1k9",
+        "9k9"
+      ]
+    },
+    {
+      "rank": 44,
+      "voynich": "ohC9",
+      "count": 115,
+      "decoded": "archs",
+      "latin_match": "auris (ear)",
+      "category": "MEDICAL",
+      "confidence": 0.5,
+      "match_score": 0.6,
+      "related_forms": [
+        "91C9",
+        "2C9",
+        "9hC9",
+        "4ohC9",
+        "hC9"
+      ]
+    },
+    {
+      "rank": 45,
+      "voynich": "1C9",
+      "count": 113,
+      "decoded": "tchs",
+      "latin_match": "stomachus (stomach)",
+      "category": "MEDICAL",
+      "confidence": 0.536,
+      "match_score": 0.615,
+      "related_forms": [
+        "91C9",
+        "ohC9",
+        "2C9",
+        "9hC9",
+        "4ohC9"
+      ]
+    },
+    {
+      "rank": 46,
+      "voynich": "7am",
+      "count": 109,
+      "decoded": "lem",
+      "latin_match": "leo (Leo)",
+      "category": "ZODIAC",
+      "confidence": 0.663,
+      "match_score": 0.67,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "o8am"
+      ]
+    },
+    {
+      "rank": 47,
+      "voynich": "189",
+      "count": 107,
+      "decoded": "tds",
+      "latin_match": "dens (tooth)",
+      "category": "POSSIBLE",
+      "confidence": 0.443,
+      "match_score": 0.571,
+      "related_forms": [
+        "2o89",
+        "1o89",
+        "o89",
+        "1co89",
+        "9kco89"
+      ]
+    },
+    {
+      "rank": 48,
+      "voynich": "K9",
+      "count": 106,
+      "decoded": "cs",
+      "latin_match": "cutis (skin)",
+      "category": "POSSIBLE",
+      "confidence": 0.443,
+      "match_score": 0.571,
+      "related_forms": []
+    },
+    {
+      "rank": 49,
+      "voynich": "2o",
+      "count": 105,
+      "decoded": "ba",
+      "latin_match": "bacca (berry)",
+      "category": "BOTANICAL",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": []
+    },
+    {
+      "rank": 50,
+      "voynich": "4ohoe",
+      "count": 102,
+      "decoded": "quarai",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.875,
+      "match_score": 0.792,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "hoe"
+      ]
+    },
+    {
+      "rank": 51,
+      "voynich": "oh9",
+      "count": 101,
+      "decoded": "ars",
+      "latin_match": "aries (Aries)",
+      "category": "ZODIAC",
+      "confidence": 0.91,
+      "match_score": 0.85,
+      "related_forms": [
+        "2ch9",
+        "1oh9",
+        "9h9",
+        "1h9",
+        "4oh9"
+      ]
+    },
+    {
+      "rank": 52,
+      "voynich": "8oe",
+      "count": 101,
+      "decoded": "dai",
+      "latin_match": "radix (root)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "hoe"
+      ]
+    },
+    {
+      "rank": 53,
+      "voynich": "4ohc9",
+      "count": 99,
+      "decoded": "quarcs",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "okcc9",
+        "Hc9",
+        "3c9",
+        "k1c9",
+        "1c9"
+      ]
+    },
+    {
+      "rank": 54,
+      "voynich": "okan",
+      "count": 96,
+      "decoded": "anen",
+      "latin_match": "ante (before)",
+      "category": "PREPOSITION",
+      "confidence": 0.85,
+      "match_score": 0.75,
+      "related_forms": [
+        "8an",
+        "9kan",
+        "ohan",
+        "okam",
+        "o8an"
+      ]
+    },
+    {
+      "rank": 55,
+      "voynich": "sam",
+      "count": 95,
+      "decoded": "xem",
+      "latin_match": "semen (seed)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "o8am"
+      ]
+    },
+    {
+      "rank": 56,
+      "voynich": "az",
+      "count": 93,
+      "decoded": "ez",
+      "latin_match": "de (of/from)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": []
+    },
+    {
+      "rank": 57,
+      "voynich": "ham",
+      "count": 92,
+      "decoded": "rem",
+      "latin_match": "tres (three)",
+      "category": "NUMBER",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "o8am"
+      ]
+    },
+    {
+      "rank": 58,
+      "voynich": "okC9",
+      "count": 92,
+      "decoded": "anchs",
+      "latin_match": "manus (hand)",
+      "category": "MEDICAL",
+      "confidence": 0.5,
+      "match_score": 0.6,
+      "related_forms": [
+        "91C9",
+        "ohC9",
+        "2C9",
+        "9hC9",
+        "4ohC9"
+      ]
+    },
+    {
+      "rank": 59,
+      "voynich": "okc89",
+      "count": 92,
+      "decoded": "ancds",
+      "latin_match": "ad (to)",
+      "category": "PREPOSITION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "okcc9",
+        "okcoy",
+        "2o89",
+        "okcoe",
+        "189"
+      ]
+    },
+    {
+      "rank": 60,
+      "voynich": "2c79",
+      "count": 89,
+      "decoded": "bcls",
+      "latin_match": "caulis (stalk)",
+      "category": "BOTANICAL",
+      "confidence": 0.5,
+      "match_score": 0.6,
+      "related_forms": [
+        "1c79",
+        "9kc79",
+        "179",
+        "4ohc79",
+        "4ohcc79"
+      ]
+    },
+    {
+      "rank": 61,
+      "voynich": "1coy",
+      "count": 87,
+      "decoded": "tcai",
+      "latin_match": "caulis (stalk)",
+      "category": "BOTANICAL",
+      "confidence": 0.5,
+      "match_score": 0.6,
+      "related_forms": [
+        "hoy",
+        "okcoy",
+        "1oy",
+        "8oy",
+        "1coe"
+      ]
+    },
+    {
+      "rank": 62,
+      "voynich": "okoe",
+      "count": 85,
+      "decoded": "anai",
+      "latin_match": "sanat (heals)",
+      "category": "ACTION",
+      "confidence": 0.762,
+      "match_score": 0.712,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "hoe"
+      ]
+    },
+    {
+      "rank": 63,
+      "voynich": "4ok9",
+      "count": 84,
+      "decoded": "quans",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.712,
+      "match_score": 0.691,
+      "related_forms": [
+        "1ok9",
+        "4okam",
+        "1ck9",
+        "1k9",
+        "4ok"
+      ]
+    },
+    {
+      "rank": 64,
+      "voynich": "8az",
+      "count": 82,
+      "decoded": "dez",
+      "latin_match": "de (of/from)",
+      "category": "PREPOSITION",
+      "confidence": 0.88,
+      "match_score": 0.8,
+      "related_forms": [
+        "saz",
+        "ohaz",
+        "kaz",
+        "7az",
+        "4ohaz"
+      ]
+    },
+    {
+      "rank": 65,
+      "voynich": "2coe",
+      "count": 82,
+      "decoded": "bcai",
+      "latin_match": "bacca (berry)",
+      "category": "BOTANICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "hoe"
+      ]
+    },
+    {
+      "rank": 66,
+      "voynich": "2C9",
+      "count": 81,
+      "decoded": "bchs",
+      "latin_match": "bacca (berry)",
+      "category": "POSSIBLE",
+      "confidence": 0.386,
+      "match_score": 0.543,
+      "related_forms": [
+        "91C9",
+        "ohC9",
+        "9hC9",
+        "4ohC9",
+        "hC9"
+      ]
+    },
+    {
+      "rank": 67,
+      "voynich": "1K9",
+      "count": 81,
+      "decoded": "tcs",
+      "latin_match": "tres (three)",
+      "category": "POSSIBLE",
+      "confidence": 0.443,
+      "match_score": 0.571,
+      "related_forms": [
+        "1oK9",
+        "2K9",
+        "2oK9",
+        "2cK9",
+        "1cK9"
+      ]
+    },
+    {
+      "rank": 68,
+      "voynich": "4ohc79",
+      "count": 81,
+      "decoded": "quarcls",
+      "latin_match": "quartana (quartan fever)",
+      "category": "POSSIBLE",
+      "confidence": 0.469,
+      "match_score": 0.585,
+      "related_forms": [
+        "4ohc9",
+        "4ohoe",
+        "4ohC9",
+        "4ohAe",
+        "4ohCo"
+      ]
+    },
+    {
+      "rank": 69,
+      "voynich": "4okam",
+      "count": 80,
+      "decoded": "quanem",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "o8am"
+      ]
+    },
+    {
+      "rank": 70,
+      "voynich": "1ay",
+      "count": 79,
+      "decoded": "tei",
+      "latin_match": "ante (before)",
+      "category": "PREPOSITION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "2ay",
+        "Kay",
+        "8ay",
+        "1cay",
+        "o8ay"
+      ]
+    },
+    {
+      "rank": 71,
+      "voynich": "1o89",
+      "count": 78,
+      "decoded": "tads",
+      "latin_match": "ad (to)",
+      "category": "PREPOSITION",
+      "confidence": 0.856,
+      "match_score": 0.76,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o8am",
+        "o89",
+        "1o8ay"
+      ]
+    },
+    {
+      "rank": 72,
+      "voynich": "1cc9",
+      "count": 77,
+      "decoded": "tccs",
+      "latin_match": "succus (juice)",
+      "category": "BOTANICAL",
+      "confidence": 0.5,
+      "match_score": 0.6,
+      "related_forms": [
+        "okcc9",
+        "Hc9",
+        "3c9",
+        "k1c9",
+        "1c9"
+      ]
+    },
+    {
+      "rank": 73,
+      "voynich": "4ohcc89",
+      "count": 74,
+      "decoded": "quarccds",
+      "latin_match": "succus (juice)",
+      "category": "POSSIBLE",
+      "confidence": 0.443,
+      "match_score": 0.571,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "4ohc9"
+      ]
+    },
+    {
+      "rank": 74,
+      "voynich": "e1c89",
+      "count": 74,
+      "decoded": "itcds",
+      "latin_match": "siccus (dry)",
+      "category": "POSSIBLE",
+      "confidence": 0.391,
+      "match_score": 0.545,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "1co89"
+      ]
+    },
+    {
+      "rank": 75,
+      "voynich": "ohoe",
+      "count": 73,
+      "decoded": "arai",
+      "latin_match": "radix (root)",
+      "category": "BOTANICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "hoe"
+      ]
+    },
+    {
+      "rank": 76,
+      "voynich": "29",
+      "count": 71,
+      "decoded": "bs",
+      "latin_match": "bulbus (bulb)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": []
+    },
+    {
+      "rank": 77,
+      "voynich": "1co89",
+      "count": 71,
+      "decoded": "tcads",
+      "latin_match": "calidus (hot)",
+      "category": "PROPERTY",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "1coe",
+        "o89"
+      ]
+    },
+    {
+      "rank": 78,
+      "voynich": "say",
+      "count": 68,
+      "decoded": "xei",
+      "latin_match": "expellit (expels)",
+      "category": "POSSIBLE",
+      "confidence": 0.391,
+      "match_score": 0.545,
+      "related_forms": [
+        "2ay",
+        "Kay",
+        "8ay",
+        "1cay",
+        "o8ay"
+      ]
+    },
+    {
+      "rank": 79,
+      "voynich": "han",
+      "count": 68,
+      "decoded": "ren",
+      "latin_match": "resina (resin)",
+      "category": "BOTANICAL",
+      "confidence": 0.762,
+      "match_score": 0.712,
+      "related_forms": [
+        "8an",
+        "9kan",
+        "ohan",
+        "o8an",
+        "okan"
+      ]
+    },
+    {
+      "rank": 80,
+      "voynich": "2oy",
+      "count": 67,
+      "decoded": "bai",
+      "latin_match": "bacca (berry)",
+      "category": "BOTANICAL",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "hoy",
+        "okcoy",
+        "1oy",
+        "8oy",
+        "81oy"
+      ]
+    },
+    {
+      "rank": 81,
+      "voynich": "soe",
+      "count": 67,
+      "decoded": "xai",
+      "latin_match": "auris (ear)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "hoe"
+      ]
+    },
+    {
+      "rank": 82,
+      "voynich": "4oh19",
+      "count": 66,
+      "decoded": "quarts",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.875,
+      "match_score": 0.792,
+      "related_forms": [
+        "819",
+        "4ohc9",
+        "h19",
+        "ok19",
+        "4ohoe"
+      ]
+    },
+    {
+      "rank": 83,
+      "voynich": "1ch9",
+      "count": 66,
+      "decoded": "tcrs",
+      "latin_match": "tres (three)",
+      "category": "NUMBER",
+      "confidence": 0.85,
+      "match_score": 0.75,
+      "related_forms": [
+        "2ch9",
+        "oh9",
+        "1oh9",
+        "9h9",
+        "1h9"
+      ]
+    },
+    {
+      "rank": 84,
+      "voynich": "79",
+      "count": 66,
+      "decoded": "ls",
+      "latin_match": "flos (flower)",
+      "category": "BOTANICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": []
+    },
+    {
+      "rank": 85,
+      "voynich": "ohc89",
+      "count": 66,
+      "decoded": "arcds",
+      "latin_match": "ad (to)",
+      "category": "PREPOSITION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "1co89"
+      ]
+    },
+    {
+      "rank": 86,
+      "voynich": "okc9",
+      "count": 66,
+      "decoded": "ancs",
+      "latin_match": "manus (hand)",
+      "category": "MEDICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "okcc9",
+        "okcoy",
+        "okcoe",
+        "Hc9",
+        "3c9"
+      ]
+    },
+    {
+      "rank": 87,
+      "voynich": "hay",
+      "count": 65,
+      "decoded": "rei",
+      "latin_match": "resina (resin)",
+      "category": "BOTANICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "2ay",
+        "Kay",
+        "8ay",
+        "1cay",
+        "o8ay"
+      ]
+    },
+    {
+      "rank": 88,
+      "voynich": "okc79",
+      "count": 65,
+      "decoded": "ancls",
+      "latin_match": "manus (hand)",
+      "category": "MEDICAL",
+      "confidence": 0.5,
+      "match_score": 0.6,
+      "related_forms": [
+        "okcc9",
+        "okcoy",
+        "okcoe",
+        "okcos",
+        "1c79"
+      ]
+    },
+    {
+      "rank": 89,
+      "voynich": "8oy",
+      "count": 63,
+      "decoded": "dai",
+      "latin_match": "radix (root)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "hoy",
+        "okcoy",
+        "1oy",
+        "2oy",
+        "81oy"
+      ]
+    },
+    {
+      "rank": 90,
+      "voynich": "4okay",
+      "count": 63,
+      "decoded": "quanei",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "2ay",
+        "Kay",
+        "8ay",
+        "1cay",
+        "o8ay"
+      ]
+    },
+    {
+      "rank": 91,
+      "voynich": "4okan",
+      "count": 63,
+      "decoded": "quanen",
+      "latin_match": "quinque (five)",
+      "category": "NUMBER",
+      "confidence": 0.536,
+      "match_score": 0.615,
+      "related_forms": [
+        "8an",
+        "9kan",
+        "ohan",
+        "4okam",
+        "o8an"
+      ]
+    },
+    {
+      "rank": 92,
+      "voynich": "oe9",
+      "count": 62,
+      "decoded": "ais",
+      "latin_match": "auris (ear)",
+      "category": "MEDICAL",
+      "confidence": 0.85,
+      "match_score": 0.75,
+      "related_forms": [
+        "1oe9",
+        "8ae9",
+        "ohae9",
+        "ae9",
+        "4ohae9"
+      ]
+    },
+    {
+      "rank": 93,
+      "voynich": "ohcoe",
+      "count": 62,
+      "decoded": "arcai",
+      "latin_match": "bacca (berry)",
+      "category": "BOTANICAL",
+      "confidence": 0.5,
+      "match_score": 0.6,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "hoe"
+      ]
+    },
+    {
+      "rank": 94,
+      "voynich": "4okc89",
+      "count": 62,
+      "decoded": "quancds",
+      "latin_match": "quartana (quartan fever)",
+      "category": "POSSIBLE",
+      "confidence": 0.469,
+      "match_score": 0.585,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "4okam"
+      ]
+    },
+    {
+      "rank": 95,
+      "voynich": "4okae",
+      "count": 62,
+      "decoded": "quanei",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "hae",
+        "1ae",
+        "8ae",
+        "ohae",
+        "4okam"
+      ]
+    },
+    {
+      "rank": 96,
+      "voynich": "1ae",
+      "count": 60,
+      "decoded": "tei",
+      "latin_match": "ante (before)",
+      "category": "PREPOSITION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "hae",
+        "8ae",
+        "ohae",
+        "sae",
+        "1cae"
+      ]
+    },
+    {
+      "rank": 97,
+      "voynich": "4ohcc9",
+      "count": 60,
+      "decoded": "quarccs",
+      "latin_match": "succus (juice)",
+      "category": "BOTANICAL",
+      "confidence": 0.536,
+      "match_score": 0.615,
+      "related_forms": [
+        "okcc9",
+        "Hc9",
+        "3c9",
+        "k1c9",
+        "1c9"
+      ]
+    },
+    {
+      "rank": 98,
+      "voynich": "4ok19",
+      "count": 59,
+      "decoded": "quants",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "4okam",
+        "819",
+        "h19",
+        "4ok9",
+        "ok19"
+      ]
+    },
+    {
+      "rank": 99,
+      "voynich": "aM",
+      "count": 59,
+      "decoded": "em",
+      "latin_match": "de (of/from)",
+      "category": "PREPOSITION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": []
+    },
+    {
+      "rank": 100,
+      "voynich": "Koe",
+      "count": 57,
+      "decoded": "cai",
+      "latin_match": "caulis (stalk)",
+      "category": "BOTANICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "hoe"
+      ]
+    },
+    {
+      "rank": 101,
+      "voynich": "8ap",
+      "count": 57,
+      "decoded": "dep",
+      "latin_match": "de (of/from)",
+      "category": "PREPOSITION",
+      "confidence": 0.88,
+      "match_score": 0.8,
+      "related_forms": [
+        "1ap",
+        "sap",
+        "4ohap",
+        "yap",
+        "okap"
+      ]
+    },
+    {
+      "rank": 102,
+      "voynich": "ohc9",
+      "count": 57,
+      "decoded": "arcs",
+      "latin_match": "auris (ear)",
+      "category": "MEDICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "okcc9",
+        "Hc9",
+        "3c9",
+        "k1c9",
+        "1c9"
+      ]
+    },
+    {
+      "rank": 103,
+      "voynich": "san",
+      "count": 57,
+      "decoded": "xen",
+      "latin_match": "lenis (gentle)",
+      "category": "PROPERTY",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "8an",
+        "9kan",
+        "ohan",
+        "o8an",
+        "okan"
+      ]
+    },
+    {
+      "rank": 104,
+      "voynich": "o8am",
+      "count": 55,
+      "decoded": "adem",
+      "latin_match": "ad (to)",
+      "category": "PREPOSITION",
+      "confidence": 0.856,
+      "match_score": 0.76,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "o8ay"
+      ]
+    },
+    {
+      "rank": 105,
+      "voynich": "1cay",
+      "count": 53,
+      "decoded": "tcei",
+      "latin_match": "acer (pungent)",
+      "category": "POSSIBLE",
+      "confidence": 0.386,
+      "match_score": 0.543,
+      "related_forms": [
+        "2ay",
+        "Kay",
+        "8ay",
+        "o8ay",
+        "1ay"
+      ]
+    },
+    {
+      "rank": 106,
+      "voynich": "okcc9",
+      "count": 49,
+      "decoded": "anccs",
+      "latin_match": "bacca (berry)",
+      "category": "BOTANICAL",
+      "confidence": 0.762,
+      "match_score": 0.712,
+      "related_forms": [
+        "okcoy",
+        "okcoe",
+        "Hc9",
+        "3c9",
+        "k1c9"
+      ]
+    },
+    {
+      "rank": 107,
+      "voynich": "4ohcoe",
+      "count": 48,
+      "decoded": "quarcai",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.805,
+      "match_score": 0.731,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "hoe"
+      ]
+    },
+    {
+      "rank": 108,
+      "voynich": "4ohC79",
+      "count": 48,
+      "decoded": "quarchls",
+      "latin_match": "quartana (quartan fever)",
+      "category": "POSSIBLE",
+      "confidence": 0.386,
+      "match_score": 0.543,
+      "related_forms": [
+        "4ohc9",
+        "4ohoe",
+        "4ohC9",
+        "4ohAe",
+        "4ohCo"
+      ]
+    },
+    {
+      "rank": 109,
+      "voynich": "ohcc9",
+      "count": 48,
+      "decoded": "arccs",
+      "latin_match": "bacca (berry)",
+      "category": "BOTANICAL",
+      "confidence": 0.762,
+      "match_score": 0.712,
+      "related_forms": [
+        "okcc9",
+        "Hc9",
+        "3c9",
+        "k1c9",
+        "1c9"
+      ]
+    },
+    {
+      "rank": 110,
+      "voynich": "koe",
+      "count": 47,
+      "decoded": "nai",
+      "latin_match": "nasus (nose)",
+      "category": "MEDICAL",
+      "confidence": 0.856,
+      "match_score": 0.76,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "hoe"
+      ]
+    },
+    {
+      "rank": 111,
+      "voynich": "o89",
+      "count": 47,
+      "decoded": "ads",
+      "latin_match": "ad (to)",
+      "category": "PREPOSITION",
+      "confidence": 0.97,
+      "match_score": 0.95,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "1co89",
+        "9kco89"
+      ]
+    },
+    {
+      "rank": 112,
+      "voynich": "7ay",
+      "count": 47,
+      "decoded": "lei",
+      "latin_match": "lenis (gentle)",
+      "category": "PROPERTY",
+      "confidence": 0.856,
+      "match_score": 0.76,
+      "related_forms": [
+        "2ay",
+        "Kay",
+        "8ay",
+        "1cay",
+        "o8ay"
+      ]
+    },
+    {
+      "rank": 113,
+      "voynich": "ohc79",
+      "count": 47,
+      "decoded": "arcls",
+      "latin_match": "auris (ear)",
+      "category": "MEDICAL",
+      "confidence": 0.5,
+      "match_score": 0.6,
+      "related_forms": [
+        "ohcoe",
+        "ohc9",
+        "ohcoy",
+        "ohco",
+        "ohcae"
+      ]
+    },
+    {
+      "rank": 114,
+      "voynich": "Kc9",
+      "count": 46,
+      "decoded": "ccs",
+      "latin_match": "succus (juice)",
+      "category": "BOTANICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "okcc9",
+        "Hc9",
+        "3c9",
+        "k1c9",
+        "1c9"
+      ]
+    },
+    {
+      "rank": 115,
+      "voynich": "ok19",
+      "count": 46,
+      "decoded": "ants",
+      "latin_match": "ante (before)",
+      "category": "PREPOSITION",
+      "confidence": 0.889,
+      "match_score": 0.814,
+      "related_forms": [
+        "ok1oe",
+        "ok1o",
+        "819",
+        "h19",
+        "ok1oy"
+      ]
+    },
+    {
+      "rank": 116,
+      "voynich": "4okoe",
+      "count": 46,
+      "decoded": "quanai",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.766,
+      "match_score": 0.714,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "hoe"
+      ]
+    },
+    {
+      "rank": 117,
+      "voynich": "kay",
+      "count": 46,
+      "decoded": "nei",
+      "latin_match": "nervus (nerve)",
+      "category": "MEDICAL",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "2ay",
+        "Kay",
+        "8ay",
+        "1cay",
+        "o8ay"
+      ]
+    },
+    {
+      "rank": 118,
+      "voynich": "179",
+      "count": 46,
+      "decoded": "tls",
+      "latin_match": "flos (flower)",
+      "category": "POSSIBLE",
+      "confidence": 0.443,
+      "match_score": 0.571,
+      "related_forms": [
+        "1c79",
+        "9kc79",
+        "4ohc79",
+        "2c79",
+        "4ohcc79"
+      ]
+    },
+    {
+      "rank": 119,
+      "voynich": "e1c9",
+      "count": 46,
+      "decoded": "itcs",
+      "latin_match": "siccus (dry)",
+      "category": "PROPERTY",
+      "confidence": 0.5,
+      "match_score": 0.6,
+      "related_forms": [
+        "okcc9",
+        "Hc9",
+        "3c9",
+        "k1c9",
+        "1c9"
+      ]
+    },
+    {
+      "rank": 120,
+      "voynich": "eham",
+      "count": 46,
+      "decoded": "irem",
+      "latin_match": "tres (three)",
+      "category": "POSSIBLE",
+      "confidence": 0.386,
+      "match_score": 0.543,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "o8am"
+      ]
+    },
+    {
+      "rank": 121,
+      "voynich": "1am",
+      "count": 45,
+      "decoded": "tem",
+      "latin_match": "septem (seven)",
+      "category": "NUMBER",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "o8am"
+      ]
+    },
+    {
+      "rank": 122,
+      "voynich": "sae",
+      "count": 45,
+      "decoded": "xei",
+      "latin_match": "expellit (expels)",
+      "category": "POSSIBLE",
+      "confidence": 0.391,
+      "match_score": 0.545,
+      "related_forms": [
+        "hae",
+        "1ae",
+        "8ae",
+        "ohae",
+        "1cae"
+      ]
+    },
+    {
+      "rank": 123,
+      "voynich": "2co",
+      "count": 45,
+      "decoded": "bca",
+      "latin_match": "bacca (berry)",
+      "category": "BOTANICAL",
+      "confidence": 0.85,
+      "match_score": 0.75,
+      "related_forms": [
+        "2co89",
+        "1co",
+        "2coy",
+        "2coe",
+        "hco"
+      ]
+    },
+    {
+      "rank": 124,
+      "voynich": "hC9",
+      "count": 45,
+      "decoded": "rchs",
+      "latin_match": "fructus (fruit)",
+      "category": "POSSIBLE",
+      "confidence": 0.391,
+      "match_score": 0.545,
+      "related_forms": [
+        "91C9",
+        "ohC9",
+        "2C9",
+        "9hC9",
+        "4ohC9"
+      ]
+    },
+    {
+      "rank": 125,
+      "voynich": "Ay",
+      "count": 45,
+      "decoded": "ai",
+      "latin_match": "ad (to)",
+      "category": "PREPOSITION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": []
+    },
+    {
+      "rank": 126,
+      "voynich": "1cH9",
+      "count": 45,
+      "decoded": "tcks",
+      "latin_match": "tres (three)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "1H9",
+        "1oH9",
+        "oH9",
+        "4oH9",
+        "1cHc9"
+      ]
+    },
+    {
+      "rank": 127,
+      "voynich": "hoe",
+      "count": 44,
+      "decoded": "rai",
+      "latin_match": "ramus (branch)",
+      "category": "BOTANICAL",
+      "confidence": 0.856,
+      "match_score": 0.76,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "3oe"
+      ]
+    },
+    {
+      "rank": 128,
+      "voynich": "Koy",
+      "count": 44,
+      "decoded": "cai",
+      "latin_match": "caulis (stalk)",
+      "category": "BOTANICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "hoy",
+        "okcoy",
+        "1oy",
+        "8oy",
+        "2oy"
+      ]
+    },
+    {
+      "rank": 129,
+      "voynich": "kam",
+      "count": 44,
+      "decoded": "nem",
+      "latin_match": "novem (nine)",
+      "category": "NUMBER",
+      "confidence": 0.85,
+      "match_score": 0.75,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "o8am"
+      ]
+    },
+    {
+      "rank": 130,
+      "voynich": "okap",
+      "count": 44,
+      "decoded": "anep",
+      "latin_match": "ante (before)",
+      "category": "PREPOSITION",
+      "confidence": 0.85,
+      "match_score": 0.75,
+      "related_forms": [
+        "8ap",
+        "okam",
+        "1ap",
+        "sap",
+        "okan"
+      ]
+    },
+    {
+      "rank": 131,
+      "voynich": "okC89",
+      "count": 44,
+      "decoded": "anchds",
+      "latin_match": "manus (hand)",
+      "category": "POSSIBLE",
+      "confidence": 0.391,
+      "match_score": 0.545,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "1co89"
+      ]
+    },
+    {
+      "rank": 132,
+      "voynich": "7ae",
+      "count": 43,
+      "decoded": "lei",
+      "latin_match": "lenis (gentle)",
+      "category": "PROPERTY",
+      "confidence": 0.856,
+      "match_score": 0.76,
+      "related_forms": [
+        "hae",
+        "1ae",
+        "8ae",
+        "ohae",
+        "sae"
+      ]
+    },
+    {
+      "rank": 133,
+      "voynich": "2H9",
+      "count": 43,
+      "decoded": "bks",
+      "latin_match": "bulbus (bulb)",
+      "category": "UNKNOWN",
+      "confidence": 0.222,
+      "match_score": 0.444,
+      "related_forms": [
+        "1H9",
+        "1oH9",
+        "oH9",
+        "4oH9",
+        "1cH9"
+      ]
+    },
+    {
+      "rank": 134,
+      "voynich": "soy",
+      "count": 42,
+      "decoded": "xai",
+      "latin_match": "auris (ear)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "hoy",
+        "okcoy",
+        "1oy",
+        "8oy",
+        "2oy"
+      ]
+    },
+    {
+      "rank": 135,
+      "voynich": "om",
+      "count": 41,
+      "decoded": "am",
+      "latin_match": "ad (to)",
+      "category": "PREPOSITION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": []
+    },
+    {
+      "rank": 136,
+      "voynich": "1o8am",
+      "count": 41,
+      "decoded": "tadem",
+      "latin_match": "ad (to)",
+      "category": "PREPOSITION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "o8am"
+      ]
+    },
+    {
+      "rank": 137,
+      "voynich": "H9",
+      "count": 41,
+      "decoded": "ks",
+      "latin_match": "os (mouth)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": []
+    },
+    {
+      "rank": 138,
+      "voynich": "9hC9",
+      "count": 41,
+      "decoded": "srchs",
+      "latin_match": "stomachus (stomach)",
+      "category": "POSSIBLE",
+      "confidence": 0.443,
+      "match_score": 0.571,
+      "related_forms": [
+        "91C9",
+        "ohC9",
+        "2C9",
+        "4ohC9",
+        "hC9"
+      ]
+    },
+    {
+      "rank": 139,
+      "voynich": "9kam",
+      "count": 41,
+      "decoded": "snem",
+      "latin_match": "semen (seed)",
+      "category": "BOTANICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "9kan"
+      ]
+    },
+    {
+      "rank": 140,
+      "voynich": "oeam",
+      "count": 41,
+      "decoded": "aiem",
+      "latin_match": "scabies (scabies)",
+      "category": "POSSIBLE",
+      "confidence": 0.391,
+      "match_score": 0.545,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "o8am"
+      ]
+    },
+    {
+      "rank": 141,
+      "voynich": "9ham",
+      "count": 39,
+      "decoded": "srem",
+      "latin_match": "semen (seed)",
+      "category": "BOTANICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "8am",
+        "oham",
+        "Kam",
+        "o8am",
+        "1o8am"
+      ]
+    },
+    {
+      "rank": 142,
+      "voynich": "2o89",
+      "count": 39,
+      "decoded": "bads",
+      "latin_match": "ad (to)",
+      "category": "PREPOSITION",
+      "confidence": 0.856,
+      "match_score": 0.76,
+      "related_forms": [
+        "189",
+        "1o89",
+        "o89",
+        "2o8am",
+        "1co89"
+      ]
+    },
+    {
+      "rank": 143,
+      "voynich": "1oh9",
+      "count": 39,
+      "decoded": "tars",
+      "latin_match": "tres (three)",
+      "category": "NUMBER",
+      "confidence": 0.85,
+      "match_score": 0.75,
+      "related_forms": [
+        "2ch9",
+        "oh9",
+        "9h9",
+        "1h9",
+        "1oham"
+      ]
+    },
+    {
+      "rank": 144,
+      "voynich": "1os",
+      "count": 39,
+      "decoded": "tax",
+      "latin_match": "radix (root)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "2os",
+        "1cos",
+        "okcos",
+        "2cos",
+        "ohcos"
+      ]
+    },
+    {
+      "rank": 145,
+      "voynich": "5c89",
+      "count": 39,
+      "decoded": "5cds",
+      "latin_match": "calidus (hot)",
+      "category": "POSSIBLE",
+      "confidence": 0.391,
+      "match_score": 0.545,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "1co89"
+      ]
+    },
+    {
+      "rank": 146,
+      "voynich": "hae",
+      "count": 38,
+      "decoded": "rei",
+      "latin_match": "resina (resin)",
+      "category": "BOTANICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "1ae",
+        "8ae",
+        "ohae",
+        "sae",
+        "1cae"
+      ]
+    },
+    {
+      "rank": 147,
+      "voynich": "1ok9",
+      "count": 38,
+      "decoded": "tans",
+      "latin_match": "manus (hand)",
+      "category": "MEDICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "1ck9",
+        "4ok9",
+        "1k9",
+        "9k9",
+        "1okam"
+      ]
+    },
+    {
+      "rank": 148,
+      "voynich": "okcc89",
+      "count": 38,
+      "decoded": "anccds",
+      "latin_match": "bacca (berry)",
+      "category": "BOTANICAL",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "okcc9",
+        "okcoy",
+        "2o89",
+        "okcoe",
+        "189"
+      ]
+    },
+    {
+      "rank": 149,
+      "voynich": "3c89",
+      "count": 38,
+      "decoded": "3cds",
+      "latin_match": "calidus (hot)",
+      "category": "POSSIBLE",
+      "confidence": 0.391,
+      "match_score": 0.545,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "1co89"
+      ]
+    },
+    {
+      "rank": 150,
+      "voynich": "okcoe",
+      "count": 37,
+      "decoded": "ancai",
+      "latin_match": "sanat (heals)",
+      "category": "ACTION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "2oe",
+        "okcc9",
+        "okcoy",
+        "ok1oe",
+        "1oe"
+      ]
+    },
+    {
+      "rank": 151,
+      "voynich": "4oh",
+      "count": 37,
+      "decoded": "quar",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.712,
+      "match_score": 0.691,
+      "related_forms": [
+        "4ohc9",
+        "4ohoe",
+        "4ohC9",
+        "4ohAe",
+        "4ohCo"
+      ]
+    },
+    {
+      "rank": 152,
+      "voynich": "1cs",
+      "count": 37,
+      "decoded": "tcx",
+      "latin_match": "latex (sap)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "1ccs"
+      ]
+    },
+    {
+      "rank": 153,
+      "voynich": "1cae",
+      "count": 37,
+      "decoded": "tcei",
+      "latin_match": "acer (pungent)",
+      "category": "POSSIBLE",
+      "confidence": 0.386,
+      "match_score": 0.543,
+      "related_forms": [
+        "hae",
+        "1cay",
+        "1ae",
+        "8ae",
+        "ohae"
+      ]
+    },
+    {
+      "rank": 154,
+      "voynich": "aZ",
+      "count": 37,
+      "decoded": "ez",
+      "latin_match": "de (of/from)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": []
+    },
+    {
+      "rank": 155,
+      "voynich": "ohC89",
+      "count": 37,
+      "decoded": "archds",
+      "latin_match": "auris (ear)",
+      "category": "POSSIBLE",
+      "confidence": 0.391,
+      "match_score": 0.545,
+      "related_forms": [
+        "2o89",
+        "189",
+        "ohC9",
+        "1o89",
+        "o89"
+      ]
+    },
+    {
+      "rank": 156,
+      "voynich": "Hc9",
+      "count": 36,
+      "decoded": "kcs",
+      "latin_match": "cutis (skin)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "okcc9",
+        "3c9",
+        "k1c9",
+        "1c9",
+        "2c9"
+      ]
+    },
+    {
+      "rank": 157,
+      "voynich": "eoe",
+      "count": 36,
+      "decoded": "iai",
+      "latin_match": "spina (thorn)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "2oe",
+        "ok1oe",
+        "okcoe",
+        "1oe",
+        "hoe"
+      ]
+    },
+    {
+      "rank": 158,
+      "voynich": "eoy",
+      "count": 36,
+      "decoded": "iai",
+      "latin_match": "spina (thorn)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "hoy",
+        "okcoy",
+        "1oy",
+        "8oy",
+        "2oy"
+      ]
+    },
+    {
+      "rank": 159,
+      "voynich": "Ae",
+      "count": 36,
+      "decoded": "ai",
+      "latin_match": "ad (to)",
+      "category": "PREPOSITION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": []
+    },
+    {
+      "rank": 160,
+      "voynich": "os",
+      "count": 35,
+      "decoded": "ax",
+      "latin_match": "radix (root)",
+      "category": "POSSIBLE",
+      "confidence": 0.443,
+      "match_score": 0.571,
+      "related_forms": []
+    },
+    {
+      "rank": 161,
+      "voynich": "okoy",
+      "count": 35,
+      "decoded": "anai",
+      "latin_match": "sanat (heals)",
+      "category": "ACTION",
+      "confidence": 0.762,
+      "match_score": 0.712,
+      "related_forms": [
+        "hoy",
+        "okcoy",
+        "1oy",
+        "8oy",
+        "okoe"
+      ]
+    },
+    {
+      "rank": 162,
+      "voynich": "ae9",
+      "count": 35,
+      "decoded": "eis",
+      "latin_match": "lenis (gentle)",
+      "category": "PROPERTY",
+      "confidence": 0.85,
+      "match_score": 0.75,
+      "related_forms": [
+        "oe9",
+        "1oe9",
+        "8ae9",
+        "ohae9",
+        "4ohae9"
+      ]
+    },
+    {
+      "rank": 163,
+      "voynich": "2ay",
+      "count": 34,
+      "decoded": "bei",
+      "latin_match": "tuber (tuber)",
+      "category": "POSSIBLE",
+      "confidence": 0.386,
+      "match_score": 0.543,
+      "related_forms": [
+        "Kay",
+        "8ay",
+        "1cay",
+        "o8ay",
+        "1ay"
+      ]
+    },
+    {
+      "rank": 164,
+      "voynich": "s9",
+      "count": 34,
+      "decoded": "xs",
+      "latin_match": "os (mouth)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": []
+    },
+    {
+      "rank": 165,
+      "voynich": "5c9",
+      "count": 34,
+      "decoded": "5cs",
+      "latin_match": "cutis (skin)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "okcc9",
+        "Hc9",
+        "3c9",
+        "k1c9",
+        "1c9"
+      ]
+    },
+    {
+      "rank": 166,
+      "voynich": "yam",
+      "count": 34,
+      "decoded": "iem",
+      "latin_match": "iecur (liver)",
+      "category": "POSSIBLE",
+      "confidence": 0.386,
+      "match_score": 0.543,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "o8am"
+      ]
+    },
+    {
+      "rank": 167,
+      "voynich": "4okC9",
+      "count": 34,
+      "decoded": "quanchs",
+      "latin_match": "quartana (quartan fever)",
+      "category": "POSSIBLE",
+      "confidence": 0.469,
+      "match_score": 0.585,
+      "related_forms": [
+        "91C9",
+        "ohC9",
+        "4okam",
+        "2C9",
+        "9hC9"
+      ]
+    },
+    {
+      "rank": 168,
+      "voynich": "oh19",
+      "count": 34,
+      "decoded": "arts",
+      "latin_match": "auris (ear)",
+      "category": "MEDICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "819",
+        "h19",
+        "ok19",
+        "oh1oy",
+        "9h19"
+      ]
+    },
+    {
+      "rank": 169,
+      "voynich": "h9",
+      "count": 33,
+      "decoded": "rs",
+      "latin_match": "tres (three)",
+      "category": "NUMBER",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": []
+    },
+    {
+      "rank": 170,
+      "voynich": "h19",
+      "count": 33,
+      "decoded": "rts",
+      "latin_match": "fructus (fruit)",
+      "category": "BOTANICAL",
+      "confidence": 0.5,
+      "match_score": 0.6,
+      "related_forms": [
+        "819",
+        "ok19",
+        "9h19",
+        "9k19",
+        "4ok19"
+      ]
+    },
+    {
+      "rank": 171,
+      "voynich": "2co89",
+      "count": 33,
+      "decoded": "bcads",
+      "latin_match": "calidus (hot)",
+      "category": "PROPERTY",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "1co89"
+      ]
+    },
+    {
+      "rank": 172,
+      "voynich": "1e",
+      "count": 33,
+      "decoded": "ti",
+      "latin_match": "cutis (skin)",
+      "category": "POSSIBLE",
+      "confidence": 0.443,
+      "match_score": 0.571,
+      "related_forms": []
+    },
+    {
+      "rank": 173,
+      "voynich": "9hay",
+      "count": 33,
+      "decoded": "srei",
+      "latin_match": "sex (six)",
+      "category": "NUMBER",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "2ay",
+        "Kay",
+        "9ham",
+        "8ay",
+        "1cay"
+      ]
+    },
+    {
+      "rank": 174,
+      "voynich": "3c9",
+      "count": 32,
+      "decoded": "3cs",
+      "latin_match": "cutis (skin)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "okcc9",
+        "Hc9",
+        "k1c9",
+        "1c9",
+        "2c9"
+      ]
+    },
+    {
+      "rank": 175,
+      "voynich": "1cos",
+      "count": 32,
+      "decoded": "tcax",
+      "latin_match": "caulis (stalk)",
+      "category": "POSSIBLE",
+      "confidence": 0.25,
+      "match_score": 0.475,
+      "related_forms": [
+        "2os",
+        "1coe",
+        "1coy",
+        "1co89",
+        "1co"
+      ]
+    },
+    {
+      "rank": 176,
+      "voynich": "2cc9",
+      "count": 31,
+      "decoded": "bccs",
+      "latin_match": "bacca (berry)",
+      "category": "BOTANICAL",
+      "confidence": 0.889,
+      "match_score": 0.814,
+      "related_forms": [
+        "okcc9",
+        "Hc9",
+        "3c9",
+        "k1c9",
+        "1c9"
+      ]
+    },
+    {
+      "rank": 177,
+      "voynich": "1C89",
+      "count": 31,
+      "decoded": "tchds",
+      "latin_match": "stomachus (stomach)",
+      "category": "POSSIBLE",
+      "confidence": 0.443,
+      "match_score": 0.571,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "1co89"
+      ]
+    },
+    {
+      "rank": 178,
+      "voynich": "ay9",
+      "count": 30,
+      "decoded": "eis",
+      "latin_match": "lenis (gentle)",
+      "category": "PROPERTY",
+      "confidence": 0.85,
+      "match_score": 0.75,
+      "related_forms": [
+        "oy9",
+        "1oy9",
+        "say9",
+        "8ay9"
+      ]
+    },
+    {
+      "rank": 179,
+      "voynich": "2coy",
+      "count": 30,
+      "decoded": "bcai",
+      "latin_match": "bacca (berry)",
+      "category": "BOTANICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "hoy",
+        "okcoy",
+        "1oy",
+        "8oy",
+        "2oy"
+      ]
+    },
+    {
+      "rank": 180,
+      "voynich": "ok",
+      "count": 30,
+      "decoded": "an",
+      "latin_match": "manus (hand)",
+      "category": "MEDICAL",
+      "confidence": 0.856,
+      "match_score": 0.76,
+      "related_forms": []
+    },
+    {
+      "rank": 181,
+      "voynich": "1Hc9",
+      "count": 30,
+      "decoded": "tkcs",
+      "latin_match": "tres (three)",
+      "category": "POSSIBLE",
+      "confidence": 0.3,
+      "match_score": 0.5,
+      "related_forms": [
+        "okcc9",
+        "Hc9",
+        "3c9",
+        "k1c9",
+        "1c9"
+      ]
+    },
+    {
+      "rank": 182,
+      "voynich": "ok1c9",
+      "count": 30,
+      "decoded": "antcs",
+      "latin_match": "ante (before)",
+      "category": "PREPOSITION",
+      "confidence": 0.762,
+      "match_score": 0.712,
+      "related_forms": [
+        "okcc9",
+        "ok1oe",
+        "Hc9",
+        "3c9",
+        "k1c9"
+      ]
+    },
+    {
+      "rank": 183,
+      "voynich": "1cK9",
+      "count": 30,
+      "decoded": "tccs",
+      "latin_match": "succus (juice)",
+      "category": "BOTANICAL",
+      "confidence": 0.5,
+      "match_score": 0.6,
+      "related_forms": [
+        "1oK9",
+        "1K9",
+        "2K9",
+        "2oK9",
+        "2cK9"
+      ]
+    },
+    {
+      "rank": 184,
+      "voynich": "4oh189",
+      "count": 30,
+      "decoded": "quartds",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.805,
+      "match_score": 0.731,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "4ohc9"
+      ]
+    },
+    {
+      "rank": 185,
+      "voynich": "oehan",
+      "count": 30,
+      "decoded": "airen",
+      "latin_match": "in (in)",
+      "category": "POSSIBLE",
+      "confidence": 0.443,
+      "match_score": 0.571,
+      "related_forms": [
+        "8an",
+        "9kan",
+        "ohan",
+        "o8an",
+        "okan"
+      ]
+    },
+    {
+      "rank": 186,
+      "voynich": "ehC9",
+      "count": 30,
+      "decoded": "irchs",
+      "latin_match": "stirps (stem)",
+      "category": "POSSIBLE",
+      "confidence": 0.391,
+      "match_score": 0.545,
+      "related_forms": [
+        "91C9",
+        "ohC9",
+        "2C9",
+        "9hC9",
+        "4ohC9"
+      ]
+    },
+    {
+      "rank": 187,
+      "voynich": "2ch9",
+      "count": 29,
+      "decoded": "bcrs",
+      "latin_match": "cor (heart)",
+      "category": "MEDICAL",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "oh9",
+        "1oh9",
+        "9h9",
+        "1h9",
+        "4oh9"
+      ]
+    },
+    {
+      "rank": 188,
+      "voynich": "ohoy",
+      "count": 29,
+      "decoded": "arai",
+      "latin_match": "radix (root)",
+      "category": "BOTANICAL",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "hoy",
+        "okcoy",
+        "1oy",
+        "8oy",
+        "ohoe"
+      ]
+    },
+    {
+      "rank": 189,
+      "voynich": "hc89",
+      "count": 29,
+      "decoded": "rcds",
+      "latin_match": "fructus (fruit)",
+      "category": "POSSIBLE",
+      "confidence": 0.391,
+      "match_score": 0.545,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "1co89"
+      ]
+    },
+    {
+      "rank": 190,
+      "voynich": "ohcc89",
+      "count": 29,
+      "decoded": "arccds",
+      "latin_match": "bacca (berry)",
+      "category": "BOTANICAL",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "2o89",
+        "189",
+        "1o89",
+        "o89",
+        "1co89"
+      ]
+    },
+    {
+      "rank": 191,
+      "voynich": "8ae9",
+      "count": 28,
+      "decoded": "deis",
+      "latin_match": "de (of/from)",
+      "category": "PREPOSITION",
+      "confidence": 0.97,
+      "match_score": 0.95,
+      "related_forms": [
+        "8ae",
+        "oe9",
+        "1oe9",
+        "ohae9",
+        "ae9"
+      ]
+    },
+    {
+      "rank": 192,
+      "voynich": "4okc79",
+      "count": 28,
+      "decoded": "quancls",
+      "latin_match": "quartana (quartan fever)",
+      "category": "POSSIBLE",
+      "confidence": 0.469,
+      "match_score": 0.585,
+      "related_forms": [
+        "4okam",
+        "4ok9",
+        "4ok",
+        "4okcoe",
+        "4ok1oe"
+      ]
+    },
+    {
+      "rank": 193,
+      "voynich": "oeham",
+      "count": 28,
+      "decoded": "airem",
+      "latin_match": "auris (ear)",
+      "category": "POSSIBLE",
+      "confidence": 0.386,
+      "match_score": 0.543,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "o8am"
+      ]
+    },
+    {
+      "rank": 194,
+      "voynich": "okaz",
+      "count": 28,
+      "decoded": "anez",
+      "latin_match": "ante (before)",
+      "category": "PREPOSITION",
+      "confidence": 0.85,
+      "match_score": 0.75,
+      "related_forms": [
+        "8az",
+        "okam",
+        "okan",
+        "saz",
+        "okay"
+      ]
+    },
+    {
+      "rank": 195,
+      "voynich": "e1c79",
+      "count": 28,
+      "decoded": "itcls",
+      "latin_match": "oculus (eye)",
+      "category": "POSSIBLE",
+      "confidence": 0.391,
+      "match_score": 0.545,
+      "related_forms": [
+        "1c79",
+        "9kc79",
+        "179",
+        "4ohc79",
+        "2c79"
+      ]
+    },
+    {
+      "rank": 196,
+      "voynich": "ehan",
+      "count": 28,
+      "decoded": "iren",
+      "latin_match": "in (in)",
+      "category": "PREPOSITION",
+      "confidence": 0.655,
+      "match_score": 0.667,
+      "related_forms": [
+        "8an",
+        "9kan",
+        "ohan",
+        "o8an",
+        "okan"
+      ]
+    },
+    {
+      "rank": 197,
+      "voynich": "ok1oe",
+      "count": 27,
+      "decoded": "antai",
+      "latin_match": "ante (before)",
+      "category": "PREPOSITION",
+      "confidence": 0.762,
+      "match_score": 0.712,
+      "related_forms": [
+        "2oe",
+        "okcoe",
+        "1oe",
+        "hoe",
+        "3oe"
+      ]
+    },
+    {
+      "rank": 198,
+      "voynich": "819",
+      "count": 27,
+      "decoded": "dts",
+      "latin_match": "dens (tooth)",
+      "category": "POSSIBLE",
+      "confidence": 0.443,
+      "match_score": 0.571,
+      "related_forms": [
+        "h19",
+        "ok19",
+        "9h19",
+        "9k19",
+        "4ok19"
+      ]
+    },
+    {
+      "rank": 199,
+      "voynich": "4o8am",
+      "count": 27,
+      "decoded": "quadem",
+      "latin_match": "ad (to)",
+      "category": "PREPOSITION",
+      "confidence": 0.578,
+      "match_score": 0.633,
+      "related_forms": [
+        "9ham",
+        "8am",
+        "oham",
+        "Kam",
+        "o8am"
+      ]
+    },
+    {
+      "rank": 200,
+      "voynich": "4ok",
+      "count": 27,
+      "decoded": "quan",
+      "latin_match": "quartana (quartan fever)",
+      "category": "DISEASE",
+      "confidence": 0.712,
+      "match_score": 0.691,
+      "related_forms": [
+        "4okam",
+        "4ok9",
+        "4okcoe",
+        "4ok1oe",
+        "4okc9"
+      ]
+    }
+  ],
+  "by_category": {
+    "PREPOSITION": [
+      {
+        "voynich": "oe",
+        "latin": "ad",
+        "meaning": "to",
+        "score": 0.633
+      },
+      {
+        "voynich": "am",
+        "latin": "de",
+        "meaning": "of/from",
+        "score": 0.633
+      },
+      {
+        "voynich": "8am",
+        "latin": "de",
+        "meaning": "of/from",
+        "score": 0.95
+      },
+      {
+        "voynich": "ay",
+        "latin": "de",
+        "meaning": "of/from",
+        "score": 0.633
+      },
+      {
+        "voynich": "oy",
+        "latin": "ad",
+        "meaning": "to",
+        "score": 0.633
+      },
+      {
+        "voynich": "ae",
+        "latin": "de",
+        "meaning": "of/from",
+        "score": 0.633
+      },
+      {
+        "voynich": "8ay",
+        "latin": "de",
+        "meaning": "of/from",
+        "score": 0.95
+      },
+      {
+        "voynich": "8ae",
+        "latin": "de",
+        "meaning": "of/from",
+        "score": 0.95
+      },
+      {
+        "voynich": "okay",
+        "latin": "ante",
+        "meaning": "before",
+        "score": 0.814
+      },
+      {
+        "voynich": "okam",
+        "latin": "ante",
+        "meaning": "before",
+        "score": 0.814
+      },
+      {
+        "voynich": "okae",
+        "latin": "ante",
+        "meaning": "before",
+        "score": 0.814
+      },
+      {
+        "voynich": "okan",
+        "latin": "ante",
+        "meaning": "before",
+        "score": 0.75
+      },
+      {
+        "voynich": "okc89",
+        "latin": "ad",
+        "meaning": "to",
+        "score": 0.633
+      },
+      {
+        "voynich": "8az",
+        "latin": "de",
+        "meaning": "of/from",
+        "score": 0.8
+      },
+      {
+        "voynich": "1ay",
+        "latin": "ante",
+        "meaning": "before",
+        "score": 0.633
+      },
+      {
+        "voynich": "1o89",
+        "latin": "ad",
+        "meaning": "to",
+        "score": 0.76
+      },
+      {
+        "voynich": "ohc89",
+        "latin": "ad",
+        "meaning": "to",
+        "score": 0.633
+      },
+      {
+        "voynich": "1ae",
+        "latin": "ante",
+        "meaning": "before",
+        "score": 0.633
+      },
+      {
+        "voynich": "aM",
+        "latin": "de",
+        "meaning": "of/from",
+        "score": 0.633
+      },
+      {
+        "voynich": "8ap",
+        "latin": "de",
+        "meaning": "of/from",
+        "score": 0.8
+      },
+      {
+        "voynich": "o8am",
+        "latin": "ad",
+        "meaning": "to",
+        "score": 0.76
+      },
+      {
+        "voynich": "o89",
+        "latin": "ad",
+        "meaning": "to",
+        "score": 0.95
+      },
+      {
+        "voynich": "ok19",
+        "latin": "ante",
+        "meaning": "before",
+        "score": 0.814
+      },
+      {
+        "voynich": "Ay",
+        "latin": "ad",
+        "meaning": "to",
+        "score": 0.633
+      },
+      {
+        "voynich": "okap",
+        "latin": "ante",
+        "meaning": "before",
+        "score": 0.75
+      },
+      {
+        "voynich": "om",
+        "latin": "ad",
+        "meaning": "to",
+        "score": 0.633
+      },
+      {
+        "voynich": "1o8am",
+        "latin": "ad",
+        "meaning": "to",
+        "score": 0.633
+      },
+      {
+        "voynich": "2o89",
+        "latin": "ad",
+        "meaning": "to",
+        "score": 0.76
+      },
+      {
+        "voynich": "Ae",
+        "latin": "ad",
+        "meaning": "to",
+        "score": 0.633
+      },
+      {
+        "voynich": "ok1c9",
+        "latin": "ante",
+        "meaning": "before",
+        "score": 0.712
+      },
+      {
+        "voynich": "8ae9",
+        "latin": "de",
+        "meaning": "of/from",
+        "score": 0.95
+      },
+      {
+        "voynich": "okaz",
+        "latin": "ante",
+        "meaning": "before",
+        "score": 0.75
+      },
+      {
+        "voynich": "ehan",
+        "latin": "in",
+        "meaning": "in",
+        "score": 0.667
+      },
+      {
+        "voynich": "ok1oe",
+        "latin": "ante",
+        "meaning": "before",
+        "score": 0.712
+      },
+      {
+        "voynich": "4o8am",
+        "latin": "ad",
+        "meaning": "to",
+        "score": 0.633
+      }
+    ],
+    "POSSIBLE": [
+      {
+        "voynich": "1oe",
+        "latin": "radix",
+        "meaning": "root",
+        "score": 0.5
+      },
+      {
+        "voynich": "1c9",
+        "latin": "tres",
+        "meaning": "three",
+        "score": 0.571
+      },
+      {
+        "voynich": "1c89",
+        "latin": "calidus",
+        "meaning": "hot",
+        "score": 0.545
+      },
+      {
+        "voynich": "4ohC9",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.585
+      },
+      {
+        "voynich": "1oy",
+        "latin": "radix",
+        "meaning": "root",
+        "score": 0.5
+      },
+      {
+        "voynich": "2c89",
+        "latin": "calidus",
+        "meaning": "hot",
+        "score": 0.545
+      },
+      {
+        "voynich": "4ohc89",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.585
+      },
+      {
+        "voynich": "4o",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.57
+      },
+      {
+        "voynich": "4oe",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.57
+      },
+      {
+        "voynich": "4ohC89",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.543
+      },
+      {
+        "voynich": "1H9",
+        "latin": "tres",
+        "meaning": "three",
+        "score": 0.571
+      },
+      {
+        "voynich": "1co",
+        "latin": "caulis",
+        "meaning": "stalk",
+        "score": 0.543
+      },
+      {
+        "voynich": "1o",
+        "latin": "ad",
+        "meaning": "to",
+        "score": 0.5
+      },
+      {
+        "voynich": "189",
+        "latin": "dens",
+        "meaning": "tooth",
+        "score": 0.571
+      },
+      {
+        "voynich": "K9",
+        "latin": "cutis",
+        "meaning": "skin",
+        "score": 0.571
+      },
+      {
+        "voynich": "8oe",
+        "latin": "radix",
+        "meaning": "root",
+        "score": 0.5
+      },
+      {
+        "voynich": "sam",
+        "latin": "semen",
+        "meaning": "seed",
+        "score": 0.5
+      },
+      {
+        "voynich": "az",
+        "latin": "de",
+        "meaning": "of/from",
+        "score": 0.5
+      },
+      {
+        "voynich": "2C9",
+        "latin": "bacca",
+        "meaning": "berry",
+        "score": 0.543
+      },
+      {
+        "voynich": "1K9",
+        "latin": "tres",
+        "meaning": "three",
+        "score": 0.571
+      },
+      {
+        "voynich": "4ohc79",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.585
+      },
+      {
+        "voynich": "4ohcc89",
+        "latin": "succus",
+        "meaning": "juice",
+        "score": 0.571
+      },
+      {
+        "voynich": "e1c89",
+        "latin": "siccus",
+        "meaning": "dry",
+        "score": 0.545
+      },
+      {
+        "voynich": "29",
+        "latin": "bulbus",
+        "meaning": "bulb",
+        "score": 0.5
+      },
+      {
+        "voynich": "say",
+        "latin": "expellit",
+        "meaning": "expels",
+        "score": 0.545
+      },
+      {
+        "voynich": "soe",
+        "latin": "auris",
+        "meaning": "ear",
+        "score": 0.5
+      },
+      {
+        "voynich": "8oy",
+        "latin": "radix",
+        "meaning": "root",
+        "score": 0.5
+      },
+      {
+        "voynich": "4okc89",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.585
+      },
+      {
+        "voynich": "1cay",
+        "latin": "acer",
+        "meaning": "pungent",
+        "score": 0.543
+      },
+      {
+        "voynich": "4ohC79",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.543
+      },
+      {
+        "voynich": "179",
+        "latin": "flos",
+        "meaning": "flower",
+        "score": 0.571
+      },
+      {
+        "voynich": "eham",
+        "latin": "tres",
+        "meaning": "three",
+        "score": 0.543
+      },
+      {
+        "voynich": "sae",
+        "latin": "expellit",
+        "meaning": "expels",
+        "score": 0.545
+      },
+      {
+        "voynich": "hC9",
+        "latin": "fructus",
+        "meaning": "fruit",
+        "score": 0.545
+      },
+      {
+        "voynich": "1cH9",
+        "latin": "tres",
+        "meaning": "three",
+        "score": 0.5
+      },
+      {
+        "voynich": "okC89",
+        "latin": "manus",
+        "meaning": "hand",
+        "score": 0.545
+      },
+      {
+        "voynich": "soy",
+        "latin": "auris",
+        "meaning": "ear",
+        "score": 0.5
+      },
+      {
+        "voynich": "H9",
+        "latin": "os",
+        "meaning": "mouth",
+        "score": 0.5
+      },
+      {
+        "voynich": "9hC9",
+        "latin": "stomachus",
+        "meaning": "stomach",
+        "score": 0.571
+      },
+      {
+        "voynich": "oeam",
+        "latin": "scabies",
+        "meaning": "scabies",
+        "score": 0.545
+      },
+      {
+        "voynich": "1os",
+        "latin": "radix",
+        "meaning": "root",
+        "score": 0.5
+      },
+      {
+        "voynich": "5c89",
+        "latin": "calidus",
+        "meaning": "hot",
+        "score": 0.545
+      },
+      {
+        "voynich": "3c89",
+        "latin": "calidus",
+        "meaning": "hot",
+        "score": 0.545
+      },
+      {
+        "voynich": "1cs",
+        "latin": "latex",
+        "meaning": "sap",
+        "score": 0.5
+      },
+      {
+        "voynich": "1cae",
+        "latin": "acer",
+        "meaning": "pungent",
+        "score": 0.543
+      },
+      {
+        "voynich": "aZ",
+        "latin": "de",
+        "meaning": "of/from",
+        "score": 0.5
+      },
+      {
+        "voynich": "ohC89",
+        "latin": "auris",
+        "meaning": "ear",
+        "score": 0.545
+      },
+      {
+        "voynich": "Hc9",
+        "latin": "cutis",
+        "meaning": "skin",
+        "score": 0.5
+      },
+      {
+        "voynich": "eoe",
+        "latin": "spina",
+        "meaning": "thorn",
+        "score": 0.5
+      },
+      {
+        "voynich": "eoy",
+        "latin": "spina",
+        "meaning": "thorn",
+        "score": 0.5
+      },
+      {
+        "voynich": "os",
+        "latin": "radix",
+        "meaning": "root",
+        "score": 0.571
+      },
+      {
+        "voynich": "2ay",
+        "latin": "tuber",
+        "meaning": "tuber",
+        "score": 0.543
+      },
+      {
+        "voynich": "s9",
+        "latin": "os",
+        "meaning": "mouth",
+        "score": 0.5
+      },
+      {
+        "voynich": "5c9",
+        "latin": "cutis",
+        "meaning": "skin",
+        "score": 0.5
+      },
+      {
+        "voynich": "yam",
+        "latin": "iecur",
+        "meaning": "liver",
+        "score": 0.543
+      },
+      {
+        "voynich": "4okC9",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.585
+      },
+      {
+        "voynich": "1e",
+        "latin": "cutis",
+        "meaning": "skin",
+        "score": 0.571
+      },
+      {
+        "voynich": "3c9",
+        "latin": "cutis",
+        "meaning": "skin",
+        "score": 0.5
+      },
+      {
+        "voynich": "1cos",
+        "latin": "caulis",
+        "meaning": "stalk",
+        "score": 0.475
+      },
+      {
+        "voynich": "1C89",
+        "latin": "stomachus",
+        "meaning": "stomach",
+        "score": 0.571
+      },
+      {
+        "voynich": "1Hc9",
+        "latin": "tres",
+        "meaning": "three",
+        "score": 0.5
+      },
+      {
+        "voynich": "oehan",
+        "latin": "in",
+        "meaning": "in",
+        "score": 0.571
+      },
+      {
+        "voynich": "ehC9",
+        "latin": "stirps",
+        "meaning": "stem",
+        "score": 0.545
+      },
+      {
+        "voynich": "hc89",
+        "latin": "fructus",
+        "meaning": "fruit",
+        "score": 0.545
+      },
+      {
+        "voynich": "4okc79",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.585
+      },
+      {
+        "voynich": "oeham",
+        "latin": "auris",
+        "meaning": "ear",
+        "score": 0.543
+      },
+      {
+        "voynich": "e1c79",
+        "latin": "oculus",
+        "meaning": "eye",
+        "score": 0.545
+      },
+      {
+        "voynich": "819",
+        "latin": "dens",
+        "meaning": "tooth",
+        "score": 0.571
+      }
+    ],
+    "MEDICAL": [
+      {
+        "voynich": "89",
+        "latin": "dens",
+        "meaning": "tooth",
+        "score": 0.667
+      },
+      {
+        "voynich": "oham",
+        "latin": "auris",
+        "meaning": "ear",
+        "score": 0.633
+      },
+      {
+        "voynich": "8an",
+        "latin": "dens",
+        "meaning": "tooth",
+        "score": 0.857
+      },
+      {
+        "voynich": "ohae",
+        "latin": "auris",
+        "meaning": "ear",
+        "score": 0.667
+      },
+      {
+        "voynich": "ohay",
+        "latin": "auris",
+        "meaning": "ear",
+        "score": 0.667
+      },
+      {
+        "voynich": "ok9",
+        "latin": "manus",
+        "meaning": "hand",
+        "score": 0.76
+      },
+      {
+        "voynich": "ohC9",
+        "latin": "auris",
+        "meaning": "ear",
+        "score": 0.6
+      },
+      {
+        "voynich": "1C9",
+        "latin": "stomachus",
+        "meaning": "stomach",
+        "score": 0.615
+      },
+      {
+        "voynich": "okC9",
+        "latin": "manus",
+        "meaning": "hand",
+        "score": 0.6
+      },
+      {
+        "voynich": "okc9",
+        "latin": "manus",
+        "meaning": "hand",
+        "score": 0.667
+      },
+      {
+        "voynich": "okc79",
+        "latin": "manus",
+        "meaning": "hand",
+        "score": 0.6
+      },
+      {
+        "voynich": "oe9",
+        "latin": "auris",
+        "meaning": "ear",
+        "score": 0.75
+      },
+      {
+        "voynich": "ohc9",
+        "latin": "auris",
+        "meaning": "ear",
+        "score": 0.667
+      },
+      {
+        "voynich": "koe",
+        "latin": "nasus",
+        "meaning": "nose",
+        "score": 0.76
+      },
+      {
+        "voynich": "ohc79",
+        "latin": "auris",
+        "meaning": "ear",
+        "score": 0.6
+      },
+      {
+        "voynich": "kay",
+        "latin": "nervus",
+        "meaning": "nerve",
+        "score": 0.633
+      },
+      {
+        "voynich": "1ok9",
+        "latin": "manus",
+        "meaning": "hand",
+        "score": 0.667
+      },
+      {
+        "voynich": "oh19",
+        "latin": "auris",
+        "meaning": "ear",
+        "score": 0.667
+      },
+      {
+        "voynich": "ok",
+        "latin": "manus",
+        "meaning": "hand",
+        "score": 0.76
+      },
+      {
+        "voynich": "2ch9",
+        "latin": "cor",
+        "meaning": "heart",
+        "score": 0.633
+      }
+    ],
+    "DISEASE": [
+      {
+        "voynich": "4ohan",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.731
+      },
+      {
+        "voynich": "4oham",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.633
+      },
+      {
+        "voynich": "4ohae",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.633
+      },
+      {
+        "voynich": "4ohay",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.633
+      },
+      {
+        "voynich": "4oh9",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.691
+      },
+      {
+        "voynich": "ap",
+        "latin": "lepra",
+        "meaning": "leprosy",
+        "score": 0.633
+      },
+      {
+        "voynich": "4ohoe",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.792
+      },
+      {
+        "voynich": "4ohc9",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.633
+      },
+      {
+        "voynich": "4ok9",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.691
+      },
+      {
+        "voynich": "4okam",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.633
+      },
+      {
+        "voynich": "4oh19",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.792
+      },
+      {
+        "voynich": "4okay",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.633
+      },
+      {
+        "voynich": "4okae",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.633
+      },
+      {
+        "voynich": "4ok19",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.633
+      },
+      {
+        "voynich": "4ohcoe",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.731
+      },
+      {
+        "voynich": "4okoe",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.714
+      },
+      {
+        "voynich": "4oh",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.691
+      },
+      {
+        "voynich": "4oh189",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.731
+      },
+      {
+        "voynich": "4ok",
+        "latin": "quartana",
+        "meaning": "quartan fever",
+        "score": 0.691
+      }
+    ],
+    "BOTANICAL": [
+      {
+        "voynich": "2c9",
+        "latin": "bacca",
+        "meaning": "berry",
+        "score": 0.633
+      },
+      {
+        "voynich": "1c79",
+        "latin": "caulis",
+        "meaning": "stalk",
+        "score": 0.6
+      },
+      {
+        "voynich": "1coe",
+        "latin": "caulis",
+        "meaning": "stalk",
+        "score": 0.6
+      },
+      {
+        "voynich": "2oe",
+        "latin": "bacca",
+        "meaning": "berry",
+        "score": 0.633
+      },
+      {
+        "voynich": "ohan",
+        "latin": "resina",
+        "meaning": "resin",
+        "score": 0.633
+      },
+      {
+        "voynich": "2o",
+        "latin": "bacca",
+        "meaning": "berry",
+        "score": 0.633
+      },
+      {
+        "voynich": "2c79",
+        "latin": "caulis",
+        "meaning": "stalk",
+        "score": 0.6
+      },
+      {
+        "voynich": "1coy",
+        "latin": "caulis",
+        "meaning": "stalk",
+        "score": 0.6
+      },
+      {
+        "voynich": "2coe",
+        "latin": "bacca",
+        "meaning": "berry",
+        "score": 0.667
+      },
+      {
+        "voynich": "1cc9",
+        "latin": "succus",
+        "meaning": "juice",
+        "score": 0.6
+      },
+      {
+        "voynich": "ohoe",
+        "latin": "radix",
+        "meaning": "root",
+        "score": 0.667
+      },
+      {
+        "voynich": "han",
+        "latin": "resina",
+        "meaning": "resin",
+        "score": 0.712
+      },
+      {
+        "voynich": "2oy",
+        "latin": "bacca",
+        "meaning": "berry",
+        "score": 0.633
+      },
+      {
+        "voynich": "79",
+        "latin": "flos",
+        "meaning": "flower",
+        "score": 0.667
+      },
+      {
+        "voynich": "hay",
+        "latin": "resina",
+        "meaning": "resin",
+        "score": 0.667
+      },
+      {
+        "voynich": "ohcoe",
+        "latin": "bacca",
+        "meaning": "berry",
+        "score": 0.6
+      },
+      {
+        "voynich": "4ohcc9",
+        "latin": "succus",
+        "meaning": "juice",
+        "score": 0.615
+      },
+      {
+        "voynich": "Koe",
+        "latin": "caulis",
+        "meaning": "stalk",
+        "score": 0.667
+      },
+      {
+        "voynich": "okcc9",
+        "latin": "bacca",
+        "meaning": "berry",
+        "score": 0.712
+      },
+      {
+        "voynich": "ohcc9",
+        "latin": "bacca",
+        "meaning": "berry",
+        "score": 0.712
+      },
+      {
+        "voynich": "Kc9",
+        "latin": "succus",
+        "meaning": "juice",
+        "score": 0.667
+      },
+      {
+        "voynich": "2co",
+        "latin": "bacca",
+        "meaning": "berry",
+        "score": 0.75
+      },
+      {
+        "voynich": "hoe",
+        "latin": "ramus",
+        "meaning": "branch",
+        "score": 0.76
+      },
+      {
+        "voynich": "Koy",
+        "latin": "caulis",
+        "meaning": "stalk",
+        "score": 0.667
+      },
+      {
+        "voynich": "9kam",
+        "latin": "semen",
+        "meaning": "seed",
+        "score": 0.667
+      },
+      {
+        "voynich": "9ham",
+        "latin": "semen",
+        "meaning": "seed",
+        "score": 0.667
+      },
+      {
+        "voynich": "hae",
+        "latin": "resina",
+        "meaning": "resin",
+        "score": 0.667
+      },
+      {
+        "voynich": "okcc89",
+        "latin": "bacca",
+        "meaning": "berry",
+        "score": 0.633
+      },
+      {
+        "voynich": "h19",
+        "latin": "fructus",
+        "meaning": "fruit",
+        "score": 0.6
+      },
+      {
+        "voynich": "2cc9",
+        "latin": "bacca",
+        "meaning": "berry",
+        "score": 0.814
+      },
+      {
+        "voynich": "2coy",
+        "latin": "bacca",
+        "meaning": "berry",
+        "score": 0.667
+      },
+      {
+        "voynich": "1cK9",
+        "latin": "succus",
+        "meaning": "juice",
+        "score": 0.6
+      },
+      {
+        "voynich": "ohoy",
+        "latin": "radix",
+        "meaning": "root",
+        "score": 0.667
+      },
+      {
+        "voynich": "ohcc89",
+        "latin": "bacca",
+        "meaning": "berry",
+        "score": 0.633
+      }
+    ],
+    "PROPERTY": [
+      {
+        "voynich": "an",
+        "latin": "lenis",
+        "meaning": "gentle",
+        "score": 0.76
+      },
+      {
+        "voynich": "1co89",
+        "latin": "calidus",
+        "meaning": "hot",
+        "score": 0.667
+      },
+      {
+        "voynich": "san",
+        "latin": "lenis",
+        "meaning": "gentle",
+        "score": 0.633
+      },
+      {
+        "voynich": "7ay",
+        "latin": "lenis",
+        "meaning": "gentle",
+        "score": 0.76
+      },
+      {
+        "voynich": "e1c9",
+        "latin": "siccus",
+        "meaning": "dry",
+        "score": 0.6
+      },
+      {
+        "voynich": "7ae",
+        "latin": "lenis",
+        "meaning": "gentle",
+        "score": 0.76
+      },
+      {
+        "voynich": "ae9",
+        "latin": "lenis",
+        "meaning": "gentle",
+        "score": 0.75
+      },
+      {
+        "voynich": "2co89",
+        "latin": "calidus",
+        "meaning": "hot",
+        "score": 0.667
+      },
+      {
+        "voynich": "ay9",
+        "latin": "lenis",
+        "meaning": "gentle",
+        "score": 0.75
+      }
+    ],
+    "NUMBER": [
+      {
+        "voynich": "19",
+        "latin": "tres",
+        "meaning": "three",
+        "score": 0.667
+      },
+      {
+        "voynich": "ham",
+        "latin": "tres",
+        "meaning": "three",
+        "score": 0.633
+      },
+      {
+        "voynich": "1ch9",
+        "latin": "tres",
+        "meaning": "three",
+        "score": 0.75
+      },
+      {
+        "voynich": "4okan",
+        "latin": "quinque",
+        "meaning": "five",
+        "score": 0.615
+      },
+      {
+        "voynich": "1am",
+        "latin": "septem",
+        "meaning": "seven",
+        "score": 0.667
+      },
+      {
+        "voynich": "kam",
+        "latin": "novem",
+        "meaning": "nine",
+        "score": 0.75
+      },
+      {
+        "voynich": "1oh9",
+        "latin": "tres",
+        "meaning": "three",
+        "score": 0.75
+      },
+      {
+        "voynich": "h9",
+        "latin": "tres",
+        "meaning": "three",
+        "score": 0.667
+      },
+      {
+        "voynich": "9hay",
+        "latin": "sex",
+        "meaning": "six",
+        "score": 0.633
+      }
+    ],
+    "ZODIAC": [
+      {
+        "voynich": "7am",
+        "latin": "leo",
+        "meaning": "Leo",
+        "score": 0.67
+      },
+      {
+        "voynich": "oh9",
+        "latin": "aries",
+        "meaning": "Aries",
+        "score": 0.85
+      }
+    ],
+    "ACTION": [
+      {
+        "voynich": "okoe",
+        "latin": "sanat",
+        "meaning": "heals",
+        "score": 0.712
+      },
+      {
+        "voynich": "okcoe",
+        "latin": "sanat",
+        "meaning": "heals",
+        "score": 0.633
+      },
+      {
+        "voynich": "okoy",
+        "latin": "sanat",
+        "meaning": "heals",
+        "score": 0.712
+      }
+    ],
+    "UNKNOWN": [
+      {
+        "voynich": "2H9",
+        "latin": "bulbus",
+        "meaning": "bulb",
+        "score": 0.444
+      }
+    ]
+  },
+  "paradigms": [
+    {
+      "stem": "4oh",
+      "decoded_stem": "quar",
+      "possible_latin": "quartana (quartan fever)",
+      "forms": [
+        {
+          "voynich": "4ohan",
+          "decoded": "quaren",
+          "case": "ablative",
+          "count": 266
+        },
+        {
+          "voynich": "4ohC9",
+          "decoded": "quarchs",
+          "case": "nominative",
+          "count": 237
+        },
+        {
+          "voynich": "4oham",
+          "decoded": "quarem",
+          "case": "accusative",
+          "count": 235
+        },
+        {
+          "voynich": "4ohae",
+          "decoded": "quarei",
+          "case": "dative/instrumental",
+          "count": 190
+        },
+        {
+          "voynich": "4ohc89",
+          "decoded": "quarcds",
+          "case": "nominative",
+          "count": 170
+        },
+        {
+          "voynich": "4ohay",
+          "decoded": "quarei",
+          "case": "genitive",
+          "count": 144
+        },
+        {
+          "voynich": "4ohC89",
+          "decoded": "quarchds",
+          "case": "nominative",
+          "count": 140
+        },
+        {
+          "voynich": "4oh9",
+          "decoded": "quars",
+          "case": "nominative",
+          "count": 136
+        }
+      ],
+      "total_occurrences": 2516
+    },
+    {
+      "stem": "4ok",
+      "decoded_stem": "quan",
+      "possible_latin": "quartana (quartan fever)",
+      "forms": [
+        {
+          "voynich": "4ok9",
+          "decoded": "quans",
+          "case": "nominative",
+          "count": 84
+        },
+        {
+          "voynich": "4okam",
+          "decoded": "quanem",
+          "case": "accusative",
+          "count": 80
+        },
+        {
+          "voynich": "4okay",
+          "decoded": "quanei",
+          "case": "genitive",
+          "count": 63
+        },
+        {
+          "voynich": "4okan",
+          "decoded": "quanen",
+          "case": "ablative",
+          "count": 63
+        },
+        {
+          "voynich": "4okc89",
+          "decoded": "quancds",
+          "case": "nominative",
+          "count": 62
+        },
+        {
+          "voynich": "4okae",
+          "decoded": "quanei",
+          "case": "dative/instrumental",
+          "count": 62
+        },
+        {
+          "voynich": "4ok19",
+          "decoded": "quants",
+          "case": "nominative",
+          "count": 59
+        },
+        {
+          "voynich": "4okoe",
+          "decoded": "quanai",
+          "case": "dative/instrumental",
+          "count": 46
+        }
+      ],
+      "total_occurrences": 833
+    },
+    {
+      "stem": "oha",
+      "decoded_stem": "are",
+      "possible_latin": "auris (ear)",
+      "forms": [
+        {
+          "voynich": "oham",
+          "decoded": "arem",
+          "case": "accusative",
+          "count": 196
+        },
+        {
+          "voynich": "ohae",
+          "decoded": "arei",
+          "case": "dative/instrumental",
+          "count": 156
+        },
+        {
+          "voynich": "ohan",
+          "decoded": "aren",
+          "case": "ablative",
+          "count": 129
+        },
+        {
+          "voynich": "ohay",
+          "decoded": "arei",
+          "case": "genitive",
+          "count": 128
+        },
+        {
+          "voynich": "ohap",
+          "decoded": "arep",
+          "case": "unknown",
+          "count": 23
+        },
+        {
+          "voynich": "ohae9",
+          "decoded": "areis",
+          "case": "nominative",
+          "count": 20
+        },
+        {
+          "voynich": "ohaz",
+          "decoded": "arez",
+          "case": "unknown",
+          "count": 19
+        }
+      ],
+      "total_occurrences": 671
+    },
+    {
+      "stem": "oka",
+      "decoded_stem": "ane",
+      "possible_latin": "ante (before)",
+      "forms": [
+        {
+          "voynich": "okay",
+          "decoded": "anei",
+          "case": "genitive",
+          "count": 152
+        },
+        {
+          "voynich": "okam",
+          "decoded": "anem",
+          "case": "accusative",
+          "count": 151
+        },
+        {
+          "voynich": "okae",
+          "decoded": "anei",
+          "case": "dative/instrumental",
+          "count": 142
+        },
+        {
+          "voynich": "okan",
+          "decoded": "anen",
+          "case": "ablative",
+          "count": 96
+        },
+        {
+          "voynich": "okap",
+          "decoded": "anep",
+          "case": "unknown",
+          "count": 44
+        },
+        {
+          "voynich": "okaz",
+          "decoded": "anez",
+          "case": "unknown",
+          "count": 28
+        },
+        {
+          "voynich": "okae9",
+          "decoded": "aneis",
+          "case": "nominative",
+          "count": 22
+        }
+      ],
+      "total_occurrences": 635
+    },
+    {
+      "stem": "1co",
+      "decoded_stem": "tca",
+      "possible_latin": "caulis (stalk)",
+      "forms": [
+        {
+          "voynich": "1coe",
+          "decoded": "tcai",
+          "case": "dative/instrumental",
+          "count": 172
+        },
+        {
+          "voynich": "1co",
+          "decoded": "tca",
+          "case": "unknown",
+          "count": 128
+        },
+        {
+          "voynich": "1coy",
+          "decoded": "tcai",
+          "case": "unknown",
+          "count": 87
+        },
+        {
+          "voynich": "1co89",
+          "decoded": "tcads",
+          "case": "nominative",
+          "count": 71
+        },
+        {
+          "voynich": "1cos",
+          "decoded": "tcax",
+          "case": "unknown",
+          "count": 32
+        },
+        {
+          "voynich": "1co79",
+          "decoded": "tcals",
+          "case": "nominative",
+          "count": 10
+        },
+        {
+          "voynich": "1coH9",
+          "decoded": "tcaks",
+          "case": "nominative",
+          "count": 10
+        }
+      ],
+      "total_occurrences": 510
+    },
+    {
+      "stem": "1c8",
+      "decoded_stem": "tcd",
+      "possible_latin": "calidus (hot)",
+      "forms": [
+        {
+          "voynich": "1c89",
+          "decoded": "tcds",
+          "case": "nominative",
+          "count": 363
+        },
+        {
+          "voynich": "1c8ay",
+          "decoded": "tcdei",
+          "case": "genitive",
+          "count": 23
+        },
+        {
+          "voynich": "1c8",
+          "decoded": "tcd",
+          "case": "unknown",
+          "count": 21
+        },
+        {
+          "voynich": "1c8ae",
+          "decoded": "tcdei",
+          "case": "dative/instrumental",
+          "count": 20
+        },
+        {
+          "voynich": "1c8am",
+          "decoded": "tcdem",
+          "case": "accusative",
+          "count": 18
+        },
+        {
+          "voynich": "1c8an",
+          "decoded": "tcden",
+          "case": "ablative",
+          "count": 15
+        },
+        {
+          "voynich": "1c8(",
+          "decoded": "tcd(",
+          "case": "unknown",
+          "count": 10
+        }
+      ],
+      "total_occurrences": 470
+    },
+    {
+      "stem": "okc",
+      "decoded_stem": "anc",
+      "possible_latin": "ad (to)",
+      "forms": [
+        {
+          "voynich": "okc89",
+          "decoded": "ancds",
+          "case": "nominative",
+          "count": 92
+        },
+        {
+          "voynich": "okc9",
+          "decoded": "ancs",
+          "case": "nominative",
+          "count": 66
+        },
+        {
+          "voynich": "okc79",
+          "decoded": "ancls",
+          "case": "nominative",
+          "count": 65
+        },
+        {
+          "voynich": "okcc9",
+          "decoded": "anccs",
+          "case": "nominative",
+          "count": 49
+        },
+        {
+          "voynich": "okcc89",
+          "decoded": "anccds",
+          "case": "nominative",
+          "count": 38
+        },
+        {
+          "voynich": "okcoe",
+          "decoded": "ancai",
+          "case": "dative/instrumental",
+          "count": 37
+        },
+        {
+          "voynich": "okco89",
+          "decoded": "ancads",
+          "case": "nominative",
+          "count": 27
+        },
+        {
+          "voynich": "okco",
+          "decoded": "anca",
+          "case": "unknown",
+          "count": 27
+        }
+      ],
+      "total_occurrences": 449
+    },
+    {
+      "stem": "ohc",
+      "decoded_stem": "arc",
+      "possible_latin": "ad (to)",
+      "forms": [
+        {
+          "voynich": "ohc89",
+          "decoded": "arcds",
+          "case": "nominative",
+          "count": 66
+        },
+        {
+          "voynich": "ohcoe",
+          "decoded": "arcai",
+          "case": "dative/instrumental",
+          "count": 62
+        },
+        {
+          "voynich": "ohc9",
+          "decoded": "arcs",
+          "case": "nominative",
+          "count": 57
+        },
+        {
+          "voynich": "ohcc9",
+          "decoded": "arccs",
+          "case": "nominative",
+          "count": 48
+        },
+        {
+          "voynich": "ohc79",
+          "decoded": "arcls",
+          "case": "nominative",
+          "count": 47
+        },
+        {
+          "voynich": "ohcc89",
+          "decoded": "arccds",
+          "case": "nominative",
+          "count": 29
+        },
+        {
+          "voynich": "ohco89",
+          "decoded": "arcads",
+          "case": "nominative",
+          "count": 25
+        },
+        {
+          "voynich": "ohco",
+          "decoded": "arca",
+          "case": "unknown",
+          "count": 24
+        }
+      ],
+      "total_occurrences": 412
+    },
+    {
+      "stem": "oeh",
+      "decoded_stem": "air",
+      "possible_latin": "in (in)",
+      "forms": [
+        {
+          "voynich": "oehan",
+          "decoded": "airen",
+          "case": "ablative",
+          "count": 30
+        },
+        {
+          "voynich": "oeham",
+          "decoded": "airem",
+          "case": "accusative",
+          "count": 28
+        },
+        {
+          "voynich": "oehC9",
+          "decoded": "airchs",
+          "case": "nominative",
+          "count": 27
+        },
+        {
+          "voynich": "oeh9",
+          "decoded": "airs",
+          "case": "nominative",
+          "count": 20
+        },
+        {
+          "voynich": "oehay",
+          "decoded": "airei",
+          "case": "genitive",
+          "count": 18
+        },
+        {
+          "voynich": "oehc89",
+          "decoded": "aircds",
+          "case": "nominative",
+          "count": 16
+        },
+        {
+          "voynich": "oehc9",
+          "decoded": "aircs",
+          "case": "nominative",
+          "count": 13
+        },
+        {
+          "voynich": "oehC89",
+          "decoded": "airchds",
+          "case": "nominative",
+          "count": 13
+        }
+      ],
+      "total_occurrences": 211
+    },
+    {
+      "stem": "1c7",
+      "decoded_stem": "tcl",
+      "possible_latin": "caulis (stalk)",
+      "forms": [
+        {
+          "voynich": "1c79",
+          "decoded": "tcls",
+          "case": "nominative",
+          "count": 177
+        },
+        {
+          "voynich": "1c7",
+          "decoded": "tcl",
+          "case": "unknown",
+          "count": 12
+        },
+        {
+          "voynich": "1c7am",
+          "decoded": "tclem",
+          "case": "accusative",
+          "count": 11
+        },
+        {
+          "voynich": "1c7ay",
+          "decoded": "tclei",
+          "case": "genitive",
+          "count": 10
+        }
+      ],
+      "total_occurrences": 210
+    },
+    {
+      "stem": "2co",
+      "decoded_stem": "bca",
+      "possible_latin": "bacca (berry)",
+      "forms": [
+        {
+          "voynich": "2coe",
+          "decoded": "bcai",
+          "case": "dative/instrumental",
+          "count": 82
+        },
+        {
+          "voynich": "2co",
+          "decoded": "bca",
+          "case": "unknown",
+          "count": 45
+        },
+        {
+          "voynich": "2co89",
+          "decoded": "bcads",
+          "case": "nominative",
+          "count": 33
+        },
+        {
+          "voynich": "2coy",
+          "decoded": "bcai",
+          "case": "unknown",
+          "count": 30
+        },
+        {
+          "voynich": "2cos",
+          "decoded": "bcax",
+          "case": "unknown",
+          "count": 13
+        }
+      ],
+      "total_occurrences": 203
+    },
+    {
+      "stem": "ohC",
+      "decoded_stem": "arch",
+      "possible_latin": "auris (ear)",
+      "forms": [
+        {
+          "voynich": "ohC9",
+          "decoded": "archs",
+          "case": "nominative",
+          "count": 115
+        },
+        {
+          "voynich": "ohC89",
+          "decoded": "archds",
+          "case": "nominative",
+          "count": 37
+        },
+        {
+          "voynich": "ohC79",
+          "decoded": "archls",
+          "case": "nominative",
+          "count": 21
+        },
+        {
+          "voynich": "ohCo",
+          "decoded": "archa",
+          "case": "unknown",
+          "count": 17
+        },
+        {
+          "voynich": "ohCoe",
+          "decoded": "archai",
+          "case": "dative/instrumental",
+          "count": 10
+        }
+      ],
+      "total_occurrences": 200
+    },
+    {
+      "stem": "ok1",
+      "decoded_stem": "ant",
+      "possible_latin": "ante (before)",
+      "forms": [
+        {
+          "voynich": "ok19",
+          "decoded": "ants",
+          "case": "nominative",
+          "count": 46
+        },
+        {
+          "voynich": "ok1c9",
+          "decoded": "antcs",
+          "case": "nominative",
+          "count": 30
+        },
+        {
+          "voynich": "ok1oe",
+          "decoded": "antai",
+          "case": "dative/instrumental",
+          "count": 27
+        },
+        {
+          "voynich": "ok1c89",
+          "decoded": "antcds",
+          "case": "nominative",
+          "count": 20
+        },
+        {
+          "voynich": "ok189",
+          "decoded": "antds",
+          "case": "nominative",
+          "count": 19
+        },
+        {
+          "voynich": "ok1oy",
+          "decoded": "antai",
+          "case": "unknown",
+          "count": 17
+        },
+        {
+          "voynich": "ok1c79",
+          "decoded": "antcls",
+          "case": "nominative",
+          "count": 13
+        },
+        {
+          "voynich": "ok179",
+          "decoded": "antls",
+          "case": "nominative",
+          "count": 11
+        }
+      ],
+      "total_occurrences": 193
+    },
+    {
+      "stem": "oko",
+      "decoded_stem": "ana",
+      "possible_latin": "sanat (heals)",
+      "forms": [
+        {
+          "voynich": "okoe",
+          "decoded": "anai",
+          "case": "dative/instrumental",
+          "count": 85
+        },
+        {
+          "voynich": "okoy",
+          "decoded": "anai",
+          "case": "unknown",
+          "count": 35
+        },
+        {
+          "voynich": "oko",
+          "decoded": "ana",
+          "case": "unknown",
+          "count": 19
+        },
+        {
+          "voynich": "oko89",
+          "decoded": "anads",
+          "case": "nominative",
+          "count": 12
+        },
+        {
+          "voynich": "okoe89",
+          "decoded": "anaids",
+          "case": "nominative",
+          "count": 11
+        }
+      ],
+      "total_occurrences": 162
+    },
+    {
+      "stem": "e1c",
+      "decoded_stem": "itc",
+      "possible_latin": "siccus (dry)",
+      "forms": [
+        {
+          "voynich": "e1c89",
+          "decoded": "itcds",
+          "case": "nominative",
+          "count": 74
+        },
+        {
+          "voynich": "e1c9",
+          "decoded": "itcs",
+          "case": "nominative",
+          "count": 46
+        },
+        {
+          "voynich": "e1c79",
+          "decoded": "itcls",
+          "case": "nominative",
+          "count": 28
+        }
+      ],
+      "total_occurrences": 148
+    },
+    {
+      "stem": "okC",
+      "decoded_stem": "anch",
+      "possible_latin": "manus (hand)",
+      "forms": [
+        {
+          "voynich": "okC9",
+          "decoded": "anchs",
+          "case": "nominative",
+          "count": 92
+        },
+        {
+          "voynich": "okC89",
+          "decoded": "anchds",
+          "case": "nominative",
+          "count": 44
+        },
+        {
+          "voynich": "okC79",
+          "decoded": "anchls",
+          "case": "nominative",
+          "count": 10
+        }
+      ],
+      "total_occurrences": 146
+    },
+    {
+      "stem": "1o8",
+      "decoded_stem": "tad",
+      "possible_latin": "ad (to)",
+      "forms": [
+        {
+          "voynich": "1o89",
+          "decoded": "tads",
+          "case": "nominative",
+          "count": 78
+        },
+        {
+          "voynich": "1o8am",
+          "decoded": "tadem",
+          "case": "accusative",
+          "count": 41
+        },
+        {
+          "voynich": "1o8ay",
+          "decoded": "tadei",
+          "case": "genitive",
+          "count": 13
+        }
+      ],
+      "total_occurrences": 132
+    },
+    {
+      "stem": "oho",
+      "decoded_stem": "ara",
+      "possible_latin": "radix (root)",
+      "forms": [
+        {
+          "voynich": "ohoe",
+          "decoded": "arai",
+          "case": "dative/instrumental",
+          "count": 73
+        },
+        {
+          "voynich": "ohoy",
+          "decoded": "arai",
+          "case": "unknown",
+          "count": 29
+        },
+        {
+          "voynich": "oho89",
+          "decoded": "arads",
+          "case": "nominative",
+          "count": 13
+        },
+        {
+          "voynich": "oho",
+          "decoded": "ara",
+          "case": "unknown",
+          "count": 10
+        }
+      ],
+      "total_occurrences": 125
+    },
+    {
+      "stem": "1cc",
+      "decoded_stem": "tcc",
+      "possible_latin": "succus (juice)",
+      "forms": [
+        {
+          "voynich": "1cc9",
+          "decoded": "tccs",
+          "case": "nominative",
+          "count": 77
+        },
+        {
+          "voynich": "1ccs",
+          "decoded": "tccx",
+          "case": "unknown",
+          "count": 16
+        },
+        {
+          "voynich": "1cch9",
+          "decoded": "tccrs",
+          "case": "nominative",
+          "count": 16
+        },
+        {
+          "voynich": "1cc89",
+          "decoded": "tccds",
+          "case": "nominative",
+          "count": 14
+        }
+      ],
+      "total_occurrences": 123
+    },
+    {
+      "stem": "oh1",
+      "decoded_stem": "art",
+      "possible_latin": "auris (ear)",
+      "forms": [
+        {
+          "voynich": "oh19",
+          "decoded": "arts",
+          "case": "nominative",
+          "count": 34
+        },
+        {
+          "voynich": "oh1c9",
+          "decoded": "artcs",
+          "case": "nominative",
+          "count": 26
+        },
+        {
+          "voynich": "oh1oy",
+          "decoded": "artai",
+          "case": "unknown",
+          "count": 16
+        },
+        {
+          "voynich": "oh189",
+          "decoded": "artds",
+          "case": "nominative",
+          "count": 14
+        },
+        {
+          "voynich": "oh1oe",
+          "decoded": "artai",
+          "case": "dative/instrumental",
+          "count": 13
+        },
+        {
+          "voynich": "oh1c89",
+          "decoded": "artcds",
+          "case": "nominative",
+          "count": 13
+        }
+      ],
+      "total_occurrences": 116
+    }
+  ],
+  "statistics": {
+    "exact_matches": 36,
+    "stem_matches": 95,
+    "possible_matches": 68,
+    "no_match": 1
+  },
+  "phonetic_map_used": {
+    "o": "a",
+    "h": "r",
+    "9": "s",
+    "k": "n",
+    "c": "c",
+    "7": "l",
+    "m": "m",
+    "4": "qu",
+    "1": "t",
+    "8": "d",
+    "a": "e",
+    "e": "i",
+    "2": "b",
+    "y": "i",
+    "C": "ch",
+    "H": "k",
+    "K": "c",
+    "n": "n",
+    "p": "p",
+    "g": "g",
+    "f": "f",
+    "z": "z",
+    "s": "x",
+    "A": "a",
+    "N": "n",
+    "M": "m",
+    "S": "x",
+    "Z": "z"
+  }
+}

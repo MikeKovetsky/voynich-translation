@@ -1,0 +1,118 @@
+# Track 38: Hebrew/Semitic Language Analysis
+
+## OBJECTIVE
+Deep dive into Hebrew and Semitic language patterns based on Track 37's finding
+that Voynich scores HIGHEST for Hebrew (0.415) among all transliterations.
+
+## BACKGROUND
+Track 37 revealed:
+- Hebrew score: 0.415 (highest with EVA)
+- Arabic score: 0.373 (second highest)
+- Latin score: 0.213 (lowest!)
+
+This suggests Voynich may have Semitic language characteristics.
+
+## INPUT FILES
+- `results/eva_bias_test.json` - Bias test results
+- `results/glyph_analysis.json` - Glyph patterns
+- `data/eva_ivtff.txt` - Source transcription
+- `voynich_data.py` - Data access module
+
+## TASKS
+
+### 1. Hebrew Structural Analysis
+Compare Voynich with Hebrew text structure:
+
+**Hebrew characteristics:**
+- Consonantal writing (vowels often omitted)
+- Root system (3-letter roots with patterns)
+- Right-to-left (but Voynich is left-to-right?)
+- Definite article prefix (ha-)
+- Possessive suffixes
+
+Test each against Voynich patterns.
+
+### 2. Root Pattern Search
+Hebrew uses 3-consonant roots. Search for:
+- Repeating 3-glyph patterns
+- Same glyphs in different "word forms"
+- Pattern: C1-vowel-C2-vowel-C3 variations
+
+Example: If root is K-T-B (write):
+- katav, kotev, ktiva, etc.
+
+### 3. Hebrew Vocabulary Comparison
+Build Hebrew botanical/medical vocabulary:
+- Medieval Hebrew plant names
+- Hebrew body parts
+- Hebrew medical terms from medieval sources
+
+Compare with decoded Voynich text.
+
+### 4. Prefix/Suffix Analysis
+Hebrew common affixes:
+- Prefixes: ha- (the), ve- (and), be- (in), le- (to), mi- (from)
+- Suffixes: -im (plural masc), -ot (plural fem), -i (my), -o (his)
+
+Search for equivalent patterns in Voynich.
+
+### 5. Word Length Distribution
+Hebrew words are typically:
+- Short (3-5 letters common)
+- Root-based expansion
+- Compare with Voynich 4.69 avg length
+
+### 6. Glyph-to-Hebrew Letter Mapping
+Attempt to map Voynich glyphs to Hebrew alphabet:
+- 22 Hebrew letters vs 24 Voynich glyphs (close!)
+- Match by frequency
+- Match by position (initial/final forms in Hebrew)
+
+## EXPECTED OUTPUT
+
+### Main Script
+`hebrew_analysis.py` - Analysis script
+
+### Result Files
+
+1. `results/hebrew_analysis.json`
+```json
+{
+  "structural_comparison": {
+    "consonantal_score": 0.0,
+    "root_pattern_score": 0.0,
+    "affix_pattern_score": 0.0
+  },
+  "root_patterns_found": [...],
+  "vocabulary_matches": [...],
+  "glyph_to_hebrew_mapping": {...},
+  "overall_hebrew_score": 0.0
+}
+```
+
+2. `results/hebrew_report.md`
+- Structural analysis
+- Root patterns found
+- Vocabulary comparison
+- Proposed glyph mapping
+- Conclusion: Is Voynich Hebrew-based?
+
+## SUCCESS CRITERIA
+- [ ] All Hebrew structural features tested
+- [ ] Root pattern search completed
+- [ ] At least 50 Hebrew terms compared
+- [ ] Glyph-to-Hebrew mapping attempted
+- [ ] Clear verdict on Hebrew hypothesis
+
+## HISTORICAL CONTEXT
+- Medieval Jewish communities in Northern Italy
+- Hebrew medical/botanical texts existed
+- Kabbalah manuscripts used codes
+- Jewish scribes sometimes used Latin scripts for Hebrew
+
+## NOTES
+- Consider that Voynich could be:
+  - Hebrew in disguised script
+  - Judeo-Romance language
+  - Hebrew-Latin hybrid
+  - Kabbalistic encoded text

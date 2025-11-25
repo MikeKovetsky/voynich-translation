@@ -1,0 +1,377 @@
+{
+  "total_labels_extracted": 111,
+  "reference_plants": 59,
+  "visual_id_matches": [
+    {
+      "folio": "f17r",
+      "voynich_label": "f2o89",
+      "decoded": "fba-orum",
+      "visual_id": "Cornflower",
+      "latin_name": "Centaurea cyanus",
+      "expected_genus": "centaurea",
+      "visual_conf": 0.75,
+      "matched_plant": null,
+      "match_type": "none",
+      "match_score": 0,
+      "direct_similarity": 0.25,
+      "matches_visual": false,
+      "partial_match": false,
+      "notes": ""
+    },
+    {
+      "folio": "f5r",
+      "voynich_label": "h2o89",
+      "decoded": "rba-orum",
+      "visual_id": "Hellebore",
+      "latin_name": "Helleborus sp.",
+      "expected_genus": "helleborus",
+      "visual_conf": 0.6,
+      "matched_plant": null,
+      "match_type": "none",
+      "match_score": 0,
+      "direct_similarity": 0.471,
+      "matches_visual": false,
+      "partial_match": false,
+      "notes": ""
+    },
+    {
+      "folio": "f2v",
+      "voynich_label": "hoom",
+      "decoded": "raam",
+      "visual_id": "Cyclamen",
+      "latin_name": "Cyclamen sp.",
+      "expected_genus": "cyclamen",
+      "visual_conf": 0.5,
+      "matched_plant": null,
+      "match_type": "none",
+      "match_score": 0,
+      "direct_similarity": 0.333,
+      "matches_visual": false,
+      "partial_match": false,
+      "notes": ""
+    },
+    {
+      "folio": "f4r",
+      "voynich_label": "ho8ae19",
+      "decoded": "radeit-us",
+      "visual_id": "Tamarisk",
+      "latin_name": "Tamarix sp.",
+      "expected_genus": "tamarix",
+      "visual_conf": 0.5,
+      "matched_plant": null,
+      "match_type": "none",
+      "match_score": 0,
+      "direct_similarity": 0.267,
+      "matches_visual": false,
+      "partial_match": false,
+      "notes": ""
+    },
+    {
+      "folio": "f6r",
+      "voynich_label": "foay",
+      "decoded": "fa-i",
+      "visual_id": "Poppy",
+      "latin_name": "Papaver sp.",
+      "expected_genus": "papaver",
+      "visual_conf": 0.5,
+      "matched_plant": null,
+      "match_type": "none",
+      "match_score": 0,
+      "direct_similarity": 0.2,
+      "matches_visual": false,
+      "partial_match": false,
+      "notes": ""
+    },
+    {
+      "folio": "f25v",
+      "voynich_label": "goCam",
+      "decoded": "gach-am",
+      "visual_id": "Castor Bean",
+      "latin_name": "Ricinus communis",
+      "expected_genus": "ricinus",
+      "visual_conf": 0.5,
+      "matched_plant": null,
+      "match_type": "none",
+      "match_score": 0,
+      "direct_similarity": 0.154,
+      "matches_visual": false,
+      "partial_match": false,
+      "notes": ""
+    },
+    {
+      "folio": "f3r",
+      "voynich_label": "k2cos",
+      "decoded": "nbcax",
+      "visual_id": "Aloe",
+      "latin_name": "Aloe sp.",
+      "expected_genus": "aloe",
+      "visual_conf": 0.4,
+      "matched_plant": null,
+      "match_type": "none",
+      "match_score": 0,
+      "direct_similarity": 0.222,
+      "matches_visual": false,
+      "partial_match": false,
+      "notes": ""
+    },
+    {
+      "folio": "f9r",
+      "voynich_label": "k98eo",
+      "decoded": "nsdia",
+      "visual_id": "Oak",
+      "latin_name": "Quercus sp.",
+      "expected_genus": "quercus",
+      "visual_conf": 0.4,
+      "matched_plant": null,
+      "match_type": "none",
+      "match_score": 0,
+      "direct_similarity": 0.167,
+      "matches_visual": false,
+      "partial_match": false,
+      "notes": ""
+    }
+  ],
+  "all_label_matches": [
+    {
+      "folio": "f56v",
+      "voynich": "h1cok",
+      "decoded": "rtcan",
+      "matched": "Urtica dioica",
+      "common": "Nettle",
+      "type": "phonetic",
+      "score": 0.727
+    }
+  ],
+  "secondary_matches": [
+    {
+      "folio": "f2v",
+      "position": 2,
+      "decoded": "anemad-um",
+      "matched": "Anethum graveolens",
+      "score": 0.667
+    },
+    {
+      "folio": "f11v",
+      "position": 2,
+      "decoded": "ai-orum",
+      "matched": "Petroselinum crispum",
+      "score": 0.727
+    },
+    {
+      "folio": "f13v",
+      "position": 2,
+      "decoded": "ant-us",
+      "matched": "Centaurea cyanus",
+      "score": 0.727
+    },
+    {
+      "folio": "f13v",
+      "position": 3,
+      "decoded": "rtad",
+      "matched": "Ruta graveolens",
+      "score": 0.75
+    },
+    {
+      "folio": "f16v",
+      "position": 1,
+      "decoded": "antai",
+      "matched": "Anethum graveolens",
+      "score": 0.727
+    },
+    {
+      "folio": "f18r",
+      "position": 3,
+      "decoded": "srt-ae",
+      "matched": "Ruta graveolens",
+      "score": 0.8
+    },
+    {
+      "folio": "f19v",
+      "position": 4,
+      "decoded": "quart-us",
+      "matched": "Quercus robur",
+      "score": 0.714
+    },
+    {
+      "folio": "f20r",
+      "position": 2,
+      "decoded": "tcc-us",
+      "matched": "Crocus sativus",
+      "score": 0.727
+    },
+    {
+      "folio": "f23r",
+      "position": 3,
+      "decoded": "an-us",
+      "matched": "Centaurea cyanus",
+      "score": 0.8
+    },
+    {
+      "folio": "f25r",
+      "position": 3,
+      "decoded": "er-us",
+      "matched": "Juniperus communis",
+      "score": 0.615
+    },
+    {
+      "folio": "f29r",
+      "position": 3,
+      "decoded": "tcgan-us",
+      "matched": "Centaurea cyanus",
+      "score": 0.769
+    },
+    {
+      "folio": "f30r",
+      "position": 2,
+      "decoded": "baitc-us",
+      "matched": "Althaea officinalis",
+      "score": 0.714
+    },
+    {
+      "folio": "f33v",
+      "position": 3,
+      "decoded": "cc-us",
+      "matched": "Crocus sativus",
+      "score": 0.8
+    },
+    {
+      "folio": "f35r",
+      "position": 3,
+      "decoded": "tan-us",
+      "matched": "Centaurea cyanus",
+      "score": 0.727
+    },
+    {
+      "folio": "f36r",
+      "position": 1,
+      "decoded": "quai-um",
+      "matched": "Petroselinum crispum",
+      "score": 0.727
+    },
+    {
+      "folio": "f37r",
+      "position": 4,
+      "decoded": "an-us",
+      "matched": "Centaurea cyanus",
+      "score": 0.8
+    },
+    {
+      "folio": "f37v",
+      "position": 1,
+      "decoded": "quac-us",
+      "matched": "Quercus robur",
+      "score": 0.769
+    },
+    {
+      "folio": "f37v",
+      "position": 3,
+      "decoded": "tagl-um",
+      "matched": "Allium sativum",
+      "score": 0.727
+    },
+    {
+      "folio": "f38r",
+      "position": 1,
+      "decoded": "tah-us",
+      "matched": "Thymus vulgaris",
+      "score": 0.727
+    },
+    {
+      "folio": "f40r",
+      "position": 3,
+      "decoded": "quar-us",
+      "matched": "Quercus robur",
+      "score": 0.769
+    },
+    {
+      "folio": "f41r",
+      "position": 2,
+      "decoded": "bcrct-us",
+      "matched": "Crocus sativus",
+      "score": 0.769
+    },
+    {
+      "folio": "f42v",
+      "position": 1,
+      "decoded": "bcc-us",
+      "matched": "Crocus sativus",
+      "score": 0.727
+    },
+    {
+      "folio": "f45r",
+      "position": 2,
+      "decoded": "an-us",
+      "matched": "Centaurea cyanus",
+      "score": 0.8
+    },
+    {
+      "folio": "f45v",
+      "position": 2,
+      "decoded": "raitc-us",
+      "matched": "Ricinus communis",
+      "score": 0.714
+    },
+    {
+      "folio": "f46r",
+      "position": 2,
+      "decoded": "tcn-us",
+      "matched": "Centaurea cyanus",
+      "score": 0.727
+    },
+    {
+      "folio": "f49v",
+      "position": 3,
+      "decoded": "gart-ae",
+      "matched": "Ruta graveolens",
+      "score": 0.727
+    },
+    {
+      "folio": "f52v",
+      "position": 4,
+      "decoded": "snair-ae",
+      "matched": "Salvia officinalis",
+      "score": 0.714
+    },
+    {
+      "folio": "f53r",
+      "position": 2,
+      "decoded": "an-us",
+      "matched": "Centaurea cyanus",
+      "score": 0.8
+    },
+    {
+      "folio": "f53v",
+      "position": 3,
+      "decoded": "ainbc-us",
+      "matched": "Althaea officinalis",
+      "score": 0.714
+    },
+    {
+      "folio": "f54v",
+      "position": 3,
+      "decoded": "er\u00c6c-us",
+      "matched": "Quercus robur",
+      "score": 0.769
+    }
+  ],
+  "summary": {
+    "exact_matches": 0,
+    "stem_matches": 0,
+    "phonetic_matches": 1,
+    "no_match": 110,
+    "overall_match_rate": 0.009,
+    "visual_exact_match_rate": 0.0,
+    "visual_partial_match_rate": 0.0,
+    "avg_decoded_similarity": 0.258
+  },
+  "analysis": {
+    "conclusion": "NEGATIVE: Decoded labels do NOT match expected plant names",
+    "evidence_for": [],
+    "evidence_against": [
+      "Low visual-label match rate (0%)",
+      "Low average similarity (26%)",
+      "Few labels match plant names (1%)"
+    ],
+    "interpretation": "\nThe decoded Voynich labels do NOT match the visually-identified plants.\nPossible explanations:\n1. The phonetic decoding is incorrect\n2. Visual plant identifications are wrong  \n3. Labels are not plant names (could be descriptions, uses, or locations)\n4. The encoding uses a different language than Latin\n5. The text uses heavily abbreviated or symbolic naming\n"
+  }
+}

@@ -1,0 +1,148 @@
+# Track 42: Kabbalistic Cipher Analysis
+
+## OBJECTIVE
+Test whether Voynich uses Kabbalistic encoding (Gematria, Temurah, Notarikon).
+Previous analysis found sacred numbers - now we need a proper REPORT.
+
+## INPUT FILES (REQUIRED)
+- `data/eva_ivtff.txt` - Source transcription
+- `results/hebrew_analysis.json` - Hebrew patterns (for glyph mapping)
+
+## KABBALISTIC SYSTEMS TO TEST
+
+### 1. GEMATRIA (Numerical Values)
+Each Hebrew letter has a value:
+```
+א=1, ב=2, ג=3, ד=4, ה=5, ו=6, ז=7, ח=8, ט=9, י=10
+כ=20, ל=30, מ=40, נ=50, ס=60, ע=70, פ=80, צ=90
+ק=100, ר=200, ש=300, ת=400
+```
+
+Map Voynich glyphs → Hebrew values based on frequency matching.
+
+### 2. TEMURAH (Letter Substitution)
+Test these cipher systems:
+- **Atbash**: א↔ת, ב↔ש (first↔last)
+- **Albam**: א↔ל, ב↔מ (split alphabet in half)
+- **Avgad**: shift each letter by 1
+
+### 3. NOTARIKON (Abbreviation)
+- Are 3-letter words abbreviations?
+- Do line initials spell something?
+- Do paragraph initials encode messages?
+
+## TASKS
+
+### Task 1: Gematria Analysis
+1. Assign Hebrew numerical values to each Voynich glyph
+2. Calculate word values
+3. Search for sacred numbers:
+   - 18 (chai = life)
+   - 26 (YHVH = God's name)
+   - 72 (shem ha-meforash)
+   - 137 (kabbalah)
+   - 216 (gevurah)
+   - 314 (Shaddai)
+   - 358 (Mashiach)
+   - 613 (total commandments)
+
+### Task 2: Temurah Testing
+1. Create Atbash, Albam, Avgad mappings for Voynich alphabet
+2. Apply each cipher to sample words
+3. Check if results are recognizable Hebrew/words
+
+### Task 3: Notarikon Analysis
+1. Collect all 3-letter words - are they abbreviations?
+2. Extract initial letters of each line
+3. Extract initial letters of each paragraph
+4. Check for hidden messages
+
+### Task 4: Structural Analysis
+1. Count words per folio - any sacred numbers?
+2. Count lines per section
+3. Look for patterns at document structure level
+
+## EXPECTED OUTPUT FILES
+
+### Script
+`kabbalistic.py` - Main analysis script
+
+### Results (ALL REQUIRED)
+
+1. **`results/kabbalistic_analysis.json`**
+```json
+{
+  "gematria": {
+    "glyph_values": {"o": 10, "a": 1, ...},
+    "sacred_numbers_found": {
+      "72": {"count": 52, "words": ["list"]},
+      "137": {"count": 56, "words": ["list"]}
+    }
+  },
+  "temurah": {
+    "atbash_hebrew_words_found": 0,
+    "albam_hebrew_words_found": 0,
+    "avgad_hebrew_words_found": 0
+  },
+  "notarikon": {
+    "three_letter_words": {"dar": 1472, ...},
+    "line_initials_message": "",
+    "paragraph_initials_message": ""
+  },
+  "structural": {
+    "folios_with_613_words": ["f69v"],
+    "sacred_line_counts": []
+  },
+  "overall_score": 0.0,
+  "verdict": "STRONG/MODERATE/WEAK"
+}
+```
+
+2. **`results/kabbalistic_report.md`** ← THIS IS REQUIRED
+```markdown
+# Kabbalistic Cipher Analysis Report
+
+## Executive Summary
+Overall Score: X.XX
+Verdict: [STRONG/MODERATE/WEAK Kabbalistic patterns]
+
+## Gematria Analysis
+### Glyph-to-Value Mapping
+[Table of assignments]
+
+### Sacred Numbers Found
+| Number | Meaning | Count | Example Words |
+|--------|---------|-------|---------------|
+| 72 | Names of God | 52 | ... |
+
+## Temurah Analysis
+### Atbash Test
+[Results]
+
+### Albam Test
+[Results]
+
+### Avgad Test
+[Results]
+
+## Notarikon Analysis
+### Common 3-Letter Words
+[Top 20 with possible Hebrew expansions]
+
+### Acrostic Patterns
+[Line initials, paragraph initials]
+
+## Structural Patterns
+[Folio word counts, sacred numbers in structure]
+
+## Conclusion
+[Is Voynich Kabbalistic? Clear verdict with evidence]
+```
+
+## SUCCESS CRITERIA
+- [ ] Gematria values assigned to all glyphs
+- [ ] All 3 Temurah systems tested
+- [ ] Notarikon analysis complete
+- [ ] Sacred number search done
+- [ ] **REPORT FILE CREATED** (results/kabbalistic_report.md)
+- [ ] Clear verdict provided

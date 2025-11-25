@@ -1,0 +1,167 @@
+================================================================================
+TRACK 12: LATIN ABBREVIATION SYSTEM HYPOTHESIS
+================================================================================
+
+GOAL:
+Test if Voynich uses a medieval Latin abbreviation/shorthand system. The "-9"
+ending (37% of words) may be an abbreviation mark for Latin "-us/-is/-um".
+
+================================================================================
+CRITICAL CONTEXT:
+================================================================================
+
+Phase 3 findings that support this hypothesis:
+
+1. Latin zodiac names detected:
+   - oh9 → "ars" matches ARIES (85%!)
+   - okco → "anca" matches CANCER (63%)
+   - 7am → "lem" matches LEO (67%)
+
+2. IC matches Latin (0.077 vs 0.0725)
+
+3. Vowel harmony ABSENT - rules out Turkic/Uralic languages
+
+4. "-9" ending at 37% is suspiciously high - consistent with Latin "-us/-is" abbreviation
+
+Medieval Latin abbreviation systems:
+- Tironian notes (shorthand system from Roman times)
+- Notae communes (common abbreviation marks)
+- Tilde over vowel = missing 'm' or 'n'
+- 'p with stroke' = 'per/pre/pro'
+- 'q with stroke' = 'que'
+- Special marks for common endings (-us, -is, -um, -orum, etc.)
+
+================================================================================
+INPUT DATA:
+================================================================================
+
+1. /voynich_raw.txt - Full transcription
+2. /results/zodiac_month_analysis.json - Zodiac label matches
+3. /results/anchor_word_validation.json - Validated vocabulary
+4. Medieval Latin abbreviation references (to research)
+
+================================================================================
+SPECIFIC TASKS:
+================================================================================
+
+1. RESEARCH MEDIEVAL LATIN SHORTHAND
+   - Search for Tironian notes character list
+   - Find common medieval abbreviation marks
+   - Get frequency of abbreviated endings in Latin manuscripts
+   
+2. MAP VOYNICH ENDINGS TO LATIN ABBREVIATIONS
+   - '9' (37%) → -us/-is (nominative/genitive singular)
+   - '89' (12%) → -orum/-arum (genitive plural)
+   - 'am' (9%) → -am (accusative feminine singular)
+   - 'oe' (9%) → -ae (dative/ablative feminine)
+   - 'an' (4%) → -an/-um? (unclear)
+   - Calculate if frequencies match expected Latin case distribution
+
+3. TEST LATIN BOTANICAL VOCABULARY
+   - Get common Latin plant terminology:
+     * radix (root), folium (leaf), flos (flower), semen (seed)
+     * herba (herb), arbor (tree), cortex (bark), succus (juice)
+   - Search Voynich for phonetic equivalents
+   - Check if decoded words appear in botanical contexts
+
+4. TEST KNOWN LATIN HERBAL PHRASES
+   - "contra dolorem" (against pain)
+   - "in aqua" (in water)
+   - "cum vino" (with wine)
+   - "ad usum" (for use)
+   - Search for patterns that might decode to these
+
+5. ANALYZE COMMON VOYNICH WORDS AS LATIN
+   Top Voynich words to decode:
+   - 4ohan (274x) → if '4o'=qua, 'h'=r, 'an'=um → "quarum"?
+   - 8am (735x) → if '8'=d, 'am'=am → "dam"? or abbreviated "dominum"?
+   - 1c9 (377x) → with various Latin mappings?
+
+6. CREATE LATIN-OPTIMIZED PHONETIC MAPPING
+   Based on zodiac matches where oh9=ars (aries):
+   - o → a
+   - h → r
+   - 9 → s (or abbreviated -us/-is)
+   - Refine other mappings to maximize Latin word recognition
+
+================================================================================
+EXPECTED OUTPUT FORMAT:
+================================================================================
+
+1. FILE: results/latin_abbreviation_test.json
+{
+  "abbreviation_mapping": {
+    "9": {
+      "proposed_latin": "-us/-is",
+      "voynich_freq": 0.37,
+      "expected_latin_freq": 0.25,
+      "match_quality": "GOOD"
+    },
+    "89": {...},
+    "am": {...}
+  },
+  "botanical_vocabulary_tests": [
+    {
+      "latin_word": "radix",
+      "voynich_candidates": ["..."],
+      "best_match": "...",
+      "score": 0.0-1.0
+    }
+  ],
+  "phrase_tests": [
+    {
+      "latin_phrase": "in aqua",
+      "voynich_candidate": "...",
+      "score": 0.0-1.0
+    }
+  ],
+  "decoded_common_words": [
+    {
+      "voynich": "4ohan",
+      "decoded": "quarum",
+      "latin_meaning": "of which (gen.pl.fem)",
+      "confidence": 0.0-1.0
+    }
+  ],
+  "optimized_phonetic_map": {
+    "o": "a",
+    "h": "r",
+    "9": "s/us",
+    "4": "qu",
+    ...
+  },
+  "overall_verdict": {
+    "latin_abbreviation_likely": true/false,
+    "confidence": 0.0-1.0,
+    "key_evidence": [...]
+  }
+}
+
+2. FILE: results/latin_abbreviation_report.md
+Human-readable summary with:
+- Explanation of medieval Latin shorthand
+- Mapping table with evidence
+- Sample decoded passages
+- Clear verdict
+
+================================================================================
+SUCCESS CRITERIA:
+================================================================================
+
+- [ ] Medieval Latin abbreviation system researched
+- [ ] All 8 Voynich suffixes mapped to potential Latin equivalents
+- [ ] At least 5 Latin botanical terms searched for
+- [ ] At least 3 Latin phrases tested
+- [ ] Optimized phonetic mapping created
+- [ ] Clear verdict: Is Latin abbreviation hypothesis viable?
+
+================================================================================
+KEY INSIGHT TO TEST:
+================================================================================
+
+If "-9" is really abbreviated "-us/-is", then:
+- "oh9" → "ar+us" → "arus"? or just represents "aries" abbreviated
+- "4ohan" → "qua+r+um" → "quarum" (of which, feminine genitive plural)
+- "4oh9" → "qua+r+us" → "quarus"? or represents abbreviated herb name
+
+The TEST: Can we decode passages that make grammatical sense in Latin?

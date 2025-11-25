@@ -1,0 +1,137 @@
+# Track 30: Zodiac Label Key Derivation
+
+## OBJECTIVE
+Use zodiac month labels (KNOWN external referents) to DERIVE the correct phonetic mapping.
+
+## BACKGROUND
+Previous zodiac analysis showed 60-85% matches. These are our STRONGEST anchors because:
+1. Month names are externally known (Martius, Aprilis, etc.)
+2. Labels are clearly associated with zodiac imagery
+3. Partial matches suggest the approach is CLOSE but not exact
+
+This is a "known plaintext attack" - we know what the labels SHOULD say.
+
+## INPUT FILES
+- `results/zodiac_analysis.json` - Previous zodiac analysis
+- `results/zodiac_latin_analysis.json` - Latin zodiac analysis
+- `results/zodiac_month_analysis.json` - Month name analysis
+- `data/eva_ivtff.txt` - Source transcription
+
+## REFERENCE DATA (Known Plaintexts)
+Zodiac months in Medieval Latin:
+- March: Martius
+- April: Aprilis  
+- May: Maius
+- June: Iunius/Junius
+- July: Iulius/Julius
+- August: Augustus
+- September: September
+- October: October
+- November: November
+- December: December
+
+## TASKS
+
+### 1. Extract All Zodiac Labels
+From zodiac section folios (f70v-f73v, etc.):
+- Extract every label associated with zodiac imagery
+- Record exact EVA transcription
+- Note position (which month/sign)
+
+### 2. Align Labels with Known Months
+For each zodiac page, determine which month it represents:
+- Use visual cues (zodiac signs)
+- Aries = March/April, Taurus = April/May, etc.
+- Create label → expected_month mapping
+
+### 3. Character-by-Character Derivation
+For each label-month pair:
+```
+Example: If label "okchey" should be "aprilis"
+  o → a (position 1)
+  k → p (position 2)
+  c → r (position 3)
+  h → i (position 4)
+  e → l (position 5)
+  y → is (positions 6-7)
+```
+- Derive what EACH character MUST map to
+- Record all derived mappings
+
+### 4. Consistency Check
+For all derived mappings:
+- Do the same characters consistently map to same values?
+- Where are conflicts?
+- Which mappings are most consistent across labels?
+
+### 5. Build Derived Key
+From consistent mappings, construct:
+```json
+{
+  "derived_mappings": {
+    "o": {"latin": "a", "confidence": 0.9, "sources": ["aprilis", "augustus"]},
+    "k": {"latin": "p", "confidence": 0.7, "sources": ["aprilis"]},
+    ...
+  },
+  "conflicts": [
+    {"char": "e", "values": ["l", "i"], "contexts": [...]}
+  ]
+}
+```
+
+### 6. Test Derived Key
+Apply the NEW derived key to:
+- Other zodiac labels (validation)
+- Plant labels (does it produce plant names?)
+- Sample botanical text (is it more readable?)
+
+## EXPECTED OUTPUT
+
+### Main Script
+`zodiac_derive.py` - Key derivation script
+
+### Result Files
+
+1. `results/zodiac_key_derivation.json`
+```json
+{
+  "labels_extracted": [
+    {"folio": "f70v", "label": "...", "expected_month": "aprilis", "zodiac_sign": "aries"}
+  ],
+  "character_derivations": [
+    {"voynich": "o", "derived_latin": "a", "occurrences": 12, "conflicts": 0}
+  ],
+  "derived_key": {
+    "o": "a",
+    "k": "p",
+    ...
+  },
+  "key_confidence": 0.0,
+  "conflicts": [...],
+  "validation_results": {
+    "zodiac_match": 0.0,
+    "plant_match": 0.0
+  }
+}
+```
+
+2. `results/zodiac_key_report.md`
+- Label extraction summary
+- Character-by-character derivation
+- Conflict analysis
+- Derived key table
+- Validation results
+- Comparison with previous key
+
+## SUCCESS CRITERIA
+- [ ] All zodiac labels extracted
+- [ ] Character derivations for at least 10 chars
+- [ ] Consistency rate >70%
+- [ ] Derived key produces better matches than current key
+- [ ] Clear documentation of conflicts
+
+## NOTES
+- This is REVERSE ENGINEERING - working from known plaintext
+- If this produces a coherent key, we have strong validation
+- If conflicts are irreconcilable, labels may not be month names
+- Document everything - negative results are also valuable

@@ -1,0 +1,1397 @@
+{
+  "labels_extracted": [
+    {
+      "folio": "f70v2",
+      "labels": [
+        "oty",
+        "oky",
+        "ody",
+        "oty",
+        "or",
+        "okaly",
+        "otody",
+        "otald",
+        "otal",
+        "dar",
+        "okody",
+        "opys",
+        "am",
+        "chckhhy",
+        "otaly",
+        "otal",
+        "rar",
+        "otal",
+        "dy",
+        "okeoly",
+        "okydy",
+        "okees",
+        "otalalg",
+        "okasy",
+        "otar",
+        "otaral",
+        "otalar",
+        "otalam",
+        "dolaram",
+        "okaram",
+        "oteosal",
+        "salols",
+        "okaldal",
+        "ykolaiin",
+        "sar",
+        "am",
+        "otylal"
+      ],
+      "zodiac": "pisces",
+      "expected_month": "martius"
+    },
+    {
+      "folio": "f70v1",
+      "labels": [
+        "otalchy",
+        "tar",
+        "am",
+        "dy",
+        "opchey",
+        "sal",
+        "otokaiman",
+        "okalal",
+        "otyly",
+        "oalcheg",
+        "otchodals",
+        "okolshy",
+        "otshshdy",
+        "otol",
+        "ypsharal",
+        "okoly",
+        "otolaiin",
+        "oteo",
+        "alols",
+        "asaly",
+        "oteoeey",
+        "otal",
+        "okeal",
+        "ar",
+        "oteas",
+        "araydy"
+      ],
+      "zodiac": "aries",
+      "expected_month": "aprilis"
+    },
+    {
+      "folio": "f71r",
+      "labels": [
+        "oteos",
+        "arar",
+        "okldam",
+        "oteoaldy",
+        "oteolar",
+        "okeoaly",
+        "otaleky",
+        "otalsar",
+        "chsary",
+        "oteotey",
+        "sary",
+        "otalaly",
+        "otol",
+        "chdy",
+        "otoloaram",
+        "oteeol",
+        "otolchd",
+        "otal",
+        "dar"
+      ],
+      "zodiac": "aries",
+      "expected_month": "aprilis"
+    },
+    {
+      "folio": "f71v",
+      "labels": [
+        "char",
+        "orom",
+        "chfaly",
+        "okolar",
+        "otchody",
+        "olcphy",
+        "otaiin",
+        "okaraiin",
+        "okar",
+        "ar",
+        "aly",
+        "opalar",
+        "am",
+        "dan",
+        "opalor",
+        "ar",
+        "ofacfom",
+        "otalody",
+        "otalaiin",
+        "otar",
+        "shor",
+        "sholshdy"
+      ],
+      "zodiac": "taurus",
+      "expected_month": "maius"
+    },
+    {
+      "folio": "f72r1",
+      "labels": [
+        "oshodody",
+        "chdaiirsainy",
+        "oaiin",
+        "ar",
+        "ary",
+        "okalam",
+        "ytal",
+        "shda",
+        "char",
+        "alf",
+        "otaraldy",
+        "otaiin",
+        "otain",
+        "otalef",
+        "as",
+        "ainam",
+        "ochol",
+        "charam",
+        "ofaralar",
+        "otchoshy",
+        "otchdal",
+        "okeey",
+        "ary",
+        "otainy"
+      ],
+      "zodiac": "taurus",
+      "expected_month": "maius"
+    },
+    {
+      "folio": "f72r2",
+      "labels": [
+        "ofchdady",
+        "oklairdy",
+        "okaram",
+        "okairy",
+        "okeolar",
+        "otaraldy",
+        "okalar",
+        "okal",
+        "okaly",
+        "okal",
+        "okeey",
+        "ary",
+        "oteeary",
+        "otair",
+        "dy",
+        "okaircham",
+        "okeal",
+        "otarar",
+        "okaly",
+        "orary",
+        "okyd",
+        "otolam",
+        "otal",
+        "salal",
+        "okam",
+        "otalshy",
+        "okaldy",
+        "chosar",
+        "otam",
+        "ainaly",
+        "okar",
+        "cham"
+      ],
+      "zodiac": "gemini",
+      "expected_month": "iunius"
+    },
+    {
+      "folio": "f72r3",
+      "labels": [
+        "ykolairol",
+        "olkalaiin",
+        "olalsy",
+        "or",
+        "aiin",
+        "am",
+        "os",
+        "as",
+        "sheeen",
+        "otosaiin",
+        "opoiisooin",
+        "al",
+        "aes",
+        "ypaiin",
+        "aloly",
+        "oteey",
+        "daiin",
+        "oeeeodaiin",
+        "ofsholdy",
+        "opoeey",
+        "okaiin",
+        "olfsheoral",
+        "or",
+        "alkam",
+        "ytairal",
+        "oeees",
+        "aiin",
+        "ory",
+        "ochey",
+        "fydy",
+        "ofais",
+        "o",
+        "seesaly",
+        "ykairaiin",
+        "oiral",
+        "okalar",
+        "orara",
+        "oeaiin",
+        "olaikhy",
+        "oletal",
+        "opalal",
+        "yfary",
+        "osaiisal",
+        "ytoar",
+        "shor",
+        "octho",
+        "oral"
+      ],
+      "zodiac": "cancer",
+      "expected_month": "iulius"
+    },
+    {
+      "folio": "f72v3",
+      "labels": [
+        "ok",
+        "ogeom",
+        "oreeey",
+        "okam",
+        "okey",
+        "oteeeody",
+        "okyeeshy",
+        "ofaiin",
+        "okoly",
+        "otoly",
+        "ofalals",
+        "reeeos",
+        "ocfhey",
+        "daiin",
+        "chcpy",
+        "oteey",
+        "dchyr",
+        "cheolpy",
+        "okeeol",
+        "okaly",
+        "okaldy",
+        "otoly",
+        "yty",
+        "sholeey",
+        "oky",
+        "chcthhy",
+        "loly",
+        "oeemy",
+        "odair",
+        "an",
+        "okary",
+        "oecs",
+        "aiin",
+        "oteesod",
+        "epal",
+        "otaly"
+      ],
+      "zodiac": "leo",
+      "expected_month": "augustus"
+    },
+    {
+      "folio": "f72v2",
+      "labels": [
+        "oeedey",
+        "oeeo",
+        "daiin",
+        "okeoram",
+        "airolm",
+        "oshesy",
+        "okeory",
+        "cheoekcy",
+        "eeoeety",
+        "sheoeky",
+        "oteodar",
+        "ofchdysd",
+        "oeeod",
+        "yteody",
+        "okeody",
+        "okeoldy",
+        "ykeeol",
+        "opaiinar",
+        "eeeoloy",
+        "okaiin",
+        "oekeol",
+        "oeedy",
+        "opalg",
+        "okeeom",
+        "olkar",
+        "oeedaly",
+        "cheos",
+        "shs",
+        "ofcheay",
+        "yteedy",
+        "oraiin",
+        "okeo",
+        "rar"
+      ],
+      "zodiac": "virgo",
+      "expected_month": "september"
+    },
+    {
+      "folio": "f72v1",
+      "labels": [
+        "oeeoty",
+        "octhy",
+        "oteoly",
+        "okeoly",
+        "oeees",
+        "ocfshy",
+        "oees",
+        "okeeoly",
+        "odal",
+        "aiinod",
+        "odody",
+        "oteod",
+        "yteod",
+        "okchedy",
+        "okyl",
+        "ytaly",
+        "ocheos",
+        "oteofy",
+        "cheoepy",
+        "ykeedy",
+        "oeeoly",
+        "okady",
+        "okeey",
+        "oiiny",
+        "oeey",
+        "okedy",
+        "ypain",
+        "okalair",
+        "oeeody",
+        "okeol"
+      ],
+      "zodiac": "libra",
+      "expected_month": "october"
+    },
+    {
+      "folio": "f73r",
+      "labels": [
+        "otoly",
+        "chockhy",
+        "okedy",
+        "yteeody",
+        "otey",
+        "otaly",
+        "okeody",
+        "oteedyl",
+        "okesdy",
+        "okery",
+        "oksedy",
+        "ykeeory",
+        "oteeosy",
+        "shekal",
+        "oteedyg",
+        "okedal",
+        "chdy",
+        "dalshey",
+        "opaiin",
+        "okeos",
+        "okeos",
+        "okary",
+        "otad",
+        "ootady",
+        "oky",
+        "chefy",
+        "otal",
+        "shek",
+        "ar",
+        "kar"
+      ],
+      "zodiac": "scorpio",
+      "expected_month": "november"
+    },
+    {
+      "folio": "f73v",
+      "labels": [
+        "okol",
+        "oteody",
+        "oteody",
+        "cheody",
+        "okeody",
+        "sheol",
+        "odees",
+        "ecsy",
+        "ykeor",
+        "opals",
+        "ykeody",
+        "okeody",
+        "ypaiin",
+        "yfaiin",
+        "y",
+        "ofcheesy",
+        "oraiiny",
+        "ykeeody",
+        "okeos",
+        "ykeear",
+        "qokeoly",
+        "ched",
+        "oky",
+        "oiair",
+        "okal",
+        "ykey",
+        "ykeeo",
+        "okeod",
+        "ykey",
+        "ypal",
+        "otedy"
+      ],
+      "zodiac": "sagittarius",
+      "expected_month": "december"
+    }
+  ],
+  "month_candidates": [
+    {
+      "folio": "f70v1",
+      "zodiac": "aries",
+      "voynich": "opchey",
+      "decoded": "apcrii",
+      "expected": "aprilis",
+      "score": 0.829,
+      "length_diff": 1
+    },
+    {
+      "folio": "f71r",
+      "zodiac": "aries",
+      "voynich": "oteolar",
+      "decoded": "atiale",
+      "expected": "aprile",
+      "score": 0.8,
+      "length_diff": 1
+    },
+    {
+      "folio": "f70v1",
+      "zodiac": "aries",
+      "voynich": "okeal",
+      "decoded": "aniel",
+      "expected": "april",
+      "score": 0.65,
+      "length_diff": 0
+    },
+    {
+      "folio": "f70v1",
+      "zodiac": "aries",
+      "voynich": "oalcheg",
+      "decoded": "aelcrig",
+      "expected": "aprilis",
+      "score": 0.586,
+      "length_diff": 0
+    },
+    {
+      "folio": "f71r",
+      "zodiac": "aries",
+      "voynich": "otalsar",
+      "decoded": "atelxe",
+      "expected": "aprile",
+      "score": 0.583,
+      "length_diff": 1
+    },
+    {
+      "folio": "f71r",
+      "zodiac": "aries",
+      "voynich": "oteeol",
+      "decoded": "atiial",
+      "expected": "april",
+      "score": 0.583,
+      "length_diff": 1
+    },
+    {
+      "folio": "f72r3",
+      "zodiac": "cancer",
+      "voynich": "yfary",
+      "decoded": "ifei",
+      "expected": "iulio",
+      "score": 0.55,
+      "length_diff": 0
+    },
+    {
+      "folio": "f70v1",
+      "zodiac": "aries",
+      "voynich": "ypsharal",
+      "decoded": "ipxreel",
+      "expected": "aprile",
+      "score": 0.536,
+      "length_diff": 2
+    },
+    {
+      "folio": "f72r3",
+      "zodiac": "cancer",
+      "voynich": "ytairal",
+      "decoded": "iteiel",
+      "expected": "iulius",
+      "score": 0.533,
+      "length_diff": 1
+    },
+    {
+      "folio": "f70v1",
+      "zodiac": "aries",
+      "voynich": "otolaiin",
+      "decoded": "ataleiin",
+      "expected": "aprilis",
+      "score": 0.5,
+      "length_diff": 1
+    },
+    {
+      "folio": "f71r",
+      "zodiac": "aries",
+      "voynich": "otoloaram",
+      "decoded": "atalaeem",
+      "expected": "aprile",
+      "score": 0.5,
+      "length_diff": 3
+    },
+    {
+      "folio": "f70v1",
+      "zodiac": "aries",
+      "voynich": "otalchy",
+      "decoded": "atelcri",
+      "expected": "aprile",
+      "score": 0.493,
+      "length_diff": 1
+    },
+    {
+      "folio": "f70v1",
+      "zodiac": "aries",
+      "voynich": "oteoeey",
+      "decoded": "atiaiii",
+      "expected": "aprilis",
+      "score": 0.486,
+      "length_diff": 0
+    },
+    {
+      "folio": "f71r",
+      "zodiac": "aries",
+      "voynich": "oteotey",
+      "decoded": "atiatii",
+      "expected": "aprilis",
+      "score": 0.486,
+      "length_diff": 0
+    },
+    {
+      "folio": "f72r3",
+      "zodiac": "cancer",
+      "voynich": "ypaiin",
+      "decoded": "ipeiin",
+      "expected": "iulius",
+      "score": 0.483,
+      "length_diff": 0
+    },
+    {
+      "folio": "f70v1",
+      "zodiac": "aries",
+      "voynich": "otyly",
+      "decoded": "atili",
+      "expected": "april",
+      "score": 0.45,
+      "length_diff": 0
+    },
+    {
+      "folio": "f70v1",
+      "zodiac": "aries",
+      "voynich": "okoly",
+      "decoded": "anali",
+      "expected": "april",
+      "score": 0.45,
+      "length_diff": 0
+    },
+    {
+      "folio": "f72v1",
+      "zodiac": "libra",
+      "voynich": "octhy",
+      "decoded": "actri",
+      "expected": "octobris",
+      "score": 0.45,
+      "length_diff": 3
+    },
+    {
+      "folio": "f70v1",
+      "zodiac": "aries",
+      "voynich": "okolshy",
+      "decoded": "analxri",
+      "expected": "aprilis",
+      "score": 0.443,
+      "length_diff": 0
+    },
+    {
+      "folio": "f71r",
+      "zodiac": "aries",
+      "voynich": "okeoaly",
+      "decoded": "aniaeli",
+      "expected": "aprile",
+      "score": 0.443,
+      "length_diff": 1
+    },
+    {
+      "folio": "f71r",
+      "zodiac": "aries",
+      "voynich": "otaleky",
+      "decoded": "atelini",
+      "expected": "aprile",
+      "score": 0.443,
+      "length_diff": 1
+    },
+    {
+      "folio": "f71r",
+      "zodiac": "aries",
+      "voynich": "otalaly",
+      "decoded": "ateleli",
+      "expected": "aprile",
+      "score": 0.443,
+      "length_diff": 1
+    },
+    {
+      "folio": "f71v",
+      "zodiac": "taurus",
+      "voynich": "orom",
+      "decoded": "aam",
+      "expected": "may",
+      "score": 0.433,
+      "length_diff": 1
+    },
+    {
+      "folio": "f72r2",
+      "zodiac": "gemini",
+      "voynich": "ainaly",
+      "decoded": "eineli",
+      "expected": "june",
+      "score": 0.433,
+      "length_diff": 2
+    },
+    {
+      "folio": "f71r",
+      "zodiac": "aries",
+      "voynich": "oteoaldy",
+      "decoded": "atiaelvi",
+      "expected": "aprile",
+      "score": 0.425,
+      "length_diff": 2
+    },
+    {
+      "folio": "f70v1",
+      "zodiac": "aries",
+      "voynich": "otokaiman",
+      "decoded": "ataneimen",
+      "expected": "aprilis",
+      "score": 0.422,
+      "length_diff": 2
+    },
+    {
+      "folio": "f70v1",
+      "zodiac": "aries",
+      "voynich": "okalal",
+      "decoded": "anelel",
+      "expected": "aprile",
+      "score": 0.417,
+      "length_diff": 0
+    },
+    {
+      "folio": "f70v1",
+      "zodiac": "aries",
+      "voynich": "otal",
+      "decoded": "atel",
+      "expected": "aprile",
+      "score": 0.417,
+      "length_diff": 2
+    },
+    {
+      "folio": "f70v1",
+      "zodiac": "aries",
+      "voynich": "oteas",
+      "decoded": "atiex",
+      "expected": "aprile",
+      "score": 0.417,
+      "length_diff": 1
+    },
+    {
+      "folio": "f71r",
+      "zodiac": "aries",
+      "voynich": "okldam",
+      "decoded": "anlvem",
+      "expected": "aprile",
+      "score": 0.417,
+      "length_diff": 0
+    }
+  ],
+  "character_derivations": [
+    {
+      "voynich": "o",
+      "derived_latin": "a",
+      "confidence": 0.59,
+      "occurrences": 29
+    },
+    {
+      "voynich": "p",
+      "derived_latin": "p",
+      "confidence": 0.67,
+      "occurrences": 2
+    },
+    {
+      "voynich": "c",
+      "derived_latin": "r",
+      "confidence": 0.4,
+      "occurrences": 2
+    },
+    {
+      "voynich": "h",
+      "derived_latin": "i",
+      "confidence": 0.57,
+      "occurrences": 4
+    },
+    {
+      "voynich": "e",
+      "derived_latin": "r",
+      "confidence": 0.59,
+      "occurrences": 10
+    },
+    {
+      "voynich": "y",
+      "derived_latin": "i",
+      "confidence": 0.36,
+      "occurrences": 5
+    },
+    {
+      "voynich": "t",
+      "derived_latin": "p",
+      "confidence": 0.88,
+      "occurrences": 21
+    },
+    {
+      "voynich": "l",
+      "derived_latin": "i",
+      "confidence": 0.64,
+      "occurrences": 14
+    },
+    {
+      "voynich": "a",
+      "derived_latin": "l",
+      "confidence": 0.41,
+      "occurrences": 12
+    },
+    {
+      "voynich": "k",
+      "derived_latin": "p",
+      "confidence": 0.67,
+      "occurrences": 6
+    },
+    {
+      "voynich": "g",
+      "derived_latin": "s",
+      "confidence": 1.0,
+      "occurrences": 1
+    },
+    {
+      "voynich": "s",
+      "derived_latin": "l",
+      "confidence": 0.8,
+      "occurrences": 4
+    },
+    {
+      "voynich": "f",
+      "derived_latin": "u",
+      "confidence": 1.0,
+      "occurrences": 1
+    },
+    {
+      "voynich": "r",
+      "derived_latin": "u",
+      "confidence": 0.4,
+      "occurrences": 2
+    },
+    {
+      "voynich": "i",
+      "derived_latin": "i",
+      "confidence": 0.62,
+      "occurrences": 5
+    },
+    {
+      "voynich": "n",
+      "derived_latin": "s",
+      "confidence": 0.5,
+      "occurrences": 1
+    },
+    {
+      "voynich": "m",
+      "derived_latin": "s",
+      "confidence": 0.5,
+      "occurrences": 1
+    },
+    {
+      "voynich": "d",
+      "derived_latin": "i",
+      "confidence": 0.5,
+      "occurrences": 1
+    }
+  ],
+  "derived_key": {
+    "o": "a",
+    "p": "p",
+    "c": "r",
+    "h": "i",
+    "e": "r",
+    "y": "i",
+    "t": "p",
+    "l": "i",
+    "a": "l",
+    "k": "p",
+    "g": "s",
+    "s": "l",
+    "f": "u",
+    "r": "u",
+    "i": "i",
+    "n": "s",
+    "m": "s",
+    "d": "i"
+  },
+  "key_confidence": 0.617,
+  "conflicts": [
+    {
+      "char": "o",
+      "values": {
+        "a": 29,
+        "i": 7,
+        "l": 3,
+        "r": 7,
+        "o": 1,
+        "m": 1,
+        "y": 1
+      },
+      "contexts": [
+        "opchey",
+        "oteolar",
+        "oteolar",
+        "okeal",
+        "oalcheg"
+      ]
+    },
+    {
+      "char": "p",
+      "values": {
+        "p": 2,
+        "u": 1
+      },
+      "contexts": [
+        "opchey",
+        "ypsharal",
+        "ypaiin"
+      ]
+    },
+    {
+      "char": "c",
+      "values": {
+        "r": 2,
+        "i": 1,
+        "l": 1,
+        "c": 1
+      },
+      "contexts": [
+        "opchey",
+        "oalcheg",
+        "otalchy",
+        "octhy",
+        "otchodals"
+      ]
+    },
+    {
+      "char": "h",
+      "values": {
+        "i": 4,
+        "l": 1,
+        "e": 1,
+        "o": 1
+      },
+      "contexts": [
+        "opchey",
+        "oalcheg",
+        "ypsharal",
+        "otalchy",
+        "octhy"
+      ]
+    },
+    {
+      "char": "e",
+      "values": {
+        "l": 3,
+        "r": 10,
+        "i": 4
+      },
+      "contexts": [
+        "opchey",
+        "oteolar",
+        "okeal",
+        "oalcheg",
+        "oteeol"
+      ]
+    },
+    {
+      "char": "y",
+      "values": {
+        "i": 5,
+        "o": 1,
+        "a": 1,
+        "s": 3,
+        "r": 1,
+        "l": 2,
+        "b": 1
+      },
+      "contexts": [
+        "opchey",
+        "yfary",
+        "yfary",
+        "ypsharal",
+        "ytairal"
+      ]
+    },
+    {
+      "char": "t",
+      "values": {
+        "p": 21,
+        "u": 1,
+        "l": 1,
+        "t": 1
+      },
+      "contexts": [
+        "oteolar",
+        "otalsar",
+        "oteeol",
+        "ytairal",
+        "otolaiin"
+      ]
+    },
+    {
+      "char": "l",
+      "values": {
+        "l": 2,
+        "r": 2,
+        "i": 14,
+        "e": 4
+      },
+      "contexts": [
+        "oteolar",
+        "okeal",
+        "oalcheg",
+        "otalsar",
+        "otolaiin"
+      ]
+    },
+    {
+      "char": "a",
+      "values": {
+        "e": 4,
+        "i": 2,
+        "p": 1,
+        "r": 7,
+        "l": 12,
+        "s": 2,
+        "j": 1
+      },
+      "contexts": [
+        "oteolar",
+        "okeal",
+        "oalcheg",
+        "otalsar",
+        "otalsar"
+      ]
+    },
+    {
+      "char": "k",
+      "values": {
+        "p": 6,
+        "e": 1,
+        "i": 1,
+        "u": 1
+      },
+      "contexts": [
+        "okeal",
+        "okoly",
+        "okolshy",
+        "okeoaly",
+        "otaleky"
+      ]
+    },
+    {
+      "char": "s",
+      "values": {
+        "l": 4,
+        "r": 1
+      },
+      "contexts": [
+        "otalsar",
+        "ypsharal",
+        "okolshy",
+        "oteas",
+        "oteos"
+      ]
+    },
+    {
+      "char": "r",
+      "values": {
+        "i": 1,
+        "e": 1,
+        "u": 2,
+        "a": 1
+      },
+      "contexts": [
+        "yfary",
+        "ypsharal",
+        "ytairal",
+        "orom",
+        "ykairaiin"
+      ]
+    },
+    {
+      "char": "i",
+      "values": {
+        "i": 5,
+        "s": 1,
+        "u": 2
+      },
+      "contexts": [
+        "ytairal",
+        "otolaiin",
+        "otolaiin",
+        "ypaiin",
+        "ypaiin"
+      ]
+    },
+    {
+      "char": "n",
+      "values": {
+        "s": 1,
+        "n": 1
+      },
+      "contexts": [
+        "ypaiin",
+        "ainaly"
+      ]
+    },
+    {
+      "char": "m",
+      "values": {
+        "s": 1,
+        "e": 1
+      },
+      "contexts": [
+        "otokaiman",
+        "okldam"
+      ]
+    },
+    {
+      "char": "d",
+      "values": {
+        "i": 1,
+        "e": 1
+      },
+      "contexts": [
+        "okldam",
+        "otchodals"
+      ]
+    }
+  ],
+  "validation_results": {
+    "average_improvement": -0.039,
+    "samples": [
+      {
+        "voynich": "opchey",
+        "expected": "aprilis",
+        "old_decoded": "apcrii",
+        "new_decoded": "apriri",
+        "old_score": 0.829,
+        "new_score": 0.714,
+        "improvement": -0.114
+      },
+      {
+        "voynich": "oteolar",
+        "expected": "aprile",
+        "old_decoded": "atiale",
+        "new_decoded": "aprailu",
+        "old_score": 0.8,
+        "new_score": 0.429,
+        "improvement": -0.371
+      },
+      {
+        "voynich": "okeal",
+        "expected": "april",
+        "old_decoded": "aniel",
+        "new_decoded": "aprli",
+        "old_score": 0.65,
+        "new_score": 0.6,
+        "improvement": -0.05
+      },
+      {
+        "voynich": "oalcheg",
+        "expected": "aprilis",
+        "old_decoded": "aelcrig",
+        "new_decoded": "alirirs",
+        "old_score": 0.586,
+        "new_score": 0.286,
+        "improvement": -0.3
+      },
+      {
+        "voynich": "otalsar",
+        "expected": "aprile",
+        "old_decoded": "atelxe",
+        "new_decoded": "aplillu",
+        "old_score": 0.583,
+        "new_score": 0.571,
+        "improvement": -0.012
+      },
+      {
+        "voynich": "oteeol",
+        "expected": "april",
+        "old_decoded": "atiial",
+        "new_decoded": "aprrai",
+        "old_score": 0.583,
+        "new_score": 0.5,
+        "improvement": -0.083
+      },
+      {
+        "voynich": "yfary",
+        "expected": "iulio",
+        "old_decoded": "ifei",
+        "new_decoded": "iului",
+        "old_score": 0.55,
+        "new_score": 0.6,
+        "improvement": 0.05
+      },
+      {
+        "voynich": "ypsharal",
+        "expected": "aprile",
+        "old_decoded": "ipxreel",
+        "new_decoded": "ipliluli",
+        "old_score": 0.536,
+        "new_score": 0.375,
+        "improvement": -0.161
+      },
+      {
+        "voynich": "ytairal",
+        "expected": "iulius",
+        "old_decoded": "iteiel",
+        "new_decoded": "ipliuli",
+        "old_score": 0.533,
+        "new_score": 0.571,
+        "improvement": 0.038
+      },
+      {
+        "voynich": "otolaiin",
+        "expected": "aprilis",
+        "old_decoded": "ataleiin",
+        "new_decoded": "apailiis",
+        "old_score": 0.5,
+        "new_score": 0.625,
+        "improvement": 0.125
+      },
+      {
+        "voynich": "otoloaram",
+        "expected": "aprile",
+        "old_decoded": "atalaeem",
+        "new_decoded": "apaialuls",
+        "old_score": 0.5,
+        "new_score": 0.333,
+        "improvement": -0.167
+      },
+      {
+        "voynich": "otalchy",
+        "expected": "aprile",
+        "old_decoded": "atelcri",
+        "new_decoded": "aplirii",
+        "old_score": 0.493,
+        "new_score": 0.429,
+        "improvement": -0.064
+      },
+      {
+        "voynich": "oteoeey",
+        "expected": "aprilis",
+        "old_decoded": "atiaiii",
+        "new_decoded": "aprarri",
+        "old_score": 0.486,
+        "new_score": 0.429,
+        "improvement": -0.057
+      },
+      {
+        "voynich": "oteotey",
+        "expected": "aprilis",
+        "old_decoded": "atiatii",
+        "new_decoded": "aprapri",
+        "old_score": 0.486,
+        "new_score": 0.429,
+        "improvement": -0.057
+      },
+      {
+        "voynich": "ypaiin",
+        "expected": "iulius",
+        "old_decoded": "ipeiin",
+        "new_decoded": "ipliis",
+        "old_score": 0.483,
+        "new_score": 0.667,
+        "improvement": 0.183
+      },
+      {
+        "voynich": "otyly",
+        "expected": "april",
+        "old_decoded": "atili",
+        "new_decoded": "apiii",
+        "old_score": 0.45,
+        "new_score": 0.6,
+        "improvement": 0.15
+      },
+      {
+        "voynich": "okoly",
+        "expected": "april",
+        "old_decoded": "anali",
+        "new_decoded": "apaii",
+        "old_score": 0.45,
+        "new_score": 0.6,
+        "improvement": 0.15
+      },
+      {
+        "voynich": "octhy",
+        "expected": "octobris",
+        "old_decoded": "actri",
+        "new_decoded": "arpii",
+        "old_score": 0.45,
+        "new_score": 0.0,
+        "improvement": -0.45
+      },
+      {
+        "voynich": "okolshy",
+        "expected": "aprilis",
+        "old_decoded": "analxri",
+        "new_decoded": "apailii",
+        "old_score": 0.443,
+        "new_score": 0.714,
+        "improvement": 0.271
+      },
+      {
+        "voynich": "okeoaly",
+        "expected": "aprile",
+        "old_decoded": "aniaeli",
+        "new_decoded": "apralii",
+        "old_score": 0.443,
+        "new_score": 0.571,
+        "improvement": 0.129
+      }
+    ]
+  },
+  "comparison_with_known": [
+    {
+      "char": "o",
+      "derived": "a",
+      "known": "a",
+      "match": true
+    },
+    {
+      "char": "p",
+      "derived": "p",
+      "known": "p",
+      "match": true
+    },
+    {
+      "char": "c",
+      "derived": "r",
+      "known": "c",
+      "match": false
+    },
+    {
+      "char": "h",
+      "derived": "i",
+      "known": "r",
+      "match": false
+    },
+    {
+      "char": "e",
+      "derived": "r",
+      "known": "i",
+      "match": false
+    },
+    {
+      "char": "y",
+      "derived": "i",
+      "known": "i",
+      "match": true
+    },
+    {
+      "char": "t",
+      "derived": "p",
+      "known": "t",
+      "match": false
+    },
+    {
+      "char": "l",
+      "derived": "i",
+      "known": "l",
+      "match": false
+    },
+    {
+      "char": "a",
+      "derived": "l",
+      "known": "e",
+      "match": false
+    },
+    {
+      "char": "k",
+      "derived": "p",
+      "known": "n",
+      "match": false
+    },
+    {
+      "char": "g",
+      "derived": "s",
+      "known": "g",
+      "match": false
+    },
+    {
+      "char": "s",
+      "derived": "l",
+      "known": "x",
+      "match": false
+    },
+    {
+      "char": "f",
+      "derived": "u",
+      "known": "f",
+      "match": false
+    },
+    {
+      "char": "r",
+      "derived": "u",
+      "known": "?",
+      "match": false
+    },
+    {
+      "char": "i",
+      "derived": "i",
+      "known": "i",
+      "match": true
+    },
+    {
+      "char": "n",
+      "derived": "s",
+      "known": "n",
+      "match": false
+    },
+    {
+      "char": "m",
+      "derived": "s",
+      "known": "m",
+      "match": false
+    },
+    {
+      "char": "d",
+      "derived": "i",
+      "known": "v",
+      "match": false
+    }
+  ]
+}

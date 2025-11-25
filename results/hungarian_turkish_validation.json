@@ -1,0 +1,678 @@
+{
+  "hungarian": {
+    "vowel_harmony_test": {
+      "words_tested": 17461,
+      "harmony_compliant": 4635,
+      "mixed_vowels": 12826,
+      "percentage": 0.265,
+      "verdict": "ABSENT",
+      "examples": [
+        {
+          "word": "Akam",
+          "pattern": [
+            "front",
+            "front"
+          ],
+          "harmonic": true
+        },
+        {
+          "word": "hacy",
+          "pattern": [
+            "front",
+            "front"
+          ],
+          "harmonic": true
+        },
+        {
+          "word": "8aN",
+          "pattern": [
+            "front",
+            "front"
+          ],
+          "harmonic": true
+        },
+        {
+          "word": "okcc9",
+          "pattern": [
+            "back",
+            "front",
+            "front"
+          ],
+          "harmonic": false
+        },
+        {
+          "word": "okcoy",
+          "pattern": [
+            "back",
+            "front",
+            "back"
+          ],
+          "harmonic": false
+        },
+        {
+          "word": "oeok9",
+          "pattern": [
+            "back",
+            "back"
+          ],
+          "harmonic": true
+        },
+        {
+          "word": "èAay",
+          "pattern": [
+            "front",
+            "front"
+          ],
+          "harmonic": true
+        },
+        {
+          "word": "oham",
+          "pattern": [
+            "back",
+            "front"
+          ],
+          "harmonic": false
+        },
+        {
+          "word": "ohaN",
+          "pattern": [
+            "back",
+            "front",
+            "front"
+          ],
+          "harmonic": false
+        },
+        {
+          "word": "1cay",
+          "pattern": [
+            "front",
+            "front"
+          ],
+          "harmonic": true
+        }
+      ]
+    },
+    "all_vowel_mappings": {
+      "v1_turkish_style": {
+        "words_tested": 17648,
+        "harmony_compliant": 6844,
+        "mixed_vowels": 10804,
+        "percentage": 0.388,
+        "verdict": "ABSENT",
+        "examples": [
+          {
+            "word": "Akam",
+            "pattern": [
+              "back",
+              "back"
+            ],
+            "harmonic": true
+          },
+          {
+            "word": "hacy",
+            "pattern": [
+              "back",
+              "front"
+            ],
+            "harmonic": false
+          },
+          {
+            "word": "Ais",
+            "pattern": [
+              "back",
+              "front"
+            ],
+            "harmonic": false
+          },
+          {
+            "word": "8aN",
+            "pattern": [
+              "back",
+              "front"
+            ],
+            "harmonic": false
+          },
+          {
+            "word": "s9aIy",
+            "pattern": [
+              "back",
+              "front"
+            ],
+            "harmonic": false
+          },
+          {
+            "word": "okcc9",
+            "pattern": [
+              "back",
+              "front",
+              "front"
+            ],
+            "harmonic": false
+          },
+          {
+            "word": "okcoy",
+            "pattern": [
+              "back",
+              "front",
+              "back"
+            ],
+            "harmonic": false
+          },
+          {
+            "word": "oeok9",
+            "pattern": [
+              "back",
+              "back"
+            ],
+            "harmonic": true
+          },
+          {
+            "word": "èAay",
+            "pattern": [
+              "back",
+              "back"
+            ],
+            "harmonic": true
+          },
+          {
+            "word": "oham",
+            "pattern": [
+              "back",
+              "back"
+            ],
+            "harmonic": true
+          }
+        ]
+      },
+      "v2_hungarian_style": {
+        "words_tested": 17461,
+        "harmony_compliant": 4635,
+        "mixed_vowels": 12826,
+        "percentage": 0.265,
+        "verdict": "ABSENT",
+        "examples": [
+          {
+            "word": "Akam",
+            "pattern": [
+              "front",
+              "front"
+            ],
+            "harmonic": true
+          },
+          {
+            "word": "hacy",
+            "pattern": [
+              "front",
+              "front"
+            ],
+            "harmonic": true
+          },
+          {
+            "word": "8aN",
+            "pattern": [
+              "front",
+              "front"
+            ],
+            "harmonic": true
+          },
+          {
+            "word": "okcc9",
+            "pattern": [
+              "back",
+              "front",
+              "front"
+            ],
+            "harmonic": false
+          },
+          {
+            "word": "okcoy",
+            "pattern": [
+              "back",
+              "front",
+              "back"
+            ],
+            "harmonic": false
+          },
+          {
+            "word": "oeok9",
+            "pattern": [
+              "back",
+              "back"
+            ],
+            "harmonic": true
+          },
+          {
+            "word": "èAay",
+            "pattern": [
+              "front",
+              "front"
+            ],
+            "harmonic": true
+          },
+          {
+            "word": "oham",
+            "pattern": [
+              "back",
+              "front"
+            ],
+            "harmonic": false
+          },
+          {
+            "word": "ohaN",
+            "pattern": [
+              "back",
+              "front",
+              "front"
+            ],
+            "harmonic": false
+          },
+          {
+            "word": "1cay",
+            "pattern": [
+              "front",
+              "front"
+            ],
+            "harmonic": true
+          }
+        ]
+      },
+      "v3_minimal": {
+        "words_tested": 10471,
+        "harmony_compliant": 2669,
+        "mixed_vowels": 7802,
+        "percentage": 0.255,
+        "verdict": "ABSENT",
+        "examples": [
+          {
+            "word": "okcc9",
+            "pattern": [
+              "back",
+              "front",
+              "front"
+            ],
+            "harmonic": false
+          },
+          {
+            "word": "okcoy",
+            "pattern": [
+              "back",
+              "front",
+              "back"
+            ],
+            "harmonic": false
+          },
+          {
+            "word": "oeok9",
+            "pattern": [
+              "back",
+              "back"
+            ],
+            "harmonic": true
+          },
+          {
+            "word": "oh1o9",
+            "pattern": [
+              "back",
+              "back"
+            ],
+            "harmonic": true
+          },
+          {
+            "word": "ok1oe",
+            "pattern": [
+              "back",
+              "back"
+            ],
+            "harmonic": true
+          },
+          {
+            "word": "kco8",
+            "pattern": [
+              "front",
+              "back"
+            ],
+            "harmonic": false
+          },
+          {
+            "word": "okcoe",
+            "pattern": [
+              "back",
+              "front",
+              "back"
+            ],
+            "harmonic": false
+          },
+          {
+            "word": "hccap",
+            "pattern": [
+              "front",
+              "front"
+            ],
+            "harmonic": true
+          },
+          {
+            "word": "cog2oe",
+            "pattern": [
+              "front",
+              "back",
+              "back"
+            ],
+            "harmonic": false
+          },
+          {
+            "word": "ho82c9",
+            "pattern": [
+              "back",
+              "front"
+            ],
+            "harmonic": false
+          }
+        ]
+      }
+    },
+    "plant_name_tests": [
+      {
+        "plant": "cornflower",
+        "hungarian_name": "búzavirág",
+        "voynich_name": "f2o89",
+        "voynich_root": "f2o8",
+        "match_score": 0,
+        "all_names_tested": [
+          "búzavirág",
+          "kék búza",
+          "kék virág"
+        ]
+      },
+      {
+        "plant": "hellebore",
+        "hungarian_name": "hunyor",
+        "voynich_name": "h2o89",
+        "voynich_root": "h2o8",
+        "match_score": 0.27,
+        "all_names_tested": [
+          "hunyor",
+          "fekete hunyor",
+          "karácsonyi rózsa"
+        ]
+      },
+      {
+        "plant": "poppy",
+        "hungarian_name": "álomhozó",
+        "voynich_name": "foay",
+        "voynich_root": "foay",
+        "match_score": 0.09,
+        "all_names_tested": [
+          "mák",
+          "álomhozó",
+          "mákvirág"
+        ]
+      },
+      {
+        "plant": "cyclamen",
+        "hungarian_name": "ciklámen",
+        "voynich_name": "hoom",
+        "voynich_root": "hoom",
+        "match_score": 0.15,
+        "all_names_tested": [
+          "ciklámen",
+          "disznókenyér",
+          "kerek levelű"
+        ]
+      },
+      {
+        "plant": "castor",
+        "hungarian_name": "ricinusfa",
+        "voynich_name": "goCam",
+        "voynich_root": "gocam",
+        "match_score": 0.22,
+        "all_names_tested": [
+          "ricinusfa",
+          "bab",
+          "babfa"
+        ]
+      }
+    ],
+    "suffix_mapping": {
+      "voynich_top_suffixes": {
+        "9": 0.3885228535255665,
+        "e": 0.16016846239309615,
+        "y": 0.1345373743637444,
+        "89": 0.11647675890757822,
+        "m": 0.1052114823140325,
+        "am": 0.07924450301010258,
+        "oe": 0.07490375423093817,
+        "c9": 0.06632560783401803,
+        "ay": 0.059246053277523705,
+        "ae": 0.04754153424799111
+      },
+      "has_vowel_alternation": false,
+      "notes": "Voynich shows -9 (37%) as dominant ending, -89 (12%), -am (9%)"
+    },
+    "article_pattern": {
+      "prefix_4o_count": 5238,
+      "prefix_4o_percentage": 13.5,
+      "matches_hungarian_article": true,
+      "matches_turkish_no_article": false,
+      "top_prefixes": {
+        "4o": 5238,
+        "4oh": 3010,
+        "1c": 2716,
+        "ok": 2514,
+        "oh": 2431,
+        "8a": 1995,
+        "1o": 1723,
+        "oe": 1674,
+        "2c": 1229,
+        "4ok": 1138
+      },
+      "interpretation": "HIGH prefix rate (13%) suggests article-like function (Hungarian) rather than Turkish (no articles)"
+    },
+    "overall_score": 0.244
+  },
+  "turkish": {
+    "vowel_harmony_test": {
+      "words_tested": 17648,
+      "harmony_compliant": 6844,
+      "mixed_vowels": 10804,
+      "percentage": 0.388,
+      "verdict": "ABSENT",
+      "examples": [
+        {
+          "word": "Akam",
+          "pattern": [
+            "back",
+            "back"
+          ],
+          "harmonic": true
+        },
+        {
+          "word": "hacy",
+          "pattern": [
+            "back",
+            "front"
+          ],
+          "harmonic": false
+        },
+        {
+          "word": "Ais",
+          "pattern": [
+            "back",
+            "front"
+          ],
+          "harmonic": false
+        },
+        {
+          "word": "8aN",
+          "pattern": [
+            "back",
+            "front"
+          ],
+          "harmonic": false
+        },
+        {
+          "word": "s9aIy",
+          "pattern": [
+            "back",
+            "front"
+          ],
+          "harmonic": false
+        },
+        {
+          "word": "okcc9",
+          "pattern": [
+            "back",
+            "front",
+            "front"
+          ],
+          "harmonic": false
+        },
+        {
+          "word": "okcoy",
+          "pattern": [
+            "back",
+            "front",
+            "back"
+          ],
+          "harmonic": false
+        },
+        {
+          "word": "oeok9",
+          "pattern": [
+            "back",
+            "back"
+          ],
+          "harmonic": true
+        },
+        {
+          "word": "èAay",
+          "pattern": [
+            "back",
+            "back"
+          ],
+          "harmonic": true
+        },
+        {
+          "word": "oham",
+          "pattern": [
+            "back",
+            "back"
+          ],
+          "harmonic": true
+        }
+      ]
+    },
+    "plant_name_tests": [
+      {
+        "plant": "cornflower",
+        "turkish_name": "mavi kantaron",
+        "voynich_name": "f2o89",
+        "voynich_root": "f2o8",
+        "match_score": 0.02,
+        "all_names_tested": [
+          "peygamber çiçeği",
+          "mavi kantaron",
+          "gökyüzü çiçeği"
+        ]
+      },
+      {
+        "plant": "hellebore",
+        "turkish_name": "karaot",
+        "voynich_name": "h2o89",
+        "voynich_root": "h2o8",
+        "match_score": 0.32,
+        "all_names_tested": [
+          "çöpleme",
+          "karaot",
+          "kara ot"
+        ]
+      },
+      {
+        "plant": "poppy",
+        "turkish_name": "afyon",
+        "voynich_name": "foay",
+        "voynich_root": "foay",
+        "match_score": 0.72,
+        "all_names_tested": [
+          "gelincik",
+          "haşhaş",
+          "afyon"
+        ]
+      },
+      {
+        "plant": "cyclamen",
+        "turkish_name": "sıklamen",
+        "voynich_name": "hoom",
+        "voynich_root": "hoom",
+        "match_score": 0.15,
+        "all_names_tested": [
+          "sıklamen",
+          "tavşankulağı",
+          "domuz ekmeği"
+        ]
+      },
+      {
+        "plant": "castor",
+        "turkish_name": "hint yağı",
+        "voynich_name": "goCam",
+        "voynich_root": "gocam",
+        "match_score": 0.17,
+        "all_names_tested": [
+          "hint yağı",
+          "kerçi",
+          "rişin"
+        ]
+      }
+    ],
+    "suffix_mapping": {
+      "voynich_top_suffixes": {
+        "9": 0.3885228535255665,
+        "e": 0.16016846239309615,
+        "y": 0.1345373743637444,
+        "89": 0.11647675890757822,
+        "m": 0.1052114823140325,
+        "am": 0.07924450301010258,
+        "oe": 0.07490375423093817,
+        "c9": 0.06632560783401803,
+        "ay": 0.059246053277523705,
+        "ae": 0.04754153424799111
+      },
+      "has_vowel_alternation": false,
+      "notes": "Voynich shows -9 (37%) as dominant ending, -89 (12%), -am (9%)"
+    },
+    "ardic_validation": {
+      "claims_tested": 2,
+      "claims_verified": 0,
+      "details": [
+        {
+          "month": "october",
+          "ardic_voynich": "ogzaf",
+          "ardic_turkic": "yuzai",
+          "translation_claim": "autumn moon",
+          "found_matches": [],
+          "verdict": "NOT_FOUND"
+        },
+        {
+          "month": "november",
+          "ardic_voynich": "sepel",
+          "ardic_turkic": "seper",
+          "translation_claim": "rain moon",
+          "found_matches": [],
+          "verdict": "NOT_FOUND"
+        }
+      ],
+      "verdict": "NOT_SUPPORTED"
+    },
+    "overall_score": 0.083
+  },
+  "comparison": {
+    "hungarian_score": 0.244,
+    "turkish_score": 0.083,
+    "better_candidate": "HUNGARIAN",
+    "confidence": 0.32,
+    "key_differentiators": [
+      "'4o' prefix (13%) supports Hungarian article pattern",
+      "No vowel harmony - argues AGAINST both languages",
+      "Ardıç claims: NOT verified in zodiac sections"
+    ]
+  }
+}

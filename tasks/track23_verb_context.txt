@@ -1,0 +1,131 @@
+# Track 23: Verb Discovery by Context
+
+## OBJECTIVE
+Find Latin verbs by analyzing word position and context rather than phonetic matching.
+
+## BACKGROUND
+Track 19 found 0 high-confidence verb matches using phonetic prediction. This suggests verbs may:
+1. Use different encoding than nouns
+2. Be heavily abbreviated
+3. Appear in specific positions (Latin verbs often sentence-final)
+
+New approach: Find verbs by WHERE they appear, not WHAT they look like.
+
+## INPUT FILES
+- `voynich_raw.txt` - Full transcription
+- `results/botanical_decoded.json` - Decoded words
+- `results/phrase_patterns.json` - Phrase patterns
+- `results/latin_verbs.json` - Previous verb hunt results
+- `results/sentence_structure.json` - From Track 22 (if available)
+
+## TASKS
+
+### 1. Position Analysis
+Latin verbs typically appear:
+- End of sentence/clause
+- After subject noun
+- Before "de + noun" phrases (in instructions)
+
+Find words that consistently appear in these positions.
+
+### 2. Medieval Herbal Verb Patterns
+Common verb structures in herbals:
+- IMPERATIVE: "Recipe" (take), "Misce" (mix), "Coque" (cook)
+- INDICATIVE: "Valet" (is effective), "Sanat" (heals), "Curat" (cures)
+- PASSIVE: "Datur" (is given), "Bibitur" (is drunk)
+
+Search for words that:
+- Start lines (imperatives)
+- Follow noun phrases
+- Precede "contra" (against) or "ad" (for)
+
+### 3. Frequency Analysis
+Verbs should:
+- Appear on many pages (common actions)
+- Have moderate frequency (not as common as nouns)
+- Show limited inflection (unlike nouns with many case forms)
+
+Find words matching this profile.
+
+### 4. Context Window Analysis
+For each verb candidate:
+- Extract 5-word window around it
+- Check if preceding word is noun-like
+- Check if following word is preposition-like
+- Score based on context consistency
+
+### 5. Abbreviation Hypothesis
+If verbs are abbreviated, look for:
+- Very short words (2-3 chars) in verb positions
+- Words ending in specific markers
+- Single-letter words that might be verb abbreviations
+
+### 6. Imperative Search
+Medieval recipes use imperatives heavily. Search for:
+- Line-initial words
+- Words before ingredient lists
+- Words that repeat in similar contexts
+
+## EXPECTED OUTPUT
+
+### Main Script
+`verb_context.py` - Analysis script
+
+### Result Files
+
+1. `results/verb_context.json`
+```json
+{
+  "position_analysis": {
+    "line_final_candidates": [...],
+    "post_noun_candidates": [...],
+    "pre_preposition_candidates": [...]
+  },
+  "frequency_profile_matches": [...],
+  "context_window_results": [
+    {
+      "voynich": "...",
+      "decoded": "...",
+      "position": "line_final",
+      "context_score": 0.0,
+      "example_contexts": [...]
+    }
+  ],
+  "abbreviation_candidates": [...],
+  "imperative_candidates": [
+    {
+      "voynich": "...",
+      "decoded": "...",
+      "line_initial_count": 0,
+      "possible_latin": "..."
+    }
+  ],
+  "top_verb_candidates": [
+    {
+      "voynich": "...",
+      "decoded": "...",
+      "confidence": 0.0,
+      "evidence": [...]
+    }
+  ]
+}
+```
+
+2. `results/verb_context_report.md`
+- Top 10 verb candidates with evidence
+- Position pattern summary
+- Comparison with Track 19 results
+- Hypothesis about verb encoding
+
+## SUCCESS CRITERIA
+- [ ] Position analysis complete for botanical section
+- [ ] At least 20 verb candidates identified by position
+- [ ] Context windows analyzed for top candidates
+- [ ] Top 10 candidates ranked with confidence scores
+- [ ] Hypothesis formed about why phonetic matching failed
+
+## NOTES
+- This is a DIFFERENT approach than Track 19
+- Focus on position and context, not phonetics
+- Medieval herbals have predictable verb placement
+- Look for patterns like: "[herb name] + VERB + contra + [ailment]"

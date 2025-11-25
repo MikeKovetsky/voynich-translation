@@ -1,9 +1,0 @@
----
-alwaysApply: true
----
-You are doing scientific research.
-Before diving deep into research, find info about the topic in the web to not reinvent it.
-Describe every big step and progress shortly in English in progress.md. Be casual in the doc and use emojis.
-Commit and push every step you make to the repo.
-If you feel stuck with some step (for example, you cannot extract info from some website due to parsing restrictions), then stop and ask me to do the task.
-Try different approaches if necessary. Use python if you need to write scripts.

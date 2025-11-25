@@ -1,0 +1,166 @@
+================================================================================
+TRACK 16: LATIN-VOYNICH VOCABULARY BUILDING
+================================================================================
+
+GOAL:
+Build a comprehensive Latin-Voynich dictionary by systematically matching
+the most frequent Voynich words against Latin botanical/medical vocabulary.
+
+================================================================================
+CONFIRMED PHONETIC MAP (USE THIS):
+================================================================================
+
+o→a  h→r  9→s  k→n  c→c  7→l  m→m  4→qu  1→t  8→d  a→e  e→i  2→b  y→i
+
+Abbreviation expansions:
+  -9 → -us/-is    -89 → -orum    -am → -am    -oe → -ae    -ay → -i
+
+================================================================================
+INPUT DATA:
+================================================================================
+
+1. /voynich_raw.txt - Full transcription
+2. /results/latin_abbreviation_test.json - Previous matches
+3. /results/zodiac_latin_analysis.json - Confirmed mappings
+
+================================================================================
+TASKS:
+================================================================================
+
+1. EXTRACT TOP 200 VOYNICH WORDS
+   - Count all word frequencies in voynich_raw.txt
+   - List top 200 most common words
+   - Decode each using confirmed phonetic map
+
+2. MATCH AGAINST LATIN LEXICON
+   For each decoded word, search for Latin matches:
+   
+   A) EXACT MATCHES
+      - Direct Latin word match
+      
+   B) STEM MATCHES  
+      - Remove case endings, match stem
+      - e.g., "herbam" → "herba" (stem: herb-)
+      
+   C) ABBREVIATION MATCHES
+      - Expand 9→us/is and check
+      - e.g., "rads" could be "radix"
+
+3. CATEGORIZE MATCHES
+   Group found Latin words by category:
+   - BOTANICAL: plant parts, plant names
+   - MEDICAL: body parts, diseases, symptoms
+   - PREPARATION: cooking, mixing, dosage
+   - PREPOSITIONS: in, ad, cum, de, pro, contra
+   - VERBS: est, habet, valet, facit
+   - ADJECTIVES: properties (calidus, frigidus)
+   - NUMBERS: unus, duo, tres...
+
+4. PARADIGM ANALYSIS
+   For words that appear in multiple forms:
+   - Group by likely stem
+   - Map case variations
+   - e.g., 4ohan/4oham/4ohae → quaren/quarem/quarei = same word?
+
+5. BUILD DICTIONARY
+   Create structured vocabulary with:
+   - Voynich form(s)
+   - Decoded form
+   - Latin match
+   - English meaning
+   - Confidence score
+   - Occurrence count
+
+================================================================================
+LATIN VOCABULARY LISTS TO CHECK:
+================================================================================
+
+PLANT PARTS (20 terms):
+radix, herba, flos, folium, fructus, semen, cortex, succus, caulis, ramus,
+spina, bacca, arbor, stirps, tuber, bulbus, nux, grana, latex, resina
+
+BODY PARTS (20 terms):
+caput, oculus, auris, nasus, os, dens, guttur, pectus, stomachus, venter,
+iecur, cor, pulmo, manus, pes, sanguis, nervus, cutis, vulnus, tumor
+
+DISEASES/SYMPTOMS (15 terms):
+febris, dolor, morbus, tussis, fluxus, ulcus, apostema, lepra, paralysis,
+epilepsia, quartana, pestis, scabies, pruritis, suffocatio
+
+PROPERTIES (10 terms):
+calidus, frigidus, siccus, humidus, acutus, dulcis, amarus, acer, lenis, gravis
+
+ACTIONS (15 terms):
+curat, sanat, valet, prodest, purgat, solvit, stringit, calefacit, refrigerat,
+mundificat, confortat, prohibet, expellit, generat, destruit
+
+PREPOSITIONS (10 terms):
+in, ad, pro, contra, cum, de, per, sub, super, ante
+
+================================================================================
+EXPECTED OUTPUT:
+================================================================================
+
+1. FILE: results/voynich_vocabulary.json
+{
+  "word_count": 200,
+  "latin_matches": N,
+  "match_percentage": 0.0-1.0,
+  "vocabulary": [
+    {
+      "rank": 1,
+      "voynich": "8am",
+      "count": 735,
+      "decoded": "dem",
+      "latin_match": "de + accusative (of/from)",
+      "category": "PREPOSITION",
+      "confidence": 0.8,
+      "related_forms": ["8ae", "8ay", "8an"]
+    }
+  ],
+  "by_category": {
+    "BOTANICAL": [{"voynich": "...", "latin": "...", "meaning": "..."}],
+    "MEDICAL": [...],
+    "PREPARATION": [...],
+    "PREPOSITION": [...],
+    "VERB": [...],
+    "ADJECTIVE": [...],
+    "UNKNOWN": [...]
+  },
+  "paradigms": [
+    {
+      "stem": "4oh-",
+      "decoded_stem": "quar-",
+      "possible_latin": "aquar- (water-related)?",
+      "forms": [
+        {"voynich": "4ohan", "decoded": "quaren", "case": "ablative?", "count": 266},
+        {"voynich": "4oham", "decoded": "quarem", "case": "accusative?", "count": 235},
+        {"voynich": "4ohC9", "decoded": "quarchus", "case": "nominative?", "count": 237}
+      ]
+    }
+  ],
+  "statistics": {
+    "exact_matches": N,
+    "stem_matches": N,
+    "possible_matches": N,
+    "no_match": N
+  }
+}
+
+2. FILE: results/latin_voynich_dictionary.md
+Formatted dictionary for human reference:
+- Alphabetical by Latin word
+- Voynich equivalents
+- Example sentences from manuscript
+
+================================================================================
+SUCCESS CRITERIA:
+================================================================================
+
+- [ ] Top 200 Voynich words extracted and decoded
+- [ ] At least 30% matched to Latin terms
+- [ ] Words categorized (botanical, medical, etc.)
+- [ ] At least 5 paradigms identified (word families)
+- [ ] Dictionary files created
+
+================================================================================
