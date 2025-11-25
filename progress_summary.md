@@ -571,6 +571,23 @@ Words RARE on a plant page that ALSO appear in recipes = PLANT NAME as ingredien
 
 ---
 
+## 🚀 Phase 24: Scale Plant Mining (4 Parallel Tracks) ⏳
+
+| Track | Goal | Status |
+|-------|------|--------|
+| 80 | Scale mining to ALL ~130 herbal pages | ⏳ |
+| 81 | Merge 50 entries into unified dictionary | ⏳ |
+| 82 | Deep recipe context for 8 confirmed plants | ⏳ |
+| 83 | Find plant pairs (ultra-high confidence) | ⏳ |
+
+**Expected Impact:**
+- Track 80: 300+ new plant entries from remaining 115 pages
+- Track 81: Unified dictionary v2.0 with all sources
+- Track 82: Partial translations like "Take [X] of aconitum for [Y]"
+- Track 83: Ultra-high confidence via multi-page validation
+
+---
+
 *Last Updated: November 25, 2025*
-*Total Research Duration: 90 tracks across 23 phases*
-*Current Status: 🎯 BREAKTHROUGH - Unique Word Mining algorithm discovered!* 💎
+*Total Research Duration: 94 tracks across 24 phases*
+*Current Status: 🚀 SCALING BREAKTHROUGH - 4 parallel tracks running* ⏳
