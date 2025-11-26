@@ -60,3 +60,6 @@ Try to decode plant labels (text near drawings)
 - [ ] Translation rate >40%
 - [ ] Plant description patterns found
 - [ ] Cross-section vocabulary overlap measured
+
+
+

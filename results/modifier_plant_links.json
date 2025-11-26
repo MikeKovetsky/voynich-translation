@@ -1,0 +1,3053 @@
+{
+  "summary": {
+    "total_modifiers_analyzed": 50,
+    "ultra_specific": 3,
+    "specific": 4,
+    "moderate": 7,
+    "generic": 36,
+    "no_herbal_match": 0,
+    "plants_linked": 8,
+    "plants_with_specific_mods": 41
+  },
+  "plant_links": {
+    "geranium": [
+      {
+        "word": "qotain",
+        "pages": [
+          "f58v"
+        ],
+        "recipe_count": 4,
+        "confidence": "HIGH"
+      },
+      {
+        "word": "chedal",
+        "pages": [
+          "f31v",
+          "f43v",
+          "f58v"
+        ],
+        "recipe_count": 3,
+        "confidence": "MEDIUM"
+      }
+    ],
+    "papaver": [
+      {
+        "word": "lkeey",
+        "pages": [
+          "f48v",
+          "f56v"
+        ],
+        "recipe_count": 4,
+        "confidence": "MEDIUM"
+      }
+    ],
+    "thistle": [
+      {
+        "word": "lkeey",
+        "pages": [
+          "f48v",
+          "f56v"
+        ],
+        "recipe_count": 4,
+        "confidence": "MEDIUM"
+      }
+    ],
+    "scammonia": [
+      {
+        "word": "lkeey",
+        "pages": [
+          "f48v",
+          "f56v"
+        ],
+        "recipe_count": 4,
+        "confidence": "MEDIUM"
+      }
+    ],
+    "poppy": [
+      {
+        "word": "lkeey",
+        "pages": [
+          "f48v",
+          "f56v"
+        ],
+        "recipe_count": 4,
+        "confidence": "MEDIUM"
+      }
+    ],
+    "tamus communis": [
+      {
+        "word": "lkeey",
+        "pages": [
+          "f48v",
+          "f56v"
+        ],
+        "recipe_count": 4,
+        "confidence": "MEDIUM"
+      }
+    ],
+    "papaver somniferum": [
+      {
+        "word": "lkeey",
+        "pages": [
+          "f48v",
+          "f56v"
+        ],
+        "recipe_count": 4,
+        "confidence": "MEDIUM"
+      }
+    ],
+    "polygonum": [
+      {
+        "word": "chedal",
+        "pages": [
+          "f31v",
+          "f43v",
+          "f58v"
+        ],
+        "recipe_count": 3,
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  "plant_specific_words": {
+    "f100v": {
+      "plants": [
+        "botrychium"
+      ],
+      "specific_modifiers": [
+        [
+          "chols",
+          3,
+          1
+        ]
+      ]
+    },
+    "f101v": {
+      "plants": [
+        "baldrian",
+        "valerian"
+      ],
+      "specific_modifiers": [
+        [
+          "otoly",
+          2,
+          1
+        ],
+        [
+          "otarar",
+          1,
+          1
+        ]
+      ]
+    },
+    "f102r2": {
+      "plants": [
+        "gemswurz"
+      ],
+      "specific_modifiers": [
+        [
+          "roiin",
+          1,
+          1
+        ],
+        [
+          "doaiin",
+          2,
+          1
+        ]
+      ]
+    },
+    "f13r": {
+      "plants": [
+        "tussilago"
+      ],
+      "specific_modifiers": [
+        [
+          "doaiin",
+          2,
+          1
+        ]
+      ]
+    },
+    "f17v": {
+      "plants": [
+        "tamus communis",
+        "tamus? thp: smilax",
+        "smilax"
+      ],
+      "specific_modifiers": [
+        [
+          "oy",
+          2,
+          1
+        ]
+      ]
+    },
+    "f20r": {
+      "plants": [
+        "arctostaphylis",
+        "poterium? thp: moss polytrichnum",
+        "moss polytrichnum"
+      ],
+      "specific_modifiers": [
+        [
+          "shosaiin",
+          3,
+          1
+        ]
+      ]
+    },
+    "f21r": {
+      "plants": [
+        "polygonum"
+      ],
+      "specific_modifiers": [
+        [
+          "qoteeol",
+          2,
+          1
+        ]
+      ]
+    },
+    "f2v": {
+      "plants": [
+        "arctostaphylis",
+        "poterium? thp: moss polytrichnum",
+        "moss polytrichnum"
+      ],
+      "specific_modifiers": [
+        [
+          "chodain",
+          3,
+          1
+        ]
+      ]
+    },
+    "f32r": {
+      "plants": [
+        "mentastrum"
+      ],
+      "specific_modifiers": [
+        [
+          "chckhol",
+          3,
+          1
+        ]
+      ]
+    },
+    "f33r": {
+      "plants": [
+        "scabiosa"
+      ],
+      "specific_modifiers": [
+        [
+          "shdar",
+          1,
+          1
+        ]
+      ]
+    },
+    "f34r": {
+      "plants": [
+        "scabiosa"
+      ],
+      "specific_modifiers": [
+        [
+          "ochey",
+          3,
+          1
+        ],
+        [
+          "qoteedy",
+          3,
+          1
+        ],
+        [
+          "olar",
+          3,
+          1
+        ]
+      ]
+    },
+    "f35r": {
+      "plants": [
+        "uva quercina"
+      ],
+      "specific_modifiers": [
+        [
+          "qokeeaiin",
+          1,
+          1
+        ],
+        [
+          "shosaiin",
+          3,
+          1
+        ]
+      ]
+    },
+    "f37r": {
+      "plants": [
+        "baldrian",
+        "valerian"
+      ],
+      "specific_modifiers": [
+        [
+          "otoly",
+          2,
+          1
+        ]
+      ]
+    },
+    "f39v": {
+      "plants": [
+        "thistle"
+      ],
+      "specific_modifiers": [
+        [
+          "lkedy",
+          3,
+          1
+        ]
+      ]
+    },
+    "f3v": {
+      "plants": [
+        "hypericum",
+        "centaurium erythaea"
+      ],
+      "specific_modifiers": [
+        [
+          "ch",
+          2,
+          1
+        ],
+        [
+          "qoteeol",
+          2,
+          1
+        ],
+        [
+          "chckhol",
+          3,
+          1
+        ]
+      ]
+    },
+    "f40v": {
+      "plants": [
+        "scabiosa",
+        "papaver",
+        "poppy",
+        "papaver somniferum"
+      ],
+      "specific_modifiers": [
+        [
+          "chkal",
+          3,
+          1
+        ],
+        [
+          "aram",
+          3,
+          1
+        ]
+      ]
+    },
+    "f41r": {
+      "plants": [
+        "thistle"
+      ],
+      "specific_modifiers": [
+        [
+          "lchdy",
+          2,
+          1
+        ],
+        [
+          "qokeed",
+          2,
+          1
+        ]
+      ]
+    },
+    "f42v": {
+      "plants": [
+        "elv"
+      ],
+      "specific_modifiers": [
+        [
+          "checthey",
+          1,
+          1
+        ]
+      ]
+    },
+    "f43v": {
+      "plants": [
+        "polygonum"
+      ],
+      "specific_modifiers": [
+        [
+          "chedal",
+          3,
+          3
+        ],
+        [
+          "teedy",
+          3,
+          1
+        ],
+        [
+          "qokedal",
+          1,
+          1
+        ],
+        [
+          "chepy",
+          3,
+          1
+        ]
+      ]
+    },
+    "f46v": {
+      "plants": [
+        "gemswurz"
+      ],
+      "specific_modifiers": [
+        [
+          "olar",
+          3,
+          1
+        ]
+      ]
+    },
+    "f47r": {
+      "plants": [
+        "gemswurz"
+      ],
+      "specific_modifiers": [
+        [
+          "shokeey",
+          1,
+          1
+        ]
+      ]
+    },
+    "f48r": {
+      "plants": [
+        "cyanus",
+        "papaver",
+        "poppy",
+        "papaver somniferum"
+      ],
+      "specific_modifiers": [
+        [
+          "qoteo",
+          2,
+          1
+        ],
+        [
+          "lkeeedy",
+          1,
+          1
+        ]
+      ]
+    },
+    "f48v": {
+      "plants": [
+        "papaver",
+        "poppy",
+        "papaver somniferum",
+        "thistle"
+      ],
+      "specific_modifiers": [
+        [
+          "lkeey",
+          2,
+          4
+        ],
+        [
+          "chdor",
+          1,
+          2
+        ],
+        [
+          "teedy",
+          3,
+          1
+        ],
+        [
+          "olkeeey",
+          1,
+          1
+        ]
+      ]
+    },
+    "f50v": {
+      "plants": [
+        "lycopsis or a nearly allied boraginace plant",
+        "symphytum"
+      ],
+      "specific_modifiers": [
+        [
+          "dalol",
+          3,
+          1
+        ]
+      ]
+    },
+    "f51v": {
+      "plants": [
+        "lycopsis or a nearly allied boraginace plant",
+        "symphytum"
+      ],
+      "specific_modifiers": [
+        [
+          "qokcheody",
+          2,
+          1
+        ]
+      ]
+    },
+    "f56v": {
+      "plants": [
+        "tamus communis",
+        "scammonia"
+      ],
+      "specific_modifiers": [
+        [
+          "lkeey",
+          2,
+          4
+        ],
+        [
+          "ochey",
+          3,
+          1
+        ]
+      ]
+    },
+    "f57r": {
+      "plants": [
+        "geranium"
+      ],
+      "specific_modifiers": [
+        [
+          "okeeody",
+          3,
+          1
+        ]
+      ]
+    },
+    "f58r": {
+      "plants": [
+        "geranium"
+      ],
+      "specific_modifiers": [
+        [
+          "dalol",
+          3,
+          1
+        ],
+        [
+          "cheoly",
+          1,
+          1
+        ],
+        [
+          "aram",
+          3,
+          1
+        ],
+        [
+          "cheam",
+          1,
+          1
+        ],
+        [
+          "opy",
+          3,
+          1
+        ]
+      ]
+    },
+    "f58v": {
+      "plants": [
+        "geranium"
+      ],
+      "specific_modifiers": [
+        [
+          "qotain",
+          1,
+          4
+        ],
+        [
+          "chedal",
+          3,
+          3
+        ],
+        [
+          "qokeeos",
+          2,
+          1
+        ],
+        [
+          "qotair",
+          1,
+          1
+        ],
+        [
+          "opchal",
+          2,
+          1
+        ],
+        [
+          "choar",
+          2,
+          1
+        ],
+        [
+          "olar",
+          3,
+          1
+        ]
+      ]
+    },
+    "f5v": {
+      "plants": [
+        "geranium"
+      ],
+      "specific_modifiers": [
+        [
+          "chols",
+          3,
+          1
+        ]
+      ]
+    },
+    "f66v": {
+      "plants": [
+        "geranium"
+      ],
+      "specific_modifiers": [
+        [
+          "okchdal",
+          1,
+          1
+        ],
+        [
+          "shedar",
+          2,
+          1
+        ]
+      ]
+    },
+    "f89r1": {
+      "plants": [
+        "scabiosa",
+        "geranium"
+      ],
+      "specific_modifiers": [
+        [
+          "chepy",
+          3,
+          1
+        ]
+      ]
+    },
+    "f89r2": {
+      "plants": [
+        "uva quercina"
+      ],
+      "specific_modifiers": [
+        [
+          "oy",
+          2,
+          1
+        ],
+        [
+          "qokcheody",
+          2,
+          1
+        ]
+      ]
+    },
+    "f89v1": {
+      "plants": [
+        "papaver",
+        "poppy",
+        "papaver somniferum"
+      ],
+      "specific_modifiers": [
+        [
+          "chodain",
+          3,
+          1
+        ],
+        [
+          "rol",
+          2,
+          1
+        ]
+      ]
+    },
+    "f89v2": {
+      "plants": [
+        "cyanus"
+      ],
+      "specific_modifiers": [
+        [
+          "rary",
+          3,
+          1
+        ]
+      ]
+    },
+    "f8r": {
+      "plants": [
+        "atriplex",
+        "elv"
+      ],
+      "specific_modifiers": [
+        [
+          "lody",
+          1,
+          1
+        ]
+      ]
+    },
+    "f90r1": {
+      "plants": [
+        "papaver",
+        "poppy",
+        "papaver somniferum"
+      ],
+      "specific_modifiers": [
+        [
+          "rary",
+          3,
+          1
+        ],
+        [
+          "qokeed",
+          2,
+          1
+        ]
+      ]
+    },
+    "f90v2": {
+      "plants": [
+        "papaver",
+        "poppy",
+        "papaver somniferum"
+      ],
+      "specific_modifiers": [
+        [
+          "okeeom",
+          1,
+          1
+        ]
+      ]
+    },
+    "f93r": {
+      "plants": [
+        "scabiosa"
+      ],
+      "specific_modifiers": [
+        [
+          "qotchd",
+          1,
+          1
+        ]
+      ]
+    },
+    "f95r2": {
+      "plants": [
+        "thistle"
+      ],
+      "specific_modifiers": [
+        [
+          "aram",
+          3,
+          1
+        ]
+      ]
+    },
+    "f9v": {
+      "plants": [
+        "viola"
+      ],
+      "specific_modifiers": [
+        [
+          "opy",
+          3,
+          1
+        ]
+      ]
+    }
+  },
+  "modifier_analysis": [
+    {
+      "word": "chedy",
+      "recipe_count": 17,
+      "herbal_pages": [
+        "f26r",
+        "f26v",
+        "f31r",
+        "f31v",
+        "f32r",
+        "f33v",
+        "f34r",
+        "f34v",
+        "f39r",
+        "f39v",
+        "f40r",
+        "f40v",
+        "f41r",
+        "f41v",
+        "f43r",
+        "f43v",
+        "f46r",
+        "f46v",
+        "f48v",
+        "f50r",
+        "f50v",
+        "f55v",
+        "f57r",
+        "f65v",
+        "f66r",
+        "f66v",
+        "f89r1",
+        "f94r",
+        "f94v",
+        "f95r1",
+        "f95r2",
+        "f95v1"
+      ],
+      "herbal_count": 32,
+      "plants_identified": [
+        "papaver",
+        "thistle",
+        "poppy",
+        "lycopsis or a nearly allied boraginace plant",
+        "polygonum",
+        "gemswurz",
+        "mentastrum",
+        "papaver somniferum",
+        "scabiosa",
+        "symphytum",
+        "geranium"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "chey",
+      "recipe_count": 16,
+      "herbal_pages": [
+        "f100v",
+        "f101r",
+        "f101v",
+        "f102r2",
+        "f102v1",
+        "f102v2",
+        "f13v",
+        "f14r",
+        "f17v",
+        "f18r",
+        "f1r",
+        "f1v",
+        "f20r",
+        "f20v",
+        "f21r",
+        "f22r",
+        "f24r",
+        "f26v",
+        "f27r",
+        "f29r",
+        "f29v",
+        "f2r",
+        "f30r",
+        "f31r",
+        "f32r",
+        "f32v",
+        "f33v",
+        "f34r",
+        "f34v",
+        "f37r",
+        "f37v",
+        "f38r",
+        "f42v",
+        "f43v",
+        "f44v",
+        "f45v",
+        "f46v",
+        "f47r",
+        "f48v",
+        "f49r",
+        "f49v",
+        "f4v",
+        "f51v",
+        "f55r",
+        "f55v",
+        "f56r",
+        "f56v",
+        "f58r",
+        "f58v",
+        "f5r",
+        "f66r",
+        "f7r",
+        "f88r",
+        "f89r1",
+        "f89r2",
+        "f89v1",
+        "f89v2",
+        "f8r",
+        "f8v",
+        "f93r",
+        "f94r",
+        "f95r1",
+        "f96v",
+        "f99r",
+        "f9r"
+      ],
+      "herbal_count": 65,
+      "plants_identified": [
+        "tamus? thp: smilax",
+        "atriplex",
+        "paeonia",
+        "symphytum",
+        "polygonum",
+        "geranium",
+        "scammonia",
+        "cyanus",
+        "moss polytrichnum",
+        "poppy",
+        "baldrian",
+        "solanum",
+        "botrychium",
+        "valerian",
+        "lycopsis or a nearly allied boraginace plant",
+        "mentastrum",
+        "smilax",
+        "papaver somniferum",
+        "arctostaphylis",
+        "atropa",
+        "papaver",
+        "belladonna",
+        "elv",
+        "thistle",
+        "uva quercina",
+        "poterium? thp: moss polytrichnum",
+        "gemswurz",
+        "tamus communis",
+        "scabiosa",
+        "herzkraut"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "okeey",
+      "recipe_count": 15,
+      "herbal_pages": [
+        "f101r",
+        "f101v",
+        "f102r2",
+        "f102v1",
+        "f102v2",
+        "f17v",
+        "f1r",
+        "f21r",
+        "f31v",
+        "f35v",
+        "f38v",
+        "f39v",
+        "f3r",
+        "f41v",
+        "f46r",
+        "f48v",
+        "f51r",
+        "f53v",
+        "f55r",
+        "f57v",
+        "f58v",
+        "f66r",
+        "f89r2",
+        "f89v2",
+        "f93v",
+        "f99r"
+      ],
+      "herbal_count": 26,
+      "plants_identified": [
+        "tamus? thp: smilax",
+        "ricinus",
+        "polygonum",
+        "geranium",
+        "scammonia",
+        "cyanus",
+        "moss polytrichnum",
+        "poppy",
+        "baldrian",
+        "valerian",
+        "lycopsis or a nearly allied boraginace plant",
+        "smilax",
+        "papaver somniferum",
+        "arctostaphylis",
+        "thistle",
+        "papaver",
+        "uva quercina",
+        "poterium? thp: moss polytrichnum",
+        "gemswurz",
+        "tamus communis",
+        "symphytum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "qokeedy",
+      "recipe_count": 15,
+      "herbal_pages": [
+        "f26r",
+        "f31r",
+        "f40v",
+        "f41r",
+        "f41v",
+        "f43r",
+        "f46v",
+        "f57r",
+        "f66r",
+        "f95r1",
+        "f95r2"
+      ],
+      "herbal_count": 11,
+      "plants_identified": [
+        "papaver",
+        "thistle",
+        "poppy",
+        "gemswurz",
+        "papaver somniferum",
+        "scabiosa",
+        "geranium"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "qokaiin",
+      "recipe_count": 14,
+      "herbal_pages": [
+        "f15r",
+        "f15v",
+        "f23r",
+        "f23v",
+        "f25v",
+        "f29r",
+        "f37r",
+        "f39r",
+        "f39v",
+        "f40v",
+        "f45r",
+        "f46r",
+        "f4r",
+        "f50r",
+        "f50v",
+        "f54v",
+        "f55r",
+        "f55v",
+        "f58r",
+        "f58v",
+        "f5r",
+        "f89r1",
+        "f89v1",
+        "f94r",
+        "f95r1",
+        "f95v1",
+        "f99v",
+        "f9v"
+      ],
+      "herbal_count": 28,
+      "plants_identified": [
+        "arctostaphylis",
+        "thistle",
+        "papaver",
+        "moss polytrichnum",
+        "valerian",
+        "poppy",
+        "lycopsis or a nearly allied boraginace plant",
+        "baldrian",
+        "geranium",
+        "viola",
+        "centaurium erythaea",
+        "poterium? thp: moss polytrichnum",
+        "papaver somniferum",
+        "scabiosa",
+        "symphytum",
+        "hypericum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "qokeey",
+      "recipe_count": 12,
+      "herbal_pages": [
+        "f100r",
+        "f100v",
+        "f101v",
+        "f102r2",
+        "f102v1",
+        "f102v2",
+        "f17v",
+        "f23r",
+        "f31r",
+        "f34r",
+        "f34v",
+        "f35r",
+        "f38v",
+        "f3r",
+        "f41r",
+        "f42v",
+        "f43v",
+        "f52v",
+        "f53r",
+        "f54v",
+        "f56r",
+        "f58v",
+        "f66r",
+        "f88r",
+        "f88v",
+        "f89r1",
+        "f89r2",
+        "f90r1",
+        "f90v2",
+        "f94v",
+        "f95v1",
+        "f95v2",
+        "f99r",
+        "f99v"
+      ],
+      "herbal_count": 34,
+      "plants_identified": [
+        "tamus? thp: smilax",
+        "polygonum",
+        "geranium",
+        "moss polytrichnum",
+        "poppy",
+        "baldrian",
+        "tamus communis",
+        "botrychium",
+        "valerian",
+        "lycopsis or a nearly allied boraginace plant",
+        "smilax",
+        "papaver somniferum",
+        "arctostaphylis",
+        "thistle",
+        "papaver",
+        "uva quercina",
+        "poterium? thp: moss polytrichnum",
+        "gemswurz",
+        "elv",
+        "scabiosa",
+        "symphytum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "shedy",
+      "recipe_count": 10,
+      "herbal_pages": [
+        "f26r",
+        "f26v",
+        "f31r",
+        "f33r",
+        "f34r",
+        "f34v",
+        "f39r",
+        "f39v",
+        "f41r",
+        "f43r",
+        "f43v",
+        "f46r",
+        "f46v",
+        "f50v",
+        "f56r",
+        "f65v",
+        "f66r",
+        "f88v",
+        "f95v1",
+        "f95v2"
+      ],
+      "herbal_count": 20,
+      "plants_identified": [
+        "thistle",
+        "lycopsis or a nearly allied boraginace plant",
+        "polygonum",
+        "gemswurz",
+        "scabiosa",
+        "symphytum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "okain",
+      "recipe_count": 8,
+      "herbal_pages": [
+        "f1r",
+        "f28v",
+        "f33r",
+        "f39v",
+        "f48r",
+        "f50v",
+        "f55r",
+        "f55v",
+        "f58v",
+        "f89r2",
+        "f95r2",
+        "f9r"
+      ],
+      "herbal_count": 12,
+      "plants_identified": [
+        "papaver",
+        "thistle",
+        "cyanus",
+        "poppy",
+        "uva quercina",
+        "lycopsis or a nearly allied boraginace plant",
+        "papaver somniferum",
+        "scabiosa",
+        "symphytum",
+        "geranium"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "chckhy",
+      "recipe_count": 7,
+      "herbal_pages": [
+        "f100r",
+        "f102r2",
+        "f11v",
+        "f13r",
+        "f14v",
+        "f16v",
+        "f17r",
+        "f18r",
+        "f19r",
+        "f26r",
+        "f31r",
+        "f32v",
+        "f33v",
+        "f34r",
+        "f34v",
+        "f39r",
+        "f39v",
+        "f40v",
+        "f41r",
+        "f43r",
+        "f43v",
+        "f46r",
+        "f46v",
+        "f48v",
+        "f50r",
+        "f50v",
+        "f51r",
+        "f54v",
+        "f55r",
+        "f55v",
+        "f66r",
+        "f66v",
+        "f6r",
+        "f6v",
+        "f88v",
+        "f89r2",
+        "f94v",
+        "f95r1",
+        "f95r2",
+        "f95v2"
+      ],
+      "herbal_count": 40,
+      "plants_identified": [
+        "herzkraut",
+        "tamus? thp: smilax",
+        "ricinus",
+        "polygonum",
+        "geranium",
+        "moss polytrichnum",
+        "poppy",
+        "tamus communis",
+        "botrychium",
+        "lycopsis or a nearly allied boraginace plant",
+        "tussilago",
+        "smilax",
+        "papaver somniferum",
+        "arctostaphylis",
+        "thistle",
+        "papaver",
+        "uva quercina",
+        "poterium? thp: moss polytrichnum",
+        "gemswurz",
+        "mentastrum",
+        "scabiosa",
+        "symphytum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "checkhy",
+      "recipe_count": 5,
+      "herbal_pages": [
+        "f30v",
+        "f31v",
+        "f34v",
+        "f39r",
+        "f43r",
+        "f43v",
+        "f50v",
+        "f55v",
+        "f57r",
+        "f58r",
+        "f88v"
+      ],
+      "herbal_count": 11,
+      "plants_identified": [
+        "symphytum",
+        "polygonum",
+        "lycopsis or a nearly allied boraginace plant",
+        "geranium"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "shey",
+      "recipe_count": 5,
+      "herbal_pages": [
+        "f100r",
+        "f101r",
+        "f101v",
+        "f102r1",
+        "f102r2",
+        "f102v1",
+        "f102v2",
+        "f11r",
+        "f13r",
+        "f14r",
+        "f15r",
+        "f1r",
+        "f20r",
+        "f21r",
+        "f21v",
+        "f27r",
+        "f29v",
+        "f2v",
+        "f30r",
+        "f31r",
+        "f32r",
+        "f37v",
+        "f38v",
+        "f39r",
+        "f3r",
+        "f42v",
+        "f43v",
+        "f44v",
+        "f45r",
+        "f46r",
+        "f47r",
+        "f48r",
+        "f48v",
+        "f4v",
+        "f51r",
+        "f52r",
+        "f53v",
+        "f56v",
+        "f57r",
+        "f58v",
+        "f66r",
+        "f66v",
+        "f7v",
+        "f87v",
+        "f89r2",
+        "f8r",
+        "f8v",
+        "f90v1",
+        "f90v2",
+        "f93r",
+        "f94v",
+        "f99v"
+      ],
+      "herbal_count": 52,
+      "plants_identified": [
+        "atriplex",
+        "ricinus",
+        "polygonum",
+        "geranium",
+        "scammonia",
+        "cyanus",
+        "moss polytrichnum",
+        "poppy",
+        "baldrian",
+        "tamus communis",
+        "solanum",
+        "botrychium",
+        "valerian",
+        "lycopsis or a nearly allied boraginace plant",
+        "mentastrum",
+        "tussilago",
+        "papaver somniferum",
+        "arctostaphylis",
+        "atropa",
+        "papaver",
+        "belladonna",
+        "thistle",
+        "uva quercina",
+        "poterium? thp: moss polytrichnum",
+        "gemswurz",
+        "elv",
+        "scabiosa",
+        "symphytum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "oteedy",
+      "recipe_count": 5,
+      "herbal_pages": [
+        "f31v",
+        "f66r",
+        "f87r",
+        "f95r2"
+      ],
+      "herbal_count": 4,
+      "plants_identified": [
+        "thistle"
+      ],
+      "specificity": "MODERATE"
+    },
+    {
+      "word": "otaiin",
+      "recipe_count": 5,
+      "herbal_pages": [
+        "f101r",
+        "f15r",
+        "f17v",
+        "f19v",
+        "f1r",
+        "f20r",
+        "f21r",
+        "f22r",
+        "f22v",
+        "f28r",
+        "f2v",
+        "f33r",
+        "f36v",
+        "f38r",
+        "f42r",
+        "f43r",
+        "f43v",
+        "f48r",
+        "f4v",
+        "f50r",
+        "f50v",
+        "f51v",
+        "f58r",
+        "f58v",
+        "f5v",
+        "f66v",
+        "f6r",
+        "f89v2",
+        "f8v",
+        "f94r",
+        "f94v",
+        "f95r2",
+        "f95v1",
+        "f95v2",
+        "f9r",
+        "f9v"
+      ],
+      "herbal_count": 36,
+      "plants_identified": [
+        "tamus? thp: smilax",
+        "polygonum",
+        "geranium",
+        "scammonia",
+        "cyanus",
+        "moss polytrichnum",
+        "poppy",
+        "baldrian",
+        "valerian",
+        "lycopsis or a nearly allied boraginace plant",
+        "viola",
+        "cannabis",
+        "smilax",
+        "papaver somniferum",
+        "arctostaphylis",
+        "papaver",
+        "thistle",
+        "poterium? thp: moss polytrichnum",
+        "tamus communis",
+        "scabiosa",
+        "symphytum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "qokain",
+      "recipe_count": 5,
+      "herbal_pages": [
+        "f24r",
+        "f48v",
+        "f50r",
+        "f58v",
+        "f95v1"
+      ],
+      "herbal_count": 5,
+      "plants_identified": [
+        "papaver",
+        "thistle",
+        "poppy",
+        "papaver somniferum",
+        "geranium"
+      ],
+      "specificity": "MODERATE"
+    },
+    {
+      "word": "keedy",
+      "recipe_count": 4,
+      "herbal_pages": [
+        "f31v",
+        "f33v",
+        "f34v",
+        "f41r",
+        "f43v",
+        "f46r",
+        "f55r",
+        "f66v",
+        "f89r2"
+      ],
+      "herbal_count": 9,
+      "plants_identified": [
+        "thistle",
+        "uva quercina",
+        "polygonum",
+        "scabiosa",
+        "geranium"
+      ],
+      "specificity": "MODERATE"
+    },
+    {
+      "word": "qokal",
+      "recipe_count": 4,
+      "herbal_pages": [
+        "f102r2",
+        "f102v1",
+        "f34r",
+        "f39r",
+        "f40r",
+        "f41r",
+        "f41v",
+        "f45r",
+        "f46r",
+        "f51r",
+        "f51v",
+        "f54v",
+        "f55r",
+        "f58r",
+        "f58v",
+        "f66r",
+        "f88r",
+        "f89v2",
+        "f94r",
+        "f95r2",
+        "f95v1",
+        "f99r",
+        "f99v"
+      ],
+      "herbal_count": 23,
+      "plants_identified": [
+        "arctostaphylis",
+        "thistle",
+        "smilax",
+        "tamus? thp: smilax",
+        "cyanus",
+        "moss polytrichnum",
+        "ricinus",
+        "lycopsis or a nearly allied boraginace plant",
+        "poterium? thp: moss polytrichnum",
+        "gemswurz",
+        "tamus communis",
+        "scabiosa",
+        "symphytum",
+        "geranium"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "okedy",
+      "recipe_count": 4,
+      "herbal_pages": [
+        "f102v2",
+        "f26r",
+        "f31r",
+        "f31v",
+        "f33v",
+        "f34r",
+        "f34v",
+        "f39v",
+        "f40r",
+        "f41r",
+        "f41v",
+        "f43r",
+        "f43v",
+        "f46v",
+        "f48r",
+        "f50v",
+        "f66r",
+        "f66v",
+        "f94v",
+        "f95r2",
+        "f95v1"
+      ],
+      "herbal_count": 21,
+      "plants_identified": [
+        "papaver",
+        "thistle",
+        "cyanus",
+        "valerian",
+        "poppy",
+        "lycopsis or a nearly allied boraginace plant",
+        "baldrian",
+        "polygonum",
+        "gemswurz",
+        "papaver somniferum",
+        "scabiosa",
+        "symphytum",
+        "geranium"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "aiin",
+      "recipe_count": 4,
+      "herbal_pages": [
+        "f101r",
+        "f101v",
+        "f102r2",
+        "f102v2",
+        "f10r",
+        "f10v",
+        "f15v",
+        "f16r",
+        "f17v",
+        "f20v",
+        "f22r",
+        "f26r",
+        "f26v",
+        "f29r",
+        "f2r",
+        "f31r",
+        "f31v",
+        "f33r",
+        "f33v",
+        "f34r",
+        "f34v",
+        "f35r",
+        "f38v",
+        "f39r",
+        "f39v",
+        "f3r",
+        "f40r",
+        "f40v",
+        "f41v",
+        "f42v",
+        "f43r",
+        "f43v",
+        "f45v",
+        "f46r",
+        "f46v",
+        "f47r",
+        "f48r",
+        "f48v",
+        "f49v",
+        "f50v",
+        "f52v",
+        "f54r",
+        "f54v",
+        "f55r",
+        "f55v",
+        "f56v",
+        "f57v",
+        "f58r",
+        "f58v",
+        "f66r",
+        "f66v",
+        "f7v",
+        "f88r",
+        "f88v",
+        "f89r1",
+        "f89r2",
+        "f89v1",
+        "f89v2",
+        "f90v1",
+        "f93r",
+        "f94r",
+        "f94v",
+        "f95v1",
+        "f95v2",
+        "f96v",
+        "f99r",
+        "f99v",
+        "f9r"
+      ],
+      "herbal_count": 68,
+      "plants_identified": [
+        "tamus? thp: smilax",
+        "polygonum",
+        "geranium",
+        "scammonia",
+        "cyanus",
+        "poppy",
+        "baldrian",
+        "tamus communis",
+        "valerian",
+        "lycopsis or a nearly allied boraginace plant",
+        "smilax",
+        "papaver somniferum",
+        "papaver",
+        "thistle",
+        "aconitum",
+        "uva quercina",
+        "gemswurz",
+        "elv",
+        "scabiosa",
+        "symphytum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "qotain",
+      "recipe_count": 4,
+      "herbal_pages": [
+        "f58v"
+      ],
+      "herbal_count": 1,
+      "plants_identified": [
+        "geranium"
+      ],
+      "specificity": "ULTRA_SPECIFIC"
+    },
+    {
+      "word": "otain",
+      "recipe_count": 4,
+      "herbal_pages": [
+        "f16v",
+        "f34v",
+        "f40v",
+        "f58v",
+        "f5r"
+      ],
+      "herbal_count": 5,
+      "plants_identified": [
+        "papaver",
+        "poppy",
+        "papaver somniferum",
+        "scabiosa",
+        "geranium"
+      ],
+      "specificity": "MODERATE"
+    },
+    {
+      "word": "qokedy",
+      "recipe_count": 4,
+      "herbal_pages": [
+        "f26r",
+        "f26v",
+        "f31r",
+        "f31v",
+        "f33r",
+        "f34r",
+        "f34v",
+        "f39r",
+        "f39v",
+        "f40v",
+        "f41r",
+        "f43r",
+        "f46v",
+        "f48r",
+        "f50r",
+        "f50v",
+        "f66r",
+        "f66v",
+        "f89r2",
+        "f95v1"
+      ],
+      "herbal_count": 20,
+      "plants_identified": [
+        "papaver",
+        "thistle",
+        "cyanus",
+        "poppy",
+        "uva quercina",
+        "lycopsis or a nearly allied boraginace plant",
+        "gemswurz",
+        "papaver somniferum",
+        "scabiosa",
+        "symphytum",
+        "geranium"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "olkeedy",
+      "recipe_count": 4,
+      "herbal_pages": [
+        "f50r",
+        "f94r",
+        "f95r1"
+      ],
+      "herbal_count": 3,
+      "plants_identified": [],
+      "specificity": "SPECIFIC"
+    },
+    {
+      "word": "otedy",
+      "recipe_count": 4,
+      "herbal_pages": [
+        "f26v",
+        "f31r",
+        "f31v",
+        "f34r",
+        "f39r",
+        "f39v",
+        "f41r",
+        "f43r",
+        "f43v",
+        "f46r",
+        "f46v",
+        "f48v",
+        "f94v",
+        "f95v2"
+      ],
+      "herbal_count": 14,
+      "plants_identified": [
+        "papaver",
+        "thistle",
+        "poppy",
+        "polygonum",
+        "gemswurz",
+        "papaver somniferum",
+        "scabiosa"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "qokey",
+      "recipe_count": 4,
+      "herbal_pages": [
+        "f102r1",
+        "f102r2",
+        "f102v1",
+        "f13r",
+        "f27r",
+        "f2r",
+        "f31r",
+        "f41r",
+        "f45v",
+        "f4v",
+        "f51r",
+        "f58v",
+        "f66r",
+        "f89r1",
+        "f89v1",
+        "f99r",
+        "f99v"
+      ],
+      "herbal_count": 17,
+      "plants_identified": [
+        "tamus? thp: smilax",
+        "ricinus",
+        "geranium",
+        "cyanus",
+        "moss polytrichnum",
+        "poppy",
+        "solanum",
+        "lycopsis or a nearly allied boraginace plant",
+        "tussilago",
+        "smilax",
+        "papaver somniferum",
+        "arctostaphylis",
+        "atropa",
+        "thistle",
+        "belladonna",
+        "papaver",
+        "poterium? thp: moss polytrichnum",
+        "gemswurz",
+        "tamus communis",
+        "scabiosa",
+        "symphytum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "lkeey",
+      "recipe_count": 4,
+      "herbal_pages": [
+        "f48v",
+        "f56v"
+      ],
+      "herbal_count": 2,
+      "plants_identified": [
+        "papaver",
+        "thistle",
+        "scammonia",
+        "poppy",
+        "tamus communis",
+        "papaver somniferum"
+      ],
+      "specificity": "SPECIFIC"
+    },
+    {
+      "word": "okeedy",
+      "recipe_count": 4,
+      "herbal_pages": [
+        "f26r",
+        "f27v",
+        "f31r",
+        "f31v",
+        "f33v",
+        "f34v",
+        "f43r",
+        "f43v",
+        "f46r",
+        "f46v",
+        "f50v",
+        "f55v",
+        "f66v",
+        "f94r",
+        "f94v",
+        "f99v"
+      ],
+      "herbal_count": 16,
+      "plants_identified": [
+        "lycopsis or a nearly allied boraginace plant",
+        "polygonum",
+        "gemswurz",
+        "scabiosa",
+        "symphytum",
+        "geranium"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "qoky",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f101r",
+        "f102v2",
+        "f11v",
+        "f13r",
+        "f13v",
+        "f15v",
+        "f16r",
+        "f18v",
+        "f19r",
+        "f22r",
+        "f22v",
+        "f24r",
+        "f25v",
+        "f27v",
+        "f2r",
+        "f34r",
+        "f40v",
+        "f43v",
+        "f44r",
+        "f45r",
+        "f50r",
+        "f51r",
+        "f52r",
+        "f58r",
+        "f58v",
+        "f66r",
+        "f7v",
+        "f88v",
+        "f90r1",
+        "f90v1",
+        "f94r",
+        "f94v",
+        "f95r1",
+        "f99r",
+        "f99v"
+      ],
+      "herbal_count": 35,
+      "plants_identified": [
+        "tamus? thp: smilax",
+        "ricinus",
+        "polygonum",
+        "geranium",
+        "scammonia",
+        "cyanus",
+        "moss polytrichnum",
+        "poppy",
+        "baldrian",
+        "botrychium",
+        "valerian",
+        "lycopsis or a nearly allied boraginace plant",
+        "tussilago",
+        "smilax",
+        "papaver somniferum",
+        "arctostaphylis",
+        "papaver",
+        "elv",
+        "aconitum",
+        "poterium? thp: moss polytrichnum",
+        "tamus communis",
+        "scabiosa",
+        "symphytum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "shol",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f100r",
+        "f100v",
+        "f101r",
+        "f101v",
+        "f102r1",
+        "f11v",
+        "f13r",
+        "f13v",
+        "f15v",
+        "f17r",
+        "f17v",
+        "f1r",
+        "f1v",
+        "f20r",
+        "f20v",
+        "f21r",
+        "f22r",
+        "f22v",
+        "f23v",
+        "f24v",
+        "f25v",
+        "f27r",
+        "f27v",
+        "f28v",
+        "f2r",
+        "f2v",
+        "f30v",
+        "f33v",
+        "f35r",
+        "f35v",
+        "f37r",
+        "f39r",
+        "f3r",
+        "f3v",
+        "f40v",
+        "f42r",
+        "f42v",
+        "f43r",
+        "f44r",
+        "f44v",
+        "f46r",
+        "f47r",
+        "f47v",
+        "f48r",
+        "f49r",
+        "f49v",
+        "f4r",
+        "f51r",
+        "f53v",
+        "f56r",
+        "f56v",
+        "f58r",
+        "f58v",
+        "f5v",
+        "f66r",
+        "f6r",
+        "f7r",
+        "f7v",
+        "f87r",
+        "f89r2",
+        "f89v1",
+        "f8r",
+        "f8v",
+        "f90v1",
+        "f93r",
+        "f93v",
+        "f95r2",
+        "f99r",
+        "f99v",
+        "f9r",
+        "f9v"
+      ],
+      "herbal_count": 71,
+      "plants_identified": [
+        "tamus? thp: smilax",
+        "atriplex",
+        "paeonia",
+        "ricinus",
+        "polygonum",
+        "geranium",
+        "scammonia",
+        "cyanus",
+        "moss polytrichnum",
+        "poppy",
+        "baldrian",
+        "solanum",
+        "botrychium",
+        "valerian",
+        "lycopsis or a nearly allied boraginace plant",
+        "viola",
+        "tussilago",
+        "smilax",
+        "papaver somniferum",
+        "arctostaphylis",
+        "atropa",
+        "papaver",
+        "belladonna",
+        "elv",
+        "thistle",
+        "uva quercina",
+        "centaurium erythaea",
+        "poterium? thp: moss polytrichnum",
+        "gemswurz",
+        "tamus communis",
+        "scabiosa",
+        "symphytum",
+        "hypericum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "cheol",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f100r",
+        "f100v",
+        "f101r",
+        "f101v",
+        "f102r2",
+        "f102v1",
+        "f102v2",
+        "f1v",
+        "f20v",
+        "f21r",
+        "f24r",
+        "f24v",
+        "f2v",
+        "f30r",
+        "f30v",
+        "f31r",
+        "f34v",
+        "f35v",
+        "f39r",
+        "f3r",
+        "f43r",
+        "f44v",
+        "f45r",
+        "f45v",
+        "f46r",
+        "f49r",
+        "f49v",
+        "f51v",
+        "f52v",
+        "f54v",
+        "f58r",
+        "f58v",
+        "f66r",
+        "f7v",
+        "f87r",
+        "f88r",
+        "f88v",
+        "f89r1",
+        "f89r2",
+        "f89v1",
+        "f89v2",
+        "f90v2",
+        "f93r",
+        "f96r",
+        "f99r",
+        "f99v"
+      ],
+      "herbal_count": 46,
+      "plants_identified": [
+        "tamus? thp: smilax",
+        "polygonum",
+        "geranium",
+        "scammonia",
+        "cyanus",
+        "moss polytrichnum",
+        "poppy",
+        "baldrian",
+        "solanum",
+        "botrychium",
+        "valerian",
+        "lycopsis or a nearly allied boraginace plant",
+        "smilax",
+        "papaver somniferum",
+        "arctostaphylis",
+        "atropa",
+        "papaver",
+        "belladonna",
+        "elv",
+        "uva quercina",
+        "poterium? thp: moss polytrichnum",
+        "gemswurz",
+        "tamus communis",
+        "scabiosa",
+        "symphytum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "sheol",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f100r",
+        "f101r",
+        "f101v",
+        "f102r1",
+        "f102v1",
+        "f102v2",
+        "f17v",
+        "f21r",
+        "f28v",
+        "f31r",
+        "f39r",
+        "f3r",
+        "f41v",
+        "f46v",
+        "f4r",
+        "f52v",
+        "f58r",
+        "f66r",
+        "f87v",
+        "f88r",
+        "f88v",
+        "f89r1",
+        "f89r2",
+        "f89v1",
+        "f89v2",
+        "f90r1",
+        "f90v1",
+        "f90v2",
+        "f93v",
+        "f96r",
+        "f99r",
+        "f99v"
+      ],
+      "herbal_count": 32,
+      "plants_identified": [
+        "tamus? thp: smilax",
+        "polygonum",
+        "geranium",
+        "scammonia",
+        "cyanus",
+        "moss polytrichnum",
+        "poppy",
+        "baldrian",
+        "solanum",
+        "valerian",
+        "lycopsis or a nearly allied boraginace plant",
+        "smilax",
+        "papaver somniferum",
+        "arctostaphylis",
+        "atropa",
+        "papaver",
+        "belladonna",
+        "uva quercina",
+        "centaurium erythaea",
+        "poterium? thp: moss polytrichnum",
+        "gemswurz",
+        "tamus communis",
+        "scabiosa",
+        "symphytum",
+        "hypericum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "shckhy",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f25v",
+        "f39r",
+        "f49v",
+        "f50v",
+        "f66r",
+        "f66v",
+        "f6v"
+      ],
+      "herbal_count": 7,
+      "plants_identified": [
+        "symphytum",
+        "lycopsis or a nearly allied boraginace plant",
+        "ricinus",
+        "geranium"
+      ],
+      "specificity": "MODERATE"
+    },
+    {
+      "word": "chear",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f101r",
+        "f17r",
+        "f1r",
+        "f23v",
+        "f24v",
+        "f28v",
+        "f30r",
+        "f34v",
+        "f35r",
+        "f35v",
+        "f3v",
+        "f53v",
+        "f58r",
+        "f6v",
+        "f88r",
+        "f89v1",
+        "f89v2",
+        "f8v"
+      ],
+      "herbal_count": 18,
+      "plants_identified": [
+        "papaver",
+        "scammonia",
+        "tamus? thp: smilax",
+        "cyanus",
+        "poppy",
+        "uva quercina",
+        "ricinus",
+        "tamus communis",
+        "geranium",
+        "centaurium erythaea",
+        "smilax",
+        "papaver somniferum",
+        "hypericum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "qotaiin",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f21r",
+        "f24r",
+        "f25r",
+        "f2r",
+        "f32v",
+        "f35r",
+        "f36r",
+        "f37v",
+        "f4r",
+        "f50r",
+        "f51v",
+        "f58v",
+        "f95r1",
+        "f95v1",
+        "f95v2"
+      ],
+      "herbal_count": 15,
+      "plants_identified": [
+        "papaver",
+        "cyanus",
+        "poppy",
+        "valerian",
+        "uva quercina",
+        "lycopsis or a nearly allied boraginace plant",
+        "baldrian",
+        "symphytum",
+        "polygonum",
+        "hypericum",
+        "centaurium erythaea",
+        "mentastrum",
+        "papaver somniferum",
+        "herzkraut",
+        "geranium"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "okal",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f101r",
+        "f102r1",
+        "f13v",
+        "f16r",
+        "f17v",
+        "f18r",
+        "f1v",
+        "f23v",
+        "f25r",
+        "f31v",
+        "f33r",
+        "f34v",
+        "f39r",
+        "f39v",
+        "f3v",
+        "f40r",
+        "f40v",
+        "f41v",
+        "f44v",
+        "f46r",
+        "f46v",
+        "f47r",
+        "f48v",
+        "f50r",
+        "f50v",
+        "f54v",
+        "f55r",
+        "f55v",
+        "f57v",
+        "f58r",
+        "f58v",
+        "f66r",
+        "f89v1",
+        "f89v2",
+        "f8r",
+        "f90r2",
+        "f94r",
+        "f94v",
+        "f95r2",
+        "f95v2",
+        "f99v"
+      ],
+      "herbal_count": 41,
+      "plants_identified": [
+        "tamus? thp: smilax",
+        "atriplex",
+        "symphytum",
+        "geranium",
+        "scammonia",
+        "cyanus",
+        "poppy",
+        "tamus communis",
+        "solanum",
+        "botrychium",
+        "lycopsis or a nearly allied boraginace plant",
+        "smilax",
+        "papaver somniferum",
+        "papaver",
+        "atropa",
+        "thistle",
+        "belladonna",
+        "elv",
+        "aconitum",
+        "centaurium erythaea",
+        "gemswurz",
+        "mentastrum",
+        "scabiosa",
+        "herzkraut",
+        "hypericum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "chedal",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f31v",
+        "f43v",
+        "f58v"
+      ],
+      "herbal_count": 3,
+      "plants_identified": [
+        "polygonum",
+        "geranium"
+      ],
+      "specificity": "SPECIFIC"
+    },
+    {
+      "word": "qokchedy",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f43v",
+        "f58v",
+        "f66r",
+        "f94v"
+      ],
+      "herbal_count": 4,
+      "plants_identified": [
+        "polygonum",
+        "geranium"
+      ],
+      "specificity": "MODERATE"
+    },
+    {
+      "word": "qokol",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f101r",
+        "f101v",
+        "f102r1",
+        "f102r2",
+        "f10v",
+        "f13v",
+        "f16r",
+        "f17r",
+        "f18v",
+        "f22r",
+        "f22v",
+        "f23r",
+        "f23v",
+        "f28r",
+        "f3r",
+        "f40v",
+        "f41v",
+        "f43r",
+        "f45r",
+        "f46r",
+        "f50v",
+        "f51r",
+        "f51v",
+        "f53v",
+        "f58v",
+        "f66r",
+        "f66v",
+        "f88r",
+        "f89r2",
+        "f89v1",
+        "f90r1",
+        "f93r",
+        "f94r",
+        "f95r2",
+        "f99r",
+        "f99v"
+      ],
+      "herbal_count": 36,
+      "plants_identified": [
+        "tamus? thp: smilax",
+        "ricinus",
+        "geranium",
+        "scammonia",
+        "poppy",
+        "moss polytrichnum",
+        "baldrian",
+        "solanum",
+        "botrychium",
+        "valerian",
+        "lycopsis or a nearly allied boraginace plant",
+        "smilax",
+        "papaver somniferum",
+        "papaver",
+        "atropa",
+        "arctostaphylis",
+        "belladonna",
+        "thistle",
+        "aconitum",
+        "uva quercina",
+        "poterium? thp: moss polytrichnum",
+        "gemswurz",
+        "tamus communis",
+        "scabiosa",
+        "symphytum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "okchedy",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f50r"
+      ],
+      "herbal_count": 1,
+      "plants_identified": [],
+      "specificity": "ULTRA_SPECIFIC"
+    },
+    {
+      "word": "okeol",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f100r",
+        "f100v",
+        "f101r",
+        "f101v",
+        "f102r1",
+        "f102r2",
+        "f102v2",
+        "f17v",
+        "f23v",
+        "f31v",
+        "f3v",
+        "f4v",
+        "f87r",
+        "f89r2",
+        "f89v1",
+        "f93r",
+        "f99r",
+        "f99v"
+      ],
+      "herbal_count": 18,
+      "plants_identified": [
+        "tamus? thp: smilax",
+        "geranium",
+        "scammonia",
+        "poppy",
+        "baldrian",
+        "solanum",
+        "botrychium",
+        "valerian",
+        "lycopsis or a nearly allied boraginace plant",
+        "smilax",
+        "papaver somniferum",
+        "papaver",
+        "atropa",
+        "belladonna",
+        "uva quercina",
+        "centaurium erythaea",
+        "gemswurz",
+        "tamus communis",
+        "scabiosa",
+        "symphytum",
+        "hypericum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "otal",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f101v",
+        "f13v",
+        "f24r",
+        "f33r",
+        "f37r",
+        "f39r",
+        "f39v",
+        "f3r",
+        "f41r",
+        "f44r",
+        "f44v",
+        "f45r",
+        "f47v",
+        "f48r",
+        "f50r",
+        "f54r",
+        "f55r",
+        "f57v",
+        "f58r",
+        "f58v",
+        "f66v",
+        "f89v1",
+        "f89v2",
+        "f94r",
+        "f95r2",
+        "f95v1",
+        "f99v"
+      ],
+      "herbal_count": 27,
+      "plants_identified": [
+        "papaver",
+        "thistle",
+        "botrychium",
+        "cyanus",
+        "valerian",
+        "poppy",
+        "baldrian",
+        "gemswurz",
+        "papaver somniferum",
+        "scabiosa",
+        "geranium"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "lkeedy",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f55r",
+        "f66r"
+      ],
+      "herbal_count": 2,
+      "plants_identified": [],
+      "specificity": "SPECIFIC"
+    },
+    {
+      "word": "chcthy",
+      "recipe_count": 3,
+      "herbal_pages": [
+        "f10r",
+        "f14v",
+        "f16v",
+        "f18r",
+        "f19v",
+        "f20v",
+        "f21r",
+        "f24v",
+        "f34v",
+        "f36v",
+        "f42v",
+        "f43v",
+        "f44v",
+        "f45r",
+        "f46v",
+        "f49r",
+        "f49v",
+        "f4v",
+        "f55r",
+        "f58r",
+        "f58v",
+        "f66r",
+        "f89v2",
+        "f94v",
+        "f95r1",
+        "f95v1"
+      ],
+      "herbal_count": 26,
+      "plants_identified": [
+        "arctostaphylis",
+        "smilax",
+        "elv",
+        "botrychium",
+        "tamus? thp: smilax",
+        "scammonia",
+        "cyanus",
+        "moss polytrichnum",
+        "valerian",
+        "baldrian",
+        "polygonum",
+        "poterium? thp: moss polytrichnum",
+        "cannabis",
+        "tamus communis",
+        "gemswurz",
+        "scabiosa",
+        "geranium"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "key",
+      "recipe_count": 2,
+      "herbal_pages": [
+        "f34v",
+        "f38v",
+        "f42v",
+        "f47v",
+        "f4v",
+        "f50v",
+        "f56r",
+        "f58v",
+        "f88v",
+        "f89r2",
+        "f96v"
+      ],
+      "herbal_count": 11,
+      "plants_identified": [
+        "smilax",
+        "tamus? thp: smilax",
+        "uva quercina",
+        "lycopsis or a nearly allied boraginace plant",
+        "tamus communis",
+        "gemswurz",
+        "elv",
+        "symphytum",
+        "geranium"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "okaiin",
+      "recipe_count": 2,
+      "herbal_pages": [
+        "f15r",
+        "f15v",
+        "f16v",
+        "f17r",
+        "f17v",
+        "f1r",
+        "f21r",
+        "f22r",
+        "f23r",
+        "f23v",
+        "f24v",
+        "f29v",
+        "f33r",
+        "f33v",
+        "f34r",
+        "f36r",
+        "f37r",
+        "f38r",
+        "f39v",
+        "f40r",
+        "f40v",
+        "f44v",
+        "f45r",
+        "f46v",
+        "f47r",
+        "f50r",
+        "f50v",
+        "f54v",
+        "f55r",
+        "f55v",
+        "f56r",
+        "f58r",
+        "f66r",
+        "f66v",
+        "f6r",
+        "f88r",
+        "f88v",
+        "f89r1",
+        "f89v1",
+        "f89v2",
+        "f90r2",
+        "f94r",
+        "f95r1",
+        "f95r2",
+        "f95v1",
+        "f99v"
+      ],
+      "herbal_count": 46,
+      "plants_identified": [
+        "tamus? thp: smilax",
+        "polygonum",
+        "geranium",
+        "cyanus",
+        "moss polytrichnum",
+        "poppy",
+        "baldrian",
+        "valerian",
+        "lycopsis or a nearly allied boraginace plant",
+        "smilax",
+        "papaver somniferum",
+        "arctostaphylis",
+        "thistle",
+        "papaver",
+        "poterium? thp: moss polytrichnum",
+        "gemswurz",
+        "tamus communis",
+        "scabiosa",
+        "symphytum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "shcthy",
+      "recipe_count": 2,
+      "herbal_pages": [
+        "f10v",
+        "f11v",
+        "f16r",
+        "f26r",
+        "f66r",
+        "f93r",
+        "f95v1"
+      ],
+      "herbal_count": 7,
+      "plants_identified": [
+        "papaver",
+        "aconitum",
+        "poppy",
+        "tussilago",
+        "papaver somniferum",
+        "scabiosa"
+      ],
+      "specificity": "MODERATE"
+    },
+    {
+      "word": "lkar",
+      "recipe_count": 2,
+      "herbal_pages": [
+        "f66r"
+      ],
+      "herbal_count": 1,
+      "plants_identified": [],
+      "specificity": "ULTRA_SPECIFIC"
+    },
+    {
+      "word": "qoty",
+      "recipe_count": 2,
+      "herbal_pages": [
+        "f10r",
+        "f10v",
+        "f11r",
+        "f11v",
+        "f14r",
+        "f14v",
+        "f16v",
+        "f20v",
+        "f28r",
+        "f28v",
+        "f29r",
+        "f2v",
+        "f38v",
+        "f39v",
+        "f3r",
+        "f44v",
+        "f46v",
+        "f47v",
+        "f4r",
+        "f4v",
+        "f52r",
+        "f53r",
+        "f58v",
+        "f66r",
+        "f95r1"
+      ],
+      "herbal_count": 25,
+      "plants_identified": [
+        "papaver",
+        "arctostaphylis",
+        "thistle",
+        "botrychium",
+        "poppy",
+        "moss polytrichnum",
+        "geranium",
+        "centaurium erythaea",
+        "tussilago",
+        "poterium? thp: moss polytrichnum",
+        "gemswurz",
+        "papaver somniferum",
+        "scabiosa",
+        "hypericum"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "qotal",
+      "recipe_count": 2,
+      "herbal_pages": [
+        "f21v",
+        "f37v",
+        "f41v",
+        "f45v",
+        "f48r",
+        "f50r",
+        "f51r",
+        "f51v",
+        "f58v",
+        "f66r",
+        "f66v",
+        "f89v2"
+      ],
+      "herbal_count": 12,
+      "plants_identified": [
+        "papaver",
+        "cyanus",
+        "poppy",
+        "ricinus",
+        "lycopsis or a nearly allied boraginace plant",
+        "papaver somniferum",
+        "symphytum",
+        "geranium"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "okey",
+      "recipe_count": 2,
+      "herbal_pages": [
+        "f101r",
+        "f102r2",
+        "f102v2",
+        "f31v",
+        "f34v",
+        "f38v",
+        "f41v",
+        "f42v",
+        "f46v",
+        "f48r",
+        "f57v",
+        "f58r",
+        "f58v",
+        "f5r",
+        "f87v",
+        "f89r2"
+      ],
+      "herbal_count": 16,
+      "plants_identified": [
+        "papaver",
+        "elv",
+        "scammonia",
+        "cyanus",
+        "valerian",
+        "poppy",
+        "uva quercina",
+        "baldrian",
+        "gemswurz",
+        "tamus communis",
+        "papaver somniferum",
+        "geranium"
+      ],
+      "specificity": "GENERIC"
+    },
+    {
+      "word": "qokchy",
+      "recipe_count": 2,
+      "herbal_pages": [
+        "f10r",
+        "f10v",
+        "f13r",
+        "f13v",
+        "f14r",
+        "f16v",
+        "f17r",
+        "f18r",
+        "f18v",
+        "f19v",
+        "f21v",
+        "f22r",
+        "f22v",
+        "f24r",
+        "f29r",
+        "f31r",
+        "f32r",
+        "f33r",
+        "f34v",
+        "f35r",
+        "f37r",
+        "f38v",
+        "f39v",
+        "f3v",
+        "f44r",
+        "f44v",
+        "f45r",
+        "f45v",
+        "f49r",
+        "f49v",
+        "f4v",
+        "f51r",
+        "f53r",
+        "f55v",
+        "f56r",
+        "f7r",
+        "f7v",
+        "f89r1",
+        "f90v2",
+        "f93r",
+        "f9r"
+      ],
+      "herbal_count": 41,
+      "plants_identified": [
+        "tamus? thp: smilax",
+        "paeonia",
+        "ricinus",
+        "polygonum",
+        "geranium",
+        "scammonia",
+        "poppy",
+        "moss polytrichnum",
+        "baldrian",
+        "tamus communis",
+        "botrychium",
+        "valerian",
+        "lycopsis or a nearly allied boraginace plant",
+        "tussilago",
+        "smilax",
+        "papaver somniferum",
+        "papaver",
+        "arctostaphylis",
+        "thistle",
+        "elv",
+        "uva quercina",
+        "centaurium erythaea",
+        "poterium? thp: moss polytrichnum",
+        "mentastrum",
+        "scabiosa",
+        "symphytum",
+        "hypericum"
+      ],
+      "specificity": "GENERIC"
+    }
+  ],
+  "methodology": "Words following qok- in recipes were cross-referenced with herbal pages. If a modifier appears on only 1-3 herbal pages, it likely names that plant."
+}

@@ -414,3 +414,6 @@ def generate_report(results, lines, word_analysis):
 
 if __name__ == '__main__':
     run_decoder()
+
+
+

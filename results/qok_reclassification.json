@@ -1,0 +1,198 @@
+{
+  "track": "Track88_QokReclassification",
+  "critical_finding": "qok- is PREPOSITION not priest/cohen",
+  "frequency_analysis": {
+    "total_words": 38007,
+    "qok_count": 3067,
+    "qok_percentage": 8.07,
+    "qok_unique_forms": 242,
+    "top_qok_words": {
+      "qokeey": 308,
+      "qokeedy": 301,
+      "qokain": 273,
+      "qokedy": 268,
+      "qokaiin": 259,
+      "qokal": 187,
+      "qokar": 150,
+      "qoky": 145,
+      "qokey": 104,
+      "qokol": 104,
+      "qokchy": 69,
+      "qokchdy": 56,
+      "qokeol": 51,
+      "qokchedy": 39,
+      "qokor": 35,
+      "qokeody": 32,
+      "qokchey": 30,
+      "qokeeey": 26,
+      "qokam": 25,
+      "qokeeo": 23
+    },
+    "kaiin_variants_count": 1443,
+    "kaiin_variants": {
+      "qokain": 273,
+      "qokaiin": 259,
+      "okaiin": 209,
+      "okain": 139,
+      "kaiin": 65,
+      "lkaiin": 49,
+      "kain": 48,
+      "ykaiin": 45,
+      "lkain": 35,
+      "olkain": 33,
+      "olkaiin": 31,
+      "chkaiin": 18,
+      "chokaiin": 16,
+      "chkain": 12,
+      "chokain": 10,
+      "ykain": 10,
+      "chekaiin": 8,
+      "chekain": 7,
+      "alkain": 7,
+      "qolkain": 5,
+      "figureqokain": 5,
+      "alkaiin": 5,
+      "shekain": 5,
+      "shkaiin": 4,
+      "cheokain": 4,
+      "cholkaiin": 4,
+      "shokaiin": 3,
+      "dykaiin": 3,
+      "plantokain": 3,
+      "oekaiin": 3
+    }
+  },
+  "daiin_pattern_analysis": {
+    "daiin_total": 727,
+    "daiin_followed_by_qok": 29,
+    "percentage": 3.99,
+    "sample_patterns": [
+      "daiin qokshol",
+      "daiin qoky",
+      "daiin qokcho",
+      "daiin qokchy!ky",
+      "daiin qokor",
+      "daiin qokchy",
+      "daiin qokol",
+      "daiin qokor",
+      "daiin qokchy",
+      "daiin qokeol<",
+      "daiin qokeey",
+      "daiin qokeeen",
+      "daiin qokeey",
+      "daiin qokedy",
+      "daiin qokedy",
+      "daiin qoky",
+      "daiin qokeey",
+      "daiin qokal",
+      "daiin qokeedal",
+      "daiin qokal"
+    ]
+  },
+  "priest_entries_found": 19,
+  "entries_reclassified": 19,
+  "changes": [
+    {
+      "word": "okan",
+      "old_meaning": "priest",
+      "new_meaning": "connector/prep"
+    },
+    {
+      "word": "okoiin",
+      "old_meaning": "priest",
+      "new_meaning": "connector/prep"
+    },
+    {
+      "word": "koiin",
+      "old_meaning": "priest",
+      "new_meaning": "connector/prep"
+    },
+    {
+      "word": "okaiiin",
+      "old_meaning": "priest",
+      "new_meaning": "connector/prep"
+    },
+    {
+      "word": "akaiin",
+      "old_meaning": "priest",
+      "new_meaning": "prep:of/from (-kaiin)"
+    },
+    {
+      "word": "oekaiin",
+      "old_meaning": "priest",
+      "new_meaning": "prep:of/from (-kaiin)"
+    },
+    {
+      "word": "okiin",
+      "old_meaning": "priest",
+      "new_meaning": "connector/prep"
+    },
+    {
+      "word": "koaiin",
+      "old_meaning": "priest",
+      "new_meaning": "connector/prep"
+    },
+    {
+      "word": "qokaiin",
+      "old_meaning": "priest/cohen",
+      "new_meaning": "prep:of/from (qok-)"
+    },
+    {
+      "word": "qokain",
+      "old_meaning": "priest/cohen",
+      "new_meaning": "prep:of/from (qok-)"
+    },
+    {
+      "word": "lkaiin",
+      "old_meaning": "priest/cohen",
+      "new_meaning": "prep:of/from (-kaiin)"
+    },
+    {
+      "word": "olkaiin",
+      "old_meaning": "priest/cohen",
+      "new_meaning": "prep:of/from (-kaiin)"
+    },
+    {
+      "word": "ykaiin",
+      "old_meaning": "priest/cohen",
+      "new_meaning": "prep:of/from (-kaiin)"
+    },
+    {
+      "word": "olkain",
+      "old_meaning": "priest/cohen",
+      "new_meaning": "prep:of/from (-kaiin)"
+    },
+    {
+      "word": "lkain",
+      "old_meaning": "priest/cohen",
+      "new_meaning": "prep:of/from (-kaiin)"
+    },
+    {
+      "word": "chkaiin",
+      "old_meaning": "priest/cohen",
+      "new_meaning": "prep:of/from (-kaiin)"
+    },
+    {
+      "word": "chodaiin",
+      "old_meaning": "priest",
+      "new_meaning": "connector/prep"
+    },
+    {
+      "word": "chdaiin",
+      "old_meaning": "priest",
+      "new_meaning": "connector/prep"
+    },
+    {
+      "word": "cheodaiin",
+      "old_meaning": "priest",
+      "new_meaning": "connector/prep"
+    }
+  ],
+  "impact": {
+    "entries_changed": 19,
+    "religious_domain_before": 1,
+    "religious_domain_after": 1,
+    "hebrew_entries_remaining": 164,
+    "impact_on_hypothesis": "MODERATE - 'cohen' evidence removed, but Hebrew vocabulary + gematria remain"
+  }
+}

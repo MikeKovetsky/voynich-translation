@@ -1,0 +1,29 @@
+TRACK 102: Mass Translation Report
+==================================
+
+GOAL: Run the translator on the ENTIRE manuscript (all sections) and measure "Readability".
+
+INPUT:
+- `data/eva_ivtff.txt` (Full corpus)
+- `results/master_dictionary_v6.json`
+
+TASK 1: Global Translation
+--------------------------
+Translate every line in the manuscript.
+Use the best-fit grammar for each section (if determined).
+
+TASK 2: Readability Metrics
+---------------------------
+Calculate % of words translated per page.
+Calculate "Coherence Score" per page (based on grammar frames).
+
+TASK 3: Heatmap
+----------------
+Identify the "Most Readable" pages outside the recipe section.
+These will be our next targets for deep analysis.
+
+OUTPUT FILES:
+- mass_translate.py
+- results/full_manuscript_translation.json (Large file)
+- results/readability_heatmap.md
+

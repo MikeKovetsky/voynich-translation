@@ -1,0 +1,1982 @@
+{
+  "herbal_folios": [
+    "f34r",
+    "f24r",
+    "f42v",
+    "f55r",
+    "f17v",
+    "f35r",
+    "f8r",
+    "f4v",
+    "f47v",
+    "f1v",
+    "f27r",
+    "f10r",
+    "f35v",
+    "f42r",
+    "f45r",
+    "f23r",
+    "f47r",
+    "f8v",
+    "f6v",
+    "f34v",
+    "f20v",
+    "f38v"
+  ],
+  "summary": {
+    "total_lines": 27,
+    "avg_coherence": 0.22037037037037038,
+    "high_coherence_count": 2,
+    "medium_coherence_count": 3,
+    "low_coherence_count": 22
+  },
+  "patterns": {
+    "verb_freq": {
+      "sain": 3,
+      "daiin": 1
+    },
+    "direct_objects": {
+      "char": 1,
+      "chckhey": 1,
+      "chckhy": 1
+    },
+    "prepositions": {
+      "qokeey": 3,
+      "qokain": 2,
+      "qokaiin": 2,
+      "qokeedy": 1,
+      "qokam": 1,
+      "qokcheedy": 1,
+      "qokeechy": 1,
+      "qokal": 1,
+      "qokchedy": 1,
+      "qokeeey": 1,
+      "qokan": 1,
+      "qokchey": 1
+    },
+    "nouns": {
+      "char": 2,
+      "qokeey": 1,
+      "tchedy": 1
+    },
+    "char_avg_position": 5.888888888888889
+  },
+  "char_context": {
+    "words_before": {
+      "qokain": 3,
+      "qokal": 2,
+      "lchdy": 1,
+      "ol": 1,
+      "pol": 1,
+      "chedy": 1,
+      "daiin": 1,
+      "or": 1,
+      "akain": 1,
+      "aiin": 1,
+      "raiin": 1,
+      "akaiiky": 1,
+      "al": 1,
+      "okar": 1,
+      "lkar": 1,
+      "dain": 1,
+      "chckhy": 1,
+      "lcheey": 1,
+      "cheal": 1,
+      "alaiin": 1
+    },
+    "words_after": {
+      "aiin": 3,
+      "ar": 2,
+      "olchey": 1,
+      "otal": 1,
+      "otar": 1,
+      "qopchedy": 1,
+      "qotal": 1,
+      "cheeol": 1,
+      "olkeeey": 1,
+      "lkeey": 1,
+      "oky": 1,
+      "okaiin": 1,
+      "arshey": 1,
+      "chdalal": 1,
+      "raikchy": 1,
+      "chkaiin": 1,
+      "lko": 1,
+      "shcthey": 1,
+      "an": 1,
+      "al": 1
+    },
+    "bigrams_before": {
+      "lcheey lchdy": 1,
+      "qokal ol": 1,
+      "pchdar chedy": 1,
+      "olkeechy or": 1,
+      "okchdal qokal": 1,
+      "rar akain": 1,
+      "okain qokain": 1,
+      "ysheor aiin": 1,
+      "schedy raiin": 1,
+      "qokchdy qokal": 1
+    },
+    "bigrams_after": {
+      "olchey lcheody": 1,
+      "otal opchedy": 1,
+      "otar okain": 1,
+      "qopchedy ocphedy": 1,
+      "qotal okechol": 1,
+      "cheeol sor": 1,
+      "olkeeey olcheo": 1,
+      "lkeey roiir": 1,
+      "oky cheokam": 1,
+      "okaiin qokeechy": 1
+    },
+    "roles": [
+      {
+        "folio": "f103v",
+        "line": "15",
+        "role": "UNKNOWN",
+        "context": [
+          "lcheey",
+          "lchdy",
+          "char",
+          "olchey",
+          "lcheody"
+        ]
+      },
+      {
+        "folio": "f103v",
+        "line": "17",
+        "role": "NOUN_AFTER_ARTICLE",
+        "context": [
+          "qokal",
+          "ol",
+          "char",
+          "otal",
+          "opchedy"
+        ]
+      },
+      {
+        "folio": "f103v",
+        "line": "20",
+        "role": "UNKNOWN",
+        "context": [
+          "pol",
+          "char",
+          "otar",
+          "okain"
+        ]
+      },
+      {
+        "folio": "f104r",
+        "line": "1",
+        "role": "UNKNOWN",
+        "context": [
+          "pchdar",
+          "chedy",
+          "char",
+          "qopchedy",
+          "ocphedy"
+        ]
+      },
+      {
+        "folio": "f104r",
+        "line": "24",
+        "role": "DIRECT_OBJECT",
+        "context": [
+          "daiin",
+          "char",
+          "qotal",
+          "okechol"
+        ]
+      },
+      {
+        "folio": "f104r",
+        "line": "28",
+        "role": "NOUN_AFTER_ARTICLE",
+        "context": [
+          "olkeechy",
+          "or",
+          "char",
+          "cheeol",
+          "sor"
+        ]
+      },
+      {
+        "folio": "f104r",
+        "line": "33",
+        "role": "PREP_OBJECT",
+        "context": [
+          "okchdal",
+          "qokal",
+          "char",
+          "olkeeey",
+          "olcheo"
+        ]
+      },
+      {
+        "folio": "f104v",
+        "line": "39",
+        "role": "UNKNOWN",
+        "context": [
+          "rar",
+          "akain",
+          "char",
+          "lkeey",
+          "roiir"
+        ]
+      },
+      {
+        "folio": "f106r",
+        "line": "47",
+        "role": "PREP_OBJECT",
+        "context": [
+          "okain",
+          "qokain",
+          "char",
+          "oky",
+          "cheokam"
+        ]
+      },
+      {
+        "folio": "f106r",
+        "line": "5",
+        "role": "UNKNOWN",
+        "context": [
+          "ysheor",
+          "aiin",
+          "char",
+          "okaiin",
+          "qokeechy"
+        ]
+      },
+      {
+        "folio": "f106v",
+        "line": "14",
+        "role": "UNKNOWN",
+        "context": [
+          "schedy",
+          "raiin",
+          "char",
+          "arshey",
+          "chedy"
+        ]
+      },
+      {
+        "folio": "f107r",
+        "line": "25",
+        "role": "PREP_OBJECT",
+        "context": [
+          "qokchdy",
+          "qokal",
+          "char",
+          "chdalal",
+          "om"
+        ]
+      },
+      {
+        "folio": "f107v",
+        "line": "23",
+        "role": "UNKNOWN",
+        "context": [
+          "ar",
+          "akaiiky",
+          "char",
+          "raikchy",
+          "ofchain"
+        ]
+      },
+      {
+        "folio": "f108r",
+        "line": "24",
+        "role": "NOUN_AFTER_ARTICLE",
+        "context": [
+          "chdar",
+          "al",
+          "char",
+          "aiin"
+        ]
+      },
+      {
+        "folio": "f108r",
+        "line": "7",
+        "role": "UNKNOWN",
+        "context": [
+          "chdy",
+          "okar",
+          "char",
+          "chkaiin",
+          "chsy"
+        ]
+      },
+      {
+        "folio": "f108v",
+        "line": "26",
+        "role": "UNKNOWN",
+        "context": [
+          "or",
+          "lkar",
+          "char",
+          "aiin",
+          "okal"
+        ]
+      },
+      {
+        "folio": "f111r",
+        "line": "24",
+        "role": "DIRECT_OBJECT",
+        "context": [
+          "oteo",
+          "dain",
+          "char",
+          "lko",
+          "lchr"
+        ]
+      },
+      {
+        "folio": "f111r",
+        "line": "52",
+        "role": "UNKNOWN",
+        "context": [
+          "sain",
+          "chckhy",
+          "char",
+          "aiin",
+          "alom"
+        ]
+      },
+      {
+        "folio": "f111v",
+        "line": "19",
+        "role": "PREP_OBJECT",
+        "context": [
+          "shey",
+          "qokain",
+          "char",
+          "shcthey",
+          "qoky"
+        ]
+      },
+      {
+        "folio": "f111v",
+        "line": "32",
+        "role": "UNKNOWN",
+        "context": [
+          "chey",
+          "lcheey",
+          "char",
+          "an"
+        ]
+      },
+      {
+        "folio": "f111v",
+        "line": "33",
+        "role": "UNKNOWN",
+        "context": [
+          "aman",
+          "cheal",
+          "char"
+        ]
+      },
+      {
+        "folio": "f112v",
+        "line": "44a",
+        "role": "NOUN_BEFORE_ARTICLE",
+        "context": [
+          "chcthy",
+          "alaiin",
+          "char",
+          "al",
+          "kamdam"
+        ]
+      },
+      {
+        "folio": "f113r",
+        "line": "17",
+        "role": "UNKNOWN",
+        "context": [
+          "chotar",
+          "chokar",
+          "char",
+          "alom"
+        ]
+      },
+      {
+        "folio": "f113r",
+        "line": "26",
+        "role": "UNKNOWN",
+        "context": [
+          "lchod",
+          "chal",
+          "char",
+          "lkeeody",
+          "oteeo"
+        ]
+      },
+      {
+        "folio": "f113r",
+        "line": "7",
+        "role": "UNKNOWN",
+        "context": [
+          "sokal",
+          "okeey",
+          "char",
+          "laiin",
+          "olkain"
+        ]
+      },
+      {
+        "folio": "f113v",
+        "line": "32",
+        "role": "PREP_OBJECT",
+        "context": [
+          "keey",
+          "qokain",
+          "char",
+          "ar",
+          "olar"
+        ]
+      },
+      {
+        "folio": "f116r",
+        "line": "2",
+        "role": "NOUN_BEFORE_ARTICLE",
+        "context": [
+          "aiiin",
+          "oky",
+          "char",
+          "ar",
+          "okain"
+        ]
+      }
+    ],
+    "grammar_frames": [
+      {
+        "folio": "f103v",
+        "line": "15",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": null,
+          "prep_distance": null,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f103v",
+        "line": "17",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": "qokal",
+          "prep_distance": 2,
+          "article": "ol",
+          "article_distance": 1
+        }
+      },
+      {
+        "folio": "f103v",
+        "line": "20",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": "qokeey",
+          "prep_distance": 8,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f104r",
+        "line": "1",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": null,
+          "prep_distance": null,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f104r",
+        "line": "24",
+        "frame": {
+          "verb": "daiin",
+          "verb_distance": 1,
+          "preposition": "qokam",
+          "prep_distance": 7,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f104r",
+        "line": "28",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": null,
+          "prep_distance": null,
+          "article": "or",
+          "article_distance": 1
+        }
+      },
+      {
+        "folio": "f104r",
+        "line": "33",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": "qokal",
+          "prep_distance": 1,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f104v",
+        "line": "39",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": null,
+          "prep_distance": null,
+          "article": "ar",
+          "article_distance": 6
+        }
+      },
+      {
+        "folio": "f106r",
+        "line": "47",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": "qokain",
+          "prep_distance": 1,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f106r",
+        "line": "5",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": "qokeechy",
+          "prep_distance": 2,
+          "article": "ar",
+          "article_distance": 5
+        }
+      },
+      {
+        "folio": "f106v",
+        "line": "14",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": null,
+          "prep_distance": null,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f107r",
+        "line": "25",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": "qokal",
+          "prep_distance": 1,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f107v",
+        "line": "23",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": null,
+          "prep_distance": null,
+          "article": "ar",
+          "article_distance": 2
+        }
+      },
+      {
+        "folio": "f108r",
+        "line": "24",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": "qoked",
+          "prep_distance": 5,
+          "article": "al",
+          "article_distance": 1
+        }
+      },
+      {
+        "folio": "f108r",
+        "line": "7",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": "qokedy",
+          "prep_distance": 4,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f108v",
+        "line": "26",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": "qokeeey",
+          "prep_distance": 5,
+          "article": "or",
+          "article_distance": 2
+        }
+      },
+      {
+        "folio": "f111r",
+        "line": "24",
+        "frame": {
+          "verb": "dain",
+          "verb_distance": 1,
+          "preposition": null,
+          "prep_distance": null,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f111r",
+        "line": "52",
+        "frame": {
+          "verb": "sain",
+          "verb_distance": 2,
+          "preposition": "qokeain",
+          "prep_distance": 4,
+          "article": "al",
+          "article_distance": 8
+        }
+      },
+      {
+        "folio": "f111v",
+        "line": "19",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": "qokain",
+          "prep_distance": 1,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f111v",
+        "line": "32",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": null,
+          "prep_distance": null,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f111v",
+        "line": "33",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": "qokan",
+          "prep_distance": 4,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f112v",
+        "line": "44a",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": null,
+          "prep_distance": null,
+          "article": "al",
+          "article_distance": 5
+        }
+      },
+      {
+        "folio": "f113r",
+        "line": "17",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": "qoky",
+          "prep_distance": 4,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f113r",
+        "line": "26",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": null,
+          "prep_distance": null,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f113r",
+        "line": "7",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": "qokchey",
+          "prep_distance": 3,
+          "article": null,
+          "article_distance": null
+        }
+      },
+      {
+        "folio": "f113v",
+        "line": "32",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": "qokain",
+          "prep_distance": 1,
+          "article": "ar",
+          "article_distance": 1
+        }
+      },
+      {
+        "folio": "f116r",
+        "line": "2",
+        "frame": {
+          "verb": null,
+          "verb_distance": null,
+          "preposition": null,
+          "prep_distance": null,
+          "article": "ar",
+          "article_distance": 3
+        }
+      }
+    ],
+    "role_distribution": {
+      "UNKNOWN": 15,
+      "NOUN_AFTER_ARTICLE": 3,
+      "DIRECT_OBJECT": 2,
+      "PREP_OBJECT": 5,
+      "NOUN_BEFORE_ARTICLE": 2
+    }
+  },
+  "parsed_lines": [
+    {
+      "folio": "f103v",
+      "line": "15",
+      "location": "f103v.15",
+      "raw": "tchedal.shey.lcheey.lchdy.char.olchey.lcheody.tedy.otain.otain.otaly",
+      "words": [
+        "tchedal",
+        "shey",
+        "lcheey",
+        "lchdy",
+        "char",
+        "olchey",
+        "lcheody",
+        "tedy",
+        "otain",
+        "otain",
+        "otaly"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": null,
+        "prep_object": null,
+        "article": null,
+        "noun": null,
+        "other": [
+          "tchedal",
+          "shey",
+          "lcheey",
+          "lchdy",
+          "char",
+          "olchey",
+          "lcheody",
+          "tedy",
+          "otain",
+          "otain",
+          "otaly"
+        ]
+      },
+      "translation": null,
+      "coherence": 0.0,
+      "coherence_factors": []
+    },
+    {
+      "folio": "f103v",
+      "line": "17",
+      "location": "f103v.17",
+      "raw": "qokeedy.chedy.qoteey.oteedy.lkedy.shedy.qokal.ol.char.otal.opchedy",
+      "words": [
+        "qokeedy",
+        "chedy",
+        "qoteey",
+        "oteedy",
+        "lkedy",
+        "shedy",
+        "qokal",
+        "ol",
+        "char",
+        "otal",
+        "opchedy"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": "qokeedy",
+        "prep_object": "chedy",
+        "article": "ol",
+        "noun": "char",
+        "other": [
+          "qoteey",
+          "oteedy",
+          "lkedy",
+          "shedy",
+          "qokal",
+          "otal",
+          "opchedy"
+        ]
+      },
+      "translation": "of/from is/has (verb) the hole/pierce (chor)",
+      "coherence": 0.44999999999999996,
+      "coherence_factors": [
+        "has_preposition",
+        "prep_object_in_dict",
+        "has_article",
+        "noun_in_dict"
+      ]
+    },
+    {
+      "folio": "f103v",
+      "line": "20",
+      "location": "f103v.20",
+      "raw": "pol.char.otar.okain.shaikhy.oteal.okain.qotal.shedy.qokeey.lolain",
+      "words": [
+        "pol",
+        "char",
+        "otar",
+        "okain",
+        "shaikhy",
+        "oteal",
+        "okain",
+        "qotal",
+        "shedy",
+        "qokeey",
+        "lolain"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": "qokeey",
+        "prep_object": "lolain",
+        "article": null,
+        "noun": null,
+        "other": [
+          "pol",
+          "char",
+          "otar",
+          "okain",
+          "shaikhy",
+          "oteal",
+          "okain",
+          "qotal",
+          "shedy"
+        ]
+      },
+      "translation": "of/from plant:atropa",
+      "coherence": 0.25,
+      "coherence_factors": [
+        "has_preposition",
+        "prep_object_in_dict"
+      ]
+    },
+    {
+      "folio": "f104r",
+      "line": "1",
+      "location": "f104r.1",
+      "raw": "pchdar.chedy.char.qopchedy.ocphedy.qopchedy.shedaiin.oteeo.chey.qopchedy.sain",
+      "words": [
+        "pchdar",
+        "chedy",
+        "char",
+        "qopchedy",
+        "ocphedy",
+        "qopchedy",
+        "shedaiin",
+        "oteeo",
+        "chey",
+        "qopchedy",
+        "sain"
+      ],
+      "parsed": {
+        "verb": "sain",
+        "verb_idx": 10,
+        "direct_object": null,
+        "preposition": null,
+        "prep_object": null,
+        "article": null,
+        "noun": null,
+        "other": [
+          "pchdar",
+          "chedy",
+          "char",
+          "qopchedy",
+          "ocphedy",
+          "qopchedy",
+          "shedaiin",
+          "oteeo",
+          "chey",
+          "qopchedy"
+        ]
+      },
+      "translation": "Take (Variant)",
+      "coherence": 0.2,
+      "coherence_factors": [
+        "has_verb"
+      ]
+    },
+    {
+      "folio": "f104r",
+      "line": "24",
+      "location": "f104r.24",
+      "raw": "daiin.char.qotal.okechol.olkeeor.olkeeodal.lkaiin.chalkeeedy.qokam",
+      "words": [
+        "daiin",
+        "char",
+        "qotal",
+        "okechol",
+        "olkeeor",
+        "olkeeodal",
+        "lkaiin",
+        "chalkeeedy",
+        "qokam"
+      ],
+      "parsed": {
+        "verb": "daiin",
+        "verb_idx": 0,
+        "direct_object": "char",
+        "preposition": "qokam",
+        "prep_object": null,
+        "article": null,
+        "noun": null,
+        "other": [
+          "qotal",
+          "okechol",
+          "olkeeor",
+          "olkeeodal",
+          "lkaiin",
+          "chalkeeedy"
+        ]
+      },
+      "translation": "Take/Mix/Use hole/pierce (chor) of/from",
+      "coherence": 0.7,
+      "coherence_factors": [
+        "has_verb",
+        "has_direct_object",
+        "object_in_dict",
+        "has_preposition",
+        "char_is_direct_object"
+      ]
+    },
+    {
+      "folio": "f104r",
+      "line": "28",
+      "location": "f104r.28",
+      "raw": "olcheear.chedar.or.arorsheey.olkeechy.or.char.cheeol.sor.or.aiin.otam",
+      "words": [
+        "olcheear",
+        "chedar",
+        "or",
+        "arorsheey",
+        "olkeechy",
+        "or",
+        "char",
+        "cheeol",
+        "sor",
+        "or",
+        "aiin",
+        "otam"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": null,
+        "prep_object": null,
+        "article": null,
+        "noun": null,
+        "other": [
+          "olcheear",
+          "chedar",
+          "arorsheey",
+          "olkeechy",
+          "char",
+          "cheeol",
+          "sor",
+          "aiin",
+          "otam"
+        ]
+      },
+      "translation": null,
+      "coherence": 0.0,
+      "coherence_factors": []
+    },
+    {
+      "folio": "f104r",
+      "line": "33",
+      "location": "f104r.33",
+      "raw": "okchechy.qokcheedy.okchdal.qokal.char.olkeeey.olcheo.lkaiin.chey.roly",
+      "words": [
+        "okchechy",
+        "qokcheedy",
+        "okchdal",
+        "qokal",
+        "char",
+        "olkeeey",
+        "olcheo",
+        "lkaiin",
+        "chey",
+        "roly"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": "qokcheedy",
+        "prep_object": "okchdal",
+        "article": null,
+        "noun": null,
+        "other": [
+          "okchechy",
+          "qokal",
+          "char",
+          "olkeeey",
+          "olcheo",
+          "lkaiin",
+          "chey",
+          "roly"
+        ]
+      },
+      "translation": "of/from plant:geranium",
+      "coherence": 0.25,
+      "coherence_factors": [
+        "has_preposition",
+        "prep_object_in_dict"
+      ]
+    },
+    {
+      "folio": "f104v",
+      "line": "39",
+      "location": "f104v.39",
+      "raw": "ysheey.rar.akain.char.lkeey.roiir.shey.cheey.kas.ar.lkchs.ar.y.rais.alod",
+      "words": [
+        "ysheey",
+        "rar",
+        "akain",
+        "char",
+        "lkeey",
+        "roiir",
+        "shey",
+        "cheey",
+        "kas",
+        "ar",
+        "lkchs",
+        "ar",
+        "y",
+        "rais",
+        "alod"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": null,
+        "prep_object": null,
+        "article": null,
+        "noun": null,
+        "other": [
+          "ysheey",
+          "rar",
+          "akain",
+          "char",
+          "lkeey",
+          "roiir",
+          "shey",
+          "cheey",
+          "kas",
+          "lkchs",
+          "y",
+          "rais",
+          "alod"
+        ]
+      },
+      "translation": null,
+      "coherence": 0.0,
+      "coherence_factors": []
+    },
+    {
+      "folio": "f106r",
+      "line": "47",
+      "location": "f106r.47",
+      "raw": "ycheoar.okain.qokain.char.oky.cheokam",
+      "words": [
+        "ycheoar",
+        "okain",
+        "qokain",
+        "char",
+        "oky",
+        "cheokam"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": "qokain",
+        "prep_object": "char",
+        "article": null,
+        "noun": null,
+        "other": [
+          "ycheoar",
+          "okain",
+          "oky",
+          "cheokam"
+        ]
+      },
+      "translation": "of/from hole/pierce (chor)",
+      "coherence": 0.25,
+      "coherence_factors": [
+        "has_preposition",
+        "prep_object_in_dict"
+      ]
+    },
+    {
+      "folio": "f106r",
+      "line": "5",
+      "location": "f106r.5",
+      "raw": "ysheor.aiin.char.okaiin.qokeechy.checkhy.qokeod.ar.qokeo.lkeo.leeo.ram",
+      "words": [
+        "ysheor",
+        "aiin",
+        "char",
+        "okaiin",
+        "qokeechy",
+        "checkhy",
+        "qokeod",
+        "ar",
+        "qokeo",
+        "lkeo",
+        "leeo",
+        "ram"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": "qokeechy",
+        "prep_object": "checkhy",
+        "article": null,
+        "noun": null,
+        "other": [
+          "ysheor",
+          "aiin",
+          "char",
+          "okaiin",
+          "qokeod",
+          "qokeo",
+          "lkeo",
+          "leeo",
+          "ram"
+        ]
+      },
+      "translation": "of/from verb form",
+      "coherence": 0.25,
+      "coherence_factors": [
+        "has_preposition",
+        "prep_object_in_dict"
+      ]
+    },
+    {
+      "folio": "f106v",
+      "line": "14",
+      "location": "f106v.14",
+      "raw": "schedy.raiin.char.arshey.chedy.aiiin.alkam",
+      "words": [
+        "schedy",
+        "raiin",
+        "char",
+        "arshey",
+        "chedy",
+        "aiiin",
+        "alkam"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": null,
+        "prep_object": null,
+        "article": null,
+        "noun": null,
+        "other": [
+          "schedy",
+          "raiin",
+          "char",
+          "arshey",
+          "chedy",
+          "aiiin",
+          "alkam"
+        ]
+      },
+      "translation": null,
+      "coherence": 0.0,
+      "coherence_factors": []
+    },
+    {
+      "folio": "f107r",
+      "line": "25",
+      "location": "f107r.25",
+      "raw": "ycheain.chal.kal.chedy.qokaiin.chody.qokchdy.qokal.char.chdalal.om",
+      "words": [
+        "ycheain",
+        "chal",
+        "kal",
+        "chedy",
+        "qokaiin",
+        "chody",
+        "qokchdy",
+        "qokal",
+        "char",
+        "chdalal",
+        "om"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": "qokaiin",
+        "prep_object": "chody",
+        "article": null,
+        "noun": null,
+        "other": [
+          "ycheain",
+          "chal",
+          "kal",
+          "chedy",
+          "qokchdy",
+          "qokal",
+          "char",
+          "chdalal",
+          "om"
+        ]
+      },
+      "translation": "of/from one",
+      "coherence": 0.25,
+      "coherence_factors": [
+        "has_preposition",
+        "prep_object_in_dict"
+      ]
+    },
+    {
+      "folio": "f107v",
+      "line": "23",
+      "location": "f107v.23",
+      "raw": "palchar.ar.akaiiky.char.raikchy.ofchain.opalkar.otal.otas.alky",
+      "words": [
+        "palchar",
+        "ar",
+        "akaiiky",
+        "char",
+        "raikchy",
+        "ofchain",
+        "opalkar",
+        "otal",
+        "otas",
+        "alky"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": null,
+        "prep_object": null,
+        "article": null,
+        "noun": null,
+        "other": [
+          "palchar",
+          "akaiiky",
+          "char",
+          "raikchy",
+          "ofchain",
+          "opalkar",
+          "otal",
+          "otas",
+          "alky"
+        ]
+      },
+      "translation": null,
+      "coherence": 0.0,
+      "coherence_factors": []
+    },
+    {
+      "folio": "f108r",
+      "line": "24",
+      "location": "f108r.24",
+      "raw": "folaiin.shkhy.qokal.lkedy.qotedy.qoked.qotedy.okal.chdar.al.char.aiin",
+      "words": [
+        "folaiin",
+        "shkhy",
+        "qokal",
+        "lkedy",
+        "qotedy",
+        "qoked",
+        "qotedy",
+        "okal",
+        "chdar",
+        "al",
+        "char",
+        "aiin"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": "qokal",
+        "prep_object": "lkedy",
+        "article": "al",
+        "noun": "char",
+        "other": [
+          "folaiin",
+          "shkhy",
+          "qotedy",
+          "qoked",
+          "qotedy",
+          "okal",
+          "chdar",
+          "aiin"
+        ]
+      },
+      "translation": "of/from [lkedy] the hole/pierce (chor)",
+      "coherence": 0.35,
+      "coherence_factors": [
+        "has_preposition",
+        "has_article",
+        "noun_in_dict"
+      ]
+    },
+    {
+      "folio": "f108r",
+      "line": "7",
+      "location": "f108r.7",
+      "raw": "okchey.okedy.qokchedy.chedy.qokedy.okar.chdy.okar.char.chkaiin.chsy",
+      "words": [
+        "okchey",
+        "okedy",
+        "qokchedy",
+        "chedy",
+        "qokedy",
+        "okar",
+        "chdy",
+        "okar",
+        "char",
+        "chkaiin",
+        "chsy"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": "qokchedy",
+        "prep_object": "chedy",
+        "article": null,
+        "noun": null,
+        "other": [
+          "okchey",
+          "okedy",
+          "qokedy",
+          "okar",
+          "chdy",
+          "okar",
+          "char",
+          "chkaiin",
+          "chsy"
+        ]
+      },
+      "translation": "of/from is/has (verb)",
+      "coherence": 0.25,
+      "coherence_factors": [
+        "has_preposition",
+        "prep_object_in_dict"
+      ]
+    },
+    {
+      "folio": "f108v",
+      "line": "26",
+      "location": "f108v.26",
+      "raw": "sair.okeaiin.cheol.shedy.qokeeey.doaiin.ar.or.lkar.char.aiin.okal.ldyr.ls",
+      "words": [
+        "sair",
+        "okeaiin",
+        "cheol",
+        "shedy",
+        "qokeeey",
+        "doaiin",
+        "ar",
+        "or",
+        "lkar",
+        "char",
+        "aiin",
+        "okal",
+        "ldyr",
+        "ls"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": "qokeeey",
+        "prep_object": "doaiin",
+        "article": null,
+        "noun": null,
+        "other": [
+          "sair",
+          "okeaiin",
+          "cheol",
+          "shedy",
+          "lkar",
+          "char",
+          "aiin",
+          "okal",
+          "ldyr",
+          "ls"
+        ]
+      },
+      "translation": "of/from plant:tussilago",
+      "coherence": 0.25,
+      "coherence_factors": [
+        "has_preposition",
+        "prep_object_in_dict"
+      ]
+    },
+    {
+      "folio": "f111r",
+      "line": "24",
+      "location": "f111r.24",
+      "raw": "sain.chckhey.cheos.lchal.lkechey.okeey.lkechedy.oteo.dain.char.lko.lchr.aiin.aim",
+      "words": [
+        "sain",
+        "chckhey",
+        "cheos",
+        "lchal",
+        "lkechey",
+        "okeey",
+        "lkechedy",
+        "oteo",
+        "dain",
+        "char",
+        "lko",
+        "lchr",
+        "aiin",
+        "aim"
+      ],
+      "parsed": {
+        "verb": "sain",
+        "verb_idx": 0,
+        "direct_object": "chckhey",
+        "preposition": null,
+        "prep_object": null,
+        "article": null,
+        "noun": null,
+        "other": [
+          "cheos",
+          "lchal",
+          "lkechey",
+          "okeey",
+          "lkechedy",
+          "oteo",
+          "char",
+          "lko",
+          "lchr",
+          "aiin",
+          "aim"
+        ]
+      },
+      "translation": "Take (Variant) verb (unknown)",
+      "coherence": 0.44999999999999996,
+      "coherence_factors": [
+        "has_verb",
+        "has_direct_object",
+        "object_in_dict"
+      ]
+    },
+    {
+      "folio": "f111r",
+      "line": "52",
+      "location": "f111r.52",
+      "raw": "dair.al.qokeey.qokaiin.sheal.qokeain.shckhy.sain.chckhy.char.aiin.alom",
+      "words": [
+        "dair",
+        "al",
+        "qokeey",
+        "qokaiin",
+        "sheal",
+        "qokeain",
+        "shckhy",
+        "sain",
+        "chckhy",
+        "char",
+        "aiin",
+        "alom"
+      ],
+      "parsed": {
+        "verb": "sain",
+        "verb_idx": 7,
+        "direct_object": "chckhy",
+        "preposition": "qokeey",
+        "prep_object": null,
+        "article": "al",
+        "noun": "qokeey",
+        "other": [
+          "dair",
+          "qokaiin",
+          "sheal",
+          "qokeain",
+          "shckhy",
+          "char",
+          "aiin",
+          "alom"
+        ]
+      },
+      "translation": "Take (Variant) strength/power of/from the the (+ noun)",
+      "coherence": 0.7999999999999999,
+      "coherence_factors": [
+        "has_verb",
+        "has_direct_object",
+        "object_in_dict",
+        "has_preposition",
+        "has_article",
+        "noun_in_dict"
+      ]
+    },
+    {
+      "folio": "f111v",
+      "line": "19",
+      "location": "f111v.19",
+      "raw": "qokaiin.cheal.tain.qokain.shey.qokain.char.shcthey.qoky.chy.qokaiin",
+      "words": [
+        "qokaiin",
+        "cheal",
+        "tain",
+        "qokain",
+        "shey",
+        "qokain",
+        "char",
+        "shcthey",
+        "qoky",
+        "chy",
+        "qokaiin"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": "qokaiin",
+        "prep_object": "cheal",
+        "article": null,
+        "noun": null,
+        "other": [
+          "tain",
+          "qokain",
+          "shey",
+          "qokain",
+          "char",
+          "shcthey",
+          "qoky",
+          "chy",
+          "qokaiin"
+        ]
+      },
+      "translation": "of/from sick",
+      "coherence": 0.25,
+      "coherence_factors": [
+        "has_preposition",
+        "prep_object_in_dict"
+      ]
+    },
+    {
+      "folio": "f111v",
+      "line": "32",
+      "location": "f111v.32",
+      "raw": "tar.chey.tain.chkar.alkar.chey.qol.chedy.okain.chey.lcheey.char.an",
+      "words": [
+        "tar",
+        "chey",
+        "tain",
+        "chkar",
+        "alkar",
+        "chey",
+        "qol",
+        "chedy",
+        "okain",
+        "chey",
+        "lcheey",
+        "char",
+        "an"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": null,
+        "prep_object": null,
+        "article": null,
+        "noun": null,
+        "other": [
+          "tar",
+          "chey",
+          "tain",
+          "chkar",
+          "alkar",
+          "chey",
+          "qol",
+          "chedy",
+          "okain",
+          "chey",
+          "lcheey",
+          "char",
+          "an"
+        ]
+      },
+      "translation": null,
+      "coherence": 0.0,
+      "coherence_factors": []
+    },
+    {
+      "folio": "f111v",
+      "line": "33",
+      "location": "f111v.33",
+      "raw": "ysheal.qoair.ain.okan.sheainy.qokan.chan.aman.cheal.char",
+      "words": [
+        "ysheal",
+        "qoair",
+        "ain",
+        "okan",
+        "sheainy",
+        "qokan",
+        "chan",
+        "aman",
+        "cheal",
+        "char"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": "qokan",
+        "prep_object": "chan",
+        "article": null,
+        "noun": null,
+        "other": [
+          "ysheal",
+          "qoair",
+          "ain",
+          "okan",
+          "sheainy",
+          "aman",
+          "cheal",
+          "char"
+        ]
+      },
+      "translation": "of/from plant:moss polytrichnum",
+      "coherence": 0.25,
+      "coherence_factors": [
+        "has_preposition",
+        "prep_object_in_dict"
+      ]
+    },
+    {
+      "folio": "f112v",
+      "line": "44a",
+      "location": "f112v.44a",
+      "raw": "ycheey.chokeey.okar.al.tchedy.oteol.chcthy.alaiin.char.al.kamdam",
+      "words": [
+        "ycheey",
+        "chokeey",
+        "okar",
+        "al",
+        "tchedy",
+        "oteol",
+        "chcthy",
+        "alaiin",
+        "char",
+        "al",
+        "kamdam"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": null,
+        "prep_object": null,
+        "article": "al",
+        "noun": "tchedy",
+        "other": [
+          "ycheey",
+          "chokeey",
+          "okar",
+          "oteol",
+          "chcthy",
+          "alaiin",
+          "char",
+          "kamdam"
+        ]
+      },
+      "translation": "the verbal/adjectival",
+      "coherence": 0.2,
+      "coherence_factors": [
+        "has_article",
+        "noun_in_dict"
+      ]
+    },
+    {
+      "folio": "f113r",
+      "line": "17",
+      "location": "f113r.17",
+      "raw": "dor.shar.shol.qokeey.qokchol.chedaiin.qoky.chokain.chotar.chokar.char.alom",
+      "words": [
+        "dor",
+        "shar",
+        "shol",
+        "qokeey",
+        "qokchol",
+        "chedaiin",
+        "qoky",
+        "chokain",
+        "chotar",
+        "chokar",
+        "char",
+        "alom"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": "qokeey",
+        "prep_object": null,
+        "article": null,
+        "noun": null,
+        "other": [
+          "dor",
+          "shar",
+          "shol",
+          "qokchol",
+          "chedaiin",
+          "qoky",
+          "chokain",
+          "chotar",
+          "chokar",
+          "char",
+          "alom"
+        ]
+      },
+      "translation": "of/from",
+      "coherence": 0.15,
+      "coherence_factors": [
+        "has_preposition"
+      ]
+    },
+    {
+      "folio": "f113r",
+      "line": "26",
+      "location": "f113r.26",
+      "raw": "tol.cheshy.lkchedy.lchod.chal.char.lkeeody.oteeo.loaiin.okeedy",
+      "words": [
+        "tol",
+        "cheshy",
+        "lkchedy",
+        "lchod",
+        "chal",
+        "char",
+        "lkeeody",
+        "oteeo",
+        "loaiin",
+        "okeedy"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": null,
+        "prep_object": null,
+        "article": null,
+        "noun": null,
+        "other": [
+          "tol",
+          "cheshy",
+          "lkchedy",
+          "lchod",
+          "chal",
+          "char",
+          "lkeeody",
+          "oteeo",
+          "loaiin",
+          "okeedy"
+        ]
+      },
+      "translation": null,
+      "coherence": 0.0,
+      "coherence_factors": []
+    },
+    {
+      "folio": "f113r",
+      "line": "7",
+      "location": "f113r.7",
+      "raw": "chos.sheey.qokchey.sokal.okeey.char.laiin.olkain",
+      "words": [
+        "chos",
+        "sheey",
+        "qokchey",
+        "sokal",
+        "okeey",
+        "char",
+        "laiin",
+        "olkain"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": "qokchey",
+        "prep_object": "sokal",
+        "article": null,
+        "noun": null,
+        "other": [
+          "chos",
+          "sheey",
+          "okeey",
+          "char",
+          "laiin",
+          "olkain"
+        ]
+      },
+      "translation": "of/from [sokal]",
+      "coherence": 0.15,
+      "coherence_factors": [
+        "has_preposition"
+      ]
+    },
+    {
+      "folio": "f113v",
+      "line": "32",
+      "location": "f113v.32",
+      "raw": "sheol.keey.qokain.char.ar.olar.aiiin.okar",
+      "words": [
+        "sheol",
+        "keey",
+        "qokain",
+        "char",
+        "ar",
+        "olar",
+        "aiiin",
+        "okar"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": "qokain",
+        "prep_object": "char",
+        "article": null,
+        "noun": null,
+        "other": [
+          "sheol",
+          "keey",
+          "olar",
+          "aiiin",
+          "okar"
+        ]
+      },
+      "translation": "of/from hole/pierce (chor)",
+      "coherence": 0.25,
+      "coherence_factors": [
+        "has_preposition",
+        "prep_object_in_dict"
+      ]
+    },
+    {
+      "folio": "f116r",
+      "line": "2",
+      "location": "f116r.2",
+      "raw": "oain.cheer.ain.okeey.okeey.shy.lar.ar.aiiin.oky.char.ar.okain.ykanam",
+      "words": [
+        "oain",
+        "cheer",
+        "ain",
+        "okeey",
+        "okeey",
+        "shy",
+        "lar",
+        "ar",
+        "aiiin",
+        "oky",
+        "char",
+        "ar",
+        "okain",
+        "ykanam"
+      ],
+      "parsed": {
+        "verb": null,
+        "verb_idx": null,
+        "direct_object": null,
+        "preposition": null,
+        "prep_object": null,
+        "article": null,
+        "noun": null,
+        "other": [
+          "oain",
+          "cheer",
+          "ain",
+          "okeey",
+          "okeey",
+          "shy",
+          "lar",
+          "aiiin",
+          "oky",
+          "char",
+          "okain",
+          "ykanam"
+        ]
+      },
+      "translation": null,
+      "coherence": 0.0,
+      "coherence_factors": []
+    }
+  ]
+}

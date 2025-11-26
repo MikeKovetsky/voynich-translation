@@ -114,3 +114,6 @@ Note: Claston has more words due to special markers and variants not in EVA.
 - [x] 3 major paradigms confirmed in both notations
 - [x] Conversion script working
 - [x] Recommendation for primary system documented (EVA)
+
+
+

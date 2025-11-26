@@ -175,3 +175,6 @@ Found 2,485 words appearing on exactly one page. These are prime candidates for 
 *Generated: November 24, 2025*
 *Analysis by: Voynich Research Project*
 
+
+
+

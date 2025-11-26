@@ -1,0 +1,968 @@
+{
+  "version": "2.0",
+  "grammar_frame": "daiin [AMOUNT] [INGREDIENT] qok- [SOURCE]",
+  "stats": {
+    "total_candidates": 633,
+    "specific_plant_recipes": 16,
+    "generic_term_recipes": 37,
+    "unknown_source_recipes": 580,
+    "top50_avg_score": 4.48,
+    "slot_fill_rates": {
+      "verb": 1.0,
+      "amount": 0.82,
+      "ingredient": 0.82,
+      "preposition": 0.76,
+      "source": 0.72
+    }
+  },
+  "golden_recipes": [
+    {
+      "rank": 1,
+      "location": "f101r.8",
+      "folio": "f101r",
+      "raw": "olaiin.oteol.chor.oteey.chokchey.kor.daiin.shok.chol.chol.qoky.daiin<-><!fold>ol.s.al.ydar.daiin.or.ory.okeey.daiin.shea.daiin.okol.chear",
+      "score": 6,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "al",
+        "ingredient": "chor",
+        "preposition": "qoky",
+        "source": "foldol",
+        "extras": []
+      },
+      "translation": "Take a portion of stem from [foldol]."
+    },
+    {
+      "rank": 2,
+      "location": "f100v.14",
+      "folio": "f100v",
+      "raw": "cthdeecthy.sheocphy.qoteody.ckhoor.ar.chor.oteey.daiin.qokomo",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "ar",
+        "ingredient": "chor",
+        "preposition": "qokomo",
+        "source": null,
+        "extras": []
+      },
+      "translation": "Take a handful of stem."
+    },
+    {
+      "rank": 3,
+      "location": "f101r.2",
+      "folio": "f101r",
+      "raw": "dol.chokeey.chkey.cthey.okal.chol.kol.okeey.r.or.ol.okolol.olchey.qokchor.okey.qokeol.kor.shey.teol.or.aiin.chol.daiin<$>",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "or",
+        "ingredient": "chol",
+        "preposition": "qokchor",
+        "source": "okey",
+        "extras": []
+      },
+      "translation": "Take an amount of leaf from [okey]."
+    },
+    {
+      "rank": 4,
+      "location": "f101r.9",
+      "folio": "f101r",
+      "raw": "daiin.okeol.qokcheol.ykeor.dar.ol.otechy.ykeor.dor.aiin.chl!s.cheol<-><!fold>okol.shey.qodar.soiin.choko.qokeol.daiin.o!dar.okchol.cheor.chety",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "aiin",
+        "ingredient": "okeol",
+        "preposition": "qokcheol",
+        "source": "ykeor",
+        "extras": []
+      },
+      "translation": "Take one flower extract from the tamus communis."
+    },
+    {
+      "rank": 5,
+      "location": "f104r.45",
+      "folio": "f104r",
+      "raw": "daiin.olcheeo.l.s.aiin.otai!n.ar.chedy.qokaiin.otaiin.otai!n<$>",
+      "score": 5,
+      "source_type": "GENERIC",
+      "slots": {
+        "verb": "daiin",
+        "amount": "aiin",
+        "ingredient": "otaiin",
+        "preposition": "qokaiin",
+        "source": "otaiin",
+        "extras": []
+      },
+      "translation": "Take one fig."
+    },
+    {
+      "rank": 6,
+      "location": "f105v.13",
+      "folio": "f105v",
+      "raw": "saiin.opchedy.qokchdy.otar.al.kair.okees.lkeedal<$>",
+      "score": 5,
+      "source_type": "GENERIC",
+      "slots": {
+        "verb": "saiin",
+        "amount": "al",
+        "ingredient": "otar",
+        "preposition": "qokchdy",
+        "source": "otar",
+        "extras": []
+      },
+      "translation": "Prepare a portion of earth."
+    },
+    {
+      "rank": 7,
+      "location": "f106v.2",
+      "folio": "f106v",
+      "raw": "daiin.al.sheeo!dar.ychtain.chor.otar.qokar.okar.shed.sheo.keo!r.ai!n.am!chy",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "al",
+        "ingredient": "chor",
+        "preposition": "qokar",
+        "source": "okar",
+        "extras": []
+      },
+      "translation": "Take a portion of stem from [okar]."
+    },
+    {
+      "rank": 8,
+      "location": "f107r.6",
+      "folio": "f107r",
+      "raw": "okcheey.qokeedy.chotchedy.daiin.ar.oteey.lteey.chedaiin.okchey.otaiin.am",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "ar",
+        "ingredient": "otaiin",
+        "preposition": "qokeedy",
+        "source": "chotchedy",
+        "extras": []
+      },
+      "translation": "Take a handful of fig from [chotchedy]."
+    },
+    {
+      "rank": 9,
+      "location": "f107v.2",
+      "folio": "f107v",
+      "raw": "daiin.dckhy.ol.daiin.chkal.qokedy.otal.chedy.oteos.aiin.otar.alkai!n.ol",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "otal",
+        "ingredient": "otar",
+        "preposition": "qokedy",
+        "source": "otal",
+        "extras": []
+      },
+      "translation": "Take the whole earth from the whole."
+    },
+    {
+      "rank": 10,
+      "location": "f108r.48",
+      "folio": "f108r",
+      "raw": "pcheedy.qokeol.okeol.keol.dai!n.ar.otedy.qokedy.qokeedy.qokeedy.lchdy",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "dain",
+        "amount": "ar",
+        "ingredient": "okeol",
+        "preposition": "qokeol",
+        "source": "okeol",
+        "extras": []
+      },
+      "translation": "Take a handful of flower extract."
+    },
+    {
+      "rank": 11,
+      "location": "f108v.23",
+      "folio": "f108v",
+      "raw": "qokeeor.okeey.qoeey.cho.deeal.daiin.checthal.cheek!y.otar.aiin.chckhy.lte!dy",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "aiin",
+        "ingredient": "otar",
+        "preposition": "qokeeor",
+        "source": "okeey",
+        "extras": []
+      },
+      "translation": "Take one earth from [okeey]."
+    },
+    {
+      "rank": 12,
+      "location": "f108v.36",
+      "folio": "f108v",
+      "raw": "daiin.shechy.qokedy.qokai!n.chor.chal.chal.chedy.dai!n.al.al.keedy.otal.ys",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "al",
+        "ingredient": "chor",
+        "preposition": "qokedy",
+        "source": "qokain",
+        "extras": []
+      },
+      "translation": "Take a portion of stem from the priest/cohen."
+    },
+    {
+      "rank": 13,
+      "location": "f111r.25",
+      "folio": "f111r",
+      "raw": "so.sheor.okeedy.oteeey.qokeey.qokeeo!s.chedar.alal.oikhy.oxar.aiin.odaiin.chody",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "odaiin",
+        "amount": "aiin",
+        "ingredient": "sheor",
+        "preposition": "qokeey",
+        "source": "qokeeos",
+        "extras": []
+      },
+      "translation": "Take one head from the plant_term."
+    },
+    {
+      "rank": 14,
+      "location": "f111r.4",
+      "folio": "f111r",
+      "raw": "saiin.oteedy.qokeey.daiin.okedal.chedy.qokedy.lshedy.chcthhy.okeey.lor.ar.al",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "saiin",
+        "amount": "ar",
+        "ingredient": null,
+        "preposition": "qokeey",
+        "source": "okedal",
+        "extras": []
+      },
+      "translation": "Prepare a handful from [okedal]."
+    },
+    {
+      "rank": 15,
+      "location": "f111r.52",
+      "folio": "f111r",
+      "raw": "dair.al.qokeey.qokaiin.sheal.qokeai!n.shckhy.sai!n.chckhy.char.aiin.alom",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "sain",
+        "amount": "al",
+        "ingredient": "char",
+        "preposition": "qokeey",
+        "source": "qokaiin",
+        "extras": []
+      },
+      "translation": "Prepare a portion of flower from the priest/cohen."
+    },
+    {
+      "rank": 16,
+      "location": "f111r.53",
+      "folio": "f111r",
+      "raw": "yshe.aiin.okshdy.shkeey.kai!n.chaiin.alol.shey.qokaiin.chcthy.dai!n",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "dain",
+        "amount": "aiin",
+        "ingredient": "chaiin",
+        "preposition": "qokaiin",
+        "source": "chcthy",
+        "extras": []
+      },
+      "translation": "Take one root from the verb (unknown)."
+    },
+    {
+      "rank": 17,
+      "location": "f111v.22",
+      "folio": "f111v",
+      "raw": "saiin.ychear.olsheey.chet!ai!n.chedy.qokai!n.okai!n.al.chan.okal.chey.lkeeey",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "saiin",
+        "amount": "al",
+        "ingredient": "chan",
+        "preposition": "qokain",
+        "source": "okain",
+        "extras": []
+      },
+      "translation": "Prepare a portion of root from [okain]."
+    },
+    {
+      "rank": 18,
+      "location": "f111v.3",
+      "folio": "f111v",
+      "raw": "dai!n.chedy.shedal.otedy.oteeo.chedy.qokeey.dai!n.chcthar.otar.qotai!n.otaim",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "dain",
+        "amount": null,
+        "ingredient": "otar",
+        "preposition": "qokeey",
+        "source": "chcthar",
+        "extras": []
+      },
+      "translation": "Take earth from [chcthar]."
+    },
+    {
+      "rank": 19,
+      "location": "f112v.37",
+      "folio": "f112v",
+      "raw": "teedal.sai!n.ar.otaiin.shedy.qokedaiin.ar.qokaiin.chol.kedy.qokam",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "sain",
+        "amount": "ar",
+        "ingredient": "otaiin",
+        "preposition": "qokedaiin",
+        "source": "ar",
+        "extras": []
+      },
+      "translation": "Prepare a handful of fig from the handful."
+    },
+    {
+      "rank": 20,
+      "location": "f113r.9",
+      "folio": "f113r",
+      "raw": "dchos.aiin.oteey.qokaiin.cho.okaiin.cheo.daiin.chky.le.chody.chotaiin<$>",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "aiin",
+        "ingredient": "chotaiin",
+        "preposition": "qokaiin",
+        "source": "cho",
+        "extras": []
+      },
+      "translation": "Take one leaf from [cho]."
+    },
+    {
+      "rank": 21,
+      "location": "f113v.16",
+      "folio": "f113v",
+      "raw": "daiin.chl.lkeey.lkaiin.chdai!n.qokain.sheor.okalchedy.qokar.olkam.ar",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "ar",
+        "ingredient": "chl",
+        "preposition": "qokain",
+        "source": "sheor",
+        "extras": []
+      },
+      "translation": "Take a handful of root from the head."
+    },
+    {
+      "rank": 22,
+      "location": "f88r.20",
+      "folio": "f88r",
+      "raw": "dsheol.qokeey.s.chy.saiin.chor.oteor.aiin.chosals",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "saiin",
+        "amount": "aiin",
+        "ingredient": "chor",
+        "preposition": "qokeey",
+        "source": "chy",
+        "extras": []
+      },
+      "translation": "Prepare one stem from the verbal/adjectival."
+    },
+    {
+      "rank": 23,
+      "location": "f88r.8",
+      "folio": "f88r",
+      "raw": "sal.sheom.kol.chear.shekor.qokor.daiin.sar.raiin.oky.sam",
+      "score": 5,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": null,
+        "ingredient": "sal",
+        "preposition": "qokor",
+        "source": "sar",
+        "extras": []
+      },
+      "translation": "Take salt from the barley."
+    },
+    {
+      "rank": 24,
+      "location": "f101r.4",
+      "folio": "f101r",
+      "raw": "ycheeo.or.sheeol.daiin.sheeol.okeol.ctheol.shkeeo.qockheol.daiin.shy.csol.okeeor.ct<!@T>ody.chkchol.doteoda.okeol.daisi!n.okeey.okeey.dairi!n",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "or",
+        "ingredient": "okeol",
+        "preposition": null,
+        "source": null,
+        "extras": []
+      },
+      "translation": "Take an amount of flower extract."
+    },
+    {
+      "rank": 25,
+      "location": "f101r.5",
+      "folio": "f101r",
+      "raw": "daiin.ctheol.cheol.okor.or.aiin.cheol.cho.keeo.dchey.okol.okeol.dor.chol.chy.r.aiin.oteol.or!aiin.ol!chey.oteeod.sheol.okeol.chosaiin.sheom",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "or",
+        "ingredient": "okeol",
+        "preposition": null,
+        "source": null,
+        "extras": []
+      },
+      "translation": "Take an amount of flower extract."
+    },
+    {
+      "rank": 26,
+      "location": "f101r.7",
+      "folio": "f101r",
+      "raw": "cphoar.o!aiin.ypcholy.daiin.otaiin.otaiin.yfolaiin.fcheolai!n.ypchey.y<!@Y>pho?o<-><!fold>shotey.odariin.sheoor.sheor.ckheey.y<!@Y>khey.qokchey.cholp.cheol.dy",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": null,
+        "ingredient": "otaiin",
+        "preposition": "qokchey",
+        "source": "cholp",
+        "extras": []
+      },
+      "translation": "Take fig from [cholp]."
+    },
+    {
+      "rank": 27,
+      "location": "f101v.23",
+      "folio": "f101v",
+      "raw": "oaiin!!.ol.ol!or.daiin.okeey.qok.ykeol.daiin.qockhy.daiin.olch???<-><!fold>???!dar.qokeol.dol.oraiin.oldaiin.keeol.?.rch.qokeeeor.sydy.cheor.okeey.chol.do.dar<-><!gutter>",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": null,
+        "ingredient": "chol",
+        "preposition": "qok",
+        "source": "ykeol",
+        "extras": []
+      },
+      "translation": "Take leaf from [ykeol]."
+    },
+    {
+      "rank": 28,
+      "location": "f101v.27",
+      "folio": "f101v",
+      "raw": "sol.chol.choly.okee!y.dal.qol.shckheol.chol.cthear.keey???<-><!fold>???chee!o.ol.chs.<!blot>oraiin.qokeeey.s!aiir.qodaiin.cheol.qokeey.daiin.cheodam<$>",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": null,
+        "ingredient": "chol",
+        "preposition": "qokeeey",
+        "source": "saiir",
+        "extras": []
+      },
+      "translation": "Take leaf from the barley."
+    },
+    {
+      "rank": 29,
+      "location": "f103r.2",
+      "folio": "f103r",
+      "raw": "dai!n.shek.chcphhdy.daloky.opchedy.peshol.chep.ar.otchy.sal.lkeey.sar.ain.ok??.chedy",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "dain",
+        "amount": "ar",
+        "ingredient": "sal",
+        "preposition": null,
+        "source": null,
+        "extras": []
+      },
+      "translation": "Take a handful of salt."
+    },
+    {
+      "rank": 30,
+      "location": "f103v.25",
+      "folio": "f103v",
+      "raw": "sai!n.olkeeey.qokan.oteedy.qotai!n.otal.oty.opar.aram.oteeam",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "sain",
+        "amount": "otal",
+        "ingredient": null,
+        "preposition": "qokan",
+        "source": "oteedy",
+        "extras": []
+      },
+      "translation": "Prepare a whole from [oteedy]."
+    },
+    {
+      "rank": 31,
+      "location": "f103v.41",
+      "folio": "f103v",
+      "raw": "daiin.shey.lshey.lshey.qoar.shar.al.otar.shedy.ithy.lchdy.ras",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "al",
+        "ingredient": "otar",
+        "preposition": null,
+        "source": null,
+        "extras": []
+      },
+      "translation": "Take a portion of earth."
+    },
+    {
+      "rank": 32,
+      "location": "f103v.7",
+      "folio": "f103v",
+      "raw": "daiin.shey.chol.chey.oteey.lkeeor.okaiin.shedy.shedy.qokaiin.ol.chedydy",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": null,
+        "ingredient": "chol",
+        "preposition": "qokaiin",
+        "source": "ol",
+        "extras": []
+      },
+      "translation": "Take leaf from [ol]."
+    },
+    {
+      "rank": 33,
+      "location": "f104r.14",
+      "folio": "f104r",
+      "raw": "daiin.choaiin.qokechy.qotal.cheo.lor.saiin.olkeechey.otal.ol.oeeal",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "otal",
+        "ingredient": null,
+        "preposition": "qokechy",
+        "source": "qotal",
+        "extras": []
+      },
+      "translation": "Take a whole from [qotal]."
+    },
+    {
+      "rank": 34,
+      "location": "f104r.24",
+      "folio": "f104r",
+      "raw": "daiin.char.qotal.okechol.olkeeor.olkeeo!dal.lkaiin.chal!keeedy.qokam",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": null,
+        "ingredient": "char",
+        "preposition": "qokam",
+        "source": null,
+        "extras": []
+      },
+      "translation": "Take flower."
+    },
+    {
+      "rank": 35,
+      "location": "f104r.27",
+      "folio": "f104r",
+      "raw": "pchedar.qokaiin.qotaiin.dl.ral.cheodl.cphaiin.daiin.ar.qekeeey.qoparaiin",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "ar",
+        "ingredient": null,
+        "preposition": "qokaiin",
+        "source": "qotaiin",
+        "extras": []
+      },
+      "translation": "Take a handful from [qotaiin]."
+    },
+    {
+      "rank": 36,
+      "location": "f104r.6",
+      "folio": "f104r",
+      "raw": "ycheeody.aiin.lkar.cheeo.dai!n.ockhedy.qokeedy.qotai!n.otchdy.tai!n.chedam",
+      "score": 4,
+      "source_type": "SPECIFIC",
+      "slots": {
+        "verb": "dain",
+        "amount": "aiin",
+        "ingredient": null,
+        "preposition": "qokeedy",
+        "source": "qotain",
+        "extras": []
+      },
+      "translation": "Take one of geranium."
+    },
+    {
+      "rank": 37,
+      "location": "f104v.25",
+      "folio": "f104v",
+      "raw": "dsheey.qoykeey.lchedy.qokedaiin.orchcthy.daiin.cheey.sair.ol.aiin.chedy",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "aiin",
+        "ingredient": null,
+        "preposition": "qokedaiin",
+        "source": "orchcthy",
+        "extras": []
+      },
+      "translation": "Take one from [orchcthy]."
+    },
+    {
+      "rank": 38,
+      "location": "f104v.3",
+      "folio": "f104v",
+      "raw": "shod.chedy.qotaiin.odaiin.okeol.ockhhy.chol.qokeedy.qotair.oeedaiin.ol.dl",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "odaiin",
+        "amount": null,
+        "ingredient": "okeol",
+        "preposition": "qokeedy",
+        "source": "qotair",
+        "extras": []
+      },
+      "translation": "Take flower extract from [qotair]."
+    },
+    {
+      "rank": 39,
+      "location": "f105r.20",
+      "folio": "f105r",
+      "raw": "saiin.chey.teol.ykair.paiir.olkaiin.olfaiin.odar.al.airody.al.teedar.dam",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "saiin",
+        "amount": "al",
+        "ingredient": "dam",
+        "preposition": null,
+        "source": null,
+        "extras": []
+      },
+      "translation": "Prepare a portion of blood."
+    },
+    {
+      "rank": 40,
+      "location": "f105r.24",
+      "folio": "f105r",
+      "raw": "pcheor.ai!n.ckheey.okeeey.paiin.ar.aiiin.chpaiikey.sheo.pcheey.dal.daiin.dam",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "ain",
+        "ingredient": "dam",
+        "preposition": null,
+        "source": null,
+        "extras": []
+      },
+      "translation": "Take one blood."
+    },
+    {
+      "rank": 41,
+      "location": "f105r.32",
+      "folio": "f105r",
+      "raw": "ycheochy.lkeol.daiin.ykair.olkchey.dar.qopchdy.dair.otar.ar.adam",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "ar",
+        "ingredient": "otar",
+        "preposition": null,
+        "source": null,
+        "extras": []
+      },
+      "translation": "Take a handful of earth."
+    },
+    {
+      "rank": 42,
+      "location": "f105v.15",
+      "folio": "f105v",
+      "raw": "ycheey.kar.ykeey.otaiin.otal.dar.chdos.kal!chedy.opchdy.daiin.oraiin.r",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "otal",
+        "ingredient": "otaiin",
+        "preposition": null,
+        "source": null,
+        "extras": []
+      },
+      "translation": "Take the whole fig."
+    },
+    {
+      "rank": 43,
+      "location": "f105v.16",
+      "folio": "f105v",
+      "raw": "daiin.cheey.dal.chl.okair.aiin.cphe!or.aiin.okal.chodaiin.otaiin.opaiim",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "aiin",
+        "ingredient": "chl",
+        "preposition": null,
+        "source": null,
+        "extras": []
+      },
+      "translation": "Take one root."
+    },
+    {
+      "rank": 44,
+      "location": "f105v.31",
+      "folio": "f105v",
+      "raw": "ychtaiis.aiichy.dol.aiin.otaiin.aiidy.okchd.otor.daiin<$>",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "aiin",
+        "ingredient": "otaiin",
+        "preposition": null,
+        "source": null,
+        "extras": []
+      },
+      "translation": "Take one fig."
+    },
+    {
+      "rank": 45,
+      "location": "f105v.32",
+      "folio": "f105v",
+      "raw": "poar.keeo.daiin.qoair.ar.aiphhey.qoeed!eody.qokaiin.qotedais.aporair.apy",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "ar",
+        "ingredient": null,
+        "preposition": "qokaiin",
+        "source": "qotedais",
+        "extras": []
+      },
+      "translation": "Take a handful from [qotedais]."
+    },
+    {
+      "rank": 46,
+      "location": "f105v.34",
+      "folio": "f105v",
+      "raw": "sheeo.daiin.chsd.qokeeey.dair.okaiin.otaiin.chedaiin.olkal.lkl.dai!n",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": null,
+        "ingredient": "otaiin",
+        "preposition": "qokeeey",
+        "source": "dair",
+        "extras": []
+      },
+      "translation": "Take fig from the Adar (month)."
+    },
+    {
+      "rank": 47,
+      "location": "f105v.35",
+      "folio": "f105v",
+      "raw": "doee.okcheeo.l!kaiin.otcheedy.chor.aiin.odaiin.chedy.otaiin.al.kaishd",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "odaiin",
+        "amount": "aiin",
+        "ingredient": "chor",
+        "preposition": null,
+        "source": null,
+        "extras": []
+      },
+      "translation": "Take one stem."
+    },
+    {
+      "rank": 48,
+      "location": "f106r.13",
+      "folio": "f106r",
+      "raw": "pcheol.sheokaiin.otey.qokeeor.sheo.aiin.otchey.pcheo.ror.aiin.daiin.opal",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "aiin",
+        "ingredient": null,
+        "preposition": "qokeeor",
+        "source": "sheo",
+        "extras": []
+      },
+      "translation": "Take one of fire."
+    },
+    {
+      "rank": 49,
+      "location": "f106r.16",
+      "folio": "f106r",
+      "raw": "sai!n.oi!n.okai!n.aiin.arol.ocheedy.lkeeeody.daiin.chedar.okol.otar.chdam",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "sain",
+        "amount": "aiin",
+        "ingredient": "otar",
+        "preposition": null,
+        "source": null,
+        "extras": []
+      },
+      "translation": "Prepare one earth."
+    },
+    {
+      "rank": 50,
+      "location": "f106r.43",
+      "folio": "f106r",
+      "raw": "daiiral.sheol.daiin.otedy.qokai!n.akar.cheor.al.taiin.chekal.otaras",
+      "score": 4,
+      "source_type": "UNKNOWN",
+      "slots": {
+        "verb": "daiin",
+        "amount": "al",
+        "ingredient": null,
+        "preposition": "qokain",
+        "source": "akar",
+        "extras": []
+      },
+      "translation": "Take a portion of plant_term."
+    }
+  ],
+  "specific_plant_recipes": [
+    {
+      "location": "f104r.6",
+      "folio": "f104r",
+      "plant": "geranium",
+      "translation": "Take one of geranium."
+    },
+    {
+      "location": "f108v.11",
+      "folio": "f108v",
+      "plant": "plant",
+      "translation": "Prepare a portion of plant."
+    },
+    {
+      "location": "f111r.37",
+      "folio": "f111r",
+      "plant": "plant",
+      "translation": "Take leaf from the plant."
+    },
+    {
+      "location": "f115v.6",
+      "folio": "f115v",
+      "plant": "geranium",
+      "translation": "Take a portion of geranium."
+    },
+    {
+      "location": "f108r.30",
+      "folio": "f108r",
+      "plant": "plant",
+      "translation": "Prepare of plant."
+    },
+    {
+      "location": "f111v.6",
+      "folio": "f111v",
+      "plant": "poppy",
+      "translation": "one leaf from the poppy."
+    },
+    {
+      "location": "f113r.35",
+      "folio": "f113r",
+      "plant": "plant",
+      "translation": "one earth from the plant."
+    },
+    {
+      "location": "f104r.8",
+      "folio": "f104r",
+      "plant": "polygonum",
+      "translation": "earth from the polygonum."
+    },
+    {
+      "location": "f104v.40",
+      "folio": "f104v",
+      "plant": "plant",
+      "translation": "one of plant."
+    },
+    {
+      "location": "f107v.36",
+      "folio": "f107v",
+      "plant": "plant",
+      "translation": "a handful of plant."
+    },
+    {
+      "location": "f107v.6",
+      "folio": "f107v",
+      "plant": "plant",
+      "translation": "one of plant."
+    },
+    {
+      "location": "f108r.32",
+      "folio": "f108r",
+      "plant": "plant",
+      "translation": "a whole of plant."
+    },
+    {
+      "location": "f108v.16",
+      "folio": "f108v",
+      "plant": "poppy",
+      "translation": "flower extract from the poppy."
+    },
+    {
+      "location": "f112v.15",
+      "folio": "f112v",
+      "plant": "plant",
+      "translation": "one of plant."
+    },
+    {
+      "location": "f113r.47",
+      "folio": "f113r",
+      "plant": "polygonum",
+      "translation": "a handful of polygonum."
+    },
+    {
+      "location": "f115v.42",
+      "folio": "f115v",
+      "plant": "plant",
+      "translation": "a portion of plant."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+TRACK 92: Full Recipe Translation (Grammar + Visual)
+====================================================
+
+GOAL: Translate the entire Recipe Section (f103-f116) using the new Grammar Frame AND the new Visual Meanings.
+
+INPUTS:
+- Grammar Frame: `daiin [OBJ] qok- [MODIFIER] ol [NOUN]`
+- Dictionary v4 (with `char`=flower, `qok-`=of, etc.)
+
+TASK 1: Parse All Recipes
+-------------------------
+Iterate through every line of Quire 20 (Recipes).
+Apply the Grammar Frame parser.
+
+TASK 2: Translate
+-----------------
+Substitute English meanings.
+"daiin char qokaiin shey"
+-> OLD: "Take hole priest shey" ❌
+-> NEW: "Take flower of [shey]" ✅
+
+TASK 3: Identify "Unknowns" in Context
+--------------------------------------
+If we have "Take flower of [X]", then [X] is likely a plant name.
+Collect all words that appear in the `[MODIFIER]` position.
+These are high-probability plant candidates.
+
+OUTPUT FILES:
+- full_recipe_translation.py
+- results/full_recipe_translation.json
+- results/full_recipe_report.md (including top translated recipes)

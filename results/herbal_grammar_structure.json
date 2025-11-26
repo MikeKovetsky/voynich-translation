@@ -1,0 +1,388 @@
+{
+  "starts": [
+    {
+      "folio": "f10r",
+      "word": "pchocthy",
+      "line": "pchocthy.shor.octhody.chorchy.pchodol.chopchal.ypch.kom"
+    },
+    {
+      "folio": "f10v",
+      "word": "paiin",
+      "line": "paiin.daiin.sheo.pcheey.qoty.daiin.cthor.oty!dy.sain"
+    },
+    {
+      "folio": "f11r",
+      "word": "tshol",
+      "line": "tshol.schoal.cfhy.sh!f!ydaiin.cphy.shey.t!chody.shoyty"
+    },
+    {
+      "folio": "f11v",
+      "word": "poldchody",
+      "line": "poldchody.shcphy.shordy.qoty<-><!plant>shol.cphar.dan.y"
+    },
+    {
+      "folio": "f13r",
+      "word": "torshor",
+      "line": "torshor.opchy.shol.dy.qopchy.shol.opchor.dy!pchy.dchm"
+    },
+    {
+      "folio": "f13v",
+      "word": "koair",
+      "line": "koair.chtoiin.otchy.kchod.otol.otchy.octhos"
+    },
+    {
+      "folio": "f14r",
+      "word": "pcho!daiin",
+      "line": "pcho!daiin.chopol.shoiin.daiin.dain<-><!plant>"
+    },
+    {
+      "folio": "f14v",
+      "word": "pdychoiin",
+      "line": "pdychoiin.yfodain.oty!shy.dy.ypchor.daiin.kol.ydain"
+    },
+    {
+      "folio": "f15r",
+      "word": "tshor",
+      "line": "tshor.shey.tchaly<-><!plant>shy.chtols.shey<-><!plant>daiin"
+    },
+    {
+      "folio": "f15v",
+      "word": "poror",
+      "line": "poror.orshy.choiin.dtchan.opchor.dy<-><!plant>"
+    },
+    {
+      "folio": "f16r",
+      "word": "pocheody",
+      "line": "pocheody.qopchey.sykaiin.opchy.dor.ychy.daiin.dy<-><!plant>chor.orom"
+    },
+    {
+      "folio": "f16v",
+      "word": "pchraiin",
+      "line": "pchraiin.otchor.chpchol.chpchey.s.pchoct!y<-><!plant>"
+    },
+    {
+      "folio": "f17r",
+      "word": "fshody",
+      "line": "fshody.daram.ydar!chom.opydy.ypod.chop.otchy.dody.oldckhy"
+    },
+    {
+      "folio": "f17v",
+      "word": "pchodol",
+      "line": "pchodol.chor.fchy.opydaiin.odaldy<-><!plant>"
+    },
+    {
+      "folio": "f18r",
+      "word": "pdrairdy",
+      "line": "pdrairdy.darods!f.yoar.ykchol.dar.o.m.chckhy<-><!plant>ockhor.dal"
+    },
+    {
+      "folio": "f18v",
+      "word": "told",
+      "line": "told.shar.ytshy.otchdal.dchal.dchy.ytd!g"
+    },
+    {
+      "folio": "f19r",
+      "word": "pchor",
+      "line": "pchor.qodchy.qotshy.dy.tchy.qotchy.qoky.daiin.dchydy"
+    },
+    {
+      "folio": "f19v",
+      "word": "pochaiin",
+      "line": "pochaiin.cthor.chpcheos.opchey.py.kchy<-><!plant>"
+    },
+    {
+      "folio": "f20r",
+      "word": "kdchody",
+      "line": "kdchody.chopy.cheey.qotchol.qotoeey.dchor.choiin"
+    },
+    {
+      "folio": "f20v",
+      "word": "faiis",
+      "line": "faiis.ar.okoy.shy.po!fochey.opchy.qopy.choldy.opydy.cphy"
+    },
+    {
+      "folio": "f21r",
+      "word": "pchor",
+      "line": "pchor.oeeockhy.o!fychey.ypchey.qopcheody.otaiin.chan"
+    },
+    {
+      "folio": "f21v",
+      "word": "toldshy",
+      "line": "toldshy.chofchy.qofshey.shckhol.odaiin.shey.ckholy"
+    },
+    {
+      "folio": "f22r",
+      "word": "pol",
+      "line": "pol.olshy.fcholy.shol.dpchy.oty.okoly.daiin.opchy.s.ocphy"
+    },
+    {
+      "folio": "f22v",
+      "word": "pysaiinor",
+      "line": "pysaiinor.ofchar.oky.tchy.otdy<-><!plant>sor.shy.qo!!!!!d"
+    },
+    {
+      "folio": "f23r",
+      "word": "pydchdom",
+      "line": "pydchdom.chy.fcholdy.oty.otchol.shy.opyaiin.y.yfchy.daiin.ololdy.dal"
+    },
+    {
+      "folio": "f23v",
+      "word": "podairol",
+      "line": "podairol.odaiiily.sho!al!dy.opchol.otol.ol.chcphy.qotchar.s"
+    },
+    {
+      "folio": "f24r",
+      "word": "por!or!y",
+      "line": "por!or!y.chor.opchar.she.cheol.daiin.or<-><!plant>"
+    },
+    {
+      "folio": "f24v",
+      "word": "tchodar",
+      "line": "tchodar.chocfhhg.opom.shod.chcphy.opshody.ocphoraii!n.ok!ok!!!!!!om"
+    },
+    {
+      "folio": "f25r",
+      "word": "fcholdy",
+      "line": "fcholdy.soshy.daiin.ck!y.shody.daiin.ocholdy.cpholdy.sy"
+    },
+    {
+      "folio": "f25v",
+      "word": "poeeaiin",
+      "line": "poeeaiin.qoky.shy.daiin.qopchey.otchey.qofchor.sos"
+    },
+    {
+      "folio": "f26r",
+      "word": "psheoky",
+      "line": "psheoky.odaiir.qoy<-><!plant>ofseod.chypchey.ypchedy.ain<-><!plant>chofo!chcp!hdy"
+    },
+    {
+      "folio": "f26v",
+      "word": "pchedar",
+      "line": "pchedar.qodary.o?iiin.pcheety.s!air.shedy.ypchedy.ypchdy.qopy.shdy"
+    },
+    {
+      "folio": "f27r",
+      "word": "ksor",
+      "line": "ksor.shey.shoteo.chfo!raiin.shy<-><!plant>shod.chary"
+    },
+    {
+      "folio": "f27v",
+      "word": "fochof",
+      "line": "fochof.chof.cho.sho.s!oly.shol.ytcho!r.ofchory.kchor!chor"
+    },
+    {
+      "folio": "f28r",
+      "word": "pchodar",
+      "line": "pchodar.shod.chocphy.opchol.daiin<-><!plant>otchol.chy!qo.l!dy"
+    },
+    {
+      "folio": "f28v",
+      "word": "kshol",
+      "line": "kshol.qooiiin.shor.pchoiiin.shepchy.qoty.dy.shory"
+    },
+    {
+      "folio": "f29r",
+      "word": "por!aiin",
+      "line": "por!aiin.she.aiin.chep.oty.chy.qotchy.qoty.cheecthy"
+    },
+    {
+      "folio": "f29v",
+      "word": "kooiin",
+      "line": "kooiin.shor.chetchy.ol!als.shy!tchy.cth.y.shy<-><!plant>cho.shy.daiin"
+    },
+    {
+      "folio": "f30r",
+      "word": "okchesy",
+      "line": "okchesy.chey.shor!chey.fcheody.shey.tchy.cher.d.o.shey"
+    },
+    {
+      "folio": "f30v",
+      "word": "cthscthain",
+      "line": "cthscthain.shosaiin.chocthey.sho.chepchy.shor.sheaiin"
+    }
+  ],
+  "frame_matches": [
+    {
+      "folio": "f10v",
+      "pattern": "daiin qotchy qotor chol daiin qokchy!ky ...",
+      "object": "qotchy"
+    },
+    {
+      "folio": "f10v",
+      "pattern": "daiin qokchy!ky ...",
+      "object": "UNKNOWN"
+    },
+    {
+      "folio": "f14r",
+      "pattern": "daiin dorody<-><!plant> qokchol ...",
+      "object": "dorody<-><!plant>"
+    },
+    {
+      "folio": "f15v",
+      "pattern": "daiin qokor ...",
+      "object": "UNKNOWN"
+    },
+    {
+      "folio": "f18r",
+      "pattern": "daiin dy<-><!plant>chol diiin qokchor ...",
+      "object": "dy<-><!plant>chol"
+    },
+    {
+      "folio": "f18r",
+      "pattern": "daiin qokchy ...",
+      "object": "UNKNOWN"
+    },
+    {
+      "folio": "f18v",
+      "pattern": "daiin qokol ...",
+      "object": "UNKNOWN"
+    },
+    {
+      "folio": "f19r",
+      "pattern": "daiin otytchy daiin<-><!plant> qok!cho ...",
+      "object": "otytchy"
+    },
+    {
+      "folio": "f19v",
+      "pattern": "daiin chor daiin qokor ...",
+      "object": "chor"
+    },
+    {
+      "folio": "f19v",
+      "pattern": "daiin qokor ...",
+      "object": "UNKNOWN"
+    },
+    {
+      "folio": "f21r",
+      "pattern": "daiin chosy qokoiin ...",
+      "object": "chosy"
+    },
+    {
+      "folio": "f22r",
+      "pattern": "daiin otaiin cthor dain ckhy!dom qokol ...",
+      "object": "otaiin"
+    },
+    {
+      "folio": "f22r",
+      "pattern": "daiin ol daiin qokchy ...",
+      "object": "ol"
+    },
+    {
+      "folio": "f22r",
+      "pattern": "daiin qokchy ...",
+      "object": "UNKNOWN"
+    },
+    {
+      "folio": "f22r",
+      "pattern": "daiin ctholy qoky ...",
+      "object": "ctholy"
+    },
+    {
+      "folio": "f22r",
+      "pattern": "daiin cthoiin dchor chey qokol ...",
+      "object": "cthoiin"
+    },
+    {
+      "folio": "f23r",
+      "pattern": "daiin ctho g<$> qokoldy ...",
+      "object": "ctho"
+    },
+    {
+      "folio": "f23r",
+      "pattern": "daiin alg qokshy ...",
+      "object": "alg"
+    },
+    {
+      "folio": "f23r",
+      "pattern": "daiin alg qokshy char daiir qokaiin ...",
+      "object": "alg"
+    },
+    {
+      "folio": "f23v",
+      "pattern": "daiin ylg qokaiin ...",
+      "object": "ylg"
+    },
+    {
+      "folio": "f23v",
+      "pattern": "daiin ylg qokaiin dain qokor ...",
+      "object": "ylg"
+    },
+    {
+      "folio": "f24r",
+      "pattern": "daiin qokeol<-><!plant> ...",
+      "object": "UNKNOWN"
+    },
+    {
+      "folio": "f25v",
+      "pattern": "daiin shcfhor daiin dshey daiity qokaiin ...",
+      "object": "shcfhor"
+    },
+    {
+      "folio": "f25v",
+      "pattern": "daiin dshey daiity qokaiin ...",
+      "object": "dshey"
+    },
+    {
+      "folio": "f25v",
+      "pattern": "daiin dshey daiity qokaiin qokcho ...",
+      "object": "dshey"
+    },
+    {
+      "folio": "f25v",
+      "pattern": "daiin daiin qokcho ...",
+      "object": "daiin"
+    },
+    {
+      "folio": "f25v",
+      "pattern": "daiin qokcho ...",
+      "object": "UNKNOWN"
+    },
+    {
+      "folio": "f25v",
+      "pattern": "daiin qokcho r ochy qotchy qokoral ...",
+      "object": "qokcho"
+    },
+    {
+      "folio": "f26r",
+      "pattern": "daiin shedy qokeedy ...",
+      "object": "shedy"
+    },
+    {
+      "folio": "f26r",
+      "pattern": "daiin shedy qokeedy qoteedar s<-><!plant>ok<-><!plant>ol<-><!plant>otedy qokchdy ...",
+      "object": "shedy"
+    }
+  ],
+  "dam_matches": [
+    {
+      "folio": "f14v",
+      "loc": "f14v.8",
+      "context": "chokshor.daiin<-><!plant>okshody.daiin<-><!plant>dol.dair.dam"
+    },
+    {
+      "folio": "f23r",
+      "loc": "f23r.2",
+      "context": "to.ar.chor.daiin.chk!dain.otchy.lolchor.daiin.dam.okchol.dain!g"
+    },
+    {
+      "folio": "f23r",
+      "loc": "f23r.6",
+      "context": "tshol.ykor.qokaiin.yky.dar.okol.dchey.daiidal.dam.ytcho.l!dals"
+    },
+    {
+      "folio": "f23v",
+      "loc": "f23v.8",
+      "context": "qokaiin.dain.qokor.okal.g.dam<-><!plant>chor.olol.dam"
+    },
+    {
+      "folio": "f24r",
+      "loc": "f24r.16",
+      "context": "sham.okeal.dal.dam.dal<-><!plant>"
+    },
+    {
+      "folio": "f27r",
+      "loc": "f27r.3",
+      "context": "chol.shy.keol.chol.shy.shol.chy<-><!plant>daiin.chey.dam"
+    }
+  ]
+}

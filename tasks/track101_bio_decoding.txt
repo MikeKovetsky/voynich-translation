@@ -1,0 +1,29 @@
+TRACK 101: Biological Section Decoding
+======================================
+
+GOAL: Apply the Dictionary v6 and Grammar to the "Bathing Women" section (Quire 13).
+
+HYPOTHESIS:
+- The "ingredients" in this section might be body parts or fluids.
+- Words like `chol` (leaf) might be absent or mean something else.
+
+TASK 1: Frequency Analysis
+--------------------------
+What are the top nouns in Quire 13?
+Are they `chol`, `char`, `otaiin`? Or new words?
+
+TASK 2: Grammar Application
+---------------------------
+Does `daiin` appear?
+If yes, what is the object? "Take [water]?" "Wash [body]?"
+
+TASK 3: Dictionary Expansion (Bio)
+----------------------------------
+Identify words unique to this section.
+Cross-reference with Hebrew terms for "bath", "water", "woman", "skin".
+
+OUTPUT FILES:
+- bio_decode.py
+- results/bio_section_report.md
+- results/bio_vocabulary.json
+

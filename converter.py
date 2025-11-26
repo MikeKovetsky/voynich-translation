@@ -241,3 +241,6 @@ KEY DIGRAPH MAPPINGS:
         print("✅ All tests passed!")
     else:
         print("❌ Some tests failed - mappings need refinement")
+
+
+

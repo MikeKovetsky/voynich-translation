@@ -250,3 +250,6 @@ Focus on the hypothesis: **Constructed script encoding an agglutinative language
 ---
 
 *Report generated as part of Voynich Translation Project, Track 6*
+
+
+

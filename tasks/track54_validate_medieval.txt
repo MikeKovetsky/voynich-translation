@@ -57,3 +57,6 @@ Summary of validation findings
 - [ ] 5+ ingredients validated in medieval texts
 - [ ] Recipe format matches historical patterns
 - [ ] Historical context supports our theory
+
+
+

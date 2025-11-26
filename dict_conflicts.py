@@ -389,3 +389,6 @@ def generate_report(results, clean, conflicts, by_type, coverage):
 
 if __name__ == "__main__":
     main()
+
+
+

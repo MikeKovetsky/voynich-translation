@@ -554,3 +554,6 @@ def generate_report(results, zodiac_matches, month_matches, star_matches):
 
 if __name__ == '__main__':
     main()
+
+
+

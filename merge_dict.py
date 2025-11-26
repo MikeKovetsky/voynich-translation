@@ -433,3 +433,6 @@ def generate_report(results, conflicts, resolutions, lang_a, lang_b, total):
 
 if __name__ == "__main__":
     main()
+
+
+

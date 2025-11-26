@@ -1,0 +1,110 @@
+{
+  "candidates": {
+    "qotain": {
+      "word": "qotain",
+      "herbal_page": "f58v",
+      "folio_metadata": {
+        "title": "???",
+        "subject": "stars",
+        "language": "A (Currier)"
+      },
+      "expert_plant_id": "geranium",
+      "section_distribution": {
+        "herbal": 9,
+        "recipe": 13,
+        "zodiac": 0,
+        "pharma": 32,
+        "other": 0
+      },
+      "total_occurrences": 54,
+      "recipe_occurrences": 13,
+      "verification_status": "CONFIRMED",
+      "confidence": "HIGH",
+      "evidence": [
+        "f58v is identified as GERANIUM by multiple experts (ELV, voynich.nu)",
+        "qotain appears ONLY on f58v in herbal section",
+        "qotain appears 13 times in recipe section",
+        "Cross-validated: geranium pages (f57r, f58r, f58v, f66v) share vocabulary"
+      ],
+      "hebrew_name": "גרניום (geranium)",
+      "italian_name": "geranio",
+      "medicinal_uses": [
+        "Wound healing (astringent)",
+        "Anti-inflammatory",
+        "Used for skin conditions"
+      ]
+    },
+    "okchedy": {
+      "word": "okchedy",
+      "herbal_page": "f50r",
+      "folio_metadata": {
+        "title": "???",
+        "subject": "herbal",
+        "language": "B (Currier)",
+        "plant_number": "99 (Petersen)"
+      },
+      "expert_plant_id": null,
+      "section_distribution": {
+        "herbal": 7,
+        "recipe": 77,
+        "zodiac": 8,
+        "pharma": 20,
+        "other": 4
+      },
+      "total_occurrences": 116,
+      "recipe_occurrences": 77,
+      "verification_status": "UNVERIFIED",
+      "confidence": "LOW",
+      "evidence": [
+        "f50r has NO expert plant identification",
+        "f50r is labeled 'Plant 99' in Petersen numbering",
+        "okchedy also appears on zodiac/cosmological pages (f70r1, f71r, f72v1)",
+        "May be a generic botanical term rather than plant name"
+      ],
+      "notes": [
+        "Adjacent folios (f50v, f51v) identified as lycopsis/symphytum",
+        "More research needed - could be boraginaceae family"
+      ]
+    },
+    "lkar": {
+      "word": "lkar",
+      "herbal_page": "f66r",
+      "folio_metadata": {
+        "title": "Three-column table",
+        "subject": "unknown (text only)",
+        "language": "B (Currier)"
+      },
+      "expert_plant_id": null,
+      "section_distribution": {
+        "herbal": 1,
+        "recipe": 93,
+        "zodiac": 0,
+        "pharma": 47,
+        "other": 13
+      },
+      "total_occurrences": 154,
+      "recipe_occurrences": 93,
+      "verification_status": "NOT_PLANT_NAME",
+      "confidence": "MEDIUM",
+      "evidence": [
+        "f66r is a 'Three-column table' page, NOT a herbal page",
+        "lkar appears 47 times in pharmaceutical section",
+        "Heavily concentrated in f75-f76 (pharmaceutical pages)",
+        "Pattern: 'lkar.chedy' suggests grammatical construction"
+      ],
+      "hypothesis": "Likely a measurement term or grammatical particle, not a plant name",
+      "similar_words": [
+        "olkar",
+        "dalkar",
+        "qolkar"
+      ]
+    }
+  },
+  "summary": {
+    "confirmed_plant_names": 1,
+    "unverified": 1,
+    "not_plant_names": 1,
+    "key_finding": "qotain = GERANIUM (HIGH confidence)",
+    "recommendation": "Add qotain→geranium to dictionary, investigate okchedy further, reclassify lkar as non-botanical"
+  }
+}

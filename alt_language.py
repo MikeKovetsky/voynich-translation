@@ -717,3 +717,6 @@ def generate_report(data, decoded_words):
 
 if __name__ == "__main__":
     run_language_screen()
+
+
+

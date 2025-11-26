@@ -1,0 +1,29 @@
+TRACK 97: Plant ID Verification
+===============================
+
+GOAL: Verify the 3 "Ultra-Specific" plant candidates found in Track 96.
+
+CANDIDATES:
+1. `qotain` -> f58v (Expert ID: Geranium?)
+2. `okchedy` -> f50r (Expert ID: ?)
+3. `lkar` -> f66r (Expert ID: ?)
+
+TASK 1: Verify Expert IDs
+-------------------------
+Check `data/eva_ivtff.txt` comments or `results/scholarly_master_report.md` for expert identifications of f58v, f50r, f66r.
+
+TASK 2: Visual Check
+--------------------
+- f58v (qotain): Is it Geranium? (Check features: lobed leaves, 5-petaled flowers?)
+- f50r (okchedy): What plant is this?
+- f66r (lkar): What plant is this?
+
+TASK 3: Recipe Context Check
+----------------------------
+For the recipes containing `qotain`:
+- Do they make sense for Geranium? (e.g. used for wounds/skin?)
+
+OUTPUT FILES:
+- verify_plant_ids.py
+- results/verified_plant_ids.json
+- results/plant_verification_report.md

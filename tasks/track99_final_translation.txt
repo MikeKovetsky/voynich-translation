@@ -1,0 +1,33 @@
+TRACK 99: The Final Translation Run
+===================================
+
+GOAL: Produce the FINAL "Golden Recipes" using Dictionary v6.
+This is the culmination of Phases 26-29.
+
+INPUT:
+- `results/master_dictionary_v6.json`
+- Grammar Frame: `daiin [AMOUNT] [INGREDIENT] qok- [SOURCE]`
+
+TASK 1: Translate Top 50 Recipes
+--------------------------------
+Apply the full grammar frame and new dictionary meanings.
+
+Example Transformation:
+OLD: "Take handful leaf of [chedy]"
+NEW: "Take a handful of leaf from the herb."
+
+TASK 2: Identify "Specific" Recipes
+-----------------------------------
+Highlight recipes that use a SPECIFIC plant name (like `qotain`).
+"Take a handful of leaf from the Geranium."
+These are the high-value medical recipes.
+
+TASK 3: Final Polish
+--------------------
+Ensure the English output is grammatically smooth.
+"Take [ar] [chol] qok [chedy]" -> "Take a handful of leaves from the herb."
+
+OUTPUT FILES:
+- final_translation.py
+- results/final_golden_recipes.md (The Final Deliverable)
+- results/final_recipe_analysis.json

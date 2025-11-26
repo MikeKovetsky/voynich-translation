@@ -534,3 +534,6 @@ def generate_report(results, derived_key, conflicts, validation, candidates):
 
 if __name__ == "__main__":
     main()
+
+
+

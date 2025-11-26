@@ -636,3 +636,6 @@ print(result)  # {'voynich': 'o4o', 'latin': 'aqua', 'english': 'water', ...}
 
 if __name__ == "__main__":
     main()
+
+
+

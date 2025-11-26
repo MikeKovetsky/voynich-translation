@@ -1,0 +1,29 @@
+TRACK 94: Measurement Dictionary Update
+=======================================
+
+GOAL: Integrate Measurement findings into Master Dictionary v5.
+
+INPUT: 
+- `results/measurement_candidates.json` (from Track 93)
+- `results/master_dictionary_v4.json`
+
+TASK 1: Update Entries
+----------------------
+Add or update the following entries with category "measurement" and source "grammar_analysis":
+
+1. `ar` -> "amount/handful" (confidence: 0.8)
+2. `al` -> "amount/unit" (confidence: 0.7)
+3. `aiin` -> "one" (confidence: 0.9) - CONFIRM existing
+4. `ain` -> "one" (variant)
+5. `am` -> "preparation/mixture" (noun at end of line)
+
+TASK 2: Re-verify `shey`
+------------------------
+`shey` appears as a modifier AND an amount.
+Check if `shey` could mean "measure" or "cup".
+Update if evidence supports.
+
+OUTPUT FILES:
+- update_measurements.py
+- results/master_dictionary_v5.json
+- results/measurement_update_report.md
