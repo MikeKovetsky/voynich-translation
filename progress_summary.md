@@ -1,20 +1,20 @@
-## Iteration 40: The "Spring" of Knowledge 💧📜
+## Iteration 41: The Grammar of Nature 🌿💧
 
 **Status:** Complete
 **Date:** 2025-11-26
 
 **Summary:**
-We have successfully validated the "Spring" hypothesis! The word **`aiin`** (and its variations `daiin`, `qokaiin`) consistently maps to **Spring/Source/Water** across the manuscript.
-*   **Biological (f76r):** `qok-aiin` = "In the Spring". Fits images of women in pools.
-*   **Zodiac:** `aiin` appears significantly in **Pisces** and **Cancer** (Water signs).
-*   **Recipes:** `daiin` = "From the Spring" (or "Take water").
-
-**Key Findings:**
-*   **Morphology:** Validated `q-` (In/With) and `ok-` (Liquid/Mixture) as prefixes.
-*   **Translation (f76r):** "In the spring... liquid mixture... herbs..." - The text describes herbal baths!
-*   **Root Words:** `aiin` is a verified root. `okeedy` (Liquid) and `chedy` (Herb) are solidifying.
+We've built a functional dictionary! Version 7.0 now covers over 51% of the manuscript text.
+*   **Confirmed Lexicon:**
+    *   `aiin` = Spring/Source.
+    *   `chol` = Leaf (Correlates with Big Leaf pages).
+    *   `char` = Root (Absent on pages with no roots).
+    *   `qok-` = In/With (Instrumental).
+    *   `daiin` = Take/From (Imperative/Preposition).
+*   **Recipe Structure Solved:** Recipes follow the pattern: `daiin` (Take) + `shey` (Amount?) + `[Ingredient]`.
+*   **Morphology Rules:** We established that `y-` is likely a plural or conjunctive marker ("and"), and `l-` matches the Hebrew "to/for".
 
 **Next Steps:**
-*   **Dictionary Update:** Bake these findings into `master_dictionary_v7.json`.
-*   **Recipe Attack:** Apply the "Spring" key to the Recipe section. If `daiin` is water, what are we adding to it?
-*   **Next Roots:** `chol` and `char` are the next high-frequency roots to decode. `chol` = Leaf? `char` = Root/Flower?
+*   **Mass Translation (Bio):** We have enough vocabulary to attempt a full translation of the "Bathing Women" section (Quire 13).
+*   **Recipe Decoding:** Apply the new `chol` (Leaf) and `char` (Root) keys to the recipes. Do we "Take leaves" and "Take roots"?
+*   **Grammar Deep Dive:** Nail down the function of `y-` and `o-`.
