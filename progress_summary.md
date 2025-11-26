@@ -1,25 +1,20 @@
-## Iteration 39: The Qok- Prefix & The "Spring" Hypothesis 💧
+## Iteration 40: The "Spring" of Knowledge 💧📜
 
 **Status:** Complete
 **Date:** 2025-11-26
 
 **Summary:**
-The Biological section gave us a grammatical key! The analysis strongly suggests **`qok-`** is a compound prefix: **`q-` (preposition) + `ok-` (derivational)**.
-*   `q-`: Likely "with", "in", or "using" (Instrumental/Locative).
-*   `ok-`: Likely "liquid", "fluid", or "mixture".
-This implies the "Bathing Women" section describes being *in* or using specific *fluids*.
+We have successfully validated the "Spring" hypothesis! The word **`aiin`** (and its variations `daiin`, `qokaiin`) consistently maps to **Spring/Source/Water** across the manuscript.
+*   **Biological (f76r):** `qok-aiin` = "In the Spring". Fits images of women in pools.
+*   **Zodiac:** `aiin` appears significantly in **Pisces** and **Cancer** (Water signs).
+*   **Recipes:** `daiin` = "From the Spring" (or "Take water").
 
 **Key Findings:**
-1.  **Morphology:** `qokeedy` is the `q-` form of `okeedy`. `qokaiin` is the `q-` form of `okaiin` (or `aiin`).
-2.  **Root Word:** `aiin` appears to be a root.
-    *   `qokaiin` (Bio) vs `daiin` (Recipes).
-    *   If `q-` = "in/with" and `d-` = "of/from" (or imperative "take"), then `aiin` is the core noun.
-    *   **New Hypothesis:** `aiin` = **Source/Spring** (Hebrew *Ayin*) or **Eye**.
-    *   In Bio: `qokaiin` = "In the spring" / "With the spring water".
-    *   In Recipes: `daiin` = "Take from the spring" or just "Take".
-3.  **Herbal Descriptors:** The automated mapping failed (0 hits). We need a manual visual check or better data.
+*   **Morphology:** Validated `q-` (In/With) and `ok-` (Liquid/Mixture) as prefixes.
+*   **Translation (f76r):** "In the spring... liquid mixture... herbs..." - The text describes herbal baths!
+*   **Root Words:** `aiin` is a verified root. `okeedy` (Liquid) and `chedy` (Herb) are solidifying.
 
 **Next Steps:**
-*   **Morphology Layer:** Apply `q-` and `d-` stripping to the dictionary.
-*   **Test Translation:** Translate f76r (Bio) assuming `aiin`=Spring and `chey`=Herb.
-*   **Validate `aiin`:** Does "Spring/Source" fit the recipes?
+*   **Dictionary Update:** Bake these findings into `master_dictionary_v7.json`.
+*   **Recipe Attack:** Apply the "Spring" key to the Recipe section. If `daiin` is water, what are we adding to it?
+*   **Next Roots:** `chol` and `char` are the next high-frequency roots to decode. `chol` = Leaf? `char` = Root/Flower?

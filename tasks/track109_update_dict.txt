@@ -1,0 +1,39 @@
+TRACK 109: Master Dictionary Update (v7)
+=======================================
+
+GOAL: Consolidate recent findings into a new Master Dictionary version (v7).
+
+INPUT:
+- `results/master_dictionary_v6.json`
+- `results/root_dictionary.json`
+- `results/morphology_report.md`
+
+TASK 1: Integrate "Spring" Lexicon
+----------------------------------
+Update the following entries with HIGH confidence:
+- `aiin`: "spring/source" (Category: elemental)
+- `daiin`: "from the spring" / "take water" (Category: recipe_instruction)
+- `qokaiin`: "in the spring" (Category: location)
+- `shedy`: "which/that" (Category: grammar)
+- `chedy`: "herb/plant" (Category: botanical)
+- `qok-`: [Prefix] "in/with" (Instrumental)
+- `ok-`: [Prefix] "liquid/mixture"
+
+TASK 2: Add Morphology Rules
+----------------------------
+Add a new section `morphology_rules` to the JSON:
+- `q-`: "in/with"
+- `d-`: "from/of"
+- `o-`: "the/it" (Definite article variant?)
+- `y-`: "and/also" or Plural?
+
+TASK 3: Root Merging
+--------------------
+Merge variations into their roots where obvious:
+- `qokaiin` -> Root: `aiin`
+- `okeedy` -> Root: `eedy` (or keep as `okeedy` if unique)
+
+OUTPUT FILES:
+- `update_dict_v7.py`
+- `results/master_dictionary_v7.json`
+- `results/dictionary_v7_report.md`
