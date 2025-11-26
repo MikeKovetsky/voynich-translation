@@ -1,0 +1,33 @@
+TRACK 106: Morphological Stripping & Dictionary Update
+====================================================
+
+GOAL: Create a "Root Dictionary" by stripping common prefixes (`q-`, `d-`, `o-`, `y-`) and identifying the base words.
+
+INPUT:
+- `results/master_dictionary_v6.json`
+
+TASK 1: Prefix Identification
+-----------------------------
+Define the rules:
+- `qok-` -> `q-` + `ok-` + [ROOT]
+- `daiin` -> `d-` + `aiin` (Test this!)
+- `ol-` -> `o-` + `l-`? or `ol` is the root?
+- `y-` -> [ROOT] (e.g. `ykedy` -> `y-` + `kedy`?)
+
+TASK 2: Root Aggregation
+------------------------
+- Group words by their potential root.
+- Example:
+  - Root: `aiin`
+  - Variations: `daiin` (Take/From), `qokaiin` (In/With), `saiin` (?), `aiin` (Source).
+- Calculate the total frequency of the ROOT.
+
+TASK 3: Update Dictionary
+-------------------------
+- Create `results/root_dictionary.json`.
+- Add "morphology" fields to the master dictionary.
+
+OUTPUT FILES:
+- `morphology_strip.py`
+- `results/morphology_report.md`
+- `results/root_dictionary.json`

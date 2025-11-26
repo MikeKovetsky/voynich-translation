@@ -1,19 +1,25 @@
-## Iteration 38: Herbal & Biological Breakthroughs 🌿🛁
+## Iteration 39: The Qok- Prefix & The "Spring" Hypothesis 💧
 
 **Status:** Complete
 **Date:** 2025-11-26
 
 **Summary:**
-We made significant progress in distinguishing the grammar of different sections. The **Herbal** text is definitively *descriptive*, not imperative like the recipes. It rarely starts with "Take" (`daiin`). Meanwhile, the **Biological** section (Bathing Women) is surprisingly coherent and readable, sharing some structure with recipes but having its own unique vocabulary (lots of `qok-` words).
+The Biological section gave us a grammatical key! The analysis strongly suggests **`qok-`** is a compound prefix: **`q-` (preposition) + `ok-` (derivational)**.
+*   `q-`: Likely "with", "in", or "using" (Instrumental/Locative).
+*   `ok-`: Likely "liquid", "fluid", or "mixture".
+This implies the "Bathing Women" section describes being *in* or using specific *fluids*.
 
 **Key Findings:**
-*   **Herbal Grammar:** Paragraphs start with nouns (`pchor`), not verbs. `daiin` (Take) exists but is buried inside sentences, likely referring to parts to be used.
-*   **Biological Section:** It's the second most readable section after Recipes!
-    *   Top words: `shedy` (which/that), `ol` (the), `chedy` (plant).
-    *   Mystery: Why is `chedy` (plant) so common in the bathing section? Herbal baths?
-    *   New Mystery Words: `qokedy`, `qokeedy`, `qol` are specific to this section.
-*   **Mass Translation:** The "Readability Heatmap" confirms we should focus on **Recipes** and **Biological** pages. f76r is a gold mine.
+1.  **Morphology:** `qokeedy` is the `q-` form of `okeedy`. `qokaiin` is the `q-` form of `okaiin` (or `aiin`).
+2.  **Root Word:** `aiin` appears to be a root.
+    *   `qokaiin` (Bio) vs `daiin` (Recipes).
+    *   If `q-` = "in/with" and `d-` = "of/from" (or imperative "take"), then `aiin` is the core noun.
+    *   **New Hypothesis:** `aiin` = **Source/Spring** (Hebrew *Ayin*) or **Eye**.
+    *   In Bio: `qokaiin` = "In the spring" / "With the spring water".
+    *   In Recipes: `daiin` = "Take from the spring" or just "Take".
+3.  **Herbal Descriptors:** The automated mapping failed (0 hits). We need a manual visual check or better data.
 
 **Next Steps:**
-*   **Deep Dive into Bio:** Crack the `qok-` code and figure out what the women are bathing in.
-*   **Herbal Adjectives:** Map colors and descriptors in the herbal text to the plants.
+*   **Morphology Layer:** Apply `q-` and `d-` stripping to the dictionary.
+*   **Test Translation:** Translate f76r (Bio) assuming `aiin`=Spring and `chey`=Herb.
+*   **Validate `aiin`:** Does "Spring/Source" fit the recipes?

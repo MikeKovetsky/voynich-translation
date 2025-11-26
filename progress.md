@@ -1,39 +1,37 @@
 # Research Progress
 
-## Current Status: Iteration 38 (Nov 26, 2025)
-**Focus:** Biological Grammar, Qok- Prefix, Herbal Descriptors
+## Current Status: Iteration 39 (Nov 26, 2025)
+**Focus:** Morphology (`qok-`), Root Identification (`aiin`), Translation Testing
 
 ## Recent Achievements
-*   **Herbal Grammar (Task 100):** Confirmed Herbal text is **Descriptive**, not Imperative.
-    *   Paragraphs rarely start with `daiin` (1/40).
-    *   Top starters: `pchor`, `paiin`.
-    *   `dam` (red) correlates with red plants.
-*   **Bio Decoding (Task 101):** Biological section (Quire 13) is highly readable.
-    *   High frequency of `shedy` (which/that) and `chedy` (plant).
-    *   Explosion of `qok-` words: `qokedy`, `qokeedy`, `qol`.
-    *   Hypothesis: Text describes *herbal baths* or treatments involving plants.
-*   **Mass Translation (Task 102):** Produced a "Readability Heatmap".
-    *   **Top Tier:** Recipes (f111, f103) & Biological (f76, f80).
-    *   **Strategy:** Shift focus to deciphering the Biological narrative.
+*   **Qok- Analysis (Task 104):** Identified `qok-` as `q-` + `ok-`.
+    *   `q-` = Preposition (With/In).
+    *   `ok-` = Modifier (Fluid/Mixture?).
+    *   This explains the high density of `qok-` words in the "Bathing" section.
+*   **Bio Grammar (Task 103):** Confirmed `shedy` acts as a relative clause marker ("which is...").
+    *   Structure: `[Noun] [shedy] [Clause]`.
+*   **Herbal Descriptors (Task 105):** *Failed*. Automated mapping found no correlations. Requires manual image tagging or better OCR alignment.
 
 ## Current Hypotheses
-1.  **Herbal Text = Descriptions:** "This plant has [adj] leaves..."
-2.  **Bio Text = Procedures/Rituals:** "The [plant] water [cleanses]..."
-3.  **`qok-` = "With/By/Using"?:** The high frequency in Bio might imply instrumental case or "using X".
-4.  **`chedy` in Bio:** Refers to the "herbal essence" or "extract" in the water.
+1.  **`aiin` = Spring/Source (Hebrew *Ayin*):**
+    *   Fits visually with "Bathing Women" (pools/springs).
+    *   `qok-aiin` = "In the spring".
+    *   `daiin` = "From the spring" (or "Take" derived from "Take from source").
+2.  **`ok-` Prefix:** Denotes a liquid state or a derivative.
+    *   `chedy` (plant) -> `okchedy` (plant water/extract).
+3.  **`q-` Prefix:** Instrumental/Locative marker ("with", "in", "by").
 
 ## Tasks
-### Active Iteration (39)
-*   **Task 103 (Bio Grammar):** Analyze sentence structure in Quire 13. Identify verbs.
-*   **Task 104 (Qok- Prefix):** Deep dive into `qok-` words. Is it a prefix? A preposition?
-*   **Task 105 (Herbal Descriptors):** Map `dam` (red), `old` (gold), etc. to specific plant pictures.
+### Active Iteration (40)
+*   **Task 106 (Morphology Stripping):** Update dictionary to recognize `q-`, `d-`, `y-`, `o-` as prefixes and map to roots.
+*   **Task 107 (Translate f76r):** Attempt a full translation of f76r using the "Spring" hypothesis and new morphology.
+*   **Task 108 (Validate 'aiin'):** Check `aiin` usage across the manuscript. Does "Spring" make sense in the Stars/Cosmo sections?
 
 ### Backlog
-*   **f86v6 & f58v:** Investigate these high-readability outlier pages.
-*   **Constructed Language Test:** Test if `qok-` words follow a specific morphological rule.
-*   **Recipe Refinement:** Apply Bio findings back to Recipes (do `qok-` words appear there?).
+*   **Herbal Descriptors:** Retry with manual sampling.
+*   **Grammar:** Define the function of `y-` (seen in `ykedy`, `ytcho`).
+*   **Recipe Refinement:** If `daiin` is "From Source", how does that change the recipe structure?
 
 ## Metric Tracking
-*   **Vocab Size:** 2800+ words
-*   **Recipe Readability:** ~60%
-*   **Bio Readability:** ~55%
+*   **Vocab Size:** 2800+ words (Will shrink if we successfully merge roots)
+*   **Key Word:** `aiin` (Crucial for decipherment)

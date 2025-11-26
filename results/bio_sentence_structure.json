@@ -1,0 +1,228 @@
+{
+  "pos_patterns": [
+    {
+      "pattern": [
+        "UNK",
+        "UNK",
+        "UNK",
+        "UNK"
+      ],
+      "count": 323
+    },
+    {
+      "pattern": [
+        "UNK",
+        "UNK",
+        "UNK",
+        "QOK-WORD"
+      ],
+      "count": 114
+    },
+    {
+      "pattern": [
+        "QOK-WORD",
+        "UNK",
+        "UNK",
+        "UNK"
+      ],
+      "count": 101
+    },
+    {
+      "pattern": [
+        "UNK",
+        "QOK-WORD",
+        "UNK",
+        "UNK"
+      ],
+      "count": 96
+    },
+    {
+      "pattern": [
+        "GRAMMAR",
+        "UNK",
+        "UNK",
+        "UNK"
+      ],
+      "count": 91
+    },
+    {
+      "pattern": [
+        "UNK",
+        "UNK",
+        "QOK-WORD",
+        "UNK"
+      ],
+      "count": 90
+    },
+    {
+      "pattern": [
+        "NOUN",
+        "UNK",
+        "UNK",
+        "UNK"
+      ],
+      "count": 87
+    },
+    {
+      "pattern": [
+        "UNK",
+        "UNK",
+        "GRAMMAR",
+        "UNK"
+      ],
+      "count": 85
+    },
+    {
+      "pattern": [
+        "UNK",
+        "NOUN",
+        "UNK",
+        "UNK"
+      ],
+      "count": 82
+    },
+    {
+      "pattern": [
+        "UNK",
+        "UNK",
+        "UNK",
+        "GRAMMAR"
+      ],
+      "count": 82
+    },
+    {
+      "pattern": [
+        "UNK",
+        "UNK",
+        "NOUN",
+        "UNK"
+      ],
+      "count": 81
+    },
+    {
+      "pattern": [
+        "UNK",
+        "UNK",
+        "UNK",
+        "NOUN"
+      ],
+      "count": 80
+    },
+    {
+      "pattern": [
+        "UNK",
+        "GRAMMAR",
+        "UNK",
+        "UNK"
+      ],
+      "count": 80
+    },
+    {
+      "pattern": [
+        "UNK",
+        "GRAMMAR",
+        "QOK-WORD",
+        "UNK"
+      ],
+      "count": 53
+    },
+    {
+      "pattern": [
+        "UNK",
+        "UNK",
+        "QOK-WORD",
+        "GRAMMAR"
+      ],
+      "count": 48
+    },
+    {
+      "pattern": [
+        "UNK",
+        "UNK",
+        "GRAMMAR",
+        "QOK-WORD"
+      ],
+      "count": 44
+    },
+    {
+      "pattern": [
+        "QOK-WORD",
+        "QOK-WORD",
+        "UNK",
+        "UNK"
+      ],
+      "count": 43
+    },
+    {
+      "pattern": [
+        "QOK-WORD",
+        "UNK",
+        "UNK",
+        "QOK-WORD"
+      ],
+      "count": 43
+    },
+    {
+      "pattern": [
+        "GRAMMAR",
+        "QOK-WORD",
+        "UNK",
+        "UNK"
+      ],
+      "count": 42
+    },
+    {
+      "pattern": [
+        "UNK",
+        "UNK",
+        "DET",
+        "UNK"
+      ],
+      "count": 39
+    }
+  ],
+  "qok_words": {
+    "qokedy": 161,
+    "qokain": 158,
+    "qokeedy": 150,
+    "qokal": 105,
+    "qokeey": 89,
+    "qokaiin": 88,
+    "qoky": 59,
+    "qokar": 48,
+    "qokey": 43,
+    "qokol": 28,
+    "qokchdy": 16,
+    "qokshedy": 8,
+    "qokchy": 7,
+    "qokor": 7,
+    "qokam": 6,
+    "qokeed": 6,
+    "qokeor": 6,
+    "qokchedy": 6,
+    "qokan": 4,
+    "qoked": 4
+  },
+  "verb_candidates": {
+    "dal": 4,
+    "shey": 3,
+    "dy": 3,
+    "dain": 2,
+    "okar": 2,
+    "otol": 2,
+    "sheol": 2,
+    "sain": 2,
+    "okedy": 2,
+    "olkedy": 2,
+    "sal": 2,
+    "otedy": 2,
+    "dor": 1,
+    "okchdy": 1,
+    "okaldydar": 1,
+    "oleeed": 1,
+    "olain": 1,
+    "ollchy": 1,
+    "lshey": 1,
+    "okeyr": 1
+  }
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "word": "qokaiin",
+    "count_total": 259,
+    "root_after_qok": "aiin",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 464,
+    "root_after_q": "okaiin",
+    "root_after_q_exists": true,
+    "root_after_q_count": 209
+  },
+  {
+    "word": "qokain",
+    "count_total": 273,
+    "root_after_qok": "ain",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 91,
+    "root_after_q": "okain",
+    "root_after_q_exists": true,
+    "root_after_q_count": 139
+  },
+  {
+    "word": "qokal",
+    "count_total": 187,
+    "root_after_qok": "al",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 256,
+    "root_after_q": "okal",
+    "root_after_q_exists": true,
+    "root_after_q_count": 136
+  },
+  {
+    "word": "qokam",
+    "count_total": 25,
+    "root_after_qok": "am",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 87,
+    "root_after_q": "okam",
+    "root_after_q_exists": true,
+    "root_after_q_count": 26
+  },
+  {
+    "word": "qokar",
+    "count_total": 150,
+    "root_after_qok": "ar",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 347,
+    "root_after_q": "okar",
+    "root_after_q_exists": true,
+    "root_after_q_count": 126
+  },
+  {
+    "word": "qokchdy",
+    "count_total": 56,
+    "root_after_qok": "chdy",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 151,
+    "root_after_q": "okchdy",
+    "root_after_q_exists": true,
+    "root_after_q_count": 21
+  },
+  {
+    "word": "qokchedy",
+    "count_total": 39,
+    "root_after_qok": "chedy",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 501,
+    "root_after_q": "okchedy",
+    "root_after_q_exists": true,
+    "root_after_q_count": 25
+  },
+  {
+    "word": "qokchey",
+    "count_total": 30,
+    "root_after_qok": "chey",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 343,
+    "root_after_q": "okchey",
+    "root_after_q_exists": true,
+    "root_after_q_count": 31
+  },
+  {
+    "word": "qokchy",
+    "count_total": 69,
+    "root_after_qok": "chy",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 144,
+    "root_after_q": "okchy",
+    "root_after_q_exists": true,
+    "root_after_q_count": 35
+  },
+  {
+    "word": "qokedy",
+    "count_total": 268,
+    "root_after_qok": "edy",
+    "root_after_qok_exists": false,
+    "root_after_qok_count": 0,
+    "root_after_q": "okedy",
+    "root_after_q_exists": true,
+    "root_after_q_count": 118
+  },
+  {
+    "word": "qokeedy",
+    "count_total": 301,
+    "root_after_qok": "eedy",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 5,
+    "root_after_q": "okeedy",
+    "root_after_q_exists": true,
+    "root_after_q_count": 105
+  },
+  {
+    "word": "qokeeey",
+    "count_total": 26,
+    "root_after_qok": "eeey",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 1,
+    "root_after_q": "okeeey",
+    "root_after_q_exists": true,
+    "root_after_q_count": 27
+  },
+  {
+    "word": "qokeeo",
+    "count_total": 23,
+    "root_after_qok": "eeo",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 1,
+    "root_after_q": "okeeo",
+    "root_after_q_exists": true,
+    "root_after_q_count": 15
+  },
+  {
+    "word": "qokeey",
+    "count_total": 308,
+    "root_after_qok": "eey",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 3,
+    "root_after_q": "okeey",
+    "root_after_q_exists": true,
+    "root_after_q_count": 172
+  },
+  {
+    "word": "qokeody",
+    "count_total": 32,
+    "root_after_qok": "eody",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 2,
+    "root_after_q": "okeody",
+    "root_after_q_exists": true,
+    "root_after_q_count": 36
+  },
+  {
+    "word": "qokeol",
+    "count_total": 51,
+    "root_after_qok": "eol",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 2,
+    "root_after_q": "okeol",
+    "root_after_q_exists": true,
+    "root_after_q_count": 65
+  },
+  {
+    "word": "qokey",
+    "count_total": 104,
+    "root_after_qok": "ey",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 1,
+    "root_after_q": "okey",
+    "root_after_q_exists": true,
+    "root_after_q_count": 63
+  },
+  {
+    "word": "qokol",
+    "count_total": 104,
+    "root_after_qok": "ol",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 530,
+    "root_after_q": "okol",
+    "root_after_q_exists": true,
+    "root_after_q_count": 79
+  },
+  {
+    "word": "qokor",
+    "count_total": 35,
+    "root_after_qok": "or",
+    "root_after_qok_exists": true,
+    "root_after_qok_count": 356,
+    "root_after_q": "okor",
+    "root_after_q_exists": true,
+    "root_after_q_count": 33
+  },
+  {
+    "word": "qoky",
+    "count_total": 145,
+    "root_after_qok": "y",
+    "root_after_qok_exists": false,
+    "root_after_qok_count": 0,
+    "root_after_q": "oky",
+    "root_after_q_exists": true,
+    "root_after_q_count": 96
+  },
+  {
+    "word": "qol",
+    "count_total": 150,
+    "root_after_qok": "",
+    "root_after_qok_exists": false,
+    "root_after_qok_count": 0,
+    "root_after_q": "ol",
+    "root_after_q_exists": true,
+    "root_after_q_count": 530
+  }
+]

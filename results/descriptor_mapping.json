@@ -1,0 +1,86 @@
+{
+  "metadata_used": {
+    "f17r": {
+      "color": [
+        "blue",
+        "purple"
+      ],
+      "leaves": "linear",
+      "root": "fibrous"
+    },
+    "f6r": {
+      "color": [
+        "red"
+      ],
+      "leaves": "lobed",
+      "root": "taproot"
+    },
+    "f5r": {
+      "color": [
+        "white",
+        "green"
+      ],
+      "leaves": "palmate",
+      "root": "spreading"
+    },
+    "f2v": {
+      "color": [
+        "pink",
+        "red"
+      ],
+      "leaves": "round",
+      "root": "tuber"
+    },
+    "f25v": {
+      "color": [
+        "green",
+        "red"
+      ],
+      "leaves": "palmate",
+      "root": "fibrous"
+    },
+    "f17v": {
+      "color": [
+        "unknown"
+      ],
+      "leaves": "unknown",
+      "root": "unknown"
+    },
+    "f3r": {
+      "color": [
+        "green",
+        "yellow"
+      ],
+      "leaves": "succulent",
+      "root": "fibrous"
+    },
+    "f9r": {
+      "color": [
+        "green"
+      ],
+      "leaves": "lobed",
+      "root": "woody"
+    }
+  },
+  "first_word_stats": {},
+  "color_stats": {
+    "red": {
+      "target_hits": 0,
+      "target_total_words": 0,
+      "target_rate_per_1k": 0,
+      "other_hits": 0,
+      "other_total_words": 0,
+      "other_rate_per_1k": 0,
+      "ratio": 0
+    },
+    "yellow": {
+      "target_hits": 0,
+      "target_total_words": 0,
+      "target_rate_per_1k": 0,
+      "other_hits": 0,
+      "other_total_words": 0,
+      "other_rate_per_1k": 0,
+      "ratio": 0
+    }
+  }
+}
