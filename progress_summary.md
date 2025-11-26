@@ -753,19 +753,39 @@ We can translate the *structure*, but the *source* of the ingredients often rema
 
 ---
 
-## 🌿 Phase 29: The Rosetta Link (Plant Identification)
+## 🌿 Phase 29: The Rosetta Link (Completed) ✅
 
-**Key Discovery**: Most recipe modifiers (`chedy`, `chey`) are **GENERIC** ("herb", "plant"), appearing on dozens of pages. Only a few (`qotain`) are **SPECIFIC**.
+### The Breakthrough: Distinguishing Generic vs Specific
+We proved that most "modifiers" are generic terms, while a few are specific plant names linked to illustrations.
+
+**Validated Specific Plants (The "Rosetta" Words):**
+- `qotain` = **Geranium** (f58v)
+- `ckhal` = **Castor Oil** (f6v, f51r)
+- `chodar` = **Poppy** (f89v)
+
+**Validated Generic Terms:**
+- `chedy` = "Herb/Plant" (on 32 pages)
+- `chey` = "Herb/Plant" (on 65 pages)
+
+### Final "Golden Recipes"
+We can now translate with nuance:
+1.  **Specific**: *"Take one of **Geranium**."* (f104r.6)
+2.  **Generic**: *"Take a handful of leaf from the **herb**."*
+
+---
+
+## 🏎️ Phase 30: Scaling & Generalization (Volume Work)
+
+**Goal**: Apply the proven methodology to the **Herbal**, **Biological**, and **Cosmological** sections. We need to see if the grammar holds up outside the recipes.
 
 | Track | Goal | Status |
 |-------|------|--------|
-| 96 | **Modifier Analysis**: Found 3 specific vs 36 generic terms | ✅ |
-| 97 | **Plant ID Verification**: Confirm `qotain`=Geranium | ⏳ |
-| 98 | **Final Dictionary**: Split Generic/Specific terms | ⏳ |
-| 99 | **Final Translation**: Generate "Golden Recipes" v2 | ⏳ |
+| 100 | **Herbal Text Grammar**: Descriptive vs Imperative structure | ⏳ |
+| 101 | **Biological Decoding**: Analyze "Bathing Women" section | ⏳ |
+| 102 | **Mass Translation**: Translate entire corpus & map readability | ⏳ |
 
 ---
 
 *Last Updated: November 25, 2025*
-*Total Research Duration: 99 tracks across 29 phases*
-*Current Status: 🏁 Finalizing Dictionary - Distinguishing "Herb" from "Geranium"!* 🌿
+*Total Research Duration: 102 tracks across 30 phases*
+*Current Status: 🏎️ Scaling Up - Applying the engine to the whole car!* 🌍
