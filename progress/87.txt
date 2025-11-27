@@ -1,0 +1,13 @@
+Iteration 87: Global Decoding & Bio-Balneology
+Status: Analysis Phase
+Goal: Confirm the "Bio Manual" hypothesis and link Plants to Planets.
+
+Strategy:
+1.  **Bio Section (Q11):** The Grammar Map revealed this is the *most* instructional part of the book. We will treat it as a "Balneology Manual" (Medicated Baths). `track286` explores this.
+2.  **Herbal Recipes:** f41r is a statistical anomaly (74% imperative density). It's not a description; it's a user manual. `track287` decodes it.
+3.  **Astrology Link:** We need a second attempt at linking plants to zodiac signs via vocabulary. `track285` uses a Python script for robustness.
+4.  **Rosettes:** We will map the elements spatially. `track288`.
+
+Next Steps:
+- Run Tracks 285, 286, 287, 288.
+- If Bio Section confirms "Bathing" instructions (e.g., "Mix into water"), we have solved the "Naked Women" mystery (medical bathing).

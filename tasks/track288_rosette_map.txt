@@ -1,0 +1,25 @@
+Task: Rosette Elemental Map (Track 288)
+Goal: Map Elemental words to specific quadrants/circles on the Rosettes page (f86v).
+Inputs:
+- data/voynich_transcription.txt (f86v)
+- results/dictionary/master_dictionary_v15.json
+
+Steps:
+1. **Text Segmentation:**
+   - The transcription for f86v is often massive blocks.
+   - Use `voynich_raw.txt` or visual inspection to group lines into "Circles" (Top-Left, Top-Right, etc.).
+   - *Note: Use Python to approximate line groups if raw segmentation is missing.*
+
+2. **Elemental Counting:**
+   - Count `sho` (Fire), `ol` (Water), `os` (Air), `or` (Earth) in each "Circle" group.
+
+3. **Map Creation:**
+   - Draw a text-based map of the Rosettes:
+     ```
+     [ Top Left: Water (5) ]  [ Top Right: Fire (2) ]
+     [ Bot Left: Earth (8) ]  [ Bot Right: Air (1) ]
+     ```
+
+4. **Outputs:**
+   - `results/rosette_elemental_map.md`: The text-based map.
+   - `results/track-288-results_summary.md`: Does it fit the "4 Elements" theory?
