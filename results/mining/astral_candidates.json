@@ -1,0 +1,353 @@
+[
+  {
+    "word": "choekeey",
+    "patterns": [
+      "dal"
+    ],
+    "locations": [
+      "f70r1.3,+Cc",
+      "f70r1.3,+Cc"
+    ],
+    "count": 2
+  },
+  {
+    "word": "okesoe",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f67r1.3,+P0"
+    ],
+    "count": 1
+  },
+  {
+    "word": "eetees",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f67r1.6,+Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "okeeody",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f67r2.74,+P0"
+    ],
+    "count": 1
+  },
+  {
+    "word": "taedaiin",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f67v2.4,+Pb"
+    ],
+    "count": 1
+  },
+  {
+    "word": "ypcheg",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f67v1.21,@Ro"
+    ],
+    "count": 1
+  },
+  {
+    "word": "oteeody",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f68r3.1,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "dcheeody",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f68r3.8,@Ri"
+    ],
+    "count": 1
+  },
+  {
+    "word": "dasaiinytey",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f68v3.3,+P0"
+    ],
+    "count": 1
+  },
+  {
+    "word": "oteeoaly",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f68v3.5,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "ykeeykeey",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f68v1.1,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "okeyteey",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f68v1.1,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "dakeey",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f68v1.1,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "otolam",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f69r.19,&L0"
+    ],
+    "count": 1
+  },
+  {
+    "word": "otoeeseor",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f70r2.18,+Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "chotal",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f70r2.11,+P1"
+    ],
+    "count": 1
+  },
+  {
+    "word": "chalaly",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f70v2.21,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "aildy",
+    "patterns": [
+      "dal"
+    ],
+    "locations": [
+      "f70v2.32,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "diy",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f70v2.32,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "aekeeey",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f71r.1,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "otokeoar",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f71r.1,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "shoekey",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f71r.1,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "okeeees",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f71r.12,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "oteokeey",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f71v.1,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "oteochor",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f71v.1,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "okeor",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f72r1.18,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "okeo",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f72r2.6,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "chekaithhy",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f72r3.1,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "chcpy",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f72v3.13,&Lz"
+    ],
+    "count": 1
+  },
+  {
+    "word": "yal",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f72v3.20,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "cheis",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f72v3.20,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "olal",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f72v2.1,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "ofas",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f72v1.22,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "yotoam",
+    "patterns": [
+      "aiin"
+    ],
+    "locations": [
+      "f72v1.33,@Cc"
+    ],
+    "count": 1
+  },
+  {
+    "word": "qoiheey",
+    "patterns": [
+      "daiin"
+    ],
+    "locations": [
+      "f73r.22,@Cc"
+    ],
+    "count": 1
+  }
+]
