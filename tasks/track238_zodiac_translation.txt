@@ -1,0 +1,18 @@
+Track 238: Zodiac Section Translation (Astral Key)
+
+Goal: Translate the Zodiac Pages (f70r-f73v) using the new "Star" definition for `aiin`.
+
+Input:
+- `results/dictionary/dictionary.json` (v10.1 - created by Task 237).
+- `data/eva_ivtff.txt`.
+- Target Folios: f70r, f70v, f71r, f71v, f72r, f72v, f73r, f73v.
+
+Steps:
+1. Extract text from Zodiac folios.
+2. Translate using Dictionary v10.1.
+3. Analyze sentences containing `aiin` or `daiin`.
+   - Do they read like: "The Star [aiin] enters [Zodiac Sign]..."?
+   - Do they read like: "The influence of the Star..."?
+4. Look for numeric patterns near `aiin` (Degrees? Dates?).
+5. Output: `results/zodiac_translation_v2.md`.
+6. Summary: `results/track-238-results_summary.md`.

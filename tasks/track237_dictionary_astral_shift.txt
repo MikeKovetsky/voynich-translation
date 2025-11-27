@@ -1,0 +1,28 @@
+Track 237: Dictionary Update v10.1 (Astral Shift)
+
+Goal: Redefine the core "Astral" vocabulary in the Master Dictionary, pivoting away from "Spring/Water" definitions for `aiin` based on Iteration 78 findings.
+
+Input:
+- `results/dictionary/dictionary.json` (v10.0).
+
+Updates Required:
+1. **`aiin`**:
+   - Old: "Spring/Source"
+   - New: "Star / Eye (of Heaven)"
+   - Evidence: High frequency on "Dry" pages; association with `os` (Star).
+   - Element: Fire/Ether.
+2. **`daiin`**:
+   - Old: "From the Spring"
+   - New: "The Star / Of the Star" (Definite Article `d-` + `aiin`).
+   - Grammar: `d-` is likely the demonstrative/definite article here.
+3. **`oaiin`**:
+   - Old: "Springs?"
+   - New: "Stars (Plural)" or "The Star (Essence)".
+   - Grammar: `o-` (Dry/Hot marker) + `aiin`.
+4. **`os`**:
+   - Confirm definition: "Star / Blue Star".
+   - Check for conflicts with `aiin`. Is `aiin` the generic "Star" and `os` a specific type?
+
+Output:
+- `results/dictionary_update_v10_1.json`.
+- `results/track-237-results_summary.md`.

@@ -1,0 +1,16 @@
+Track 239: Cosmology Deep Dive (The Wheels)
+
+Goal: Analyze the "Cosmological" diagrams (f67r-f68v) to see if `aiin` appears in the rings, confirming its status as "Star/Heavenly Body".
+
+Input:
+- `data/eva_ivtff.txt`.
+- Target Folios: f67r1, f67r2, f68r1, f68r2, f68v1, f68v2, f68v3.
+
+Steps:
+1. Extract text from the circular diagrams.
+2. Count occurrences of `aiin`, `o`, `ol`.
+   - Are these pages "Dry" (`o` dominant) or "Wet" (`ol` dominant)?
+   - Does `aiin` appear in specific positions (e.g., labeling the sun/moon/stars)?
+3. Translate labels using Dictionary v10.1.
+4. Output: `results/cosmology_analysis.md`.
+5. Summary: `results/track-239-results_summary.md`.
