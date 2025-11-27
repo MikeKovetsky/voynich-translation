@@ -1,0 +1,25 @@
+Task: Statistical Audit of Translation v7.4
+
+We need to scientifically validate our current "Best Effort" translation. It feels too much like a "keyword list" and not enough like a natural language.
+
+Input Files:
+- /translated/*.md (The current translation output)
+- data/voynich_transcription.txt (The raw source text)
+
+Subtasks:
+1. **Entropy Analysis:**
+   - Calculate the 2nd-order entropy of the raw Voynich text.
+   - Calculate the 2nd-order entropy of our English translation.
+   - Compare them. If Voynich is 2.5 bits/char and our English is 4.5 bits/char, we are "hallucinating" information. They should be roughly similar (or English should be slightly lower if Voynich is verbose).
+
+2. **Zipf's Law Check:**
+   - Plot the frequency rank vs. frequency for the translated English words. Does it follow a power law (straight line on log-log graph)?
+   - If our translation is just repeating "Leaf" and "Mix" too often, the curve will be distorted.
+
+3. **Repetition Analysis:**
+   - Voynich is known for immediate repetition (`chol chol`).
+   - Check our translation. Do we translate `chol chol` as `Leaf Leaf`? Or do we suppress one?
+   - Calculate the "repetition rate" of the translation vs. the original.
+
+Output:
+- results/audit_v7_4.md: A markdown report with the stats, graphs (ASCII or description), and a PASS/FAIL conclusion for each metric.

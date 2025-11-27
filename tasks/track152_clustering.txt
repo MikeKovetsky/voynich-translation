@@ -1,0 +1,26 @@
+Task: Contextual Clustering (Synonym Finder)
+
+We have many words that appear in the same context as "Water" or "Mix" but are currently untranslated.
+
+Input Files:
+- data/voynich_transcription.txt
+
+Subtasks:
+1. **Word Embeddings:**
+   - Train a simple Word2Vec or FastText model on the full Voynich text (EVA transcription).
+   - Window size: 3 (local context is tight).
+   - Vector size: 50.
+
+2. **Synonym Extraction:**
+   - For each of our "Known Keys" (e.g., `aiin` [Water], `okeol` [Boil], `chol` [Leaf]):
+     - Find the top 5 closest vectors in the embedding space.
+     - Are these neighbors currently in our dictionary?
+     - If NO, they are strong candidates for synonyms.
+     - Example: If `daiin` is close to `aiin`, maybe `daiin` is also "Water" or "Liquid".
+
+3. **Cluster Report:**
+   - Group the vocabulary into "Semantic Clusters" (e.g., The "Liquid" cluster, The "Plant Part" cluster).
+
+Output:
+- results/semantic_clusters.json: The clusters.
+- results/synonym_candidates.md: A list of unknown words that are effectively synonyms of known words, ready for human review.
