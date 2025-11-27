@@ -1,0 +1,28 @@
+TRACK 140: Low-Frequency Word Clustering
+========================================
+
+GOAL: Identify the meaning of rare words by clustering them based on their context.
+
+INPUT:
+- `data/eva_ivtff.txt` (Full Corpus)
+- `results/master_dictionary_v7_4.json`
+
+TASK 1: Context Vectorization
+-----------------------------
+- For every word in the text, create a "context signature" (the 2 words before and 2 words after).
+- Focus on the **Unknown** words.
+
+TASK 2: Cluster Analysis
+------------------------
+- Group unknown words that share similar contexts with **Known** words.
+- Example: If `chol` (Leaf) appears after `daiin` and before `qokeey`, and `unknown_word` also appears there, `unknown_word` is likely an **Ingredient**.
+
+TASK 3: Category Assignment
+---------------------------
+- Assign categories to unknown words: "Ingredient", "Process Verb", "Star Name".
+- This doesn't give the exact definition, but it gives the **Type**, which improves translation readability.
+
+OUTPUT FILES:
+- `cluster_unknowns.py`
+- `results/word_clusters.json`
+- `results/clustering_report.md`
