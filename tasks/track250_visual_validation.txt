@@ -1,0 +1,18 @@
+Track 250: Visual Validation (Color Check)
+
+Goal: Verify the "Color Adjective" definitions (`or`=Red, `ol`=Blue/Green) by checking if they correlate with the ink colors used on specific pages.
+
+Input:
+- `data/eva_ivtff.txt`.
+- `results/dictionary/dictionary.json`.
+- *External/Manual Data*: List of "Red Dominant" and "Blue Dominant" pages (from Track 230).
+
+Steps:
+1. Calculate the frequency of `or` (Red?) and `ol` (Blue?) on every page.
+2. Compare against the "Red/Blue Page List" from Track 230.
+3. Calculate a Correlation Score.
+   - If `or` frequency is high on Red pages -> Verify `or` as "Red/Hot".
+4. Update dictionary:
+   - `or`: "Red / Hot (Verified)" (Confidence: 1.0).
+   - `ol`: "Blue / Wet (Verified)" (Confidence: 1.0).
+5. Output: `results/visual_validation_report.md`.
