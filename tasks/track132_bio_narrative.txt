@@ -1,0 +1,22 @@
+TRACK 132: Full Translation of Quire 13 (Bathing) Narrative
+===========================================================
+
+GOAL: Translate the main text blocks of the Biological Section to understand the *purpose* of the baths.
+
+INPUT:
+- `data/eva_ivtff.txt` (Quire 13 Text Blocks)
+- `results/master_dictionary_v7_3.json`
+
+TASK 1: Translate
+-----------------
+- Translate the dense text blocks on f75-f84.
+- Look for "Medical" verbs: "Cure", "Heal", "Wash", "Cleanse".
+- Look for "Sensation" words: "Hot", "Cold", "Pain".
+
+TASK 2: Structure Analysis
+--------------------------
+- Do the paragraphs follow a `daiin` (Instruction) structure or a Descriptive structure?
+
+OUTPUT FILES:
+- `translate_bio_narrative.py`
+- `results/bio_narrative_full.md`

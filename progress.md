@@ -1,30 +1,27 @@
 # Research Progress
 
-## Current Status: Iteration 46 (Nov 26, 2025)
-**Focus:** Master Narrative, Ingredient Mining, Anatomy
+## Current Status: Iteration 47 (Nov 26, 2025)
+**Focus:** Specific Ingredients, Star Names, Bio Narrative
 
 ## Recent Achievements
-*   **Master Report (Task 124):** Unified the "Water of Life" theme. The manuscript describes a system of herbal baths and potions regulated by astrology.
-*   **`chedy` Resolved (Task 125):** Confirmed as **"Mixture/Decoction"**.
-*   **Rosettes Decoded (Task 126):** Identified as a flowchart: `daiin` (Source) -> `shol` (Extract) -> `okeol` (Boil).
+*   **Dictionary v7.3 (Task 127):** Published. `chedy` (Mixture) and `shol` (Extract) formalized.
+*   **Ingredient Mining (Task 128):** Identified 48 labels appearing in recipes.
+    *   Top specific plants: `chtol`, `tsho`, `shoaiin`.
+*   **Bio Labels (Task 129):** Confirmed labels are **Non-Anatomical**.
+    *   They describe fluids (`okeedy`, `sal`) or processes.
 
 ## Current Hypotheses
-1.  **The Manuscript is a Medical Guide:** Specifically for balneology (bathing) and pharmacology.
-2.  **Ingredients:** We know `chol` (Leaf) and `char` (Root). We need to identify specific plants (`sar` = Barley? `sain`?).
-3.  **Bio Labels:** The text near the nymphs likely labels body parts or ailments being treated.
+1.  **Bio Labels = Bath Contents:** Text like `okeedy` near a nymph means "She is bathing in `okeedy` (Plant Mixture)".
+2.  **Recipe Specifics:** `chtol` and `tsho` are specific plants used in the mixtures.
+3.  **Star Lists = Ingredient Lists?** Many star names start with `o-` or `y-`. Could they be "The [Ingredient]" or "And [Ingredient]"?
 
 ## Tasks
-### Active Iteration (47)
-*   **Task 127 (Dictionary v7.3):** Update `chedy` to "Mixture", `shol` to "Extract", `sho` to "Fire".
-*   **Task 128 (Ingredient Mining):** Extract all words appearing in the "Ingredient Slot" of recipes.
-    *   Pattern: `daiin` ... [Word] ... `okeol`.
-*   **Task 129 (Bio Labels):** Analyze short labels in the Biological Section.
-    *   Look for "Head", "Stomach", "Skin".
-
-### Backlog
-*   **Container Analysis:** What are the nymphs holding?
-*   **Star Names:** Are they ingredients too?
+### Active Iteration (48)
+*   **Task 130 (Ingredient Mapping):** Map the top 10 recipe ingredients (`chtol`, `tsho`, etc.) to their visual ID in the Herbal section.
+*   **Task 131 (Star Names):** Analyze the "Star" paragraphs. Are they actually lists of ingredients?
+    *   Check for `y-` and `o-` prefixes in star lists.
+*   **Task 132 (Bio Narrative):** Translate the *text paragraphs* of Quire 13 to see if they describe the *effect* of the baths labeled in the drawings.
 
 ## Metric Tracking
-*   **Dictionary Coverage:** >53%
-*   **Narrative Coherence:** Very High.
+*   **Dictionary Coverage:** ~54%
+*   **Specific Plant IDs:** Need to lock down `chtol` and `tsho`.

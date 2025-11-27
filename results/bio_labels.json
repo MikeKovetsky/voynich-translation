@@ -1,0 +1,485 @@
+[
+  {
+    "word": "sal",
+    "page": "f75r",
+    "type": "explicit_label",
+    "definition": [
+      {
+        "meaning": "salt"
+      }
+    ],
+    "source_dict": "Expanded",
+    "anatomy_matches": [],
+    "context": "<f75r.6,+P0;V>\tp<!.>chey.keeor.olky<-><!figure><!label:sal.okeedy>dar.okey.qokain.chcthy.qokeedy.qoky"
+  },
+  {
+    "word": "okeedy",
+    "page": "f75r",
+    "type": "explicit_label",
+    "definition": [
+      {
+        "meaning": "herb/plant (generic)"
+      }
+    ],
+    "source_dict": "Master",
+    "anatomy_matches": [],
+    "context": "<f75r.6,+P0;V>\tp<!.>chey.keeor.olky<-><!figure><!label:sal.okeedy>dar.okey.qokain.chcthy.qokeedy.qoky"
+  },
+  {
+    "word": "dally",
+    "page": "f75r",
+    "type": "explicit_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f75r.7,+P0;V>\tp<!.>chedy.qokshdy<->!<!figure><!label:dally.ychey>ytai!n.chedy.qokar.chy.lol.chedy.qoky"
+  },
+  {
+    "word": "ychey",
+    "page": "f75r",
+    "type": "explicit_label",
+    "definition": [
+      {
+        "meaning": "verb form"
+      }
+    ],
+    "source_dict": "Expanded",
+    "anatomy_matches": [],
+    "context": "<f75r.7,+P0;V>\tp<!.>chedy.qokshdy<->!<!figure><!label:dally.ychey>ytai!n.chedy.qokar.chy.lol.chedy.qoky"
+  },
+  {
+    "word": "sols",
+    "page": "f75r",
+    "type": "explicit_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f75r.8,+P0;V>\ts.or.chey.qokardy<-><!figure><!label:sols.daro>dcheckhy.qokain.chckhy.lshedy.okeedy"
+  },
+  {
+    "word": "daro",
+    "page": "f75r",
+    "type": "explicit_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f75r.8,+P0;V>\ts.or.chey.qokardy<-><!figure><!label:sols.daro>dcheckhy.qokain.chckhy.lshedy.okeedy"
+  },
+  {
+    "word": "qokchdy",
+    "page": "f75r",
+    "type": "proximity_label",
+    "definition": [
+      {
+        "meaning": "the (+ noun)"
+      }
+    ],
+    "source_dict": "Master",
+    "anatomy_matches": [],
+    "context": "<f75r.9,+P0;F>\tqokchdy.chcthy.lo!<!figure>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  },
+  {
+    "word": "chcthy",
+    "page": "f75r",
+    "type": "proximity_label",
+    "definition": [
+      {
+        "meaning": "verb (unknown)"
+      }
+    ],
+    "source_dict": "Master",
+    "anatomy_matches": [],
+    "context": "<f75r.9,+P0;F>\tqokchdy.chcthy.lo!<!figure>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  },
+  {
+    "word": "lo",
+    "page": "f75r",
+    "type": "proximity_label",
+    "definition": [
+      {
+        "meaning": "to him"
+      }
+    ],
+    "source_dict": "Expanded",
+    "anatomy_matches": [],
+    "context": "<f75r.9,+P0;F>\tqokchdy.chcthy.lo!<!figure>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  },
+  {
+    "word": "ychty",
+    "page": "f75r",
+    "type": "explicit_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f75r.9,+P0;V>\tqokchdy.chcthy.lo<-><!figure><!label:ychty>qokedy.qokan.sheckh!.qokar.ol.chedy.sar"
+  },
+  {
+    "word": "saino",
+    "page": "f75r",
+    "type": "explicit_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f75r.10,+P0;V>\tdshor.qotar.chdy<-><!figure><!label:saino>shey.qokain.chckhy.dy.otey.tedy.l.chedy"
+  },
+  {
+    "word": "saldy",
+    "page": "f75r",
+    "type": "explicit_label",
+    "definition": [
+      {
+        "meaning": "salt (verb)"
+      }
+    ],
+    "source_dict": "Expanded",
+    "anatomy_matches": [],
+    "context": "<f75r.11,+P0;V>\tqokeedy.qokai!n.oly<-><!figure><!label:saldy>qokeedy.dy.qokal.okar.shedy.dar.chekam"
+  },
+  {
+    "word": "dainy",
+    "page": "f75r",
+    "type": "explicit_label",
+    "definition": [
+      {
+        "meaning": "unknown (pl/gen)"
+      }
+    ],
+    "source_dict": "Expanded",
+    "anatomy_matches": [],
+    "context": "<f75r.12,+P0;V>\tssheckhy.qokal.oly<-><!figure><!label:dainy>shey.r.ol.cheey.shey.dy.ol.shedy.qoky"
+  },
+  {
+    "word": "sodar",
+    "page": "f77r",
+    "type": "proximity_label",
+    "definition": [
+      {
+        "meaning": "plant_term"
+      }
+    ],
+    "source_dict": "Master",
+    "anatomy_matches": [],
+    "context": "<f77r.48,+P0;H>\t<!figure>sodar.oloky<$>"
+  },
+  {
+    "word": "oloky",
+    "page": "f77r",
+    "type": "proximity_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f77r.48,+P0;H>\t<!figure>sodar.oloky<$>"
+  },
+  {
+    "word": "sodar",
+    "page": "f77r",
+    "type": "proximity_label",
+    "definition": [
+      {
+        "meaning": "plant_term"
+      }
+    ],
+    "source_dict": "Master",
+    "anatomy_matches": [],
+    "context": "<f77r.48,+P0;C>\t<!figure>sodar.oloky<$>"
+  },
+  {
+    "word": "oloky",
+    "page": "f77r",
+    "type": "proximity_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f77r.48,+P0;C>\t<!figure>sodar.oloky<$>"
+  },
+  {
+    "word": "sodar",
+    "page": "f77r",
+    "type": "proximity_label",
+    "definition": [
+      {
+        "meaning": "plant_term"
+      }
+    ],
+    "source_dict": "Master",
+    "anatomy_matches": [],
+    "context": "<f77r.48,+P0;F>\t<!figure>sodar.oloky<$>"
+  },
+  {
+    "word": "oloky",
+    "page": "f77r",
+    "type": "proximity_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f77r.48,+P0;F>\t<!figure>sodar.oloky<$>"
+  },
+  {
+    "word": "sodar",
+    "page": "f77r",
+    "type": "proximity_label",
+    "definition": [
+      {
+        "meaning": "plant_term"
+      }
+    ],
+    "source_dict": "Master",
+    "anatomy_matches": [],
+    "context": "<f77r.48,+P0;V>\t<!figure>sodar.oloky<$>"
+  },
+  {
+    "word": "oloky",
+    "page": "f77r",
+    "type": "proximity_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f77r.48,+P0;V>\t<!figure>sodar.oloky<$>"
+  },
+  {
+    "word": "sodar",
+    "page": "f77r",
+    "type": "proximity_label",
+    "definition": [
+      {
+        "meaning": "plant_term"
+      }
+    ],
+    "source_dict": "Master",
+    "anatomy_matches": [],
+    "context": "<f77r.48,+P0;m>\t<!figure>sodar.oloky<$>"
+  },
+  {
+    "word": "oloky",
+    "page": "f77r",
+    "type": "proximity_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f77r.48,+P0;m>\t<!figure>sodar.oloky<$>"
+  },
+  {
+    "word": "sodar",
+    "page": "f77r",
+    "type": "proximity_label",
+    "definition": [
+      {
+        "meaning": "plant_term"
+      }
+    ],
+    "source_dict": "Master",
+    "anatomy_matches": [],
+    "context": "<f77r.48,+P0;c>\t<!figure>sodar.oloky<$>"
+  },
+  {
+    "word": "oloky",
+    "page": "f77r",
+    "type": "proximity_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f77r.48,+P0;c>\t<!figure>sodar.oloky<$>"
+  },
+  {
+    "word": "dar",
+    "page": "f78r",
+    "type": "explicit_label",
+    "definition": [
+      {
+        "meaning": "Adar (month)"
+      }
+    ],
+    "source_dict": "Master",
+    "anatomy_matches": [],
+    "context": "<f78r.9,+P0;F>\tschedy.keedy.qokedy.chckhd.qokaiin.chedy.qotedy.dy<-><!figure><!label:dar.alocfhy>"
+  },
+  {
+    "word": "alocfhy",
+    "page": "f78r",
+    "type": "explicit_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f78r.9,+P0;F>\tschedy.keedy.qokedy.chckhd.qokaiin.chedy.qotedy.dy<-><!figure><!label:dar.alocfhy>"
+  },
+  {
+    "word": "dchedaly",
+    "page": "f78r",
+    "type": "explicit_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f78r.13,+P0;F>\tqokedy.ol.kedy.qokain.okedy.kedy.tol.dy.qoteedy.dy<-><!figure><!label:dchedaly>"
+  },
+  {
+    "word": "otarodl",
+    "page": "f78r",
+    "type": "explicit_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f78r.26,+P0;F>\tsol.shey.kary.ar.shedy.qo!dar.aiin.aol<-><!figure><!label:otarodl.shy.orory>"
+  },
+  {
+    "word": "shy",
+    "page": "f78r",
+    "type": "explicit_label",
+    "definition": [
+      {
+        "meaning": "verb form"
+      }
+    ],
+    "source_dict": "Master",
+    "anatomy_matches": [],
+    "context": "<f78r.26,+P0;F>\tsol.shey.kary.ar.shedy.qo!dar.aiin.aol<-><!figure><!label:otarodl.shy.orory>"
+  },
+  {
+    "word": "orory",
+    "page": "f78r",
+    "type": "explicit_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f78r.26,+P0;F>\tsol.shey.kary.ar.shedy.qo!dar.aiin.aol<-><!figure><!label:otarodl.shy.orory>"
+  },
+  {
+    "word": "??????????????????????????????arol",
+    "page": "f82v",
+    "type": "proximity_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f82v.25,+P0;c>\t??????????????????????????????arol.shey,tchdy.qokal<-><!figure>"
+  },
+  {
+    "word": "sheytchdy",
+    "page": "f82v",
+    "type": "proximity_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f82v.25,+P0;c>\t??????????????????????????????arol.shey,tchdy.qokal<-><!figure>"
+  },
+  {
+    "word": "qokal",
+    "page": "f82v",
+    "type": "proximity_label",
+    "definition": [
+      {
+        "meaning": "the (+ noun)"
+      }
+    ],
+    "source_dict": "Expanded",
+    "anatomy_matches": [],
+    "context": "<f82v.25,+P0;c>\t??????????????????????????????arol.shey,tchdy.qokal<-><!figure>"
+  },
+  {
+    "word": "techedy",
+    "page": "f83r",
+    "type": "proximity_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f83r.31,+P1;c>\t<!figure>techedy.qot,chedy.okeedy,ldy"
+  },
+  {
+    "word": "qotchedy",
+    "page": "f83r",
+    "type": "proximity_label",
+    "definition": [
+      {
+        "meaning": "the writing"
+      }
+    ],
+    "source_dict": "Expanded",
+    "anatomy_matches": [],
+    "context": "<f83r.31,+P1;c>\t<!figure>techedy.qot,chedy.okeedy,ldy"
+  },
+  {
+    "word": "okeedyldy",
+    "page": "f83r",
+    "type": "proximity_label",
+    "definition": [],
+    "source_dict": "None",
+    "anatomy_matches": [],
+    "context": "<f83r.31,+P1;c>\t<!figure>techedy.qot,chedy.okeedy,ldy"
+  },
+  {
+    "word": "okchdy",
+    "page": "f83v",
+    "type": "explicit_label",
+    "definition": [
+      {
+        "meaning": "strength (koach) (verb/adj)"
+      }
+    ],
+    "source_dict": "Expanded",
+    "anatomy_matches": [],
+    "context": "<f83v.21,+P0;H>\tqokeed.qokaiin.sheol!kai!n.sheol.olkeedy.l.shedy<!label:.okchdy>"
+  },
+  {
+    "word": "okchdy",
+    "page": "f83v",
+    "type": "explicit_label",
+    "definition": [
+      {
+        "meaning": "strength (koach) (verb/adj)"
+      }
+    ],
+    "source_dict": "Expanded",
+    "anatomy_matches": [],
+    "context": "<f83v.21,+P0;C>\tqokeed.qokaiin.sheol!kai!n.sheol.olkeedy!l!shedy<!label:.okchdy>"
+  },
+  {
+    "word": "okchdy",
+    "page": "f83v",
+    "type": "explicit_label",
+    "definition": [
+      {
+        "meaning": "strength (koach) (verb/adj)"
+      }
+    ],
+    "source_dict": "Expanded",
+    "anatomy_matches": [],
+    "context": "<f83v.21,+P0;F>\tqokeed.qokaiin.sheol.kaiin.sheol.olkeedy!l.shedy<!label:.okchdy>"
+  },
+  {
+    "word": "okchdy",
+    "page": "f83v",
+    "type": "explicit_label",
+    "definition": [
+      {
+        "meaning": "strength (koach) (verb/adj)"
+      }
+    ],
+    "source_dict": "Expanded",
+    "anatomy_matches": [],
+    "context": "<f83v.21,+P0;V>\tqokeed.qokaiin.sheol!kai!n.sheol.olkeedy.l.shedy<!label:.okchdy>"
+  },
+  {
+    "word": "okchdy",
+    "page": "f83v",
+    "type": "explicit_label",
+    "definition": [
+      {
+        "meaning": "strength (koach) (verb/adj)"
+      }
+    ],
+    "source_dict": "Expanded",
+    "anatomy_matches": [],
+    "context": "<f83v.21,+P0;m>\tqokeed.qokaiin.sheol!kai!n.sheol.olkeedy.l.shedy<!label:.okchdy>"
+  },
+  {
+    "word": "okchdy",
+    "page": "f83v",
+    "type": "explicit_label",
+    "definition": [
+      {
+        "meaning": "strength (koach) (verb/adj)"
+      }
+    ],
+    "source_dict": "Expanded",
+    "anatomy_matches": [],
+    "context": "<f83v.21,+P0;c>\tqokeed.qokaiin.sheol,kai?n.sheol.olkeedy,l,shedy<!label:.okchdy>"
+  }
+]
