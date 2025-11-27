@@ -212,3 +212,4 @@ Our Hebrew/Judeo-Italian hypothesis is filling a gap in Voynich research. Zandbe
 
 
 
+

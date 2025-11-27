@@ -145,7 +145,7 @@ function App() {
                   return (
                     <div 
                       key={id}
-                      className="absolute bg-slate-900/80 text-amber-100 p-2 rounded text-sm hover:bg-slate-900/95 transition-all border border-amber-500/30 backdrop-blur-sm shadow-lg pointer-events-auto cursor-help"
+                      className="absolute text-amber-100 p-2 rounded text-sm hover:bg-slate-900/95 transition-all border border-amber-500/30 backdrop-blur-sm shadow-lg pointer-events-auto cursor-help"
                       style={{ 
                         top: coords.top, 
                         left: coords.left,

@@ -1,0 +1,455 @@
+{
+  "in": {
+    "root": "in",
+    "meanings": [
+      "of the/from",
+      "botanical term (polygonum folio)"
+    ],
+    "source_words": [
+      "dchodaiin",
+      "daiin"
+    ]
+  },
+  "y": {
+    "root": "y",
+    "meanings": [
+      "-s/-i (plural/genitive)"
+    ],
+    "source_words": [
+      "y"
+    ]
+  },
+  "ly": {
+    "root": "ly",
+    "meanings": [
+      "verb (unknown)",
+      "Aquarius (bucket)"
+    ],
+    "source_words": [
+      "okaly",
+      "daly",
+      "doly",
+      "otaly"
+    ]
+  },
+  "ky": {
+    "root": "ky",
+    "meanings": [
+      "verb (unknown)",
+      "verb form",
+      "preposition/conjunction",
+      "eye"
+    ],
+    "source_words": [
+      "oky",
+      "yky",
+      "chyky",
+      "ky",
+      "olky",
+      "choky"
+    ]
+  },
+  "ry": {
+    "root": "ry",
+    "meanings": [
+      "verb (unknown)",
+      "barley",
+      "earth"
+    ],
+    "source_words": [
+      "sary",
+      "dary",
+      "otory",
+      "otary",
+      "sory"
+    ]
+  },
+  "ar": {
+    "root": "ar",
+    "meanings": [
+      "pain",
+      "papaver",
+      "to/for",
+      "verb (unknown)",
+      "fruit",
+      "flower",
+      "Adar (month)",
+      "earth"
+    ],
+    "source_words": [
+      "ary",
+      "dar",
+      "dalary",
+      "chodar",
+      "otar",
+      "chary",
+      "ar",
+      "opar",
+      "opchar",
+      "otear"
+    ]
+  },
+  "al": {
+    "root": "al",
+    "meanings": [
+      "all/voice",
+      "aries",
+      "to the",
+      "verb (unknown)",
+      "sick",
+      "skin",
+      "scabiosa"
+    ],
+    "source_words": [
+      "al",
+      "ykaly",
+      "ykal",
+      "okal",
+      "cheal",
+      "shekal",
+      "ypal",
+      "dal"
+    ]
+  },
+  "qo": {
+    "root": "qo",
+    "meanings": [
+      "the (definite article)"
+    ],
+    "source_words": [
+      "qo"
+    ]
+  },
+  "ol": {
+    "root": "ol",
+    "meanings": [
+      "all/voice",
+      "the/of",
+      "tongue"
+    ],
+    "source_words": [
+      "ykol",
+      "oteol",
+      "okeol",
+      "okol",
+      "sheol",
+      "ol"
+    ]
+  },
+  "ai": {
+    "root": "ai",
+    "meanings": [
+      "one",
+      "moon",
+      "fig"
+    ],
+    "source_words": [
+      "aiin",
+      "otoaiin",
+      "olaiin"
+    ]
+  },
+  "sh": {
+    "root": "sh",
+    "meanings": [
+      "fire"
+    ],
+    "source_words": [
+      "sh"
+    ]
+  },
+  "ir": {
+    "root": "ir",
+    "meanings": [
+      "Adar (month)",
+      "barley"
+    ],
+    "source_words": [
+      "sair",
+      "saiir",
+      "dair"
+    ]
+  },
+  "or": {
+    "root": "or",
+    "meanings": [
+      "verb form",
+      "hole/pierce (chor)",
+      "barley",
+      "moon",
+      "botanical term (botrychium folio)",
+      "flower",
+      "fruit",
+      "or/and",
+      "earth"
+    ],
+    "source_words": [
+      "sor",
+      "olor",
+      "otor",
+      "okchor",
+      "opor",
+      "or",
+      "opchor",
+      "okcheor",
+      "chor",
+      "cheor"
+    ]
+  },
+  "ey": {
+    "root": "ey",
+    "meanings": [
+      "verb form",
+      "sick person",
+      "preposition/conjunction"
+    ],
+    "source_words": [
+      "cheey",
+      "otey",
+      "sheey",
+      "ykeey",
+      "okey",
+      "okeey",
+      "oteey",
+      "tey",
+      "olchey"
+    ]
+  },
+  "epcho": {
+    "root": "epcho",
+    "meanings": [
+      "botanical term (aristolochia folio)"
+    ],
+    "source_words": [
+      "oepchol"
+    ]
+  },
+  "ty": {
+    "root": "ty",
+    "meanings": [
+      "verb form",
+      "preposition/conjunction"
+    ],
+    "source_words": [
+      "oty",
+      "ty"
+    ]
+  },
+  "hy": {
+    "root": "hy",
+    "meanings": [
+      "verb form",
+      "strength/power",
+      "wheat",
+      "verb (imperative?)",
+      "botanical term (botrychium folio)",
+      "finger",
+      "botanical term (paeonia folio)",
+      "verb (unknown)"
+    ],
+    "source_words": [
+      "chochy",
+      "ockhy",
+      "shy",
+      "otchy",
+      "olcphy",
+      "chcthy",
+      "chockhy",
+      "okchy",
+      "opchy",
+      "ckhy"
+    ]
+  },
+  "dy": {
+    "root": "dy",
+    "meanings": [
+      "one",
+      "wheat",
+      "verb",
+      "-ness/-ly (suffix)",
+      "is/has (verb)"
+    ],
+    "source_words": [
+      "okeody",
+      "ody",
+      "dy",
+      "chdy",
+      "cheody",
+      "chody",
+      "daldy",
+      "ykedy",
+      "opchdy",
+      "oldy",
+      "ldy",
+      "chedy"
+    ]
+  },
+  "eys": {
+    "root": "eys",
+    "meanings": [
+      "tree"
+    ],
+    "source_words": [
+      "oteeys"
+    ]
+  },
+  "he": {
+    "root": "he",
+    "meanings": [
+      "verb (unknown)"
+    ],
+    "source_words": [
+      "chckhey"
+    ]
+  },
+  "es": {
+    "root": "es",
+    "meanings": [
+      "is (essere)"
+    ],
+    "source_words": [
+      "okees"
+    ]
+  },
+  "ii": {
+    "root": "ii",
+    "meanings": [
+      "Adar (month)",
+      "fig"
+    ],
+    "source_words": [
+      "otaiin",
+      "doiir"
+    ]
+  },
+  "am": {
+    "root": "am",
+    "meanings": [
+      "scabiosa",
+      "blood",
+      "branch",
+      "thyme"
+    ],
+    "source_words": [
+      "otam",
+      "ykam",
+      "oram",
+      "ytam",
+      "dam"
+    ]
+  },
+  "os": {
+    "root": "os",
+    "meanings": [
+      "is (essere)",
+      "tree"
+    ],
+    "source_words": [
+      "cheos",
+      "okeos",
+      "oteos"
+    ]
+  },
+  "heos": {
+    "root": "heos",
+    "meanings": [
+      "botanical term (geranium folio)"
+    ],
+    "source_words": [
+      "ocheos"
+    ]
+  },
+  "ed": {
+    "root": "ed",
+    "meanings": [
+      "one",
+      "verb form",
+      "verbal/adjectival",
+      "botanical term (aristolochia folio)",
+      "finger"
+    ],
+    "source_words": [
+      "ched",
+      "qotedy",
+      "dshedy",
+      "kedy",
+      "chtedy"
+    ]
+  },
+  "to": {
+    "root": "to",
+    "meanings": [
+      "preposition/conjunction"
+    ],
+    "source_words": [
+      "oto"
+    ]
+  },
+  "an": {
+    "root": "an",
+    "meanings": [
+      "priest",
+      "fig"
+    ],
+    "source_words": [
+      "okan",
+      "otan"
+    ]
+  },
+  "ee": {
+    "root": "ee",
+    "meanings": [
+      "verb form"
+    ],
+    "source_words": [
+      "olkeedy"
+    ]
+  },
+  "ls": {
+    "root": "ls",
+    "meanings": [
+      "botanical term (geranium folio)",
+      "almond tree"
+    ],
+    "source_words": [
+      "ols",
+      "chols"
+    ]
+  },
+  "oy": {
+    "root": "oy",
+    "meanings": [
+      "verb (unknown)"
+    ],
+    "source_words": [
+      "oy"
+    ]
+  },
+  "ok": {
+    "root": "ok",
+    "meanings": [
+      "papaver"
+    ],
+    "source_words": [
+      "ok"
+    ]
+  },
+  "alo": {
+    "root": "alo",
+    "meanings": [
+      "Elul (month)"
+    ],
+    "source_words": [
+      "aloly"
+    ]
+  },
+  "eo": {
+    "root": "eo",
+    "meanings": [
+      "wheat"
+    ],
+    "source_words": [
+      "keody"
+    ]
+  }
+}

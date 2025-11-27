@@ -57,3 +57,4 @@ The translation supports the "And" hypothesis. The recipe structure `daiin` -> I
 *   Investigate `sh-` prefix to decode `yshdaiin`.
 *   Add `qokeol` to dictionary (appears as verb/action in recipes).
 
+
