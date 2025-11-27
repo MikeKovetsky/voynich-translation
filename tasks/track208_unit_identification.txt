@@ -1,0 +1,21 @@
+# Task 208: Unit Identification
+
+## Goal
+Identify the measurement units (Cup, Drop, Ounce) in the recipes.
+
+## Input
+- `results/parsed_text.json` (Recipes)
+- `results/dosage_candidates.json` (from Task 205)
+
+## Process
+1.  **Context Analysis:**
+    - Analyze `saiin` (6 occ) and `daiin` (4 occ before `ol`).
+    - Do they appear with "Liquid" ingredients? (e.g., `saiin ol aiin` = Cup of Water).
+    - Do they appear with "Dry" ingredients? (e.g., `saiin ol chotey` = Cup of Wheat).
+2.  **Comparison:**
+    - Compare with medieval recipe standard units (Drachm, Ounce, Scruple).
+    - Is there a word for "Handful"? (`ar`?).
+
+## Output
+- `results/measurement_units.md`: List of proposed units.
+- `results/track-208-results_summary.md`: Summary.
