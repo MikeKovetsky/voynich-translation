@@ -37,9 +37,6 @@ The failure of the Color Hypothesis (Task 184) suggests that `ot-` and `ok-` are
     - Apply the "Star" (`os`) and "Extract" (`ordaiin`) meanings to the full text.
     - Generate a readable output of the **Cosmological Section** (f67r-f73v).
     - Look for "As above, so below" patterns linking Stars to Plants.
-3.  **Task 188 (Web Stats Dashboard):**
-    - Create a simple HTML dashboard in `web/` to visualize our Dictionary Stats (Total Words, % Known).
-    - Use the `results/dictionary/dictionary.json` as the source.
 
 **Hypothesis:**
 The Voynich "Adjectives" are actually "Case Prefixes" (e.g., Ablative, Genitive).

@@ -1,13 +1,14 @@
 import { useState, useEffect, useMemo } from 'react'
-import { ChevronLeft, ChevronRight, BookOpen, Activity } from 'lucide-react'
+import { ChevronLeft, ChevronRight, BookOpen, Activity, Library } from 'lucide-react'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import pages from './data/pages.json'
 import coordinates from './data/coordinates.json'
 import Stats from './Stats'
+import Dictionary from './Dictionary'
 
 function App() {
-  const [view, setView] = useState('viewer') // 'viewer' or 'stats'
+  const [view, setView] = useState('viewer') // 'viewer', 'stats', 'dictionary'
   const [currentPageIndex, setCurrentPageIndex] = useState(0)
   const [showTranslation, setShowTranslation] = useState(true)
   const [markdownContent, setMarkdownContent] = useState('')
