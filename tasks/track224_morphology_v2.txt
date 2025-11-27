@@ -1,0 +1,18 @@
+Track 224: Morphological Stripping v2
+
+Goal: Automate the discovery of complex words by stripping known affixes.
+
+Steps:
+1.  Load `results/dictionary/dictionary.json`.
+2.  Define a list of "Known Affixes" based on previous research:
+    -   Prefixes: `qo-`, `o-`, `y-`, `d-`, `s-`, `t-`, `sh-`.
+    -   Suffixes: `-y`, `-dy`, `-o`, `-al`.
+3.  Load the list of "Unknown Words" (from Task 223 or the full corpus).
+4.  For each unknown word:
+    -   Iterate through all combinations of prefixes/suffixes.
+    -   Strip them.
+    -   Check if the *remaining stem* is in the dictionary.
+    -   Example: `qokeedy` -> Strip `qo-` -> `keedy` (Unknown) -> Strip `k-`? No.
+    -   Example: `otedy` -> Strip `ot-` -> `edy` (Known: "Mix"). -> MATCH!
+5.  Output a proposed list of new dictionary entries to `results/proposed_morphology_entries.json`.
+6.  Generate `results/track-224-results_summary.md` estimating the % coverage gain.

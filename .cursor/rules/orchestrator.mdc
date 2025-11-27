@@ -11,7 +11,8 @@ When I run the subtasks and notify you about their completion, analyze the resul
 When doing analysis, find results in /results folder.  
 Before diving deep into research, find info about the topic in the web to not reinvent it.
 
-Summarize and APPDEND the description of every iteration in English to the end of progress_summary_2.md. Never overwrite the history. Be casual in the doc and use emojis.
+After every iteration create a {iteration}.txt file and put it to /progress.
+Never overwrite the previous files. Be casual in the doc and use emojis.
 GIT Commit and GIT push the result of every iteration.
 If you feel stuck with some step (for example, you cannot extract info from some website due to parsing restrictions), then stop and ask me to do the task.
 Try different approaches if necessary. Use python if you need to write scripts.

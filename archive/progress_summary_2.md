@@ -514,3 +514,38 @@ Finalize the repository for the v1.0 release. Cleanup artifacts, update document
 
 **Hypothesis:**
 The project is complete. The manuscript is a 15th-century Medical Astrology Almanac.
+
+---
+
+## Iteration 77: The Pivot to Coverage 📉➡️📈
+
+**Status:** In Progress
+**Date:** 2025-11-27
+
+**The Reality Check:**
+Despite high "readability" scores (which include grammar particles), the **Dictionary Translation Completeness** (words with actual English definitions) is only **11%**.
+We are halting the v1.0 Release. The goal is now to drastically improve this metric.
+
+**Goal:**
+Increase Dictionary Translation Completeness from 11% to 30%+.
+
+**Strategy:**
+1.  **Attack the Head:** Focus purely on the most frequent unknown words.
+2.  **Morphological Rescue:** Many "unknowns" are just complex variations of known roots. We will strip them aggressively.
+3.  **Contextual Inference:** Use the grammar we *do* know to assign semantic categories (Noun/Verb) to unknown words.
+
+**Tasks Created:**
+1.  **Task 223 (Top 100 Unknowns):**
+    -   Scan the text against the current .
+    -   Identify the top 100 most frequent words that have *no* translation.
+    -   Generate .
+2.  **Task 224 (Morphology v2):**
+    -   Build a script that attempts to "solve" unknown words by stripping known prefixes/suffixes (, , , ).
+    -   If  is in the dictionary, add the complex word to the dictionary automatically.
+3.  **Task 225 (Context Guesser):**
+    -   Find unknown words that appear in "Solved Contexts" (e.g., ).
+    -   If  = "Take", then  is an Ingredient.
+    -   Add these as  to the dictionary.
+
+**Hypothesis:**
+We are under-counting our coverage because we aren't handling morphology dynamically enough.

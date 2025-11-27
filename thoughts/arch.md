@@ -1,7 +1,8 @@
 # Orchestrator vs Subagent Process
 
 This document describes the research workflow between the Orchestrator (Project Lead) and Subagents (Researchers).
-This is 
+This approach is not new. Most coprporate/sociatal structures follow it. The main reasons are:
+- Context Hygiene. Event the most modern LLMs cannot keep the context of entire project that consists of many millions of tokens.
 
 ## 1. Roles
 

@@ -1,0 +1,23 @@
+Track 225: Contextual Category Guesser
+
+Goal: Assign semantic categories (Noun/Verb) to unknown words based on their neighbors.
+
+Steps:
+1.  Load the corpus and `results/dictionary/dictionary.json`.
+2.  Define "Strong Contexts" (Anchors):
+    -   `daiin [X]` -> `X` is Noun (Ingredient).
+    -   `[X] okeol` -> `X` is Noun (Ingredient being boiled).
+    -   `qok [X]` -> `X` is Noun (Instrument/Ingredient).
+    -   `y [X]` -> `X` is same type as preceding word.
+3.  Scan the text for these patterns.
+4.  Collect all unknown words filling these slots.
+5.  Generate `results/context_guesses.json`:
+    ```json
+    {
+      "word": "chkar",
+      "inferred_type": "noun",
+      "confidence": "high",
+      "evidence": ["daiin chkar", "qok chkar"]
+    }
+    ```
+6.  Generate `results/track-225-results_summary.md`.
