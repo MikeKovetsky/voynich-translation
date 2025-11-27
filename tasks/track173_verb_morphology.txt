@@ -1,0 +1,23 @@
+# Task 173: Verb Morphology (qok- Analysis)
+
+## Goal
+Decode the conjugation system of Voinych verbs, focusing on the confirmed verb prefix `qok-` (and `qo-`, `q-`).
+
+## Input
+- `results/parsed_text.json`
+
+## Process
+1.  **Extract Verbs:** Filter words starting with `qok-`, `qo-`, or `q-`.
+2.  **Strip Prefix:** Identify the "Stem" (what follows the prefix).
+3.  **Analyze Suffixes:**
+    - What ends the word? (`-dy`, `-y`, `-a`, `-o`, `-in`?)
+    - Group verbs by their suffix.
+4.  **Contextual Tense Analysis:**
+    - Look at "narrative" sections (Bio/Rosettes) vs. "instructional" sections (Recipes).
+    - Do different suffixes dominate different sections?
+    - *Hypothesis:* `-y` = Present/Imperative (Instruction), `-a` = Past/Descriptive (Narrative).
+
+## Output
+- `results/verb_morphology.json`: List of identified verb stems and their suffixes.
+- `results/verb_grammar_report.md`: Report on Tense/Aspect patterns.
+- `results/track-173-results_summary.md`: Summary.

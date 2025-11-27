@@ -1,0 +1,3727 @@
+{
+  "num_topics": 10,
+  "topics": {
+    "0": [
+      "heo",
+      "eoda",
+      "eos",
+      "fch",
+      "ees",
+      "hs",
+      "ls",
+      "da",
+      "ko",
+      "ke"
+    ],
+    "1": [
+      "an",
+      "oy",
+      "ha",
+      "rc",
+      "rcho",
+      "rote",
+      "eok",
+      "ham",
+      "eta",
+      "en"
+    ],
+    "2": [
+      "it",
+      "hoa",
+      "ika",
+      "fho",
+      "rcho",
+      "oe",
+      "so",
+      "hea",
+      "ea",
+      "eesho"
+    ],
+    "3": [
+      "dl",
+      "fch",
+      "kl",
+      "im",
+      "fh",
+      "oy",
+      "il",
+      "rom",
+      "iis",
+      "sh"
+    ],
+    "4": [
+      "fc",
+      "fsh",
+      "eeees",
+      "it",
+      "ha",
+      "eea",
+      "dl",
+      "sh",
+      "ot",
+      "eos"
+    ],
+    "5": [
+      "oy",
+      "fh",
+      "sy",
+      "ram",
+      "eoda",
+      "rai",
+      "ok",
+      "yd",
+      "an",
+      "et"
+    ],
+    "6": [
+      "hs",
+      "heo",
+      "eod",
+      "eta",
+      "roii",
+      "ys",
+      "mo",
+      "ifh",
+      "rais",
+      "md"
+    ],
+    "7": [
+      "ls",
+      "ea",
+      "ees",
+      "an",
+      "sy",
+      "qo",
+      "ha",
+      "sh",
+      "as",
+      "ot"
+    ],
+    "8": [
+      "im",
+      "fh",
+      "ck",
+      "qo",
+      "ea",
+      "ys",
+      "rc",
+      "fcho",
+      "eees",
+      "fsho"
+    ],
+    "9": [
+      "rai",
+      "eda",
+      "fch",
+      "eeda",
+      "ram",
+      "ees",
+      "eed",
+      "fa",
+      "hs",
+      "oy"
+    ]
+  },
+  "page_mapping": {
+    "f100r": {
+      "topic": 0,
+      "section": "Herbal II",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f100v": {
+      "topic": 1,
+      "section": "Herbal II",
+      "top_words": [
+        "an",
+        "oy",
+        "ha",
+        "rc",
+        "rcho",
+        "rote",
+        "eok",
+        "ham",
+        "eta",
+        "en"
+      ]
+    },
+    "f101r": {
+      "topic": 0,
+      "section": "Herbal II",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f101v": {
+      "topic": 7,
+      "section": "Herbal II",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f102r1": {
+      "topic": 5,
+      "section": "Herbal II",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f102r2": {
+      "topic": 5,
+      "section": "Herbal II",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f102v1": {
+      "topic": 0,
+      "section": "Herbal II",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f102v2": {
+      "topic": 7,
+      "section": "Herbal II",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f103r": {
+      "topic": 7,
+      "section": "Recipes",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f103v": {
+      "topic": 9,
+      "section": "Recipes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f104r": {
+      "topic": 7,
+      "section": "Recipes",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f104v": {
+      "topic": 9,
+      "section": "Recipes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f105r": {
+      "topic": 9,
+      "section": "Recipes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f105v": {
+      "topic": 3,
+      "section": "Recipes",
+      "top_words": [
+        "dl",
+        "fch",
+        "kl",
+        "im",
+        "fh",
+        "oy",
+        "il",
+        "rom",
+        "iis",
+        "sh"
+      ]
+    },
+    "f106r": {
+      "topic": 9,
+      "section": "Recipes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f106v": {
+      "topic": 9,
+      "section": "Recipes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f107r": {
+      "topic": 7,
+      "section": "Recipes",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f107v": {
+      "topic": 5,
+      "section": "Recipes",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f108r": {
+      "topic": 9,
+      "section": "Recipes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f108v": {
+      "topic": 9,
+      "section": "Recipes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f10r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f10v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f111r": {
+      "topic": 9,
+      "section": "Recipes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f111v": {
+      "topic": 7,
+      "section": "Recipes",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f112r": {
+      "topic": 9,
+      "section": "Recipes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f112v": {
+      "topic": 9,
+      "section": "Recipes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f113r": {
+      "topic": 9,
+      "section": "Recipes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f113v": {
+      "topic": 7,
+      "section": "Recipes",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f114r": {
+      "topic": 9,
+      "section": "Recipes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f114v": {
+      "topic": 9,
+      "section": "Recipes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f115r": {
+      "topic": 7,
+      "section": "Recipes",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f115v": {
+      "topic": 7,
+      "section": "Recipes",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f116r": {
+      "topic": 9,
+      "section": "Recipes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f11r": {
+      "topic": 3,
+      "section": "Herbal I",
+      "top_words": [
+        "dl",
+        "fch",
+        "kl",
+        "im",
+        "fh",
+        "oy",
+        "il",
+        "rom",
+        "iis",
+        "sh"
+      ]
+    },
+    "f11v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f13r": {
+      "topic": 8,
+      "section": "Herbal I",
+      "top_words": [
+        "im",
+        "fh",
+        "ck",
+        "qo",
+        "ea",
+        "ys",
+        "rc",
+        "fcho",
+        "eees",
+        "fsho"
+      ]
+    },
+    "f13v": {
+      "topic": 0,
+      "section": "Herbal I",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f14r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f14v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f15r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f15v": {
+      "topic": 5,
+      "section": "Herbal I",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f16r": {
+      "topic": 3,
+      "section": "Herbal I",
+      "top_words": [
+        "dl",
+        "fch",
+        "kl",
+        "im",
+        "fh",
+        "oy",
+        "il",
+        "rom",
+        "iis",
+        "sh"
+      ]
+    },
+    "f16v": {
+      "topic": 5,
+      "section": "Herbal I",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f17r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f17v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f18r": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f18v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f19r": {
+      "topic": 5,
+      "section": "Herbal I",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f19v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f1r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f1v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f20r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f20v": {
+      "topic": 5,
+      "section": "Herbal I",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f21r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f21v": {
+      "topic": 4,
+      "section": "Herbal I",
+      "top_words": [
+        "fc",
+        "fsh",
+        "eeees",
+        "it",
+        "ha",
+        "eea",
+        "dl",
+        "sh",
+        "ot",
+        "eos"
+      ]
+    },
+    "f22r": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f22v": {
+      "topic": 8,
+      "section": "Herbal I",
+      "top_words": [
+        "im",
+        "fh",
+        "ck",
+        "qo",
+        "ea",
+        "ys",
+        "rc",
+        "fcho",
+        "eees",
+        "fsho"
+      ]
+    },
+    "f23r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f23v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f24r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f24v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f25r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f25v": {
+      "topic": 2,
+      "section": "Herbal I",
+      "top_words": [
+        "it",
+        "hoa",
+        "ika",
+        "fho",
+        "rcho",
+        "oe",
+        "so",
+        "hea",
+        "ea",
+        "eesho"
+      ]
+    },
+    "f26r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f26v": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f27r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f27v": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f28r": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f28v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f29r": {
+      "topic": 5,
+      "section": "Herbal I",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f29v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f2r": {
+      "topic": 1,
+      "section": "Herbal I",
+      "top_words": [
+        "an",
+        "oy",
+        "ha",
+        "rc",
+        "rcho",
+        "rote",
+        "eok",
+        "ham",
+        "eta",
+        "en"
+      ]
+    },
+    "f2v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f30r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f30v": {
+      "topic": 2,
+      "section": "Herbal I",
+      "top_words": [
+        "it",
+        "hoa",
+        "ika",
+        "fho",
+        "rcho",
+        "oe",
+        "so",
+        "hea",
+        "ea",
+        "eesho"
+      ]
+    },
+    "f31r": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f31v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f32r": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f32v": {
+      "topic": 5,
+      "section": "Herbal I",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f33r": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f33v": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f34r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f34v": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f35r": {
+      "topic": 1,
+      "section": "Herbal I",
+      "top_words": [
+        "an",
+        "oy",
+        "ha",
+        "rc",
+        "rcho",
+        "rote",
+        "eok",
+        "ham",
+        "eta",
+        "en"
+      ]
+    },
+    "f35v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f36r": {
+      "topic": 5,
+      "section": "Herbal I",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f36v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f37r": {
+      "topic": 8,
+      "section": "Herbal I",
+      "top_words": [
+        "im",
+        "fh",
+        "ck",
+        "qo",
+        "ea",
+        "ys",
+        "rc",
+        "fcho",
+        "eees",
+        "fsho"
+      ]
+    },
+    "f37v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f38r": {
+      "topic": 5,
+      "section": "Herbal I",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f38v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f39r": {
+      "topic": 3,
+      "section": "Herbal I",
+      "top_words": [
+        "dl",
+        "fch",
+        "kl",
+        "im",
+        "fh",
+        "oy",
+        "il",
+        "rom",
+        "iis",
+        "sh"
+      ]
+    },
+    "f39v": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f3r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f3v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f40r": {
+      "topic": 5,
+      "section": "Herbal I",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f40v": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f41r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f41v": {
+      "topic": 0,
+      "section": "Herbal I",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f42r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f42v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f43r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f43v": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f44r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f44v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f45r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f45v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f46r": {
+      "topic": 0,
+      "section": "Herbal I",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f46v": {
+      "topic": 8,
+      "section": "Herbal I",
+      "top_words": [
+        "im",
+        "fh",
+        "ck",
+        "qo",
+        "ea",
+        "ys",
+        "rc",
+        "fcho",
+        "eees",
+        "fsho"
+      ]
+    },
+    "f47r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f47v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f48r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f48v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f49r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f49v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f4r": {
+      "topic": 1,
+      "section": "Herbal I",
+      "top_words": [
+        "an",
+        "oy",
+        "ha",
+        "rc",
+        "rcho",
+        "rote",
+        "eok",
+        "ham",
+        "eta",
+        "en"
+      ]
+    },
+    "f4v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f50r": {
+      "topic": 0,
+      "section": "Herbal I",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f50v": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f51r": {
+      "topic": 0,
+      "section": "Herbal I",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f51v": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f52r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f52v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f53r": {
+      "topic": 5,
+      "section": "Herbal I",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f53v": {
+      "topic": 0,
+      "section": "Herbal I",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f54r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f54v": {
+      "topic": 8,
+      "section": "Herbal I",
+      "top_words": [
+        "im",
+        "fh",
+        "ck",
+        "qo",
+        "ea",
+        "ys",
+        "rc",
+        "fcho",
+        "eees",
+        "fsho"
+      ]
+    },
+    "f55r": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f55v": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f56r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f56v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f57r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f57v": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f58r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f58v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f5r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f5v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f65r": {
+      "topic": 8,
+      "section": "Herbal I",
+      "top_words": [
+        "im",
+        "fh",
+        "ck",
+        "qo",
+        "ea",
+        "ys",
+        "rc",
+        "fcho",
+        "eees",
+        "fsho"
+      ]
+    },
+    "f65v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f66r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f66v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f67r1": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f67r2": {
+      "topic": 9,
+      "section": "Astronomical",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f67v1": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f67v2": {
+      "topic": 5,
+      "section": "Astronomical",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f68r1": {
+      "topic": 9,
+      "section": "Astronomical",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f68r2": {
+      "topic": 5,
+      "section": "Astronomical",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f68r3": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f68v1": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f68v2": {
+      "topic": 5,
+      "section": "Astronomical",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f68v3": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f69r": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f69v": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f6r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f6v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f70r1": {
+      "topic": 9,
+      "section": "Astronomical",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f70r2": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f70v1": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f70v2": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f71r": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f71v": {
+      "topic": 0,
+      "section": "Astronomical",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f72r1": {
+      "topic": 9,
+      "section": "Astronomical",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f72r2": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f72r3": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f72v1": {
+      "topic": 0,
+      "section": "Astronomical",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f72v2": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f72v3": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f73r": {
+      "topic": 7,
+      "section": "Astronomical",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f73v": {
+      "topic": 9,
+      "section": "Astronomical",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f75r": {
+      "topic": 7,
+      "section": "Biological",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f75v": {
+      "topic": 7,
+      "section": "Biological",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f76r": {
+      "topic": 7,
+      "section": "Biological",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f76v": {
+      "topic": 7,
+      "section": "Biological",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f77r": {
+      "topic": 7,
+      "section": "Biological",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f77v": {
+      "topic": 9,
+      "section": "Biological",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f78r": {
+      "topic": 9,
+      "section": "Biological",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f78v": {
+      "topic": 9,
+      "section": "Biological",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f79r": {
+      "topic": 7,
+      "section": "Biological",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f79v": {
+      "topic": 9,
+      "section": "Biological",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f7r": {
+      "topic": 9,
+      "section": "Herbal I",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f7v": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f80r": {
+      "topic": 7,
+      "section": "Biological",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f80v": {
+      "topic": 7,
+      "section": "Biological",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f81r": {
+      "topic": 9,
+      "section": "Biological",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f81v": {
+      "topic": 9,
+      "section": "Biological",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f82r": {
+      "topic": 7,
+      "section": "Biological",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f82v": {
+      "topic": 7,
+      "section": "Biological",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f83r": {
+      "topic": 7,
+      "section": "Biological",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f83v": {
+      "topic": 7,
+      "section": "Biological",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f84r": {
+      "topic": 3,
+      "section": "Biological",
+      "top_words": [
+        "dl",
+        "fch",
+        "kl",
+        "im",
+        "fh",
+        "oy",
+        "il",
+        "rom",
+        "iis",
+        "sh"
+      ]
+    },
+    "f84v": {
+      "topic": 9,
+      "section": "Biological",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f85r1": {
+      "topic": 9,
+      "section": "Rosettes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f85r2": {
+      "topic": 9,
+      "section": "Rosettes",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f86v3": {
+      "topic": 7,
+      "section": "Rosettes",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f86v4": {
+      "topic": 7,
+      "section": "Rosettes",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f86v5": {
+      "topic": 7,
+      "section": "Rosettes",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f86v6": {
+      "topic": 7,
+      "section": "Rosettes",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f87r": {
+      "topic": 0,
+      "section": "Herbal II",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f87v": {
+      "topic": 5,
+      "section": "Herbal II",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f88r": {
+      "topic": 5,
+      "section": "Herbal II",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f88v": {
+      "topic": 5,
+      "section": "Herbal II",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f89r1": {
+      "topic": 7,
+      "section": "Herbal II",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f89r2": {
+      "topic": 7,
+      "section": "Herbal II",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f89v1": {
+      "topic": 7,
+      "section": "Herbal II",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f89v2": {
+      "topic": 0,
+      "section": "Herbal II",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f8r": {
+      "topic": 7,
+      "section": "Herbal I",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f8v": {
+      "topic": 1,
+      "section": "Herbal I",
+      "top_words": [
+        "an",
+        "oy",
+        "ha",
+        "rc",
+        "rcho",
+        "rote",
+        "eok",
+        "ham",
+        "eta",
+        "en"
+      ]
+    },
+    "f90r1": {
+      "topic": 0,
+      "section": "Herbal II",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f90r2": {
+      "topic": 6,
+      "section": "Herbal II",
+      "top_words": [
+        "hs",
+        "heo",
+        "eod",
+        "eta",
+        "roii",
+        "ys",
+        "mo",
+        "ifh",
+        "rais",
+        "md"
+      ]
+    },
+    "f90v1": {
+      "topic": 7,
+      "section": "Herbal II",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f90v2": {
+      "topic": 5,
+      "section": "Herbal II",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f93r": {
+      "topic": 7,
+      "section": "Herbal II",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f93v": {
+      "topic": 0,
+      "section": "Herbal II",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f94r": {
+      "topic": 7,
+      "section": "Herbal II",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f94v": {
+      "topic": 9,
+      "section": "Herbal II",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f95r1": {
+      "topic": 7,
+      "section": "Herbal II",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f95r2": {
+      "topic": 9,
+      "section": "Herbal II",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f95v1": {
+      "topic": 7,
+      "section": "Herbal II",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f95v2": {
+      "topic": 9,
+      "section": "Herbal II",
+      "top_words": [
+        "rai",
+        "eda",
+        "fch",
+        "eeda",
+        "ram",
+        "ees",
+        "eed",
+        "fa",
+        "hs",
+        "oy"
+      ]
+    },
+    "f96r": {
+      "topic": 0,
+      "section": "Herbal II",
+      "top_words": [
+        "heo",
+        "eoda",
+        "eos",
+        "fch",
+        "ees",
+        "hs",
+        "ls",
+        "da",
+        "ko",
+        "ke"
+      ]
+    },
+    "f96v": {
+      "topic": 5,
+      "section": "Herbal II",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f99r": {
+      "topic": 7,
+      "section": "Herbal II",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f99v": {
+      "topic": 7,
+      "section": "Herbal II",
+      "top_words": [
+        "ls",
+        "ea",
+        "ees",
+        "an",
+        "sy",
+        "qo",
+        "ha",
+        "sh",
+        "as",
+        "ot"
+      ]
+    },
+    "f9r": {
+      "topic": 5,
+      "section": "Herbal I",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    },
+    "f9v": {
+      "topic": 5,
+      "section": "Herbal I",
+      "top_words": [
+        "oy",
+        "fh",
+        "sy",
+        "ram",
+        "eoda",
+        "rai",
+        "ok",
+        "yd",
+        "an",
+        "et"
+      ]
+    }
+  }
+}

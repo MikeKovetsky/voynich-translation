@@ -2,41 +2,42 @@
 
 ... (previous content) ...
 
-## Iteration 57 Results: The Top Roots Decoded 🔑✅
+## Iteration 58: The Semantic Web 🕸️
 
 **Status:** Complete
 **Date:** 2025-11-26
 
-**Findings from High-Freq Analysis (Task 165):**
-We analyzed the context of the most frequent roots:
-*   **`dy` (4018):** Suffix-like behavior. Often ends words/lines.
-    *   *Hypothesis:* **Particle / Suffix** (possibly "-ness" or "-ly" or Topic Marker).
-*   **`ol` (3235):** Often precedes nouns.
-    *   *Hypothesis:* **Article / Preposition** ("The" or "Of").
-*   **`ai` / `aiin` (2001):** "One" or "Water".
-*   **`ar` (2362):** "To/For" or "Earth/Ground".
-*   **`ee` (1828):** Often with `qok-` (Verb).
-    *   *Hypothesis:* **Generic Verb** ("Do" / "Make" / "Process").
+**Findings:**
+1.  **Noun Clustering (Task 168):**
+    - Successfully clustered 1725 nouns into 72 semantic groups.
+    - **Key Clusters Identified:**
+        - `ai` (Water/Liquid context)
+        - `ar` (Earth/Material context)
+        - `ee` (Manufactured/Made items)
+        - `ed` (The largest, most mysterious cluster - possibly "Processed" items?)
+2.  **Topic Modeling (Task 169):**
+    - LDA analysis confirmed distinct vocabularies for different sections.
+    - **Topic 1 (Astronomical/Herbal):** Characterized by `ees`, `hs`, `eos` (Star/Space terms?).
+    - **Topic 4 (Biological/Recipes):** Characterized by `eda`, `qo`, `fch` (Process/Action terms?).
+3.  **Final Report v2 (Task 170):**
+    - Dictionary updated to v3 with semantic tags.
+    - Translation v12 uses these clusters to provide "Category placeholders" for unknown nouns (e.g., `[Ingredient]`, `[Star]`).
 
-**Translation v11 (Task 167):**
-*   **Readability:** 65.59% of the text is now "known" or structurally identified.
-*   **Sample:** `To [Action] the/of Take/From [?]...`
-*   **Improvement:** The grammar is clear. The content is still abstract because the specific *nouns* (plants/stars) are rare, while the *grammar particles* are frequent.
-
-## Iteration 58: The Semantic Web 🕸️
+## Iteration 59: Semantic Verification & The "ed" Mystery 🕵️‍♂️
 
 **Status:** In Progress
 **Date:** 2025-11-26
 
-**Goal:** Now that we have the *skeleton* (Grammar + Top Roots), we need to flesh out the *body* (Rare Nouns).
-We will use the **Co-occurrence Network** to map rare words to their categories.
+**Goal:**
+Verify the semantic clusters against the "Ground Truth" of the illustrations (do "Plant" words actually appear on Plant pages?) and solve the mystery of the `ed` root, which is a central hub in our network.
 
 **Tasks Created:**
-1.  **Task 168 (Noun Clustering):** Find all words tagged as `NOUN` (`o-` prefix). Cluster them by the *adjectives* or *verbs* they share.
-    *   (e.g., If `o-A` and `o-B` are both "Taken" (`d-`), they are likely Ingredients).
-2.  **Task 169 (Topic Modeling):** Use LDA (Latent Dirichlet Allocation) on the translated text to find "Topics" (e.g., Topic 1: "Water/Bath", Topic 2: "Star/Sky").
-    *   Assign rare words to these topics.
-3.  **Task 170 (Final Report v2):** Compile the "Grammar-First" translation report.
+1.  **Task 171 (Cluster Correlation):** Map the 72 Noun Clusters to the manuscript sections (Herbal vs. Astro vs. Bio).
+    - *Hypothesis:* "Herbal" clusters will exclusively appear in the Herbal section.
+2.  **Task 172 (The `ed` Investigation):** Deep dive into the `ed` root (found in `eda`, `o-ed`, `qok-ed`).
+    - It's the bridge between "Topics". Is it a generic "Item"? Or "Process"?
+3.  **Task 173 (Verb Morphology):** Analyze the `qok-` prefix (Verb Marker) to find Tense/Aspect suffixes.
+    - If we can read the *time* of the action, we can distinguish narratives from instructions.
 
 **Hypothesis:**
-The manuscript is a highly structured technical manual. The vocabulary is specialized (technical terms), which is why common "stop words" (`dy`, `ol`) dominate.
+The `ed` root is the "Voinych generic noun" (like "thing" or "element") or a very common participle ("treated").
