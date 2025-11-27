@@ -1,0 +1,21 @@
+Task: Translation v11 (Expanded)
+
+Run the translation engine again with the new dictionary.
+
+Input:
+- results/parsed_text.json
+- results/root_dictionary_v2.json
+
+Subtasks:
+1. **Translate:**
+   - Same logic as v10 (Prefix + Root).
+   - Use the v2 Dictionary.
+
+2. **Quality Check:**
+   - Extract 20 random lines.
+   - Count how many `[?]` remain.
+   - Calculate "Readability Score" (% of known words).
+
+3. **Output:**
+   - `results/translation_v11.md`.
+   - `results/readability_report_v11.md`.

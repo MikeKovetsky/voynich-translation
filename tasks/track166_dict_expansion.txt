@@ -1,0 +1,21 @@
+Task: Dictionary Expansion v2 (Root Update)
+
+We need to update our root dictionary with the findings from Task 165 and other sources.
+
+Input:
+- results/root_dictionary_v1.json
+- results/root_proposals.json (From Task 165)
+- results/prefix_grammar_report.md (To confirm grammatical roles)
+
+Subtasks:
+1. **Merge Proposals:**
+   - Add the high-freq meanings to the dictionary.
+   - Resolve conflicts (e.g., if `ar` was "Barley" but now looks like "Air").
+
+2. **Grammar Integration:**
+   - If `qok-` is a verb prefix, and `qok-ee` is frequent, then `ee` MUST be a verb.
+   - Tag `ee` as "Verb (Generic/Do/Make)" in the dictionary.
+   - Apply this logic to all frequent `qok-` roots.
+
+3. **Output:**
+   - `results/root_dictionary_v2.json`.

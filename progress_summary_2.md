@@ -1,17 +1,28 @@
 
-## Iteration 56: The Clean Run 🧹✨
+## Iteration 56 Results: Clean Grammar Established 🧹✅
 
-**Status:** In Progress
+**Status:** Complete
 **Date:** 2025-11-26
 
-**Correction:** The "Word Soup" was a parsing bug (ignoring periods). I fixed it in Iteration 56.
-We now have clean, segmented text (40k words, 1162 roots).
+**Findings:**
+*   **Word Soup Fixed:** The parsing bug is resolved. We have 40k clean words.
+*   **Grammar Validated:**
+    *   `qok-` is a VERB prefix (To...).
+    *   `d-` is an IMPERATIVE prefix (Take...).
+    *   `o-` is a NOUN prefix (The...).
+*   **Translation v10:**
+    *   Structure is visible: `Take/From [?] The/Of Adar (month)...`
+    *   **Problem:** Too many unknown roots (`[?]`). The top roots `dy`, `ol`, `ai` are missing or generic.
+
+## Iteration 57: Cracking the Top Roots 🔑
+
+**Goal:** We must identify the meaning of the most frequent roots to make the text readable.
 
 **Tasks:**
-1.  **Task 163 (Grammar v2):** Analyze the sentence structure of the *clean* text.
-    *   What follows `qok-`? (Verb Analysis)
-    *   What follows `o-`? (Noun Analysis)
-2.  **Task 164 (Translation v10):** Produce a translation using the verified prefixes (`qok`=To, `d`=Take) and root dictionary.
+1.  **Task 165 (High-Freq Solver):** Deep dive into `dy`, `ol`, `ai`, `or`, `ar`. Use co-occurrence and image correlation.
+2.  **Task 166 (Dictionary Expansion):** Add 50+ new root definitions based on Task 165.
+3.  **Task 167 (Translation v11):** Re-run the translation with the expanded dictionary.
 
 **Hypothesis:**
-Now that the "noise" of the parsing bug is gone, the grammar should be much more consistent. We expect `qok-` words to behave like Verbs and `o-` words to behave like Nouns.
+*   `dy` (4018 occurrences) might be a generic particle or "Light/Star" (if it correlates with stars).
+*   `ai` (2001 occurrences) is likely "Al/The" (Arabic) or "One" (Hebrew) or "Water" (our previous finding).
