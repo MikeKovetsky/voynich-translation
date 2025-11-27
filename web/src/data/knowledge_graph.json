@@ -1,0 +1,1743 @@
+{
+  "nodes": [
+    {
+      "id": "f29v",
+      "type": "Page"
+    },
+    {
+      "id": "f35v",
+      "type": "Page"
+    },
+    {
+      "id": "f37v",
+      "type": "Page"
+    },
+    {
+      "id": "f67v1",
+      "type": "Page"
+    },
+    {
+      "id": "f77v",
+      "type": "Page"
+    },
+    {
+      "id": "f82v",
+      "type": "Page"
+    },
+    {
+      "id": "f84v",
+      "type": "Page"
+    },
+    {
+      "id": "f72v1",
+      "type": "Page"
+    },
+    {
+      "id": "f25r",
+      "type": "Page"
+    },
+    {
+      "id": "f115r",
+      "type": "Page"
+    },
+    {
+      "id": "f106v",
+      "type": "Page"
+    },
+    {
+      "id": "f27v",
+      "type": "Page"
+    },
+    {
+      "id": "f28r",
+      "type": "Page"
+    },
+    {
+      "id": "f90r1",
+      "type": "Page"
+    },
+    {
+      "id": "f2v",
+      "type": "Page"
+    },
+    {
+      "id": "f72r1",
+      "type": "Page"
+    },
+    {
+      "id": "f30v",
+      "type": "Page"
+    },
+    {
+      "id": "f13r",
+      "type": "Page"
+    },
+    {
+      "id": "f24v",
+      "type": "Page"
+    },
+    {
+      "id": "f89r1",
+      "type": "Page"
+    },
+    {
+      "id": "f11v",
+      "type": "Page"
+    },
+    {
+      "id": "f88r",
+      "type": "Page"
+    },
+    {
+      "id": "f87r",
+      "type": "Page"
+    },
+    {
+      "id": "f54r",
+      "type": "Page"
+    },
+    {
+      "id": "f1v",
+      "type": "Page"
+    },
+    {
+      "id": "f73v",
+      "type": "Page"
+    },
+    {
+      "id": "f68r3",
+      "type": "Page"
+    },
+    {
+      "id": "f53r",
+      "type": "Page"
+    },
+    {
+      "id": "f58v",
+      "type": "Page"
+    },
+    {
+      "id": "f65r",
+      "type": "Page"
+    },
+    {
+      "id": "f17v",
+      "type": "Page"
+    },
+    {
+      "id": "f19r",
+      "type": "Page"
+    },
+    {
+      "id": "f21v",
+      "type": "Page"
+    },
+    {
+      "id": "f13v",
+      "type": "Page"
+    },
+    {
+      "id": "f48r",
+      "type": "Page"
+    },
+    {
+      "id": "f47r",
+      "type": "Page"
+    },
+    {
+      "id": "f83v",
+      "type": "Page"
+    },
+    {
+      "id": "f42v",
+      "type": "Page"
+    },
+    {
+      "id": "f55v",
+      "type": "Page"
+    },
+    {
+      "id": "f10r",
+      "type": "Page"
+    },
+    {
+      "id": "f44v",
+      "type": "Page"
+    },
+    {
+      "id": "f80r",
+      "type": "Page"
+    },
+    {
+      "id": "f68r1",
+      "type": "Page"
+    },
+    {
+      "id": "f47v",
+      "type": "Page"
+    },
+    {
+      "id": "f56v",
+      "type": "Page"
+    },
+    {
+      "id": "f68v2",
+      "type": "Page"
+    },
+    {
+      "id": "f5v",
+      "type": "Page"
+    },
+    {
+      "id": "f23v",
+      "type": "Page"
+    },
+    {
+      "id": "f52r",
+      "type": "Page"
+    },
+    {
+      "id": "f102v1",
+      "type": "Page"
+    },
+    {
+      "id": "f48v",
+      "type": "Page"
+    },
+    {
+      "id": "f38v",
+      "type": "Page"
+    },
+    {
+      "id": "f75r",
+      "type": "Page"
+    },
+    {
+      "id": "f20v",
+      "type": "Page"
+    },
+    {
+      "id": "f14v",
+      "type": "Page"
+    },
+    {
+      "id": "f44r",
+      "type": "Page"
+    },
+    {
+      "id": "f34r",
+      "type": "Page"
+    },
+    {
+      "id": "f81r",
+      "type": "Page"
+    },
+    {
+      "id": "f20r",
+      "type": "Page"
+    },
+    {
+      "id": "f87v",
+      "type": "Page"
+    },
+    {
+      "id": "f45v",
+      "type": "Page"
+    },
+    {
+      "id": "f42r",
+      "type": "Page"
+    },
+    {
+      "id": "f104r",
+      "type": "Page"
+    },
+    {
+      "id": "f108r",
+      "type": "Page"
+    },
+    {
+      "id": "f103v",
+      "type": "Page"
+    },
+    {
+      "id": "f107v",
+      "type": "Page"
+    },
+    {
+      "id": "f112v",
+      "type": "Page"
+    },
+    {
+      "id": "f10v",
+      "type": "Page"
+    },
+    {
+      "id": "f68v3",
+      "type": "Page"
+    },
+    {
+      "id": "f83r",
+      "type": "Page"
+    },
+    {
+      "id": "f4v",
+      "type": "Page"
+    },
+    {
+      "id": "f70r2",
+      "type": "Page"
+    },
+    {
+      "id": "f14r",
+      "type": "Page"
+    },
+    {
+      "id": "f49v",
+      "type": "Page"
+    },
+    {
+      "id": "f95r1",
+      "type": "Page"
+    },
+    {
+      "id": "f71v",
+      "type": "Page"
+    },
+    {
+      "id": "f57v",
+      "type": "Page"
+    },
+    {
+      "id": "f8r",
+      "type": "Page"
+    },
+    {
+      "id": "f56r",
+      "type": "Page"
+    },
+    {
+      "id": "f85r1",
+      "type": "Page"
+    },
+    {
+      "id": "f95v1",
+      "type": "Page"
+    },
+    {
+      "id": "f70r1",
+      "type": "Page"
+    },
+    {
+      "id": "f49r",
+      "type": "Page"
+    },
+    {
+      "id": "f22r",
+      "type": "Page"
+    },
+    {
+      "id": "f29r",
+      "type": "Page"
+    },
+    {
+      "id": "f6v",
+      "type": "Page"
+    },
+    {
+      "id": "f30r",
+      "type": "Page"
+    },
+    {
+      "id": "f113v",
+      "type": "Page"
+    },
+    {
+      "id": "f32v",
+      "type": "Page"
+    },
+    {
+      "id": "f69v",
+      "type": "Page"
+    },
+    {
+      "id": "f27r",
+      "type": "Page"
+    },
+    {
+      "id": "f54v",
+      "type": "Page"
+    },
+    {
+      "id": "f79v",
+      "type": "Page"
+    },
+    {
+      "id": "f7v",
+      "type": "Page"
+    },
+    {
+      "id": "f86v4",
+      "type": "Page"
+    },
+    {
+      "id": "f3v",
+      "type": "Page"
+    },
+    {
+      "id": "f80v",
+      "type": "Page"
+    },
+    {
+      "id": "f115v",
+      "type": "Page"
+    },
+    {
+      "id": "f23r",
+      "type": "Page"
+    },
+    {
+      "id": "f35r",
+      "type": "Page"
+    },
+    {
+      "id": "f3r",
+      "type": "Page"
+    },
+    {
+      "id": "f101v",
+      "type": "Page"
+    },
+    {
+      "id": "f99v",
+      "type": "Page"
+    },
+    {
+      "id": "f1r",
+      "type": "Page"
+    },
+    {
+      "id": "f114v",
+      "type": "Page"
+    },
+    {
+      "id": "f8v",
+      "type": "Page"
+    },
+    {
+      "id": "f18r",
+      "type": "Page"
+    },
+    {
+      "id": "f34v",
+      "type": "Page"
+    },
+    {
+      "id": "f38r",
+      "type": "Page"
+    },
+    {
+      "id": "f46v",
+      "type": "Page"
+    },
+    {
+      "id": "f50r",
+      "type": "Page"
+    },
+    {
+      "id": "f72r2",
+      "type": "Page"
+    },
+    {
+      "id": "f28v",
+      "type": "Page"
+    },
+    {
+      "id": "f26r",
+      "type": "Page"
+    },
+    {
+      "id": "f15v",
+      "type": "Page"
+    },
+    {
+      "id": "f84r",
+      "type": "Page"
+    },
+    {
+      "id": "f107r",
+      "type": "Page"
+    },
+    {
+      "id": "f102r2",
+      "type": "Page"
+    },
+    {
+      "id": "f100r",
+      "type": "Page"
+    },
+    {
+      "id": "f21r",
+      "type": "Page"
+    },
+    {
+      "id": "f67r2",
+      "type": "Page"
+    },
+    {
+      "id": "f88v",
+      "type": "Page"
+    },
+    {
+      "id": "f40r",
+      "type": "Page"
+    },
+    {
+      "id": "f96r",
+      "type": "Page"
+    },
+    {
+      "id": "f43v",
+      "type": "Page"
+    },
+    {
+      "id": "f105r",
+      "type": "Page"
+    },
+    {
+      "id": "f66r",
+      "type": "Page"
+    },
+    {
+      "id": "f114r",
+      "type": "Page"
+    },
+    {
+      "id": "f112r",
+      "type": "Page"
+    },
+    {
+      "id": "f24r",
+      "type": "Page"
+    },
+    {
+      "id": "f37r",
+      "type": "Page"
+    },
+    {
+      "id": "f99r",
+      "type": "Page"
+    },
+    {
+      "id": "f72r3",
+      "type": "Page"
+    },
+    {
+      "id": "f78v",
+      "type": "Page"
+    },
+    {
+      "id": "f4r",
+      "type": "Page"
+    },
+    {
+      "id": "f90v2",
+      "type": "Page"
+    },
+    {
+      "id": "f108v",
+      "type": "Page"
+    },
+    {
+      "id": "f36v",
+      "type": "Page"
+    },
+    {
+      "id": "f106r",
+      "type": "Page"
+    },
+    {
+      "id": "f89v1",
+      "type": "Page"
+    },
+    {
+      "id": "f86v3",
+      "type": "Page"
+    },
+    {
+      "id": "f86v5",
+      "type": "Page"
+    },
+    {
+      "id": "f85r2",
+      "type": "Page"
+    },
+    {
+      "id": "f9v",
+      "type": "Page"
+    },
+    {
+      "id": "f52v",
+      "type": "Page"
+    },
+    {
+      "id": "f9r",
+      "type": "Page"
+    },
+    {
+      "id": "f72v2",
+      "type": "Page"
+    },
+    {
+      "id": "f41v",
+      "type": "Page"
+    },
+    {
+      "id": "f39v",
+      "type": "Page"
+    },
+    {
+      "id": "f32r",
+      "type": "Page"
+    },
+    {
+      "id": "f33v",
+      "type": "Page"
+    },
+    {
+      "id": "f15r",
+      "type": "Page"
+    },
+    {
+      "id": "f31v",
+      "type": "Page"
+    },
+    {
+      "id": "f75v",
+      "type": "Page"
+    },
+    {
+      "id": "f72v3",
+      "type": "Page"
+    },
+    {
+      "id": "f95v2",
+      "type": "Page"
+    },
+    {
+      "id": "f65v",
+      "type": "Page"
+    },
+    {
+      "id": "f95r2",
+      "type": "Page"
+    },
+    {
+      "id": "f51v",
+      "type": "Page"
+    },
+    {
+      "id": "f33r",
+      "type": "Page"
+    },
+    {
+      "id": "f70v2",
+      "type": "Page"
+    },
+    {
+      "id": "f69r",
+      "type": "Page"
+    },
+    {
+      "id": "f45r",
+      "type": "Page"
+    },
+    {
+      "id": "f55r",
+      "type": "Page"
+    },
+    {
+      "id": "f89r2",
+      "type": "Page"
+    },
+    {
+      "id": "f17r",
+      "type": "Page"
+    },
+    {
+      "id": "f58r",
+      "type": "Page"
+    },
+    {
+      "id": "f53v",
+      "type": "Page"
+    },
+    {
+      "id": "f6r",
+      "type": "Page"
+    },
+    {
+      "id": "f2r",
+      "type": "Page"
+    },
+    {
+      "id": "f16v",
+      "type": "Page"
+    },
+    {
+      "id": "f100v",
+      "type": "Page"
+    },
+    {
+      "id": "f25v",
+      "type": "Page"
+    },
+    {
+      "id": "f93v",
+      "type": "Page"
+    },
+    {
+      "id": "f67r1",
+      "type": "Page"
+    },
+    {
+      "id": "f22v",
+      "type": "Page"
+    },
+    {
+      "id": "f46r",
+      "type": "Page"
+    },
+    {
+      "id": "f68v1",
+      "type": "Page"
+    },
+    {
+      "id": "f50v",
+      "type": "Page"
+    },
+    {
+      "id": "f7r",
+      "type": "Page"
+    },
+    {
+      "id": "f40v",
+      "type": "Page"
+    },
+    {
+      "id": "f73r",
+      "type": "Page"
+    },
+    {
+      "id": "f116r",
+      "type": "Page"
+    },
+    {
+      "id": "f39r",
+      "type": "Page"
+    },
+    {
+      "id": "f82r",
+      "type": "Page"
+    },
+    {
+      "id": "f79r",
+      "type": "Page"
+    },
+    {
+      "id": "f104v",
+      "type": "Page"
+    },
+    {
+      "id": "f105v",
+      "type": "Page"
+    },
+    {
+      "id": "f16r",
+      "type": "Page"
+    },
+    {
+      "id": "f76r",
+      "type": "Page"
+    },
+    {
+      "id": "f96v",
+      "type": "Page"
+    },
+    {
+      "id": "f103r",
+      "type": "Page"
+    },
+    {
+      "id": "f70v1",
+      "type": "Page"
+    },
+    {
+      "id": "f90r2",
+      "type": "Page"
+    },
+    {
+      "id": "f94r",
+      "type": "Page"
+    },
+    {
+      "id": "f81v",
+      "type": "Page"
+    },
+    {
+      "id": "f76v",
+      "type": "Page"
+    },
+    {
+      "id": "f93r",
+      "type": "Page"
+    },
+    {
+      "id": "f5r",
+      "type": "Page"
+    },
+    {
+      "id": "f66v",
+      "type": "Page"
+    },
+    {
+      "id": "f67v2",
+      "type": "Page"
+    },
+    {
+      "id": "f113r",
+      "type": "Page"
+    },
+    {
+      "id": "f57r",
+      "type": "Page"
+    },
+    {
+      "id": "f51r",
+      "type": "Page"
+    },
+    {
+      "id": "f111r",
+      "type": "Page"
+    },
+    {
+      "id": "f90v1",
+      "type": "Page"
+    },
+    {
+      "id": "f102r1",
+      "type": "Page"
+    },
+    {
+      "id": "f43r",
+      "type": "Page"
+    },
+    {
+      "id": "f26v",
+      "type": "Page"
+    },
+    {
+      "id": "f102v2",
+      "type": "Page"
+    },
+    {
+      "id": "f31r",
+      "type": "Page"
+    },
+    {
+      "id": "f19v",
+      "type": "Page"
+    },
+    {
+      "id": "f18v",
+      "type": "Page"
+    },
+    {
+      "id": "f101r",
+      "type": "Page"
+    },
+    {
+      "id": "f94v",
+      "type": "Page"
+    },
+    {
+      "id": "f36r",
+      "type": "Page"
+    },
+    {
+      "id": "f41r",
+      "type": "Page"
+    },
+    {
+      "id": "f111v",
+      "type": "Page"
+    },
+    {
+      "id": "f68r2",
+      "type": "Page"
+    },
+    {
+      "id": "f11r",
+      "type": "Page"
+    },
+    {
+      "id": "f77r",
+      "type": "Page"
+    },
+    {
+      "id": "f86v6",
+      "type": "Page"
+    },
+    {
+      "id": "f78r",
+      "type": "Page"
+    },
+    {
+      "id": "f71r",
+      "type": "Page"
+    },
+    {
+      "id": "f89v2",
+      "type": "Page"
+    },
+    {
+      "id": "Cornflower",
+      "type": "Plant",
+      "latin": "Centaurea cyanus",
+      "voynich_id": "f2o89"
+    },
+    {
+      "id": "Hellebore",
+      "type": "Plant",
+      "latin": "Helleborus sp.",
+      "voynich_id": "h2o89"
+    },
+    {
+      "id": "Cyclamen",
+      "type": "Plant",
+      "latin": "Cyclamen sp.",
+      "voynich_id": "hoom"
+    },
+    {
+      "id": "Tamarisk",
+      "type": "Plant",
+      "latin": "Tamarix sp.",
+      "voynich_id": "ho8ae19"
+    },
+    {
+      "id": "Poppy",
+      "type": "Plant",
+      "latin": "Papaver sp.",
+      "voynich_id": "foay"
+    },
+    {
+      "id": "Castor Bean",
+      "type": "Plant",
+      "latin": "Ricinus communis",
+      "voynich_id": "goCam"
+    },
+    {
+      "id": "Aloe",
+      "type": "Plant",
+      "latin": "Aloe sp.",
+      "voynich_id": "k2cos"
+    },
+    {
+      "id": "Oak",
+      "type": "Plant",
+      "latin": "Quercus sp.",
+      "voynich_id": "k98eo"
+    },
+    {
+      "id": "Aconitum",
+      "type": "Plant",
+      "latin": "",
+      "voynich_id": "shtshy"
+    },
+    {
+      "id": "Ricinus",
+      "type": "Plant",
+      "latin": "",
+      "voynich_id": "ychear"
+    },
+    {
+      "id": "Scabiosa",
+      "type": "Plant",
+      "latin": "",
+      "voynich_id": "pair"
+    },
+    {
+      "id": "Hypericum",
+      "type": "Plant",
+      "latin": "",
+      "voynich_id": "qotoy"
+    },
+    {
+      "id": "Papaver",
+      "type": "Plant",
+      "latin": "",
+      "voynich_id": "opchar"
+    },
+    {
+      "id": "Cannabis",
+      "type": "Plant",
+      "latin": "",
+      "voynich_id": "chtain"
+    },
+    {
+      "id": "Smilax",
+      "type": "Plant",
+      "latin": "",
+      "voynich_id": "qodam"
+    },
+    {
+      "id": "Geranium",
+      "type": "Plant",
+      "latin": "",
+      "voynich_id": "chols"
+    },
+    {
+      "id": "Atriplex",
+      "type": "Plant",
+      "latin": "",
+      "voynich_id": "choto"
+    },
+    {
+      "id": "Paeonia",
+      "type": "Plant",
+      "latin": "",
+      "voynich_id": "oaiir"
+    },
+    {
+      "id": "Mentastrum",
+      "type": "Plant",
+      "latin": "",
+      "voynich_id": "otaiir"
+    },
+    {
+      "id": "Viola",
+      "type": "Plant",
+      "latin": "",
+      "voynich_id": "ksheody"
+    },
+    {
+      "id": "chtol",
+      "type": "Ingredient",
+      "identified_as": "papaver",
+      "description": "Plant with large flower (often red in nature, but manuscript colors vary), distinct seed pod."
+    },
+    {
+      "id": "tsho",
+      "type": "Ingredient",
+      "identified_as": "smilax",
+      "description": "Climbing plant with heart-shaped or triangular leaves, often prickly stem."
+    },
+    {
+      "id": "shoaiin",
+      "type": "Ingredient",
+      "identified_as": "cannabis",
+      "description": "Plant with palmate leaves (serrated leaflets), distinctive tall structure."
+    },
+    {
+      "id": "shkaiin",
+      "type": "Ingredient",
+      "identified_as": "hypericum",
+      "description": "Plant with opposite leaves, yellow flowers (often star-shaped), perforated leaves (St John's Wort)."
+    },
+    {
+      "id": "chor",
+      "type": "Ingredient",
+      "identified_as": "",
+      "description": "Extracted from golden recipes"
+    },
+    {
+      "id": "chol",
+      "type": "Ingredient",
+      "identified_as": "",
+      "description": "Extracted from golden recipes"
+    },
+    {
+      "id": "okeol",
+      "type": "Ingredient",
+      "identified_as": "",
+      "description": "Extracted from golden recipes"
+    },
+    {
+      "id": "otaiin",
+      "type": "Ingredient",
+      "identified_as": "",
+      "description": "Extracted from golden recipes"
+    },
+    {
+      "id": "otar",
+      "type": "Ingredient",
+      "identified_as": "",
+      "description": "Extracted from golden recipes"
+    },
+    {
+      "id": "sheor",
+      "type": "Ingredient",
+      "identified_as": "",
+      "description": "Extracted from golden recipes"
+    },
+    {
+      "id": "char",
+      "type": "Ingredient",
+      "identified_as": "",
+      "description": "Extracted from golden recipes"
+    },
+    {
+      "id": "chaiin",
+      "type": "Ingredient",
+      "identified_as": "",
+      "description": "Extracted from golden recipes"
+    },
+    {
+      "id": "chan",
+      "type": "Ingredient",
+      "identified_as": "",
+      "description": "Extracted from golden recipes"
+    },
+    {
+      "id": "chotaiin",
+      "type": "Ingredient",
+      "identified_as": "",
+      "description": "Extracted from golden recipes"
+    },
+    {
+      "id": "chl",
+      "type": "Ingredient",
+      "identified_as": "",
+      "description": "Extracted from golden recipes"
+    },
+    {
+      "id": "sal",
+      "type": "Ingredient",
+      "identified_as": "",
+      "description": "Extracted from golden recipes"
+    },
+    {
+      "id": "dam",
+      "type": "Ingredient",
+      "identified_as": "",
+      "description": "Extracted from golden recipes"
+    },
+    {
+      "id": "Pisces",
+      "type": "Star/Zodiac",
+      "folio": "f70v1"
+    },
+    {
+      "id": "Aries",
+      "type": "Star/Zodiac",
+      "folio": "f70v2"
+    },
+    {
+      "id": "Taurus",
+      "type": "Star/Zodiac",
+      "folio": "f71v"
+    },
+    {
+      "id": "Gemini",
+      "type": "Star/Zodiac",
+      "folio": "f72r2"
+    },
+    {
+      "id": "Cancer",
+      "type": "Star/Zodiac",
+      "folio": "f72r3"
+    },
+    {
+      "id": "Leo",
+      "type": "Star/Zodiac",
+      "folio": "f72v3"
+    },
+    {
+      "id": "Sagittarius",
+      "type": "Star/Zodiac",
+      "folio": "f73r"
+    },
+    {
+      "id": "zodiac",
+      "type": "Star/Zodiac",
+      "folio": "f69r"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Cornflower",
+      "target": "f17r",
+      "type": "APPEARS_ON"
+    },
+    {
+      "source": "Hellebore",
+      "target": "f5r",
+      "type": "APPEARS_ON"
+    },
+    {
+      "source": "Cyclamen",
+      "target": "f2v",
+      "type": "APPEARS_ON"
+    },
+    {
+      "source": "Tamarisk",
+      "target": "f4r",
+      "type": "APPEARS_ON"
+    },
+    {
+      "source": "Poppy",
+      "target": "f6r",
+      "type": "APPEARS_ON"
+    },
+    {
+      "source": "Castor Bean",
+      "target": "f25v",
+      "type": "APPEARS_ON"
+    },
+    {
+      "source": "Aloe",
+      "target": "f3r",
+      "type": "APPEARS_ON"
+    },
+    {
+      "source": "Oak",
+      "target": "f9r",
+      "type": "APPEARS_ON"
+    },
+    {
+      "source": "Aconitum",
+      "target": "f116r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Ricinus",
+      "target": "f111v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Ricinus",
+      "target": "f111v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Ricinus",
+      "target": "f113r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Scabiosa",
+      "target": "f107r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Hypericum",
+      "target": "f114v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Papaver",
+      "target": "f104r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Aconitum",
+      "target": "f106r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Aconitum",
+      "target": "f114r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Ricinus",
+      "target": "f113r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Ricinus",
+      "target": "f106r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Cannabis",
+      "target": "f116r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Cannabis",
+      "target": "f103v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Smilax",
+      "target": "f104r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Scabiosa",
+      "target": "f111v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Papaver",
+      "target": "f108r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Papaver",
+      "target": "f112v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Papaver",
+      "target": "f105r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Geranium",
+      "target": "f115r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Atriplex",
+      "target": "f115v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Atriplex",
+      "target": "f106v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Atriplex",
+      "target": "f112v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Papaver",
+      "target": "f111r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Papaver",
+      "target": "f115r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Papaver",
+      "target": "f116r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Ricinus",
+      "target": "f105v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Ricinus",
+      "target": "f111v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Ricinus",
+      "target": "f116r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Ricinus",
+      "target": "f116r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Cannabis",
+      "target": "f113r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Paeonia",
+      "target": "f105v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Paeonia",
+      "target": "f114v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Smilax",
+      "target": "f106v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Mentastrum",
+      "target": "f113v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Scabiosa",
+      "target": "f116r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Scabiosa",
+      "target": "f103v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Scabiosa",
+      "target": "f111r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Scabiosa",
+      "target": "f111r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Papaver",
+      "target": "f105r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Papaver",
+      "target": "f105v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Hypericum",
+      "target": "f111r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Hypericum",
+      "target": "f113r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Geranium",
+      "target": "f104v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Atriplex",
+      "target": "f115r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Atriplex",
+      "target": "f105r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Atriplex",
+      "target": "f107r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Papaver",
+      "target": "f105r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Papaver",
+      "target": "f103r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Aconitum",
+      "target": "f104v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Viola",
+      "target": "f104r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Viola",
+      "target": "f106v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Ricinus",
+      "target": "f108v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Smilax",
+      "target": "f113v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Scabiosa",
+      "target": "f105r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Papaver",
+      "target": "f113v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Papaver",
+      "target": "f103r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Papaver",
+      "target": "f115r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Hypericum",
+      "target": "f105v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Hypericum",
+      "target": "f115r",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "Hypericum",
+      "target": "f113v",
+      "type": "USED_IN",
+      "details": "Recipe occurrence"
+    },
+    {
+      "source": "chor",
+      "target": "f101r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "chor",
+      "target": "f100v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "chol",
+      "target": "f101r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "okeol",
+      "target": "f101r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "otaiin",
+      "target": "f104r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "otar",
+      "target": "f105v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "chor",
+      "target": "f106v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "otaiin",
+      "target": "f107r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "otar",
+      "target": "f107v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "okeol",
+      "target": "f108r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "otar",
+      "target": "f108v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "chor",
+      "target": "f108v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "sheor",
+      "target": "f111r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "char",
+      "target": "f111r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "chaiin",
+      "target": "f111r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "chan",
+      "target": "f111v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "otar",
+      "target": "f111v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "otaiin",
+      "target": "f112v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "chotaiin",
+      "target": "f113r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "chl",
+      "target": "f113v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "chor",
+      "target": "f88r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "sal",
+      "target": "f88r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "otaiin",
+      "target": "f101r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "chol",
+      "target": "f101v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "sal",
+      "target": "f103r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "otar",
+      "target": "f103v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "chol",
+      "target": "f103v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "char",
+      "target": "f104r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "okeol",
+      "target": "f104v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "dam",
+      "target": "f105r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "otar",
+      "target": "f105r",
+      "type": "USED_IN"
+    },
+    {
+      "source": "otaiin",
+      "target": "f105v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "chl",
+      "target": "f105v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "chor",
+      "target": "f105v",
+      "type": "USED_IN"
+    },
+    {
+      "source": "otar",
+      "target": "f106r",
+      "type": "USED_IN"
+    }
+  ]
+}

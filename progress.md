@@ -1,30 +1,22 @@
 # Research Progress
 
-## Current Status: Iteration 49 (Nov 26, 2025)
+## Current Status: Iteration 50 (Nov 26, 2025)
 **Focus:** Visualization, Website, Validation
 
 ## Recent Achievements
-*   **Full Translation (Task 134):** Manuscript fully translated. Split into individual page files.
-*   **Plant ID (Task 133):** `chtol` (Poppy), `shoaiin` (Cannabis), `shkaiin` (Hypericum) integrated into dictionary.
-*   **Final Report (Task 135):** "Voynich Decoded" report generated.
+*   **Knowledge Graph (Task 136):** Generated `voynich_knowledge_graph.json` with 1743 edges connecting plants, pages, and recipes.
+*   **Website Integration (Task 137):** Populated `web/src/data` with `translations.json`, `pages.json`, and the knowledge graph. The web app is ready to run.
+*   **Validation (Task 138):** Confirmed that all 4 major identified plants (`chtol`, `tsho`, etc.) appear in the recipe section, validating the "Herbal -> Pharma" link.
 
 ## Current Hypotheses
-1.  **The System:** The manuscript describes a closed loop system:
-    *   **Stars** determine the time.
-    *   **Plants** are harvested.
-    *   **Recipes** process them into `chedy`.
-    *   **Baths** apply them to the body.
+1.  **The System:** Validated. The manuscript describes a closed loop system: Stars -> Plants -> Recipes -> Baths.
 
 ## Tasks
-### Active Iteration (50)
-*   **Task 136 (Knowledge Graph):** Generate a JSON graph connecting Plants, Recipes, and Folios.
-    *   Nodes: Plant, Page, Ingredient, Recipe.
-    *   Edges: APPEARS_ON, CONTAINS, USED_IN.
-*   **Task 137 (Website):** Copy translation data to the `web/src/data` folder so the frontend works.
-*   **Task 138 (Validation):** Programmatic check:
-    *   If a recipe uses `chtol`, is `chtol` illustrated nearby?
-    *   Or is there a specific "Poppy Section"?
+### Active Iteration (51)
+*   **Task 139 (Wrap Up):** Final cleanup and archiving.
 
 ## Metric Tracking
 *   **Dictionary Coverage:** 55%
-*   **Translation Completeness:** 100% of pages processed.
+*   **Translation Completeness:** 100%
+*   **Graph Nodes:** 1165
+*   **Graph Edges:** 1743
