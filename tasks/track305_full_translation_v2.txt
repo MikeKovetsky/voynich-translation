@@ -1,0 +1,19 @@
+Task: Full Translation v2 (Track 305)
+Goal: Re-run the full manuscript translation using the expanded V17 dictionary.
+Inputs:
+- data/voynich_transcription.txt
+- results/dictionary/master_dictionary_v17.json
+
+Steps:
+1.  **Translation:**
+    - Run the `final_translation.py` script using v17.
+    - Generate `results/full_translation_v2.md`.
+
+2.  **Analysis:**
+    - Calculate the new "Coverage Percentage".
+    - Compare v1 (19.1%) vs v2.
+    - Highlight sections with the biggest improvement (Bio? Recipes?).
+
+3.  **Outputs:**
+    - `results/full_translation_v2.md`
+    - `results/track-305-results_summary.md`: Final coverage metric.
