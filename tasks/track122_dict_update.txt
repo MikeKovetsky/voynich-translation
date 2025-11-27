@@ -1,0 +1,27 @@
+TRACK 122: Dictionary Update v7.2 (Verbs & Prefixes)
+======================================================
+
+GOAL: Update Master Dictionary with confirmed Verbs and Grammar Prefixes.
+
+INPUT:
+- `results/master_dictionary_v7_1.json`
+
+TASK 1: Add/Update Entries
+--------------------------
+- **Prefixes:**
+  - `sh-`: "that/which" (Relative Pronoun)
+  - `t-`: "to" (Preposition)
+- **Verbs:**
+  - `okeol`: "boil" (Context: Water action)
+  - `qokeey`: "cook/process" (General recipe verb)
+  - `qokeol`: "boil" (Variant)
+
+TASK 2: Review `chedy`
+----------------------
+- Mark `chedy` as "Ambiguous: Herb/Plant OR Drink".
+- We need to resolve this in Task 123, but flag it now.
+
+OUTPUT FILES:
+- `update_dict_v7_2.py`
+- `results/master_dictionary_v7_2.json`
+- `results/dictionary_v7_2_report.md`

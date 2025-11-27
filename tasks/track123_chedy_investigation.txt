@@ -1,0 +1,24 @@
+TRACK 123: 'Chedy' Investigation - Drink vs Plant
+===================================================
+
+GOAL: Determine if `chedy` means "Plant/Herb", "Drink", or both.
+
+INPUT:
+- `data/eva_ivtff.txt`
+- `results/master_dictionary_v7_1.json`
+
+TASK 1: Distribution Analysis
+-----------------------------
+- **Recipe End:** Frequency of `chedy` as the *last* word vs *first* word.
+- **Herbal Labels:** Does `chedy` appear as a label for a plant? (Strong evidence for "Plant").
+- **Phrasing:** `daiin chedy` (Take plant) vs `qokeey chedy` (Cook plant) vs `chedy` (Drink!).
+
+TASK 2: Morphological Check
+---------------------------
+- `qokchedy` (With the ...): Fits "Plant" ("With the plant") and "Drink" ("With the drink").
+- `lchedy` (To the ...): "To the plant" or "To the drink".
+- `chedy` vs `sheedy` (Honey?): Check for confusion.
+
+OUTPUT FILES:
+- `chedy_analysis.py`
+- `results/chedy_investigation_report.md`

@@ -1,17 +1,20 @@
-## Iteration 43: The Logic of Recipes 📜🍳
+## Iteration 44: The Zodiac Waters & Recipe Verbs ♓♋🍳
 
 **Status:** Complete
 **Date:** 2025-11-26
 
 **Summary:**
-We've cracked the logic of the recipes! By defining `y-` as "And" and `daiin` as "Take water", the dense text of f103r reveals clear instructions.
-*   **Recipe Structure:** "Take spring water (`daiin ol oain`) ... [Ingredient] ... And (`y-`) [Ingredient] ... Boil (`qokeol`?)."
-*   **Grammar:**
-    *   `o-`: Confirmed NOT to be a plural marker. Likely a Definite Article or Object Marker (The/It).
-    *   `y-`: Confirmed as Conjunction (And/Then).
-*   **New Mystery:** `sh-` and `t-` appear as common prefixes (`shdain`, `tchol`). Are they "The" and "To"?
+The **Zodiac** section confirms our "Water" hypothesis with a vengeance. The pages for **Pisces** and **Cancer** (Water signs) are flooded with `aiin` (Water) and `daiin` (Take water), far exceeding random distribution.
+*   **Grammar (sh-/t-):**
+    *   `sh-` = **Relative Pronoun ("That/Which")**. It appears in narrative descriptions but NEVER with the imperative `daiin`.
+    *   `t-` = **Preposition ("To")** or Future Tense. Can stack with `sh-` (`tshedy` = "To that which...").
+*   **Recipe Verbs:**
+    *   `okeol` = **"Boil"**. Appears immediately after "Take water" (`daiin ol oain okeol`).
+    *   `qokeey` = **"Cook/Process"**. The most common action verb.
+    *   `chedy` = **"Drink/Serve"?** or just "Herbs"? It appears suspiciously often at the *end* of recipes.
+*   **Translation:** We are getting coherent "Take water, boil, add herbs, cook, drink" sequences.
 
 **Next Steps:**
-*   **Zodiac Check:** Apply the "Water" logic to Pisces/Cancer pages.
-*   **Grammar:** Investigate `sh-` (The?) and `t-` (To?).
-*   **Process Verbs:** Confirm if `qokeol` / `qokeey` means "Boil" or "Drink".
+*   **Translation:** Fully translate the Cancer page (f72r3) to see what we are doing with all this water.
+*   **Dictionary v7.2:** Add `sh-`, `t-`, `okeol` (Boil), `qokeey` (Cook).
+*   **The 'Chedy' Dilemma:** Is `chedy` "Plant" (Noun) or "Drink" (Verb)? Or a homonym?
