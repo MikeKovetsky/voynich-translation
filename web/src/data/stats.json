@@ -48,5 +48,32 @@
       "avg_confidence": 93.0,
       "coverage_percent": 100.0
     }
+  },
+  "dictionary": {
+    "total_entries": 1182,
+    "domains": {
+      "botanical": 630,
+      "religious": 4,
+      "other": 71,
+      "medical": 43,
+      "astronomical": 16,
+      "grammar": 89,
+      "recipe/chemistry": 1,
+      "recipe": 4,
+      "number": 5,
+      "measurement": 1,
+      "element": 2,
+      "general": 16,
+      "unknown": 300
+    },
+    "confidence_levels": {
+      "ULTRA_HIGH": 46,
+      "VERIFIED": 25,
+      "VERY_HIGH": 66,
+      "HIGH": 153,
+      "MEDIUM": 195,
+      "UNKNOWN": 654,
+      "LOW": 43
+    }
   }
 }

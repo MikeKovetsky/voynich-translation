@@ -110,51 +110,115 @@ const Stats = () => {
 
         {/* Detailed Breakdown for ALL view */}
         {selectedSection === 'All' && (
-          <div className="bg-slate-900 rounded-xl border border-slate-800 overflow-hidden">
-             <div className="p-4 border-b border-slate-800 bg-slate-800/50">
-                <h3 className="font-bold text-slate-200">Section Breakdown</h3>
-             </div>
-             <div className="overflow-x-auto">
-                <table className="w-full text-left text-sm">
-                    <thead>
-                        <tr className="bg-slate-800/30 text-slate-400">
-                            <th className="p-4 font-medium">Section</th>
-                            <th className="p-4 font-medium">Pages</th>
-                            <th className="p-4 font-medium">Coverage</th>
-                            <th className="p-4 font-medium">Confidence</th>
-                        </tr>
-                    </thead>
-                    <tbody className="divide-y divide-slate-800">
-                        {Object.entries(statsData.sections).filter(([k]) => k !== 'Unknown').map(([name, data]) => (
-                            <tr key={name} className="hover:bg-slate-800/50 transition-colors">
-                                <td className="p-4 font-medium text-slate-200">{name}</td>
-                                <td className="p-4 text-slate-400">{data.total_pages}</td>
-                                <td className="p-4">
-                                    <div className="flex items-center gap-2">
-                                        <span className="text-blue-400 font-mono">{data.coverage_percent}%</span>
-                                        <div className="w-16 bg-slate-800 h-1.5 rounded-full overflow-hidden">
-                                            <div className="bg-blue-500 h-full" style={{ width: `${data.coverage_percent}%` }} />
-                                        </div>
+          <div className="space-y-8">
+            {/* Page Stats Table */}
+            <div className="bg-slate-900 rounded-xl border border-slate-800 overflow-hidden">
+               <div className="p-4 border-b border-slate-800 bg-slate-800/50">
+                  <h3 className="font-bold text-slate-200">Page Translation Breakdown</h3>
+               </div>
+               <div className="overflow-x-auto">
+                  <table className="w-full text-left text-sm">
+                      <thead>
+                          <tr className="bg-slate-800/30 text-slate-400">
+                              <th className="p-4 font-medium">Section</th>
+                              <th className="p-4 font-medium">Pages</th>
+                              <th className="p-4 font-medium">Coverage</th>
+                              <th className="p-4 font-medium">Confidence</th>
+                          </tr>
+                      </thead>
+                      <tbody className="divide-y divide-slate-800">
+                          {Object.entries(statsData.sections).filter(([k]) => k !== 'Unknown').map(([name, data]) => (
+                              <tr key={name} className="hover:bg-slate-800/50 transition-colors">
+                                  <td className="p-4 font-medium text-slate-200">{name}</td>
+                                  <td className="p-4 text-slate-400">{data.total_pages}</td>
+                                  <td className="p-4">
+                                      <div className="flex items-center gap-2">
+                                          <span className="text-blue-400 font-mono">{data.coverage_percent}%</span>
+                                          <div className="w-16 bg-slate-800 h-1.5 rounded-full overflow-hidden">
+                                              <div className="bg-blue-500 h-full" style={{ width: `${data.coverage_percent}%` }} />
+                                          </div>
+                                      </div>
+                                  </td>
+                                  <td className="p-4">
+                                      <div className="flex items-center gap-2">
+                                          <span className={`font-mono ${getConfidenceColor(data.avg_confidence)}`}>
+                                              {data.avg_confidence}%
+                                          </span>
+                                          <div className="w-16 bg-slate-800 h-1.5 rounded-full overflow-hidden">
+                                              <div className={`h-full ${
+                                                  data.avg_confidence >= 80 ? 'bg-green-500' : 
+                                                  data.avg_confidence >= 60 ? 'bg-amber-500' : 'bg-red-500'
+                                              }`} style={{ width: `${data.avg_confidence}%` }} />
+                                          </div>
+                                      </div>
+                                  </td>
+                              </tr>
+                          ))}
+                      </tbody>
+                  </table>
+               </div>
+            </div>
+
+            {/* Dictionary Stats */}
+            {statsData.dictionary && (
+              <div className="bg-slate-900 rounded-xl border border-slate-800 overflow-hidden p-6">
+                 <h3 className="text-xl font-bold text-amber-500 mb-6 flex items-center gap-2">
+                    <Book className="w-6 h-6" />
+                    Dictionary Statistics
+                 </h3>
+                 
+                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                    {/* Left: Overview */}
+                    <div>
+                        <div className="mb-6">
+                            <div className="text-sm text-slate-400 mb-1">Total Dictionary Entries</div>
+                            <div className="text-4xl font-bold text-slate-100">{statsData.dictionary.total_entries}</div>
+                        </div>
+
+                        <h4 className="font-semibold text-slate-300 mb-4">Confidence Levels</h4>
+                        <div className="space-y-3">
+                            {Object.entries(statsData.dictionary.confidence_levels)
+                              .sort(([,a], [,b]) => b - a)
+                              .map(([level, count]) => (
+                                <div key={level}>
+                                    <div className="flex justify-between text-sm mb-1">
+                                        <span className="text-slate-400">{level}</span>
+                                        <span className="text-slate-200">{count}</span>
                                     </div>
-                                </td>
-                                <td className="p-4">
-                                    <div className="flex items-center gap-2">
-                                        <span className={`font-mono ${getConfidenceColor(data.avg_confidence)}`}>
-                                            {data.avg_confidence}%
-                                        </span>
-                                        <div className="w-16 bg-slate-800 h-1.5 rounded-full overflow-hidden">
-                                            <div className={`h-full ${
-                                                data.avg_confidence >= 80 ? 'bg-green-500' : 
-                                                data.avg_confidence >= 60 ? 'bg-amber-500' : 'bg-red-500'
-                                            }`} style={{ width: `${data.avg_confidence}%` }} />
-                                        </div>
+                                    <div className="w-full bg-slate-800 h-2 rounded-full overflow-hidden">
+                                        <div 
+                                            className={`h-full ${
+                                                level === 'VERIFIED' ? 'bg-green-400' :
+                                                level.includes('HIGH') ? 'bg-green-500' :
+                                                level === 'MEDIUM' ? 'bg-amber-500' :
+                                                'bg-slate-600'
+                                            }`}
+                                            style={{ width: `${(count / statsData.dictionary.total_entries) * 100}%` }}
+                                        />
                                     </div>
-                                </td>
-                            </tr>
-                        ))}
-                    </tbody>
-                </table>
-             </div>
+                                </div>
+                            ))}
+                        </div>
+                    </div>
+
+                    {/* Right: Domains */}
+                    <div>
+                        <h4 className="font-semibold text-slate-300 mb-4">Word Domains</h4>
+                        <div className="grid grid-cols-2 gap-4">
+                            {Object.entries(statsData.dictionary.domains)
+                              .sort(([,a], [,b]) => b - a)
+                              .slice(0, 10)
+                              .map(([domain, count]) => (
+                                <div key={domain} className="bg-slate-800/50 p-3 rounded border border-slate-700">
+                                    <div className="text-xs text-amber-500 uppercase font-bold mb-1 truncate">{domain}</div>
+                                    <div className="text-2xl font-bold text-slate-200">{count}</div>
+                                </div>
+                            ))}
+                        </div>
+                    </div>
+                 </div>
+              </div>
+            )}
           </div>
         )}
       </div>

@@ -29,11 +29,6 @@ def get_section(page):
         return "Unknown"
 
 def calculate_confidence(text):
-    # Simple heuristic: 
-    # - Punishment for '?' (unknowns)
-    # - Punishment for untranslated words (maybe check for non-English chars if possible, but simpler to just check for '?')
-    # - Reward for length?
-    
     if not text or text.strip() == "":
         return 0
         
@@ -52,30 +47,58 @@ def calculate_confidence(text):
     if total_tokens == 0: 
         return 0
         
-    # Base confidence starts at 100
-    # Deduct for uncertainty markers
     confidence = 100.0
-    
-    # If text is very short (e.g. just "f1r"), confidence is 0
     if len(text) < 50:
         return 0
         
     penalty = (question_marks + unknown_tags) * 2
     confidence -= (penalty / max(total_tokens, 1)) * 100
     
-    # Cap at 0-100
     return max(0.0, min(100.0, confidence))
+
+def analyze_dictionary(dict_path):
+    stats = {
+        "total_entries": 0,
+        "domains": {},
+        "confidence_levels": {}
+    }
+    
+    if not os.path.exists(dict_path):
+        print(f"Dictionary not found at {dict_path}")
+        return stats
+        
+    try:
+        with open(dict_path, 'r') as f:
+            data = json.load(f)
+            entries = data.get("entries", {})
+            stats["total_entries"] = len(entries)
+            
+            for word, info in entries.items():
+                # Domain
+                domain = info.get("domain", "unknown")
+                stats["domains"][domain] = stats["domains"].get(domain, 0) + 1
+                
+                # Confidence Level
+                conf = info.get("confidence_level", "UNKNOWN")
+                stats["confidence_levels"][conf] = stats["confidence_levels"].get(conf, 0) + 1
+                
+    except Exception as e:
+        print(f"Error analyzing dictionary: {e}")
+        
+    return stats
 
 def main():
     print("Generating web statistics...")
     
     base_dir = "web/src/data"
     translations_path = os.path.join(base_dir, "translations.json")
+    dictionary_path = "results/dictionary/dictionary.json"
     
     if not os.path.exists(translations_path):
         print("Error: translations.json not found")
         return
 
+    # 1. Analyze Translations
     with open(translations_path, 'r') as f:
         translations = json.load(f)
         
@@ -86,51 +109,42 @@ def main():
             "coverage_percent": 0,
             "avg_confidence": 0
         },
-        "sections": {}
+        "sections": {},
+        "dictionary": {}
     }
     
     # Initialize sections
     sections = ["Botanical", "Astronomical", "Biological", "Cosmological", "Pharmaceutical", "Recipes", "Unknown"]
     for sec in sections:
         stats["sections"][sec] = {
-            "total_pages": 0, # We'll count observed pages
+            "total_pages": 0, 
             "translated_pages": 0,
             "avg_confidence": 0,
             "confidence_sum": 0
         }
 
-    # Known total pages per section (approximate for denominator if we wanted absolute coverage, 
-    # but better to rely on the pages we actually have files for or just count what we see)
-    # Let's rely on the keys in translations.json + pages.json if available
-    
     pages_path = os.path.join(base_dir, "pages.json")
     all_pages = []
     if os.path.exists(pages_path):
         with open(pages_path, 'r') as f:
             all_pages = json.load(f)
-            # Normalize: remove .jpg if present
             all_pages = [p.replace('.jpg', '') for p in all_pages]
     else:
         all_pages = list(translations.keys())
 
-    # Count totals per section
     for page in all_pages:
         sec = get_section(page)
-        if sec == "Unknown":
-             pass # print(f"Warning: Page {page} classified as Unknown")
         if sec not in stats["sections"]:
             stats["sections"][sec] = {"total_pages": 0, "translated_pages": 0, "avg_confidence": 0, "confidence_sum": 0}
         stats["sections"][sec]["total_pages"] += 1
 
     stats["global"]["total_pages"] = len(all_pages)
     
-    # Analyze translations
     total_confidence = 0
     translated_count = 0
     
     for page, text in translations.items():
         if page not in all_pages:
-            # This page has a translation but wasn't in pages.json? Add it.
             sec = get_section(page)
             if sec not in stats["sections"]:
                 stats["sections"][sec] = {"total_pages": 0, "translated_pages": 0, "avg_confidence": 0, "confidence_sum": 0}
@@ -140,8 +154,7 @@ def main():
             
         sec = get_section(page)
         
-        # Check if it's actually translated or just a placeholder
-        if len(text) > 50 and "?" not in text[:10]: # Simple check
+        if len(text) > 50 and "?" not in text[:10]: 
              translated_count += 1
              conf = calculate_confidence(text)
              
@@ -155,7 +168,6 @@ def main():
         stats["global"]["avg_confidence"] = round(total_confidence / translated_count, 1)
         stats["global"]["coverage_percent"] = round((translated_count / stats["global"]["total_pages"]) * 100, 1)
     
-    # Finalize section stats
     for sec in stats["sections"]:
         s = stats["sections"][sec]
         if s["translated_pages"] > 0:
@@ -164,7 +176,10 @@ def main():
         else:
             s["avg_confidence"] = 0
             s["coverage_percent"] = 0
-        del s["confidence_sum"] # Remove temp field
+        del s["confidence_sum"]
+
+    # 2. Analyze Dictionary
+    stats["dictionary"] = analyze_dictionary(dictionary_path)
 
     # Write output
     output_path = os.path.join(base_dir, "stats.json")
@@ -172,7 +187,7 @@ def main():
         json.dump(stats, f, indent=2)
         
     print(f"Stats written to {output_path}")
-    print(json.dumps(stats, indent=2))
+    print(f"Dictionary entries: {stats['dictionary'].get('total_entries', 0)}")
 
 if __name__ == "__main__":
     main()
