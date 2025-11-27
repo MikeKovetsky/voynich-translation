@@ -1,0 +1,27 @@
+Task: Semantic Mapping of Atoms
+
+Now that we have "Atoms" (Task 160), we need to know what they mean.
+`ol` is frequent. `kee` is frequent. What are they?
+
+Input:
+- results/atomic_text.txt
+- data/images/ (We need to correlate with page topics)
+
+Subtasks:
+1. **Page-Topic Correlation:**
+   - Identify "Star Pages", "Plant Pages", "Recipe Pages".
+   - Count the frequency of each Atom per Topic.
+   - Calculate "Topic Bias":
+     - If `kee` appears 50% on Star pages (which are 10% of total), `kee` = "Star/Sky".
+     - If `chol` appears 80% on Plant pages, `chol` = "Plant/Leaf".
+
+2. **Dictionary Generation:**
+   - Create `results/atomic_dictionary.json`.
+   - Format: `{"atom": "chol", "meaning": "Leaf", "confidence": "High"}`.
+
+3. **Hypothesis List:**
+   - `ol`: ?
+   - `or`: ?
+   - `dy`: ?
+   - `dai`: ?
+   - `s`: ?

@@ -1,0 +1,22 @@
+Task: Atomic Root Discovery (De-souping)
+
+The Segmentation (Task 157) helped, but we still have roots like `keeoollkeeeyolainarokeomqokain...`.
+This isn't a word. It's a sequence of `kee`, `ol`, `ain`, `ar`.
+
+Input:
+- results/segmented_text.txt
+
+Subtasks:
+1. **N-gram Analysis of Long Roots:**
+   - Filter for "words" longer than 8 characters.
+   - Run 2-gram and 3-gram frequency analysis on the *characters* of these words.
+   - Identify the building blocks: `ol`, `or`, `dy`, `kee`, `dai`, `chol`.
+
+2. **Recursive Atomizer:**
+   - Build a list of "Atoms" (length 2-4).
+   - Write a script to greedily split the long strings into Atoms.
+   - `keeoollkeeey` -> `kee-ol-l-kee-ey`.
+
+3. **Output:**
+   - `results/atomic_text.txt`: The text fully broken down into atoms.
+   - `results/atoms_list.json`: The list of valid atoms and their frequencies.

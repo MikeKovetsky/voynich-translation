@@ -1,0 +1,24 @@
+Task: Final Translation v9 (Atomic)
+
+This is the "Nuclear Option". We translate the manuscript as a sequence of atomic concepts.
+
+Input:
+- results/atomic_text.txt
+- results/atomic_dictionary.json
+- results/grammar_patterns.md (for Prefix logic)
+
+Subtasks:
+1. **Translate:**
+   - Apply the dictionary to the atomic text.
+   - Use the grammar tags from Task 158 for prefixes (still valid).
+   - Output: `[VERB] Mixture [and] Leaf [and] Star`.
+
+2. **Smoothing:**
+   - If we get "Star Star Star", collapse to "Stars".
+   - If we get "Leaf Leaf", collapse to "Leaves".
+
+3. **Output:**
+   - `results/translation_v9_atomic.md`.
+   - Readability check: Is it intelligible?
+
+This effectively tests the hypothesis that Voynich is an "Artificial Language" built from small semantic bricks.
