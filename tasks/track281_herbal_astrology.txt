@@ -1,0 +1,21 @@
+Task: Herbal-Astrology Link (Track 281)
+Goal: Link Herbal pages to Zodiac signs based on shared vocabulary.
+Inputs:
+- data/voynich_transcription.txt
+- results/dictionary/master_dictionary_v15.json
+
+Steps:
+1. **Isolate Vocabularies:**
+   - Extract all unique words from the Zodiac Pages (f70r-f73v). Group them by Sign (e.g., Aries Vocab, Taurus Vocab).
+   - Extract all unique words from each Herbal Page (f1r-f66v).
+
+2. **Find Intersections:**
+   - For each Herbal Page, calculate the "Jaccard Similarity" or "Shared Word Count" with each Zodiac Sign.
+   - **Hypothesis:** If a plant on fX is "Martian" (Aries), it should share vocabulary with the Aries page.
+
+3. **Highlight Strong Links:**
+   - Identify Herbal pages that have a *statistically significant* overlap with a specific Zodiac sign.
+
+4. **Outputs:**
+   - `results/herbal_zodiac_links.json`: { "f1r": {"Aries": 5, "Taurus": 1}, ... }
+   - `results/track-281-results_summary.md`: List of probable Planetary Rulerships for specific Herbal pages.

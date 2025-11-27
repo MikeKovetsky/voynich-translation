@@ -1,0 +1,22 @@
+Task: Dictionary v15 Finalize
+Goal: Lock the dictionary for the final translation run.
+Inputs:
+- results/dictionary/dictionary_v15_draft.json (Previous draft)
+- results/candidate_verification_report.md
+
+Steps:
+1. **Load Draft v15.**
+2. **Commit Confirmed Meanings:**
+   - `okora` -> "Cure / Heart Remedy" (Conf: 0.8)
+   - `qokeey` -> "Cook / Boil" (Conf: 0.9)
+   - `qokedy` -> "Mixture / Decoction" (Conf: 0.9)
+   - `sho` -> "Heat / Fire" (Conf: 0.8)
+   - `keero` -> "Coriander (candidate)" (Conf: 0.6)
+   - `shkair` -> "Chicory (candidate)" (Conf: 0.5)
+3. **Revert Weak Candidates:**
+   - Revert `cphor` to "Generic Plant" (Conf: 0.3) - Evidence was weak.
+   - Revert `som` to "Generic Ingredient" (Conf: 0.3).
+4. **Save:**
+   - `results/dictionary/master_dictionary_v15.json`.
+5. **Generate:**
+   - `results/dictionary_v15_stats.md`.

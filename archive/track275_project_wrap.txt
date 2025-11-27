@@ -1,0 +1,20 @@
+Task: Project Wrap (Report v7)
+Goal: Document the final state of the research.
+Inputs:
+- results/final_translated_quire20.md
+- results/candidate_verification_report.md
+
+Steps:
+1. **Create `results/final_report_v7.md`.**
+2. **Title:** "The Voynich Manuscript: A Medieval Medical Protocol".
+3. **Executive Summary:**
+   - We translated the "Recipe Section" (Quire 20).
+   - It describes the preparation of **Cures** (`okora`) using **Heat** (`sho`) and **Cooking** (`qokeey`).
+   - Identified ingredients include **Coriander** and **Chicory**.
+4. **Methodology:**
+   - Explain the "Visual-Text Alignment" and "Control Testing".
+5. **Limitations:**
+   - Admit that 40% of plant names remain unknown (`[PLANT NAME]`).
+6. **Archive:**
+   - `tasks/track27*` -> `archive/`.
+   - Update `README.md`.

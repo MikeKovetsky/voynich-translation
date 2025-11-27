@@ -1,0 +1,14 @@
+Iteration 86: Strategy for Full Translation
+Status: Planning Phase
+Goal: Expand the "Recipe Grammar" and "Astrology" success to the full manuscript.
+
+Strategy:
+1. **Grammar Scaling:** We need to know WHICH parts of the book are recipes. `track280` will map the "Instructional Density" of every page.
+2. **Herbal Decoding:** We can't identify plants by drawing alone. We will use "Astrological Fingerprinting" (`track281`) to link plants to their ruling planets/signs.
+3. **Cosmology Check:** The weirdest page (Rosettes) needs a check. `track282` will see if it's just an Elemental Map.
+4. **Full Draft:** It's time to see what we have. `track283` will produce a "rough cut" of the whole book.
+
+Next Steps:
+- Run Tracks 280, 281, 282, 283.
+- Analyze the "Grammar Map" to categorize the manuscript sections.
+- Use the "Full Draft" to spot readable paragraphs outside Quire 20.

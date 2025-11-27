@@ -1,0 +1,24 @@
+Task: Master Translation Draft (Track 283)
+Goal: Create a readable draft of the entire manuscript using the Master Dictionary.
+Inputs:
+- data/voynich_transcription.txt
+- results/dictionary/master_dictionary_v15.json
+
+Steps:
+1. **Prepare Dictionary:**
+   - Load `master_dictionary_v15.json`.
+   - Create a lookup map: `word -> translation`.
+
+2. **Translate Corpus:**
+   - Iterate through the entire transcription line by line.
+   - Replace every known word with `[TRANSLATION]`.
+   - Keep unknown words as `raw_word`.
+   - Add Page Headers (e.g., "## f103r").
+
+3. **Format Output:**
+   - Create a Markdown file.
+   - Add a "Confidence Score" per line (percentage of words translated).
+
+4. **Outputs:**
+   - `results/full_draft_translation_v1.md`: The full translated text.
+   - `results/track-283-results_summary.md`: Statistics (Total coverage %, Best translated pages).

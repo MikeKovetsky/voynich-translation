@@ -1,0 +1,25 @@
+Task: Grammar Density Map (Track 280)
+Goal: Determine which sections of the manuscript follow the "Recipe Grammar" (Imperative + Object).
+Inputs:
+- data/voynich_transcription.txt
+- results/dictionary/master_dictionary_v15.json
+
+Steps:
+1. **Define Markers:**
+   - Imperative Suffix: `-y` (at end of word).
+   - Ingredient Prefix: `ol-` (at start of word).
+   - Process Suffix: `-ed` (at end of word).
+   - Standard Command: `daiin` (exact match).
+
+2. **Analyze Corpus:**
+   - Iterate through every page in the transcription.
+   - Calculate the "Recipe Grammar Density" score for each page:
+     - Score = (Count of Markers) / (Total Words on Page).
+
+3. **Classify Sections:**
+   - Group pages into "High Density" (Recipes), "Medium Density" (Mixed), and "Low Density" (Narrative/Descriptive).
+   - Check if the "Herbal Section" (Quires 1-16) has high or low density.
+
+4. **Outputs:**
+   - `results/grammar_density_map.json`: { "f103r": 0.45, "f1r": 0.05, ... }
+   - `results/track-280-results_summary.md`: Analysis of the map. Which quires are "Instructional"?

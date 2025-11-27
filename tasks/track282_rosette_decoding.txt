@@ -1,0 +1,25 @@
+Task: Rosette Elemental Decoding (Track 282)
+Goal: Apply Elemental vocabulary to the Rosettes foldout (f86v) to test the "Cosmology" hypothesis.
+Inputs:
+- data/voynich_transcription.txt (focus on f86v)
+- results/dictionary/master_dictionary_v15.json
+
+Steps:
+1. **Target Vocabulary:**
+   - Heat/Fire: `sho`, `choly`
+   - Cold/Water: `o`, `ol`
+   - Air/Wind: `shey`
+   - Earth/Dry: `or`
+   - Light/Star: `os`
+
+2. **Map the Page:**
+   - Extract all words from f86v (Rosettes).
+   - Search for the Target Vocabulary (and their derivatives).
+
+3. **Analyze Distribution:**
+   - Do specific "Rosettes" (circles) contain clusters of specific elements? (e.g., is the top-right circle "Fire"?).
+   - Interpret the diagram: Is it a map of the 4 Elements? The 4 Humors?
+
+4. **Outputs:**
+   - `results/rosette_analysis.md`: Visual mapping of terms to the foldout.
+   - `results/track-282-results_summary.md`: Conclusion on the meaning of the Rosettes.

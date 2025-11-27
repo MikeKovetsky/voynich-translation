@@ -1,0 +1,23 @@
+Task: Candidate Verification (Context Check)
+Goal: Verify the new plant candidates by checking their usage in recipes.
+Inputs:
+- results/visual_grounding_candidates.json
+- results/quire20_translation_final.md
+- results/dictionary/master_dictionary_v14.json
+
+Steps:
+1. **Define the Candidates:**
+   - `shkair` = Chicory (*Cichorium*). Medical use: Liver, Cooling.
+   - `keero` = Coriander (*Coriandrum*). Medical use: Stomach, Digestion, Warming.
+   - `cphor` = Hellebore (*Helleborus*). Medical use: Purgative (Strong!), Madness.
+   - `som` = Seed (*Semen*). Context: "Take the som".
+   - `okora` = Heart (*Cor*) or Cure (*Cura*).
+2. **Search Quire 20:**
+   - Find all occurrences of these roots.
+   - Translate the surrounding recipe sentences using the NEW meanings.
+3. **Evaluate:**
+   - Does `shkair` appear with "cooling" words or "liver" words?
+   - Does `cphor` appear with warnings or small doses?
+   - Does `som` appear after "Take" or "Grind"?
+4. **Output:**
+   - `results/candidate_verification_report.md`: Usage analysis and verdict (Confirmed/Rejected).
