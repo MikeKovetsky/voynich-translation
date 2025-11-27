@@ -1,0 +1,22 @@
+Task: Dictionary Clean-up & Expansion (Track 292)
+Goal: Update the Master Dictionary with recent findings (Sal, Bio terms).
+Inputs:
+- results/dictionary/master_dictionary_v15.json
+
+Steps:
+1. **New Entries:**
+   - `sal`: "Salt" (Ingredient) - Found in f41r.
+   - `qokedy`: "Mixture/Decoction" (Refine definition to include "Bath Mixture" for Bio section).
+   - `shkair`: "Chicory" (Confirm if not already present).
+   - `keero`: "Coriander" (Confirm).
+
+2. **Refine Definitions:**
+   - `sho`: Add "Fumigate/Burn" context (for Herbal pages).
+
+3. **Generate v16:**
+   - Create `results/dictionary/master_dictionary_v16.json`.
+   - Sort and deduplicate.
+
+4. **Outputs:**
+   - `results/dictionary/master_dictionary_v16.json`
+   - `results/track-292-results_summary.md`: Changelog.
