@@ -1,0 +1,21 @@
+Task: Grammar Config (Recipe Mode)
+Goal: Create a machine-readable configuration file for the translator, enforcing the rules verified in Iteration 86.
+Inputs:
+- results/syntax_map_v1.json
+- results/suffix_mining.json
+
+Steps:
+1. Create `config/recipe_grammar.json`.
+2. Define **Token Roles**:
+   - `y`, `o`, `s` -> "Sentence Starter / Conjunction"
+   - `ol`, `or`, `ar` -> "Preposition / Article (The/Of/With)"
+   - `daiin` -> "Verb (Take/Gather) or Pronoun"
+3. Define **Morphology Rules**:
+   - Suffix `-y`: "Imperative Mode" (if attached to Verb Root).
+   - Prefix `qo-` / `qok-`: "Verbalizer" (Process/Action).
+   - Prefix `o-` / `ol-`: "Noun Marker" (The Object).
+4. Define **Syntax Patterns**:
+   - `[Imperative] [Article] [Noun]` -> "Process the Ingredient".
+   - `[Imperative] [Preposition] [Noun]` -> "Process with Ingredient".
+   - `[Noun] [Adjective]` -> "Noun (which is) Adjective".
+5. Save the file.

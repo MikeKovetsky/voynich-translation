@@ -1,0 +1,25 @@
+Task: The Translation Run (Quire 20)
+Goal: Produce the final readable translation of the Recipe Section.
+Inputs:
+- data/transcription.txt (Filter for f103r-f116v)
+- results/dictionary/master_dictionary_v14.json
+- results/safe_merges.json
+- config/recipe_grammar.json
+
+Steps:
+1. **Preprocessing:**
+   - Filter text for Quire 20.
+   - Tokenize.
+   - Apply `safe_merges`: If a word is a "Safe Merge" candidate, map it to its Root *unless* it has a grammar suffix defined in `recipe_grammar.json`.
+2. **Translation:**
+   - Lookup words in Dictionary v14.
+   - If Unknown: Check `suffix_mining.json` for partial match.
+3. **Syntactic Assembly:**
+   - Apply `recipe_grammar.json` rules.
+   - Convert `[qokeedy] [ol] [chol]` -> "Process the Leaf" (not "Process The Leaf").
+   - Handle lists: `[ol] [A] [ol] [B]` -> "The A and the B".
+4. **Post-Processing:**
+   - Format as Markdown (Headers for pages, Bullet points for recipes).
+   - Add "Confidence Score" per sentence.
+5. **Output:**
+   - `results/quire20_translation_final.md`
