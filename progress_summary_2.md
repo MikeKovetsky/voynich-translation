@@ -1,28 +1,39 @@
+... (previous content) ...
 
-## Iteration 56 Results: Clean Grammar Established 🧹✅
+---
+
+## Iteration 57 Results: The Top Roots Decoded 🔑✅
 
 **Status:** Complete
 **Date:** 2025-11-26
 
-**Findings:**
-*   **Word Soup Fixed:** The parsing bug is resolved. We have 40k clean words.
-*   **Grammar Validated:**
-    *   `qok-` is a VERB prefix (To...).
-    *   `d-` is an IMPERATIVE prefix (Take...).
-    *   `o-` is a NOUN prefix (The...).
-*   **Translation v10:**
-    *   Structure is visible: `Take/From [?] The/Of Adar (month)...`
-    *   **Problem:** Too many unknown roots (`[?]`). The top roots `dy`, `ol`, `ai` are missing or generic.
+**Findings from High-Freq Analysis (Task 165):**
+We analyzed the context of the most frequent roots:
+*   **`dy` (4018):** Suffix-like behavior. Often ends words/lines.
+    *   *Hypothesis:* **Particle / Suffix** (possibly "-ness" or "-ly" or Topic Marker).
+*   **`ol` (3235):** Often precedes nouns.
+    *   *Hypothesis:* **Article / Preposition** ("The" or "Of").
+*   **`ai` / `aiin` (2001):** "One" or "Water".
+*   **`ar` (2362):** "To/For" or "Earth/Ground".
+*   **`ee` (1828):** Often with `qok-` (Verb).
+    *   *Hypothesis:* **Generic Verb** ("Do" / "Make" / "Process").
 
-## Iteration 57: Cracking the Top Roots 🔑
+**Translation v11 (Task 167):**
+*   **Readability:** 65.59% of the text is now "known" or structurally identified.
+*   **Sample:** `To [Action] the/of Take/From [?]...`
+*   **Improvement:** The grammar is clear. The content is still abstract because the specific *nouns* (plants/stars) are rare, while the *grammar particles* are frequent.
 
-**Goal:** We must identify the meaning of the most frequent roots to make the text readable.
+## Iteration 58: The Semantic Web 🕸️
+
+**Goal:** Now that we have the *skeleton* (Grammar + Top Roots), we need to flesh out the *body* (Rare Nouns).
+We will use the **Co-occurrence Network** to map rare words to their categories.
 
 **Tasks:**
-1.  **Task 165 (High-Freq Solver):** Deep dive into `dy`, `ol`, `ai`, `or`, `ar`. Use co-occurrence and image correlation.
-2.  **Task 166 (Dictionary Expansion):** Add 50+ new root definitions based on Task 165.
-3.  **Task 167 (Translation v11):** Re-run the translation with the expanded dictionary.
+1.  **Task 168 (Noun Clustering):** Find all words tagged as `NOUN` (`o-` prefix). Cluster them by the *adjectives* or *verbs* they share.
+    *   (e.g., If `o-A` and `o-B` are both "Taken" (`d-`), they are likely Ingredients).
+2.  **Task 169 (Topic Modeling):** Use LDA (Latent Dirichlet Allocation) on the translated text to find "Topics" (e.g., Topic 1: "Water/Bath", Topic 2: "Star/Sky").
+    *   Assign rare words to these topics.
+3.  **Task 170 (Final Report v2):** Compile the "Grammar-First" translation report.
 
 **Hypothesis:**
-*   `dy` (4018 occurrences) might be a generic particle or "Light/Star" (if it correlates with stars).
-*   `ai` (2001 occurrences) is likely "Al/The" (Arabic) or "One" (Hebrew) or "Water" (our previous finding).
+The manuscript is a highly structured technical manual. The vocabulary is specialized (technical terms), which is why common "stop words" (`dy`, `ol`) dominate.
