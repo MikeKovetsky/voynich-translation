@@ -1,0 +1,18 @@
+Task: Astro-Medical Link
+Goal: Prove the "Three Books" theory by finding Medical terms in the Astrological section.
+Inputs:
+- data/transcription.txt (Filter for f67r-f73v)
+- results/dictionary/master_dictionary_v15.json
+
+Steps:
+1. **Search:**
+   - Search Astro Section for `okora` (Cure/Heart).
+   - Search Astro Section for `qokeey` (Cook/Process).
+   - Search Astro Section for `shkair` / `keero` (Ingredients).
+2. **Context Analysis:**
+   - If found, what are they doing?
+   - e.g., "The Star [Name] influences the [Cure]".
+3. **Output:**
+   - `results/astro_medical_link.md`:
+     - Quotes from Astro section containing medical terms.
+     - Interpretation of the relationship.

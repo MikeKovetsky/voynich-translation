@@ -1,0 +1,15 @@
+Task: Dictionary v16 Expansion
+Goal: Solidify the "Verified" vocabulary based on Cross-Sectional analysis.
+Inputs:
+- results/dictionary/master_dictionary_v15.json
+- results/herbal_anchor_report.md
+- results/astro_medical_link.md
+
+Steps:
+1. **Ingest Anchors:**
+   - If `shkair` matches the visual on the Herbal page -> Upgrade to **Confidence 0.9**.
+   - If `keero` matches -> Upgrade to **Confidence 0.9**.
+2. **Propagate:**
+   - If `okora` is in Astro -> Tag as "Universal Concept" (Medical+Astro).
+3. **Save:**
+   - `results/dictionary/master_dictionary_v16.json`.
