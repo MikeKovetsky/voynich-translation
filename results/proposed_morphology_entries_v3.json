@@ -1,0 +1,317 @@
+[
+  {
+    "word": "qokeedy",
+    "stem": "okeedy",
+    "affix": "q-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "qokedy",
+    "stem": "kedy",
+    "affix": "qo-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "qokal",
+    "stem": "kal",
+    "affix": "qo-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "lf",
+    "stem": "f",
+    "affix": "l-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "qol",
+    "stem": "ol",
+    "affix": "q-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "qokai",
+    "stem": "okai",
+    "affix": "q-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "dain",
+    "stem": "ain",
+    "affix": "d-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "cho",
+    "stem": "o",
+    "affix": "ch-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "kaiin",
+    "stem": "aiin",
+    "affix": "k-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "qokol",
+    "stem": "kol",
+    "affix": "qo-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "sol",
+    "stem": "ol",
+    "affix": "s-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "dor",
+    "stem": "or",
+    "affix": "d-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "qokchy",
+    "stem": "kchy",
+    "affix": "qo-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "odaiin",
+    "stem": "daiin",
+    "affix": "o-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "sal",
+    "stem": "al",
+    "affix": "s-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "qok",
+    "stem": "k",
+    "affix": "qo-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "qodaiin",
+    "stem": "daiin",
+    "affix": "qo-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "da",
+    "stem": "a",
+    "affix": "d-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "qotai",
+    "stem": "otai",
+    "affix": "q-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "lc",
+    "stem": "c",
+    "affix": "l-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "chos",
+    "stem": "os",
+    "affix": "ch-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "oraiin",
+    "stem": "or",
+    "affix": "-aiin",
+    "type": "suffix",
+    "confidence": "high"
+  },
+  {
+    "word": "tchy",
+    "stem": "chy",
+    "affix": "t-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "dchy",
+    "stem": "chy",
+    "affix": "d-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "shed",
+    "stem": "ed",
+    "affix": "sh-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "tal",
+    "stem": "al",
+    "affix": "t-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "dchedy",
+    "stem": "chedy",
+    "affix": "d-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "ly",
+    "stem": "y",
+    "affix": "l-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "lkedy",
+    "stem": "kedy",
+    "affix": "l-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "kor",
+    "stem": "or",
+    "affix": "k-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "dchol",
+    "stem": "chol",
+    "affix": "d-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "kchdy",
+    "stem": "chdy",
+    "affix": "k-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "qor",
+    "stem": "or",
+    "affix": "q-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "odar",
+    "stem": "dar",
+    "affix": "o-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "yty",
+    "stem": "ty",
+    "affix": "y-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "kchedy",
+    "stem": "chedy",
+    "affix": "k-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "oaiin",
+    "stem": "aiin",
+    "affix": "o-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "qotor",
+    "stem": "tor",
+    "affix": "qo-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "edy",
+    "stem": "ed",
+    "affix": "-y",
+    "type": "suffix",
+    "confidence": "high"
+  },
+  {
+    "word": "qotey",
+    "stem": "tey",
+    "affix": "qo-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "qoaiin",
+    "stem": "aiin",
+    "affix": "qo-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "olshedy",
+    "stem": "lshedy",
+    "affix": "o-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "ycheey",
+    "stem": "cheey",
+    "affix": "y-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "olol",
+    "stem": "lol",
+    "affix": "o-",
+    "type": "prefix",
+    "confidence": "high"
+  },
+  {
+    "word": "oteo",
+    "stem": "teo",
+    "affix": "o-",
+    "type": "prefix",
+    "confidence": "high"
+  }
+]

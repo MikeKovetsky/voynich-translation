@@ -1,0 +1,5377 @@
+[
+  {
+    "word": "kor",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 23,
+    "examples": [
+      "y kor",
+      "y kor",
+      "y kor",
+      "y kor",
+      "y kor"
+    ]
+  },
+  {
+    "word": "kair",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 7,
+    "examples": [
+      "y kair",
+      "y kair",
+      "y kair",
+      "y kair",
+      "y kair"
+    ]
+  },
+  {
+    "word": "kain",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 7,
+    "examples": [
+      "y kain",
+      "ol kain",
+      "ol kain",
+      "ol kain",
+      "ol kain"
+    ]
+  },
+  {
+    "word": "kai",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 36,
+    "examples": [
+      "y kai",
+      "o kai",
+      "y kai",
+      "y kai",
+      "y kai"
+    ]
+  },
+  {
+    "word": "teody",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "o teody",
+      "ol teody",
+      "ol teody",
+      "ol teody",
+      "ol teody"
+    ]
+  },
+  {
+    "word": "shckhey",
+    "inferred_type": "noun",
+    "evidence_count": 18,
+    "examples": [
+      "daiin shckhey",
+      "daiin shckhey",
+      "daiin shckhey",
+      "daiin shckhey",
+      "daiin shckhey"
+    ]
+  },
+  {
+    "word": "kaiin",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 104,
+    "examples": [
+      "o kaiin",
+      "o kaiin",
+      "o kaiin",
+      "o kaiin",
+      "o kaiin"
+    ]
+  },
+  {
+    "word": "ctholdar",
+    "inferred_type": "noun",
+    "evidence_count": 7,
+    "examples": [
+      "daiin ctholdar",
+      "daiin ctholdar",
+      "daiin ctholdar",
+      "daiin ctholdar",
+      "daiin ctholdar"
+    ]
+  },
+  {
+    "word": "chtor",
+    "inferred_type": "noun",
+    "evidence_count": 7,
+    "examples": [
+      "dal chtor",
+      "dal chtor",
+      "dal chtor",
+      "dal chtor",
+      "dal chtor"
+    ]
+  },
+  {
+    "word": "cho",
+    "inferred_type": "noun",
+    "evidence_count": 31,
+    "examples": [
+      "ol cho",
+      "ol cho",
+      "y cho",
+      "y cho",
+      "y cho"
+    ]
+  },
+  {
+    "word": "dain",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 67,
+    "examples": [
+      "o dain",
+      "o dain",
+      "o dain",
+      "o dain",
+      "o dain"
+    ]
+  },
+  {
+    "word": "chotchey",
+    "inferred_type": "noun",
+    "evidence_count": 7,
+    "examples": [
+      "daiin chotchey",
+      "daiin chotchey",
+      "daiin chotchey",
+      "daiin chotchey",
+      "daiin chotchey"
+    ]
+  },
+  {
+    "word": "hey",
+    "inferred_type": "noun",
+    "evidence_count": 8,
+    "examples": [
+      "qok hey",
+      "o hey",
+      "o hey",
+      "o hey",
+      "ol hey"
+    ]
+  },
+  {
+    "word": "sam",
+    "inferred_type": "noun",
+    "evidence_count": 9,
+    "examples": [
+      "dal sam",
+      "dal sam",
+      "dal sam",
+      "dal sam",
+      "dal sam"
+    ]
+  },
+  {
+    "word": "okor",
+    "inferred_type": "noun",
+    "evidence_count": 14,
+    "examples": [
+      "or okor",
+      "daiin okor",
+      "daiin okor",
+      "or okor",
+      "or okor"
+    ]
+  },
+  {
+    "word": "ai",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 46,
+    "examples": [
+      "o ai",
+      "o ai",
+      "o ai",
+      "or ai",
+      "y ai"
+    ]
+  },
+  {
+    "word": "ear",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 7,
+    "examples": [
+      "y ear",
+      "ol ear",
+      "ol ear",
+      "ol ear",
+      "ol ear"
+    ]
+  },
+  {
+    "word": "oka",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol oka",
+      "ol oka",
+      "dal oka",
+      "dal oka",
+      "dal oka"
+    ]
+  },
+  {
+    "word": "qokshol",
+    "inferred_type": "noun",
+    "evidence_count": 7,
+    "examples": [
+      "daiin qokshol",
+      "daiin qokshol",
+      "daiin qokshol",
+      "daiin qokshol",
+      "daiin qokshol"
+    ]
+  },
+  {
+    "word": "shain",
+    "inferred_type": "noun",
+    "evidence_count": 10,
+    "examples": [
+      "daiin shain",
+      "daiin shain",
+      "daiin shain",
+      "daiin shain",
+      "daiin shain"
+    ]
+  },
+  {
+    "word": "ckhochy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin ckhochy",
+      "daiin ckhochy",
+      "daiin ckhochy",
+      "daiin ckhochy",
+      "daiin ckhochy"
+    ]
+  },
+  {
+    "word": "qodaiin",
+    "inferred_type": "noun",
+    "evidence_count": 10,
+    "examples": [
+      "daiin qodaiin",
+      "daiin qodaiin",
+      "daiin qodaiin",
+      "daiin qodaiin",
+      "daiin qodaiin"
+    ]
+  },
+  {
+    "word": "hy",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "qok hy",
+      "qok hy",
+      "ol hy",
+      "ol hy",
+      "ol hy"
+    ]
+  },
+  {
+    "word": "ckham",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin ckham",
+      "daiin ckham",
+      "daiin ckham",
+      "daiin ckham",
+      "daiin ckham"
+    ]
+  },
+  {
+    "word": "chokaiin",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol chokaiin",
+      "ol chokaiin",
+      "ol chokaiin",
+      "ol chokaiin",
+      "ol chokaiin"
+    ]
+  },
+  {
+    "word": "kaiim",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "y kaiim",
+      "y kaiim",
+      "y kaiim",
+      "y kaiim",
+      "y kaiim"
+    ]
+  },
+  {
+    "word": "dchy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 6,
+    "examples": [
+      "y dchy",
+      "y dchy",
+      "ol dchy",
+      "ol dchy",
+      "ol dchy"
+    ]
+  },
+  {
+    "word": "tshodody",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin tshodody",
+      "daiin tshodody",
+      "daiin tshodody",
+      "daiin tshodody",
+      "daiin tshodody"
+    ]
+  },
+  {
+    "word": "do",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin do",
+      "daiin do",
+      "daiin do",
+      "daiin do",
+      "daiin do"
+    ]
+  },
+  {
+    "word": "ey",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 33,
+    "examples": [
+      "o ey",
+      "o ey",
+      "o ey",
+      "qok ey",
+      "o ey"
+    ]
+  },
+  {
+    "word": "chokesey",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "or chokesey",
+      "or chokesey",
+      "or chokesey",
+      "or chokesey",
+      "or chokesey"
+    ]
+  },
+  {
+    "word": "qopchypcho",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin qopchypcho",
+      "daiin qopchypcho",
+      "daiin qopchypcho",
+      "daiin qopchypcho",
+      "daiin qopchypcho"
+    ]
+  },
+  {
+    "word": "etyd",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin etyd",
+      "daiin etyd",
+      "daiin etyd",
+      "daiin etyd",
+      "daiin etyd"
+    ]
+  },
+  {
+    "word": "chocthy",
+    "inferred_type": "noun",
+    "evidence_count": 16,
+    "examples": [
+      "daiin chocthy",
+      "daiin chocthy",
+      "daiin chocthy",
+      "daiin chocthy",
+      "daiin chocthy"
+    ]
+  },
+  {
+    "word": "yty",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "or yty",
+      "or yty",
+      "or yty",
+      "or yty",
+      "or yty"
+    ]
+  },
+  {
+    "word": "cth",
+    "inferred_type": "noun",
+    "evidence_count": 10,
+    "examples": [
+      "daiin cth",
+      "daiin cth",
+      "daiin cth",
+      "daiin cth",
+      "daiin cth"
+    ]
+  },
+  {
+    "word": "qotchey",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin qotchey",
+      "daiin qotchey",
+      "daiin qotchey",
+      "daiin qotchey",
+      "daiin qotchey"
+    ]
+  },
+  {
+    "word": "qokchy",
+    "inferred_type": "noun",
+    "evidence_count": 29,
+    "examples": [
+      "daiin qokchy",
+      "daiin qokchy",
+      "daiin qokchy",
+      "daiin qokchy",
+      "daiin qokchy"
+    ]
+  },
+  {
+    "word": "kshy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 11,
+    "examples": [
+      "y kshy",
+      "y kshy",
+      "y kshy",
+      "y kshy",
+      "y kshy"
+    ]
+  },
+  {
+    "word": "ytchy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin ytchy",
+      "daiin ytchy",
+      "daiin ytchy",
+      "daiin ytchy",
+      "daiin ytchy"
+    ]
+  },
+  {
+    "word": "qotchol",
+    "inferred_type": "noun",
+    "evidence_count": 11,
+    "examples": [
+      "daiin qotchol",
+      "daiin qotchol",
+      "daiin qotchol",
+      "daiin qotchol",
+      "daiin qotchol"
+    ]
+  },
+  {
+    "word": "olcphy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin olcphy",
+      "daiin olcphy",
+      "daiin olcphy",
+      "daiin olcphy",
+      "daiin olcphy"
+    ]
+  },
+  {
+    "word": "chopol",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin chopol",
+      "daiin chopol",
+      "daiin chopol",
+      "daiin chopol",
+      "daiin chopol"
+    ]
+  },
+  {
+    "word": "olol",
+    "inferred_type": "noun",
+    "evidence_count": 11,
+    "examples": [
+      "daiin olol",
+      "daiin olol",
+      "daiin olol",
+      "daiin olol",
+      "daiin olol"
+    ]
+  },
+  {
+    "word": "dorody",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin dorody",
+      "daiin dorody",
+      "daiin dorody",
+      "daiin dorody",
+      "daiin dorody"
+    ]
+  },
+  {
+    "word": "oro",
+    "inferred_type": "noun",
+    "evidence_count": 13,
+    "examples": [
+      "or oro",
+      "or oro",
+      "or oro",
+      "or oro",
+      "or oro"
+    ]
+  },
+  {
+    "word": "dl",
+    "inferred_type": "noun",
+    "evidence_count": 21,
+    "examples": [
+      "or dl",
+      "or dl",
+      "ol dl",
+      "ol dl",
+      "ol dl"
+    ]
+  },
+  {
+    "word": "qody",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 7,
+    "examples": [
+      "y qody",
+      "y qody",
+      "dal qody",
+      "dal qody",
+      "dal qody"
+    ]
+  },
+  {
+    "word": "da",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 13,
+    "examples": [
+      "o da",
+      "daiin da",
+      "daiin da",
+      "y da",
+      "daiin da"
+    ]
+  },
+  {
+    "word": "mol",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y mol",
+      "y mol",
+      "y mol",
+      "y mol"
+    ]
+  },
+  {
+    "word": "chotom",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 6,
+    "examples": [
+      "y chotom",
+      "y chotom",
+      "y chotom",
+      "y chotom",
+      "y chotom"
+    ]
+  },
+  {
+    "word": "eees",
+    "inferred_type": "noun",
+    "evidence_count": 18,
+    "examples": [
+      "or eees",
+      "or eees",
+      "or eees",
+      "or eees",
+      "or eees"
+    ]
+  },
+  {
+    "word": "shecthy",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "or shecthy",
+      "or shecthy",
+      "or shecthy",
+      "or shecthy",
+      "or shecthy"
+    ]
+  },
+  {
+    "word": "oaiin",
+    "inferred_type": "noun",
+    "evidence_count": 14,
+    "examples": [
+      "or oaiin",
+      "or oaiin",
+      "or oaiin",
+      "or oaiin",
+      "or oaiin"
+    ]
+  },
+  {
+    "word": "qokol",
+    "inferred_type": "noun",
+    "evidence_count": 14,
+    "examples": [
+      "daiin qokol",
+      "daiin qokol",
+      "daiin qokol",
+      "daiin qokol",
+      "ol qokol"
+    ]
+  },
+  {
+    "word": "dchydy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin dchydy",
+      "daiin dchydy",
+      "daiin dchydy",
+      "daiin dchydy",
+      "daiin dchydy"
+    ]
+  },
+  {
+    "word": "tchy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 25,
+    "examples": [
+      "y tchy",
+      "y tchy",
+      "y tchy",
+      "y tchy",
+      "y tchy"
+    ]
+  },
+  {
+    "word": "otytchy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin otytchy",
+      "daiin otytchy",
+      "daiin otytchy",
+      "daiin otytchy",
+      "daiin otytchy"
+    ]
+  },
+  {
+    "word": "doty",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin doty",
+      "daiin doty",
+      "daiin doty",
+      "daiin doty",
+      "daiin doty"
+    ]
+  },
+  {
+    "word": "okchan",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 6,
+    "examples": [
+      "y okchan",
+      "y okchan",
+      "y okchan",
+      "y okchan",
+      "y okchan"
+    ]
+  },
+  {
+    "word": "daral",
+    "inferred_type": "noun",
+    "evidence_count": 11,
+    "examples": [
+      "dal daral",
+      "dal daral",
+      "dal daral",
+      "dal daral",
+      "dal daral"
+    ]
+  },
+  {
+    "word": "teey",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol teey",
+      "ol teey",
+      "ol teey",
+      "ol teey",
+      "ol teey"
+    ]
+  },
+  {
+    "word": "fychey",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "o fychey",
+      "o fychey",
+      "o fychey",
+      "o fychey",
+      "o fychey"
+    ]
+  },
+  {
+    "word": "cthain",
+    "inferred_type": "noun",
+    "evidence_count": 10,
+    "examples": [
+      "daiin cthain",
+      "daiin cthain",
+      "daiin cthain",
+      "daiin cthain",
+      "daiin cthain"
+    ]
+  },
+  {
+    "word": "chosy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin chosy",
+      "daiin chosy",
+      "daiin chosy",
+      "daiin chosy",
+      "daiin chosy"
+    ]
+  },
+  {
+    "word": "koly",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "y koly",
+      "y koly",
+      "y koly",
+      "y koly",
+      "y koly"
+    ]
+  },
+  {
+    "word": "dait",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin dait",
+      "daiin dait",
+      "daiin dait",
+      "daiin dait",
+      "daiin dait"
+    ]
+  },
+  {
+    "word": "iin",
+    "inferred_type": "noun",
+    "evidence_count": 23,
+    "examples": [
+      "ol iin",
+      "o iin",
+      "ol iin",
+      "ol iin",
+      "ol iin"
+    ]
+  },
+  {
+    "word": "choldchy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "y choldchy",
+      "y choldchy",
+      "y choldchy",
+      "y choldchy",
+      "y choldchy"
+    ]
+  },
+  {
+    "word": "chokshchy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "y chokshchy",
+      "y chokshchy",
+      "y chokshchy",
+      "y chokshchy",
+      "y chokshchy"
+    ]
+  },
+  {
+    "word": "cthoiin",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin cthoiin",
+      "daiin cthoiin",
+      "daiin cthoiin",
+      "daiin cthoiin",
+      "daiin cthoiin"
+    ]
+  },
+  {
+    "word": "ytal",
+    "inferred_type": "noun",
+    "evidence_count": 14,
+    "examples": [
+      "or ytal",
+      "or ytal",
+      "or ytal",
+      "or ytal",
+      "or ytal"
+    ]
+  },
+  {
+    "word": "chk",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin chk",
+      "daiin chk",
+      "daiin chk",
+      "daiin chk",
+      "daiin chk"
+    ]
+  },
+  {
+    "word": "chcphy",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol chcphy",
+      "ol chcphy",
+      "ol chcphy",
+      "ol chcphy",
+      "ol chcphy"
+    ]
+  },
+  {
+    "word": "okeeor",
+    "inferred_type": "noun",
+    "evidence_count": 17,
+    "examples": [
+      "daiin okeeor",
+      "daiin okeeor",
+      "daiin okeeor",
+      "daiin okeeor",
+      "daiin okeeor"
+    ]
+  },
+  {
+    "word": "yly",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin yly",
+      "daiin yly",
+      "daiin yly",
+      "daiin yly",
+      "or yly"
+    ]
+  },
+  {
+    "word": "aiior",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol aiior",
+      "ol aiior",
+      "ol aiior",
+      "ol aiior"
+    ]
+  },
+  {
+    "word": "chcth",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y chcth",
+      "y chcth",
+      "y chcth",
+      "daiin chcth"
+    ]
+  },
+  {
+    "word": "sear",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "o sear",
+      "o sear",
+      "o sear",
+      "o sear",
+      "o sear"
+    ]
+  },
+  {
+    "word": "ocholdy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin ocholdy",
+      "daiin ocholdy",
+      "daiin ocholdy",
+      "daiin ocholdy",
+      "daiin ocholdy"
+    ]
+  },
+  {
+    "word": "qopchey",
+    "inferred_type": "noun",
+    "evidence_count": 7,
+    "examples": [
+      "daiin qopchey",
+      "daiin qopchey",
+      "daiin qopchey",
+      "daiin qopchey",
+      "daiin qopchey"
+    ]
+  },
+  {
+    "word": "dshey",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin dshey",
+      "daiin dshey",
+      "daiin dshey",
+      "daiin dshey",
+      "daiin dshey"
+    ]
+  },
+  {
+    "word": "ckhear",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin ckhear",
+      "daiin ckhear",
+      "daiin ckhear",
+      "daiin ckhear",
+      "daiin ckhear"
+    ]
+  },
+  {
+    "word": "chkear",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin chkear",
+      "daiin chkear",
+      "daiin chkear",
+      "daiin chkear",
+      "daiin chkear"
+    ]
+  },
+  {
+    "word": "qokedy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 26,
+    "examples": [
+      "o qokedy",
+      "qok qokedy",
+      "daiin qokedy",
+      "daiin qokedy",
+      "daiin qokedy"
+    ]
+  },
+  {
+    "word": "edy",
+    "inferred_type": "noun",
+    "evidence_count": 19,
+    "examples": [
+      "qok edy",
+      "o edy",
+      "ol edy",
+      "y edy",
+      "o edy"
+    ]
+  },
+  {
+    "word": "cthdy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 8,
+    "examples": [
+      "y cthdy",
+      "y cthdy",
+      "ol cthdy",
+      "ol cthdy",
+      "ol cthdy"
+    ]
+  },
+  {
+    "word": "eos",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or eos",
+      "y eos",
+      "o eos",
+      "o eos"
+    ]
+  },
+  {
+    "word": "chteor",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin chteor",
+      "daiin chteor",
+      "daiin chteor",
+      "daiin chteor"
+    ]
+  },
+  {
+    "word": "raiin",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 11,
+    "examples": [
+      "o raiin",
+      "o raiin",
+      "o raiin",
+      "o raiin",
+      "o raiin"
+    ]
+  },
+  {
+    "word": "chesey",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol chesey",
+      "ol chesey",
+      "ol chesey",
+      "ol chesey",
+      "ol chesey"
+    ]
+  },
+  {
+    "word": "chkeaiin",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin chkeaiin",
+      "daiin chkeaiin",
+      "daiin chkeaiin",
+      "daiin chkeaiin",
+      "daiin chkeaiin"
+    ]
+  },
+  {
+    "word": "ctholdy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin ctholdy",
+      "daiin ctholdy",
+      "daiin ctholdy",
+      "daiin ctholdy",
+      "daiin ctholdy"
+    ]
+  },
+  {
+    "word": "chokeor",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin chokeor",
+      "daiin chokeor",
+      "daiin chokeor",
+      "daiin chokeor",
+      "daiin chokeor"
+    ]
+  },
+  {
+    "word": "chokcheey",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol chokcheey",
+      "ol chokcheey",
+      "ol chokcheey",
+      "ol chokcheey"
+    ]
+  },
+  {
+    "word": "shedal",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin shedal",
+      "daiin shedal",
+      "daiin shedal",
+      "daiin shedal",
+      "o shedal"
+    ]
+  },
+  {
+    "word": "lkedy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 9,
+    "examples": [
+      "o lkedy",
+      "o lkedy",
+      "o lkedy",
+      "o lkedy",
+      "ol lkedy"
+    ]
+  },
+  {
+    "word": "cheef",
+    "inferred_type": "noun",
+    "evidence_count": 9,
+    "examples": [
+      "or cheef",
+      "or cheef",
+      "or cheef",
+      "or cheef",
+      "or cheef"
+    ]
+  },
+  {
+    "word": "eol",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 6,
+    "examples": [
+      "o eol",
+      "y eol",
+      "ol eol",
+      "ol eol",
+      "y eol"
+    ]
+  },
+  {
+    "word": "choddal",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin choddal",
+      "daiin choddal",
+      "daiin choddal",
+      "daiin choddal",
+      "daiin choddal"
+    ]
+  },
+  {
+    "word": "cths",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin cths",
+      "daiin cths",
+      "daiin cths",
+      "daiin cths",
+      "daiin cths"
+    ]
+  },
+  {
+    "word": "odar",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin odar",
+      "daiin odar",
+      "daiin odar",
+      "daiin odar",
+      "or odar"
+    ]
+  },
+  {
+    "word": "kedaiiin",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol kedaiiin",
+      "ol kedaiiin",
+      "ol kedaiiin",
+      "ol kedaiiin",
+      "ol kedaiiin"
+    ]
+  },
+  {
+    "word": "chdal",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "or chdal",
+      "dal chdal",
+      "dal chdal",
+      "dal chdal",
+      "dal chdal"
+    ]
+  },
+  {
+    "word": "oldar",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "or oldar",
+      "or oldar",
+      "or oldar",
+      "or oldar",
+      "or oldar"
+    ]
+  },
+  {
+    "word": "qor",
+    "inferred_type": "noun",
+    "evidence_count": 11,
+    "examples": [
+      "daiin qor",
+      "daiin qor",
+      "daiin qor",
+      "daiin qor",
+      "daiin qor"
+    ]
+  },
+  {
+    "word": "otaro",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin otaro",
+      "daiin otaro",
+      "daiin otaro",
+      "daiin otaro",
+      "daiin otaro"
+    ]
+  },
+  {
+    "word": "cphchar",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin cphchar",
+      "daiin cphchar",
+      "daiin cphchar",
+      "daiin cphchar",
+      "daiin cphchar"
+    ]
+  },
+  {
+    "word": "dys",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "dal dys",
+      "dal dys",
+      "dal dys",
+      "dal dys",
+      "dal dys"
+    ]
+  },
+  {
+    "word": "dai",
+    "inferred_type": "noun",
+    "evidence_count": 36,
+    "examples": [
+      "daiin dai",
+      "daiin dai",
+      "daiin dai",
+      "y dai",
+      "ol dai"
+    ]
+  },
+  {
+    "word": "otod",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin otod",
+      "daiin otod",
+      "daiin otod",
+      "daiin otod",
+      "daiin otod"
+    ]
+  },
+  {
+    "word": "cfhol",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin cfhol",
+      "daiin cfhol",
+      "daiin cfhol",
+      "daiin cfhol"
+    ]
+  },
+  {
+    "word": "qok",
+    "inferred_type": "noun",
+    "evidence_count": 10,
+    "examples": [
+      "daiin qok",
+      "daiin qok",
+      "dal qok",
+      "dal qok",
+      "y qok"
+    ]
+  },
+  {
+    "word": "daiiin",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin daiiin",
+      "daiin daiiin",
+      "daiin daiiin",
+      "daiin daiiin",
+      "daiin daiiin"
+    ]
+  },
+  {
+    "word": "qol",
+    "inferred_type": "noun",
+    "evidence_count": 37,
+    "examples": [
+      "daiin qol",
+      "daiin qol",
+      "daiin qol",
+      "daiin qol",
+      "daiin qol"
+    ]
+  },
+  {
+    "word": "ordy",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "or ordy",
+      "or ordy",
+      "or ordy",
+      "or ordy",
+      "or ordy"
+    ]
+  },
+  {
+    "word": "shdalo",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "y shdalo",
+      "y shdalo",
+      "y shdalo",
+      "y shdalo",
+      "y shdalo"
+    ]
+  },
+  {
+    "word": "air",
+    "inferred_type": "noun",
+    "evidence_count": 57,
+    "examples": [
+      "or air",
+      "or air",
+      "or air",
+      "or air",
+      "or air"
+    ]
+  },
+  {
+    "word": "kam",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 16,
+    "examples": [
+      "o kam",
+      "o kam",
+      "o kam",
+      "o kam",
+      "ol kam"
+    ]
+  },
+  {
+    "word": "om",
+    "inferred_type": "noun",
+    "evidence_count": 14,
+    "examples": [
+      "or om",
+      "y om",
+      "ol om",
+      "ol om",
+      "ol om"
+    ]
+  },
+  {
+    "word": "eeedy",
+    "inferred_type": "noun",
+    "evidence_count": 10,
+    "examples": [
+      "ol eeedy",
+      "ol eeedy",
+      "ol eeedy",
+      "ol eeedy",
+      "ol eeedy"
+    ]
+  },
+  {
+    "word": "chefain",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin chefain",
+      "daiin chefain",
+      "daiin chefain",
+      "daiin chefain",
+      "daiin chefain"
+    ]
+  },
+  {
+    "word": "sal",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 18,
+    "examples": [
+      "y sal",
+      "ol sal",
+      "ol sal",
+      "ol sal",
+      "ol sal"
+    ]
+  },
+  {
+    "word": "cheo",
+    "inferred_type": "noun",
+    "evidence_count": 54,
+    "examples": [
+      "daiin cheo",
+      "daiin cheo",
+      "daiin cheo",
+      "daiin cheo",
+      "daiin cheo"
+    ]
+  },
+  {
+    "word": "keedy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 61,
+    "examples": [
+      "y keedy",
+      "y keedy",
+      "y keedy",
+      "y keedy",
+      "y keedy"
+    ]
+  },
+  {
+    "word": "oteody",
+    "inferred_type": "noun",
+    "evidence_count": 11,
+    "examples": [
+      "or oteody",
+      "or oteody",
+      "or oteody",
+      "or oteody",
+      "or oteody"
+    ]
+  },
+  {
+    "word": "hol",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin hol",
+      "daiin hol",
+      "ol hol",
+      "y hol"
+    ]
+  },
+  {
+    "word": "shodody",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin shodody",
+      "daiin shodody",
+      "daiin shodody",
+      "daiin shodody",
+      "daiin shodody"
+    ]
+  },
+  {
+    "word": "poldy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 7,
+    "examples": [
+      "o poldy",
+      "o poldy",
+      "o poldy",
+      "o poldy",
+      "o poldy"
+    ]
+  },
+  {
+    "word": "shee",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 19,
+    "examples": [
+      "y shee",
+      "y shee",
+      "y shee",
+      "y shee",
+      "y shee"
+    ]
+  },
+  {
+    "word": "che",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 29,
+    "examples": [
+      "o che",
+      "or che",
+      "y che",
+      "y che",
+      "y che"
+    ]
+  },
+  {
+    "word": "dchckhy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol dchckhy",
+      "ol dchckhy",
+      "ol dchckhy",
+      "ol dchckhy",
+      "ol dchckhy"
+    ]
+  },
+  {
+    "word": "kchain",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y kchain",
+      "y kchain",
+      "y kchain",
+      "y kchain"
+    ]
+  },
+  {
+    "word": "qoaiin",
+    "inferred_type": "noun",
+    "evidence_count": 14,
+    "examples": [
+      "daiin qoaiin",
+      "daiin qoaiin",
+      "daiin qoaiin",
+      "daiin qoaiin",
+      "daiin qoaiin"
+    ]
+  },
+  {
+    "word": "ytchody",
+    "inferred_type": "noun",
+    "evidence_count": 9,
+    "examples": [
+      "daiin ytchody",
+      "daiin ytchody",
+      "daiin ytchody",
+      "daiin ytchody",
+      "daiin ytchody"
+    ]
+  },
+  {
+    "word": "shek",
+    "inferred_type": "noun",
+    "evidence_count": 16,
+    "examples": [
+      "daiin shek",
+      "daiin shek",
+      "daiin shek",
+      "daiin shek",
+      "or shek"
+    ]
+  },
+  {
+    "word": "shed",
+    "inferred_type": "noun",
+    "evidence_count": 13,
+    "examples": [
+      "dal shed",
+      "ol shed",
+      "ol shed",
+      "ol shed",
+      "ol shed"
+    ]
+  },
+  {
+    "word": "sheockhy",
+    "inferred_type": "noun",
+    "evidence_count": 10,
+    "examples": [
+      "daiin sheockhy",
+      "daiin sheockhy",
+      "daiin sheockhy",
+      "daiin sheockhy",
+      "daiin sheockhy"
+    ]
+  },
+  {
+    "word": "pchol",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "o pchol",
+      "o pchol",
+      "y pchol",
+      "y pchol"
+    ]
+  },
+  {
+    "word": "kaiir",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y kaiir",
+      "y kaiir",
+      "y kaiir",
+      "y kaiir"
+    ]
+  },
+  {
+    "word": "qokeedy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 18,
+    "examples": [
+      "y qokeedy",
+      "y qokeedy",
+      "y qokeedy",
+      "y qokeedy",
+      "y qokeedy"
+    ]
+  },
+  {
+    "word": "aickhy",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or aickhy",
+      "or aickhy",
+      "or aickhy",
+      "or aickhy"
+    ]
+  },
+  {
+    "word": "cheotar",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin cheotar",
+      "daiin cheotar",
+      "daiin cheotar",
+      "daiin cheotar",
+      "daiin cheotar"
+    ]
+  },
+  {
+    "word": "tcho",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "o tcho",
+      "y tcho",
+      "o tcho",
+      "o tcho",
+      "o tcho"
+    ]
+  },
+  {
+    "word": "yteeol",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin yteeol",
+      "daiin yteeol",
+      "daiin yteeol",
+      "daiin yteeol",
+      "daiin yteeol"
+    ]
+  },
+  {
+    "word": "eedy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 20,
+    "examples": [
+      "y eedy",
+      "y eedy",
+      "qok eedy",
+      "qok eedy",
+      "qok eedy"
+    ]
+  },
+  {
+    "word": "chedyty",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 6,
+    "examples": [
+      "y chedyty",
+      "y chedyty",
+      "y chedyty",
+      "y chedyty",
+      "y chedyty"
+    ]
+  },
+  {
+    "word": "tedy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 35,
+    "examples": [
+      "y tedy",
+      "y tedy",
+      "y tedy",
+      "y tedy",
+      "ol tedy"
+    ]
+  },
+  {
+    "word": "orai",
+    "inferred_type": "noun",
+    "evidence_count": 7,
+    "examples": [
+      "ol orai",
+      "ol orai",
+      "or orai",
+      "y orai",
+      "y orai"
+    ]
+  },
+  {
+    "word": "oraiin",
+    "inferred_type": "noun",
+    "evidence_count": 18,
+    "examples": [
+      "ol oraiin",
+      "ol oraiin",
+      "y oraiin",
+      "o oraiin",
+      "o oraiin"
+    ]
+  },
+  {
+    "word": "cheedls",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "or cheedls",
+      "or cheedls",
+      "or cheedls",
+      "or cheedls",
+      "or cheedls"
+    ]
+  },
+  {
+    "word": "dor",
+    "inferred_type": "noun",
+    "evidence_count": 18,
+    "examples": [
+      "daiin dor",
+      "daiin dor",
+      "daiin dor",
+      "daiin dor",
+      "daiin dor"
+    ]
+  },
+  {
+    "word": "keeey",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y keeey",
+      "y keeey",
+      "y keeey",
+      "ol keeey"
+    ]
+  },
+  {
+    "word": "ee",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 10,
+    "examples": [
+      "y ee",
+      "o ee",
+      "o ee",
+      "o ee",
+      "o ee"
+    ]
+  },
+  {
+    "word": "tcheol",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "y tcheol",
+      "y tcheol",
+      "y tcheol",
+      "y tcheol",
+      "y tcheol"
+    ]
+  },
+  {
+    "word": "cthodd",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin cthodd",
+      "daiin cthodd",
+      "daiin cthodd",
+      "daiin cthodd",
+      "daiin cthodd"
+    ]
+  },
+  {
+    "word": "shoqoky",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "o shoqoky",
+      "o shoqoky",
+      "o shoqoky",
+      "o shoqoky",
+      "o shoqoky"
+    ]
+  },
+  {
+    "word": "koddy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "y koddy",
+      "y koddy",
+      "y koddy",
+      "y koddy",
+      "y koddy"
+    ]
+  },
+  {
+    "word": "qotchar",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin qotchar",
+      "daiin qotchar",
+      "daiin qotchar",
+      "daiin qotchar",
+      "daiin qotchar"
+    ]
+  },
+  {
+    "word": "ochokeey",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y ochokeey",
+      "y ochokeey",
+      "y ochokeey",
+      "y ochokeey"
+    ]
+  },
+  {
+    "word": "qokg",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin qokg",
+      "daiin qokg",
+      "daiin qokg",
+      "daiin qokg"
+    ]
+  },
+  {
+    "word": "keodaiin",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol keodaiin",
+      "ol keodaiin",
+      "ol keodaiin",
+      "ol keodaiin",
+      "ol keodaiin"
+    ]
+  },
+  {
+    "word": "kchedy",
+    "inferred_type": "noun",
+    "evidence_count": 18,
+    "examples": [
+      "ol kchedy",
+      "ol kchedy",
+      "ol kchedy",
+      "ol kchedy",
+      "ol kchedy"
+    ]
+  },
+  {
+    "word": "dchody",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "y dchody",
+      "y dchody",
+      "y dchody",
+      "y dchody",
+      "y dchody"
+    ]
+  },
+  {
+    "word": "ykald",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin ykald",
+      "daiin ykald",
+      "daiin ykald",
+      "daiin ykald"
+    ]
+  },
+  {
+    "word": "ykeoldy",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin ykeoldy",
+      "daiin ykeoldy",
+      "daiin ykeoldy",
+      "daiin ykeoldy",
+      "daiin ykeoldy"
+    ]
+  },
+  {
+    "word": "aldy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "or aldy",
+      "or aldy",
+      "or aldy",
+      "or aldy",
+      "or aldy"
+    ]
+  },
+  {
+    "word": "ckh",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin ckh",
+      "daiin ckh",
+      "daiin ckh",
+      "daiin ckh",
+      "daiin ckh"
+    ]
+  },
+  {
+    "word": "ypchy",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin ypchy",
+      "daiin ypchy",
+      "daiin ypchy",
+      "daiin ypchy",
+      "daiin ypchy"
+    ]
+  },
+  {
+    "word": "shedaiin",
+    "inferred_type": "noun",
+    "evidence_count": 9,
+    "examples": [
+      "daiin shedaiin",
+      "daiin shedaiin",
+      "daiin shedaiin",
+      "daiin shedaiin",
+      "daiin shedaiin"
+    ]
+  },
+  {
+    "word": "qopchy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin qopchy",
+      "daiin qopchy",
+      "daiin qopchy",
+      "daiin qopchy",
+      "daiin qopchy"
+    ]
+  },
+  {
+    "word": "sheekol",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin sheekol",
+      "daiin sheekol",
+      "daiin sheekol",
+      "daiin sheekol",
+      "daiin sheekol"
+    ]
+  },
+  {
+    "word": "qockhor",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin qockhor",
+      "daiin qockhor",
+      "daiin qockhor",
+      "daiin qockhor",
+      "daiin qockhor"
+    ]
+  },
+  {
+    "word": "ctheody",
+    "inferred_type": "noun",
+    "evidence_count": 11,
+    "examples": [
+      "daiin ctheody",
+      "daiin ctheody",
+      "daiin ctheody",
+      "daiin ctheody",
+      "daiin ctheody"
+    ]
+  },
+  {
+    "word": "koldy",
+    "inferred_type": "noun",
+    "evidence_count": 9,
+    "examples": [
+      "ol koldy",
+      "ol koldy",
+      "ol koldy",
+      "ol koldy",
+      "ol koldy"
+    ]
+  },
+  {
+    "word": "qocthy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "dal qocthy",
+      "dal qocthy",
+      "dal qocthy",
+      "dal qocthy",
+      "dal qocthy"
+    ]
+  },
+  {
+    "word": "arod",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "or arod",
+      "or arod",
+      "or arod",
+      "or arod",
+      "or arod"
+    ]
+  },
+  {
+    "word": "orol",
+    "inferred_type": "noun",
+    "evidence_count": 12,
+    "examples": [
+      "or orol",
+      "or orol",
+      "or orol",
+      "or orol",
+      "or orol"
+    ]
+  },
+  {
+    "word": "qoko",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "dal qoko",
+      "dal qoko",
+      "dal qoko",
+      "dal qoko",
+      "dal qoko"
+    ]
+  },
+  {
+    "word": "dodyd",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin dodyd",
+      "daiin dodyd",
+      "daiin dodyd",
+      "daiin dodyd",
+      "daiin dodyd"
+    ]
+  },
+  {
+    "word": "ykair",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin ykair",
+      "daiin ykair",
+      "daiin ykair",
+      "daiin ykair",
+      "daiin ykair"
+    ]
+  },
+  {
+    "word": "eey",
+    "inferred_type": "noun",
+    "evidence_count": 35,
+    "examples": [
+      "qok eey",
+      "o eey",
+      "o eey",
+      "o eey",
+      "o eey"
+    ]
+  },
+  {
+    "word": "choror",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol choror",
+      "ol choror",
+      "or choror",
+      "or choror",
+      "or choror"
+    ]
+  },
+  {
+    "word": "choteeey",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin choteeey",
+      "daiin choteeey",
+      "daiin choteeey",
+      "daiin choteeey",
+      "daiin choteeey"
+    ]
+  },
+  {
+    "word": "deey",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin deey",
+      "daiin deey",
+      "daiin deey",
+      "daiin deey",
+      "daiin deey"
+    ]
+  },
+  {
+    "word": "tai",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 6,
+    "examples": [
+      "y tai",
+      "ol tai",
+      "ol tai",
+      "ol tai",
+      "ol tai"
+    ]
+  },
+  {
+    "word": "cheeo",
+    "inferred_type": "noun",
+    "evidence_count": 15,
+    "examples": [
+      "daiin cheeo",
+      "daiin cheeo",
+      "daiin cheeo",
+      "daiin cheeo",
+      "daiin cheeo"
+    ]
+  },
+  {
+    "word": "qoked",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal qoked",
+      "dal qoked",
+      "dal qoked",
+      "o qoked"
+    ]
+  },
+  {
+    "word": "rkedam",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "o rkedam",
+      "o rkedam",
+      "o rkedam",
+      "o rkedam",
+      "o rkedam"
+    ]
+  },
+  {
+    "word": "sholalam",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal sholalam",
+      "dal sholalam",
+      "dal sholalam",
+      "dal sholalam"
+    ]
+  },
+  {
+    "word": "qoar",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin qoar",
+      "daiin qoar",
+      "daiin qoar",
+      "daiin qoar"
+    ]
+  },
+  {
+    "word": "ealam",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin ealam",
+      "daiin ealam",
+      "daiin ealam",
+      "daiin ealam"
+    ]
+  },
+  {
+    "word": "choldy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "dal choldy",
+      "dal choldy",
+      "dal choldy",
+      "dal choldy",
+      "y choldy"
+    ]
+  },
+  {
+    "word": "qokaldy",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal qokaldy",
+      "dal qokaldy",
+      "dal qokaldy",
+      "dal qokaldy"
+    ]
+  },
+  {
+    "word": "qoai",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "dal qoai",
+      "dal qoai",
+      "y qoai",
+      "y qoai",
+      "y qoai"
+    ]
+  },
+  {
+    "word": "oteeoaly",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 7,
+    "examples": [
+      "y oteeoaly",
+      "y oteeoaly",
+      "daiin oteeoaly",
+      "daiin oteeoaly",
+      "daiin oteeoaly"
+    ]
+  },
+  {
+    "word": "okals",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal okals",
+      "dal okals",
+      "dal okals",
+      "dal okals"
+    ]
+  },
+  {
+    "word": "tal",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 7,
+    "examples": [
+      "y tal",
+      "y tal",
+      "dal tal",
+      "y tal",
+      "y tal"
+    ]
+  },
+  {
+    "word": "ir",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "qok ir",
+      "or ir",
+      "or ir",
+      "o ir"
+    ]
+  },
+  {
+    "word": "qokal",
+    "inferred_type": "noun",
+    "evidence_count": 30,
+    "examples": [
+      "daiin qokal",
+      "daiin qokal",
+      "daiin qokal",
+      "daiin qokal",
+      "y qokal"
+    ]
+  },
+  {
+    "word": "kcheeky",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol kcheeky",
+      "ol kcheeky",
+      "ol kcheeky",
+      "ol kcheeky",
+      "ol kcheeky"
+    ]
+  },
+  {
+    "word": "ota",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin ota",
+      "daiin ota",
+      "daiin ota",
+      "daiin ota",
+      "or ota"
+    ]
+  },
+  {
+    "word": "dorshefy",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal dorshefy",
+      "dal dorshefy",
+      "dal dorshefy",
+      "dal dorshefy"
+    ]
+  },
+  {
+    "word": "ko",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "dal ko",
+      "dal ko",
+      "dal ko",
+      "dal ko",
+      "y ko"
+    ]
+  },
+  {
+    "word": "chekal",
+    "inferred_type": "noun",
+    "evidence_count": 11,
+    "examples": [
+      "dal chekal",
+      "dal chekal",
+      "dal chekal",
+      "dal chekal",
+      "dal chekal"
+    ]
+  },
+  {
+    "word": "tchdy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 9,
+    "examples": [
+      "y tchdy",
+      "y tchdy",
+      "y tchdy",
+      "y tchdy",
+      "ol tchdy"
+    ]
+  },
+  {
+    "word": "aiir",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 7,
+    "examples": [
+      "o aiir",
+      "dal aiir",
+      "dal aiir",
+      "dal aiir",
+      "dal aiir"
+    ]
+  },
+  {
+    "word": "aii",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 17,
+    "examples": [
+      "o aii",
+      "or aii",
+      "or aii",
+      "or aii",
+      "or aii"
+    ]
+  },
+  {
+    "word": "oteodaiin",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol oteodaiin",
+      "ol oteodaiin",
+      "ol oteodaiin",
+      "ol oteodaiin"
+    ]
+  },
+  {
+    "word": "choteoky",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y choteoky",
+      "y choteoky",
+      "y choteoky",
+      "y choteoky"
+    ]
+  },
+  {
+    "word": "eetees",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin eetees",
+      "daiin eetees",
+      "daiin eetees",
+      "daiin eetees"
+    ]
+  },
+  {
+    "word": "grove",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 15,
+    "examples": [
+      "y grove",
+      "dal grove",
+      "or grove",
+      "daiin grove",
+      "ol grove"
+    ]
+  },
+  {
+    "word": "taedaiin",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin taedaiin",
+      "daiin taedaiin",
+      "daiin taedaiin",
+      "daiin taedaiin"
+    ]
+  },
+  {
+    "word": "ypcheg",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin ypcheg",
+      "daiin ypcheg",
+      "daiin ypcheg",
+      "daiin ypcheg",
+      "daiin ypcheg"
+    ]
+  },
+  {
+    "word": "aral",
+    "inferred_type": "noun",
+    "evidence_count": 15,
+    "examples": [
+      "or aral",
+      "or aral",
+      "or aral",
+      "or aral",
+      "or aral"
+    ]
+  },
+  {
+    "word": "oteeody",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin oteeody",
+      "daiin oteeody",
+      "daiin oteeody",
+      "daiin oteeody",
+      "daiin oteeody"
+    ]
+  },
+  {
+    "word": "ry",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "o ry",
+      "y ry",
+      "or ry",
+      "o ry"
+    ]
+  },
+  {
+    "word": "crease",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 36,
+    "examples": [
+      "o crease",
+      "o crease",
+      "daiin crease",
+      "daiin crease",
+      "daiin crease"
+    ]
+  },
+  {
+    "word": "cthyd",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "o cthyd",
+      "o cthyd",
+      "o cthyd",
+      "o cthyd",
+      "o cthyd"
+    ]
+  },
+  {
+    "word": "chydy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y chydy",
+      "y chydy",
+      "y chydy",
+      "y chydy"
+    ]
+  },
+  {
+    "word": "keeepol",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y keeepol",
+      "y keeepol",
+      "y keeepol",
+      "y keeepol"
+    ]
+  },
+  {
+    "word": "pchy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "y pchy",
+      "y pchy",
+      "y pchy",
+      "y pchy",
+      "y pchy"
+    ]
+  },
+  {
+    "word": "chos",
+    "inferred_type": "noun",
+    "evidence_count": 7,
+    "examples": [
+      "or chos",
+      "or chos",
+      "or chos",
+      "or chos",
+      "or chos"
+    ]
+  },
+  {
+    "word": "eo",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 12,
+    "examples": [
+      "o eo",
+      "o eo",
+      "o eo",
+      "o eo",
+      "o eo"
+    ]
+  },
+  {
+    "word": "otolam",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin otolam",
+      "daiin otolam",
+      "daiin otolam",
+      "daiin otolam",
+      "daiin otolam"
+    ]
+  },
+  {
+    "word": "kee",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 7,
+    "examples": [
+      "o kee",
+      "o kee",
+      "o kee",
+      "ol kee",
+      "ol kee"
+    ]
+  },
+  {
+    "word": "ykady",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "dal ykady",
+      "dal ykady",
+      "dal ykady",
+      "dal ykady",
+      "dal ykady"
+    ]
+  },
+  {
+    "word": "chopcheopchy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "o chopcheopchy",
+      "o chopcheopchy",
+      "o chopcheopchy",
+      "o chopcheopchy",
+      "o chopcheopchy"
+    ]
+  },
+  {
+    "word": "sai",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y sai",
+      "y sai",
+      "o sai",
+      "o sai"
+    ]
+  },
+  {
+    "word": "oteod",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y oteod",
+      "y oteod",
+      "y oteod",
+      "y oteod"
+    ]
+  },
+  {
+    "word": "teedy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 9,
+    "examples": [
+      "o teedy",
+      "o teedy",
+      "o teedy",
+      "o teedy",
+      "o teedy"
+    ]
+  },
+  {
+    "word": "chotal",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol chotal",
+      "daiin chotal",
+      "daiin chotal",
+      "daiin chotal",
+      "daiin chotal"
+    ]
+  },
+  {
+    "word": "fold",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 24,
+    "examples": [
+      "y fold",
+      "or fold",
+      "or fold",
+      "or fold",
+      "or fold"
+    ]
+  },
+  {
+    "word": "was",
+    "inferred_type": "noun",
+    "evidence_count": 7,
+    "examples": [
+      "dal was",
+      "ol was",
+      "y was",
+      "y was",
+      "y was"
+    ]
+  },
+  {
+    "word": "qoteeal",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "o qoteeal",
+      "o qoteeal",
+      "o qoteeal",
+      "o qoteeal",
+      "o qoteeal"
+    ]
+  },
+  {
+    "word": "ykeody",
+    "inferred_type": "noun",
+    "evidence_count": 7,
+    "examples": [
+      "daiin ykeody",
+      "daiin ykeody",
+      "daiin ykeody",
+      "daiin ykeody",
+      "daiin ykeody"
+    ]
+  },
+  {
+    "word": "oteokeey",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin oteokeey",
+      "daiin oteokeey",
+      "daiin oteokeey",
+      "daiin oteokeey"
+    ]
+  },
+  {
+    "word": "arol",
+    "inferred_type": "noun",
+    "evidence_count": 11,
+    "examples": [
+      "or arol",
+      "or arol",
+      "or arol",
+      "or arol",
+      "or arol"
+    ]
+  },
+  {
+    "word": "qota",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "o qota",
+      "ol qota",
+      "ol qota",
+      "ol qota"
+    ]
+  },
+  {
+    "word": "okeeo",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 7,
+    "examples": [
+      "o okeeo",
+      "ol okeeo",
+      "ol okeeo",
+      "ol okeeo",
+      "ol okeeo"
+    ]
+  },
+  {
+    "word": "alkam",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or alkam",
+      "or alkam",
+      "or alkam",
+      "or alkam"
+    ]
+  },
+  {
+    "word": "okeeey",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 11,
+    "examples": [
+      "y okeeey",
+      "y okeeey",
+      "daiin okeeey",
+      "daiin okeeey",
+      "daiin okeeey"
+    ]
+  },
+  {
+    "word": "cholairy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y cholairy",
+      "y cholairy",
+      "y cholairy",
+      "y cholairy"
+    ]
+  },
+  {
+    "word": "okeeol",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y okeeol",
+      "y okeeol",
+      "y okeeol",
+      "y okeeol"
+    ]
+  },
+  {
+    "word": "cs",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "o cs",
+      "o cs",
+      "o cs",
+      "o cs"
+    ]
+  },
+  {
+    "word": "gap",
+    "inferred_type": "noun",
+    "evidence_count": 8,
+    "examples": [
+      "dal gap",
+      "dal gap",
+      "o gap",
+      "o gap",
+      "o gap"
+    ]
+  },
+  {
+    "word": "shal",
+    "inferred_type": "noun",
+    "evidence_count": 25,
+    "examples": [
+      "dal shal",
+      "dal shal",
+      "dal shal",
+      "dal shal",
+      "y shal"
+    ]
+  },
+  {
+    "word": "qoly",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol qoly",
+      "ol qoly",
+      "ol qoly",
+      "ol qoly",
+      "ol qoly"
+    ]
+  },
+  {
+    "word": "ychey",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y ychey",
+      "y ychey",
+      "y ychey",
+      "y ychey"
+    ]
+  },
+  {
+    "word": "rd",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 7,
+    "examples": [
+      "y rd",
+      "y rd",
+      "y rd",
+      "y rd",
+      "y rd"
+    ]
+  },
+  {
+    "word": "sheeky",
+    "inferred_type": "noun",
+    "evidence_count": 13,
+    "examples": [
+      "daiin sheeky",
+      "or sheeky",
+      "or sheeky",
+      "or sheeky",
+      "or sheeky"
+    ]
+  },
+  {
+    "word": "in",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol in",
+      "ol in",
+      "o in",
+      "o in",
+      "qok in"
+    ]
+  },
+  {
+    "word": "shd",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "dal shd",
+      "dal shd",
+      "dal shd",
+      "dal shd",
+      "dal shd"
+    ]
+  },
+  {
+    "word": "sheolo",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "or sheolo",
+      "or sheolo",
+      "or sheolo",
+      "or sheolo",
+      "or sheolo"
+    ]
+  },
+  {
+    "word": "chesy",
+    "inferred_type": "noun",
+    "evidence_count": 7,
+    "examples": [
+      "or chesy",
+      "or chesy",
+      "or chesy",
+      "or chesy",
+      "or chesy"
+    ]
+  },
+  {
+    "word": "qokai",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 12,
+    "examples": [
+      "y qokai",
+      "y qokai",
+      "y qokai",
+      "y qokai",
+      "y qokai"
+    ]
+  },
+  {
+    "word": "cheedy",
+    "inferred_type": "noun",
+    "evidence_count": 53,
+    "examples": [
+      "ol cheedy",
+      "ol cheedy",
+      "daiin cheedy",
+      "daiin cheedy",
+      "daiin cheedy"
+    ]
+  },
+  {
+    "word": "chkarol",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "or chkarol",
+      "or chkarol",
+      "or chkarol",
+      "or chkarol",
+      "or chkarol"
+    ]
+  },
+  {
+    "word": "dcheedy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "o dcheedy",
+      "o dcheedy",
+      "o dcheedy",
+      "o dcheedy"
+    ]
+  },
+  {
+    "word": "chdyl",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "qok chdyl",
+      "qok chdyl",
+      "qok chdyl",
+      "qok chdyl",
+      "qok chdyl"
+    ]
+  },
+  {
+    "word": "okain",
+    "inferred_type": "noun",
+    "evidence_count": 9,
+    "examples": [
+      "or okain",
+      "or okain",
+      "or okain",
+      "or okain",
+      "or okain"
+    ]
+  },
+  {
+    "word": "sheed",
+    "inferred_type": "noun",
+    "evidence_count": 15,
+    "examples": [
+      "ol sheed",
+      "ol sheed",
+      "ol sheed",
+      "ol sheed",
+      "ol sheed"
+    ]
+  },
+  {
+    "word": "chedor",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol chedor",
+      "ol chedor",
+      "ol chedor",
+      "ol chedor",
+      "ol chedor"
+    ]
+  },
+  {
+    "word": "oekeedy",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin oekeedy",
+      "daiin oekeedy",
+      "daiin oekeedy",
+      "daiin oekeedy",
+      "daiin oekeedy"
+    ]
+  },
+  {
+    "word": "olkedy",
+    "inferred_type": "noun",
+    "evidence_count": 18,
+    "examples": [
+      "daiin olkedy",
+      "daiin olkedy",
+      "daiin olkedy",
+      "daiin olkedy",
+      "daiin olkedy"
+    ]
+  },
+  {
+    "word": "ro",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal ro",
+      "dal ro",
+      "dal ro",
+      "dal ro"
+    ]
+  },
+  {
+    "word": "oiiin",
+    "inferred_type": "noun",
+    "evidence_count": 10,
+    "examples": [
+      "ol oiiin",
+      "ol oiiin",
+      "ol oiiin",
+      "ol oiiin",
+      "ol oiiin"
+    ]
+  },
+  {
+    "word": "chealor",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol chealor",
+      "ol chealor",
+      "ol chealor",
+      "ol chealor",
+      "ol chealor"
+    ]
+  },
+  {
+    "word": "chlchpsheey",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin chlchpsheey",
+      "daiin chlchpsheey",
+      "daiin chlchpsheey",
+      "daiin chlchpsheey",
+      "daiin chlchpsheey"
+    ]
+  },
+  {
+    "word": "saiirol",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal saiirol",
+      "dal saiirol",
+      "dal saiirol",
+      "dal saiirol"
+    ]
+  },
+  {
+    "word": "sheekey",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin sheekey",
+      "daiin sheekey",
+      "daiin sheekey",
+      "daiin sheekey",
+      "daiin sheekey"
+    ]
+  },
+  {
+    "word": "dail",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin dail",
+      "daiin dail",
+      "daiin dail",
+      "daiin dail",
+      "daiin dail"
+    ]
+  },
+  {
+    "word": "chckhdy",
+    "inferred_type": "noun",
+    "evidence_count": 16,
+    "examples": [
+      "or chckhdy",
+      "or chckhdy",
+      "or chckhdy",
+      "or chckhdy",
+      "or chckhdy"
+    ]
+  },
+  {
+    "word": "okeed",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "or okeed",
+      "or okeed",
+      "or okeed",
+      "or okeed",
+      "or okeed"
+    ]
+  },
+  {
+    "word": "alory",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "or alory",
+      "or alory",
+      "or alory",
+      "or alory",
+      "or alory"
+    ]
+  },
+  {
+    "word": "kchdy",
+    "inferred_type": "noun",
+    "evidence_count": 17,
+    "examples": [
+      "ol kchdy",
+      "ol kchdy",
+      "ol kchdy",
+      "ol kchdy",
+      "ol kchdy"
+    ]
+  },
+  {
+    "word": "rai",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 12,
+    "examples": [
+      "o rai",
+      "o rai",
+      "o rai",
+      "daiin rai",
+      "daiin rai"
+    ]
+  },
+  {
+    "word": "old",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol old",
+      "o old",
+      "or old",
+      "or old",
+      "or old"
+    ]
+  },
+  {
+    "word": "sain",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 6,
+    "examples": [
+      "y sain",
+      "y sain",
+      "y sain",
+      "y sain",
+      "y sain"
+    ]
+  },
+  {
+    "word": "tees",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 6,
+    "examples": [
+      "y tees",
+      "y tees",
+      "y tees",
+      "y tees",
+      "y tees"
+    ]
+  },
+  {
+    "word": "eesey",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol eesey",
+      "ol eesey",
+      "ol eesey",
+      "ol eesey",
+      "ol eesey"
+    ]
+  },
+  {
+    "word": "chedol",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol chedol",
+      "ol chedol",
+      "ol chedol",
+      "ol chedol",
+      "ol chedol"
+    ]
+  },
+  {
+    "word": "okalor",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol okalor",
+      "ol okalor",
+      "ol okalor",
+      "ol okalor",
+      "ol okalor"
+    ]
+  },
+  {
+    "word": "sheckhedy",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "or sheckhedy",
+      "or sheckhedy",
+      "or sheckhedy",
+      "or sheckhedy",
+      "or sheckhedy"
+    ]
+  },
+  {
+    "word": "shealdy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 6,
+    "examples": [
+      "y shealdy",
+      "y shealdy",
+      "y shealdy",
+      "y shealdy",
+      "y shealdy"
+    ]
+  },
+  {
+    "word": "aror",
+    "inferred_type": "noun",
+    "evidence_count": 10,
+    "examples": [
+      "or aror",
+      "or aror",
+      "or aror",
+      "or aror",
+      "or aror"
+    ]
+  },
+  {
+    "word": "ls",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 10,
+    "examples": [
+      "y ls",
+      "y ls",
+      "daiin ls",
+      "daiin ls",
+      "daiin ls"
+    ]
+  },
+  {
+    "word": "khy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "o khy",
+      "o khy",
+      "o khy",
+      "o khy",
+      "y khy"
+    ]
+  },
+  {
+    "word": "tshedy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "o tshedy",
+      "o tshedy",
+      "y tshedy",
+      "o tshedy",
+      "o tshedy"
+    ]
+  },
+  {
+    "word": "ory",
+    "inferred_type": "noun",
+    "evidence_count": 13,
+    "examples": [
+      "ol ory",
+      "ol ory",
+      "ol ory",
+      "ol ory",
+      "ol ory"
+    ]
+  },
+  {
+    "word": "chkam",
+    "inferred_type": "noun",
+    "evidence_count": 8,
+    "examples": [
+      "daiin chkam",
+      "daiin chkam",
+      "daiin chkam",
+      "daiin chkam",
+      "daiin chkam"
+    ]
+  },
+  {
+    "word": "olorol",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "or olorol",
+      "or olorol",
+      "or olorol",
+      "or olorol",
+      "or olorol"
+    ]
+  },
+  {
+    "word": "olshdy",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol olshdy",
+      "ol olshdy",
+      "ol olshdy",
+      "ol olshdy",
+      "ol olshdy"
+    ]
+  },
+  {
+    "word": "ykeedy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 19,
+    "examples": [
+      "o ykeedy",
+      "o ykeedy",
+      "o ykeedy",
+      "o ykeedy",
+      "or ykeedy"
+    ]
+  },
+  {
+    "word": "ocheey",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "or ocheey",
+      "or ocheey",
+      "or ocheey",
+      "or ocheey",
+      "or ocheey"
+    ]
+  },
+  {
+    "word": "keeedy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "o keeedy",
+      "o keeedy",
+      "o keeedy",
+      "o keeedy"
+    ]
+  },
+  {
+    "word": "yteey",
+    "inferred_type": "noun",
+    "evidence_count": 7,
+    "examples": [
+      "or yteey",
+      "or yteey",
+      "or yteey",
+      "or yteey",
+      "or yteey"
+    ]
+  },
+  {
+    "word": "olkar",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol olkar",
+      "ol olkar",
+      "ol olkar",
+      "ol olkar"
+    ]
+  },
+  {
+    "word": "olkai",
+    "inferred_type": "noun",
+    "evidence_count": 17,
+    "examples": [
+      "ol olkai",
+      "ol olkai",
+      "ol olkai",
+      "ol olkai",
+      "ol olkai"
+    ]
+  },
+  {
+    "word": "korchy",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "dal korchy",
+      "dal korchy",
+      "dal korchy",
+      "dal korchy",
+      "dal korchy"
+    ]
+  },
+  {
+    "word": "qockhey",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol qockhey",
+      "ol qockhey",
+      "ol qockhey",
+      "ol qockhey",
+      "ol qockhey"
+    ]
+  },
+  {
+    "word": "thy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "o thy",
+      "o thy",
+      "o thy",
+      "o thy"
+    ]
+  },
+  {
+    "word": "rchey",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 7,
+    "examples": [
+      "y rchey",
+      "y rchey",
+      "y rchey",
+      "y rchey",
+      "y rchey"
+    ]
+  },
+  {
+    "word": "oltaiin",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal oltaiin",
+      "dal oltaiin",
+      "dal oltaiin",
+      "dal oltaiin"
+    ]
+  },
+  {
+    "word": "keeol",
+    "inferred_type": "noun",
+    "evidence_count": 13,
+    "examples": [
+      "ol keeol",
+      "ol keeol",
+      "ol keeol",
+      "ol keeol",
+      "ol keeol"
+    ]
+  },
+  {
+    "word": "rol",
+    "inferred_type": "noun",
+    "evidence_count": 7,
+    "examples": [
+      "or rol",
+      "ol rol",
+      "ol rol",
+      "ol rol",
+      "ol rol"
+    ]
+  },
+  {
+    "word": "oltai",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol oltai",
+      "ol oltai",
+      "ol oltai",
+      "ol oltai"
+    ]
+  },
+  {
+    "word": "eses",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol eses",
+      "ol eses",
+      "ol eses",
+      "ol eses"
+    ]
+  },
+  {
+    "word": "oraiiin",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or oraiiin",
+      "or oraiiin",
+      "or oraiiin",
+      "or oraiiin"
+    ]
+  },
+  {
+    "word": "qokeedal",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin qokeedal",
+      "daiin qokeedal",
+      "daiin qokeedal",
+      "daiin qokeedal",
+      "daiin qokeedal"
+    ]
+  },
+  {
+    "word": "shchey",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 6,
+    "examples": [
+      "y shchey",
+      "y shchey",
+      "y shchey",
+      "y shchey",
+      "y shchey"
+    ]
+  },
+  {
+    "word": "cheoky",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin cheoky",
+      "daiin cheoky",
+      "daiin cheoky",
+      "daiin cheoky"
+    ]
+  },
+  {
+    "word": "rsheedy",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol rsheedy",
+      "ol rsheedy",
+      "ol rsheedy",
+      "ol rsheedy",
+      "ol rsheedy"
+    ]
+  },
+  {
+    "word": "khey",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol khey",
+      "y khey",
+      "y khey",
+      "y khey",
+      "y khey"
+    ]
+  },
+  {
+    "word": "olshedy",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal olshedy",
+      "dal olshedy",
+      "dal olshedy",
+      "dal olshedy"
+    ]
+  },
+  {
+    "word": "lal",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "y lal",
+      "ol lal",
+      "ol lal",
+      "ol lal",
+      "ol lal"
+    ]
+  },
+  {
+    "word": "shalsy",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol shalsy",
+      "ol shalsy",
+      "ol shalsy",
+      "ol shalsy",
+      "ol shalsy"
+    ]
+  },
+  {
+    "word": "roiiin",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "o roiiin",
+      "o roiiin",
+      "o roiiin",
+      "o roiiin"
+    ]
+  },
+  {
+    "word": "pchedar",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol pchedar",
+      "ol pchedar",
+      "ol pchedar",
+      "ol pchedar",
+      "ol pchedar"
+    ]
+  },
+  {
+    "word": "shetar",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin shetar",
+      "daiin shetar",
+      "daiin shetar",
+      "daiin shetar",
+      "daiin shetar"
+    ]
+  },
+  {
+    "word": "chcthdy",
+    "inferred_type": "noun",
+    "evidence_count": 8,
+    "examples": [
+      "ol chcthdy",
+      "ol chcthdy",
+      "ol chcthdy",
+      "ol chcthdy",
+      "ol chcthdy"
+    ]
+  },
+  {
+    "word": "cheeaiin",
+    "inferred_type": "noun",
+    "evidence_count": 8,
+    "examples": [
+      "dal cheeaiin",
+      "dal cheeaiin",
+      "dal cheeaiin",
+      "dal cheeaiin",
+      "or cheeaiin"
+    ]
+  },
+  {
+    "word": "shekar",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "or shekar",
+      "or shekar",
+      "or shekar",
+      "or shekar",
+      "or shekar"
+    ]
+  },
+  {
+    "word": "yqokai",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol yqokai",
+      "ol yqokai",
+      "ol yqokai",
+      "ol yqokai",
+      "ol yqokai"
+    ]
+  },
+  {
+    "word": "qofchedy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 6,
+    "examples": [
+      "o qofchedy",
+      "o qofchedy",
+      "o qofchedy",
+      "o qofchedy",
+      "o qofchedy"
+    ]
+  },
+  {
+    "word": "keed",
+    "inferred_type": "noun",
+    "evidence_count": 11,
+    "examples": [
+      "ol keed",
+      "ol keed",
+      "ol keed",
+      "ol keed",
+      "o keed"
+    ]
+  },
+  {
+    "word": "chckhedy",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin chckhedy",
+      "daiin chckhedy",
+      "daiin chckhedy",
+      "daiin chckhedy"
+    ]
+  },
+  {
+    "word": "qokechy",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin qokechy",
+      "daiin qokechy",
+      "daiin qokechy",
+      "daiin qokechy"
+    ]
+  },
+  {
+    "word": "shdair",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol shdair",
+      "ol shdair",
+      "ol shdair",
+      "ol shdair"
+    ]
+  },
+  {
+    "word": "keeo",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol keeo",
+      "ol keeo",
+      "ol keeo",
+      "ol keeo"
+    ]
+  },
+  {
+    "word": "shshdar",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or shshdar",
+      "or shshdar",
+      "or shshdar",
+      "or shshdar"
+    ]
+  },
+  {
+    "word": "karar",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol karar",
+      "ol karar",
+      "ol karar",
+      "ol karar"
+    ]
+  },
+  {
+    "word": "cphedy",
+    "inferred_type": "noun",
+    "evidence_count": 10,
+    "examples": [
+      "dal cphedy",
+      "dal cphedy",
+      "dal cphedy",
+      "dal cphedy",
+      "daiin cphedy"
+    ]
+  },
+  {
+    "word": "fros",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 15,
+    "examples": [
+      "o fros",
+      "o fros",
+      "o fros",
+      "daiin fros",
+      "daiin fros"
+    ]
+  },
+  {
+    "word": "eor",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin eor",
+      "daiin eor",
+      "daiin eor",
+      "y eor"
+    ]
+  },
+  {
+    "word": "oteed",
+    "inferred_type": "noun",
+    "evidence_count": 10,
+    "examples": [
+      "or oteed",
+      "or oteed",
+      "or oteed",
+      "or oteed",
+      "daiin oteed"
+    ]
+  },
+  {
+    "word": "es",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "o es",
+      "o es",
+      "o es",
+      "o es"
+    ]
+  },
+  {
+    "word": "keeod",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol keeod",
+      "ol keeod",
+      "ol keeod",
+      "ol keeod",
+      "ol keeod"
+    ]
+  },
+  {
+    "word": "yy",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol yy",
+      "ol yy",
+      "ol yy",
+      "ol yy",
+      "ol yy"
+    ]
+  },
+  {
+    "word": "otshey",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or otshey",
+      "or otshey",
+      "or otshey",
+      "or otshey"
+    ]
+  },
+  {
+    "word": "olkal",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or olkal",
+      "or olkal",
+      "or olkal",
+      "or olkal"
+    ]
+  },
+  {
+    "word": "chcphar",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or chcphar",
+      "or chcphar",
+      "or chcphar",
+      "or chcphar"
+    ]
+  },
+  {
+    "word": "checfhy",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or checfhy",
+      "or checfhy",
+      "or checfhy",
+      "or checfhy"
+    ]
+  },
+  {
+    "word": "olteody",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin olteody",
+      "daiin olteody",
+      "daiin olteody",
+      "daiin olteody"
+    ]
+  },
+  {
+    "word": "kshd",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal kshd",
+      "dal kshd",
+      "dal kshd",
+      "dal kshd"
+    ]
+  },
+  {
+    "word": "shdaiin",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal shdaiin",
+      "dal shdaiin",
+      "dal shdaiin",
+      "dal shdaiin"
+    ]
+  },
+  {
+    "word": "chsky",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol chsky",
+      "ol chsky",
+      "ol chsky",
+      "ol chsky"
+    ]
+  },
+  {
+    "word": "kaly",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal kaly",
+      "dal kaly",
+      "dal kaly",
+      "dal kaly"
+    ]
+  },
+  {
+    "word": "ytdar",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or ytdar",
+      "or ytdar",
+      "or ytdar",
+      "or ytdar"
+    ]
+  },
+  {
+    "word": "airody",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "or airody",
+      "or airody",
+      "or airody",
+      "or airody",
+      "o airody"
+    ]
+  },
+  {
+    "word": "odaiin",
+    "inferred_type": "noun",
+    "evidence_count": 16,
+    "examples": [
+      "or odaiin",
+      "or odaiin",
+      "or odaiin",
+      "or odaiin",
+      "or odaiin"
+    ]
+  },
+  {
+    "word": "alor",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "or alor",
+      "or alor",
+      "or alor",
+      "or alor",
+      "or alor"
+    ]
+  },
+  {
+    "word": "cph",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin cph",
+      "daiin cph",
+      "daiin cph",
+      "daiin cph"
+    ]
+  },
+  {
+    "word": "odal",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "qok odal",
+      "qok odal",
+      "qok odal",
+      "qok odal",
+      "qok odal"
+    ]
+  },
+  {
+    "word": "rar",
+    "inferred_type": "noun",
+    "evidence_count": 12,
+    "examples": [
+      "daiin rar",
+      "y rar",
+      "y rar",
+      "ol rar",
+      "ol rar"
+    ]
+  },
+  {
+    "word": "qoekol",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin qoekol",
+      "daiin qoekol",
+      "daiin qoekol",
+      "daiin qoekol",
+      "daiin qoekol"
+    ]
+  },
+  {
+    "word": "qoteody",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin qoteody",
+      "daiin qoteody",
+      "daiin qoteody",
+      "daiin qoteody",
+      "daiin qoteody"
+    ]
+  },
+  {
+    "word": "darolm",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal darolm",
+      "dal darolm",
+      "dal darolm",
+      "dal darolm"
+    ]
+  },
+  {
+    "word": "qoor",
+    "inferred_type": "noun",
+    "evidence_count": 7,
+    "examples": [
+      "ol qoor",
+      "ol qoor",
+      "ol qoor",
+      "ol qoor",
+      "ol qoor"
+    ]
+  },
+  {
+    "word": "cfheol",
+    "inferred_type": "noun",
+    "evidence_count": 10,
+    "examples": [
+      "ol cfheol",
+      "ol cfheol",
+      "ol cfheol",
+      "ol cfheol",
+      "ol cfheol"
+    ]
+  },
+  {
+    "word": "chkal",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin chkal",
+      "daiin chkal",
+      "daiin chkal",
+      "daiin chkal",
+      "daiin chkal"
+    ]
+  },
+  {
+    "word": "doral",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal doral",
+      "dal doral",
+      "dal doral",
+      "dal doral"
+    ]
+  },
+  {
+    "word": "qokos",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin qokos",
+      "daiin qokos",
+      "daiin qokos",
+      "daiin qokos",
+      "daiin qokos"
+    ]
+  },
+  {
+    "word": "loy",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol loy",
+      "ol loy",
+      "ol loy",
+      "ol loy",
+      "ol loy"
+    ]
+  },
+  {
+    "word": "sfal",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "dal sfal",
+      "dal sfal",
+      "dal sfal",
+      "dal sfal",
+      "dal sfal"
+    ]
+  },
+  {
+    "word": "qopol",
+    "inferred_type": "noun",
+    "evidence_count": 9,
+    "examples": [
+      "daiin qopol",
+      "daiin qopol",
+      "daiin qopol",
+      "daiin qopol",
+      "daiin qopol"
+    ]
+  },
+  {
+    "word": "shodai",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol shodai",
+      "ol shodai",
+      "ol shodai",
+      "ol shodai"
+    ]
+  },
+  {
+    "word": "okachey",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol okachey",
+      "ol okachey",
+      "ol okachey",
+      "ol okachey",
+      "ol okachey"
+    ]
+  },
+  {
+    "word": "dalody",
+    "inferred_type": "noun",
+    "evidence_count": 7,
+    "examples": [
+      "dal dalody",
+      "dal dalody",
+      "dal dalody",
+      "dal dalody",
+      "dal dalody"
+    ]
+  },
+  {
+    "word": "chekchdy",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or chekchdy",
+      "or chekchdy",
+      "or chekchdy",
+      "or chekchdy"
+    ]
+  },
+  {
+    "word": "olkor",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "y olkor",
+      "y olkor",
+      "y olkor",
+      "y olkor",
+      "y olkor"
+    ]
+  },
+  {
+    "word": "shedar",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol shedar",
+      "ol shedar",
+      "ol shedar",
+      "ol shedar"
+    ]
+  },
+  {
+    "word": "chtal",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin chtal",
+      "daiin chtal",
+      "daiin chtal",
+      "daiin chtal"
+    ]
+  },
+  {
+    "word": "kshol",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol kshol",
+      "ol kshol",
+      "ol kshol",
+      "ol kshol"
+    ]
+  },
+  {
+    "word": "cpheey",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin cpheey",
+      "daiin cpheey",
+      "daiin cpheey",
+      "daiin cpheey",
+      "o cpheey"
+    ]
+  },
+  {
+    "word": "cheeokeey",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin cheeokeey",
+      "daiin cheeokeey",
+      "daiin cheeokeey",
+      "daiin cheeokeey"
+    ]
+  },
+  {
+    "word": "aro",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or aro",
+      "or aro",
+      "or aro",
+      "o aro"
+    ]
+  },
+  {
+    "word": "deeam",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin deeam",
+      "daiin deeam",
+      "daiin deeam",
+      "daiin deeam"
+    ]
+  },
+  {
+    "word": "fchod",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin fchod",
+      "daiin fchod",
+      "daiin fchod",
+      "daiin fchod",
+      "daiin fchod"
+    ]
+  },
+  {
+    "word": "ykeol",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "qok ykeol",
+      "qok ykeol",
+      "qok ykeol",
+      "qok ykeol",
+      "qok ykeol"
+    ]
+  },
+  {
+    "word": "qockhy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin qockhy",
+      "daiin qockhy",
+      "daiin qockhy",
+      "daiin qockhy",
+      "daiin qockhy"
+    ]
+  },
+  {
+    "word": "okoey",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin okoey",
+      "y okoey",
+      "y okoey",
+      "y okoey"
+    ]
+  },
+  {
+    "word": "eteeys",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin eteeys",
+      "daiin eteeys",
+      "daiin eteeys",
+      "daiin eteeys",
+      "daiin eteeys"
+    ]
+  },
+  {
+    "word": "cheodam",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin cheodam",
+      "daiin cheodam",
+      "daiin cheodam",
+      "daiin cheodam",
+      "daiin cheodam"
+    ]
+  },
+  {
+    "word": "orsheoldy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin orsheoldy",
+      "daiin orsheoldy",
+      "daiin orsheoldy",
+      "daiin orsheoldy",
+      "daiin orsheoldy"
+    ]
+  },
+  {
+    "word": "dykeor",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin dykeor",
+      "daiin dykeor",
+      "daiin dykeor",
+      "daiin dykeor",
+      "daiin dykeor"
+    ]
+  },
+  {
+    "word": "ckheeol",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin ckheeol",
+      "daiin ckheeol",
+      "daiin ckheeol",
+      "daiin ckheeol",
+      "daiin ckheeol"
+    ]
+  },
+  {
+    "word": "okody",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin okody",
+      "daiin okody",
+      "daiin okody",
+      "daiin okody",
+      "daiin okody"
+    ]
+  },
+  {
+    "word": "lockhy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "o lockhy",
+      "o lockhy",
+      "o lockhy",
+      "o lockhy",
+      "o lockhy"
+    ]
+  },
+  {
+    "word": "sheeoy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol sheeoy",
+      "ol sheeoy",
+      "ol sheeoy",
+      "ol sheeoy",
+      "ol sheeoy"
+    ]
+  },
+  {
+    "word": "qkol",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin qkol",
+      "daiin qkol",
+      "daiin qkol",
+      "daiin qkol",
+      "daiin qkol"
+    ]
+  },
+  {
+    "word": "oain",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol oain",
+      "ol oain",
+      "ol oain",
+      "ol oain"
+    ]
+  },
+  {
+    "word": "kasol",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal kasol",
+      "dal kasol",
+      "dal kasol",
+      "dal kasol"
+    ]
+  },
+  {
+    "word": "okeedaky",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin okeedaky",
+      "daiin okeedaky",
+      "daiin okeedaky",
+      "daiin okeedaky",
+      "daiin okeedaky"
+    ]
+  },
+  {
+    "word": "chedydy",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol chedydy",
+      "ol chedydy",
+      "ol chedydy",
+      "ol chedydy"
+    ]
+  },
+  {
+    "word": "oqaiin",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol oqaiin",
+      "ol oqaiin",
+      "ol oqaiin",
+      "ol oqaiin"
+    ]
+  },
+  {
+    "word": "chedacphy",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol chedacphy",
+      "ol chedacphy",
+      "ol chedacphy",
+      "ol chedacphy"
+    ]
+  },
+  {
+    "word": "choaiin",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin choaiin",
+      "daiin choaiin",
+      "daiin choaiin",
+      "daiin choaiin"
+    ]
+  },
+  {
+    "word": "oeeal",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol oeeal",
+      "ol oeeal",
+      "ol oeeal",
+      "ol oeeal"
+    ]
+  },
+  {
+    "word": "qoeedaiin",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 7,
+    "examples": [
+      "y qoeedaiin",
+      "y qoeedaiin",
+      "daiin qoeedaiin",
+      "daiin qoeedaiin",
+      "daiin qoeedaiin"
+    ]
+  },
+  {
+    "word": "sheeo",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or sheeo",
+      "or sheeo",
+      "or sheeo",
+      "or sheeo"
+    ]
+  },
+  {
+    "word": "rais",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y rais",
+      "y rais",
+      "y rais",
+      "y rais"
+    ]
+  },
+  {
+    "word": "ycheeo",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin ycheeo",
+      "daiin ycheeo",
+      "daiin ycheeo",
+      "daiin ycheeo"
+    ]
+  },
+  {
+    "word": "fchoky",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or fchoky",
+      "or fchoky",
+      "or fchoky",
+      "or fchoky"
+    ]
+  },
+  {
+    "word": "okairy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin okairy",
+      "daiin okairy",
+      "daiin okairy",
+      "daiin okairy",
+      "daiin okairy"
+    ]
+  },
+  {
+    "word": "qoek",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin qoek",
+      "daiin qoek",
+      "daiin qoek",
+      "daiin qoek",
+      "daiin qoek"
+    ]
+  },
+  {
+    "word": "opairam",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin opairam",
+      "daiin opairam",
+      "daiin opairam",
+      "daiin opairam",
+      "daiin opairam"
+    ]
+  },
+  {
+    "word": "chsd",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin chsd",
+      "daiin chsd",
+      "daiin chsd",
+      "daiin chsd",
+      "daiin chsd"
+    ]
+  },
+  {
+    "word": "qokeeo",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "or qokeeo",
+      "or qokeeo",
+      "or qokeeo",
+      "or qokeeo",
+      "or qokeeo"
+    ]
+  },
+  {
+    "word": "lcho",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol lcho",
+      "ol lcho",
+      "ol lcho",
+      "ol lcho",
+      "ol lcho"
+    ]
+  },
+  {
+    "word": "arar",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 6,
+    "examples": [
+      "o arar",
+      "o arar",
+      "o arar",
+      "o arar",
+      "o arar"
+    ]
+  },
+  {
+    "word": "qotalal",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin qotalal",
+      "daiin qotalal",
+      "daiin qotalal",
+      "daiin qotalal",
+      "daiin qotalal"
+    ]
+  },
+  {
+    "word": "shl",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin shl",
+      "daiin shl",
+      "daiin shl",
+      "daiin shl",
+      "daiin shl"
+    ]
+  },
+  {
+    "word": "kaldai",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol kaldai",
+      "ol kaldai",
+      "ol kaldai",
+      "ol kaldai"
+    ]
+  },
+  {
+    "word": "alai",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "o alai",
+      "o alai",
+      "o alai",
+      "o alai",
+      "y alai"
+    ]
+  },
+  {
+    "word": "dckhy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin dckhy",
+      "daiin dckhy",
+      "daiin dckhy",
+      "daiin dckhy",
+      "daiin dckhy"
+    ]
+  },
+  {
+    "word": "ykeear",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "or ykeear",
+      "or ykeear",
+      "or ykeear",
+      "or ykeear",
+      "or ykeear"
+    ]
+  },
+  {
+    "word": "keeedal",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "dal keeedal",
+      "dal keeedal",
+      "dal keeedal",
+      "dal keeedal",
+      "dal keeedal"
+    ]
+  },
+  {
+    "word": "ykchedy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin ykchedy",
+      "daiin ykchedy",
+      "daiin ykchedy",
+      "daiin ykchedy",
+      "daiin ykchedy"
+    ]
+  },
+  {
+    "word": "cheory",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "or cheory",
+      "or cheory",
+      "or cheory",
+      "or cheory",
+      "or cheory"
+    ]
+  },
+  {
+    "word": "alold",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "or alold",
+      "or alold",
+      "or alold",
+      "or alold",
+      "or alold"
+    ]
+  },
+  {
+    "word": "checthal",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin checthal",
+      "daiin checthal",
+      "daiin checthal",
+      "daiin checthal",
+      "daiin checthal"
+    ]
+  },
+  {
+    "word": "chekeek",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin chekeek",
+      "daiin chekeek",
+      "daiin chekeek",
+      "daiin chekeek",
+      "daiin chekeek"
+    ]
+  },
+  {
+    "word": "shechy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin shechy",
+      "daiin shechy",
+      "daiin shechy",
+      "daiin shechy",
+      "daiin shechy"
+    ]
+  },
+  {
+    "word": "sheeal",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin sheeal",
+      "daiin sheeal",
+      "daiin sheeal",
+      "daiin sheeal",
+      "daiin sheeal"
+    ]
+  },
+  {
+    "word": "okedal",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin okedal",
+      "daiin okedal",
+      "daiin okedal",
+      "daiin okedal",
+      "daiin okedal"
+    ]
+  },
+  {
+    "word": "lam",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "dal lam",
+      "dal lam",
+      "dal lam",
+      "dal lam",
+      "dal lam"
+    ]
+  },
+  {
+    "word": "shecthey",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin shecthey",
+      "daiin shecthey",
+      "daiin shecthey",
+      "daiin shecthey",
+      "daiin shecthey"
+    ]
+  },
+  {
+    "word": "lkai",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol lkai",
+      "ol lkai",
+      "ol lkai",
+      "ol lkai"
+    ]
+  },
+  {
+    "word": "tched",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "dal tched",
+      "dal tched",
+      "dal tched",
+      "dal tched",
+      "dal tched"
+    ]
+  },
+  {
+    "word": "otaral",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin otaral",
+      "daiin otaral",
+      "daiin otaral",
+      "daiin otaral",
+      "daiin otaral"
+    ]
+  },
+  {
+    "word": "qokan",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 6,
+    "examples": [
+      "y qokan",
+      "y qokan",
+      "y qokan",
+      "y qokan",
+      "y qokan"
+    ]
+  },
+  {
+    "word": "fcheol",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 6,
+    "examples": [
+      "y fcheol",
+      "y fcheol",
+      "y fcheol",
+      "y fcheol",
+      "y fcheol"
+    ]
+  },
+  {
+    "word": "cheeir",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin cheeir",
+      "daiin cheeir",
+      "daiin cheeir",
+      "daiin cheeir"
+    ]
+  },
+  {
+    "word": "chalor",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol chalor",
+      "ol chalor",
+      "ol chalor",
+      "ol chalor",
+      "ol chalor"
+    ]
+  },
+  {
+    "word": "cheedaiin",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "ol cheedaiin",
+      "ol cheedaiin",
+      "ol cheedaiin",
+      "ol cheedaiin",
+      "ol cheedaiin"
+    ]
+  },
+  {
+    "word": "cheolor",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin cheolor",
+      "daiin cheolor",
+      "daiin cheolor",
+      "daiin cheolor",
+      "daiin cheolor"
+    ]
+  },
+  {
+    "word": "cholchey",
+    "inferred_type": "noun",
+    "evidence_count": 6,
+    "examples": [
+      "daiin cholchey",
+      "daiin cholchey",
+      "daiin cholchey",
+      "daiin cholchey",
+      "daiin cholchey"
+    ]
+  },
+  {
+    "word": "yraiin",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y yraiin",
+      "y yraiin",
+      "y yraiin",
+      "y yraiin"
+    ]
+  },
+  {
+    "word": "cheeeo",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin cheeeo",
+      "daiin cheeeo",
+      "daiin cheeeo",
+      "daiin cheeeo"
+    ]
+  },
+  {
+    "word": "qokeeody",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin qokeeody",
+      "daiin qokeeody",
+      "daiin qokeeody",
+      "daiin qokeeody",
+      "daiin qokeeody"
+    ]
+  },
+  {
+    "word": "keeed",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol keeed",
+      "ol keeed",
+      "ol keeed",
+      "ol keeed",
+      "ol keeed"
+    ]
+  },
+  {
+    "word": "octhdy",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin octhdy",
+      "daiin octhdy",
+      "daiin octhdy",
+      "daiin octhdy"
+    ]
+  },
+  {
+    "word": "oeedy",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "dal oeedy",
+      "dal oeedy",
+      "dal oeedy",
+      "dal oeedy",
+      "dal oeedy"
+    ]
+  },
+  {
+    "word": "octhd",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin octhd",
+      "daiin octhd",
+      "daiin octhd",
+      "daiin octhd",
+      "daiin octhd"
+    ]
+  },
+  {
+    "word": "cheodeeey",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 5,
+    "examples": [
+      "y cheodeeey",
+      "y cheodeeey",
+      "y cheodeeey",
+      "y cheodeeey",
+      "y cheodeeey"
+    ]
+  },
+  {
+    "word": "ofchedaiin",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "daiin ofchedaiin",
+      "daiin ofchedaiin",
+      "daiin ofchedaiin",
+      "daiin ofchedaiin",
+      "daiin ofchedaiin"
+    ]
+  },
+  {
+    "word": "qofchdar",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "daiin qofchdar",
+      "daiin qofchdar",
+      "daiin qofchdar",
+      "daiin qofchdar"
+    ]
+  },
+  {
+    "word": "kecheokeo",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "o kecheokeo",
+      "o kecheokeo",
+      "o kecheokeo",
+      "o kecheokeo"
+    ]
+  },
+  {
+    "word": "lchy",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or lchy",
+      "or lchy",
+      "or lchy",
+      "or lchy"
+    ]
+  },
+  {
+    "word": "otlaiin",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol otlaiin",
+      "ol otlaiin",
+      "ol otlaiin",
+      "ol otlaiin"
+    ]
+  },
+  {
+    "word": "dalom",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "dal dalom",
+      "dal dalom",
+      "dal dalom",
+      "dal dalom"
+    ]
+  },
+  {
+    "word": "dchedy",
+    "inferred_type": "noun_candidate",
+    "evidence_count": 4,
+    "examples": [
+      "y dchedy",
+      "y dchedy",
+      "y dchedy",
+      "y dchedy"
+    ]
+  },
+  {
+    "word": "chlor",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol chlor",
+      "ol chlor",
+      "ol chlor",
+      "ol chlor"
+    ]
+  },
+  {
+    "word": "llory",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "or llory",
+      "or llory",
+      "or llory",
+      "or llory"
+    ]
+  },
+  {
+    "word": "lcheor",
+    "inferred_type": "noun",
+    "evidence_count": 5,
+    "examples": [
+      "ol lcheor",
+      "ol lcheor",
+      "ol lcheor",
+      "ol lcheor",
+      "ol lcheor"
+    ]
+  },
+  {
+    "word": "lkan",
+    "inferred_type": "noun",
+    "evidence_count": 4,
+    "examples": [
+      "ol lkan",
+      "ol lkan",
+      "ol lkan",
+      "ol lkan"
+    ]
+  }
+]

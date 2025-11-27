@@ -1,0 +1,362 @@
+{
+  "qokeedy": {
+    "voynich": "qokeedy",
+    "meaning": "morphological_derivative (q- + okeedy)",
+    "root": "okeedy",
+    "morphology": "q-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "qokedy": {
+    "voynich": "qokedy",
+    "meaning": "morphological_derivative (qo- + kedy)",
+    "root": "kedy",
+    "morphology": "qo-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "qokal": {
+    "voynich": "qokal",
+    "meaning": "morphological_derivative (qo- + kal)",
+    "root": "kal",
+    "morphology": "qo-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "lf": {
+    "voynich": "lf",
+    "meaning": "morphological_derivative (l- + f)",
+    "root": "f",
+    "morphology": "l-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "qol": {
+    "voynich": "qol",
+    "meaning": "morphological_derivative (q- + ol)",
+    "root": "ol",
+    "morphology": "q-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "qokai": {
+    "voynich": "qokai",
+    "meaning": "morphological_derivative (q- + okai)",
+    "root": "okai",
+    "morphology": "q-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "dain": {
+    "voynich": "dain",
+    "meaning": "morphological_derivative (d- + ain)",
+    "root": "ain",
+    "morphology": "d-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "cho": {
+    "voynich": "cho",
+    "meaning": "morphological_derivative (ch- + o)",
+    "root": "o",
+    "morphology": "ch-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "kaiin": {
+    "voynich": "kaiin",
+    "meaning": "morphological_derivative (k- + aiin)",
+    "root": "aiin",
+    "morphology": "k-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "qokol": {
+    "voynich": "qokol",
+    "meaning": "morphological_derivative (qo- + kol)",
+    "root": "kol",
+    "morphology": "qo-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "sol": {
+    "voynich": "sol",
+    "meaning": "morphological_derivative (s- + ol)",
+    "root": "ol",
+    "morphology": "s-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "dor": {
+    "voynich": "dor",
+    "meaning": "morphological_derivative (d- + or)",
+    "root": "or",
+    "morphology": "d-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "qokchy": {
+    "voynich": "qokchy",
+    "meaning": "morphological_derivative (qo- + kchy)",
+    "root": "kchy",
+    "morphology": "qo-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "odaiin": {
+    "voynich": "odaiin",
+    "meaning": "morphological_derivative (o- + daiin)",
+    "root": "daiin",
+    "morphology": "o-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "sal": {
+    "voynich": "sal",
+    "meaning": "morphological_derivative (s- + al)",
+    "root": "al",
+    "morphology": "s-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "qok": {
+    "voynich": "qok",
+    "meaning": "morphological_derivative (qo- + k)",
+    "root": "k",
+    "morphology": "qo-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "qodaiin": {
+    "voynich": "qodaiin",
+    "meaning": "morphological_derivative (qo- + daiin)",
+    "root": "daiin",
+    "morphology": "qo-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "da": {
+    "voynich": "da",
+    "meaning": "morphological_derivative (d- + a)",
+    "root": "a",
+    "morphology": "d-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "qotai": {
+    "voynich": "qotai",
+    "meaning": "morphological_derivative (q- + otai)",
+    "root": "otai",
+    "morphology": "q-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "lc": {
+    "voynich": "lc",
+    "meaning": "morphological_derivative (l- + c)",
+    "root": "c",
+    "morphology": "l-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "chos": {
+    "voynich": "chos",
+    "meaning": "morphological_derivative (ch- + os)",
+    "root": "os",
+    "morphology": "ch-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "oraiin": {
+    "voynich": "oraiin",
+    "meaning": "morphological_derivative (-aiin + or)",
+    "root": "or",
+    "morphology": "-aiin",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "tchy": {
+    "voynich": "tchy",
+    "meaning": "morphological_derivative (t- + chy)",
+    "root": "chy",
+    "morphology": "t-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "dchy": {
+    "voynich": "dchy",
+    "meaning": "morphological_derivative (d- + chy)",
+    "root": "chy",
+    "morphology": "d-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "shed": {
+    "voynich": "shed",
+    "meaning": "morphological_derivative (sh- + ed)",
+    "root": "ed",
+    "morphology": "sh-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "tal": {
+    "voynich": "tal",
+    "meaning": "morphological_derivative (t- + al)",
+    "root": "al",
+    "morphology": "t-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "dchedy": {
+    "voynich": "dchedy",
+    "meaning": "morphological_derivative (d- + chedy)",
+    "root": "chedy",
+    "morphology": "d-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "ly": {
+    "voynich": "ly",
+    "meaning": "morphological_derivative (l- + y)",
+    "root": "y",
+    "morphology": "l-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "lkedy": {
+    "voynich": "lkedy",
+    "meaning": "morphological_derivative (l- + kedy)",
+    "root": "kedy",
+    "morphology": "l-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "kor": {
+    "voynich": "kor",
+    "meaning": "morphological_derivative (k- + or)",
+    "root": "or",
+    "morphology": "k-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "dchol": {
+    "voynich": "dchol",
+    "meaning": "morphological_derivative (d- + chol)",
+    "root": "chol",
+    "morphology": "d-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "kchdy": {
+    "voynich": "kchdy",
+    "meaning": "morphological_derivative (k- + chdy)",
+    "root": "chdy",
+    "morphology": "k-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "qor": {
+    "voynich": "qor",
+    "meaning": "morphological_derivative (q- + or)",
+    "root": "or",
+    "morphology": "q-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "odar": {
+    "voynich": "odar",
+    "meaning": "morphological_derivative (o- + dar)",
+    "root": "dar",
+    "morphology": "o-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "yty": {
+    "voynich": "yty",
+    "meaning": "morphological_derivative (y- + ty)",
+    "root": "ty",
+    "morphology": "y-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "kchedy": {
+    "voynich": "kchedy",
+    "meaning": "morphological_derivative (k- + chedy)",
+    "root": "chedy",
+    "morphology": "k-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "oaiin": {
+    "voynich": "oaiin",
+    "meaning": "morphological_derivative (o- + aiin)",
+    "root": "aiin",
+    "morphology": "o-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "qotor": {
+    "voynich": "qotor",
+    "meaning": "morphological_derivative (qo- + tor)",
+    "root": "tor",
+    "morphology": "qo-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "edy": {
+    "voynich": "edy",
+    "meaning": "morphological_derivative (-y + ed)",
+    "root": "ed",
+    "morphology": "-y",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "qotey": {
+    "voynich": "qotey",
+    "meaning": "morphological_derivative (qo- + tey)",
+    "root": "tey",
+    "morphology": "qo-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "qoaiin": {
+    "voynich": "qoaiin",
+    "meaning": "morphological_derivative (qo- + aiin)",
+    "root": "aiin",
+    "morphology": "qo-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "olshedy": {
+    "voynich": "olshedy",
+    "meaning": "morphological_derivative (o- + lshedy)",
+    "root": "lshedy",
+    "morphology": "o-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "ycheey": {
+    "voynich": "ycheey",
+    "meaning": "morphological_derivative (y- + cheey)",
+    "root": "cheey",
+    "morphology": "y-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "olol": {
+    "voynich": "olol",
+    "meaning": "morphological_derivative (o- + lol)",
+    "root": "lol",
+    "morphology": "o-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  },
+  "oteo": {
+    "voynich": "oteo",
+    "meaning": "morphological_derivative (o- + teo)",
+    "root": "teo",
+    "morphology": "o-",
+    "source": "Track224_Morphology_v3",
+    "confidence": 0.85
+  }
+}

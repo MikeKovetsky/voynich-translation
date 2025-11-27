@@ -18,6 +18,15 @@ The "Final" release (v1.0) achieved ~50% coverage. To break the deadlock on the 
 2.  **Task 227 (Recipe Re-Translation):**
     -   Re-translate Quire 20 (Recipes) with the new vocabulary.
     -   Measure the readability jump.
+3.  **Task 228 (Context Validation):**
+    -   Cross-check "Context Nouns" against Labels (Plants/Stars).
+    -   Confirm physical objects.
+4.  **Task 229 (Recipe Parser):**
+    -   Map the abstract structure of recipes (`Command + Noun + Connector`).
+    -   Infer word types from slots.
+5.  **Task 230 (The Color Hunt):**
+    -   Statistical analysis of "Red Pages" vs "Blue Pages".
+    -   Find words for "Hot/Red" and "Cold/Blue".
 
 **Hypothesis:**
 The Manuscript is highly structured. By leveraging the rigid grammar (Recipe patterns), we can infer the meaning of words we've never seen before.

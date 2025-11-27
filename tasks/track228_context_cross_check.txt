@@ -1,0 +1,21 @@
+Track 228: Context Candidate Cross-Check
+
+Goal: Validate the "Noun Candidates" from Task 225 by checking if they appear as Labels in the manuscript.
+
+Input:
+- `results/context_guesses_v3.json` (457 Noun Candidates).
+- `results/plant_identifications.json` (Plant Labels).
+- `results/star_map_os.md` (Star Labels).
+- `results/tagged_text.txt` (if available, or raw `data/eva_ivtff.txt` looking for label lines `<labels>`).
+
+Steps:
+1. Load the list of 457 candidates.
+2. Scan the corpus for "Label Contexts". 
+   - In EVA/IVTFF, labels often appear as standalone words or are marked with specific tags (e.g., `<...>` or `l` lines depending on the format).
+   - If explicit tags aren't available, look for "Short Pages" (Folios with < 10 words) or "Star Diagrams" (Cosmology Section).
+3. Match Candidates:
+   - If a "Context Noun" appears as a label -> Tag as `CONFIRMED_OBJECT`.
+   - If it appears in a Star Ring -> Tag as `STAR_NAME`.
+   - If it appears near a Plant -> Tag as `PLANT_NAME`.
+4. Output: `results/context_validation_report.md` and update `results/dictionary/dictionary.json` with any confirmations.
+5. Summary: `results/track-228-results_summary.md`.
