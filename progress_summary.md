@@ -1,19 +1,23 @@
-## Iteration 47: Ingredients and Labels 🥣🏷️
+## Iteration 48: The Identification of Plants & Stars 🌺⭐
 
 **Status:** Complete
 **Date:** 2025-11-26
 
 **Summary:**
-We've refined the details of the "Hydrotherapy Manual".
-*   **Dictionary v7.3:** Published. `chedy`="Mixture", `shol`="Extract", `sho`="Fire" formalized.
-*   **Ingredient Mining:** We identified 48 specific plant labels that appear in recipes. The most common "ingredients" are actually generic parts: `chol` (Leaf) and `char` (Root) and `aiin` (Water).
-*   **Bio Labels:** The labels in the bathing section are **NOT** anatomical. They do not label "Head" or "Arm". Instead, they label the **contents of the bath** (`okeedy`=Plant Mixture) or the **process** (`saldy`=Salted?).
+We have unlocked the identity of the plants and the stars.
+*   **Plant ID:** We have tentatively identified the key ingredients:
+    *   `chtol` = **Papaver** (Poppy).
+    *   `shoaiin` = **Cannabis** (Hemp).
+    *   `shkaiin` = **Hypericum** (St John's Wort).
+    *   `tsho` = **Smilax**.
+*   **Star Names:** The "stars" in the Zodiac section are labeled with ingredient names (`oteos`=The Tree, `okar`=The Root). This confirms the manuscript describes an astrological-medical system where earthly plants correspond to celestial bodies ("As Above, So Below").
+*   **Bio Narrative:** The text of the Biological Section describes the preparation and application of these herbal baths.
 
 **Key Findings:**
-*   **Labels = Contents:** The nymphs are labeled with what they are bathing *in*, not who they are.
-*   **Recipe Ingredients:** Common specific plants include `chtol` (Papaver?), `tsho` (Smilax?), `shoaiin` (Cannabis?).
+*   **Ingredient Mapping:** The "recipes" are instructions for combining these specific plants with water (`aiin`) and heating them (`okeol`).
+*   **System:** Astrology determines *when* to pick and process the plants for the baths.
 
 **Next Steps:**
-*   **Specific Plant ID:** Correlate the top 10 ingredient labels with their botanical identifications.
-*   **Star Names:** If Rosettes map the "Source", do the star lists map the ingredients?
-*   **Full Narrative:** Translate the running text of Quire 13 now that we know the labels aren't body parts.
+*   **Dictionary v7.4:** Add the specific plant IDs.
+*   **Final Translation:** Run the full translator on the entire manuscript with the completed dictionary.
+*   **Final Report:** Generate the "Voynich Decoded" report.

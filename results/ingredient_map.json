@@ -1,0 +1,67 @@
+{
+  "chtol": {
+    "word": "chtol",
+    "identified_as": "papaver",
+    "confidence": "medium",
+    "herbal_page": "f48v",
+    "visual_description": "Plant with large flower (often red in nature, but manuscript colors vary), distinct seed pod.",
+    "evidence": {
+      "appears_on_plant_page": "f48v",
+      "expert_id": "papaver",
+      "appears_in_recipes": true,
+      "recipe_folios": [
+        "f113v"
+      ],
+      "total_manuscript_occurrences": 5
+    }
+  },
+  "tsho": {
+    "word": "tsho",
+    "identified_as": "smilax",
+    "confidence": "medium",
+    "herbal_page": "f17r",
+    "visual_description": "Climbing plant with heart-shaped or triangular leaves, often prickly stem.",
+    "evidence": {
+      "appears_on_plant_page": "f17r",
+      "expert_id": "smilax",
+      "appears_in_recipes": true,
+      "recipe_folios": [
+        "f113v"
+      ],
+      "total_manuscript_occurrences": 5
+    }
+  },
+  "shoaiin": {
+    "word": "shoaiin",
+    "identified_as": "cannabis",
+    "confidence": "medium",
+    "herbal_page": "f36v",
+    "visual_description": "Plant with palmate leaves (serrated leaflets), distinctive tall structure.",
+    "evidence": {
+      "appears_on_plant_page": "f36v",
+      "expert_id": "cannabis",
+      "appears_in_recipes": true,
+      "recipe_folios": [
+        "f113r"
+      ],
+      "total_manuscript_occurrences": 4
+    }
+  },
+  "shkaiin": {
+    "word": "shkaiin",
+    "identified_as": "hypericum",
+    "confidence": "medium",
+    "herbal_page": "f3v",
+    "visual_description": "Plant with opposite leaves, yellow flowers (often star-shaped), perforated leaves (St John's Wort).",
+    "evidence": {
+      "appears_on_plant_page": "f3v",
+      "expert_id": "hypericum",
+      "appears_in_recipes": true,
+      "recipe_folios": [
+        "f111r",
+        "f113r"
+      ],
+      "total_manuscript_occurrences": 4
+    }
+  }
+}

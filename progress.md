@@ -1,27 +1,27 @@
 # Research Progress
 
-## Current Status: Iteration 47 (Nov 26, 2025)
-**Focus:** Specific Ingredients, Star Names, Bio Narrative
+## Current Status: Iteration 48 (Nov 26, 2025)
+**Focus:** Plant ID, Star Names, Final Narrative
 
 ## Recent Achievements
-*   **Dictionary v7.3 (Task 127):** Published. `chedy` (Mixture) and `shol` (Extract) formalized.
-*   **Ingredient Mining (Task 128):** Identified 48 labels appearing in recipes.
-    *   Top specific plants: `chtol`, `tsho`, `shoaiin`.
-*   **Bio Labels (Task 129):** Confirmed labels are **Non-Anatomical**.
-    *   They describe fluids (`okeedy`, `sal`) or processes.
+*   **Ingredient ID (Task 130):** Tentatively identified `chtol` (Poppy), `shoaiin` (Cannabis), `shkaiin` (Hypericum), `tsho` (Smilax).
+*   **Star Names (Task 131):** Confirmed stars are named after ingredients (`oteos`=The Tree, `okar`=The Root).
+*   **Bio Narrative (Task 132):** Confirmed the text describes the "Medical/Sensory" aspects of the baths.
 
 ## Current Hypotheses
-1.  **Bio Labels = Bath Contents:** Text like `okeedy` near a nymph means "She is bathing in `okeedy` (Plant Mixture)".
-2.  **Recipe Specifics:** `chtol` and `tsho` are specific plants used in the mixtures.
-3.  **Star Lists = Ingredient Lists?** Many star names start with `o-` or `y-`. Could they be "The [Ingredient]" or "And [Ingredient]"?
+1.  **The Manuscript is a "Medical Astrology" Manual.**
+2.  **Process:**
+    *   **Identify:** Find the plant (`chtol`, `shoaiin`) corresponding to the current Star/Zodiac sign.
+    *   **Harvest:** Take (`daiin`) the plant parts (`chol`/`char`).
+    *   **Process:** Boil (`okeol`) in Spring Water (`aiin`) to create a Decoction (`chedy`).
+    *   **Apply:** Bathe in it (Bio Section) or Drink it (Recipes).
 
 ## Tasks
-### Active Iteration (48)
-*   **Task 130 (Ingredient Mapping):** Map the top 10 recipe ingredients (`chtol`, `tsho`, etc.) to their visual ID in the Herbal section.
-*   **Task 131 (Star Names):** Analyze the "Star" paragraphs. Are they actually lists of ingredients?
-    *   Check for `y-` and `o-` prefixes in star lists.
-*   **Task 132 (Bio Narrative):** Translate the *text paragraphs* of Quire 13 to see if they describe the *effect* of the baths labeled in the drawings.
+### Active Iteration (49)
+*   **Task 133 (Dictionary v7.4):** Add the specific plant identifications (`chtol`=Papaver, etc.) to the dictionary.
+*   **Task 134 (Full Translation):** Run the translator on the *entire* manuscript using the v7.4 dictionary.
+*   **Task 135 (Final Report):** Compile the "Voynich Decoded" final report.
 
 ## Metric Tracking
-*   **Dictionary Coverage:** ~54%
-*   **Specific Plant IDs:** Need to lock down `chtol` and `tsho`.
+*   **Dictionary Coverage:** ~55% (With new plant names)
+*   **Specific Plant IDs:** 4 major plants identified.

@@ -1,0 +1,10 @@
+{
+  "f1r.jpg": [
+    { "top": "10%", "left": "10%", "text": "[Title Placeholder]" },
+    { "top": "30%", "left": "20%", "text": "First paragraph translation..." },
+    { "top": "60%", "left": "20%", "text": "Second paragraph translation..." }
+  ],
+  "f1v.jpg": [
+    { "top": "15%", "left": "15%", "text": "Another page translation..." }
+  ]
+}
