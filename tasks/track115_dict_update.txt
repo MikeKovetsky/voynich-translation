@@ -1,0 +1,23 @@
+TRACK 115: Dictionary Update v7.1 (Y=And)
+=========================================
+
+GOAL: Update the Master Dictionary to reflect the new understanding of `y-` as a Conjunction.
+
+INPUT:
+- `results/master_dictionary_v7.json`
+
+TASK 1: Update Definition
+-------------------------
+- Change definition of `y` / `y-` from "Plural/Genitive" to "**Conjunction (And/Then)**".
+- Confidence: High (0.85).
+- Notes: "Connects steps in recipes and items in lists. Rarely appears in labels."
+
+TASK 2: Review `y-` words
+-------------------------
+- Check words like `ytaiin` (And take?), `ychol` (And leaf?).
+- Ensure the morphological stripper handles `y-` as a separate particle if possible, or just treat it as a prefix meaning "And".
+
+OUTPUT FILES:
+- `update_dict_v7_1.py`
+- `results/master_dictionary_v7_1.json`
+- `results/dictionary_v7_1_report.md`

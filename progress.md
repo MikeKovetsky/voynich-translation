@@ -1,38 +1,33 @@
 # Research Progress
 
-## Current Status: Iteration 41 (Nov 26, 2025)
-**Focus:** Dictionary v7, Root Confirmation (`chol`/`char`), Recipe Structure
+## Current Status: Iteration 42 (Nov 26, 2025)
+**Focus:** Grammar (`y-`=And), Bio Narrative, Recipe Logic
 
 ## Recent Achievements
-*   **Dictionary v7 (Task 109):** Published. Coverage > 51% across sections.
-    *   Key additions: `aiin` (Spring), `shedy` (Which), `chedy` (Plant).
-    *   Prefix rules: `qok-`, `d-`, `o-`, `y-`.
-*   **Root Analysis (Task 111):**
-    *   **`chol` = Leaf:** 1.87x more frequent on pages with big leaves.
-    *   **`char` = Root:** Correlates with root imagery.
-*   **Recipe Structure (Task 110):**
-    *   Pattern: `daiin` (Take) -> `shey` (Amount/Measure) -> `[Ingredient]`.
-    *   Common Ingredients: `chey` (Herbs), `chedy` (Plants), `chol` (Leaves), `char` (Roots).
+*   **Grammar Correction (Task 114):** Disproved the "Plural" hypothesis for `y-`.
+    *   `y-` appears in lists and start of clauses, but NOT on labels of plural objects.
+    *   **New Meaning:** `y-` = **And** / **Then** (Conjunction).
+*   **Bio Narrative (Task 112):** Validated the "Bathing" theme.
+    *   Translation confirms mixing `chol` (leaves) and `char` (roots) into `aiin` (spring water).
+*   **Recipe Logic (Task 113):** Confirmed `daiin` (Take) ... `qokeey` (Drink/Boil) structure.
 
 ## Current Hypotheses
-1.  **Recipe Formula:** "Take (`daiin`) [Amount] of (`shey`?) [Ingredient]."
-2.  **`shey` = Measure/Amount:** Appears in the "slot" where a quantity would be.
-3.  **`y-` Prefix:** Pluralizer (`chol` -> `ychol` "Leaves") or Conjunction "And".
-4.  **`o-` Prefix:** Definite Article "The" or Object Marker.
+1.  **`y-` = Conjunction:** Connects steps in recipes (`daiin` ... `y-daiin` = "Take ... and take").
+2.  **`o-` = Definite Article or Object Marker:** The next logical target for grammatical analysis.
+3.  **Recipe Verb `qokeey`:** Means "Drink" or "Boil" (Liquid + Action).
 
 ## Tasks
-### Active Iteration (42)
-*   **Task 112 (Bio Translation):** Translate the entire Biological Section (Quire 13) using the v7 Dictionary.
-    *   Test the narrative: "Women bathing in spring water with leaves and roots."
-*   **Task 113 (Recipe Translation):** Select 10 recipes and translate them fully.
-    *   Check for logic: Do we boil (`qokeey`?) the leaves (`chol`)?
-*   **Task 114 (Grammar Refinement):** Analyze `y-` and `o-` in context.
-    *   Does `y-` appear on lists of items? (Yes/No).
+### Active Iteration (43)
+*   **Task 115 (Dictionary v7.1):** Update `y` to "And" in the master dictionary.
+*   **Task 116 (Grammar `o-`):** Investigate the function of `o-`.
+    *   Is it "The"? (Definite Article).
+    *   Is it a Plural marker?
+*   **Task 117 (Translate f103r):** Full translation of a recipe page using the new connector logic.
 
 ### Backlog
-*   **Cosmology:** Does `aiin` explain the "Center" of the maps?
-*   **Stars:** Map star labels to `aiin` derivatives.
+*   **Suffix Analysis:** What does `-dy` do? (Adjective? Noun?)
+*   **Cosmology:** Apply "And" logic to the star lists.
 
 ## Metric Tracking
-*   **Dictionary Coverage:** 51.3%
-*   **Recipe Readability:** High confidence in structure.
+*   **Dictionary Accuracy:** Improved by correcting `y-`.
+*   **Recipe Readability:** Expected to improve significantly with "And".

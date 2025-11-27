@@ -1,0 +1,24 @@
+TRACK 117: Full Page Translation of f103r (Recipes)
+===================================================
+
+GOAL: Translate a dense recipe page (f103r) using the "And" (`y-`) key to test flow and logic.
+
+INPUT:
+- `data/eva_ivtff.txt` (Page f103r)
+- `results/master_dictionary_v7_1.json`
+
+TASK 1: Translate
+-----------------
+- Translate line-by-line.
+- Pay special attention to `y-` words. Translate them as "And [Root]".
+- Example: `ytaiin` -> "And take".
+
+TASK 2: Coherence Check
+-----------------------
+- Does the recipe follow a logical sequence?
+- "Take A, and take B, and mix..."
+
+OUTPUT FILES:
+- `translate_f103r.py`
+- `results/f103r_translation.md`
+- `results/f103r_logic_check.md`
