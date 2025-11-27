@@ -1,0 +1,1220 @@
+{
+  "1v": {
+    "ol": 143,
+    "o": 74,
+    "ratio": 0.66,
+    "class": "Wet"
+  },
+  "101r": {
+    "ol": 270,
+    "o": 173,
+    "ratio": 0.61,
+    "class": "Wet"
+  },
+  "41v": {
+    "ol": 79,
+    "o": 109,
+    "ratio": 0.42,
+    "class": "Neutral"
+  },
+  "5r": {
+    "ol": 10,
+    "o": 85,
+    "ratio": 0.11,
+    "class": "Dry"
+  },
+  "101v": {
+    "ol": 215,
+    "o": 300,
+    "ratio": 0.42,
+    "class": "Neutral"
+  },
+  "1r": {
+    "ol": 165,
+    "o": 281,
+    "ratio": 0.37,
+    "class": "Dry"
+  },
+  "3v": {
+    "ol": 79,
+    "o": 101,
+    "ratio": 0.44,
+    "class": "Neutral"
+  },
+  "6v": {
+    "ol": 68,
+    "o": 132,
+    "ratio": 0.34,
+    "class": "Dry"
+  },
+  "8r": {
+    "ol": 90,
+    "o": 110,
+    "ratio": 0.45,
+    "class": "Neutral"
+  },
+  "9r": {
+    "ol": 38,
+    "o": 108,
+    "ratio": 0.26,
+    "class": "Dry"
+  },
+  "11v": {
+    "ol": 21,
+    "o": 29,
+    "ratio": 0.42,
+    "class": "Neutral"
+  },
+  "13r": {
+    "ol": 65,
+    "o": 64,
+    "ratio": 0.5,
+    "class": "Neutral"
+  },
+  "13v": {
+    "ol": 45,
+    "o": 98,
+    "ratio": 0.31,
+    "class": "Dry"
+  },
+  "14r": {
+    "ol": 50,
+    "o": 64,
+    "ratio": 0.44,
+    "class": "Neutral"
+  },
+  "15r": {
+    "ol": 54,
+    "o": 65,
+    "ratio": 0.45,
+    "class": "Neutral"
+  },
+  "15v": {
+    "ol": 60,
+    "o": 79,
+    "ratio": 0.43,
+    "class": "Neutral"
+  },
+  "17r": {
+    "ol": 54,
+    "o": 100,
+    "ratio": 0.35,
+    "class": "Dry"
+  },
+  "17v": {
+    "ol": 210,
+    "o": 156,
+    "ratio": 0.57,
+    "class": "Neutral"
+  },
+  "18r": {
+    "ol": 82,
+    "o": 59,
+    "ratio": 0.58,
+    "class": "Neutral"
+  },
+  "18v": {
+    "ol": 48,
+    "o": 60,
+    "ratio": 0.44,
+    "class": "Neutral"
+  },
+  "19v": {
+    "ol": 74,
+    "o": 96,
+    "ratio": 0.44,
+    "class": "Neutral"
+  },
+  "20v": {
+    "ol": 90,
+    "o": 96,
+    "ratio": 0.48,
+    "class": "Neutral"
+  },
+  "23r": {
+    "ol": 103,
+    "o": 77,
+    "ratio": 0.57,
+    "class": "Neutral"
+  },
+  "24r": {
+    "ol": 80,
+    "o": 109,
+    "ratio": 0.42,
+    "class": "Neutral"
+  },
+  "24v": {
+    "ol": 84,
+    "o": 222,
+    "ratio": 0.27,
+    "class": "Dry"
+  },
+  "25r": {
+    "ol": 0,
+    "o": 25,
+    "ratio": 0.0,
+    "class": "Dry"
+  },
+  "26r": {
+    "ol": 15,
+    "o": 67,
+    "ratio": 0.18,
+    "class": "Dry"
+  },
+  "27r": {
+    "ol": 69,
+    "o": 46,
+    "ratio": 0.6,
+    "class": "Neutral"
+  },
+  "27v": {
+    "ol": 26,
+    "o": 145,
+    "ratio": 0.15,
+    "class": "Dry"
+  },
+  "28v": {
+    "ol": 60,
+    "o": 36,
+    "ratio": 0.62,
+    "class": "Wet"
+  },
+  "29v": {
+    "ol": 60,
+    "o": 129,
+    "ratio": 0.32,
+    "class": "Dry"
+  },
+  "30r": {
+    "ol": 30,
+    "o": 69,
+    "ratio": 0.3,
+    "class": "Dry"
+  },
+  "30v": {
+    "ol": 41,
+    "o": 49,
+    "ratio": 0.46,
+    "class": "Neutral"
+  },
+  "31r": {
+    "ol": 43,
+    "o": 71,
+    "ratio": 0.38,
+    "class": "Dry"
+  },
+  "31v": {
+    "ol": 41,
+    "o": 177,
+    "ratio": 0.19,
+    "class": "Dry"
+  },
+  "32r": {
+    "ol": 76,
+    "o": 54,
+    "ratio": 0.58,
+    "class": "Neutral"
+  },
+  "32v": {
+    "ol": 52,
+    "o": 93,
+    "ratio": 0.36,
+    "class": "Dry"
+  },
+  "33r": {
+    "ol": 11,
+    "o": 96,
+    "ratio": 0.1,
+    "class": "Dry"
+  },
+  "33v": {
+    "ol": 36,
+    "o": 158,
+    "ratio": 0.19,
+    "class": "Dry"
+  },
+  "34r": {
+    "ol": 95,
+    "o": 117,
+    "ratio": 0.45,
+    "class": "Neutral"
+  },
+  "34v": {
+    "ol": 50,
+    "o": 106,
+    "ratio": 0.32,
+    "class": "Dry"
+  },
+  "35r": {
+    "ol": 30,
+    "o": 41,
+    "ratio": 0.42,
+    "class": "Neutral"
+  },
+  "36r": {
+    "ol": 38,
+    "o": 26,
+    "ratio": 0.59,
+    "class": "Neutral"
+  },
+  "36v": {
+    "ol": 25,
+    "o": 72,
+    "ratio": 0.26,
+    "class": "Dry"
+  },
+  "37r": {
+    "ol": 52,
+    "o": 81,
+    "ratio": 0.39,
+    "class": "Dry"
+  },
+  "37v": {
+    "ol": 40,
+    "o": 54,
+    "ratio": 0.43,
+    "class": "Neutral"
+  },
+  "39r": {
+    "ol": 82,
+    "o": 103,
+    "ratio": 0.44,
+    "class": "Neutral"
+  },
+  "39v": {
+    "ol": 65,
+    "o": 228,
+    "ratio": 0.22,
+    "class": "Dry"
+  },
+  "40r": {
+    "ol": 43,
+    "o": 156,
+    "ratio": 0.22,
+    "class": "Dry"
+  },
+  "40v": {
+    "ol": 50,
+    "o": 107,
+    "ratio": 0.32,
+    "class": "Dry"
+  },
+  "41r": {
+    "ol": 0,
+    "o": 49,
+    "ratio": 0.0,
+    "class": "Dry"
+  },
+  "42r": {
+    "ol": 160,
+    "o": 109,
+    "ratio": 0.59,
+    "class": "Neutral"
+  },
+  "42v": {
+    "ol": 75,
+    "o": 110,
+    "ratio": 0.41,
+    "class": "Neutral"
+  },
+  "43r": {
+    "ol": 84,
+    "o": 170,
+    "ratio": 0.33,
+    "class": "Dry"
+  },
+  "43v": {
+    "ol": 63,
+    "o": 234,
+    "ratio": 0.21,
+    "class": "Dry"
+  },
+  "44v": {
+    "ol": 137,
+    "o": 101,
+    "ratio": 0.58,
+    "class": "Neutral"
+  },
+  "45r": {
+    "ol": 69,
+    "o": 96,
+    "ratio": 0.42,
+    "class": "Neutral"
+  },
+  "45v": {
+    "ol": 69,
+    "o": 103,
+    "ratio": 0.4,
+    "class": "Neutral"
+  },
+  "46r": {
+    "ol": 82,
+    "o": 76,
+    "ratio": 0.52,
+    "class": "Neutral"
+  },
+  "46v": {
+    "ol": 34,
+    "o": 138,
+    "ratio": 0.2,
+    "class": "Dry"
+  },
+  "47r": {
+    "ol": 106,
+    "o": 59,
+    "ratio": 0.64,
+    "class": "Wet"
+  },
+  "47v": {
+    "ol": 51,
+    "o": 59,
+    "ratio": 0.46,
+    "class": "Neutral"
+  },
+  "48r": {
+    "ol": 80,
+    "o": 124,
+    "ratio": 0.39,
+    "class": "Dry"
+  },
+  "48v": {
+    "ol": 49,
+    "o": 191,
+    "ratio": 0.2,
+    "class": "Dry"
+  },
+  "49r": {
+    "ol": 93,
+    "o": 113,
+    "ratio": 0.45,
+    "class": "Neutral"
+  },
+  "49v": {
+    "ol": 158,
+    "o": 263,
+    "ratio": 0.38,
+    "class": "Dry"
+  },
+  "50r": {
+    "ol": 66,
+    "o": 133,
+    "ratio": 0.33,
+    "class": "Dry"
+  },
+  "51r": {
+    "ol": 65,
+    "o": 103,
+    "ratio": 0.39,
+    "class": "Dry"
+  },
+  "51v": {
+    "ol": 82,
+    "o": 46,
+    "ratio": 0.64,
+    "class": "Wet"
+  },
+  "52r": {
+    "ol": 30,
+    "o": 74,
+    "ratio": 0.29,
+    "class": "Dry"
+  },
+  "52v": {
+    "ol": 71,
+    "o": 54,
+    "ratio": 0.57,
+    "class": "Neutral"
+  },
+  "53v": {
+    "ol": 45,
+    "o": 66,
+    "ratio": 0.41,
+    "class": "Neutral"
+  },
+  "54r": {
+    "ol": 114,
+    "o": 114,
+    "ratio": 0.5,
+    "class": "Neutral"
+  },
+  "54v": {
+    "ol": 75,
+    "o": 56,
+    "ratio": 0.57,
+    "class": "Neutral"
+  },
+  "55r": {
+    "ol": 46,
+    "o": 179,
+    "ratio": 0.2,
+    "class": "Dry"
+  },
+  "55v": {
+    "ol": 45,
+    "o": 143,
+    "ratio": 0.24,
+    "class": "Dry"
+  },
+  "56v": {
+    "ol": 118,
+    "o": 58,
+    "ratio": 0.67,
+    "class": "Wet"
+  },
+  "57r": {
+    "ol": 0,
+    "o": 113,
+    "ratio": 0.0,
+    "class": "Dry"
+  },
+  "58r": {
+    "ol": 170,
+    "o": 260,
+    "ratio": 0.4,
+    "class": "Dry"
+  },
+  "66r": {
+    "ol": 164,
+    "o": 229,
+    "ratio": 0.42,
+    "class": "Neutral"
+  },
+  "66v": {
+    "ol": 13,
+    "o": 76,
+    "ratio": 0.15,
+    "class": "Dry"
+  },
+  "68r": {
+    "ol": 181,
+    "o": 566,
+    "ratio": 0.24,
+    "class": "Dry"
+  },
+  "68v": {
+    "ol": 217,
+    "o": 614,
+    "ratio": 0.26,
+    "class": "Dry"
+  },
+  "70r": {
+    "ol": 140,
+    "o": 513,
+    "ratio": 0.21,
+    "class": "Dry"
+  },
+  "75r": {
+    "ol": 329,
+    "o": 320,
+    "ratio": 0.51,
+    "class": "Neutral"
+  },
+  "75v": {
+    "ol": 546,
+    "o": 423,
+    "ratio": 0.56,
+    "class": "Neutral"
+  },
+  "76r": {
+    "ol": 339,
+    "o": 561,
+    "ratio": 0.38,
+    "class": "Dry"
+  },
+  "77v": {
+    "ol": 320,
+    "o": 90,
+    "ratio": 0.78,
+    "class": "Wet"
+  },
+  "78r": {
+    "ol": 245,
+    "o": 295,
+    "ratio": 0.45,
+    "class": "Neutral"
+  },
+  "78v": {
+    "ol": 457,
+    "o": 304,
+    "ratio": 0.6,
+    "class": "Wet"
+  },
+  "79r": {
+    "ol": 503,
+    "o": 389,
+    "ratio": 0.56,
+    "class": "Neutral"
+  },
+  "79v": {
+    "ol": 407,
+    "o": 482,
+    "ratio": 0.46,
+    "class": "Neutral"
+  },
+  "80r": {
+    "ol": 548,
+    "o": 358,
+    "ratio": 0.6,
+    "class": "Wet"
+  },
+  "80v": {
+    "ol": 611,
+    "o": 240,
+    "ratio": 0.72,
+    "class": "Wet"
+  },
+  "81r": {
+    "ol": 371,
+    "o": 211,
+    "ratio": 0.64,
+    "class": "Wet"
+  },
+  "81v": {
+    "ol": 282,
+    "o": 217,
+    "ratio": 0.57,
+    "class": "Neutral"
+  },
+  "82r": {
+    "ol": 215,
+    "o": 142,
+    "ratio": 0.6,
+    "class": "Wet"
+  },
+  "82v": {
+    "ol": 378,
+    "o": 214,
+    "ratio": 0.64,
+    "class": "Wet"
+  },
+  "83r": {
+    "ol": 220,
+    "o": 191,
+    "ratio": 0.54,
+    "class": "Neutral"
+  },
+  "83v": {
+    "ol": 309,
+    "o": 186,
+    "ratio": 0.62,
+    "class": "Wet"
+  },
+  "84r": {
+    "ol": 355,
+    "o": 361,
+    "ratio": 0.5,
+    "class": "Neutral"
+  },
+  "84v": {
+    "ol": 419,
+    "o": 427,
+    "ratio": 0.5,
+    "class": "Neutral"
+  },
+  "85r": {
+    "ol": 186,
+    "o": 495,
+    "ratio": 0.27,
+    "class": "Dry"
+  },
+  "86v": {
+    "ol": 589,
+    "o": 1132,
+    "ratio": 0.34,
+    "class": "Dry"
+  },
+  "87v": {
+    "ol": 75,
+    "o": 80,
+    "ratio": 0.48,
+    "class": "Neutral"
+  },
+  "88r": {
+    "ol": 213,
+    "o": 154,
+    "ratio": 0.58,
+    "class": "Neutral"
+  },
+  "88v": {
+    "ol": 82,
+    "o": 132,
+    "ratio": 0.38,
+    "class": "Dry"
+  },
+  "89r": {
+    "ol": 411,
+    "o": 422,
+    "ratio": 0.49,
+    "class": "Neutral"
+  },
+  "89v": {
+    "ol": 238,
+    "o": 463,
+    "ratio": 0.34,
+    "class": "Dry"
+  },
+  "90r": {
+    "ol": 92,
+    "o": 136,
+    "ratio": 0.4,
+    "class": "Neutral"
+  },
+  "90v": {
+    "ol": 161,
+    "o": 128,
+    "ratio": 0.56,
+    "class": "Neutral"
+  },
+  "93r": {
+    "ol": 235,
+    "o": 254,
+    "ratio": 0.48,
+    "class": "Neutral"
+  },
+  "95v": {
+    "ol": 56,
+    "o": 188,
+    "ratio": 0.23,
+    "class": "Dry"
+  },
+  "99v": {
+    "ol": 267,
+    "o": 201,
+    "ratio": 0.57,
+    "class": "Neutral"
+  },
+  "100v": {
+    "ol": 91,
+    "o": 84,
+    "ratio": 0.52,
+    "class": "Neutral"
+  },
+  "102v": {
+    "ol": 231,
+    "o": 429,
+    "ratio": 0.35,
+    "class": "Dry"
+  },
+  "103r": {
+    "ol": 196,
+    "o": 428,
+    "ratio": 0.31,
+    "class": "Dry"
+  },
+  "103v": {
+    "ol": 222,
+    "o": 405,
+    "ratio": 0.35,
+    "class": "Dry"
+  },
+  "104r": {
+    "ol": 197,
+    "o": 417,
+    "ratio": 0.32,
+    "class": "Dry"
+  },
+  "105r": {
+    "ol": 126,
+    "o": 339,
+    "ratio": 0.27,
+    "class": "Dry"
+  },
+  "105v": {
+    "ol": 153,
+    "o": 579,
+    "ratio": 0.21,
+    "class": "Dry"
+  },
+  "106r": {
+    "ol": 201,
+    "o": 518,
+    "ratio": 0.28,
+    "class": "Dry"
+  },
+  "106v": {
+    "ol": 195,
+    "o": 646,
+    "ratio": 0.23,
+    "class": "Dry"
+  },
+  "107r": {
+    "ol": 231,
+    "o": 529,
+    "ratio": 0.3,
+    "class": "Dry"
+  },
+  "107v": {
+    "ol": 292,
+    "o": 510,
+    "ratio": 0.36,
+    "class": "Dry"
+  },
+  "108v": {
+    "ol": 285,
+    "o": 498,
+    "ratio": 0.36,
+    "class": "Dry"
+  },
+  "111r": {
+    "ol": 167,
+    "o": 552,
+    "ratio": 0.23,
+    "class": "Dry"
+  },
+  "112v": {
+    "ol": 212,
+    "o": 601,
+    "ratio": 0.26,
+    "class": "Dry"
+  },
+  "114v": {
+    "ol": 127,
+    "o": 372,
+    "ratio": 0.25,
+    "class": "Dry"
+  },
+  "115r": {
+    "ol": 163,
+    "o": 305,
+    "ratio": 0.35,
+    "class": "Dry"
+  },
+  "116r": {
+    "ol": 199,
+    "o": 394,
+    "ratio": 0.34,
+    "class": "Dry"
+  },
+  "2r": {
+    "ol": 66,
+    "o": 26,
+    "ratio": 0.72,
+    "class": "Wet"
+  },
+  "2v": {
+    "ol": 49,
+    "o": 62,
+    "ratio": 0.44,
+    "class": "Neutral"
+  },
+  "3r": {
+    "ol": 119,
+    "o": 101,
+    "ratio": 0.54,
+    "class": "Neutral"
+  },
+  "4r": {
+    "ol": 62,
+    "o": 10,
+    "ratio": 0.86,
+    "class": "Wet"
+  },
+  "4v": {
+    "ol": 42,
+    "o": 105,
+    "ratio": 0.29,
+    "class": "Dry"
+  },
+  "5v": {
+    "ol": 56,
+    "o": 44,
+    "ratio": 0.56,
+    "class": "Neutral"
+  },
+  "6r": {
+    "ol": 48,
+    "o": 78,
+    "ratio": 0.38,
+    "class": "Dry"
+  },
+  "7r": {
+    "ol": 35,
+    "o": 57,
+    "ratio": 0.38,
+    "class": "Dry"
+  },
+  "7v": {
+    "ol": 64,
+    "o": 70,
+    "ratio": 0.48,
+    "class": "Neutral"
+  },
+  "8v": {
+    "ol": 137,
+    "o": 91,
+    "ratio": 0.6,
+    "class": "Wet"
+  },
+  "9v": {
+    "ol": 70,
+    "o": 85,
+    "ratio": 0.45,
+    "class": "Neutral"
+  },
+  "10r": {
+    "ol": 46,
+    "o": 77,
+    "ratio": 0.37,
+    "class": "Dry"
+  },
+  "10v": {
+    "ol": 42,
+    "o": 25,
+    "ratio": 0.63,
+    "class": "Wet"
+  },
+  "11r": {
+    "ol": 35,
+    "o": 5,
+    "ratio": 0.88,
+    "class": "Wet"
+  },
+  "14v": {
+    "ol": 18,
+    "o": 85,
+    "ratio": 0.17,
+    "class": "Dry"
+  },
+  "16r": {
+    "ol": 20,
+    "o": 81,
+    "ratio": 0.2,
+    "class": "Dry"
+  },
+  "16v": {
+    "ol": 35,
+    "o": 47,
+    "ratio": 0.43,
+    "class": "Neutral"
+  },
+  "19r": {
+    "ol": 20,
+    "o": 37,
+    "ratio": 0.35,
+    "class": "Dry"
+  },
+  "20r": {
+    "ol": 53,
+    "o": 78,
+    "ratio": 0.4,
+    "class": "Neutral"
+  },
+  "21r": {
+    "ol": 106,
+    "o": 81,
+    "ratio": 0.57,
+    "class": "Neutral"
+  },
+  "21v": {
+    "ol": 55,
+    "o": 78,
+    "ratio": 0.41,
+    "class": "Neutral"
+  },
+  "22r": {
+    "ol": 101,
+    "o": 93,
+    "ratio": 0.52,
+    "class": "Neutral"
+  },
+  "22v": {
+    "ol": 48,
+    "o": 101,
+    "ratio": 0.32,
+    "class": "Dry"
+  },
+  "23v": {
+    "ol": 174,
+    "o": 139,
+    "ratio": 0.56,
+    "class": "Neutral"
+  },
+  "25v": {
+    "ol": 30,
+    "o": 53,
+    "ratio": 0.36,
+    "class": "Dry"
+  },
+  "26v": {
+    "ol": 12,
+    "o": 114,
+    "ratio": 0.1,
+    "class": "Dry"
+  },
+  "28r": {
+    "ol": 84,
+    "o": 89,
+    "ratio": 0.49,
+    "class": "Neutral"
+  },
+  "29r": {
+    "ol": 18,
+    "o": 31,
+    "ratio": 0.37,
+    "class": "Dry"
+  },
+  "35v": {
+    "ol": 45,
+    "o": 63,
+    "ratio": 0.42,
+    "class": "Neutral"
+  },
+  "38r": {
+    "ol": 15,
+    "o": 66,
+    "ratio": 0.19,
+    "class": "Dry"
+  },
+  "38v": {
+    "ol": 40,
+    "o": 61,
+    "ratio": 0.4,
+    "class": "Dry"
+  },
+  "44r": {
+    "ol": 53,
+    "o": 113,
+    "ratio": 0.32,
+    "class": "Dry"
+  },
+  "50v": {
+    "ol": 59,
+    "o": 164,
+    "ratio": 0.26,
+    "class": "Dry"
+  },
+  "53r": {
+    "ol": 46,
+    "o": 102,
+    "ratio": 0.31,
+    "class": "Dry"
+  },
+  "56r": {
+    "ol": 82,
+    "o": 104,
+    "ratio": 0.44,
+    "class": "Neutral"
+  },
+  "57v": {
+    "ol": 18,
+    "o": 202,
+    "ratio": 0.08,
+    "class": "Dry"
+  },
+  "58v": {
+    "ol": 124,
+    "o": 363,
+    "ratio": 0.25,
+    "class": "Dry"
+  },
+  "65r": {
+    "ol": 0,
+    "o": 4,
+    "ratio": 0.0,
+    "class": "Dry"
+  },
+  "65v": {
+    "ol": 4,
+    "o": 32,
+    "ratio": 0.11,
+    "class": "Dry"
+  },
+  "67r": {
+    "ol": 88,
+    "o": 438,
+    "ratio": 0.17,
+    "class": "Dry"
+  },
+  "67v": {
+    "ol": 54,
+    "o": 364,
+    "ratio": 0.13,
+    "class": "Dry"
+  },
+  "69r": {
+    "ol": 36,
+    "o": 349,
+    "ratio": 0.09,
+    "class": "Dry"
+  },
+  "69v": {
+    "ol": 28,
+    "o": 259,
+    "ratio": 0.1,
+    "class": "Dry"
+  },
+  "70v": {
+    "ol": 57,
+    "o": 574,
+    "ratio": 0.09,
+    "class": "Dry"
+  },
+  "116v": {
+    "ol": 0,
+    "o": 4,
+    "ratio": 0.0,
+    "class": "Dry"
+  },
+  "71r": {
+    "ol": 40,
+    "o": 205,
+    "ratio": 0.16,
+    "class": "Dry"
+  },
+  "71v": {
+    "ol": 22,
+    "o": 200,
+    "ratio": 0.1,
+    "class": "Dry"
+  },
+  "72r": {
+    "ol": 158,
+    "o": 721,
+    "ratio": 0.18,
+    "class": "Dry"
+  },
+  "72v": {
+    "ol": 110,
+    "o": 600,
+    "ratio": 0.15,
+    "class": "Dry"
+  },
+  "73r": {
+    "ol": 6,
+    "o": 153,
+    "ratio": 0.04,
+    "class": "Dry"
+  },
+  "73v": {
+    "ol": 18,
+    "o": 154,
+    "ratio": 0.1,
+    "class": "Dry"
+  },
+  "76v": {
+    "ol": 230,
+    "o": 384,
+    "ratio": 0.37,
+    "class": "Dry"
+  },
+  "77r": {
+    "ol": 260,
+    "o": 94,
+    "ratio": 0.73,
+    "class": "Wet"
+  },
+  "86r": {
+    "ol": 0,
+    "o": 0,
+    "ratio": 0.5,
+    "class": "Neutral"
+  },
+  "87r": {
+    "ol": 45,
+    "o": 51,
+    "ratio": 0.47,
+    "class": "Neutral"
+  },
+  "93v": {
+    "ol": 78,
+    "o": 93,
+    "ratio": 0.46,
+    "class": "Neutral"
+  },
+  "94r": {
+    "ol": 32,
+    "o": 88,
+    "ratio": 0.27,
+    "class": "Dry"
+  },
+  "94v": {
+    "ol": 25,
+    "o": 104,
+    "ratio": 0.19,
+    "class": "Dry"
+  },
+  "95r": {
+    "ol": 98,
+    "o": 164,
+    "ratio": 0.37,
+    "class": "Dry"
+  },
+  "96r": {
+    "ol": 96,
+    "o": 88,
+    "ratio": 0.52,
+    "class": "Neutral"
+  },
+  "96v": {
+    "ol": 13,
+    "o": 36,
+    "ratio": 0.27,
+    "class": "Dry"
+  },
+  "99r": {
+    "ol": 198,
+    "o": 179,
+    "ratio": 0.53,
+    "class": "Neutral"
+  },
+  "100r": {
+    "ol": 181,
+    "o": 102,
+    "ratio": 0.64,
+    "class": "Wet"
+  },
+  "102r": {
+    "ol": 309,
+    "o": 228,
+    "ratio": 0.58,
+    "class": "Neutral"
+  },
+  "104v": {
+    "ol": 186,
+    "o": 326,
+    "ratio": 0.36,
+    "class": "Dry"
+  },
+  "108r": {
+    "ol": 179,
+    "o": 675,
+    "ratio": 0.21,
+    "class": "Dry"
+  },
+  "111v": {
+    "ol": 191,
+    "o": 597,
+    "ratio": 0.24,
+    "class": "Dry"
+  },
+  "112r": {
+    "ol": 182,
+    "o": 723,
+    "ratio": 0.2,
+    "class": "Dry"
+  },
+  "113r": {
+    "ol": 267,
+    "o": 556,
+    "ratio": 0.32,
+    "class": "Dry"
+  },
+  "113v": {
+    "ol": 307,
+    "o": 693,
+    "ratio": 0.31,
+    "class": "Dry"
+  },
+  "114r": {
+    "ol": 166,
+    "o": 565,
+    "ratio": 0.23,
+    "class": "Dry"
+  },
+  "115v": {
+    "ol": 110,
+    "o": 252,
+    "ratio": 0.3,
+    "class": "Dry"
+  }
+}

@@ -1,0 +1,5614 @@
+{
+  "olshedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "ofcho": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "sarain": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "RED_/_BROWN_(ROOT)",
+        "END"
+      ]
+    ]
+  },
+  "dackhyky": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PREPOSITION/CONJUNCTION",
+        "END"
+      ]
+    ]
+  },
+  "otedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "SPRING/SOURCE",
+        "END"
+      ],
+      [
+        "PLANT_TERM",
+        "END"
+      ]
+    ]
+  },
+  "kasol": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ARIES",
+        "END"
+      ]
+    ]
+  },
+  "shkaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(QO-_+_TEY)",
+        "END"
+      ]
+    ]
+  },
+  "oteys": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "WHICH/THAT",
+        "END"
+      ]
+    ]
+  },
+  "olor<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "WHICH/THAT",
+        "END"
+      ],
+      [
+        "FLOWER/HANDFUL",
+        "END"
+      ]
+    ]
+  },
+  "shol<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "HERB/PLANT_(GENERIC)",
+        "END"
+      ],
+      [
+        "FLOWER/HANDFUL",
+        "END"
+      ]
+    ]
+  },
+  "lotor<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MEASURE/PORTION",
+        "END"
+      ]
+    ]
+  },
+  "chedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 8,
+    "examples": [
+      [
+        "SICK_(CHOLEH)",
+        "END"
+      ],
+      [
+        "GERANIUM/POLYGONUM",
+        "END"
+      ],
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "oraiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "seedy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "cheedalaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "lchem": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "qokeey<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 5,
+    "examples": [
+      [
+        "VERB_FORM",
+        "END"
+      ],
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(S-_+_AL)",
+        "END"
+      ],
+      [
+        "COOK/PROCESS",
+        "END"
+      ]
+    ]
+  },
+  "shalky": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MEASURE/PORTION",
+        "END"
+      ]
+    ]
+  },
+  "otchy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "WHICH/THAT",
+        "END"
+      ]
+    ]
+  },
+  "chalal<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "otshedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "ltary": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "oloraiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "[COLOR_RED]",
+        "END"
+      ]
+    ]
+  },
+  "sam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 3,
+    "examples": [
+      [
+        "ROOT/RHIZOME",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "RED_/_BROWN_(ROOT)",
+        "END"
+      ]
+    ]
+  },
+  "cheosaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MEASURE/PORTION",
+        "END"
+      ]
+    ]
+  },
+  "qoty<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "THE_(+_NOUN)",
+        "END"
+      ]
+    ]
+  },
+  "okeedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 3,
+    "examples": [
+      [
+        "FINGER",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "[COLOR_RED]",
+        "END"
+      ]
+    ]
+  },
+  "qokam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Mostly (11/13) at end of sentence",
+    "count": 13,
+    "examples": [
+      [
+        "MIXTURE/DECOCTION",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "HERB/PLANT_(GENERIC)",
+        "END"
+      ]
+    ]
+  },
+  "okeey<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "ADAR_(MONTH)",
+        "END"
+      ],
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "olldy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "THE_(+_NOUN)",
+        "END"
+      ]
+    ]
+  },
+  "shed<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(QO-_+_KAL)",
+        "END"
+      ]
+    ]
+  },
+  "opalam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "HONEY",
+        "END"
+      ]
+    ]
+  },
+  "olshey<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT_TERM",
+        "END"
+      ]
+    ]
+  },
+  "olkedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "larorol": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "or<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "lolaiin": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "COOK/PROCESS",
+        "END"
+      ]
+    ]
+  },
+  "oteeam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "BRANCH",
+        "END"
+      ]
+    ]
+  },
+  "oteaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERB_FORM",
+        "END"
+      ]
+    ]
+  },
+  "qckhey": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MIXTURE/DECOCTION",
+        "END"
+      ]
+    ]
+  },
+  "olaiiny": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "BARLEY",
+        "END"
+      ]
+    ]
+  },
+  "olkam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MIXTURE/DECOCTION",
+        "END"
+      ]
+    ]
+  },
+  "keechy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "LEAF/FOLIAGE",
+        "END"
+      ]
+    ]
+  },
+  "chealy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "ro": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 4,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "THE_(+_NOUN)",
+        "END"
+      ],
+      [
+        "FLOWER",
+        "END"
+      ]
+    ]
+  },
+  "chary<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(-AIIN_+_OR)",
+        "END"
+      ]
+    ]
+  },
+  "chea": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "[PLANT_NAME]",
+        "END"
+      ]
+    ]
+  },
+  "teedaram": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chry<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(QO-_+_DAIIN)",
+        "END"
+      ],
+      [
+        "PRIEST/COHEN",
+        "END"
+      ]
+    ]
+  },
+  "oka": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FLOWER/HANDFUL",
+        "END"
+      ]
+    ]
+  },
+  "dam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(QO-_+_DAIIN)",
+        "END"
+      ]
+    ]
+  },
+  "otalr": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "olkeedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "cheodaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(K-_+_AIIN)",
+        "END"
+      ]
+    ]
+  },
+  "otarody": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "kshedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "RED_/_BROWN_(ROOT)",
+        "END"
+      ]
+    ]
+  },
+  "lshd": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "charaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "airam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FLOWER/HANDFUL",
+        "END"
+      ]
+    ]
+  },
+  "shee%%%%%%%%%%%%<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ROOT_(SHORESH)",
+        "END"
+      ]
+    ]
+  },
+  "qoraraiin": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "ctham": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "BARLEY",
+        "END"
+      ]
+    ]
+  },
+  "arodly<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "EARTH",
+        "END"
+      ]
+    ]
+  },
+  "alchd": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "THE_(+_NOUN)",
+        "END"
+      ]
+    ]
+  },
+  "raly<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "HERB/PLANT_(GENERIC)",
+        "END"
+      ]
+    ]
+  },
+  "cholxy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FIG",
+        "END"
+      ]
+    ]
+  },
+  "olaly<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SICK_(CHOLEH)",
+        "END"
+      ]
+    ]
+  },
+  "opam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 3,
+    "examples": [
+      [
+        "PLANT_TERM",
+        "END"
+      ],
+      [
+        "FLOWER/BLOSSOM",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "qotir": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "qotchdy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT_TERM",
+        "END"
+      ]
+    ]
+  },
+  "ofaiino": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "cholkar<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "START",
+        "END"
+      ]
+    ]
+  },
+  "oa%%%%%%%%%%%%%%%%%%%%%%%%": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SICK_(CHOLEH)",
+        "END"
+      ]
+    ]
+  },
+  "otaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 5,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chedal<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "qotady": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "cheodalol<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(S-_+_OL)",
+        "END"
+      ]
+    ]
+  },
+  "daiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 7,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(QO-_+_KOL)",
+        "END"
+      ],
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ],
+      [
+        "ARIES",
+        "END"
+      ]
+    ]
+  },
+  "chataiin": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPRING/SOURCE",
+        "END"
+      ]
+    ]
+  },
+  "daiindl<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "STRENGTH/POWER",
+        "END"
+      ]
+    ]
+  },
+  "dadam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "IN_THE_SPRING",
+        "END"
+      ]
+    ]
+  },
+  "saraiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chodaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "archcthy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chochs<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PAPAVER",
+        "END"
+      ]
+    ]
+  },
+  "cheody<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 5,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(QO-_+_DAIIN)",
+        "END"
+      ],
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ],
+      [
+        "THYME",
+        "END"
+      ]
+    ]
+  },
+  "chaim": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "lkeedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERB_FORM",
+        "END"
+      ]
+    ]
+  },
+  "olcha<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SICK_(CHOLEH)",
+        "END"
+      ]
+    ]
+  },
+  "qokcheodaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT_COLOR_(GREEN/RED)",
+        "END"
+      ]
+    ]
+  },
+  "arodam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPRING/SOURCE",
+        "END"
+      ]
+    ]
+  },
+  "qoky<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "otey<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "olpshedy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "THE_(+_NOUN)",
+        "END"
+      ]
+    ]
+  },
+  "aiirody": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "oesal": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "HERB/PLANT_(GENERIC)",
+        "END"
+      ]
+    ]
+  },
+  "okchey<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "ytam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "START",
+        "END"
+      ]
+    ]
+  },
+  "dyaiin": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "ry": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 3,
+    "examples": [
+      [
+        "AND_VERB_FORM",
+        "END"
+      ],
+      [
+        "[COLOR_RED]",
+        "END"
+      ],
+      [
+        "ADAR_(MONTH)",
+        "END"
+      ]
+    ]
+  },
+  "ot<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "oral<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT_COLOR_(GREEN/RED)",
+        "END"
+      ]
+    ]
+  },
+  "qlky": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "RED_/_BROWN_(ROOT)",
+        "END"
+      ]
+    ]
+  },
+  "aiiral": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(O-_+_DAIIN)",
+        "END"
+      ]
+    ]
+  },
+  "chekaim": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "chefchey<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "airols<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "cphedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "[PLANT_NAME]",
+        "END"
+      ]
+    ]
+  },
+  "kary<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SICK_(CHOLEH)",
+        "END"
+      ]
+    ]
+  },
+  "fchoky": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN/GOLD",
+        "END"
+      ]
+    ]
+  },
+  "ofory": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "THISTLE",
+        "END"
+      ]
+    ]
+  },
+  "otaly<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "EARTH",
+        "END"
+      ]
+    ]
+  },
+  "chedaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "sairom": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPECIFIC_PLANT",
+        "END"
+      ]
+    ]
+  },
+  "m": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "AND_FIG",
+        "END"
+      ]
+    ]
+  },
+  "lchedr<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "kaiishdy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "AND_PLANT:UVA_QUERCINA",
+        "END"
+      ]
+    ]
+  },
+  "ltchdal<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "IS_(ESSERE)",
+        "END"
+      ]
+    ]
+  },
+  "opaiim": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "lklor": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "olkaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "COMMAND_TAKE",
+        "END"
+      ],
+      [
+        "MOON",
+        "END"
+      ]
+    ]
+  },
+  "karaim": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT_TERM",
+        "END"
+      ]
+    ]
+  },
+  "am<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "lpaim": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT:TUSSILAGO",
+        "END"
+      ]
+    ]
+  },
+  "cheot": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "IN_THE_SPRING",
+        "END"
+      ]
+    ]
+  },
+  "ainkam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN/GOLD",
+        "END"
+      ]
+    ]
+  },
+  "cheey<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 3,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ],
+      [
+        "TO_THE/AMOUNT",
+        "END"
+      ],
+      [
+        "[PLANT_NAME]",
+        "END"
+      ]
+    ]
+  },
+  "paradam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "paiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERBAL/ADJECTIVAL",
+        "END"
+      ]
+    ]
+  },
+  "otainlody": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "opairam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "COMMAND_TAKE",
+        "END"
+      ]
+    ]
+  },
+  "apy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "kaishd": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "TO_THE/AMOUNT",
+        "END"
+      ]
+    ]
+  },
+  "aildy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FLOWER/HANDFUL",
+        "END"
+      ]
+    ]
+  },
+  "okshey<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPRING/SOURCE",
+        "END"
+      ]
+    ]
+  },
+  "rod": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "THE_(+_NOUN)",
+        "END"
+      ]
+    ]
+  },
+  "orcheos<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "cheees<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "THE_(+_NOUN)",
+        "END"
+      ]
+    ]
+  },
+  "qokar<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "ONE",
+        "END"
+      ]
+    ]
+  },
+  "qotoky": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "RED_/_BROWN_(ROOT)",
+        "END"
+      ]
+    ]
+  },
+  "lchm": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "dchedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "okeor<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MIXTURE/DECOCTION",
+        "END"
+      ]
+    ]
+  },
+  "okchdam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "CHEST",
+        "END"
+      ]
+    ]
+  },
+  "lkeeeady": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chodar<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPRING/SOURCE",
+        "END"
+      ]
+    ]
+  },
+  "okaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 4,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "PRIEST/COHEN",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "aror<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ADAR_(MONTH)",
+        "END"
+      ]
+    ]
+  },
+  "chkchedaram": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "ykaraiin": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "TREE",
+        "END"
+      ]
+    ]
+  },
+  "lkeey<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "olchl": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "aiiny": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FLOWER/BLOSSOM",
+        "END"
+      ]
+    ]
+  },
+  "qotedary": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "okaly<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "lchedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 3,
+    "examples": [
+      [
+        "ONE",
+        "END"
+      ],
+      [
+        "VERB_FORM",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "dlchy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT:SCABIOSA",
+        "END"
+      ]
+    ]
+  },
+  "chdaldy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "shory<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SICK",
+        "END"
+      ]
+    ]
+  },
+  "otainkam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "EARTH",
+        "END"
+      ]
+    ]
+  },
+  "cheokam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "charam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "ara": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ROOT",
+        "END"
+      ]
+    ]
+  },
+  "laror": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ADAR_(MONTH)",
+        "END"
+      ]
+    ]
+  },
+  "oltydy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "AND_ONE",
+        "END"
+      ]
+    ]
+  },
+  "alkam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "MIXTURE/DECOCTION",
+        "END"
+      ],
+      [
+        "MOON",
+        "END"
+      ]
+    ]
+  },
+  "chodal<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(QO-_+_DAIIN)",
+        "END"
+      ]
+    ]
+  },
+  "saiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "okcharaiin": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "qokchedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "HONEY",
+        "END"
+      ]
+    ]
+  },
+  "okacfhy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "okarol<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "LEAF/FOLIAGE",
+        "END"
+      ]
+    ]
+  },
+  "olcham<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "WATER/SPRING_(VARIANT)",
+        "END"
+      ]
+    ]
+  },
+  "saram": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "dychy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "HERB/PLANT_(GENERIC)",
+        "END"
+      ]
+    ]
+  },
+  "alodam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "EARTH",
+        "END"
+      ]
+    ]
+  },
+  "cholkaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "IN_THE_SPRING",
+        "END"
+      ]
+    ]
+  },
+  "odr": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "oteol<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "IN_THE_SPRING",
+        "END"
+      ]
+    ]
+  },
+  "podkor": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "choty<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "FINGER",
+        "END"
+      ],
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(K-_+_AIIN)",
+        "END"
+      ]
+    ]
+  },
+  "shky<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "raiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "chotchedy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "NOUN_MIXTURE",
+        "END"
+      ]
+    ]
+  },
+  "otcheey<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT_COLOR_(GREEN/RED)",
+        "END"
+      ]
+    ]
+  },
+  "akiroloy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "TO_THE/AMOUNT",
+        "END"
+      ]
+    ]
+  },
+  "alom": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 4,
+    "examples": [
+      [
+        "BARLEY",
+        "END"
+      ],
+      [
+        "FLOWER/HANDFUL",
+        "END"
+      ],
+      [
+        "FLOWER/BLOSSOM",
+        "END"
+      ]
+    ]
+  },
+  "otaral": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "WHICH/THAT",
+        "END"
+      ],
+      [
+        "COMMAND_TAKE",
+        "END"
+      ]
+    ]
+  },
+  "airal<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chey<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 3,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "aldy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "PRIEST",
+        "END"
+      ],
+      [
+        "PRIEST/COHEN",
+        "END"
+      ]
+    ]
+  },
+  "ainn": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PRIEST/COHEN",
+        "END"
+      ]
+    ]
+  },
+  "lldy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "VERB_FORM",
+        "END"
+      ]
+    ]
+  },
+  "choiinaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ROOT_(SHORESH)",
+        "END"
+      ]
+    ]
+  },
+  "olfy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "om": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 3,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "yols": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ROOT/RHIZOME",
+        "END"
+      ]
+    ]
+  },
+  "ralky": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "okal<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "opaim": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "kaldaiim": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ARTICLE_THE",
+        "END"
+      ]
+    ]
+  },
+  "alkaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "LEAF/FOLIAGE",
+        "END"
+      ],
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "otam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "RED_/_BROWN_(ROOT)",
+        "END"
+      ]
+    ]
+  },
+  "kairam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT:POLYGONUM",
+        "END"
+      ]
+    ]
+  },
+  "acthy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "qokaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 3,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "ROOT/RHIZOME",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "alkal": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "RED_/_BROWN_(ROOT)",
+        "END"
+      ]
+    ]
+  },
+  "aiinal<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERB_FORM",
+        "END"
+      ]
+    ]
+  },
+  "otaily<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "THE_(+_NOUN)",
+        "END"
+      ]
+    ]
+  },
+  "aiinm": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "AND_EARTH",
+        "END"
+      ]
+    ]
+  },
+  "qokaldy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPRING/SOURCE",
+        "END"
+      ]
+    ]
+  },
+  "aty": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "EARTH",
+        "END"
+      ],
+      [
+        "FLOWER/HANDFUL",
+        "END"
+      ]
+    ]
+  },
+  "shedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "FIG",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "qonchcfhy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FINGER",
+        "END"
+      ]
+    ]
+  },
+  "dalam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "IN_THE_SPRING",
+        "END"
+      ],
+      [
+        "IN_THE_SPRING",
+        "END"
+      ]
+    ]
+  },
+  "dlkal": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "tarairy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERB_(UNKNOWN)",
+        "END"
+      ]
+    ]
+  },
+  "aiiraly": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPECIFIC_PLANT_(F66R)",
+        "END"
+      ]
+    ]
+  },
+  "lkaim": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "HERB/PLANT_(GENERIC)",
+        "END"
+      ]
+    ]
+  },
+  "chdar<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "LEAF/FOLIAGE",
+        "END"
+      ]
+    ]
+  },
+  "lkaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 4,
+    "examples": [
+      [
+        "PRIEST/COHEN",
+        "END"
+      ],
+      [
+        "HOLE/PIERCE_(CHOR)",
+        "END"
+      ],
+      [
+        "MIXTURE/DECOCTION",
+        "END"
+      ]
+    ]
+  },
+  "raraiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "[COLOR_RED]",
+        "END"
+      ]
+    ]
+  },
+  "ltam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "rary<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "NOUN_MIXTURE",
+        "END"
+      ]
+    ]
+  },
+  "sheey<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "odaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "PRIEST/COHEN",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "ainly<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPRING/SOURCE",
+        "END"
+      ]
+    ]
+  },
+  "cheokaly": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPRING/SOURCE",
+        "END"
+      ]
+    ]
+  },
+  "lkao": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "COOK/PROCESS",
+        "END"
+      ]
+    ]
+  },
+  "qoy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "-NESS/-LY_(SUFFIX)",
+        "END"
+      ]
+    ]
+  },
+  "kedydy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "RED_/_BROWN_(ROOT)",
+        "END"
+      ]
+    ]
+  },
+  "sheeky<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN/GOLD",
+        "END"
+      ]
+    ]
+  },
+  "qetam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT_COLOR_(GREEN/RED)",
+        "END"
+      ]
+    ]
+  },
+  "ody<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PREPOSITION/CONJUNCTION",
+        "END"
+      ]
+    ]
+  },
+  "otalod": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "IN_THE_SPRING",
+        "END"
+      ]
+    ]
+  },
+  "chedly": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "okedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "[PLANT_NAME]",
+        "END"
+      ]
+    ]
+  },
+  "okeeam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPRING/SOURCE",
+        "END"
+      ]
+    ]
+  },
+  "al%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%keedy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "EARTH",
+        "END"
+      ]
+    ]
+  },
+  "alkain<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "WATER/SPRING_(VARIANT)",
+        "END"
+      ]
+    ]
+  },
+  "alold": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN/GOLD",
+        "END"
+      ]
+    ]
+  },
+  "chckhom<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPRING/SOURCE",
+        "END"
+      ]
+    ]
+  },
+  "keesho": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "keodky": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FLOWER/HANDFUL",
+        "END"
+      ]
+    ]
+  },
+  "oolals": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "keam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "TO_THE/AMOUNT",
+        "END"
+      ]
+    ]
+  },
+  "okam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FLOWER/HANDFUL",
+        "END"
+      ]
+    ]
+  },
+  "keedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "TO_THE/AMOUNT",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "kedarxy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT_COLOR_(GREEN/RED)",
+        "END"
+      ]
+    ]
+  },
+  "cthdy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ALL/VOICE",
+        "END"
+      ]
+    ]
+  },
+  "chectham": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "ofaramoky": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "WHICH/THAT",
+        "END"
+      ]
+    ]
+  },
+  "teedan": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "IN_THE_SPRING",
+        "END"
+      ]
+    ]
+  },
+  "raram": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "RED_/_BROWN_(ROOT)",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "lcheam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "llod": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ONE",
+        "END"
+      ]
+    ]
+  },
+  "okalam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "TO_THE/AMOUNT",
+        "END"
+      ]
+    ]
+  },
+  "cheam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "NOUN_MIXTURE",
+        "END"
+      ]
+    ]
+  },
+  "oldy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "[PLANT_NAME]",
+        "END"
+      ]
+    ]
+  },
+  "lchedam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "RED_/_BROWN_(ROOT)",
+        "END"
+      ]
+    ]
+  },
+  "okeearam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PREPOSITION/CONJUNCTION",
+        "END"
+      ]
+    ]
+  },
+  "aam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(QO-_+_KAL)",
+        "END"
+      ]
+    ]
+  },
+  "llchey": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SICK",
+        "END"
+      ]
+    ]
+  },
+  "lokam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(S-_+_AL)",
+        "END"
+      ]
+    ]
+  },
+  "lam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "ARIES",
+        "END"
+      ],
+      [
+        "HERB/PLANT_(GENERIC)",
+        "END"
+      ]
+    ]
+  },
+  "pchdam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "EARTH",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "lch": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "cheotydy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "[PLANT_NAME]",
+        "END"
+      ]
+    ]
+  },
+  "qoteedaiin": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "NOUN_MIXTURE",
+        "END"
+      ]
+    ]
+  },
+  "qoiraiin": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "COOK/PROCESS",
+        "END"
+      ]
+    ]
+  },
+  "cheamar": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "COOK/PROCESS",
+        "END"
+      ]
+    ]
+  },
+  "lkal<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT_TERM",
+        "END"
+      ]
+    ]
+  },
+  "chalm": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "shykaiin": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "alpchdar": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "llo": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT_TERM",
+        "END"
+      ]
+    ]
+  },
+  "llm": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERB",
+        "END"
+      ]
+    ]
+  },
+  "aman": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ROOT/RHIZOME",
+        "END"
+      ]
+    ]
+  },
+  "lchsl": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "NOUN_MIXTURE",
+        "END"
+      ]
+    ]
+  },
+  "lcheam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chotam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "HOLE/PIERCE_(CHOR)",
+        "END"
+      ]
+    ]
+  },
+  "lchar<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERB_(UNKNOWN)",
+        "END"
+      ]
+    ]
+  },
+  "chckhy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "WHEAT",
+        "END"
+      ]
+    ]
+  },
+  "odys": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "qokary": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(QO-_+_KCHY)",
+        "END"
+      ]
+    ]
+  },
+  "opamdy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERBAL/ADJECTIVAL",
+        "END"
+      ]
+    ]
+  },
+  "amchm": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN/GOLD",
+        "END"
+      ]
+    ]
+  },
+  "cham<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MIXTURE/DECOCTION",
+        "END"
+      ]
+    ]
+  },
+  "qoiral<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "HERB/PLANT_(GENERIC)",
+        "END"
+      ]
+    ]
+  },
+  "otychey": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chedam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MIXTURE/DECOCTION",
+        "END"
+      ]
+    ]
+  },
+  "sharam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chealy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "COOK/PROCESS",
+        "END"
+      ]
+    ]
+  },
+  "cheom<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(QO-_+_KEDY)",
+        "END"
+      ]
+    ]
+  },
+  "karaiiny": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "EARTH",
+        "END"
+      ]
+    ]
+  },
+  "shdal<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MIXTURE/DECOCTION",
+        "END"
+      ]
+    ]
+  },
+  "olam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ],
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(O-_+_LOL)",
+        "END"
+      ]
+    ]
+  },
+  "amam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ROOT",
+        "END"
+      ]
+    ]
+  },
+  "ory": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "WHEAT",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "teop": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "yky<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "cheeoldy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "cheackhy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "orar<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPECIFIC_PLANT_(F50R)",
+        "END"
+      ]
+    ]
+  },
+  "alaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "NOUN_(GENITIVE)",
+        "END"
+      ]
+    ]
+  },
+  "otaldal": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "IN_THE_SPRING",
+        "END"
+      ]
+    ]
+  },
+  "chalor<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FLOWER/HANDFUL",
+        "END"
+      ]
+    ]
+  },
+  "sairal": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chetaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "COOK/PROCESS",
+        "END"
+      ]
+    ]
+  },
+  "cheedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT:POLYGONUM",
+        "END"
+      ]
+    ]
+  },
+  "chor<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "pcha": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "START",
+        "END"
+      ]
+    ]
+  },
+  "sheody<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GERANIUM/POLYGONUM",
+        "END"
+      ]
+    ]
+  },
+  "apchdy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "arar<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "checkhy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MIXTURE/DECOCTION",
+        "END"
+      ]
+    ]
+  },
+  "line": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "FINGER",
+        "END"
+      ],
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chcthd": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "THE_(+_NOUN)",
+        "END"
+      ]
+    ]
+  },
+  "chol<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(O-_+_AIIN)",
+        "END"
+      ]
+    ]
+  },
+  "alpchdy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "ary<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ],
+      [
+        "SPRING/SOURCE",
+        "END"
+      ]
+    ]
+  },
+  "oteeosy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT:TAMUS_COMMUNIS",
+        "END"
+      ]
+    ]
+  },
+  "chotaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "COMMAND_TAKE",
+        "END"
+      ]
+    ]
+  },
+  "chosaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "THYME",
+        "END"
+      ]
+    ]
+  },
+  "cheol<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERB_(UNKNOWN)",
+        "END"
+      ]
+    ]
+  },
+  "ckhydy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPRING/SOURCE",
+        "END"
+      ]
+    ]
+  },
+  "okeody<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "qopam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(QO-_+_KCHY)",
+        "END"
+      ]
+    ]
+  },
+  "arody<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(S-_+_AL)",
+        "END"
+      ]
+    ]
+  },
+  "oteedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FIG",
+        "END"
+      ]
+    ]
+  },
+  "chockhy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "HOLE/PIERCE_(CHOR)",
+        "END"
+      ]
+    ]
+  },
+  "shedaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERB_FORM",
+        "END"
+      ]
+    ]
+  },
+  "aiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "taram": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "okeeody<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "ralchs": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERB_FORM",
+        "END"
+      ]
+    ]
+  },
+  "loary<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "[PLANT_NAME]",
+        "END"
+      ]
+    ]
+  },
+  "cheyor": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "aloshy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "olchy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(K-_+_AIIN)",
+        "END"
+      ]
+    ]
+  },
+  "oror<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SICK_PERSON",
+        "END"
+      ]
+    ]
+  },
+  "llor": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "yteeeor<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(-AIIN_+_OR)",
+        "END"
+      ]
+    ]
+  },
+  "qckham": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "olaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "EARTH",
+        "END"
+      ]
+    ]
+  },
+  "cheos<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "alkeedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "arald": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "okar<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "lkch": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chearam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERB_(UNKNOWN)",
+        "END"
+      ]
+    ]
+  },
+  "chedyotaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "lteam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SMILAX",
+        "END"
+      ]
+    ]
+  },
+  "qoteal": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "oloiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "okarol": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT:GERANIUM",
+        "END"
+      ]
+    ]
+  },
+  "lkeeedam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "ycheod<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "START",
+        "END"
+      ]
+    ]
+  },
+  "ochedal": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT_TERM",
+        "END"
+      ]
+    ]
+  },
+  "old": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN/GOLD",
+        "END"
+      ]
+    ]
+  },
+  "chedalos<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PRIEST",
+        "END"
+      ]
+    ]
+  },
+  "opailo": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "octhdy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "COMMAND_TAKE",
+        "END"
+      ]
+    ]
+  },
+  "dkair": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "[PLANT_NAME]",
+        "END"
+      ]
+    ]
+  },
+  "rodeedy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "[PLANT_NAME]",
+        "END"
+      ]
+    ]
+  },
+  "ches<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPRING/SOURCE",
+        "END"
+      ]
+    ]
+  },
+  "airy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN/GOLD",
+        "END"
+      ]
+    ]
+  },
+  "olom": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "olchedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "[PLANT_NAME]",
+        "END"
+      ]
+    ]
+  },
+  "tedair": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ONE",
+        "END"
+      ]
+    ]
+  },
+  "ykeo": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "qotchar": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "CHEST",
+        "END"
+      ]
+    ]
+  },
+  "chocthy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MIXTURE/DECOCTION",
+        "END"
+      ]
+    ]
+  },
+  "qotedar": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chcthdy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "COMMAND_TAKE",
+        "END"
+      ]
+    ]
+  },
+  "chcthaiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT_TERM",
+        "END"
+      ]
+    ]
+  },
+  "ofcheds": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "THE_(+_NOUN)",
+        "END"
+      ]
+    ]
+  },
+  "okary<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT_TERM",
+        "END"
+      ]
+    ]
+  },
+  "shxam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "qotar<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "LEAF/FOLIAGE",
+        "END"
+      ]
+    ]
+  },
+  "otcheo": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MORPHOLOGICAL_DERIVATIVE_(QO-_+_KEDY)",
+        "END"
+      ]
+    ]
+  },
+  "ykedckhy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT:HOLM",
+        "END"
+      ]
+    ]
+  },
+  "otoydy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chetam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPRING/SOURCE",
+        "END"
+      ]
+    ]
+  },
+  "qopairam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERB",
+        "END"
+      ]
+    ]
+  },
+  "lkealy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "olkaim<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PRIEST",
+        "END"
+      ]
+    ]
+  },
+  "dalr": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "oraro<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "dardyr": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FINGER",
+        "END"
+      ]
+    ]
+  },
+  "chd": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "[COLOR_RED]",
+        "END"
+      ]
+    ]
+  },
+  "chorar<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "rory": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FLOWER",
+        "END"
+      ]
+    ]
+  },
+  "qotolchd": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chchdy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "oeeady<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "dalom": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ARIES",
+        "END"
+      ]
+    ]
+  },
+  "qokaram": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "LEAF/FOLIAGE",
+        "END"
+      ]
+    ]
+  },
+  "chees<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "olchedyo": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT_TERM",
+        "END"
+      ]
+    ]
+  },
+  "cheky<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "opchdaiin": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FLOWER/HANDFUL",
+        "END"
+      ]
+    ]
+  },
+  "okchor<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "HOLE/PIERCE_(CHOR)",
+        "END"
+      ]
+    ]
+  },
+  "chols<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "NOUN_MIXTURE",
+        "END"
+      ]
+    ]
+  },
+  "ykcheo": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "START",
+        "END"
+      ]
+    ]
+  },
+  "oleed<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ROOT/RHIZOME",
+        "END"
+      ]
+    ]
+  },
+  "chotam<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "ros": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERB_FORM",
+        "END"
+      ]
+    ]
+  },
+  "qtam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "soraiin<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "ldaiin": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PAPAVER/POPPY",
+        "END"
+      ]
+    ]
+  },
+  "rodam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ],
+      [
+        "SPECIFIC_PLANT_(F66R)",
+        "END"
+      ]
+    ]
+  },
+  "racthy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "ralom": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "THE_(+_NOUN)",
+        "END"
+      ]
+    ]
+  },
+  "otchedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "RED_/_BROWN_(ROOT)",
+        "END"
+      ]
+    ]
+  },
+  "rosy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FINGER",
+        "END"
+      ]
+    ]
+  },
+  "qopcham": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "kchetam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "chdy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "MIXTURE/DECOCTION",
+        "END"
+      ]
+    ]
+  },
+  "lky<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FLOWER/HANDFUL",
+        "END"
+      ]
+    ]
+  },
+  "lcham": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "lkchedy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "THE_(+_NOUN)",
+        "END"
+      ]
+    ]
+  },
+  "lrar": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PRIEST/COHEN",
+        "END"
+      ]
+    ]
+  },
+  "qokchy<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "TREE",
+        "END"
+      ]
+    ]
+  },
+  "chocphy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "cholaiim<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERB_(UNKNOWN)",
+        "END"
+      ]
+    ]
+  },
+  "amom": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ROOT_(SHORESH)",
+        "END"
+      ]
+    ]
+  },
+  "saly<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "THE_(DEFINITE_ARTICLE)",
+        "END"
+      ]
+    ]
+  },
+  "aralary": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "THE_(+_NOUN)",
+        "END"
+      ]
+    ]
+  },
+  "oteey<$": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "RED_/_BROWN_(ROOT)",
+        "END"
+      ]
+    ]
+  },
+  "rotydy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ALL/VOICE",
+        "END"
+      ]
+    ]
+  },
+  "chcpham": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "okeedam": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "lm": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "high",
+    "reason": "Always at end of sentence",
+    "count": 2,
+    "examples": [
+      [
+        "MIXTURE/DECOCTION",
+        "END"
+      ],
+      [
+        "PLANT:TAMUS_COMMUNIS",
+        "END"
+      ]
+    ]
+  },
+  "dlr": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "PLANT_TERM",
+        "END"
+      ]
+    ]
+  },
+  "arshem": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "qorar": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "VERB_FORM",
+        "END"
+      ]
+    ]
+  },
+  "cheylchy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "UNKNOWN",
+        "END"
+      ]
+    ]
+  },
+  "qokas": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "FIRE",
+        "END"
+      ]
+    ]
+  },
+  "okydy": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "GREEN_(LEAF)",
+        "END"
+      ]
+    ]
+  },
+  "kaly": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ONE",
+        "END"
+      ]
+    ]
+  },
+  "olkaey": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "SPRING/SOURCE",
+        "END"
+      ]
+    ]
+  },
+  "lkan": {
+    "inferred_type": "VERB_PROCESS",
+    "confidence": "medium",
+    "reason": "Always at end of sentence",
+    "count": 1,
+    "examples": [
+      [
+        "ARTICLE_THE",
+        "END"
+      ]
+    ]
+  }
+}

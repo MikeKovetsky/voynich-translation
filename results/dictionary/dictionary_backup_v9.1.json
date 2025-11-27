@@ -1,6 +1,6 @@
 {
-  "version": "10.0",
-  "date": "2025-11-27T11:44:14.922307",
+  "version": "9.1",
+  "date": "2025-11-27T11:00:15.172221",
   "entries": {
     "ksheody": {
       "voynich": "ksheody",
@@ -3761,8 +3761,7 @@
         "f114r"
       ],
       "confidence_level": "MEDIUM",
-      "translation_status": 2,
-      "humoral_quality": "Hot/Dry"
+      "translation_status": 2
     },
     "aiis": {
       "voynich": "aiis",
@@ -7618,14 +7617,12 @@
     },
     "cheol": {
       "voynich": "cheol",
-      "meaning": "Cold Sickness / Phlegmatic Condition",
+      "meaning": "sick (choleh)",
       "language": "Hebrew",
-      "confidence": 0.9,
+      "confidence": 0.7,
       "domain": "medical",
-      "source": "Track233_Elemental_Grammar",
-      "translation_status": 2,
-      "element": "Water",
-      "grammar_type": "Noun"
+      "source": "Track56_CleanDict",
+      "translation_status": 2
     },
     "kychol": {
       "voynich": "kychol",
@@ -7904,16 +7901,12 @@
     },
     "ol": {
       "voynich": "ol",
-      "meaning": "The (Wet/Cold) / Water-of",
+      "meaning": "Green (Leaf)",
       "language": "Grammar",
-      "confidence": 0.9,
+      "confidence": 0.7,
       "domain": "grammar",
-      "source": "Track233_Elemental_Grammar",
-      "translation_status": 2,
-      "element": "Water/Venus",
-      "grammar_type": "Article/Preposition",
-      "type": "elemental_particle",
-      "category": "elemental"
+      "source": "Track56_CleanDict, Task182_Color",
+      "translation_status": 2
     },
     "ar": {
       "voynich": "ar",
@@ -9896,8 +9889,7 @@
       "source": "Track65_HebrewCorpus",
       "hebrew_term": "charul",
       "frequency": 15,
-      "translation_status": 2,
-      "humoral_quality": "Hot/Dry"
+      "translation_status": 2
     },
     "cphol": {
       "voynich": "cphol",
@@ -12279,14 +12271,9 @@
     },
     "o": {
       "voynich": "o",
-      "meaning": "The (Dry/Hot) / Essence-of",
-      "source": "Track233_Elemental_Grammar",
-      "translation_status": 2,
-      "element": "Fire/Mars",
-      "grammar_type": "Article/Preposition",
-      "confidence": 0.9,
-      "type": "elemental_particle",
-      "category": "elemental"
+      "meaning": "Green (Leaf)",
+      "source": "Task182_Color",
+      "translation_status": 2
     },
     "okai": {
       "voynich": "okai",
@@ -12341,29 +12328,25 @@
     },
     "qokeedy": {
       "voynich": "qokeedy",
-      "meaning": "The Mixture (Wet/Decoction)",
+      "meaning": "plant_candidate (morphological_derivative (q- + okeedy))",
       "root": "okeedy",
       "morphology": "q-",
-      "source": "Track233_Elemental_Grammar",
-      "confidence": 0.9,
+      "source": "Track224_Morphology_v3",
+      "confidence": 0.85,
       "tags": [
         "PLANT_NAME"
-      ],
-      "element": "Water",
-      "grammar_type": "Noun"
+      ]
     },
     "qokedy": {
       "voynich": "qokedy",
-      "meaning": "The Mixture (Dry/Powder)",
+      "meaning": "plant_candidate (morphological_derivative (qo- + kedy))",
       "root": "kedy",
       "morphology": "qo-",
-      "source": "Track233_Elemental_Grammar",
-      "confidence": 0.9,
+      "source": "Track224_Morphology_v3",
+      "confidence": 0.85,
       "tags": [
         "PLANT_NAME"
-      ],
-      "element": "Fire/Earth",
-      "grammar_type": "Noun"
+      ]
     },
     "qokal": {
       "voynich": "qokal",

@@ -1,0 +1,142 @@
+[
+  {
+    "word": "ol",
+    "color": "Blue",
+    "ratio": 999.0,
+    "freq_red": 0,
+    "freq_blue": 6,
+    "norm_red": 0.0,
+    "norm_blue": 0.0160857908847185,
+    "known_meaning": {
+      "voynich": "ol",
+      "meaning": "Green (Leaf)",
+      "language": "Grammar",
+      "confidence": 0.7,
+      "domain": "grammar",
+      "source": "Track56_CleanDict, Task182_Color",
+      "translation_status": 2
+    }
+  },
+  {
+    "word": "cheol",
+    "color": "Blue",
+    "ratio": 999.0,
+    "freq_red": 0,
+    "freq_blue": 5,
+    "norm_red": 0.0,
+    "norm_blue": 0.013404825737265416,
+    "known_meaning": {
+      "voynich": "cheol",
+      "meaning": "sick (choleh)",
+      "language": "Hebrew",
+      "confidence": 0.7,
+      "domain": "medical",
+      "source": "Track56_CleanDict",
+      "translation_status": 2
+    }
+  },
+  {
+    "word": "l",
+    "color": "Red",
+    "ratio": 9.03,
+    "freq_red": 7,
+    "freq_blue": 1,
+    "norm_red": 0.02422145328719723,
+    "norm_blue": 0.002680965147453083,
+    "known_meaning": null
+  },
+  {
+    "word": "o",
+    "color": "Red",
+    "ratio": 5.16,
+    "freq_red": 4,
+    "freq_blue": 1,
+    "norm_red": 0.01384083044982699,
+    "norm_blue": 0.002680965147453083,
+    "known_meaning": {
+      "voynich": "o",
+      "meaning": "Green (Leaf)",
+      "source": "Task182_Color",
+      "translation_status": 2
+    }
+  },
+  {
+    "word": "r",
+    "color": "Red",
+    "ratio": 4.52,
+    "freq_red": 7,
+    "freq_blue": 2,
+    "norm_red": 0.02422145328719723,
+    "norm_blue": 0.005361930294906166,
+    "known_meaning": null
+  },
+  {
+    "word": "chedy",
+    "color": "Blue",
+    "ratio": 3.87,
+    "freq_red": 1,
+    "freq_blue": 5,
+    "norm_red": 0.0034602076124567475,
+    "norm_blue": 0.013404825737265416,
+    "known_meaning": {
+      "voynich": "chedy",
+      "meaning": "Mixture/Decoction",
+      "language": "voynich",
+      "confidence": 0.95,
+      "domain": "recipe",
+      "source": "Track127_WaterOfLife",
+      "notes": "Often poured (ykeedy) or cooked (qokal). Generic term for the result of the recipe.",
+      "category": "object",
+      "pos": "noun",
+      "evidence": "Result of cooking process (qokeey chedy). Object of consumption. Replaces 'Ambiguous' status.",
+      "last_updated": "2025-11-26T17:53:13.791636",
+      "translation_status": 2
+    }
+  },
+  {
+    "word": "d",
+    "color": "Red",
+    "ratio": 3.23,
+    "freq_red": 5,
+    "freq_blue": 2,
+    "norm_red": 0.01730103806228374,
+    "norm_blue": 0.005361930294906166,
+    "known_meaning": null
+  },
+  {
+    "word": "dy",
+    "color": "Blue",
+    "ratio": 3.1,
+    "freq_red": 1,
+    "freq_blue": 4,
+    "norm_red": 0.0034602076124567475,
+    "norm_blue": 0.010723860589812333,
+    "known_meaning": {
+      "voynich": "dy",
+      "meaning": "-ness/-ly (suffix)",
+      "language": "Grammar",
+      "confidence": 0.7,
+      "domain": "other",
+      "source": "Track56_CleanDict",
+      "translation_status": 2
+    }
+  },
+  {
+    "word": "okeey",
+    "color": "Blue",
+    "ratio": 3.1,
+    "freq_red": 1,
+    "freq_blue": 4,
+    "norm_red": 0.0034602076124567475,
+    "norm_blue": 0.010723860589812333,
+    "known_meaning": {
+      "voynich": "okeey",
+      "meaning": "Green (Leaf)",
+      "language": "unknown",
+      "confidence": 0.55,
+      "domain": "grammar",
+      "source": "Track56_CleanDict, Task182_Color",
+      "translation_status": 2
+    }
+  }
+]
