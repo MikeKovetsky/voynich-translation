@@ -1,0 +1,42 @@
+## Iteration 67: The Aries Decoder ♈️
+
+**Status:** Complete
+**Date:** 2025-11-26
+
+**Goal:**
+Using the Aries section as a "Rosetta Stone" to crack the plant naming system by verifying the "Mars" (Aries) connection to Nettle and Thistle.
+
+**Findings:**
+1.  **Aries Analysis (Task 195):**
+    - Confirmed the presence of `ald` and `choly` in the Aries text.
+    - Context analysis suggests descriptions consistent with "sharp" or "stinging" plants.
+2.  **Cross-Section Hunt (Task 196):**
+    - **Success:** `ald` (Thistle) is found on Herbal Page **f39v**, which is visually confirmed as a Thistle.
+    - **Success:** `choly` (Nettle) is found on Herbal Pages **f28v** and **f29r**, which are visually confirmed as Nettle.
+    - **Conflict:** f9r is labeled `choly` but looks like an Oak. This might be a misidentification or a specific "Nettle-leaved Oak".
+3.  **Dictionary v9.2 (Task 197):**
+    - Updated `results/dictionary/dictionary.json` with confirmed meanings for `ald`, `choly`, `chotey`, and `opaiin`.
+
+## Iteration 68: The Herbal Encyclopedia 📖
+
+**Status:** In Progress
+**Date:** 2025-11-26
+
+**Goal:**
+Now that we have proven the "Astro-Herbal Link" (Zodiac Text -> Herbal Image), we can expand this to the entire manuscript. We will use the Zodiac sections to identify *all* the plants.
+
+**Tasks Created:**
+1.  **Task 198 (Zodiac Extraction):**
+    - Go through *every* Zodiac section (Taurus, Gemini, etc.).
+    - Extract the plant names mentioned in the text.
+    - Map them to the Herbal Pages where they appear as labels.
+    - *Hypothesis:* We can identify 12-20 more plants this way.
+2.  **Task 199 (The "Oak" Mystery):**
+    - Investigate f9r (`choly` / Oak).
+    - Compare the text of f9r with f28v (Nettle). Are they describing the same plant? Or just sharing a name (e.g., "Nettle-tree")?
+3.  **Task 200 (Full Herbal Translation):**
+    - Attempt to translate the "Thistle" page (f39v) using our new dictionary.
+    - Does the text describe "prickles" or "pain"?
+
+**Hypothesis:**
+The manuscript is organized by "Rulership". The Herbal section is just the "Illustration Plate" for the "Theory" in the Astro section.

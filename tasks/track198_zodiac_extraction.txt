@@ -1,0 +1,25 @@
+# Task 198: Zodiac Extraction
+
+## Goal
+Systematically extract all potential plant names from the remaining Zodiac sections (Taurus through Pisces) and link them to Herbal illustrations.
+
+## Input
+- `results/parsed_text.json` (Zodiac Pages)
+- `results/parsed_text.json` (Herbal Pages)
+- `results/zodiac_plants.json` (From Task 192)
+
+## Process
+1.  **Iterate Signs:** For each Zodiac sign (excluding Aries/Virgo/Scorpio which are done):
+    - Identify the pages.
+    - Extract nouns (`o-` prefix or unique words).
+2.  **Herbal Search:**
+    - Search for these nouns in the **Herbal Section**.
+    - *Constraint:* The noun must appear as a **Label** (first word/paragraph) or be high-frequency on that page.
+3.  **Visual Prediction:**
+    - If Word X (from Taurus) appears on Herbal Page Y:
+    - Predict: Page Y is a "Taurus Plant" (e.g., Daisy, Mallow, Columbine - ruled by Venus).
+    - *Validation:* Does the drawing look like a Venusian plant?
+
+## Output
+- `results/zodiac_herbal_map.csv`: Table of Sign -> Word -> Herbal Page -> Proposed Plant.
+- `results/track-198-results_summary.md`: Summary.
