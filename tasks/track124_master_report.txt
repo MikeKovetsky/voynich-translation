@@ -1,0 +1,27 @@
+TRACK 124: Master Translation Report (Consolidation)
+====================================================
+
+GOAL: Produce a comprehensive report summarizing the "Water/Herbal" narrative across all sections.
+
+INPUT:
+- `results/bio_narrative_report.md`
+- `results/recipe_translation_v2.md`
+- `results/cancer_report.md`
+- `results/master_dictionary_v7_2.json`
+
+TASK 1: Cross-Section Narrative
+-------------------------------
+- Connect the dots:
+  - **Bio:** Bathing in water/herbs.
+  - **Recipes:** Cooking water/herbs.
+  - **Zodiac:** Water signs (Cancer/Pisces) governing the water.
+- Is it a medical manual? A spa guide?
+
+TASK 2: Sample Translations
+---------------------------
+- Include the best 3 translated paragraphs from each section (Bio, Recipe, Zodiac).
+- Use the latest dictionary definitions.
+
+OUTPUT FILES:
+- `consolidate_narrative.py`
+- `results/master_translation_report.md`

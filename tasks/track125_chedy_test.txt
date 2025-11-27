@@ -1,0 +1,24 @@
+TRACK 125: 'Chedy' Resolution - Testing 'Mixture' Hypothesis
+==============================================================
+
+GOAL: Test if `chedy` = "Mixture" or "Potion" solves the syntax issues.
+
+INPUT:
+- `data/eva_ivtff.txt` (Recipes)
+- `results/master_dictionary_v7_2.json`
+
+TASK 1: Substitution Test
+-------------------------
+- Translate 5 recipes containing `chedy` in multiple positions.
+- Substitute "Mixture" / "Potion".
+- Compare to "Herb" / "Plant".
+- Example: `daiin chedy` -> "Take Mixture" vs "Take Herb".
+- Example: `chedy qokeey` -> "Mixture Cook" vs "Herb Cook".
+
+TASK 2: Final Definition
+------------------------
+- Update dictionary if "Mixture" works better.
+
+OUTPUT FILES:
+- `test_chedy_meaning.py`
+- `results/chedy_test_results.md`
