@@ -1,0 +1,21 @@
+Track 253: Final Report v5 Generation
+
+Goal: Compile the definitive findings of the Voynich Manuscript Research into a cohesive report.
+
+Input:
+- `results/track-237-results_summary.md` (Astral Shift)
+- `results/track-240-results_summary.md` (Rosettes)
+- `results/track-241-results_summary.md` (Astro-Medicine)
+- `results/track-249-results_summary.md` (Pharma Test)
+- `results/visual_validation_report.md` (Color Verification)
+- `results/dictionary/dictionary_v13.json` (Final Lexicon)
+
+Structure:
+1. **The Solution**: The "Three Books" structure (Astronomy, Herbal, Balneology).
+2. **The Grammar**: The Elemental logic (`o`=Dry, `ol`=Wet) and Adjectives (`or`=Red).
+3. **The Dictionary**: Summary of the 5000-word lexicon and coverage stats.
+4. **The Translation**: Showcase translations of f89r (Pharma) and f86v (Rosettes).
+5. **Conclusion**: The manuscript is a medieval astro-medical compendium.
+
+Output:
+- `results/final_report_v5.md`.
