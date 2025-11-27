@@ -11,10 +11,14 @@ function App() {
   const [markdownContent, setMarkdownContent] = useState('')
   const [loading, setLoading] = useState(false)
   
-  const currentPage = pages[currentPageIndex]
-  const pageName = currentPage.replace('.jpg', '')
+  // Ensure index is valid
+  const safePageIndex = Math.min(Math.max(0, currentPageIndex), pages.length - 1)
+  const currentPage = pages[safePageIndex]
+  const pageName = currentPage ? currentPage.replace('.jpg', '') : ''
 
   useEffect(() => {
+    if (!pageName) return;
+
     const fetchTranslation = async () => {
       setLoading(true)
       try {
@@ -61,6 +65,12 @@ function App() {
   const handleNext = () => {
     setCurrentPageIndex(prev => Math.min(pages.length - 1, prev + 1))
   }
+  
+  const handlePageSelect = (e) => {
+    setCurrentPageIndex(Number(e.target.value))
+  }
+
+  if (!currentPage) return <div className="h-screen flex items-center justify-center bg-slate-950 text-amber-500">Loading pages...</div>
 
   return (
     <div className="h-screen flex flex-col overflow-hidden bg-slate-950">
@@ -74,27 +84,27 @@ function App() {
         <div className="flex items-center gap-4">
           <button 
             onClick={handlePrev}
-            disabled={currentPageIndex === 0}
+            disabled={safePageIndex === 0}
             className="p-2 rounded hover:bg-slate-700 disabled:opacity-50 transition-colors"
           >
             <ChevronLeft />
           </button>
           
           <select 
-            value={currentPageIndex}
-            onChange={(e) => setCurrentPageIndex(Number(e.target.value))}
-            className="bg-slate-700 text-slate-100 border border-slate-600 rounded px-2 py-1"
+            value={safePageIndex}
+            onChange={handlePageSelect}
+            className="bg-slate-700 text-slate-100 border border-slate-600 rounded px-2 py-1 max-w-[150px]"
           >
             {pages.map((page, idx) => (
               <option key={page} value={idx}>
-                {page}
+                {page.replace('.jpg', '')}
               </option>
             ))}
           </select>
           
           <button 
             onClick={handleNext}
-            disabled={currentPageIndex === pages.length - 1}
+            disabled={safePageIndex === pages.length - 1}
             className="p-2 rounded hover:bg-slate-700 disabled:opacity-50 transition-colors"
           >
             <ChevronRight />

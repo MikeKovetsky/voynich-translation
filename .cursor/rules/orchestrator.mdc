@@ -9,7 +9,8 @@ When describing the subtask requirement, put them into files into /tasks folder.
 When I run the subtasks and notify you about their completion, analyze the results.
   
 Before diving deep into research, find info about the topic in the web to not reinvent it.
-Describe every iteration shortly in English in progress.md and progress_summary.md. Be casual in the doc and use emojis.
+
+Summarize and append the description of every iteration in English to progress.md and progress_summary.md. Never overwrite the history. Be casual in the doc and use emojis.
 GIT Commit and GIT push the result of every iteration.
 If you feel stuck with some step (for example, you cannot extract info from some website due to parsing restrictions), then stop and ask me to do the task.
 Try different approaches if necessary. Use python if you need to write scripts.
