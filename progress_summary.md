@@ -1,20 +1,17 @@
-## Iteration 42: The "And" Conjunction & The Bathing Narrative 🛁🔗
+## Iteration 43: The Logic of Recipes 📜🍳
 
 **Status:** Complete
 **Date:** 2025-11-26
 
 **Summary:**
-We've made a major grammatical correction. The prefix **`y-`** is NOT a plural marker, but a **Conjunction** (And/Then). This unlocks the flow of the text, especially in recipes (`ytaiin` = "And take").
-*   **Grammar:** `y-` = "And". Confirmed by its absence in labels and presence in lists.
-*   **Bio Narrative:** The "Bathing Women" section is a coherent description of mixing herbs (`chol`/`char`) into spring water (`aiin`) for cleansing or bathing.
-*   **Recipe Logic:** Validated the structure: `daiin` (Take) -> [Ingredients] -> `qokeey` (Drink/Boil).
-
-**Key Findings:**
-*   **Bio Section:** High frequency of "Nature" and "Mixing" themes.
-*   **Recipe Verbs:** `qokeey` (Drink/Boil) is the standard closing instruction.
-*   **Roots:** `chol` (Leaf) and `char` (Root) are standard ingredients.
+We've cracked the logic of the recipes! By defining `y-` as "And" and `daiin` as "Take water", the dense text of f103r reveals clear instructions.
+*   **Recipe Structure:** "Take spring water (`daiin ol oain`) ... [Ingredient] ... And (`y-`) [Ingredient] ... Boil (`qokeol`?)."
+*   **Grammar:**
+    *   `o-`: Confirmed NOT to be a plural marker. Likely a Definite Article or Object Marker (The/It).
+    *   `y-`: Confirmed as Conjunction (And/Then).
+*   **New Mystery:** `sh-` and `t-` appear as common prefixes (`shdain`, `tchol`). Are they "The" and "To"?
 
 **Next Steps:**
-*   **Dictionary v7.1:** Update `y-` to "Conjunction".
-*   **Grammar:** If `y-` isn't plural, is `o-`? Or is there no plural? investigate `o-`.
-*   **Full Page Translation:** Translate f103r (a dense recipe page) to test the "And" connector.
+*   **Zodiac Check:** Apply the "Water" logic to Pisces/Cancer pages.
+*   **Grammar:** Investigate `sh-` (The?) and `t-` (To?).
+*   **Process Verbs:** Confirm if `qokeol` / `qokeey` means "Boil" or "Drink".

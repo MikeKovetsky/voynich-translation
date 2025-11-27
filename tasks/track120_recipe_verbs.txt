@@ -1,0 +1,23 @@
+TRACK 120: Recipe Translation - The 'Boil' Hypothesis
+=====================================================
+
+GOAL: Validate if `qokeey` / `qokeol` means "Boil" or "Drink".
+
+INPUT:
+- `data/eva_ivtff.txt` (Recipes)
+- `results/master_dictionary_v7_1.json`
+
+TASK 1: End-of-Recipe Analysis
+------------------------------
+- Extract the last word (or last phrase) of every recipe paragraph in Quire 20.
+- Count the frequency of `qokeey`, `qokeol`, `okam`.
+
+TASK 2: Liquid Context
+----------------------
+- Does `qokeey` appear after `daiin ol oain` (Take water)?
+- If yes, "Boil" or "Drink" is highly probable.
+- If it appears with "Solid" ingredients only, maybe "Mix"?
+
+OUTPUT FILES:
+- `recipe_verb_analysis.py`
+- `results/recipe_verb_report.md`

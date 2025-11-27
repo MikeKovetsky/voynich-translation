@@ -1,33 +1,35 @@
 # Research Progress
 
-## Current Status: Iteration 42 (Nov 26, 2025)
-**Focus:** Grammar (`y-`=And), Bio Narrative, Recipe Logic
+## Current Status: Iteration 43 (Nov 26, 2025)
+**Focus:** Recipe Logic, Grammar (`o-`, `y-`, `sh-`), Dictionary v7.1
 
 ## Recent Achievements
-*   **Grammar Correction (Task 114):** Disproved the "Plural" hypothesis for `y-`.
-    *   `y-` appears in lists and start of clauses, but NOT on labels of plural objects.
-    *   **New Meaning:** `y-` = **And** / **Then** (Conjunction).
-*   **Bio Narrative (Task 112):** Validated the "Bathing" theme.
-    *   Translation confirms mixing `chol` (leaves) and `char` (roots) into `aiin` (spring water).
-*   **Recipe Logic (Task 113):** Confirmed `daiin` (Take) ... `qokeey` (Drink/Boil) structure.
+*   **Recipe Translation (Task 117):** Successfully translated Recipe B on f103r.
+    *   "Take (`daiin`) the (`ol`) spring water (`oain`) ... [Mix ingredients] ... And (`y-`) ... [Process]."
+*   **Grammar Analysis (Task 116):**
+    *   `o-` is **NOT Plural**. It appears more frequently on singular pages.
+    *   `o-` is likely **Definite Article ("The")** or Object Marker.
+*   **Dictionary v7.1 (Task 115):** Updated `y-` to "And". Verified compound words like `ychol` ("And leaf").
 
 ## Current Hypotheses
-1.  **`y-` = Conjunction:** Connects steps in recipes (`daiin` ... `y-daiin` = "Take ... and take").
-2.  **`o-` = Definite Article or Object Marker:** The next logical target for grammatical analysis.
-3.  **Recipe Verb `qokeey`:** Means "Drink" or "Boil" (Liquid + Action).
+1.  **Recipe Starter:** `daiin ol oain` = "Take the spring water" (f103r.10).
+2.  **`o-` Prefix:** Definite Article "The". (e.g., `o-kedy` = "The liquid"?).
+3.  **`sh-` Prefix:** Appears in `shdain` ("The taking"? "She takes"?).
+4.  **`t-` Prefix:** Appears in `tchol` ("To leaf"?).
 
 ## Tasks
-### Active Iteration (43)
-*   **Task 115 (Dictionary v7.1):** Update `y` to "And" in the master dictionary.
-*   **Task 116 (Grammar `o-`):** Investigate the function of `o-`.
-    *   Is it "The"? (Definite Article).
-    *   Is it a Plural marker?
-*   **Task 117 (Translate f103r):** Full translation of a recipe page using the new connector logic.
+### Active Iteration (44)
+*   **Task 118 (Zodiac Translation):** Translate Pisces/Cancer pages (f70v2, f72r3).
+    *   Check for "Water" (`aiin`) references in these Water signs.
+*   **Task 119 (Grammar `sh-`/`t-`):** Analyze `sh-` and `t-`.
+    *   Do they fit Hebrew `sh-` (That/Which) or `t-` (Future/Feminine)?
+*   **Task 120 (Recipe Verbs):** Investigate `qokeey` / `qokeol`.
+    *   Do they appear *only* at the end of recipes? (Imperative "Drink" or "Boil").
 
 ### Backlog
-*   **Suffix Analysis:** What does `-dy` do? (Adjective? Noun?)
-*   **Cosmology:** Apply "And" logic to the star lists.
+*   **Cosmology:** Apply "Water" logic to the central rosette (f87r).
+*   **Star Names:** Decipher the "And" patterns in star lists.
 
 ## Metric Tracking
-*   **Dictionary Accuracy:** Improved by correcting `y-`.
-*   **Recipe Readability:** Expected to improve significantly with "And".
+*   **Dictionary Coverage:** ~52%
+*   **Grammar Confidence:** High for `qok-`, `d-`, `y-`. Medium for `o-`.

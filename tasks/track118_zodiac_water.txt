@@ -1,0 +1,23 @@
+TRACK 118: Full Translation of Zodiac Section (Pisces/Cancer)
+=============================================================
+
+GOAL: Translate the Water Sign pages (Pisces f70v2, Cancer f72r3) to confirm the "Water" hypothesis.
+
+INPUT:
+- `data/eva_ivtff.txt` (Pisces f70v2, Cancer f72r3)
+- `results/master_dictionary_v7_1.json`
+
+TASK 1: Translate
+-----------------
+- Use the v7.1 Dictionary (with `y=`And).
+- Look for `aiin` (Spring/Water), `daiin` (From Spring), `okaiin` (In Spring).
+
+TASK 2: Narrative Check
+-----------------------
+- Do these pages describe the "Month of Water"?
+- Do they list activities related to water (fishing, rain)?
+
+OUTPUT FILES:
+- `translate_zodiac_water.py`
+- `results/zodiac_water_translation.md`
+- `results/zodiac_water_report.md`
