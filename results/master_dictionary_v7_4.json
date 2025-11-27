@@ -1,6 +1,8 @@
 {
   "version": "7.4",
-  "total_entries": 884,
+  "base_source": "results/master_dictionary_v7_3.json",
+  "date": "2025-11-26T19:59:43.877236",
+  "total_entries": 885,
   "entries": {
     "ksheody": {
       "voynich": "ksheody",
@@ -167,14 +169,15 @@
     },
     "ckhal": {
       "voynich": "ckhal",
-      "meaning": "ricinus (castor oil)",
+      "meaning": "Ricinus",
       "language": "botanical",
-      "confidence": 0.95,
+      "confidence": 0.9,
       "domain": "botanical",
-      "source": "Track98_FinalDict",
+      "source": "Track133_PlantID",
       "evidence": "VALIDATED: f6v + f51r (both ricinus) + f116r recipe",
       "confidence_level": "ULTRA_HIGH",
-      "category": "source_modifier"
+      "category": "source_modifier",
+      "last_updated": "2025-11-26T19:59:43.877229"
     },
     "shees": {
       "voynich": "shees",
@@ -3659,16 +3662,17 @@
     },
     "keedal": {
       "voynich": "keedal",
-      "meaning": "plant:holm",
+      "meaning": "Papaver (variant?)",
       "language": "botanical",
-      "confidence": 0.7,
+      "confidence": 0.85,
       "domain": "botanical",
-      "source": "Track80_HerbalMining",
+      "source": "Track133_PlantID",
       "folios": [
         "f108r",
         "f112v"
       ],
-      "confidence_level": "MEDIUM"
+      "confidence_level": "MEDIUM",
+      "last_updated": "2025-11-26T19:59:43.877227"
     },
     "ypair": {
       "voynich": "ypair",
@@ -4252,18 +4256,16 @@
     },
     "shoaiin": {
       "voynich": "shoaiin",
-      "meaning": "cannabis",
+      "meaning": "Cannabis (Hemp)",
       "language": "botanical",
-      "confidence": 0.7,
+      "confidence": 0.95,
       "domain": "botanical",
-      "source": "Track80_HerbalMining",
+      "source": "Track133_PlantID",
       "folios": [
         "f113r"
       ],
       "confidence_level": "MEDIUM",
-      "possible_id": "cannabis",
-      "herbal_page": "f36v",
-      "note": "Identified as cannabis on f36v. Plant with palmate leaves (serrated leaflets), distinctive tall structure."
+      "last_updated": "2025-11-26T19:59:43.877225"
     },
     "chtaiin": {
       "voynich": "chtaiin",
@@ -4341,19 +4343,17 @@
     },
     "shkaiin": {
       "voynich": "shkaiin",
-      "meaning": "plant:hypericum",
+      "meaning": "Hypericum (St John's Wort)",
       "language": "botanical",
-      "confidence": 0.7,
+      "confidence": 0.95,
       "domain": "botanical",
-      "source": "Track80_HerbalMining",
+      "source": "Track133_PlantID",
       "folios": [
         "f111r",
         "f113r"
       ],
       "confidence_level": "MEDIUM",
-      "possible_id": "hypericum",
-      "herbal_page": "f3v",
-      "note": "Identified as hypericum on f3v. Plant with opposite leaves, yellow flowers (often star-shaped), perforated leaves (St John's Wort)."
+      "last_updated": "2025-11-26T19:59:43.877226"
     },
     "kcheor": {
       "voynich": "kcheor",
@@ -5571,18 +5571,16 @@
     },
     "tsho": {
       "voynich": "tsho",
-      "meaning": "plant:tamus communis",
+      "meaning": "Smilax",
       "language": "botanical",
-      "confidence": 0.55,
+      "confidence": 0.95,
       "domain": "botanical",
-      "source": "Track80_HerbalMining",
+      "source": "Track133_PlantID",
       "folios": [
         "f113v"
       ],
       "confidence_level": "LOW",
-      "possible_id": "smilax",
-      "herbal_page": "f17r",
-      "note": "Identified as smilax on f17r. Climbing plant with heart-shaped or triangular leaves, often prickly stem."
+      "last_updated": "2025-11-26T19:59:43.877223"
     },
     "ykam": {
       "voynich": "ykam",
@@ -5624,18 +5622,16 @@
     },
     "chtol": {
       "voynich": "chtol",
-      "meaning": "papaver",
+      "meaning": "Papaver (Poppy)",
       "language": "botanical",
-      "confidence": 0.55,
+      "confidence": 0.95,
       "domain": "botanical",
-      "source": "Track80_HerbalMining",
+      "source": "Track133_PlantID",
       "folios": [
         "f113v"
       ],
       "confidence_level": "LOW",
-      "possible_id": "papaver",
-      "herbal_page": "f48v",
-      "note": "Identified as papaver on f48v. Plant with large flower (often red in nature, but manuscript colors vary), distinct seed pod."
+      "last_updated": "2025-11-26T19:59:43.877214"
     },
     "teeol": {
       "voynich": "teeol",
@@ -6451,11 +6447,12 @@
     },
     "oteos": {
       "voynich": "oteos",
-      "meaning": "tree",
+      "meaning": "The Tree",
       "language": "Hebrew",
-      "confidence": 0.65,
+      "confidence": 0.85,
       "domain": "botanical",
-      "source": "Track56_CleanDict"
+      "source": "Track133_StarID",
+      "last_updated": "2025-11-26T19:59:43.877232"
     },
     "otain": {
       "voynich": "otain",
@@ -6645,11 +6642,12 @@
     },
     "teos": {
       "voynich": "teos",
-      "meaning": "tree",
+      "meaning": "Tree",
       "language": "Hebrew",
-      "confidence": 0.65,
+      "confidence": 0.85,
       "domain": "botanical",
-      "source": "Track56_CleanDict"
+      "source": "Track133_StarID",
+      "last_updated": "2025-11-26T19:59:43.877230"
     },
     "otoaiin": {
       "voynich": "otoaiin",
@@ -9145,13 +9143,14 @@
     },
     "kar": {
       "voynich": "kar",
-      "meaning": "root/rhizome",
+      "meaning": "Root",
       "language": "visual_correlation",
-      "confidence": 1.0,
+      "confidence": 0.85,
       "domain": "botanical",
-      "source": "Track91_VisualCorrelation",
+      "source": "Track133_StarID",
       "evidence": "Visual correlation: roots (100%)",
-      "confidence_level": "VERIFIED"
+      "confidence_level": "VERIFIED",
+      "last_updated": "2025-11-26T19:59:43.877233"
     },
     "chain": {
       "voynich": "chain",
@@ -9361,64 +9360,14 @@
       "source": "Track127_WaterOfLife",
       "evidence": "Variant of aiin (Water).",
       "created": "2025-11-26T17:53:13.791649"
-    }
-  },
-  "morphology_rules": {
-    "q-": "in/with",
-    "d-": "from/of",
-    "o-": "the/it (definite article variant?)",
-    "y-": "and/also (or plural?)",
-    "qok-": "in/with (instrumental)",
-    "ok-": "liquid/mixture"
-  },
-  "coverage": {
-    "overall": {
-      "total": 37116,
-      "covered": 19051,
-      "rate": 0.5132826813234185
     },
-    "by_section": {
-      "herbal": {
-        "total": 15103,
-        "covered": 7709,
-        "rate": 0.5104283917102562
-      },
-      "recipe": {
-        "total": 12078,
-        "covered": 6415,
-        "rate": 0.5311309819506541
-      },
-      "zodiac": {
-        "total": 3035,
-        "covered": 1237,
-        "rate": 0.40757825370675455
-      },
-      "biological": {
-        "total": 6900,
-        "covered": 3690,
-        "rate": 0.5347826086956522
-      }
+    "okar": {
+      "voynich": "okar",
+      "meaning": "The Root",
+      "confidence": 0.85,
+      "source": "Track133_StarID",
+      "created": "2025-11-26T19:59:43.877234",
+      "language": "voynich"
     }
-  },
-  "sources": {
-    "Track83_PlantPair": 120,
-    "Track80_HerbalMining": 391,
-    "Track65_HebrewCorpus": 59,
-    "Track56_CleanDict": 287,
-    "Track67_ConflictResolution": 2,
-    "Track91_VisualCorrelation": 25,
-    "Track94_Measurement": 2,
-    "Track98_FinalDict": 30
-  },
-  "domains": {
-    "botanical": 597,
-    "religious": 4,
-    "other": 78,
-    "medical": 43,
-    "astronomical": 16,
-    "grammar": 99,
-    "number": 4,
-    "general": 18,
-    "measurement": 1
   }
 }

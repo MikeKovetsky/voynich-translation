@@ -1,0 +1,29 @@
+TRACK 136: Visualization - Generate Knowledge Graph
+===================================================
+
+GOAL: Create a structured dataset representing the connections between different parts of the manuscript.
+
+INPUT:
+- `results/full_translation_v7_4.json` (or similar structured output)
+- `results/ingredient_map.json`
+- `results/recipe_ingredients_v2.json`
+
+TASK 1: Node Extraction
+-----------------------
+- **Plants:** List of all identified plants (e.g., Papaver, Cannabis).
+- **Pages:** List of all Folios.
+- **Ingredients:** List of recipe ingredients (`chol`, `char`, `aiin`).
+
+TASK 2: Edge Creation
+---------------------
+- **APPEARS_ON:** Plant -> Page (Where it is drawn).
+- **USED_IN:** Ingredient -> Recipe/Page (Where it is textually mentioned).
+- **LINKED_TO:** Star -> Plant (If star name matches plant name).
+
+TASK 3: Output Format
+---------------------
+- Generate a JSON file suitable for visualization (e.g., D3.js or Cytoscape).
+
+OUTPUT FILES:
+- `generate_knowledge_graph.py`
+- `results/voynich_knowledge_graph.json`

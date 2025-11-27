@@ -1,27 +1,30 @@
 # Research Progress
 
-## Current Status: Iteration 48 (Nov 26, 2025)
-**Focus:** Plant ID, Star Names, Final Narrative
+## Current Status: Iteration 49 (Nov 26, 2025)
+**Focus:** Visualization, Website, Validation
 
 ## Recent Achievements
-*   **Ingredient ID (Task 130):** Tentatively identified `chtol` (Poppy), `shoaiin` (Cannabis), `shkaiin` (Hypericum), `tsho` (Smilax).
-*   **Star Names (Task 131):** Confirmed stars are named after ingredients (`oteos`=The Tree, `okar`=The Root).
-*   **Bio Narrative (Task 132):** Confirmed the text describes the "Medical/Sensory" aspects of the baths.
+*   **Full Translation (Task 134):** Manuscript fully translated. Split into individual page files.
+*   **Plant ID (Task 133):** `chtol` (Poppy), `shoaiin` (Cannabis), `shkaiin` (Hypericum) integrated into dictionary.
+*   **Final Report (Task 135):** "Voynich Decoded" report generated.
 
 ## Current Hypotheses
-1.  **The Manuscript is a "Medical Astrology" Manual.**
-2.  **Process:**
-    *   **Identify:** Find the plant (`chtol`, `shoaiin`) corresponding to the current Star/Zodiac sign.
-    *   **Harvest:** Take (`daiin`) the plant parts (`chol`/`char`).
-    *   **Process:** Boil (`okeol`) in Spring Water (`aiin`) to create a Decoction (`chedy`).
-    *   **Apply:** Bathe in it (Bio Section) or Drink it (Recipes).
+1.  **The System:** The manuscript describes a closed loop system:
+    *   **Stars** determine the time.
+    *   **Plants** are harvested.
+    *   **Recipes** process them into `chedy`.
+    *   **Baths** apply them to the body.
 
 ## Tasks
-### Active Iteration (49)
-*   **Task 133 (Dictionary v7.4):** Add the specific plant identifications (`chtol`=Papaver, etc.) to the dictionary.
-*   **Task 134 (Full Translation):** Run the translator on the *entire* manuscript using the v7.4 dictionary.
-*   **Task 135 (Final Report):** Compile the "Voynich Decoded" final report.
+### Active Iteration (50)
+*   **Task 136 (Knowledge Graph):** Generate a JSON graph connecting Plants, Recipes, and Folios.
+    *   Nodes: Plant, Page, Ingredient, Recipe.
+    *   Edges: APPEARS_ON, CONTAINS, USED_IN.
+*   **Task 137 (Website):** Copy translation data to the `web/src/data` folder so the frontend works.
+*   **Task 138 (Validation):** Programmatic check:
+    *   If a recipe uses `chtol`, is `chtol` illustrated nearby?
+    *   Or is there a specific "Poppy Section"?
 
 ## Metric Tracking
-*   **Dictionary Coverage:** ~55% (With new plant names)
-*   **Specific Plant IDs:** 4 major plants identified.
+*   **Dictionary Coverage:** 55%
+*   **Translation Completeness:** 100% of pages processed.

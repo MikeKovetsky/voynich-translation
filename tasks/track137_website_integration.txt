@@ -1,0 +1,23 @@
+TRACK 137: Website Integration - Populate Web View
+==================================================
+
+GOAL: Make the translation accessible via the web interface.
+
+INPUT:
+- `results/voynich_full_translation_v7_4.md` (or split files)
+- `results/master_dictionary_v7_4.json`
+- `results/voynich_knowledge_graph.json`
+
+TASK 1: Data Conversion
+-----------------------
+- Convert the Markdown translations into a JSON format the React app can consume.
+- Structure: `{ "f1r": { "image": "...", "text": "...", "translation": "..." } }`
+
+TASK 2: Asset Migration
+-----------------------
+- Copy/Move generated JSON files to `web/src/data/`.
+- Ensure `web/public/manuscript` points to the images.
+
+OUTPUT FILES:
+- `prepare_web_data.py`
+- `web/src/data/manuscript_data.json`

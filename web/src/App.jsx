@@ -1,14 +1,43 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { ChevronLeft, ChevronRight, BookOpen } from 'lucide-react'
+import ReactMarkdown from 'react-markdown'
+import remarkGfm from 'remark-gfm'
 import pages from './data/pages.json'
-import translations from './data/translations.json'
 
 function App() {
   const [currentPageIndex, setCurrentPageIndex] = useState(0)
   const [showTranslation, setShowTranslation] = useState(true)
+  const [markdownContent, setMarkdownContent] = useState('')
+  const [loading, setLoading] = useState(false)
   
   const currentPage = pages[currentPageIndex]
-  const currentTranslation = translations[currentPage] || []
+  const pageName = currentPage.replace('.jpg', '')
+
+  useEffect(() => {
+    const fetchTranslation = async () => {
+      setLoading(true)
+      try {
+        const response = await fetch(`/translated/${pageName}.md`)
+        const contentType = response.headers.get('content-type')
+        
+        if (response.ok && contentType && !contentType.includes('text/html')) {
+          const text = await response.text()
+          setMarkdownContent(text)
+        } else {
+          setMarkdownContent('*No translation available for this page.*')
+        }
+      } catch (error) {
+        console.error('Error loading translation:', error)
+        setMarkdownContent('*Error loading translation.*')
+      } finally {
+        setLoading(false)
+      }
+    }
+
+    if (showTranslation) {
+      fetchTranslation()
+    }
+  }, [pageName, showTranslation])
 
   const handlePrev = () => {
     setCurrentPageIndex(prev => Math.max(0, prev - 1))
@@ -81,19 +110,19 @@ function App() {
             style={{ maxHeight: 'calc(100vh - 120px)' }}
           />
           
-          {showTranslation && currentTranslation.map((item, idx) => (
-            <div 
-              key={idx}
-              className="absolute bg-slate-900/80 text-amber-100 p-3 rounded text-sm hover:bg-slate-900/95 transition-all cursor-help border border-amber-500/30 backdrop-blur-sm shadow-lg"
-              style={{ 
-                top: item.top, 
-                left: item.left,
-                maxWidth: '250px'
-              }}
-            >
-              <div className="font-serif">{item.text}</div>
+          {showTranslation && (
+            <div className="absolute top-0 right-0 w-1/3 h-full bg-slate-900/90 text-slate-100 p-6 overflow-auto border-l border-amber-500/30 backdrop-blur-sm shadow-2xl transition-all">
+               {loading ? (
+                 <div className="flex justify-center p-4">Loading...</div>
+               ) : (
+                 <div className="prose prose-invert prose-amber max-w-none">
+                   <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                     {markdownContent}
+                   </ReactMarkdown>
+                 </div>
+               )}
             </div>
-          ))}
+          )}
         </div>
       </main>
     </div>
