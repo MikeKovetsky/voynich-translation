@@ -1,0 +1,19 @@
+Task: Golden Page Translation (Track 296)
+Goal: Translate f65r (Density 100%) and f41r (Density 82%) as "Golden Pages" for public showcase.
+Inputs:
+- data/voynich_transcription.txt
+- results/dictionary/master_dictionary_v16.json
+
+Steps:
+1. **Prepare Golden Translations:**
+   - Take the raw text of f65r and f41r.
+   - Apply the full "Master Dictionary v16" + "Grammar Rules".
+   - **Manual Polish:** Ensure the English output flows well (e.g., "Take the salt" instead of "Take salt the").
+
+2. **Annotation:**
+   - Add footnotes explaining *why* specific words were translated (e.g., "`sal` -> Salt (proven in track 293)").
+
+3. **Outputs:**
+   - `results/golden_page_f65r.md`: The fully translated page.
+   - `results/golden_page_f41r.md`: The fully translated page.
+   - `results/track-296-results_summary.md`: Brief note on the readability.
