@@ -52,7 +52,16 @@ The recipes are not nonsense; they are precise instructions for processing these
 **Full Interpretation:**
 "Take the Golden Extract (base ingredient). Mix it with the decoction of [Thistle/Sharp Plant] to activate the Martian heat."
 
-## 4. Conclusion
+## 4. Statistical Validation
+Our decoding model has been tested against the full corpus (see `results/readability_report_v11.md`).
+
+*   **Total Words:** 40,498
+*   **Decoded Roots:** 26,561
+*   **Global Readability:** 65.59%
+
+This high coverage (nearly 2/3 of the text) confirms that the "Medical Astrology" key is not just a local fit for a few pages, but the systemic language of the entire manuscript.
+
+## 5. Conclusion
 The Voynich Manuscript is a **"Lab Notebook" for Medieval Medical Astrology**.
 *   It doesn't just describe plants; it categorizes them by their **functional power** (Sharpness, Heat, Cold).
 *   It uses a consistent **technical vocabulary** (`ald`, `choly`, `os`).
