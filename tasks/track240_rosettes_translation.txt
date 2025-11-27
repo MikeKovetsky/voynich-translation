@@ -1,0 +1,21 @@
+Track 240: Rosettes Translation (The System Map)
+
+Goal: Translate the Rosettes Foldout (f86v) to validate the "Flow of Influence" theory (Stars -> Earth -> Water).
+
+Input:
+- `results/dictionary/dictionary.json` (v10.1).
+- `data/eva_ivtff.txt`.
+- Target Folio: f86v (all sub-sections).
+
+Steps:
+1. Extract text from the Rosettes foldout.
+   - Pay attention to labels in the "Upper Circles" (Sky?) vs "Lower Circles" (Earth?).
+2. Translate using the "Three Elements" key:
+   - `aiin` / `daiin` (Star/Fire).
+   - `o` / `oteos` (Earth/Tree).
+   - `ol` / `okeedy` (Water/Mixture).
+3. Map the flow:
+   - Do "Star" words appear at the top?
+   - Do "Water" words appear in the pipes/tubes?
+4. Output: `results/rosettes_translation.md`.
+5. Summary: `results/track-240-results_summary.md`.

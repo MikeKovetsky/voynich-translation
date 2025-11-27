@@ -1,0 +1,18 @@
+Track 241: Astro-Medicine Correlation
+
+Goal: Find the explicit textual link between the "Stars" (`aiin`) and the "Cures" (`ol`/`okeedy`). We need to find the "Recipe of the Stars".
+
+Input:
+- `data/eva_ivtff.txt`.
+- `results/dictionary/dictionary.json` (v10.1).
+
+Steps:
+1. Search for sentences containing BOTH:
+   - Astral Terms: `aiin`, `daiin`, `os`, `dar` (Adar).
+   - Medical Terms: `ol`, `okeedy`, `chedy` (Mix), `qokeey` (Drink).
+2. Analyze the grammar:
+   - `daiin ... qokeey` -> "The Star ... Drink"? (Drink the Star-infused water?)
+   - `aiin ... chedy` -> "Star ... Mix"? (Mix at the time of the Star?)
+3. Identify the "Bridge Pages" where this crossover happens (likely end of Zodiac or start of Recipes).
+4. Output: `results/astro_medicine_link.md`.
+5. Summary: `results/track-241-results_summary.md`.
