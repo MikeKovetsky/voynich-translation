@@ -1,0 +1,11 @@
+Iteration 95: Closing the Loop
+Status: Strategy Phase
+Goal: Address the lagging Astro section and synthesize the Bio narrative.
+
+Strategy:
+1.  **Astro Dive (Track 306):** 64% coverage is the bottleneck. We need to treat the Astro section as a "List of Names" rather than sentences.
+2.  **Narrative Extraction (Track 307):** 80% coverage in Bio is huge. We can finally read it! We will extract the "User Manual" for the spa.
+
+Next Steps:
+- Run Tracks 306, 307.
+- We are approaching the asymptote of what "statistical translation" can do. The final 20% requires deep linguistic intuition.
