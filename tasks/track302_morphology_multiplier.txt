@@ -1,0 +1,24 @@
+Task: Morphological Multiplier (Track 302)
+Goal: Algorithmic expansion of the dictionary by applying known grammar rules to unknown variants.
+Inputs:
+- results/dictionary/master_dictionary_v16.json
+- results/morphology_opportunities.json (from Track 301)
+
+Steps:
+1.  **Define Transformation Rules:**
+    - Suffix `-aiin` -> "Collection of / Set of" (or "The X").
+    - Suffix `-dy` -> "Related to / Adjective".
+    - Prefix `o-` -> "The / Essence of".
+    - Prefix `qok-` -> "Process / Cook".
+
+2.  **Apply Rules:**
+    - Iterate through the "Unknown" list.
+    - If `Word = Prefix + Known_Root`, generate provisional translation: "[Prefix_Meaning] [Root_Meaning]".
+    - Example: If `otedy` = "Root", and `o-otedy` exists, translate as "The Root".
+
+3.  **Validation:**
+    - Mark these as "Algorithmic" confidence (Medium/Low) to distinguish from "Proven" (High).
+
+4.  **Outputs:**
+    - `results/dictionary_expansion_v17_algo.json`: Proposed new entries.
+    - `results/track-302-results_summary.md`: Estimated coverage gain (e.g. +15%).

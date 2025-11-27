@@ -1,0 +1,16 @@
+Iteration 93: The 80% Gap
+Status: Strategy Phase
+Goal: Attack the low dictionary coverage (19.1%) to reach a respectable translation volume.
+
+Correction:
+- We celebrated the "Methodology" validation, but the "Volume" is lacking.
+- 19.1% coverage means 4 out of 5 words are still raw text. This is unacceptable for a "Full Translation".
+
+Strategy:
+1.  **Audit (Track 301):** We need to know WHAT is missing. Is it 10,000 rare words or 50 common words with weird suffixes?
+2.  **Morphology (Track 302):** We have grammar rules. We need to apply them *aggressively*. If we know `sho` (Fire), we should automatically translate `shol`, `shor`, `shody`.
+3.  **Context (Track 303):** Use the "Solved" sentences to encircle and define the remaining words.
+
+Next Steps:
+- Run Tracks 301, 302, 303.
+- Target: Increase coverage from 19.1% to >40% in this sprint.

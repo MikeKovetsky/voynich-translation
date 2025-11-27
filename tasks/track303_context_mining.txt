@@ -1,0 +1,22 @@
+Task: Contextual Fill-in-the-Blank (Track 303)
+Goal: Use the translated "Golden Sentences" to infer the meaning of remaining unknown words.
+Inputs:
+- results/full_draft_translation_v1.md (or generate v2)
+- results/dictionary/master_dictionary_v16.json
+
+Steps:
+1.  **Identify "Cloze" Sentences:**
+    - Find sentences in the transcription where >75% of words are known.
+    - Example: "Take the [UNKNOWN] and mix with Salt."
+    - The [UNKNOWN] is likely an ingredient.
+
+2.  **Category Tagging:**
+    - If the frame is `ol [UNKNOWN]`, tag as `noun` / `ingredient`.
+    - If the frame is `[UNKNOWN]-y`, tag as `verb` / `imperative`.
+
+3.  **Inference:**
+    - Generate a list of "Probable Definitions" based on context.
+
+4.  **Outputs:**
+    - `results/context_inferred_candidates.json`.
+    - `results/track-303-results_summary.md`: List of high-probability guesses.

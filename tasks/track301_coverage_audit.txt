@@ -1,0 +1,21 @@
+Task: Coverage Audit (Track 301)
+Goal: Analyze the 80.9% of untranslated words to find the "Low Hanging Fruit" for coverage expansion.
+Inputs:
+- results/dictionary/master_dictionary_v16.json
+- data/voynich_transcription.txt
+
+Steps:
+1.  **Frequency Analysis:**
+    - Count the frequency of EVERY word in the transcription.
+    - Filter out words that already have a translation in `master_dictionary_v16.json`.
+    - List the Top 100 most frequent *unknown* words.
+
+2.  **Morphological Grouping:**
+    - Group unknown words by root.
+    - Example: If `qokeedy` is known, group `qokeedy-aiin`, `qokeedy-os`, `s-qokeedy` under it.
+    - Calculate how much coverage we gain if we solve the "Root" vs the individual variations.
+
+3.  **Outputs:**
+    - `results/top_100_unknowns.csv`: List of words to target next.
+    - `results/morphology_opportunities.json`: List of known roots with unknown suffixes.
+    - `results/track-301-results_summary.md`: Strategy to hit 50% coverage.
