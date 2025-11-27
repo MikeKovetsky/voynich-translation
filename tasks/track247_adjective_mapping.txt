@@ -1,0 +1,22 @@
+Track 247: Adjective Mapping (Elemental & Quality)
+
+Goal: Decode the high-frequency adjectives that modify Nouns, mapping them to Elemental Qualities (Hot/Cold/Wet/Dry) or Colors (Red/Green/Blue/Gold).
+
+Input:
+- `data/eva_ivtff.txt`.
+- `results/dictionary/dictionary.json` (v11.0).
+
+Focus Adjectives:
+- `or`: High freq, appears in Herbal. Hypothesis: "Golden/Red/Hot".
+- `ol`: High freq, appears in Baths. Confirmed: "Wet/Liquid".
+- `ok`: Prefix/Adjective. Hypothesis: "Green/Leafy".
+- `dal`: Appears with `daiin`. Hypothesis: "Aries/First/Principal".
+- `chedy`: Suffix/Adjective. Confirmed: "Mixed".
+
+Steps:
+1. Extract all bigrams `[Noun] + [Adjective]` where Noun is a `plant_candidate` or `star_candidate`.
+2. Calculate co-occurrence stats:
+   - Does `or` appear with "Hot" plants (Thistle)?
+   - Does `ok` appear with "Leafy" plants?
+3. Assign definitive meanings to the top 10 adjectives.
+4. Output: `results/adjective_map.md`.
