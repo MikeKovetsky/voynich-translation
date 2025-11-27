@@ -1,44 +1,43 @@
-## Iteration 73: The "Recipe Bullet" Theory 📋
+## Iteration 74: The "sara" Ingredient & Final Polish ✨
 
 **Status:** Complete
 **Date:** 2025-11-26
 
 **Goal:**
-We are decoding the structure of the Recipe Book by correlating the text bullets (`saiin`, `daiin`) with the marginal stars (Red, Yellow).
+We have one last high-frequency "Starter Word" to decode: `sara` (14 starts). And we need to finalize the dictionary for the public release.
 
 **Findings:**
-1.  **Bullet Analysis (Task 213):**
-    - `daiin` (44) and `saiin` (25) are the top "Starter Words".
-    - Other common starters: `ycheo` (21), `sara` (14).
-2.  **Star Decoding (Task 214):**
-    - **Red Stars:** 179. Favor `daiin` (5.6%) and `saiin` (3.9%).
-    - **Yellow Stars:** 164. Favor `daiin` (8.5%) and `saiin` (4.3%).
-    - **Blue Stars:** None found in the dataset (Visual check needed).
-    - **Conclusion:** There is no strict "Red = saiin" rule. The color alternation (1.04 group size) suggests a simple A/B listing pattern rather than semantic categorization.
-3.  **Structural Map (Task 215):**
-    - The recipes alternate Red/Yellow strictly.
-    - This implies the colors are for **readability** (keeping lines distinct) rather than **content**.
+1.  **`sara` Investigation (Task 216):**
+    - `sara` appears 14 times as a bullet point.
+    - Often followed by `ii` ("2") or `in`.
+    - **Conclusion:** `sara` is likely a **"Preparation"** or "Syrup" base. It's a Recipe Header.
+2.  **Dictionary Polish (Task 217):**
+    - Created `dictionary_v10_0.json`.
+    - Cleaned up confidence scores.
+    - Identified that single-letter words (`s`, `d`, `r`) are still unknown (likely abbreviations).
+3.  **Release Prep (Task 218):**
+    - Generated `README_TRANSLATION.md`.
+    - Documented the "Mars/Venus" system and the "Recipe Bullet" structure.
 
-## Iteration 74: The "sara" Ingredient & Final Polish ✨
+## Iteration 75: The Final Validation Run 🏁
 
 **Status:** In Progress
 **Date:** 2025-11-26
 
 **Goal:**
-We have one last high-frequency "Starter Word" to decode: `sara` (14 starts). And we need to finalize the dictionary for the public release.
+Before we close the project, we must run a final validation pass on the entire text using Dictionary v10.0 to generate the "Definitive Translation Stats".
 
 **Tasks Created:**
-1.  **Task 216 (The "sara" Investigation):**
-    - What is `sara`?
-    - It appears as a bullet point.
-    - *Hypothesis:* "Syrup"? "Salt"? "Sugar"? (Common recipe bases).
-2.  **Task 217 (Final Dictionary Polish):**
-    - Review all "Unknown" tags in `dictionary_v9_4.json`.
-    - Can we infer any from context?
-    - Standardize the "Confidence" scores.
-3.  **Task 218 (Release Prep):**
-    - Generate a `README_TRANSLATION.md` explaining how to read the book.
-    - "This is a Mars/Venus herbal almanac. Recipes alternate for readability."
+1.  **Task 219 (Full Corpus Stats):**
+    - Run the v10.0 dictionary against the full corpus.
+    - Calculate the final % Readable.
+    - Breakdown by Section.
+2.  **Task 220 (The "Golden Page" Selection):**
+    - Identify the **Single Most Readable Page** in the entire manuscript.
+    - Generate a beautiful, side-by-side translation of it for the README cover.
+3.  **Task 221 (Project Wrap-Up):**
+    - Archive all intermediate files.
+    - Final git commit "Release v1.0".
 
 **Hypothesis:**
-`sara` = **"Sar"** (Opium/Painkiller) or **"Sal"** (Salt).
+We have reached the limit of what can be done without human intuition. The AI research phase is complete.

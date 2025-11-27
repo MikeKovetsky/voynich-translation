@@ -23,6 +23,11 @@ We believe the manuscript was designed for a **narrow, specific goal**—likely 
 *   **Repetitive Vocabulary:** A technical guide reuses terms like "mix," "root," or "star" far more often than a narrative story does.
 *   **Compression:** The system behaves like an "Abjad" (a writing system that omits vowels, like Hebrew or Arabic shorthands). By stripping out redundant information, the writer created a "zipped" version of language—compact, efficient, and dense with meaning.
 
+## Could it be the First "Programming Language"?
+If by "programming language" we mean a **formal system of executable instructions**, then yes.
+*   **Interpretation:** Code requires an interpreter. In this case, the human reader acts as the processor, executing rigid instructions (`[Prefix-Root-Suffix]` $\rightarrow$ "Take root, boil, apply").
+*   **Historical Precedent:** The manuscript (c. 1400s) follows the logic of **Ramon Llull's "Ars Magna"** (13th century), a mechanical system for combining concepts to produce truth. It is likely a **procedural notation system**—an algorithmization of knowledge to turn nature into a computable format, predating Leibniz's dream of a universal language by centuries.
+
 ## The Verdict
 The data indicates that the Voynich manuscript is likely not a random hoax or a simple letter-substitution cipher. Instead, it appears to be a **deliberately designed system**.
 

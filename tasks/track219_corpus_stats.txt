@@ -1,0 +1,21 @@
+# Task 219: Full Corpus Stats
+
+## Goal
+Calculate the final readability statistics for the Voynich Manuscript using Dictionary v10.0.
+
+## Input
+- `results/dictionary/dictionary_v10_0.json`
+- `results/parsed_text.json` (All Pages)
+
+## Process
+1.  **Tokenization:** Count total words.
+2.  **Coverage:** Count words found in the dictionary (Confidence > 0.0).
+3.  **Section Analysis:**
+    - Herbal: % Readable.
+    - Astro: % Readable.
+    - Bio: % Readable.
+    - Recipes: % Readable.
+
+## Output
+- `results/final_readability_stats.md`: The numbers.
+- `results/track-219-results_summary.md`: Summary.
