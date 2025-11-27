@@ -1,0 +1,17 @@
+Task: Project Completion & Cleanup (Track 300)
+Goal: Tidy up the workspace and officially close the research project.
+Inputs:
+- results/final_report_v9.md
+- README.md
+
+Steps:
+1. **Final Archive:**
+   - Move all `tasks/track*` files to `archive/`.
+   - Ensure the `results/` folder contains the definitive reports (v9, Golden Pages).
+
+2. **Documentation Update:**
+   - Update `README.md` to point to `results/final_report_v9.md`.
+   - Add a "How to Continue" section for future researchers (e.g., "Focus on Narrative Translation").
+
+3. **Outputs:**
+   - `results/track-300-results_summary.md`: Final sign-off.
