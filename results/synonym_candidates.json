@@ -1,0 +1,1539 @@
+[
+  {
+    "type": "spelling_variant_high_conf",
+    "word": "chedy",
+    "match": "shedy",
+    "distance": 1,
+    "common_count": 10,
+    "freq_w1": 465,
+    "freq_w2": 378
+  },
+  {
+    "type": "synonym",
+    "word": "chey",
+    "match": "shedy",
+    "distance": 2,
+    "common_count": 8,
+    "freq_w1": 306,
+    "freq_w2": 378
+  },
+  {
+    "type": "synonym",
+    "word": "chedy",
+    "match": "shey",
+    "distance": 2,
+    "common_count": 7,
+    "freq_w1": 465,
+    "freq_w2": 239
+  },
+  {
+    "type": "synonym",
+    "word": "chedy",
+    "match": "qokeey",
+    "distance": 4,
+    "common_count": 7,
+    "freq_w1": 465,
+    "freq_w2": 295
+  },
+  {
+    "type": "synonym",
+    "word": "chedy",
+    "match": "qokedy",
+    "distance": 3,
+    "common_count": 7,
+    "freq_w1": 465,
+    "freq_w2": 254
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qokai!n",
+    "match": "qokaiin",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "chedy",
+        "shedy"
+      ],
+      [
+        "shey",
+        "chcthy"
+      ],
+      [
+        "chedy",
+        "chedy"
+      ],
+      [
+        "chey",
+        "otai!n"
+      ],
+      [
+        "shey",
+        "chedy"
+      ]
+    ],
+    "common_count": 6,
+    "freq_unknown": 192,
+    "freq_known": 250
+  },
+  {
+    "type": "synonym",
+    "word": "daiin",
+    "match": "ol",
+    "distance": 5,
+    "common_count": 6,
+    "freq_w1": 710,
+    "freq_w2": 452
+  },
+  {
+    "type": "synonym",
+    "word": "qokaiin",
+    "match": "qokedy",
+    "distance": 4,
+    "common_count": 6,
+    "freq_w1": 250,
+    "freq_w2": 254
+  },
+  {
+    "type": "synonym",
+    "word": "qokaiin",
+    "match": "qokal",
+    "distance": 3,
+    "common_count": 6,
+    "freq_w1": 250,
+    "freq_w2": 182
+  },
+  {
+    "type": "synonym",
+    "word": "chedy",
+    "match": "dal",
+    "distance": 5,
+    "common_count": 6,
+    "freq_w1": 465,
+    "freq_w2": 211
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qokeedy",
+    "match": "qokeey",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "shedy",
+        "qotedy"
+      ],
+      [
+        "qoteedy",
+        "qokedy"
+      ],
+      [
+        "cheol",
+        "qokeedy"
+      ],
+      [
+        "qokeedy",
+        "qokar"
+      ],
+      [
+        "chey",
+        "chedy"
+      ]
+    ],
+    "common_count": 5,
+    "freq_unknown": 298,
+    "freq_known": 295
+  },
+  {
+    "type": "synonym",
+    "word": "aiin",
+    "match": "ar",
+    "distance": 3,
+    "common_count": 5,
+    "freq_w1": 416,
+    "freq_w2": 319
+  },
+  {
+    "type": "spelling_variant_high_conf",
+    "word": "ol",
+    "match": "or",
+    "distance": 1,
+    "common_count": 5,
+    "freq_w1": 452,
+    "freq_w2": 315
+  },
+  {
+    "type": "spelling_variant_high_conf",
+    "word": "chedy",
+    "match": "chey",
+    "distance": 1,
+    "common_count": 5,
+    "freq_w1": 465,
+    "freq_w2": 306
+  },
+  {
+    "type": "synonym",
+    "word": "okar",
+    "match": "qokal",
+    "distance": 2,
+    "common_count": 5,
+    "freq_w1": 122,
+    "freq_w2": 182
+  },
+  {
+    "type": "synonym",
+    "word": "chedy",
+    "match": "qokeedy",
+    "distance": 4,
+    "common_count": 5,
+    "freq_w1": 465,
+    "freq_w2": 298
+  },
+  {
+    "type": "synonym",
+    "word": "ol",
+    "match": "qokedy",
+    "distance": 5,
+    "common_count": 5,
+    "freq_w1": 452,
+    "freq_w2": 254
+  },
+  {
+    "type": "synonym",
+    "word": "qokedy",
+    "match": "shedy",
+    "distance": 3,
+    "common_count": 5,
+    "freq_w1": 254,
+    "freq_w2": 378
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qokedy",
+    "match": "qokeey",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "shedy",
+        "qokain"
+      ],
+      [
+        "shedy",
+        "qokeedy"
+      ],
+      [
+        "olkeedy",
+        "qotaiin"
+      ],
+      [
+        "qokeey",
+        "chedy"
+      ]
+    ],
+    "common_count": 4,
+    "freq_unknown": 254,
+    "freq_known": 295
+  },
+  {
+    "type": "spelling_variant_high_conf",
+    "word": "aiin",
+    "match": "daiin",
+    "distance": 1,
+    "common_count": 4,
+    "freq_w1": 416,
+    "freq_w2": 710
+  },
+  {
+    "type": "synonym",
+    "word": "ar",
+    "match": "ol",
+    "distance": 2,
+    "common_count": 4,
+    "freq_w1": 319,
+    "freq_w2": 452
+  },
+  {
+    "type": "spelling_variant_high_conf",
+    "word": "ar",
+    "match": "or",
+    "distance": 1,
+    "common_count": 4,
+    "freq_w1": 319,
+    "freq_w2": 315
+  },
+  {
+    "type": "synonym",
+    "word": "daiin",
+    "match": "qokedy",
+    "distance": 6,
+    "common_count": 4,
+    "freq_w1": 710,
+    "freq_w2": 254
+  },
+  {
+    "type": "synonym",
+    "word": "qokaiin",
+    "match": "qokeey",
+    "distance": 4,
+    "common_count": 4,
+    "freq_w1": 250,
+    "freq_w2": 295
+  },
+  {
+    "type": "synonym",
+    "word": "ol",
+    "match": "s",
+    "distance": 2,
+    "common_count": 4,
+    "freq_w1": 452,
+    "freq_w2": 169
+  },
+  {
+    "type": "synonym",
+    "word": "daiin",
+    "match": "qokal",
+    "distance": 5,
+    "common_count": 4,
+    "freq_w1": 710,
+    "freq_w2": 182
+  },
+  {
+    "type": "synonym",
+    "word": "cheey",
+    "match": "daiin",
+    "distance": 5,
+    "common_count": 4,
+    "freq_w1": 162,
+    "freq_w2": 710
+  },
+  {
+    "type": "synonym",
+    "word": "ol",
+    "match": "qokai!n",
+    "distance": 6,
+    "common_count": 4,
+    "freq_w1": 452,
+    "freq_w2": 192
+  },
+  {
+    "type": "synonym",
+    "word": "ol",
+    "match": "qokar",
+    "distance": 4,
+    "common_count": 4,
+    "freq_w1": 452,
+    "freq_w2": 144
+  },
+  {
+    "type": "synonym",
+    "word": "qokai!n",
+    "match": "qokar",
+    "distance": 3,
+    "common_count": 4,
+    "freq_w1": 192,
+    "freq_w2": 144
+  },
+  {
+    "type": "synonym",
+    "word": "qokaiin",
+    "match": "qotai!n",
+    "distance": 2,
+    "common_count": 4,
+    "freq_w1": 250,
+    "freq_w2": 50
+  },
+  {
+    "type": "spelling_variant_high_conf",
+    "word": "chedy",
+    "match": "cheey",
+    "distance": 1,
+    "common_count": 4,
+    "freq_w1": 465,
+    "freq_w2": 162
+  },
+  {
+    "type": "synonym",
+    "word": "chey",
+    "match": "qokeedy",
+    "distance": 5,
+    "common_count": 4,
+    "freq_w1": 306,
+    "freq_w2": 298
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qol",
+    "match": "ol",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "shedy",
+        "shedy"
+      ],
+      [
+        "chey",
+        "aiin"
+      ],
+      [
+        "chedy",
+        "chdy"
+      ]
+    ],
+    "common_count": 3,
+    "freq_unknown": 115,
+    "freq_known": 452
+  },
+  {
+    "type": "synonym",
+    "word": "ar",
+    "match": "okaiin",
+    "distance": 5,
+    "common_count": 3,
+    "freq_w1": 319,
+    "freq_w2": 193
+  },
+  {
+    "type": "synonym",
+    "word": "aiin",
+    "match": "ol",
+    "distance": 4,
+    "common_count": 3,
+    "freq_w1": 416,
+    "freq_w2": 452
+  },
+  {
+    "type": "synonym",
+    "word": "aiin",
+    "match": "or",
+    "distance": 4,
+    "common_count": 3,
+    "freq_w1": 416,
+    "freq_w2": 315
+  },
+  {
+    "type": "synonym",
+    "word": "daiin",
+    "match": "or",
+    "distance": 5,
+    "common_count": 3,
+    "freq_w1": 710,
+    "freq_w2": 315
+  },
+  {
+    "type": "synonym",
+    "word": "choky",
+    "match": "chol",
+    "distance": 2,
+    "common_count": 3,
+    "freq_w1": 36,
+    "freq_w2": 360
+  },
+  {
+    "type": "synonym",
+    "word": "chol",
+    "match": "daiin",
+    "distance": 5,
+    "common_count": 3,
+    "freq_w1": 360,
+    "freq_w2": 710
+  },
+  {
+    "type": "synonym",
+    "word": "chor",
+    "match": "daiin",
+    "distance": 5,
+    "common_count": 3,
+    "freq_w1": 195,
+    "freq_w2": 710
+  },
+  {
+    "type": "synonym",
+    "word": "chol",
+    "match": "qokaiin",
+    "distance": 7,
+    "common_count": 3,
+    "freq_w1": 360,
+    "freq_w2": 250
+  },
+  {
+    "type": "synonym",
+    "word": "chol",
+    "match": "qokal",
+    "distance": 4,
+    "common_count": 3,
+    "freq_w1": 360,
+    "freq_w2": 182
+  },
+  {
+    "type": "synonym",
+    "word": "chol",
+    "match": "qol",
+    "distance": 2,
+    "common_count": 3,
+    "freq_w1": 360,
+    "freq_w2": 115
+  },
+  {
+    "type": "synonym",
+    "word": "lchedy",
+    "match": "qokai!n",
+    "distance": 7,
+    "common_count": 3,
+    "freq_w1": 102,
+    "freq_w2": 192
+  },
+  {
+    "type": "synonym",
+    "word": "okar",
+    "match": "qokaiin",
+    "distance": 4,
+    "common_count": 3,
+    "freq_w1": 122,
+    "freq_w2": 250
+  },
+  {
+    "type": "synonym",
+    "word": "or",
+    "match": "s",
+    "distance": 2,
+    "common_count": 3,
+    "freq_w1": 315,
+    "freq_w2": 169
+  },
+  {
+    "type": "synonym",
+    "word": "chedy",
+    "match": "lkeey",
+    "distance": 3,
+    "common_count": 3,
+    "freq_w1": 465,
+    "freq_w2": 39
+  },
+  {
+    "type": "synonym",
+    "word": "chol",
+    "match": "dy",
+    "distance": 4,
+    "common_count": 3,
+    "freq_w1": 360,
+    "freq_w2": 200
+  },
+  {
+    "type": "spelling_variant_high_conf",
+    "word": "al",
+    "match": "ol",
+    "distance": 1,
+    "common_count": 3,
+    "freq_w1": 247,
+    "freq_w2": 452
+  },
+  {
+    "type": "synonym",
+    "word": "qokai!n",
+    "match": "qokeey",
+    "distance": 4,
+    "common_count": 3,
+    "freq_w1": 192,
+    "freq_w2": 295
+  },
+  {
+    "type": "synonym",
+    "word": "chedy",
+    "match": "oteey",
+    "distance": 3,
+    "common_count": 3,
+    "freq_w1": 465,
+    "freq_w2": 136
+  },
+  {
+    "type": "synonym",
+    "word": "okai!n",
+    "match": "qokar",
+    "distance": 4,
+    "common_count": 3,
+    "freq_w1": 91,
+    "freq_w2": 144
+  },
+  {
+    "type": "synonym",
+    "word": "qokeedy",
+    "match": "qoky",
+    "distance": 3,
+    "common_count": 3,
+    "freq_w1": 298,
+    "freq_w2": 122
+  },
+  {
+    "type": "synonym",
+    "word": "dar",
+    "match": "ol",
+    "distance": 3,
+    "common_count": 3,
+    "freq_w1": 267,
+    "freq_w2": 452
+  },
+  {
+    "type": "synonym",
+    "word": "chol",
+    "match": "ol",
+    "distance": 2,
+    "common_count": 3,
+    "freq_w1": 360,
+    "freq_w2": 452
+  },
+  {
+    "type": "synonym",
+    "word": "ol",
+    "match": "qokaiin",
+    "distance": 6,
+    "common_count": 3,
+    "freq_w1": 452,
+    "freq_w2": 250
+  },
+  {
+    "type": "synonym",
+    "word": "qokar",
+    "match": "qokedy",
+    "distance": 3,
+    "common_count": 3,
+    "freq_w1": 144,
+    "freq_w2": 254
+  },
+  {
+    "type": "synonym",
+    "word": "al",
+    "match": "s",
+    "distance": 2,
+    "common_count": 3,
+    "freq_w1": 247,
+    "freq_w2": 169
+  },
+  {
+    "type": "synonym",
+    "word": "aiin",
+    "match": "chol",
+    "distance": 4,
+    "common_count": 3,
+    "freq_w1": 416,
+    "freq_w2": 360
+  },
+  {
+    "type": "spelling_variant_high_conf",
+    "word": "aiiin",
+    "match": "aiin",
+    "distance": 1,
+    "common_count": 3,
+    "freq_w1": 40,
+    "freq_w2": 416
+  },
+  {
+    "type": "synonym",
+    "word": "qokeey",
+    "match": "shedy",
+    "distance": 4,
+    "common_count": 3,
+    "freq_w1": 295,
+    "freq_w2": 378
+  },
+  {
+    "type": "synonym",
+    "word": "chedy",
+    "match": "keey",
+    "distance": 3,
+    "common_count": 3,
+    "freq_w1": 465,
+    "freq_w2": 38
+  },
+  {
+    "type": "synonym",
+    "word": "chey",
+    "match": "qokeey",
+    "distance": 4,
+    "common_count": 3,
+    "freq_w1": 306,
+    "freq_w2": 295
+  },
+  {
+    "type": "synonym",
+    "word": "chey",
+    "match": "okeedy",
+    "distance": 4,
+    "common_count": 3,
+    "freq_w1": 306,
+    "freq_w2": 98
+  },
+  {
+    "type": "synonym",
+    "word": "lchedy",
+    "match": "qokeedy",
+    "distance": 4,
+    "common_count": 3,
+    "freq_w1": 102,
+    "freq_w2": 298
+  },
+  {
+    "type": "synonym",
+    "word": "okeey",
+    "match": "qokeedy",
+    "distance": 2,
+    "common_count": 3,
+    "freq_w1": 162,
+    "freq_w2": 298
+  },
+  {
+    "type": "synonym",
+    "word": "dar",
+    "match": "qokeey",
+    "distance": 6,
+    "common_count": 3,
+    "freq_w1": 267,
+    "freq_w2": 295
+  },
+  {
+    "type": "synonym",
+    "word": "qokeey",
+    "match": "qoky",
+    "distance": 2,
+    "common_count": 3,
+    "freq_w1": 295,
+    "freq_w2": 122
+  },
+  {
+    "type": "synonym",
+    "word": "chedy",
+    "match": "sheol",
+    "distance": 3,
+    "common_count": 3,
+    "freq_w1": 465,
+    "freq_w2": 102
+  },
+  {
+    "type": "synonym",
+    "word": "chedy",
+    "match": "sheedy",
+    "distance": 2,
+    "common_count": 3,
+    "freq_w1": 465,
+    "freq_w2": 73
+  },
+  {
+    "type": "spelling_variant_high_conf",
+    "word": "shedy",
+    "match": "sheey",
+    "distance": 1,
+    "common_count": 3,
+    "freq_w1": 378,
+    "freq_w2": 131
+  },
+  {
+    "type": "spelling_variant_high_conf",
+    "word": "sheedy",
+    "match": "sheey",
+    "distance": 1,
+    "common_count": 3,
+    "freq_w1": 73,
+    "freq_w2": 131
+  },
+  {
+    "type": "synonym",
+    "word": "chedy",
+    "match": "sheey",
+    "distance": 2,
+    "common_count": 3,
+    "freq_w1": 465,
+    "freq_w2": 131
+  },
+  {
+    "type": "synonym",
+    "word": "chedy",
+    "match": "keedy",
+    "distance": 2,
+    "common_count": 3,
+    "freq_w1": 465,
+    "freq_w2": 43
+  },
+  {
+    "type": "synonym",
+    "word": "chedy",
+    "match": "qokey",
+    "distance": 4,
+    "common_count": 3,
+    "freq_w1": 465,
+    "freq_w2": 98
+  },
+  {
+    "type": "synonym",
+    "word": "okeey",
+    "match": "qokey",
+    "distance": 2,
+    "common_count": 3,
+    "freq_w1": 162,
+    "freq_w2": 98
+  },
+  {
+    "type": "synonym",
+    "word": "aiin",
+    "match": "cheor",
+    "distance": 5,
+    "common_count": 3,
+    "freq_w1": 416,
+    "freq_w2": 89
+  },
+  {
+    "type": "spelling_variant",
+    "word": "okaiin",
+    "match": "otaiin",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "daiin",
+        "shedy"
+      ],
+      [
+        "okaiin",
+        "otar"
+      ]
+    ],
+    "common_count": 2,
+    "freq_unknown": 193,
+    "freq_known": 142
+  },
+  {
+    "type": "spelling_variant",
+    "word": "otal",
+    "match": "otar",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "otaiin",
+        "chedy"
+      ],
+      [
+        "qokaiin",
+        "ol"
+      ]
+    ],
+    "common_count": 2,
+    "freq_unknown": 130,
+    "freq_known": 139
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qokedy",
+    "match": "qotedy",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "shedy",
+        "qokeedy"
+      ],
+      [
+        "otedy",
+        "otedy"
+      ]
+    ],
+    "common_count": 2,
+    "freq_unknown": 254,
+    "freq_known": 86
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qokeedy",
+    "match": "qoteedy",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "qoteedy",
+        "qokedy"
+      ],
+      [
+        "qokedy",
+        "qokedy"
+      ]
+    ],
+    "common_count": 2,
+    "freq_unknown": 298,
+    "freq_known": 74
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qokal",
+    "match": "qokar",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "shedy",
+        "shedy"
+      ],
+      [
+        "qokeey",
+        "lchedy"
+      ]
+    ],
+    "common_count": 2,
+    "freq_unknown": 182,
+    "freq_known": 144
+  },
+  {
+    "type": "spelling_variant",
+    "word": "ai!n",
+    "match": "aiin",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "ol",
+        "shol"
+      ],
+      [
+        "or",
+        "ol"
+      ]
+    ],
+    "common_count": 2,
+    "freq_unknown": 55,
+    "freq_known": 416
+  },
+  {
+    "type": "spelling_variant",
+    "word": "ataiin",
+    "match": "akaiin",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "ar",
+        "shol"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 1,
+    "freq_known": 2
+  },
+  {
+    "type": "spelling_variant",
+    "word": "dain",
+    "match": "daiin",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "chol",
+        "chol"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 75,
+    "freq_known": 710
+  },
+  {
+    "type": "spelling_variant",
+    "word": "oiin",
+    "match": "aiin",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "or",
+        "cheol"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 27,
+    "freq_known": 416
+  },
+  {
+    "type": "spelling_variant",
+    "word": "odaiin",
+    "match": "daiin",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "chol",
+        "chol"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 57,
+    "freq_known": 710
+  },
+  {
+    "type": "spelling_variant",
+    "word": "dor",
+    "match": "or",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "daiin",
+        "chol"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 69,
+    "freq_known": 315
+  },
+  {
+    "type": "spelling_variant",
+    "word": "otol",
+    "match": "ytol",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "chor",
+        "chol"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 81,
+    "freq_known": 9
+  },
+  {
+    "type": "spelling_variant",
+    "word": "kaiin",
+    "match": "aiin",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "ol",
+        "ol"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 57,
+    "freq_known": 416
+  },
+  {
+    "type": "spelling_variant",
+    "word": "kaiin",
+    "match": "daiin",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "ol",
+        "ol"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 57,
+    "freq_known": 710
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qokol",
+    "match": "qokor",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "shol",
+        "shedy"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 89,
+    "freq_known": 30
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qokol",
+    "match": "qotol",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "okeey",
+        "sheol"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 89,
+    "freq_known": 44
+  },
+  {
+    "type": "spelling_variant",
+    "word": "odal",
+    "match": "dal",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "shol",
+        "qokaiin"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 12,
+    "freq_known": 211
+  },
+  {
+    "type": "spelling_variant",
+    "word": "cho",
+    "match": "chy",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "s",
+        "s"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 53,
+    "freq_known": 132
+  },
+  {
+    "type": "spelling_variant",
+    "word": "oar",
+    "match": "ar",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "ody",
+        "aiin"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 15,
+    "freq_known": 319
+  },
+  {
+    "type": "spelling_variant",
+    "word": "ochey",
+    "match": "pchey",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "shey",
+        "qokeey"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 7,
+    "freq_known": 6
+  },
+  {
+    "type": "spelling_variant",
+    "word": "chky",
+    "match": "chdy",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "okar",
+        "chdy"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 16,
+    "freq_known": 134
+  },
+  {
+    "type": "spelling_variant",
+    "word": "sol",
+    "match": "sor",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "aiin",
+        "shey"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 45,
+    "freq_known": 38
+  },
+  {
+    "type": "spelling_variant",
+    "word": "rol",
+    "match": "lol",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "cheo",
+        "aiin"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 16,
+    "freq_known": 32
+  },
+  {
+    "type": "spelling_variant",
+    "word": "raiin",
+    "match": "daiin",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "chol",
+        "otaiin"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 56,
+    "freq_known": 710
+  },
+  {
+    "type": "spelling_variant",
+    "word": "otal",
+    "match": "okal",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "qokedy",
+        "chedy"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 130,
+    "freq_known": 129
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qor",
+    "match": "or",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "daiin",
+        "chol"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 18,
+    "freq_known": 315
+  },
+  {
+    "type": "spelling_variant",
+    "word": "orcho",
+    "match": "okcho",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "daiin",
+        "kchor"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 1,
+    "freq_known": 10
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qokedy",
+    "match": "qokey",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "chedy",
+        "lshedy"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 254,
+    "freq_known": 98
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qokeedy",
+    "match": "okeedy",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "teedy",
+        "qokeedy"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 298,
+    "freq_known": 98
+  },
+  {
+    "type": "spelling_variant",
+    "word": "otedy",
+    "match": "oteedy",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "qokedy",
+        "shedy"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 156,
+    "freq_known": 97
+  },
+  {
+    "type": "spelling_variant",
+    "word": "lkedy",
+    "match": "lkeedy",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "qokeey",
+        "lkedy"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 27,
+    "freq_known": 38
+  },
+  {
+    "type": "spelling_variant",
+    "word": "cheedy",
+    "match": "sheedy",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "ol",
+        "qokeedy"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 53,
+    "freq_known": 73
+  },
+  {
+    "type": "spelling_variant",
+    "word": "kchdy",
+    "match": "chdy",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "qokedy",
+        "okedy"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 13,
+    "freq_known": 134
+  },
+  {
+    "type": "spelling_variant",
+    "word": "iiin",
+    "match": "aiin",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "ar",
+        "okaiin"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 2,
+    "freq_known": 416
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qokeed",
+    "match": "qokeey",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "chedy",
+        "or"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 14,
+    "freq_known": 295
+  },
+  {
+    "type": "spelling_variant",
+    "word": "cthdy",
+    "match": "cthy",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "chody",
+        "s"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 4,
+    "freq_known": 75
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qokeor",
+    "match": "qokeol",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "ckheey",
+        "okey"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 16,
+    "freq_known": 49
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qekaiin",
+    "match": "qokaiin",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "shedy",
+        "chedy"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 2,
+    "freq_known": 250
+  },
+  {
+    "type": "spelling_variant",
+    "word": "chai!n",
+    "match": "chain",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "dy",
+        "shol"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 6,
+    "freq_known": 16
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qokai!n",
+    "match": "qokain",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "chedy",
+        "chckhy"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 192,
+    "freq_known": 68
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qotey",
+    "match": "otey",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "shcthy",
+        "dai!n"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 22,
+    "freq_known": 50
+  },
+  {
+    "type": "spelling_variant",
+    "word": "qoly",
+    "match": "qoky",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "shedy",
+        "daiin"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 4,
+    "freq_known": 122
+  },
+  {
+    "type": "spelling_variant",
+    "word": "sheed",
+    "match": "sheedy",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "ol",
+        "qokeey"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 6,
+    "freq_known": 73
+  },
+  {
+    "type": "spelling_variant",
+    "word": "lar",
+    "match": "tar",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "shy",
+        "ar"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 7,
+    "freq_known": 40
+  },
+  {
+    "type": "spelling_variant",
+    "word": "ror",
+    "match": "lor",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "qokeey",
+        "aiin"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 12,
+    "freq_known": 37
+  },
+  {
+    "type": "spelling_variant",
+    "word": "rchey",
+    "match": "chey",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "qokeey",
+        "tai!n"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 4,
+    "freq_known": 306
+  },
+  {
+    "type": "spelling_variant",
+    "word": "oqokeey",
+    "match": "qokeey",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "qokeey",
+        "chedy"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 1,
+    "freq_known": 295
+  },
+  {
+    "type": "spelling_variant",
+    "word": "lokeey",
+    "match": "lkeey",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "chey",
+        "lchedy"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 2,
+    "freq_known": 39
+  },
+  {
+    "type": "spelling_variant",
+    "word": "lokeey",
+    "match": "qokeey",
+    "distance": 1,
+    "common_contexts": [
+      [
+        "chey",
+        "lchedy"
+      ]
+    ],
+    "common_count": 1,
+    "freq_unknown": 2,
+    "freq_known": 295
+  }
+]

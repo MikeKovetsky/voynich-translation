@@ -1,0 +1,23 @@
+TRACK 145: Final Web Update & Deployment Prep
+===============================================
+
+GOAL: Update the web application with the v8.0 data and prepare it for final presentation.
+
+INPUT:
+- `results/voynich_full_translation_v8.md`
+- `results/master_dictionary_v8_0.json`
+- `results/voynich_knowledge_graph.json`
+
+TASK 1: Data Sync
+-----------------
+- Copy updated translations to `web/src/data/translations.json`.
+- Copy dictionary to `web/src/data/dictionary.json`.
+- Ensure pages list is complete.
+
+TASK 2: Search Index
+--------------------
+- (Optional) Generate a simple search index for the web app if time permits, allowing users to search for "Poppy" or "Boil".
+
+OUTPUT FILES:
+- `finalize_web_data.py`
+- `web/src/data/*`

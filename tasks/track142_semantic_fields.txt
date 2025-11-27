@@ -1,0 +1,25 @@
+TRACK 142: Semantic Field Expansion (Colors & Textures)
+=======================================================
+
+GOAL: Find the missing vocabulary for sensory descriptions (Colors, Tastes, Textures).
+
+INPUT:
+- `data/eva_ivtff.txt` (Herbal Section mainly)
+- `results/master_dictionary_v7_4.json`
+
+TASK 1: Color Hunting
+---------------------
+- We know `sho` = Fire/Red?.
+- Look at pages with **Blue** flowers/roots. What words appear there that don't appear elsewhere?
+- Look at pages with **White** vs **Red** roots.
+
+TASK 2: Texture/State
+---------------------
+- In recipes, look for adjectives following ingredients.
+- `chol` [ADJ]? (Leaf **dry**? Leaf **green**?).
+- Look for repeating suffixes or small words after nouns.
+
+OUTPUT FILES:
+- `semantic_field_mine.py`
+- `results/semantic_field_candidates.json`
+- `results/semantic_field_report.md`
