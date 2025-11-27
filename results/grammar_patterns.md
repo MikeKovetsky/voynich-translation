@@ -1,0 +1,22 @@
+# Grammar Pattern Report
+
+## Tag Counts
+- ROOT: 53491
+- NOUN: 9078
+- CONJ: 6911
+- IMP: 5961
+- REL: 5319
+- VERB: 4829
+- PREP: 2767
+
+## Top 10 Tag Sequences (Bigrams)
+- ROOT-ROOT: 26711
+- NOUN-ROOT: 7481
+- ROOT-NOUN: 7436
+- CONJ-ROOT: 5829
+- ROOT-IMP: 5083
+- ROOT-CONJ: 5028
+- ROOT-REL: 4229
+- VERB-ROOT: 3916
+- IMP-ROOT: 3650
+- REL-ROOT: 3597

@@ -1,0 +1,38 @@
+{
+  "dy": {
+    "meaning": "Particle (Topic/Subject marker?)",
+    "confidence": "Medium"
+  },
+  "in": {
+    "meaning": "Unknown",
+    "confidence": "Low"
+  },
+  "ol": {
+    "meaning": "Article (The) / Preposition (Of)",
+    "confidence": "Medium"
+  },
+  "ey": {
+    "meaning": "Unknown",
+    "confidence": "Low"
+  },
+  "ar": {
+    "meaning": "Unknown",
+    "confidence": "Low"
+  },
+  "or": {
+    "meaning": "Unknown",
+    "confidence": "Low"
+  },
+  "al": {
+    "meaning": "Unknown",
+    "confidence": "Low"
+  },
+  "ee": {
+    "meaning": "Verb (Do/Make)",
+    "confidence": "Medium"
+  },
+  "ai": {
+    "meaning": "One / Water",
+    "confidence": "Medium"
+  }
+}

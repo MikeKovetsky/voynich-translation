@@ -356,47 +356,38 @@
     "ol": {
       "root": "ol",
       "meanings": [
-        "the/of"
+        "*Article (The) / Preposition (Of)"
       ],
       "source_words": [
-        "ol"
-      ],
-      "conflict_suspected": false
+        "(inferred)"
+      ]
     },
     "ar": {
       "root": "ar",
       "meanings": [
-        "to/for",
-        "verb (unknown)"
+        "*Unknown"
       ],
       "source_words": [
-        "ar",
-        "ary",
-        "chary"
-      ],
-      "conflict_suspected": true
+        "(inferred)"
+      ]
     },
     "or": {
       "root": "or",
       "meanings": [
-        "or/and"
+        "*Unknown"
       ],
       "source_words": [
-        "or"
-      ],
-      "conflict_suspected": false
+        "(inferred)"
+      ]
     },
     "al": {
       "root": "al",
       "meanings": [
-        "to the",
-        "verb (unknown)"
+        "*Unknown"
       ],
       "source_words": [
-        "al",
-        "ykaly"
-      ],
-      "conflict_suspected": true
+        "(inferred)"
+      ]
     },
     "qo": {
       "root": "qo",
@@ -411,12 +402,11 @@
     "dy": {
       "root": "dy",
       "meanings": [
-        "-ness/-ly (suffix)"
+        "*Particle (Topic/Subject marker?)"
       ],
       "source_words": [
-        "dy"
-      ],
-      "conflict_suspected": false
+        "(inferred)"
+      ]
     },
     "y": {
       "root": "y",
@@ -1339,6 +1329,43 @@
         "ok"
       ],
       "conflict_suspected": false
+    },
+    "in": {
+      "root": "in",
+      "meanings": [
+        "*Unknown"
+      ],
+      "source_words": [
+        "(inferred)"
+      ]
+    },
+    "ey": {
+      "root": "ey",
+      "meanings": [
+        "*Unknown"
+      ],
+      "source_words": [
+        "(inferred)"
+      ]
+    },
+    "ee": {
+      "root": "ee",
+      "meanings": [
+        "*Verb (Do/Make)",
+        "*Verb (Do/Make)"
+      ],
+      "source_words": [
+        "(inferred)"
+      ]
+    },
+    "ai": {
+      "root": "ai",
+      "meanings": [
+        "*One / Water"
+      ],
+      "source_words": [
+        "(inferred)"
+      ]
     }
   },
   "conflicts": [

@@ -1,0 +1,22 @@
+# Task 169: Topic Modeling (LDA)
+
+## Goal
+Discover the "hidden topics" of the manuscript pages using Latent Dirichlet Allocation (LDA).
+This differs from Task 168 by looking at *document-level* (page/paragraph) co-occurrence rather than local window.
+
+## Input
+- `results/parsed_text.json` (Grouped by page/paragraph)
+- `results/translation_v11.md` (For reference of structure)
+
+## Process
+1. **Document Prep:** Treat each *Page* or *Paragraph* as a "Document".
+2. **Tokenization:** Use the *Root* of the words (strip `o-`, `y-`, `daiin-`, etc.).
+3. **LDA Model:** Run LDA with `num_topics` = 5, 10, 20.
+4. **Topic Interpretation:** Look at the top words for each topic.
+   - Do they correlate with the illustrations (Herbal vs. Biological vs. Cosmological)?
+5. **Mapping:** Assign each page a primary topic.
+
+## Output
+- `results/topic_model.json`: Topics and their top words. Page -> Topic mapping.
+- `results/topic_distribution.md`: A report correlating topics with manuscript sections (Herbal, etc.).
+- `results/track-169-results_summary.md`: Summary of findings.

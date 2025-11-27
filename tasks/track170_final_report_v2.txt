@@ -1,0 +1,25 @@
+# Task 170: Final Report v2 (Grammar-First Translation)
+
+## Goal
+Synthesize the findings from Iteration 57 (Grammar/High-Freq) and Iteration 58 (Semantic Clustering) into a cohesive report.
+
+## Input
+- `results/root_dictionary_v2.json`
+- `results/translation_v11.md`
+- `results/noun_clusters.json` (from Task 168)
+- `results/topic_model.json` (from Task 169)
+
+## Process
+1. **Update Dictionary:** Incorporate any clear categories found in clustering into the `root_dictionary`.
+2. **Refine Translation:** Generate `results/translation_v12.md` using the cluster labels (e.g., replace a specific unknown noun with `[Ingredient A]` or `[Star B]`).
+3. **Write Report:**
+   - Section 1: The Grammar (Definitive Rules).
+   - Section 2: The Vocabulary (High-Freq Particles vs. Low-Freq Nouns).
+   - Section 3: The Topics (Semantic Map of the book).
+   - Section 4: Sample Translations (The most readable paragraphs).
+
+## Output
+- `results/root_dictionary_v3.json`: Updated with semantic categories.
+- `results/translation_v12.md`: New translation attempt.
+- `results/grammar_first_report_v2.md`: The main report.
+- `results/track-170-results_summary.md`: Summary.

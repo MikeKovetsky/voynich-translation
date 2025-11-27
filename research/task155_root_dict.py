@@ -1,84 +1,143 @@
+
 import json
-import collections
 import os
+from collections import defaultdict
+
+def load_json(path):
+    with open(path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+def save_json(path, data):
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
 def main():
-    print("Building Root Dictionary...")
-    
-    # Load Old Dictionary (Words)
-    # Assuming we have 'results/unified_dictionary.json' or similar. 
-    # If not, we'll try to map from 'results/semantic_clusters.json' or just build a skeleton.
-    old_dict_path = 'results/unified_dictionary.json'
-    parsed_path = 'results/parsed_text.json'
-    
-    if not os.path.exists(parsed_path):
-        print("Parsed text not found.")
+    # Paths
+    unified_dict_path = 'results/unified_dictionary.json'
+    root_mapping_path = 'results/root_mapping.json'
+    output_path = 'results/root_dictionary_v1.json'
+
+    # Load data
+    if not os.path.exists(unified_dict_path):
+        print(f"Error: {unified_dict_path} not found.")
+        return
+    if not os.path.exists(root_mapping_path):
+        print(f"Error: {root_mapping_path} not found.")
         return
 
-    # Load Parsed Data to get Word -> Root map
-    with open(parsed_path, 'r') as f:
-        parsed_data = json.load(f)
-        
-    word_to_root = {}
-    for entry in parsed_data:
-        word_to_root[entry['original']] = entry['root']
-        
-    # Load Old Dictionary Definitions
-    # Format assumed: {"word": "definition", ...} or [{"voynich": "word", "english": "def"}, ...]
-    # Let's support a simple key-value for now, or check file format if needed.
-    # Since I don't have the exact file structure in memory, I will create a placeholder 
-    # that aligns 'chol', 'daiin', etc. if the file is missing.
-    
-    word_definitions = {}
-    if os.path.exists(old_dict_path):
-        try:
-            with open(old_dict_path, 'r') as f:
-                data = json.load(f)
-                if isinstance(data, dict) and 'entries' in data:
-                    # Format: {"entries": {"word": {"meaning": "def", ...}}}
-                    for word, info in data['entries'].items():
-                        if 'meaning' in info:
-                            word_definitions[word] = info['meaning']
-                elif isinstance(data, list):
-                    for item in data:
-                        if 'voynich' in item and 'english' in item:
-                            word_definitions[item['voynich']] = item['english']
-                elif isinstance(data, dict):
-                    # Fallback for simple key-value
-                    for k, v in data.items():
-                        if isinstance(v, str):
-                            word_definitions[k] = v
-        except Exception as e:
-            print(f"Error reading old dictionary: {e}")
-    
-    # Invert: Root -> [Definitions]
-    root_definitions = collections.defaultdict(list)
-    
-    for word, root in word_to_root.items():
-        if word in word_definitions:
-            defn = word_definitions[word]
-            root_definitions[root].append((word, defn))
-            
-    # Resolve Conflicts
-    final_root_dict = {}
-    
-    for root, defs in root_definitions.items():
-        # defs is list of (word, definition)
-        # Extract unique definitions
-        unique_defs = set([d[1] for d in defs])
-        
-        entry = {
-            "root": root,
-            "meanings": list(unique_defs),
-            "source_words": [d[0] for d in defs]
-        }
-        final_root_dict[root] = entry
-        
-    # Save
-    with open('results/root_dictionary_v1.json', 'w') as f:
-        json.dump(final_root_dict, f, indent=2)
-        
-    print(f"Generated Root Dictionary with {len(final_root_dict)} entries.")
+    unified_dict = load_json(unified_dict_path)
+    root_mapping = load_json(root_mapping_path)
 
-if __name__ == "__main__":
+    # Extract entries from unified dict
+    # Structure: {"entries": {"word": {"meaning": "...", ...}}}
+    entries = unified_dict.get('entries', {})
+    
+    # Identify all known roots from the mapping values
+    known_roots = set(root_mapping.values())
+    
+    # Build Root Dictionary
+    roots_data = defaultdict(lambda: {'meanings': set(), 'source_words': set(), 'entries': []})
+    
+    mapped_count = 0
+    unmapped_count = 0
+    
+    for word, entry in entries.items():
+        # The word key in entries is the voynich word
+        # root_mapping keys might be voynich words too.
+        
+        # Check if word is in root_mapping
+        root = root_mapping.get(word)
+        
+        if not root:
+            # Try cleaning the word (trim whitespace, etc just in case)
+            root = root_mapping.get(word.strip())
+            
+        if not root:
+            # Check if the word itself is a known root (appear as value in mapping)
+            # This helps if the root word itself is in the dictionary but not explicitly mapped to itself in root_mapping
+            if word in known_roots:
+                root = word
+        
+        if not root:
+            # If not found, maybe the word itself is the root?
+            # But we only trust the mapping or known roots.
+            unmapped_count += 1
+            continue
+            
+        mapped_count += 1
+        meaning = entry.get('meaning')
+        
+        if meaning:
+            # Normalize meaning (optional: lowercase)
+            # meaning_norm = meaning.lower()
+            meaning_norm = meaning # Keep original case for now
+            
+            roots_data[root]['meanings'].add(meaning_norm)
+            roots_data[root]['source_words'].add(word)
+            roots_data[root]['entries'].append({
+                'word': word,
+                'meaning': meaning,
+                'source': entry.get('source', 'unknown'),
+                'confidence': entry.get('confidence', 0)
+            })
+
+    # Format output
+    final_roots = {}
+    conflicts = []
+    
+    for root, data in roots_data.items():
+        meanings_list = sorted(list(data['meanings']))
+        source_words_list = sorted(list(data['source_words']))
+        
+        root_entry = {
+            "root": root,
+            "meanings": meanings_list,
+            "source_words": source_words_list,
+            # "details": data['entries'] # Optional: include details if needed, but task didn't explicitly ask for it in the compact format
+        }
+        
+        # Conflict detection
+        # If > 1 meaning, it's a potential conflict
+        if len(meanings_list) > 1:
+            # Check if meanings are similar (simple check)
+            # E.g. "mix" vs "mixture"
+            # We won't do complex NLP here, just flag them.
+            root_entry['conflict_suspected'] = True
+            conflicts.append({
+                'root': root,
+                'meanings': meanings_list,
+                'words': source_words_list
+            })
+        else:
+            root_entry['conflict_suspected'] = False
+            
+        final_roots[root] = root_entry
+
+    # Construct final JSON structure
+    output_data = {
+        "version": "1.0",
+        "description": "Root dictionary generated from unified_dictionary.json and root_mapping.json",
+        "stats": {
+            "total_roots": len(final_roots),
+            "mapped_words": mapped_count,
+            "unmapped_words": unmapped_count,
+            "conflicts_detected": len(conflicts)
+        },
+        "roots": final_roots,
+        "conflicts": conflicts 
+    }
+    
+    save_json(output_path, output_data)
+    
+    print(f"Generated {output_path}")
+    print(f"Total Roots: {len(final_roots)}")
+    print(f"Mapped Words: {mapped_count}")
+    print(f"Unmapped Words: {unmapped_count}")
+    print(f"Conflicts Detected: {len(conflicts)}")
+    if conflicts:
+        print("Top 5 Conflicts:")
+        for c in conflicts[:5]:
+            print(f"  Root: {c['root']}, Meanings: {c['meanings']}")
+
+if __name__ == '__main__':
     main()
