@@ -1,0 +1,27 @@
+# Task 204: Quire 20 Master Translation
+
+## Goal
+Produce a comprehensive, readable translation of the entire Recipe Section (Quire 20, f103r-f116v) to demonstrate the validity of our Dictionary and Grammar.
+
+## Input
+- `results/parsed_text.json` (Quire 20)
+- `results/dictionary/dictionary.json` (v9.3)
+
+## Process
+1.  **Batch Process:** Iterate through every page in Quire 20.
+2.  **Grammar Application:**
+    - `qok-ed-y` -> "Mix!" (Imperative).
+    - `ol-[Noun]` -> "The [Noun]".
+    - `ot-[Noun]` -> "From [Noun]".
+    - `ok-[Noun]` -> "With [Noun]".
+3.  **Semantic Substitution:**
+    - Replace `choly` -> "[Mars Plant]".
+    - Replace `ald` -> "[Thistle]".
+    - Replace `os` -> "[Blue Star]".
+    - Replace `ordaiin` -> "[Golden Extract]".
+4.  **Formatting:**
+    - Break text into "Recipes" based on paragraph breaks or Star/Bullet markers.
+
+## Output
+- `results/quire20_translation_master.md`: The final output.
+- `results/track-204-results_summary.md`: Summary.

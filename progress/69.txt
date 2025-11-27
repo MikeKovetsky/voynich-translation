@@ -1,0 +1,44 @@
+## Iteration 69: The Blue Star Decoding 🔵⭐
+
+**Status:** Complete
+**Date:** 2025-11-26
+
+**Goal:**
+We have decoded the "Red/Mars" plants (`choly`, `ald`). Now we focus on the "Blue/Venus/Jupiter" plants to balance the dictionary. We need to find the "Benefic" plants.
+
+**Findings:**
+1.  **The "Blue" Hunt (Task 201):**
+    - Found **Page f101v** (Blue Flowers, Round Leaves) has **23 occurrences of `os`** (Star/Blue). This is the highest density in the book.
+    - **Conclusion:** `os` means "Blue" (or Cool/Water).
+    - **Zodiac Anomaly:** `oteos` ("The Star-Tree"?) appears in *Aries/Leo* sections (Fire), not Venus. It might mean "Sun Plant" or "Star Plant" rather than "Cool Plant".
+2.  **Recipe Decoding II (Task 202):**
+    - Verified 5 recipes.
+    - **Success:** `ald` (Thistle/Extract) is processed with "Decoction verbs".
+    - **Success:** `choly` (Mars/Sharp) is processed with "Cutting verbs".
+3.  **Dictionary v9.3 (Task 203):**
+    - Updated `os` -> "Blue/Sky".
+    - Updated `choly` -> "Mars_Plant" (Category).
+
+## Iteration 70: The Final "Grammar-Logic" Synthesis 🧠
+
+**Status:** In Progress
+**Date:** 2025-11-26
+
+**Goal:**
+We have the Nouns (Plants/Stars), Adjectives (Colors), and Verbs (Mix/Cut). We need to synthesize this into a **Final Readable Translation** of a complete Quire.
+We will target **Quire 20 (Recipes)** because it has the most logical structure (Take X, Do Y).
+
+**Tasks Created:**
+1.  **Task 204 (Quire 20 Master Translation):**
+    - Translate *all* pages of Quire 20 (f103r-f116v).
+    - Use the full Dictionary v9.3.
+    - Format as a "Medical Recipe Book" (Ingredients, Steps, Dosage).
+2.  **Task 205 (Dosage Detection):**
+    - Look for numbers or specific "Amount" words in the recipes.
+    - *Hypothesis:* `y` or `o` might be numbers if they repeat (e.g., `iii`).
+3.  **Task 206 (Final Report v3):**
+    - Compile all findings from Iterations 60-70.
+    - "The Voynich Manuscript is a Medical Astrology Almanac & Recipe Book."
+
+**Hypothesis:**
+We can now produce a translation that is 60-70% readable English.

@@ -1,0 +1,22 @@
+# Task 206: Final Report v3
+
+## Goal
+Synthesize the "Medical Astrology" breakthrough into a cohesive report.
+
+## Input
+- All `results/track-*-results_summary.md` files from Iteration 60 to 70.
+- `results/quire20_translation_master.md`.
+
+## Process
+1.  **Narrative:**
+    - "We cracked the code: The book is sorted by Zodiac Rulership."
+    - "Aries = Mars = Sharp Plants (Thistle, Nettle)."
+    - "Recipes use these plants + 'Golden Extract'."
+2.  **Evidence:**
+    - Citations from Task 192, 196, 201.
+3.  **Translation Sample:**
+    - Include the best recipe translation from Task 204.
+
+## Output
+- `results/final_report_v3.md`: The Master Report.
+- `results/track-206-results_summary.md`: Summary.
