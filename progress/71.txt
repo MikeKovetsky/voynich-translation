@@ -1,0 +1,31 @@
+## Iteration 77: The Elemental Grammar 💧🔥
+
+**Status:** In Progress
+**Date:** 2025-11-27
+
+**Goal:**
+Iteration 76 proved that `ol` appears on "Blue/Venus" pages (999x ratio) while `o` appears on "Red/Mars" pages. This implies `ol` and `o` are not just "The" or "Leaf"—they are **Elemental Qualifiers** (Wet/Cold vs Dry/Hot). We will rewrite the Grammar based on this Elemental Logic.
+
+**Findings from Iteration 76:**
+1.  **Coverage:** Quire 20 (Recipes) is now **63.5% Readable**.
+2.  **Morphology:** `qokeedy` (Mixture) is the #1 most common "complex" word.
+3.  **Color Logic:**
+    *   **`ol`** = Water / Cold / Venus / Wet.
+    *   **`o`** = Fire / Hot / Mars / Dry (or neutral, but distinct from `ol`).
+
+**Tasks Created:**
+1.  **Task 231 (Elemental Tagging):**
+    -   Scan the entire manuscript.
+    -   Tag every page as "Wet" (high `ol` count) or "Dry" (low `ol`, high `o`).
+    -   Does this map to the Zodiac sections (e.g., Pisces=Wet, Leo=Dry)?
+2.  **Task 232 (Recipe Elemental Analysis):**
+    -   Analyze recipes that use `ol` vs `o`.
+    -   Do `ol` recipes use "cooling" herbs (from our Dictionary)?
+    -   Do `o` recipes use "heating" herbs (peppers, nettles)?
+3.  **Task 233 (Dictionary v10 Prep):**
+    -   Update `ol` -> "The (Wet/Cold)".
+    -   Update `o` -> "The (Dry/Hot)".
+    -   Update `qokeedy` -> "The Mixture".
+
+**Hypothesis:**
+The Voynich Manuscript is a medical book concerned with **Humoral Balance** (Hot/Cold/Wet/Dry). The grammar itself encodes these properties.
