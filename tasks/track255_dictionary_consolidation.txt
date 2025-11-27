@@ -22,3 +22,5 @@ Steps:
      - Add to dictionary as alias -> "See [Root]".
 5. Save to `dictionary/master_dictionary_v14.json`.
 6. Generate `results/dictionary_v14_stats.md` showing the new coverage.
+
+*Note: A helper script has been drafted at `research/consolidate_dictionary.py` which implements these steps. Please review and execute it.*
