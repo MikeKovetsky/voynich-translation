@@ -3,8 +3,8 @@
 **f5r.1**: plant:jason davies voyager ? ? ? ? almond tree-ing one ? -ness/-ly (suffix)
 > `kshody.fchoy.chkoy.oaiin.oar.olsy.chody.dkshy.dy`
 
-**f5r.2**: ? verb form in the spring Fire/Heat ? verb form herb/plant (generic) ? or/and ?
-> `ochey.okey.qokaiin.sho.ckhoy.cthey.chey.oka.or.otol`
+**f5r.2**: ? verb form in the spring Fire/Heat **[PLANT NAME]**-ing verb form herb/plant (generic) ? or/and ?
+> `ochey.okey.qokaiin.sho.ckhoy.cthey.chey.oka?or.otol`
 
 **f5r.3**: ? plant_term verbal/adjectival from the spring / take water ? ? verb form finger root/rhizome -ness/-ly (suffix)
 > `qoaiin.otan.chy.daiin.oteeen.cho.cthy.otchy.qotcho.dy`
@@ -20,4 +20,6 @@
 
 **f5r.7**: ? verb form ? root/rhizome ?
 > `qotoeey.keey.cheo.kchy.shody<$>`
+
+## Folio f5v
 

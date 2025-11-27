@@ -10,12 +10,21 @@ def main():
     
     # 1. Copy Dictionary
     try:
-        if os.path.exists("results/master_dictionary_v8_0.json"):
-            with open("results/master_dictionary_v8_0.json", 'r') as f:
+        # Updated to use v11.1
+        source_dict = "results/dictionary/dictionary_v13.json"
+        if os.path.exists(source_dict):
+            with open(source_dict, 'r') as f:
                 data = json.load(f)
+            
+            # Update both dictionary files in web/src/data
             with open("web/src/data/master_dictionary.json", 'w') as f:
                 json.dump(data, f, indent=2)
-            print("Updated master_dictionary.json")
+            with open("web/src/data/dictionary.json", 'w') as f:
+                json.dump(data, f, indent=2)
+                
+            print(f"Updated master_dictionary.json and dictionary.json from {source_dict}")
+        else:
+            print(f"Warning: Source dictionary {source_dict} not found")
     except Exception as e:
         print(f"Error copying dictionary: {e}")
 
@@ -45,7 +54,7 @@ def main():
             
         # Let's assume we need to re-split v8 first if not done, but Task 144 instruction implies it.
         # I'll trigger the split script just in case to ensure 'translated/' is v8
-        os.system("python3 split_translations.py") # This reads results/voynich_full_translation_v7_4.md in the original script
+        os.system("python3 research/split_translations.py") # This reads results/voynich_full_translation_v7_4.md in the original script
         # We need to update split_translations.py to read v8 FIRST.
         
         # Let's just read the split files directly into JSON
@@ -62,11 +71,29 @@ def main():
                 json.dump(translations, f, indent=2)
             print(f"Updated translations.json with {len(translations)} pages")
             
-            # Update pages list
-            pages = sorted(list(translations.keys()))
-            with open("web/src/data/pages.json", 'w') as f:
-                json.dump(pages, f, indent=2)
-            print("Updated pages.json")
+            # Update pages list based on available images
+            manuscript_dir = "web/public/manuscript"
+            if os.path.exists(manuscript_dir):
+                pages = [f for f in os.listdir(manuscript_dir) if f.startswith('f') and f.endswith('.jpg')]
+                
+                def get_sort_key(filename):
+                    name = filename.replace('.jpg', '')
+                    match = re.match(r'f(\d+)([rv])(\d*)', name)
+                    if match:
+                        num = int(match.group(1))
+                        side = match.group(2)
+                        suffix = match.group(3)
+                        suffix_num = int(suffix) if suffix else 0
+                        return (num, side, suffix_num)
+                    return (float('inf'), name, 0)
+
+                pages.sort(key=get_sort_key)
+                
+                with open("web/src/data/pages.json", 'w') as f:
+                    json.dump(pages, f, indent=2)
+                print(f"Updated pages.json with {len(pages)} pages from images.")
+            else:
+                print(f"Warning: {manuscript_dir} not found, skipping pages.json update")
             
     except Exception as e:
         print(f"Error processing translations: {e}")

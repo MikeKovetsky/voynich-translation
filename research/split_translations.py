@@ -9,7 +9,7 @@ import os
 import re
 from pathlib import Path
 
-INPUT_FILE = "results/voynich_full_translation_v7_4.md"
+INPUT_FILE = "results/voynich_full_translation_v8.md"
 OUTPUT_DIR = "translated"
 
 def main():

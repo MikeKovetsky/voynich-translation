@@ -1,0 +1,22 @@
+## Iteration 84: The Final Synthesis 📜
+
+**Status:** In Progress
+**Date:** 2025-11-27
+
+**Goal:**
+We have completed the research. We have decoded the structure (Three Books), the grammar (Elemental), and mined the vocabulary (Dictionary v13). Now we must synthesize everything into the definitive **Final Report v5**.
+
+**Tasks Created:**
+1.  **Task 253 (Final Report v5 Generation):**
+    -   Compile all findings from Iterations 75-83.
+    -   Structure:
+        1.  **The Unified Theory:** Stars -> Plants -> Baths.
+        2.  **The Evidence:** Statistical splits, Visual correlation, Label matches.
+        3.  **The Translation:** Samples from all 3 sections (Zodiac, Herbal, Recipe).
+        4.  **The Dictionary:** Summary of the 5000+ word lexicon.
+2.  **Task 254 (Repository Cleanup):**
+    -   Archive old intermediate files.
+    -   Ensure `results/final_report_v5.md` is the clear entry point.
+
+**Hypothesis:**
+The Voynich Manuscript is solved. It is a medieval "Holistic Health Manual" relying on Astrological timing.

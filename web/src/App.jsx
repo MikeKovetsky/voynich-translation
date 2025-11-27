@@ -1,79 +1,15 @@
-import { useState, useEffect, useMemo } from 'react'
-import { ChevronLeft, ChevronRight, BookOpen, Activity, Library } from 'lucide-react'
-import ReactMarkdown from 'react-markdown'
-import remarkGfm from 'remark-gfm'
-import pages from './data/pages.json'
-import coordinates from './data/coordinates.json'
+import { Routes, Route, Navigate, Link, useLocation } from 'react-router-dom'
+import { BookOpen, Activity, Library } from 'lucide-react'
 import Stats from './Stats'
 import Dictionary from './Dictionary'
+import Viewer from './Viewer'
 
 function App() {
-  const [view, setView] = useState('viewer') // 'viewer', 'stats', 'dictionary'
-  const [currentPageIndex, setCurrentPageIndex] = useState(0)
-  const [showTranslation, setShowTranslation] = useState(true)
-  const [markdownContent, setMarkdownContent] = useState('')
-  const [loading, setLoading] = useState(false)
+  const location = useLocation()
   
-  // Ensure index is valid
-  const safePageIndex = Math.min(Math.max(0, currentPageIndex), pages.length - 1)
-  const currentPage = pages[safePageIndex]
-  const pageName = currentPage ? currentPage.replace('.jpg', '') : ''
-
-  useEffect(() => {
-    if (!pageName) return;
-
-    const fetchTranslation = async () => {
-      setLoading(true)
-      try {
-        const response = await fetch(`/translated/${pageName}.md`)
-        const contentType = response.headers.get('content-type')
-        
-        if (response.ok && contentType && !contentType.includes('text/html')) {
-          const text = await response.text()
-          setMarkdownContent(text)
-        } else {
-          setMarkdownContent('*No translation available for this page.*')
-        }
-      } catch (error) {
-        console.error('Error loading translation:', error)
-        setMarkdownContent('*Error loading translation.*')
-      } finally {
-        setLoading(false)
-      }
-    }
-
-    fetchTranslation()
-  }, [pageName])
-
-  // Parse markdown to extract line translations
-  const lineTranslations = useMemo(() => {
-    const lines = {}
-    const regex = /\*\*([a-z0-9]+\.\d+)\*\*:(.*?)(?=\*\*|$)/gs
-    let match
-    while ((match = regex.exec(markdownContent)) !== null) {
-      const id = match[1]
-      const text = match[2].trim().split('\n')[0] // Take first line of translation
-      lines[id] = text
-    }
-    return lines
-  }, [markdownContent])
-
-  const currentCoordinates = coordinates[currentPage] || {}
-  const hasCoordinates = Object.keys(currentCoordinates).length > 0
-
-  const handlePrev = () => {
-    setCurrentPageIndex(prev => Math.max(0, prev - 1))
-  }
-
-  const handleNext = () => {
-    setCurrentPageIndex(prev => Math.min(pages.length - 1, prev + 1))
-  }
-  
-  const handlePageSelect = (e) => {
-    setCurrentPageIndex(Number(e.target.value))
-  }
-
-  if (!currentPage) return <div className="h-screen flex items-center justify-center bg-slate-950 text-amber-500">Loading pages...</div>
+  const isViewer = location.pathname.startsWith('/viewer') || location.pathname === '/'
+  const isStats = location.pathname === '/stats'
+  const isDictionary = location.pathname === '/dictionary'
 
   return (
     <div className="h-screen flex flex-col overflow-hidden bg-slate-950">
@@ -86,147 +22,45 @@ function App() {
           </div>
 
           <div className="flex bg-slate-700 rounded-lg p-1 border border-slate-600">
-            <button
-              onClick={() => setView('viewer')}
+            <Link
+              to="/viewer/f1r"
               className={`px-3 py-1 rounded-md text-sm transition-colors flex items-center gap-2 ${
-                view === 'viewer' ? 'bg-slate-600 text-white shadow' : 'text-slate-400 hover:text-slate-200'
+                isViewer ? 'bg-slate-600 text-white shadow' : 'text-slate-400 hover:text-slate-200'
               }`}
             >
               <BookOpen size={16} />
               Viewer
-            </button>
-            <button
-              onClick={() => setView('stats')}
+            </Link>
+            <Link
+              to="/stats"
               className={`px-3 py-1 rounded-md text-sm transition-colors flex items-center gap-2 ${
-                view === 'stats' ? 'bg-slate-600 text-white shadow' : 'text-slate-400 hover:text-slate-200'
+                isStats ? 'bg-slate-600 text-white shadow' : 'text-slate-400 hover:text-slate-200'
               }`}
             >
               <Activity size={16} />
               Stats
-            </button>
-            <button
-              onClick={() => setView('dictionary')}
+            </Link>
+            <Link
+              to="/dictionary"
               className={`px-3 py-1 rounded-md text-sm transition-colors flex items-center gap-2 ${
-                view === 'dictionary' ? 'bg-slate-600 text-white shadow' : 'text-slate-400 hover:text-slate-200'
+                isDictionary ? 'bg-slate-600 text-white shadow' : 'text-slate-400 hover:text-slate-200'
               }`}
             >
               <Library size={16} />
               Dictionary
-            </button>
+            </Link>
           </div>
         </div>
-        
-        {view === 'viewer' && (
-          <div className="flex items-center gap-4">
-            <button 
-              onClick={handlePrev}
-              disabled={safePageIndex === 0}
-              className="p-2 rounded hover:bg-slate-700 disabled:opacity-50 transition-colors"
-            >
-              <ChevronLeft />
-            </button>
-            
-            <select 
-              value={safePageIndex}
-              onChange={handlePageSelect}
-              className="bg-slate-700 text-slate-100 border border-slate-600 rounded px-2 py-1 max-w-[150px]"
-            >
-              {pages.map((page, idx) => (
-                <option key={page} value={idx}>
-                  {page.replace('.jpg', '')}
-                </option>
-              ))}
-            </select>
-            
-            <button 
-              onClick={handleNext}
-              disabled={safePageIndex === pages.length - 1}
-              className="p-2 rounded hover:bg-slate-700 disabled:opacity-50 transition-colors"
-            >
-              <ChevronRight />
-            </button>
-          </div>
-        )}
-
-        {view === 'viewer' && (
-          <div className="flex items-center gap-2">
-            <input 
-              type="checkbox" 
-              id="showTranslation"
-              checked={showTranslation}
-              onChange={(e) => setShowTranslation(e.target.checked)}
-              className="w-4 h-4 accent-amber-500 cursor-pointer"
-            />
-            <label htmlFor="showTranslation" className="cursor-pointer select-none text-slate-200">
-              Show Translation
-            </label>
-          </div>
-        )}
       </header>
 
       {/* Main Layout Area */}
-      {view === 'stats' ? (
-        <Stats />
-      ) : view === 'dictionary' ? (
-        <Dictionary />
-      ) : (
-        <div className="flex-1 flex overflow-hidden relative justify-center bg-slate-950">
-          <div className="relative shadow-2xl inline-block h-full flex justify-center items-start overflow-auto p-8">
-            <div className="relative">
-              <img 
-                src={`/manuscript/${currentPage}`} 
-                alt={currentPage}
-                className="max-w-full h-auto shadow-2xl"
-                style={{ maxHeight: 'calc(100vh - 120px)' }}
-              />
-              
-              {/* Overlay Mode: Coordinates exist */}
-              {showTranslation && hasCoordinates && (
-                <div className="absolute inset-0 pointer-events-none">
-                  {Object.entries(currentCoordinates).map(([id, coords]) => {
-                    const text = lineTranslations[id]
-                    if (!text) return null
-                    return (
-                      <div 
-                        key={id}
-                        className="absolute text-amber-100 p-2 rounded text-sm hover:bg-slate-900/95 transition-all border border-amber-500/30 backdrop-blur-sm shadow-lg pointer-events-auto cursor-help"
-                        style={{ 
-                          top: coords.top, 
-                          left: coords.left,
-                          maxWidth: coords.width || '200px'
-                        }}
-                      >
-                        <span className="font-bold text-amber-500 mr-2">{id}:</span>
-                        <span className="font-serif">{text}</span>
-                      </div>
-                    )
-                  })}
-                </div>
-              )}
-
-              {/* Overlay Mode: No Coordinates (Fallback Layer) */}
-              {showTranslation && !hasCoordinates && (
-                <div className="absolute inset-0 bg-slate-900/70 p-8 overflow-auto backdrop-blur-[2px] transition-all">
-                   <div className="max-w-2xl mx-auto bg-slate-900/90 p-6 rounded-lg shadow-2xl border border-amber-500/30 text-slate-100">
-                     <h2 className="text-xl font-bold text-amber-500 mb-4 border-b border-slate-700 pb-2 sticky top-0 bg-slate-900/95 pt-2">
-                       Translated Page: {pageName}
-                     </h2>
-                     {loading ? (
-                       <div className="flex justify-center p-4 text-slate-400">Loading translation...</div>
-                     ) : (
-                       <div className="prose prose-invert prose-amber max-w-none">
-                         <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                           {markdownContent}
-                         </ReactMarkdown>
-                       </div>
-                     )}
-                   </div>
-                </div>
-              )}
-            </div>
-          </div>
-        </div>
-      )}
+      <Routes>
+        <Route path="/" element={<Navigate to="/viewer/f1r" replace />} />
+        <Route path="/viewer" element={<Navigate to="/viewer/f1r" replace />} />
+        <Route path="/viewer/:pageId" element={<Viewer />} />
+        <Route path="/stats" element={<Stats />} />
+        <Route path="/dictionary" element={<Dictionary />} />
+      </Routes>
     </div>
   )
 }
