@@ -1,0 +1,23 @@
+Task: Dictionary Update v15 (Semantic Injection)
+Goal: Inject the new "Visual/Etymological" meanings into the dictionary to see if they unlock more text.
+Inputs:
+- results/dictionary/master_dictionary_v14.json
+- results/visual_grounding_candidates.json
+- results/etymology_candidates.csv
+
+Steps:
+1. **Load Dictionary v14.**
+2. **Update Entries:**
+   - `shkair` -> "Chicory (Cichorium)" [Conf: 0.7]
+   - `keero` / `keer` -> "Coriander" [Conf: 0.7]
+   - `cphor` -> "Hellebore" [Conf: 0.6]
+   - `som` -> "Seed (Semen)" [Conf: 0.6]
+   - `seal` / `sal` -> "Salt (Sale)" [Conf: 0.6]
+   - `air` -> "Suffix: -orium/noun?" [Conf: 0.5]
+3. **Propagate:**
+   - If `shkair` is Chicory, then `shkair-y` is "Use Chicory". Update derived forms.
+4. **Save:**
+   - `results/dictionary/dictionary_v15_draft.json`.
+5. **Test Run:**
+   - Translate f33v (Chicory Page) using v15.
+   - Output: `results/f33v_translation_v15.md`.

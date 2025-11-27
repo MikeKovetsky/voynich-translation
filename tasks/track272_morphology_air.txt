@@ -1,0 +1,18 @@
+Task: Morphology Decoder v2 (The -air Suffix)
+Goal: Test the hypothesis that `-air` equates to the Latin suffix `-orium` (or similar).
+Inputs:
+- data/transcription.txt
+- results/dictionary/master_dictionary_v14.json
+
+Steps:
+1. **Extract `-air` Words:**
+   - Find all words ending in `air` or `aiir`.
+   - Exclude `air` itself (if it's a root).
+2. **Analyze Roots:**
+   - If `shk-air` = *Cich-orium*, what is `ok-air`? `cth-air`?
+   - Look for Latin words ending in `-orium`, `-arium`, `-arius` that match the Voynich roots.
+   - e.g., `san-air` = *Sanct-uarium*?
+3. **Distribution:**
+   - Do `-air` words function as Nouns? (Preceded by `ol`?)
+4. **Output:**
+   - `results/suffix_air_analysis.md`: List of `-air` words and potential Latin matches.

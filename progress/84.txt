@@ -1,0 +1,39 @@
+## Iteration 90: The Semantic Breakthrough 🗝️🌿
+
+**Status:** In Progress
+**Date:** 2025-11-27
+
+**Findings from Iteration 89:**
+The "Deep Decode" strategy has yielded the first tangible semantic matches:
+1.  **Visual Alignment (Task 267):**
+    -   **f33v (Chicory):** Text contains `shkair`. Phonetic match for *Cichorium* / *Cicoria*. This is huge. `shk` = `cich`, `air` = `orium`.
+    -   **f41v (Coriander):** Text starts with `keero!dal`. `keero` ~ *Coriandro*. `dal` ~ *d'al* (of the?).
+    -   **f3v (Hellebore):** Text starts with `cphor`. `cph` = `f/h`? -> *Ebor* (*(H)elleborus*).
+2.  **Etymology (Task 268):**
+    -   `som` = *seme* (Seed)?
+    -   `seal` = *sal* (Salt) or *sol* (Sun)?
+    -   `okora` / `oker` = *cuore* (Heart) or *cura* (Cure).
+3.  **The Gap (Task 269):**
+    -   We still have 300+ "Unknowns" like `qokeedy` (Process?) and `okaiin`.
+    -   `qokeedy` is likely a verb form of `ok` (prefix) + `edy`.
+
+**Strategy:**
+We will now **verify** these candidates. If `shkair` is Chicory, does it appear in "Liver" recipes (Chicory is for the liver)? If `keero` is Coriander, does it appear in "Stomach" recipes?
+
+**Tasks Created:**
+1.  **Task 270 (Candidate Verification):**
+    -   Take the top 5 candidates (`shkair`, `keero`, `cphor`, `som`, `okora`).
+    -   Search for them in Quire 20 (Recipes).
+    -   Check the context: Do the recipes match the medieval usage of these plants?
+    -   *Output:* `results/candidate_verification_report.md`.
+2.  **Task 271 (Dictionary Update v15):**
+    -   Update the Master Dictionary with these specific meanings.
+    -   Set confidence to 0.7 (Provisional).
+    -   Re-run the translation on specific "Golden Pages" (f33v, f41v).
+3.  **Task 272 (Morphology Decoder v2):**
+    -   If `shk-air` = *Cich-orium*, then `-air` might be a suffix for "-orium" (Latin neuter nouns).
+    -   Test this hypothesis: Does `-air` appear on other noun-like words?
+    -   *Output:* `results/suffix_air_analysis.md`.
+
+**Hypothesis:**
+The Voynich script is a **phonetic cipher of vernacular Medieval Italian/Latin**, heavily abbreviated. `sh` = `c/ch` (soft), `k` = `c/ch` (hard).
