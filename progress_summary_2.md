@@ -1,16 +1,15 @@
 
-## Iteration 54: The Morphology Engine ⚙️
+## Iteration 55: Syntax & Sentence Decoding 🧩📜
 
 **Status:** Planned
 **Date:** 2025-11-26
 
-**Goal:** Move from "Word-for-Word" translation to "Morpheme-based" analysis.
+**Goal:** Use the Morphological Engine to segment the text and decode its grammar.
 
 **Tasks:**
-1.  **Task 153 (Morph Parser):** Strip prefixes/suffixes (`qo-`, `y-`, `-dy`) to find roots.
-2.  **Task 154 (Prefix Logic):** Analyze what these prefixes *do* (Grammar).
-3.  **Task 155 (Root Dict):** Map meanings to the stripped roots (Resolving `qokeedy` vs `okeedy`).
-4.  **Task 156 (Compound Splitter):** Break down long "word soup" strings into atomic roots (`aiinchol` -> `aiin` + `chol`).
+1.  **Task 157 (Segmentation):** Break "long words" into space-separated morphemes (`aiinchol` -> `aiin chol`).
+2.  **Task 158 (Grammar Tagging):** Assign POS tags based on prefixes (`qo-`=VERB, `y-`=AND).
+3.  **Task 159 (Syntax Translation):** Attempt translation using `[Grammar] + [Root Meaning]` structure.
 
 **Hypothesis:**
-Once we strip the grammatical affixes and split the compounds, the underlying text will reveal a simpler, more repetitive structure that aligns with natural language entropy.
+The manuscript is not a list of keywords. It is a sequence of grammatically structured sentences, but the "spaces" were omitted or inconsistent. By restoring the segmentation and identifying the grammar markers, we will reveal readable instructions.

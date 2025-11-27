@@ -1,0 +1,27 @@
+Task: Full Text Segmentation (The "Spaces" Fix)
+
+We discovered that many long Voynich "words" are actually compound sentences (e.g., `aiinchol` -> `aiin` + `chol`).
+This task will apply the splitting logic to the entire manuscript to produce a "Segmented" version of the text.
+
+Input:
+- data/eva_ivtff.txt
+- results/root_dictionary_v1.json (or valid roots list from Task 156)
+
+Subtasks:
+1. **Refine Splitter:**
+   - Use the `parsed_text_v2.json` logic (Greedy matching against Valid Roots).
+   - Apply it to every line of the raw text.
+   - Replace long strings with space-separated roots.
+   - Example: `qokaiinchol` -> `qok-aiin chol` (Keep prefixes attached to their roots!).
+
+2. **Generate Segmented Text:**
+   - Output `results/segmented_text.txt`.
+   - Format: One line per original line, but with extra spaces inserted.
+
+3. **Stats:**
+   - How many new "words" did we create?
+   - What is the new average word length? (Should be lower).
+
+Output:
+- `results/segmented_text.txt`
+- `results/segmentation_stats.md`

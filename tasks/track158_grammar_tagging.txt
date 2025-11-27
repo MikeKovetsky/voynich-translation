@@ -1,0 +1,30 @@
+Task: Grammatical Tagging (POS Tagger)
+
+Now that we have segmented text (Task 157) and prefix logic (Task 154), we can assign Part-of-Speech (POS) tags.
+
+Input:
+- results/segmented_text.txt
+
+Subtasks:
+1. **Define Tag Rules:**
+   - `qo-` prefix -> **VERB** (Process/Action)
+   - `d-` / `daiin` prefix -> **IMP** (Imperative "Take")
+   - `y-` prefix -> **CONJ** ("And")
+   - `o-` prefix -> **NOUN** (Object/The X)
+   - `l-` prefix -> **PREP** ("To/For"?) [Hypothesis to test]
+   - No prefix -> **ROOT** (Generic)
+
+2. **Apply Tagging:**
+   - Write a script to read `segmented_text.txt`.
+   - For each word, check the prefix.
+   - Output a "Tagged" version: `VERB:qokeedy NOUN:chol CONJ:y- IMP:daiin`.
+
+3. **Analysis:**
+   - Count tag sequences (Bigrams/Trigrams).
+   - What is the most common sentence structure?
+   - Does `IMP` usually come first? (e.g., "Take...")
+   - Does `CONJ` usually appear between `NOUN`s?
+
+Output:
+- `results/tagged_text.txt`
+- `results/grammar_patterns.md` (Top patterns like V-N-C-N)
