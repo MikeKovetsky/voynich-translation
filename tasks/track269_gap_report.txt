@@ -1,0 +1,19 @@
+Task: The Gap Report (The Hit List)
+Goal: Quantify the "Low Coverage" and define the targets for the next phase.
+Inputs:
+- results/quire20_translation_final.md
+- data/transcription.txt
+
+Steps:
+1. **Coverage Analysis:**
+   - Calculate the % of tokens in Quire 20 that are still generic placeholders (`[PLANT NAME]`, `[UNKNOWN]`, `plant_candidate`).
+   - Calculate the % of tokens that are fully translated.
+2. **The Hit List:**
+   - Identify the Top 500 most frequent *Unknown/Generic* words.
+   - Sort by frequency.
+3. **Context Extraction:**
+   - For the Top 20 unknowns, provide 3 example sentences.
+   - e.g., "Word `X` appears in 'Take X', 'Mix X', 'X the water'".
+4. **Output:**
+   - `results/coverage_gap_report.md`: The statistical reality check.
+   - `results/top_500_unknowns.csv`: The backlog for the next agents.

@@ -1,0 +1,19 @@
+Task: Visual-Text Alignment (The "Rosetta" Hunt)
+Goal: Identify plants visually using external Medieval Herbals, then find their names in the text.
+Inputs:
+- images/ (The specific pages)
+- results/quire20_translation_final.md (To check ingredient usage)
+
+Steps:
+1. **Select Target Pages:** Choose 5-10 pages with very distinctive plants (e.g., f33v, f100r).
+2. **External Identification:**
+   - Search web/databases for "Voynich f[X] plant identification".
+   - Look for consensus (e.g., "f39v is Cirsium (Thistle)").
+3. **Internal Search:**
+   - Get the Latin, German, and Italian names for that plant (e.g., *Carduus*, *Distel*).
+   - Scan the Voynich text on that page.
+   - Do any words resemble these names? (e.g., `kard`, `dist`?)
+   - Do they resemble specific *properties*? (e.g., "Prickly", "Sharp").
+4. **Output:**
+   - `results/visual_grounding_candidates.json`: Matches between Page -> Visual ID -> Text Candidate.
+   - *Hypothesis:* `choly` might not just be "Nettle-type"; it might be the actual word for Nettle in a specific dialect.
