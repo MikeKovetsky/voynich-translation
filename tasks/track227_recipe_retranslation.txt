@@ -1,0 +1,22 @@
+Track 227: Recipe Re-Translation (Post-Morphology)
+
+Goal: Test the impact of the new "Morphological Dictionary" on the Recipe Section (Quire 20).
+
+Input:
+- `results/dictionary/dictionary.json` (Updated v9.1)
+- `data/eva_ivtff.txt` (Corpus)
+
+Focus:
+- Quire 20 (Folios f103r - f116v).
+- Specifically target sentences containing the newly added words: `qokeedy`, `qokedy`, `qokal`, `qol`.
+
+Steps:
+1. Extract the text for Quire 20.
+2. Translate it using the new Dictionary v9.1.
+3. Compare the output to the previous translation (`results/recipe_translation.json` or similar).
+4. Highlight sentences where `UNKNOWN` became `[Meaning]`.
+   - Example: `daiin qokeedy` -> "Take [Mixture]" (Previously "Take [UNKNOWN]").
+5. Output the full translation to `results/recipe_retranslation_v3.md`.
+6. Generate a summary `results/track-227-results_summary.md` with:
+   - % Readability improvement in Quire 20.
+   - 5 Key "Before vs After" sentence examples.
