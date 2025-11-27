@@ -1,0 +1,25 @@
+Task: Bio Labels Interpretation (Track 293)
+Goal: Interpret the explicit labels found in the Bio Section to confirm the "Balneology" hypothesis.
+Inputs:
+- results/track-290-results_summary.md
+- results/dictionary/master_dictionary_v16.json
+
+Steps:
+1. **Analyze Specific Labels:**
+   - `sal.okeedy` (f75r): "Salt" + "Plant/Mixture"? -> "Salt Mixture"?
+   - `sols.daro` (f75r): `sol` (Sun/Gold/Coin) + `daro` (Adar/Month?).
+   - `otedy` (Multiple pages): "Red/Brown Root"?
+   - `oteey` (Multiple pages): "Green Leaf"?
+   - `okalshedy`: "The [something] mixture"?
+   - `ol chey`: "The [Sick Person]"?
+
+2. **Synthesize Narrative:**
+   - Do these labels describe *ingredients* (Salt, Roots, Leaves) or *patients* (Sick Person) or *timing* (Months)?
+   - **Hypothesis:** The Bio section is a "Medical Spa" manual showing:
+     - Ingredients (`sal`, `otedy`)
+     - Patients (`olchey`?)
+     - Processes (`qokedy`)
+
+3. **Outputs:**
+   - `results/bio_labels_interpretation.md`: Detailed breakdown of the labels.
+   - `results/track-293-results_summary.md`: Final verdict on the "Medical Spa" hypothesis.
