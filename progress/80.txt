@@ -1,0 +1,31 @@
+## Iteration 86: The Scientific Safeguard 🛡️🔬
+
+**Status:** In Progress
+**Date:** 2025-11-27
+
+**Goal:**
+We are ready to translate, but my recent audit highlighted significant risks:
+1.  **The Syntax Gap:** We know the nouns (`aiin`) and verbs (`okeol`), but we are guessing the "glue" words (conjunctions, particles).
+2.  **The Merger Risk:** Aggressively merging rare words might destroy grammatical nuance (e.g., merging "eats" into "eat" loses the subject info).
+3.  **Falsifiability:** We need to prove our "Recipe Grammar" doesn't just turn *everything* into a recipe.
+
+**Strategy:**
+Before unleashing the full translation of Quire 20, we will run three parallel "Safeguard Tasks" to harden our rules.
+
+**Tasks Created:**
+1.  **Task 258 (Syntax Mapper):**
+    -   Focus: "Function Words" (frequency > 100, length < 4).
+    -   Method: Analyze position (Sentence Start, Post-Verb, Between-Nouns).
+    -   Output: `results/syntax_map_v1.json` (Defining `y`, `o`, `qol`, `s`, `d`).
+2.  **Task 259 (Merge Context Audit):**
+    -   Focus: The Fuzzy Merger candidates.
+    -   Method: Check *distributional similarity*. If Word A appears only in Recipes and Word B (its match) appears only in Astro, **DO NOT MERGE**.
+    -   Output: `results/safe_merges.json`.
+3.  **Task 260 (The Control Test):**
+    -   Focus: Falsification.
+    -   Method: Apply the "Recipe Grammar" (Imperatives, Ingredients) to the **Bio Section**.
+    -   Expectation: It should *fail* or look weird. If the Bio section reads like "Boil the Nymph," our grammar is over-fitting.
+    -   Output: `results/control_test_bio.md`.
+
+**Hypothesis:**
+A rigid Syntax Map combined with a "Context-Aware" Merger will increase our translation confidence from "Guesswork" to "Scientific Certainty."

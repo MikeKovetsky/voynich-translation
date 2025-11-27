@@ -1,0 +1,22 @@
+Task: Syntax Mapper (Function Words)
+Goal: Define the grammatical roles of high-frequency "glue" words.
+Inputs:
+- data/transcription.txt
+- results/dictionary/master_dictionary_v14.json (or v13)
+
+Steps:
+1. Identify the "Function Words":
+   - Criteria: Frequency > 50, Length <= 3 chars (e.g., `y`, `o`, `s`, `d`, `qol`, `or`, `daiin`).
+2. Analyze their **Positional Probability**:
+   - P(Start of Sentence)
+   - P(End of Sentence)
+   - P(Precedes Noun)
+   - P(Follows Verb)
+3. Classify them:
+   - **Conjunction:** Appears between two clauses (high P(Start) or P(Mid)).
+   - **Preposition:** Precedes Nouns (high P(Precedes Noun)).
+   - **Particle/Suffix:** Appears at end of words (if analyzing tokens) or lines.
+   - **Pronoun:** Precedes Verbs.
+4. Output `results/syntax_map_v1.json`:
+   - Format: `{"word": "y", "role": "Conjunction (And)", "confidence": 0.8, "evidence": "..."}`
+5. Generate `track-258-results_summary.md`.

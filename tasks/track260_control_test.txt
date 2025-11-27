@@ -1,0 +1,19 @@
+Task: The Control Test (Bio Grammar Check)
+Goal: Falsify the "Recipe Grammar" by applying it to a non-recipe text.
+Inputs:
+- results/dictionary/master_dictionary_v14.json (or current best)
+- data/transcription.txt (Filter for Bio Section: f75-f84)
+
+Steps:
+1. Isolate the **Bio Section** text.
+2. Apply the "Recipe Translation Rules" strictly:
+   - Treat `-y` as "Imperative Command".
+   - Treat `ol` as "Ingredient Marker".
+   - Treat `ed` as "Mix/Process".
+3. Generate a translation `results/bio_control_test.md`.
+4. Analyze the output:
+   - Does it make sense? (e.g., "Mix the woman", "Boil the water").
+   - If it reads like a Recipe, we have a problem (Grammar is too generic).
+   - If it reads like nonsense or broken imperatives, that is **GOOD**. It means our grammar is specific to Recipes.
+   - Look for *alternative* grammar markers in Bio (e.g., `-dy` vs `-y`).
+5. Generate `track-260-results_summary.md`.
