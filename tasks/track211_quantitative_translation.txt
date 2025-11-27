@@ -1,0 +1,21 @@
+# Task 211: Quantitative Translation
+
+## Goal
+Test the validity of the new "Measurement Dictionary" by translating 20 recipes to see if they produce logical instructions (e.g., "Take 2 Cups").
+
+## Input
+- `results/parsed_text.json` (Quire 20)
+- `results/dictionary/dictionary_v9_4.json`
+
+## Process
+1.  **Select Recipes:** Pick 20 paragraphs from f103r-f116v that contain `saiin`, `ar`, or `ii`.
+2.  **Translate:**
+    - Apply the full dictionary.
+    - Look for structure: `[Verb] [Amount] [Unit] [Ol] [Ingredient]`.
+3.  **Evaluation:**
+    - Does it read like: "Take 2 Handfuls of [Plant]"?
+    - Or does it fail?
+
+## Output
+- `results/quantitative_recipes.md`: 20 Translated recipes.
+- `results/track-211-results_summary.md`: Summary.

@@ -1,0 +1,36 @@
+{
+  "star_analysis": {
+    "f68r": {
+      "count": 62,
+      "roman_like": [],
+      "first_5": [
+        "chocphy",
+        "cphocthy",
+        "dolchedy",
+        "ockhy",
+        "ocphy"
+      ]
+    }
+  },
+  "zodiac_analysis": {
+    "f70v": 53,
+    "f71r": 15,
+    "f71v": 19,
+    "f72r": 94,
+    "f72v": 92,
+    "f73r": 27,
+    "f73v": 28
+  },
+  "glyph_stats": {
+    "glyph_counts": {
+      "i": 0,
+      "ii": 0,
+      "iii": 0,
+      "iiii": 0,
+      "iv": 0,
+      "v": 2,
+      "vi": 0
+    },
+    "drs_sequence_count": 0
+  }
+}

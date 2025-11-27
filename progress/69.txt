@@ -1,43 +1,44 @@
-## Iteration 70: The Final "Grammar-Logic" Synthesis 🧠
+## Iteration 71: The Number & Unit Solver 🔢
 
 **Status:** Complete
 **Date:** 2025-11-26
 
 **Goal:**
-We have the Nouns (Plants/Stars), Adjectives (Colors), and Verbs (Mix/Cut). We need to synthesize this into a **Final Readable Translation** of a complete Quire.
+Identify the Number System and Measurement Units to interpret recipes.
 
 **Findings:**
-1.  **Quire 20 Master Translation (Task 204):**
-    - Translated 24 pages of recipes (1103 recipes).
-    - Consistent grammar: `qok-ed-y` = "Mix!"
-    - "Golden Extract" (`ordaiin`) and "Thistle" (`ald`) appear frequently as base ingredients.
-2.  **Dosage Detection (Task 205):**
-    - `ii` appears 62 times as a standalone word, likely **"2"**.
-    - `saiin` appears before `ol` ("Amount of..."), likely a unit (e.g., "Cup" or "One").
-    - `qok` is the primary "Take" instruction.
-3.  **Final Report v3 (Task 206):**
-    - Synthesized the "Medical Astrology" discovery.
-    - The manuscript is an Almanac linking **Astro (Theory)** -> **Herbal (Illustration)** -> **Recipes (Practice)**.
+1.  **Number System (Task 207):**
+    - **Star Rings:** Page f68r has 62 labels, but no simple 1-2-3 sequence.
+    - **Zodiac Degrees:** Pages f72r, f72v have ~90 labels (30 per sign). This confirms a **30-degree Zodiac system**.
+    - **Glyphs:** No standard `i, ii, iii` sequence found in labels. `ii` (2) remains the only strong candidate from the recipes.
+2.  **Unit Identification (Task 208):**
+    - **`saiin`** = **Cup** (Cyathus). Pattern: `saiin ol aiin` ("Cup of Water").
+    - **`daiin`** = **Cup/Take** (Variant). Pattern: `daiin ol aiin`.
+    - **`ar`** = **Handful** (Manipulus). Pattern: `ar che` ("Handful of Herbs").
+3.  **Star Catalog (Task 209):**
+    - 980 labels extracted. 75% unique.
+    - Common prefixes: `ot-` (From?), `ok-` (With?), `ch-` (Plant?).
+    - **Conclusion:** Star labels are **not numbers**. They are Names or Descriptions (e.g., "The Red Star", "The Plant Star").
 
-## Iteration 71: The Number & Unit Solver 🔢
+## Iteration 72: The Measurement Dictionary 📏
 
 **Status:** In Progress
 **Date:** 2025-11-26
 
 **Goal:**
-We have a candidate for "2" (`ii`). We need to find 1, 3, 4, 5.
-We also need to identify the "Units" of measurement (Cup, Ounce, Drop).
+Formalize the measurement units into the dictionary and apply them to get exact quantities in the recipes.
 
 **Tasks Created:**
-1.  **Task 207 (Number Pattern Search):**
-    - If `ii` = 2, look for `i`, `iii`, `iv`, `v` or their word equivalents.
-    - Look for sequences in the Zodiac section (e.g., Star labels numbered 1-30).
-2.  **Task 208 (Unit Identification):**
-    - Analyze `saiin` and `daiin`. Do they appear in "Recipe Slots"?
-    - *Hypothesis:* `saiin` = "Dram" / "Cup". `daiin` = "Water" (as a base).
-3.  **Task 209 (Star Catalog):**
-    - In the Astro section, do the stars have unique labels?
-    - Extract all star labels and check if they follow a numeric pattern.
+1.  **Task 210 (Dictionary Update v9.4):**
+    - Add `saiin` (Cup), `ar` (Handful), `ii` (Two).
+    - Add `daiin` (Take/Cup).
+    - Update `qok` to "Take/Mix" (Recipe Verb).
+2.  **Task 211 (Quantitative Translation):**
+    - Re-translate 20 recipes from Quire 20.
+    - Focus on the "Ingredients List" section of each recipe.
+    - Do we see "2 Handfuls of Thistle"?
+3.  **Task 212 (Visual Confirmation):**
+    - Check f103r-f116v for any drawings of cups, spoons, or hands that might align with `saiin` or `ar`.
 
 **Hypothesis:**
-The manuscript uses a mix of Roman-like numerals (`ii`) and word-numbers.
+The recipes are imprecise ("Take a cup"), typical of medieval folk medicine, rather than precise chemistry.
