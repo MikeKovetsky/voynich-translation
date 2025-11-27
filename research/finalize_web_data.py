@@ -10,8 +10,8 @@ def main():
     
     # 1. Copy Dictionary
     try:
-        # Updated to use v11.1
-        source_dict = "results/dictionary/dictionary_v13.json"
+        # Updated to use v17
+        source_dict = "results/dictionary/master_dictionary_v17.json"
         if os.path.exists(source_dict):
             with open(source_dict, 'r') as f:
                 data = json.load(f)
@@ -74,18 +74,42 @@ def main():
             # Update pages list based on available images
             manuscript_dir = "web/public/manuscript"
             if os.path.exists(manuscript_dir):
-                pages = [f for f in os.listdir(manuscript_dir) if f.startswith('f') and f.endswith('.jpg')]
+                pages = []
+                
+                # Add main manuscript pages
+                for f in os.listdir(manuscript_dir):
+                    if f.startswith('f') and f.endswith('.jpg'):
+                        pages.append(f)
+                
+                # Add extra pages (covers, etc.)
+                extra_dir = os.path.join(manuscript_dir, "extra")
+                if os.path.exists(extra_dir):
+                    for f in os.listdir(extra_dir):
+                        if f.endswith('.jpg'):
+                            pages.append(f)
                 
                 def get_sort_key(filename):
                     name = filename.replace('.jpg', '')
+                    
+                    # Sort extra files first
+                    if name.startswith('extra'):
+                        # Extract number from extra_000...
+                        match = re.search(r'extra_(\d+)', name)
+                        num = int(match.group(1)) if match else 0
+                        # (section=0, num=num, side='', suffix=0)
+                        return (0, num, '', 0)
+                    
+                    # Sort folio files second
                     match = re.match(r'f(\d+)([rv])(\d*)', name)
                     if match:
                         num = int(match.group(1))
                         side = match.group(2)
                         suffix = match.group(3)
                         suffix_num = int(suffix) if suffix else 0
-                        return (num, side, suffix_num)
-                    return (float('inf'), name, 0)
+                        # (section=1, num=num, side=side, suffix=suffix_num)
+                        return (1, num, side, suffix_num)
+                        
+                    return (2, name, '', 0)
 
                 pages.sort(key=get_sort_key)
                 

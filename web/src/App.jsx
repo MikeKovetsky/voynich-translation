@@ -23,7 +23,7 @@ function App() {
 
           <div className="flex bg-slate-700 rounded-lg p-1 border border-slate-600">
             <Link
-              to="/viewer/f1r"
+              to="/viewer/extra_000_1006074"
               className={`px-3 py-1 rounded-md text-sm transition-colors flex items-center gap-2 ${
                 isViewer ? 'bg-slate-600 text-white shadow' : 'text-slate-400 hover:text-slate-200'
               }`}
@@ -55,8 +55,8 @@ function App() {
 
       {/* Main Layout Area */}
       <Routes>
-        <Route path="/" element={<Navigate to="/viewer/f1r" replace />} />
-        <Route path="/viewer" element={<Navigate to="/viewer/f1r" replace />} />
+        <Route path="/" element={<Navigate to="/viewer/extra_000_1006074" replace />} />
+        <Route path="/viewer" element={<Navigate to="/viewer/extra_000_1006074" replace />} />
         <Route path="/viewer/:pageId" element={<Viewer />} />
         <Route path="/stats" element={<Stats />} />
         <Route path="/dictionary" element={<Dictionary />} />

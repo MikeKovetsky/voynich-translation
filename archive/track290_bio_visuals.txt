@@ -1,0 +1,23 @@
+Task: Bio Section Visual-Text Correlation (Track 290)
+Goal: Determine if the text placement in the Bio Section correlates with the illustrations.
+Inputs:
+- data/voynich_transcription.txt (Bio pages f75-f84)
+- results/dictionary/master_dictionary_v15.json
+
+Steps:
+1. **Manual/Visual Inspection (via Text Analysis):**
+   - We know `qokedy` (Mixture) appears 391 times.
+   - Use `grep` or text analysis to see *where* it appears on the page.
+   - Does it appear in paragraphs *between* the pools? Or *inside* the flow?
+   - Note: Since we don't have XY coordinates, we will look for **Label-like entries**.
+   - Labels are often single words or short phrases.
+   - Check for single-word lines in the Bio section transcription. Are they `qokedy`? `ol`?
+
+2. **Label Analysis:**
+   - Extract all "Single Word Lines" or "Two Word Lines" from f75-f84.
+   - Translate them.
+   - **Hypothesis:** If labels are "Water", "Bath", "Mix", it confirms the diagram's function.
+
+3. **Outputs:**
+   - `results/bio_labels.json`: List of short labels found in Bio section.
+   - `results/track-290-results_summary.md`: Translation of these labels.

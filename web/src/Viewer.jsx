@@ -139,7 +139,7 @@ function Viewer() {
           <div className="relative shadow-2xl inline-block h-full flex justify-center items-start overflow-auto p-8">
             <div className="relative">
               <img 
-                src={`/manuscript/${currentPage}`} 
+                src={currentPage.startsWith('extra') ? `/manuscript/extra/${currentPage}` : `/manuscript/${currentPage}`} 
                 alt={currentPage}
                 className="max-w-full h-auto shadow-2xl"
                 style={{ maxHeight: 'calc(100vh - 180px)' }}

@@ -1,0 +1,26 @@
+Task: Batch Translate High-Density Herbals (Track 291)
+Goal: Translate the most "Instructional" Herbal pages using the Recipe Grammar.
+Inputs:
+- data/voynich_transcription.txt
+- results/dictionary/master_dictionary_v15.json
+- results/track-280-results_summary.md (for page list)
+
+Steps:
+1. **Target Pages:**
+   - f41r (Density 0.74)
+   - f14v (Density 0.69)
+   - f43r (Density 0.65)
+   - f26r (Density 0.62)
+   - f57r (Density 0.59)
+
+2. **Batch Translation:**
+   - For each page, apply the "Recipe Mode":
+     - `qok-` -> "Process/Cook"
+     - `ol-` -> "The [Ingredient]"
+     - `-y` -> "Imperative"
+     - `sho` -> "Burn/Heat"
+   - Highlight "Ingredients" (words following `ol-` or `or`).
+
+3. **Output:**
+   - `results/high_density_herbals_translation.md`: The translations.
+   - `results/track-291-results_summary.md`: Common ingredients found across these pages.

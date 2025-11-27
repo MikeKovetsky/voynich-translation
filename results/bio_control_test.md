@@ -1,0 +1,987 @@
+# Bio Section Control Test (Recipe Grammar)
+
+## Methodology
+Applied strict Recipe Grammar rules to Bio Section (f75-f84):
+- `-y`: Imperative Command ([CMD])
+- `ol`: Ingredient Marker ([INGR])
+- `ed`: Mix/Process ([MIX])
+
+## Translation
+
+
+### f75r
+
+- [CMD] [MIX] kchedy [CMD] kary  okeey qokar [CMD] shy [CMD] [MIX] kchedy qotar [CMD] [MIX] shedy
+- dain [CMD] shey ly  ssheol [CMD] [MIX] qolchedy [MIX] chedykar [CMD] [MIX] chekeedy ror
+- qokain [CMD] chal  orchey [CMD] qey kain [CMD] sheeky ltain olkar or
+- [CMD] dackhy [CMD] lkamo  ykeey [CMD] lshey kal [CMD] dy [CMD] shey or [CMD] shey [CMD] [MIX] qokeedy
+- [CMD] shey kar [CMD] chey  ckhey r ain [INGR] 'with' [INGR] 'with' [CMD] [MIX] sheedy [CMD] qokeey [CMD] qoky
+- [CMD] pchey keeor olky  dar [CMD] okey qokain [CMD] chcthy [CMD] [MIX] qokeedy [CMD] qoky
+- [CMD] [MIX] pchedy qokshdy  ytain [CMD] [MIX] chedy qokar [CMD] chy lol [CMD] [MIX] chedy [CMD] qoky
+- sor [CMD] chey [CMD] qotardy  dsheckhy qokain [CMD] chckhy [CMD] [MIX] lshedy [CMD] [MIX] okeedy
+- [CMD] qokchdy [CMD] chcthy [CMD] [MIX] lo  qokedy qokan [CMD] checkhy qokar [CMD] [MIX] olchedy sal
+- dshor qotar [CMD] chdy  shey qokain [CMD] chckhy [CMD] dy [CMD] otey [CMD] [MIX] tedy [CMD] [MIX] lchedy
+- [CMD] [MIX] qokeedy qokain [CMD] [MIX] oly  qokeedy [CMD] dy qokal okar [CMD] [MIX] shedy dor chekam
+- [CMD] ssheckhy qokal [CMD] oly  shey r [INGR] 'with' [CMD] cheey [CMD] shey [CMD] dy [INGR] 'with' [CMD] [MIX] shedy [CMD] qoky
+- [CMD] [MIX] pchedy [CMD] [MIX] keedy [CMD] [MIX] qokedy  qokedy [CMD] [MIX] qokedy [CMD] [MIX] qokedy qokain [CMD] [MIX] olshedy
+- sain [INGR] 'with' [CMD] keeshy qokain [CMD] [MIX] dy  olshedy qokain [CMD] chckhy qokain otar [CMD] aly
+- sain qokain qol keeoly  saiin [MIX] chedy  sol or [CMD] [MIX] shedy [CMD] okchdy [CMD] qoky
+- [CMD] [MIX] dshedy qokar [CMD] [MIX] sheedy lch  shokain [CMD] [MIX] chy  otshedy qokain [CMD] [MIX] chedy
+- [MIX] pchedar [CMD] shepchy [MIX] lshedary  dal [CMD] shal  shy kol [CMD] [MIX] shedy qokam
+- sol [CMD] [MIX] sheedy qol [CMD] [MIX] shedy qol  otain char sar [CMD] oly
+- [CMD] [MIX] qokshedy qol [CMD] shey [CMD] qoky  shey [CMD] ithey qokain ar
+- [CMD] ry [CMD] shey qor [CMD] chey [CMD] lchey lo  ydain [CMD] shey qokain
+- oqekain [CMD] chey [CMD] qckhsy or  ysheor [INGR] 'with' lor am
+- odar [CMD] shey qokain [MIX] chedy  or [CMD] shey kar [CMD] [MIX] chedy sar
+- [CMD] pchey [CMD] kshey [CMD] qokeey [CMD] qokal  sshey qol [CMD] [MIX] chedy qokam
+- qokain [CMD] olkeey qolkary  sain [CMD] checthy lor [INGR] 'with'
+- saiin [CMD] shckhy [CMD] [MIX] qokeedy [CMD] shy [CMD] [MIX] dy  qokeedy [CMD] [MIX] lchedy ram
+- dain [INGR] 'with' sheol dain [INGR] 'with' qoly  dar [CMD] ady
+- pdalshor shtol [CMD] qoty pshar [CMD] [MIX] shedy okaldy  dar otar [CMD] [MIX] otedy [CMD] dy rol
+- [CMD] [MIX] tchedy [CMD] [MIX] pchedy [CMD] qokeey sol [INGR] 'with' dair [CMD] shecthy qol l [CMD] [MIX] sheedy [CMD] [MIX] qokeedy lol [CMD] [MIX] chedy
+- dain chkal [CMD] dy lolkaiin [INGR] 'with' [CMD] [MIX] okeedy qol dain [CMD] olchey [CMD] [MIX] qokeedy [CMD] [MIX] chedy qotan
+- qodaiin [CMD] cheeky [CMD] qokey qokain [CMD] cheky qokal dain [CMD] [MIX] chedy okalol [CMD] [MIX] shedy okar olom
+- [CMD] [MIX] dshedy [CMD] qokey [CMD] chckhy qokar [CMD] [MIX] shedy [CMD] chey [MIX] qoked [CMD] [MIX] qokedy [CMD] daldy
+- [CMD] polshy dal [CMD] [MIX] shedy qokain das [CMD] chsdy [CMD] [MIX] shedy qokar [CMD] [MIX] shedy [CMD] ldy
+- [CMD] qokeey [CMD] [MIX] lshedy qol [CMD] [MIX] chedy qokain [CMD] [MIX] chcthedy [CMD] [MIX] ltedy darom
+- [CMD] [MIX] solkedy okal dar [CMD] oty otar otar [INGR] 'with' kain [CMD] [MIX] olkedy
+- qokain [CMD] sheety qokain dar dar [CMD] [MIX] shedy qokar [INGR] 'with' [CMD] dy
+- sol [CMD] [MIX] keedy [CMD] [MIX] qokeedy [CMD] qokey okar otar dar dar [CMD] dy
+- [CMD] [MIX] qokedy [CMD] dy [CMD] sheety [CMD] [MIX] qokedy [CMD] qokchdy [CMD] qokechdy lol
+- [CMD] [MIX] qokeedy [CMD] [MIX] qokeedy [CMD] [MIX] qokedy [CMD] [MIX] qokedy [CMD] [MIX] qokeedy [CMD] ldy
+- [CMD] [MIX] yshedy [CMD] [MIX] qokeedy [CMD] qokchdy [CMD] [MIX] olkeedy [CMD] otey [CMD] koldy
+- dar [CMD] [MIX] shedy qokain [CMD] [MIX] shedy dal [CMD] [MIX] keedy [CMD] [MIX] rshedy
+- [CMD] [MIX] sokeedy [CMD] [MIX] qokeedy [CMD] [MIX] oteedy [CMD] qoky [CMD] [MIX] dykeedy [CMD] sy
+- [CMD] [MIX] dshedy [CMD] [MIX] qokedy c [CMD] qoteey [CMD] [MIX] qoteedy dar
+- [CMD] [MIX] yshedy chekar [CMD] oldy qokain chkar otar [CMD] oldy
+- [CMD] [MIX] dchedy sain [CMD] [MIX] okedy [CMD] [MIX] qokedy [CMD] [MIX] otedy [CMD] okoldy otar otam olaiin chdar [CMD] dy
+- [CMD] [MIX] sshedy [CMD] shckhy [CMD] qokey [CMD] [MIX] okedy sorol [CMD] oty [CMD] [MIX] otedy [CMD] [MIX] qotedy [CMD] [MIX] otedy okaiin
+- [CMD] qokey [CMD] [MIX] qokedy sheol [CMD] [MIX] qokedy dain [CMD] [MIX] shedy otol [CMD] [MIX] chedy olor
+- sal [CMD] [MIX] okeedy
+- [CMD] daly [CMD] ychey
+- sols daro
+- [CMD] ychty
+- saino
+- [CMD] saldy
+- [CMD] dainy
+
+### f75v
+
+- s
+- l
+- l
+- o
+- r
+- [MIX] pchedar [CMD] [MIX] opchedy [CMD] [MIX] qokedy [CMD] [MIX] opchedy qopdy  dain chetas [CMD] chcphhy qotam
+- sor [CMD] sheky qokain okal dal [MIX] olchedy  daiin [CMD] chckhy lkar [CMD] chckhy rom
+- dl [CMD] shckhy kain [CMD] olchey qokain [CMD] daly rd  dl [CMD] [MIX] shedy [CMD] [MIX] qoteedy [CMD] [MIX] cthedy [CMD] loly
+- [CMD] qokchdy qokal dal [INGR] 'with' [CMD] chety [CMD] [MIX] lchdy  csedy [MIX] ched [CMD] [MIX] otedy [CMD] [MIX] qotedy otar
+- [MIX] qokeed [CMD] [MIX] chedy [CMD] ky [CMD] [MIX] okedy [CMD] [MIX] lchedy dar [CMD] [MIX] ody  dchedy dar [CMD] [MIX] olchedy [CMD] [MIX] otedy [CMD] qoky
+- s
+- [CMD] [MIX] qokedy [CMD] rshey qol [CMD] chey [INGR] 'with' [CMD] chey [MIX] keed  sol [CMD] key [CMD] [MIX] dykedy qokol dar [CMD] oly
+- ocheain [CMD] [MIX] cheedy qokal dain [CMD] sheeky [CMD] [MIX] qoky  sshedy [CMD] [MIX] tedy [CMD] [MIX] otedy [CMD] [MIX] tedy taral
+- qol [CMD] sheckhy [CMD] [MIX] qokedy [CMD] [MIX] qokedy qokaly  sor [CMD] [MIX] chedy [CMD] qoky [CMD] olshty [CMD] qokydy
+- ral [INGR] 'with' oloin [CMD] olkey [MIX] olshed qokaly  qokar [CMD] [MIX] chedy qokain [CMD] ty lshdyqo
+- [CMD] [MIX] odchedy [CMD] qolshdy [CMD] shokshdy qokain  or [CMD] [MIX] shedy qolol [CMD] [MIX] keedy qokalom
+- sal [MIX] shedykain qokain [CMD] sheckhy ld  saiin [CMD] ckhy [CMD] [MIX] lshedy
+- [CMD] okshy
+- saral
+- dokal
+- darol
+- dal [CMD] dy
+- dal shd
+- dalkar
+- qokal
+- [CMD] dly
+- [CMD] ory
+- [CMD] oty
+- [CMD] lchy
+- [CMD] dary
+- dal
+- [CMD] daldy
+- [MIX] qoted
+- rkal
+- [CMD] [MIX] ykedy
+- [CMD] olkchy
+- [CMD] otoly
+- tol sheor qokal dar [MIX] olked orol [CMD] kchey otain [CMD] olchey okar [CMD] sheky [CMD] [MIX] dedy [CMD] [MIX] kedy
+- [CMD] qoqokeey olkain qol [CMD] [MIX] sheedy qokeor [CMD] [MIX] sheedy qokal or [CMD] chey qokar [INGR] 'with' aiin
+- [CMD] [MIX] dlshedy qokain dal qol qol [INGR] 'with' [CMD] [MIX] sheedy [CMD] cheey dal [INGR] 'with' [CMD] sheey qokain olol
+- sal [CMD] [MIX] shedy qokain [CMD] shey qoin [INGR] 'with' [CMD] shey [INGR] 'with' [CMD] shey [CMD] qoky qol [CMD] cheey chl or sheolo
+- [INGR] 'with' [CMD] sheey [CMD] qolshey qokain okaiin charor
+- pokain [CMD] [MIX] okeedy or [CMD] chesy sol [CMD] shey [CMD] qokeey [CMD] [MIX] qotedy [CMD] [MIX] olkedy [CMD] chey tal [CMD] dy qol
+- olshees [INGR] 'with' [CMD] sheckhy qokain [INGR] 'with' [CMD] [MIX] chedy qol [CMD] [MIX] chedy qol [CMD] keey [CMD] [MIX] qolchedy [CMD] chealy
+- [CMD] yshey qokar [CMD] [MIX] olchedy qor oiin [CMD] [MIX] okeedy [MIX] qokeed [CMD] qokeey [CMD] qokeey [CMD] otey [CMD] qoky [CMD] dy
+- [CMD] ychey qotain [CMD] sheckhy [CMD] [MIX] qokedy [CMD] [MIX] qokedy [CMD] lsheckhy qokain dal tol [CMD] [MIX] olchedy
+- qokain [CMD] olshey qokain dar [INGR] 'with' [CMD] [MIX] shedy [CMD] [MIX] qokedy [CMD] [MIX] qokeedy qokar [CMD] [MIX] olshedy [CMD] oldy
+- qokeor [CMD] [MIX] chedy [CMD] shckhy dol [CMD] [MIX] ycheedy saino [INGR] 'with' [CMD] [MIX] cheedy qokar otar dal daiin
+- por [CMD] shey okain [CMD] [MIX] chedy qol sheol [CMD] [MIX] olchedy
+- otal opal
+- [CMD] okeey lol
+- olol
+- [CMD] [MIX] ytedy
+- [CMD] [MIX] kolkedy [CMD] [MIX] qokedy [CMD] qoky [CMD] lpchdy [CMD] qotchdy lol
+- [CMD] okshey [CMD] qolkchy [CMD] lchdy soiin [INGR] 'with' [CMD] otchdy
+- [CMD] ykeechy [CMD] qokchdy daiin [INGR] 'with' [CMD] olsheey [CMD] qoly
+- [CMD] oteey qol [CMD] chey [CMD] qokey [CMD] oldy [CMD] oly [CMD] ly
+- [CMD] sshey qol [CMD] dy qokar [CMD] shey [CMD] ldy
+- qokal dain dain [CMD] oqoky daiin
+- okal [CMD] [MIX] sheedy [CMD] [MIX] qoteedy [CMD] qokeey [CMD] ly
+- [CMD] [MIX] ykeedy qokain otain [CMD] shety
+- [CMD] octhey [CMD] [MIX] shedy otol [CMD] chckhey [CMD] ldy
+- [CMD] okeshey [CMD] [MIX] olkedy [CMD] [MIX] olkedy qol [CMD] chey
+- [CMD] qokey [CMD] [MIX] olchedy [CMD] otey orol
+- [CMD] [MIX] otedy
+- [CMD] oteey
+- [CMD] [MIX] qotedy
+- [CMD] [MIX] okedy [CMD] qeky [MIX] tedar [CMD] oly
+- [CMD] [MIX] solchedy [CMD] [MIX] solkedy
+- [CMD] [MIX] qokeedy qokol olkol
+
+### f76r
+
+- s
+- d
+- q
+- s
+- o
+- l
+- k
+- r
+- s
+- potchokar [CMD] chcfhdy [CMD] opshdy qolp [CMD] chcphy [CMD] chcphdy [CMD] opshey [CMD] qofshy [CMD] opchdy sain [CMD] ?sy
+- [CMD] [MIX] dshedy qotddyar cthar chep dain okain qokeor [CMD] [MIX] shedy qol ain sheols [CMD] qokeey
+- [CMD] yshey [CMD] qokeey [CMD] qokey [MIX] qokeed [CMD] [MIX] okedy [CMD] shky [CMD] [MIX] qotedy [CMD] [MIX] otedy shol [CMD] qoty [INGR] 'with' [CMD] [MIX] chedy [CMD] aiiny
+- [CMD] [MIX] qokedy [CMD] qokchy orar or chkarol [CMD] otey [CMD] [MIX] qokedy [CMD] [MIX] lkedy [CMD] chdy [CMD] qokchdy qokal chdam
+- [CMD] [MIX] solchedy [CMD] [MIX] qokeedy [CMD] [MIX] qopchedy qokeeo sol [CMD] [MIX] shedy [CMD] [MIX] qokedy [CMD] sheey okees al al [MIX] chedain dar
+- qoaiin ches [MIX] okeedal [MIX] qoked [CMD] qokeey [CMD] [MIX] shedy [CMD] chey [CMD] [MIX] lkeedy [CMD] okey dar oiin chekain [CMD] oldy
+- [MIX] shed al [CMD] shckhy sain [CMD] [MIX] chcphedy ain [CMD] olkeey lkar ain [CMD] otchy lkain [CMD] [MIX] chedy dar [CMD] daly
+- [CMD] [MIX] qotedshedy qorain [CMD] [MIX] oteedy [CMD] [MIX] chedy [INGR] 'with' [CMD] chdy raiiin chekain dain [CMD] chckhy sal [CMD] oty
+- sol [CMD] [MIX] shedy qool [MIX] qctheed [CMD] shdy qo [INGR] 'with' [CMD] keey dain saiin sar [CMD] [MIX] shedy qokeor [CMD] [MIX] okeedy
+- [CMD] [MIX] qokeedy [CMD] checthy [CMD] chckhey okol okaiin [CMD] sheckhey [CMD] [MIX] okeedy [CMD] otey dal ykal [CMD] [MIX] chedy sar
+- chor [CMD] [MIX] shedy [MIX] qoked okees al ar aiin ar ain [MIX] chckheed [CMD] [MIX] lchedy [CMD] [MIX] shedy qolair [CMD] [MIX] chedy
+- qotes [CMD] [MIX] chedy [CMD] shckhy [CMD] qokeey [CMD] okeey kain [CMD] checkhy [CMD] [MIX] qokeedy [CMD] qotey qotain chekear
+- [CMD] chey chckh [CMD] shey [CMD] qeeey chol lkain [CMD] [MIX] shedy [CMD] [MIX] qokeedy okain [CMD] [MIX] chedy [MIX] okeed qokaloro
+- [CMD] [MIX] dcheedy [CMD] qolchey [CMD] qokeey [CMD] qokeey [CMD] [MIX] chedy qokar [CMD] [MIX] shedy [CMD] [MIX] shedy [CMD] [MIX] lshedy [CMD] [MIX] qolchedy [MIX] otedyl
+- [CMD] [MIX] dshedy qo [CMD] [MIX] chedy [CMD] [MIX] lchedy [CMD] qokey [CMD] qolchey qotain [CMD] chckhy [CMD] shckhy lchar okar [CMD] alchdy
+- [CMD] qokchsdy [CMD] okeey [CMD] [MIX] lchedy qo olain [CMD] [MIX] otshedy [CMD] qotaly dar sain [CMD] [MIX] shedy [MIX] oleeed
+- [CMD] [MIX] sheedy [CMD] [MIX] qokedy [CMD] [MIX] chedy [CMD] [MIX] chedy qokain [CMD] chckhy [CMD] olchy l ain [CMD] [MIX] shedy olain [CMD] [MIX] chedy [CMD] qokey
+- [CMD] [MIX] dalshedy qol [CMD] [MIX] sheedy [CMD] qokaldy [CMD] chepy dain alolor olain [CMD] [MIX] chedy [CMD] shecthy [CMD] qokeey lor
+- qaloin [CMD] chey [CMD] qokeey [CMD] [MIX] lchedy [CMD] chckhy [CMD] chey [CMD] ky [CMD] chey qolal lkl [CMD] chey [CMD] [MIX] lchedy [CMD] chey [CMD] llaiiry
+- [MIX] shedal [CMD] shey [CMD] qokey [CMD] [MIX] qolchedy qolain ain [CMD] chey qokaiin okain [CMD] [MIX] cheedy [CMD] lchey [CMD] loly [CMD] sy
+- soin [CMD] sheey chear [INGR] 'with' aiin chodaiin qokaiin [CMD] chey [CMD] qokalchey dal [CMD] chdy dal ytal
+- qokar [CMD] [MIX] shedy [CMD] [MIX] shedy qokar [CMD] [MIX] shedy qokain dar [CMD] shey [CMD] lshcthy okar okain ylaiin [CMD] y
+- [CMD] darchey [CMD] cheolchey [CMD] shcthy [CMD] [MIX] chedy qo [CMD] qokey dalaiin [CMD] sheeky qokain [CMD] olky sain [CMD] chy
+- cheor ain okaiin dain [CMD] chey dal [CMD] [MIX] shedy qokaiin cheol [CMD] shy [CMD] [MIX] chedy rain [CMD] [MIX] chedy [CMD] shy
+- [CMD] [MIX] qokedy [CMD] lkey kal [CMD] [MIX] shedy [CMD] qopchey qol [CMD] [MIX] pchedy [CMD] okchy [CMD] chckhy [CMD] shey lol ral [CMD] sheey dar
+- cheor [CMD] shey qoolkal [CMD] [MIX] shedy [CMD] [MIX] shedy [CMD] shey [CMD] [MIX] shedy [CMD] ollchy shlches [CMD] shcthy sain [CMD] oly
+- saiin [CMD] [MIX] shedy [CMD] lshey qokal [CMD] chcthy okeolor cheol otar [CMD] [MIX] chedy qol [CMD] chcthy [CMD] chckhy
+- qokal [CMD] [MIX] shedy sheol cheal [CMD] alshy chol [CMD] chdy talor olalor chol okeyr ar [CMD] oly
+- [CMD] oteey [CMD] lchey [CMD] chey olsheol qokal chal
+- [CMD] polalchdy [CMD] [MIX] pshedy [CMD] [MIX] opchedy qokas yksheol [CMD] [MIX] qokeedy [CMD] oty [MIX] lshed [CMD] [MIX] chpsheedy ytal
+- [CMD] qolchey [CMD] shckhy [CMD] qokey [CMD] lchy [CMD] opchey dain [CMD] shdy [MIX] qokedar [CMD] olchdy sor [CMD] oty [CMD] dy [CMD] [MIX] lchedy
+- sain ar [CMD] [MIX] okedy [CMD] lcheey [CMD] qokey [CMD] shckhy [CMD] [MIX] otedy qokal [CMD] shey [CMD] qoky dain [CMD] [MIX] chedy qokchdyl
+- dain [CMD] chey lsh daiin [CMD] chey [CMD] [MIX] lchedy qolain qotal [CMD] [MIX] shedy [CMD] dy [CMD] shecthy otalam
+- sor [CMD] shey [CMD] qokey qokar [CMD] sheeoldy chol [CMD] oly [CMD] chaly lol [CMD] chdy
+- [MIX] poleedaran [CMD] shckhy [CMD] qoty ykar alol lkaiin [CMD] [MIX] olshedy otain okar opar [CMD] kolpy
+- [CMD] [MIX] ysheedy qo or okain [CMD] shey qokaiin [CMD] [MIX] okeedy [CMD] qochy ar ain [CMD] sheey [CMD] chckhy
+- doin shear [CMD] [MIX] okedy [CMD] [MIX] otedy [CMD] [MIX] okedy [CMD] [MIX] lchedy [CMD] [MIX] chedy okar [CMD] [MIX] chedy otar ain
+- dain [CMD] chckhy oraiin [CMD] sheey [CMD] qockhey olchdar [CMD] sheey [CMD] [MIX] otedy olain [CMD] oky
+- saiin [CMD] shckhy [CMD] [MIX] lkeedy [CMD] qoky okain ytain [CMD] [MIX] oteedy [MIX] okedor [CMD] [MIX] shedy qokal
+- saiin olaiin [CMD] oky shol sain [CMD] oky lkar [CMD] [MIX] chedy lkar al loral
+- [CMD] [MIX] fchedy ch sal dol [CMD] shdy [CMD] [MIX] olkedy qokaiin otal [CMD] rory
+- qkor [CMD] [MIX] shedy [CMD] shey [CMD] [MIX] keedy sal raiin [CMD] opchdy dar [CMD] [MIX] chedy [CMD] [MIX] qopchedy rorol
+- [MIX] olsheed [CMD] [MIX] qokedy [CMD] [MIX] qokeedy [CMD] [MIX] qokedy [CMD] [MIX] lkedy [CMD] [MIX] lsheedy okar [CMD] [MIX] shedy otain
+- saiin qol [CMD] [MIX] shedy [INGR] 'with' [MIX] chedor chal [MIX] shed [CMD] [MIX] qoteedy [CMD] [MIX] dshedy okal [MIX] chedyl
+- dal or [CMD] [MIX] chedy qolaiin [MIX] okedal [CMD] [MIX] olchedy chdol [CMD] [MIX] olchedy [CMD] choly [CMD] aiiny
+- sain [CMD] sheey or or al [CMD] solshey [CMD] [MIX] okeedy ldaiin [CMD] checthey [MIX] okedalor
+- qokaiin [INGR] 'with' [CMD] [MIX] shedy [CMD] qokeey or [CMD] shdy
+
+### f76v
+
+- polarar okor [CMD] opcheey [CMD] yteey [CMD] opchaly [CMD] [MIX] lshedy qofchdal lkodol opa korols
+- [CMD] [MIX] scsedy [CMD] [MIX] keedy [CMD] cholkeeey [MIX] otedor okor [CMD] [MIX] shedy [CMD] [MIX] chedy [CMD] [MIX] qokeedy [CMD] oly [CMD] shey [CMD] qoyky
+- [CMD] [MIX] dchedy [CMD] [MIX] qokeedy [CMD] [MIX] oteedy [MIX] chedaiin [CMD] chey [CMD] [MIX] qokeedy [CMD] [MIX] olkedy ror [CMD] [MIX] oteedy okal
+- [CMD] solkeey sor [CMD] shecthy daiin okar [CMD] [MIX] chpchedy [CMD] cpchy [CMD] oty olor [CMD] otchy ralchl
+- s otain okain [CMD] [MIX] chcthedy [MIX] qoteed [CMD] [MIX] ykedy [CMD] [MIX] okedy [CMD] [MIX] chedy [CMD] [MIX] otedy teyteg
+- qotees [CMD] olkeey [CMD] [MIX] okeedy [CMD] [MIX] qoeeedy [CMD] chckhey sheor aiin otar [CMD] [MIX] cheedy [CMD] [MIX] lchedy
+- [CMD] doteey qo okaiin [CMD] [MIX] oteedy [CMD] [MIX] otedy [CMD] cheolchdy [CMD] [MIX] okeedy [CMD] [MIX] otedy [CMD] [MIX] qokedy [MIX] okedar da
+- [CMD] [MIX] qokeedy [CMD] [MIX] ochedy roiin [CMD] [MIX] sheedy [CMD] [MIX] qokeedy [CMD] [MIX] okeedy olor [CMD] [MIX] okeedy [CMD] qolkeeey r al
+- sheor [CMD] chey ral [CMD] cheey r al [CMD] [MIX] cheedy
+- cphdor [MIX] shedal [CMD] qopchdy [CMD] [MIX] dshedy [CMD] [MIX] shedy [CMD] [MIX] tchedy lsheetal [CMD] shecphy daiin [CMD] dy
+- cheor [CMD] [MIX] sheedy daiin [CMD] [MIX] oekeedy [CMD] qokeey [CMD] [MIX] qokedy [CMD] [MIX] oteedy [CMD] [MIX] shedy [CMD] [MIX] qokedy [MIX] shedam
+- sol sheol [CMD] sheey [CMD] [MIX] lteedy [CMD] [MIX] qokeedy qotal [CMD] [MIX] chedy [CMD] checthy [CMD] [MIX] otedeey qokol [CMD] [MIX] chedy [CMD] deey
+- saiin [CMD] [MIX] sheedy qol [CMD] [MIX] sheedy [CMD] [MIX] okeeedy [CMD] [MIX] qoteedy [CMD] [MIX] chedy [CMD] [MIX] qotedy [CMD] [MIX] oleeedy [CMD] [MIX] qoteedy lo
+- [CMD] [MIX] qokeedy qol [CMD] [MIX] cheedy [CMD] [MIX] otedy [CMD] [MIX] cthedy [CMD] [MIX] otedy [CMD] [MIX] qoteedy [CMD] [MIX] shcthedy [CMD] [MIX] qoeekeedy [CMD] [MIX] deedy
+- [CMD] [MIX] tchedy [CMD] [MIX] lsheedy [MIX] chedal [CMD] [MIX] chedy [CMD] checthey
+- polshdal [MIX] otedair [MIX] opshedal [CMD] [MIX] qokedy [CMD] [MIX] shedy [MIX] pschedal [CMD] [MIX] tsheokeedy oshepols
+- sar [CMD] olkeey shokaiin sheolol [CMD] [MIX] otedy [CMD] qekchdy [CMD] [MIX] qoeeedy [CMD] [MIX] qokedy [CMD] [MIX] lkedy [CMD] chdy
+- [CMD] lshey [CMD] [MIX] qockhedy [CMD] qodeey [CMD] [MIX] qolkeedy [CMD] [MIX] qokedy chol [CMD] [MIX] chedchey daiin [CMD] [MIX] olkedy
+- or ar [CMD] sheey otar [CMD] [MIX] shedy [CMD] [MIX] otchedy [CMD] checkhey [CMD] [MIX] olchedy [CMD] checkhy [CMD] sheckhy [CMD] lky
+- dol [CMD] sheetey [CMD] [MIX] qokedy [INGR] 'with' [CMD] checkhy [CMD] [MIX] lshedy [CMD] [MIX] qokeedy [CMD] [MIX] cheedy [CMD] [MIX] qokeedy shl loiiim
+- [CMD] [MIX] cthedy oteol chdar [CMD] chckhy chees [CMD] [MIX] salkeedy [CMD] chey [CMD] [MIX] lcheedy [CMD] [MIX] lchedy [CMD] [MIX] qoteedy
+- sol [CMD] shey [CMD] [MIX] qotedy [CMD] chey [CMD] dytey [CMD] [MIX] teedy [CMD] lchey [CMD] [MIX] qokedy [CMD] [MIX] chedy lal [CMD] [MIX] chedy [CMD] [MIX] lchedy
+- [CMD] [MIX] dchedy [CMD] [MIX] qokeedy [CMD] qoteey qokol [CMD] [MIX] shedy [CMD] [MIX] shedy [CMD] [MIX] chedy [MIX] olchedr [CMD] shetey raiin
+- [CMD] qokeey [CMD] lsheey dal [CMD] [MIX] lchedy [CMD] olshey
+- [CMD] psheoldy [CMD] [MIX] opalshedy [CMD] [MIX] qokshedy [CMD] [MIX] qokedy dor [CMD] shey [CMD] [MIX] opchedy dal ro fcham
+- dshol qokaiin ches daiin [CMD] checkhy [CMD] oteoldy [CMD] qokeey chckhyd lar [CMD] aly
+- daiin [CMD] shckhey [CMD] chckhey [CMD] [MIX] qokeedy saiin chek ain r ain o kan chlaiiin
+- saiin [CMD] sheckhy cheol [CMD] chey [CMD] [MIX] qokeedy sair [CMD] sheckhy [CMD] [MIX] lkeedy [CMD] [MIX] lchedy
+- sar [CMD] [MIX] sheedy [CMD] [MIX] qokeedy [CMD] qolkey [CMD] lchdy scheer shees al ches okaiin [CMD] alaldy
+- [CMD] [MIX] tchedy lshees aiin chees [CMD] tchy [MIX] rshed chkaiin [CMD] sheky shtal [CMD] [MIX] cheedy lsan
+- sair shekaiiin shets aiiin [CMD] shety [CMD] otey okaiin [CMD] [MIX] otedy qotar [CMD] [MIX] chedy
+- tain [CMD] sheey qotain [CMD] [MIX] chedy qokaiin [CMD] [MIX] chedy taiin [CMD] [MIX] chckhedy otol [CMD] oty
+- saiin otaiin [CMD] [MIX] shckhedy
+- sakaiin [CMD] [MIX] okeedy [CMD] [MIX] chedy qotain [CMD] cphey [CMD] opcheey [CMD] oty saiin [CMD] otary
+- ychees [CMD] [MIX] alchedy [CMD] [MIX] qokeedy [CMD] [MIX] lshedy tol [CMD] [MIX] chedy [CMD] [MIX] lchedy [CMD] qoky saiin olor
+- daiin cheol [CMD] teey [CMD] lshety [CMD] okeey [CMD] [MIX] qeedy
+- [CMD] [MIX] qoeedy [CMD] [MIX] lchedy chees [INGR] 'with' oiiin [CMD] chchky [CMD] shekeey [CMD] qokey [CMD] qoky saiin [CMD] sy
+- saiin [CMD] [MIX] chedy [CMD] [MIX] shedy [CMD] [MIX] qokeedy lolsaiiin qokain [CMD] chey r al r aiin dl
+- [CMD] sshey [CMD] [MIX] lshedy qokaiin [CMD] [MIX] shedy [CMD] [MIX] okedy san [INGR] 'with' [CMD] [MIX] keedy sar [CMD] qoky [CMD] [MIX] dedy
+- sol [CMD] [MIX] shedy [CMD] qoky daiin [CMD] [MIX] shedy [CMD] chey qokaiin [CMD] [MIX] cheedy qo char aiin
+- sol [CMD] shey [CMD] [MIX] chedy [CMD] [MIX] qokedy [CMD] [MIX] chedy qol r aiin [CMD] [MIX] shedy
+
+### f77r
+
+- olkchs
+- [CMD] [MIX] otedy
+- otork
+- otol
+- [CMD] dchdy
+- soral
+- pol darair [INGR] 'with' qokol [CMD] chey [CMD] [MIX] qopchedy [CMD] [MIX] qopchedy dylches [CMD] [MIX] olkedy [CMD] loly
+- tol chd ar [CMD] shey qotaiin [CMD] [MIX] qotedy qokol [CMD] chdy qokain [CMD] chetey sal
+- [CMD] [MIX] qoteedy qokaiin [CMD] [MIX] shedy chol [CMD] [MIX] shedy [CMD] shcthey [CMD] [MIX] qokeedy [CMD] [MIX] oteedy cham
+- [CMD] [MIX] solteedy [CMD] [MIX] qoteedy [CMD] [MIX] qodeedy [MIX] shedaiin [CMD] [MIX] chedy [MIX] shedaiin sheol [INGR] 'with' [MIX] ched
+- [CMD] [MIX] qokeedy [CMD] [MIX] qolsheedy shol [CMD] [MIX] tedy [CMD] [MIX] chedy [CMD] [MIX] lsheedy [CMD] [MIX] qokedy qolal [CMD] [MIX] chedy
+- [CMD] sokcheey sain sheeol [CMD] [MIX] qoteedy qokaiin [CMD] [MIX] shedy [CMD] [MIX] qokeedy [CMD] [MIX] qotedy
+- [CMD] [MIX] qokeedy [CMD] [MIX] shedy qotol [CMD] [MIX] shedy qokaiin [CMD] sheety [CMD] [MIX] qokeedy [CMD] [MIX] lchedy lol
+- [CMD] [MIX] sshedy qotaiin [CMD] [MIX] chedy qokaiin [CMD] [MIX] shedy [CMD] [MIX] qolcheedy [CMD] [MIX] qokeedy lol
+- [CMD] [MIX] qoteedy [CMD] [MIX] qoteedy [CMD] [MIX] qokedy [MIX] sheed [CMD] qeey saiin [CMD] sheety [CMD] [MIX] qokeedy lol
+- daiin [CMD] [MIX] cheedy [CMD] lshey qol or chees [CMD] [MIX] sheckhedy qol [CMD] [MIX] cheedy qotaiin
+- [CMD] [MIX] qokeedy [CMD] lchey [CMD] lsheey [CMD] [MIX] qokeedy [CMD] [MIX] qokeedy qokar [CMD] qokeey laiin [CMD] chey
+- qotain sheal [CMD] [MIX] qokeedy [CMD] qoteey qokain [CMD] sheey [CMD] [MIX] qotedy [CMD] [MIX] dalchedy
+- [MIX] chedaiin [CMD] [MIX] shedy [CMD] [MIX] qokeedy [CMD] [MIX] qokedy [CMD] qokeey [CMD] [MIX] chedy shear [CMD] olaiiny
+- [CMD] [MIX] qoteedy al [CMD] [MIX] lchedy r oin [CMD] chy [MIX] chedaiin [CMD] cheey [CMD] [MIX] okedy [CMD] qoky
+- [CMD] sheoky qokaiin [CMD] [MIX] chedy [CMD] [MIX] lchedy [CMD] [MIX] olshedy [CMD] [MIX] qokeedy [CMD] [MIX] chedy qokol
+- daiin dol shor [CMD] cphey lfcheol shear [CMD] qolchy
+- [CMD] [MIX] otedy qokor [CMD] [MIX] shedy qokal [MIX] shedar dal [CMD] [MIX] chedy daror
+- [CMD] [MIX] qoteedy [CMD] [MIX] qokeedy qokaiin [CMD] chcthy [CMD] [MIX] lchedy [CMD] qokaly
+- [CMD] [MIX] solchedy qokain okaiin [CMD] [MIX] shedy [CMD] [MIX] qokeedy [CMD] [MIX] qotedy
+- [CMD] olchey [CMD] qotey qokain [CMD] [MIX] olcheedy sar lom
+- saiin cheeol [CMD] [MIX] qokeedy [CMD] [MIX] qokeedy qotal
+- qokaiin [CMD] chckhey saiin qolkain [CMD] cheeky lol
+- qokain [CMD] chckhy [CMD] qokeey [CMD] [MIX] qotedy [CMD] [MIX] qotedy [CMD] qotary
+- qor ain cheol [INGR] 'with' chealor [CMD] cheey qetaiin [CMD] dary
+- daiin [CMD] [MIX] chedy qol [CMD] [MIX] keedy [CMD] [MIX] qoteeedy sar oiiiin [CMD] cheety [CMD] dy
+- qokaiin [CMD] [MIX] shedy [CMD] [MIX] chedy qol [CMD] [MIX] chedy qokaiin qokaiin [CMD] checkhy raiin
+- [CMD] solkeey okaiin [CMD] [MIX] chedy qokain [CMD] [MIX] sheedy qokaiin [MIX] chedaiin [CMD] chealy
+- [CMD] [MIX] dshedy [CMD] [MIX] pchedy qotain [CMD] [MIX] chedy dolchl [CMD] [MIX] qokeedy qokol [CMD] olchey
+- teeolain [CMD] chey [CMD] [MIX] qoteedy qokain [CMD] [MIX] cheedy [CMD] cheey [CMD] [MIX] lchedy
+- pol [CMD] [MIX] shedy [CMD] [MIX] qoeedy qokaiin [CMD] chcphey qol ltaiin [CMD] [MIX] shedy qol
+- olaiin [CMD] cheey [CMD] sheckhey [CMD] lsheey qykaiin [CMD] [MIX] sheedy laiin
+- daiiin [INGR] 'with' [CMD] [MIX] eeedy okaiin sheeol qotaiin [CMD] shody [CMD] qoty
+- daiin sh [CMD] qolchey [CMD] [MIX] qotedy qotal rain chlr arol
+- [CMD] [MIX] qokeedy [CMD] [MIX] qotedy [CMD] [MIX] qokeedy [CMD] [MIX] qokeedy [CMD] qokeey raiin al
+- dchee [INGR] 'with' [CMD] [MIX] cheedy qotaiin [CMD] [MIX] qoteedy [CMD] [MIX] qotedy raiin
+- [CMD] sheey [CMD] [MIX] qepchedy qol [CMD] [MIX] cheedy qokear [CMD] cheey [CMD] loly [CMD] dy
+- qokaiin ches lchear dal chr sls ain [INGR] 'with' raiin lod
+- daiin [CMD] chlchpsheey tal cheol dam [CMD] arotey daiin
+- [CMD] ysheey dal saiirol sal dalo tain [CMD] dary dalo
+- sodar [CMD] oloky
+- darchdar
+- [CMD] [MIX] dotedy
+- [CMD] otchdy
+- otolaiino
+
+### f77v
+
+- okain ykal
+- [MIX] olkeedal
+- [MIX] orchedal
+- sosoral
+- okalo
+- otol [CMD] [MIX] shedy
+- otolor
+- [MIX] oleoeder
+- [CMD] [MIX] qetedy [CMD] [MIX] shedy qotol odal chal dar [CMD] [MIX] qopshedy [CMD] [MIX] qotedy [CMD] [MIX] qotedy [CMD] [MIX] qokedy dal
+- [CMD] [MIX] olshedy [CMD] [MIX] qolsheedy [CMD] qy rchr [CMD] [MIX] ycheedy [CMD] [MIX] okedy [CMD] [MIX] lshedy chr shdal [CMD] [MIX] chedy [CMD] qolky
+- [CMD] qokeeey [CMD] [MIX] shedy [CMD] [MIX] qokeedy [CMD] qodykey [CMD] [MIX] qokedy [CMD] [MIX] rsheedy taiiin sheol [CMD] [MIX] teedy [CMD] yry
+- dcheol [CMD] kshey qol [CMD] chshy cheol [CMD] [MIX] olchedy [INGR] 'with' chs [INGR] 'with' [CMD] [MIX] sheedy [CMD] [MIX] qokedy [CMD] [MIX] chedy
+- [MIX] tchedar olain [CMD] checkhy sal [CMD] [MIX] shedy qokal [CMD] [MIX] chedy [CMD] [MIX] qokedy qol [CMD] [MIX] shedy lol
+- [CMD] qockhy dol [CMD] chdy [MIX] dsheedal qokal [CMD] [MIX] chedy dal [CMD] [MIX] shedy [CMD] [MIX] qokeedy dal [CMD] olchy
+- [CMD] [MIX] lchedy [MIX] shedal [CMD] [MIX] qokedy okal [CMD] [MIX] chedy qokal [CMD] [MIX] shedy [CMD] [MIX] chedy qol [CMD] chdy lam
+- sor sheol [CMD] chdy [CMD] [MIX] qokeedy dar [CMD] [MIX] shedy [CMD] [MIX] chedy qokal [CMD] [MIX] chedy [CMD] qokey [CMD] [MIX] lshedy dal
+- [MIX] darcheedal [CMD] [MIX] qeedy [CMD] [MIX] qeedeey [CMD] olchey [CMD] lchey [CMD] [MIX] qedy or [CMD] cheey qol rar ar
+- qol kaiin [CMD] shey
+- [MIX] tedal daiin okaiin [CMD] [MIX] shedy [CMD] [MIX] qokedy qokain [CMD] [MIX] otedy [CMD] dasy
+- [CMD] [MIX] olchedy qol [CMD] [MIX] shedy [CMD] [MIX] qokchedy [CMD] qokeey daiin olol
+- qokaiin sheol [CMD] [MIX] ekedy [CMD] qokey qokal dal [CMD] daly
+- qoraiin [CMD] shey qokaiin chal aiiin [CMD] [MIX] chedy qol
+- daiin sal [CMD] [MIX] chedy [CMD] [MIX] qokedy qokal [MIX] shed [CMD] keoly
+- qokal [CMD] [MIX] salchedy [CMD] shey fchor qotas [CMD] olky [CMD] darory
+- [CMD] dalohey qol [CMD] [MIX] chedy oqokain olkaiin [CMD] chckhy qokal dar
+- qokal chees [INGR] 'with' [CMD] [MIX] shedy doraiin [INGR] 'with' [CMD] qoky ches [INGR] 'with' dal
+- daiin [CMD] sheekey [CMD] [MIX] qokeedy daiin dail [CMD] [MIX] qokedy [CMD] [MIX] qotedy sol
+- lchor oiin [CMD] [MIX] shedy qokaiin saiin dal [CMD] [MIX] sheedy [CMD] [MIX] qokeedy ral
+- dairol [CMD] [MIX] shedy [CMD] rchy sheor [CMD] [MIX] qokedy [CMD] qoky [CMD] chckhy [CMD] qokchy ldol
+- [CMD] [MIX] tshedy qokain [MIX] chedal [CMD] [MIX] fchedy [CMD] cheky sain [CMD] [MIX] chedy qokain [INGR] 'with'
+- [CMD] [MIX] ychedy [CMD] [MIX] qokedy [MIX] qoked olsheor [CMD] olchdy
+- tcho [CMD] dchy [CMD] [MIX] lshedy [CMD] daly dal [CMD] [MIX] dsheedy pcheol lfol [INGR] 'with' [CMD] [MIX] cheedy [CMD] qoty
+- [CMD] shey [INGR] 'with' [CMD] sheey [CMD] [MIX] qokedy [CMD] [MIX] lchedy qokaiin dal daiin [CMD] [MIX] chedy
+- qoar [CMD] [MIX] shedy qokaiin [CMD] shcthy [CMD] [MIX] qotedy rchr [CMD] [MIX] oltedy [CMD] lchy
+- [CMD] ycheey [CMD] [MIX] qolshedy qokal [CMD] [MIX] chedy qokaiin [CMD] checkhy qokal
+- qokaiin [CMD] cheky rar [CMD] [MIX] chedy qokal [CMD] dary qotal dal rain
+- [CMD] [MIX] solkchedy shar ytal [CMD] dy [CMD] [MIX] dychedy [CMD] lkchey [CMD] [MIX] qokedy [MIX] rched
+- tchor [CMD] sheey qokain qokain sheol [CMD] [MIX] qokeedy qokal [CMD] dary
+- [CMD] qotchy qokal [CMD] [MIX] shedy [CMD] [MIX] qokedy [CMD] [MIX] lchedy [CMD] [MIX] qokedy qol raiin [CMD] chey
+- [CMD] [MIX] schedy qotar sarol [CMD] [MIX] sheedy qokain [CMD] cheey raiin daiin [CMD] shey
+- toldal [CMD] [MIX] shedy [CMD] [MIX] qokedy qotain [CMD] [MIX] dolcheedy [CMD] [MIX] rolchedy [CMD] [MIX] qokedy
+- dcheol [CMD] [MIX] kchedy [CMD] sockhey qokal qokal [CMD] [MIX] shedy [CMD] sholdy qokal dar
+- [CMD] qokeey rol chdor [CMD] cheey qokaiin saiin [CMD] [MIX] shedy [CMD] [MIX] qokeedy qokam
+- [CMD] [MIX] chedy [CMD] [MIX] lchedy lkaiin [CMD] dy qokal dar chdain [CMD] ldchey [INGR] 'with' raiin [CMD] oldy
+- [CMD] tcheey [CMD] qokeey qokol [CMD] [MIX] lchedy cheol kaiin okol
+
+### f78r
+
+- [MIX] tshedor [CMD] [MIX] shedy [CMD] [MIX] qopchedy [CMD] [MIX] qokedy [CMD] dy qokol [CMD] oky
+- [CMD] [MIX] qokeedy [CMD] [MIX] qokedy [CMD] [MIX] shedy [CMD] [MIX] tchedy otar [CMD] [MIX] olkedy dam
+- [CMD] [MIX] qckhedy [CMD] cheky dol [CMD] [MIX] chedy [CMD] [MIX] qokedy qokain [CMD] [MIX] olkedy
+- [CMD] [MIX] yteedy qotal dol [CMD] [MIX] shedy [MIX] qokedar [CMD] chcthhy otor dor or
+- qokal [CMD] [MIX] otedy [CMD] [MIX] qokedy [CMD] [MIX] qokedy dal [CMD] [MIX] qokedy [CMD] [MIX] qokedy s kam
+- [CMD] [MIX] dshedy [CMD] [MIX] qokedy okar [CMD] [MIX] qokedy [CMD] [MIX] shedy [CMD] [MIX] ykedy [CMD] [MIX] shedy [CMD] qoky
+- [CMD] [MIX] schedy [CMD] [MIX] keedy [CMD] [MIX] qokedy chckhd qokain [CMD] [MIX] chedy [CMD] [MIX] qotedy [CMD] dy
+- [CMD] [MIX] dshedy [CMD] [MIX] deedy [CMD] [MIX] qokeedy [CMD] [MIX] otedy otal [CMD] [MIX] tedy [CMD] otey oloiin
+- [CMD] qoky [CMD] [MIX] okeedy [CMD] sheety [CMD] [MIX] qoteedy [CMD] otey [CMD] [MIX] shckhedy sokol or
+- dor [CMD] [MIX] shekedy qokol [CMD] kechdy [CMD] [MIX] otedy [INGR] 'with' [CMD] [MIX] tedy [CMD] [MIX] chckhedy
+- [CMD] [MIX] qokedy [INGR] 'with' [CMD] [MIX] kedy qokain [CMD] [MIX] okedy [CMD] [MIX] kedy tol [CMD] dy [CMD] [MIX] qoteedy [CMD] dy
+- sor [CMD] checkhy or [CMD] chckhdy dol [CMD] [MIX] kedy [CMD] [MIX] qokededy qokan [INGR] 'with'
+- [CMD] [MIX] dchckhedy [CMD] qokchdy [CMD] [MIX] qokedy [CMD] [MIX] okedy dal or [MIX] okeed olkain
+- qokol [MIX] oted okain [MIX] ched or [CMD] alory
+- soiin kar [CMD] [MIX] kedy [CMD] pchey [CMD] tchdoltdy
+- [INGR] 'with' [CMD] [MIX] chedy qokain dar ar okain
+- [CMD] y ches aiin [CMD] [MIX] okeedy qokain chl
+- sol [CMD] [MIX] shedy dal [CMD] shdy [CMD] qokychdy
+- [CMD] [MIX] qchedy qokain [CMD] cheeky [CMD] [MIX] lokeedy
+- [MIX] yched qokain daiin [CMD] chckhdy lr
+- sain sheor [INGR] 'with' [CMD] kchdy roiin [CMD] [MIX] okeedy
+- [CMD] [MIX] qokeedy [CMD] [MIX] kedy [CMD] qokeey [CMD] [MIX] qokedy olol
+- [CMD] [MIX] sokeedy keol loroin [CMD] olkeey raiin
+- sol [CMD] shey [CMD] kary or [CMD] [MIX] csedy [MIX] qeedar ain aol
+- daiin chckhal daiil [CMD] aldy
+- porain [INGR] 'with' [CMD] [MIX] qokeedy kchol tchal olkee [CMD] yfchey [CMD] [MIX] ofchedy [CMD] taly
+- s [CMD] sheky [INGR] 'with' [CMD] [MIX] kedy [CMD] chckhy dain [CMD] oty qokor [CMD] oky dain [CMD] chy [INGR] 'with'
+- [CMD] [MIX] qokeedy [CMD] qokey daiin olkain dal [CMD] [MIX] chedy ololdal [CMD] chchty [CMD] [MIX] tedy
+- [CMD] [MIX] solkeedy [CMD] sheckhy [CMD] [MIX] qokedy otal [CMD] [MIX] shedy otar [CMD] [MIX] olchedy [CMD] cthdy
+- [CMD] [MIX] qokedy [CMD] ckhdy qokain [CMD] [MIX] chedy [CMD] dalky lkain [CMD] [MIX] ykeedy [CMD] okaly [CMD] dy
+- [CMD] [MIX] ytedy daiin [CMD] [MIX] ykedy [CMD] yolsheey [CMD] qokchy okal [INGR] 'with' [CMD] [MIX] keedy [CMD] dyky
+- [CMD] [MIX] dshedy [CMD] [MIX] qokeedy [CMD] [MIX] qopchedy [CMD] qokaly dar okaiin okeeal am
+- [CMD] y sain [CMD] checkhy qokain [CMD] cheeky daiin daiin ytees [CMD] oly
+- [CMD] [MIX] qotchedy [CMD] [MIX] lchedy [CMD] [MIX] lchedy [CMD] [MIX] kedy qol saiin ckhain or
+- osal [INGR] 'with' s aiin shes aiin [CMD] oly
+- sar aiin [CMD] [MIX] oteedy [INGR] 'with' aiin [CMD] [MIX] chedy
+- qotaiin qokaiin [CMD] [MIX] okedy [CMD] [MIX] lkeedy
+- [CMD] [MIX] shedy qol [CMD] [MIX] shedy qokaiin drol
+- ykain chdar [CMD] [MIX] chedy qokain [CMD] dy
+- dain chfaiin [CMD] opaly [CMD] kotaly
+- [CMD] [MIX] lchedy [CMD] [MIX] pchedy qokaiin dar
+- okchdldlo
+- [CMD] okchdy
+- [CMD] daraloikhy
+- [CMD] [MIX] dchedaly
+- [CMD] otasodlory  orory
+- okaral
+
+### f78v
+
+- [CMD] [MIX] pykedy [CMD] [MIX] olfchedy [CMD] [MIX] qokedy [CMD] spchy [CMD] [MIX] chedy rol dor [CMD] [MIX] ofchedy [CMD] [MIX] qokedy
+- [CMD] [MIX] olshedy [CMD] [MIX] qokedy [CMD] [MIX] rshedy [CMD] cthdy [CMD] [MIX] otedy [CMD] [MIX] kedy dal dal dol [CMD] oty dal
+- [CMD] [MIX] qokedy [CMD] chety [CMD] [MIX] qolshedy [CMD] [MIX] okedy dol ees [CMD] olchey [CMD] [MIX] qotedy [INGR] 'with' dam
+- [INGR] 'with' [CMD] chy [CMD] lshdy [CMD] lcheckhy [INGR] 'with' [CMD] [MIX] keedy [CMD] lcheckhey [CMD] [MIX] lolkedy kain [INGR] 'with'
+- qor [CMD] olkeey olkain [INGR] 'with' [CMD] eesey [INGR] 'with' [CMD] cheeky dar okal dal [CMD] [MIX] olchedy
+- [CMD] ety [CMD] okeey or [CMD] sheey [CMD] ykeey [CMD] loeey qokain [CMD] [MIX] okedy [CMD] [MIX] qokedy qol
+- otor [CMD] [MIX] yshedy [CMD] [MIX] otedy [CMD] [MIX] shedy [CMD] [MIX] qokeedy [CMD] [MIX] qokedy otar [CMD] [MIX] otedy
+- [CMD] [MIX] qokedy [CMD] [MIX] otedy qokain [CMD] [MIX] oteedy [CMD] [MIX] qokeedy dar [CMD] [MIX] okedy [CMD] [MIX] dkedy dain
+- ycheolk [CMD] [MIX] olkeedy [CMD] [MIX] qokedy [INGR] 'with' [MIX] chedol [CMD] [MIX] okeedy [CMD] [MIX] qotedy ror arol
+- [CMD] [MIX] dshedy [CMD] [MIX] qokedy or [CMD] [MIX] shedy [CMD] [MIX] pchedy [CMD] qokchdy [CMD] [MIX] okedy [CMD] [MIX] opchedy
+- qol [CMD] [MIX] chedy qol [CMD] okeey ykal [INGR] 'with' [CMD] chdy qokain [CMD] chcthy daiin
+- sheor [INGR] 'with' qokaiin [CMD] shckhy [CMD] otaly [CMD] qolsheey qokal sain
+- dchokol [CMD] [MIX] chedy [CMD] [MIX] qokedy [CMD] qokey qol [CMD] [MIX] chedy [CMD] [MIX] qokeedy [CMD] lchey
+- [CMD] qolkeshdy qol [CMD] [MIX] shedy [CMD] [MIX] olkedy okol [CMD] [MIX] chedy qokain dal
+- [CMD] cheey qol [CMD] [MIX] chedy [CMD] qokey or cheef [CMD] chckhey [CMD] [MIX] tedy [CMD] [MIX] qokedy lr
+- [CMD] lshey [CMD] [MIX] rshedy d [CMD] [MIX] qokedy [CMD] okey [CMD] [MIX] lchedy [CMD] qokdy daiin [CMD] oly
+- qol [CMD] [MIX] sheedy qol lcheol [CMD] lchdy [CMD] dchdy da qor [INGR] 'with' kal [CMD] dy
+- [CMD] [MIX] chedy [CMD] shckhy [CMD] [MIX] qokedy dal [CMD] lshckhy qol qol [CMD] [MIX] oteedy qor
+- [CMD] [MIX] lchedy [INGR] 'with' [MIX] chedar [CMD] [MIX] shedy lor [CMD] [MIX] shedaldy orain
+- qofcheol [CMD] [MIX] opchedy qokain [CMD] [MIX] opchedy [CMD] lchey cphar [INGR] 'with' okalor
+- [CMD] [MIX] chedy [CMD] [MIX] lshedy [CMD] [MIX] olshedy otaiin [INGR] 'with' qokar [CMD] [MIX] shedy [CMD] [MIX] yteedy
+- okal [CMD] shey [INGR] 'with' [CMD] [MIX] shedy okal [CMD] okchey okeol [CMD] [MIX] olchedy qol
+- qol [CMD] [MIX] chedy [CMD] okeshy [CMD] [MIX] qoteedy [CMD] [MIX] okeedy [CMD] [MIX] olshedy [CMD] [MIX] qokedydy
+- ytaiin [CMD] [MIX] shedy [INGR] 'with' [CMD] [MIX] sheedy [CMD] olshdy [CMD] shey [CMD] kshdy shol [CMD] [MIX] kedy
+- teeol [CMD] olkeshey qolcheol [INGR] 'with' or [CMD] [MIX] sheckhedy or [INGR] 'with' sham
+- qokaiin or [CMD] [MIX] sheedy otain [INGR] 'with' [CMD] [MIX] shedy sol [CMD] [MIX] fchedy [CMD] otaldy
+- lol kar shr r [INGR] 'with' ols [CMD] sheey [INGR] 'with' [CMD] [MIX] chedy oltar olkaiin
+- olkain [CMD] shey [CMD] qokey okar [INGR] 'with' [CMD] [MIX] oteedy [CMD] chcthy los aiin d
+- [CMD] [MIX] lchedy [CMD] otchey qol [CMD] [MIX] chedy lr al s aiiin [INGR] 'with' [CMD] [MIX] shedy [CMD] ary
+- sal shol sain [CMD] sheety or oiiin okal oltal qokar [CMD] ary
+- sor ar or dchor otaiin otain [CMD] [MIX] ytedy [CMD] olshdy shol kal
+- lol cheor sheol [CMD] dy qokar otalor
+
+### f79r
+
+- torain [CMD] [MIX] shedy pchor or shek otar [CMD] pchdy opcholor otal [CMD] [MIX] shedy
+- [CMD] [MIX] qoteedy [CMD] lshdy [CMD] [MIX] otchedy [CMD] olshey [INGR] 'with' [CMD] shey qol [CMD] sheey [CMD] qoteey [CMD] loly
+- [CMD] yshealdy [CMD] [MIX] rshedy [CMD] [MIX] qoteedy [CMD] chckhey [CMD] qoy [CMD] chey [CMD] lchey [CMD] qokeey [CMD] [MIX] rchedy
+- [CMD] teey dar qotar [MIX] sheds [CMD] sheekeey [CMD] qokeey [CMD] okey [CMD] qolshy [CMD] olchey [CMD] qoky [INGR] 'with'
+- qokal [CMD] [MIX] shedy [CMD] chcthy or chear [CMD] solchey qol shal [CMD] chey l cheol chol [CMD] chy
+- shol okar [INGR] 'with' [CMD] olkeey [CMD] qokey sain [INGR] 'with' [CMD] cheey qol [CMD] chey
+- [CMD] [MIX] polchedy qokar [CMD] shey qokl [INGR] 'with' [CMD] cheey qokain [CMD] chey [CMD] qoty qokar
+- qokol [CMD] [MIX] cheedy qokal [MIX] shed [CMD] [MIX] ykchedy [CMD] chcthy [CMD] yoky qokal cholo
+- saiin [CMD] [MIX] shedy [CMD] [MIX] psheedy qokar sheol [CMD] qolchey [CMD] qoty qokal qokam
+- [CMD] [MIX] qokshedy qokain cheor okol sheeol [CMD] qoteesy [CMD] choty otechys
+- [CMD] shoikhy [CMD] [MIX] chedy [CMD] tshey [CMD] dshdy otchar shek [CMD] chcthy otal [CMD] ory
+- [CMD] qokchy [CMD] qotchey ldaiin [CMD] [MIX] shedy qotaiin sal
+- pshorol [CMD] shckhy [CMD] qotshdy [CMD] qokaldy [CMD] [MIX] opchedy qotar or aiin [INGR] 'with'
+- saral qokain [CMD] checkhy qotal qol [CMD] cheey [CMD] chey dain [CMD] [MIX] chedy qol
+- qokl [CMD] shey qokal [CMD] [MIX] chedy okol [CMD] dyty saiin [INGR] 'with' sheol [CMD] lchey
+- shain [CMD] shckhy [CMD] qoly [CMD] [MIX] kshedy otal [CMD] sheey qokain [CMD] shey qokam
+- qokaiin [CMD] shy [CMD] lsheey ls air or aror otaiin ches olol [INGR] 'with'
+- solor [CMD] olshey qokaiin [CMD] chey qokain otain otain otal [INGR] 'with' dam
+- sol [CMD] cheey chol sain or al [CMD] shey qokain [CMD] sheyky [CMD] shoky [CMD] oly
+- [CMD] y shal [MIX] ychedar [CMD] oikhy [CMD] scthey tal chear
+- pol shar shar [CMD] pchey [CMD] otshey okaos aiin [CMD] okshey [CMD] dalkeeey [CMD] ry
+- [CMD] lchey dal [CMD] [MIX] sheedy [CMD] [MIX] efchedy otain [CMD] shey [CMD] qofchey [INGR] 'with' dor [MIX] ched [CMD] chey
+- dar shear qotaiin [INGR] 'with' lkain [CMD] [MIX] otchedy or olkl [CMD] [MIX] otshedy [CMD] otory
+- [CMD] [MIX] qokshedy [CMD] qolkeey [CMD] [MIX] qolkeedy [CMD] [MIX] qokedy otain [CMD] otchey okain [CMD] y
+- [CMD] cholchey [CMD] qotshy qol [CMD] shey qokar [CMD] [MIX] shedy [CMD] oteey [CMD] chcthy
+- polaiin [CMD] [MIX] olteedy [CMD] qotchey [CMD] [MIX] dykeedy [CMD] qokchdy [CMD] [MIX] opchedy shol [CMD] ory
+- [CMD] [MIX] qokeedy [CMD] sheey kas [CMD] cheey olkaiin [INGR] 'with' [CMD] ory cholor [CMD] oty [CMD] oky
+- [CMD] y dol [CMD] sheey qokain odain [CMD] yteey [CMD] chyteey [CMD] otoldy [CMD] lchey
+- [CMD] lcheey [CMD] qochey [CMD] qody qokal olor okchd dchol [CMD] dchy [CMD] oly
+- [CMD] [MIX] yshedy qotal [CMD] ysheey olor
+- pol [CMD] shey [CMD] [MIX] oltshedy sheol [CMD] ykeey [CMD] okeey cheor [CMD] [MIX] sheedy [INGR] 'with'
+- sol [CMD] [MIX] cheedy [CMD] [MIX] qoteedy okaiin [INGR] 'with' olaiin [CMD] shey daiin [CMD] chey [INGR] 'with'
+- daiin [CMD] [MIX] shedy [CMD] [MIX] qotshedy [CMD] [MIX] oteeedy [CMD] [MIX] oteedy [CMD] chey qokaiin [INGR] 'with'
+- lcheol [CMD] [MIX] kchedy qotas [CMD] sheey teol [CMD] [MIX] oteedy
+- pol [CMD] [MIX] chedy [CMD] [MIX] shedy [CMD] [MIX] qoteedy qotain [CMD] ody chekes otal
+- sol sheeol [INGR] 'with' [CMD] cheey os [CMD] sheky sheol or shear [CMD] oly
+- lcheol [INGR] 'with' [INGR] 'with' [CMD] sheey [CMD] olsheey shol [CMD] keey [CMD] okchey dain
+- pol [CMD] olkeeey sheol [CMD] qokeey
+- [CMD] polkeey qokol [CMD] otshdy [CMD] olky orkar [CMD] shecphhdy olkal
+- [CMD] y [CMD] [MIX] shedy [MIX] qokched [CMD] oltshey otchotor [INGR] 'with' okaiin [CMD] chckhy
+- qokain [CMD] [MIX] shedy qotain [CMD] [MIX] oteedy chkain [INGR] 'with' [INGR] 'with' [CMD] [MIX] chedy [CMD] oly
+- sain okain [CMD] [MIX] chedy [CMD] [MIX] lkchedy aiin okain [CMD] oly [CMD] [MIX] cheedy
+- [CMD] y [CMD] shey qokain cheol [CMD] qoky daiin chkam ar [CMD] [MIX] cheedy [CMD] ldy
+- [CMD] ody oaan [CMD] okeey dar [CMD] cheory
+
+### f79v
+
+- [CMD] [MIX] poldshedy [CMD] olkory qotolol [CMD] otaldy [MIX] otedol or olorol
+- [CMD] [MIX] qoteedy [CMD] qokchey [CMD] qoty [CMD] lshey qokain [CMD] shey [CMD] [MIX] qorchedy
+- dol sheol [CMD] okchy qokain [CMD] [MIX] cseedy [CMD] [MIX] qokshedy [CMD] [MIX] qokedy otaram
+- [CMD] [MIX] qokeedy [CMD] [MIX] qokeedy qotain sol [CMD] [MIX] chedy [CMD] rchey [CMD] qoky [CMD] [MIX] lchedy
+- [CMD] [MIX] qolkeedy [CMD] [MIX] qokedy qotol saiin [CMD] ory [CMD] [MIX] qokedy [CMD] [MIX] oteedy lcheam
+- [CMD] ycheckhey r ain [CMD] [MIX] chedy qokain [CMD] [MIX] chedy [CMD] [MIX] olshedy dar ytam
+- [CMD] qokshey [CMD] [MIX] qokeedy qol [CMD] [MIX] kedy [CMD] [MIX] qokeedy qokain [CMD] [MIX] solchedy
+- [CMD] [MIX] ychedy [CMD] qotey [CMD] [MIX] okedy [MIX] tedyol [CMD] [MIX] sheedy [CMD] qokeey [CMD] [MIX] qoteedy lol
+- sor [INGR] 'with' [CMD] sheey [CMD] [MIX] qokeedy [CMD] qokechey qol
+- [CMD] [MIX] pchedy [CMD] [MIX] lsheckhedy [CMD] qokeey qokaiin [CMD] olky [CMD] [MIX] opchedy [CMD] [MIX] pchedy
+- [CMD] olcheey [CMD] [MIX] lchedy [CMD] [MIX] qolkeedy qokain [CMD] chckhy otar [INGR] 'with' kam
+- [CMD] pshdy [CMD] ofchdy [CMD] [MIX] qokedy [CMD] [MIX] qoteedy [CMD] [MIX] qokedy [CMD] [MIX] qoltedy [CMD] [MIX] qotedy [CMD] oky
+- dain ar [CMD] olshey dytain qokain [CMD] checthy [CMD] [MIX] okeedy [CMD] [MIX] qokeedy ror
+- [CMD] qokeey [CMD] [MIX] qokedy [CMD] okeey qokol [CMD] [MIX] sheedy [CMD] [MIX] qokeedy rol [CMD] chey [CMD] [MIX] qokeedy
+- [CMD] [MIX] yteedy [CMD] [MIX] qokeedy qokain [CMD] olkeey cheokain [CMD] dy [CMD] teey qokain
+- dol [CMD] sheey qol [CMD] olkshey [CMD] [MIX] qokeedy [CMD] [MIX] olkeedy qol okaiin [CMD] oly
+- qol [CMD] sheey chol [INGR] 'with' dar qokaiin [CMD] cheekey [CMD] qoky otain oram
+- qokain [CMD] sheey [CMD] qokeey [CMD] teey [CMD] oteey [CMD] lsheey [CMD] qokeey [CMD] [MIX] olkeedy [CMD] rchey
+- ykail [CMD] shy qolar [CMD] shey [CMD] [MIX] qokedy [CMD] [MIX] qokedy [CMD] [MIX] qokedy dar olkain cham
+- [CMD] [MIX] dchedy [CMD] lchey [CMD] qety [CMD] [MIX] shedy okain ykees [CMD] olkey [CMD] oty [CMD] shey [CMD] qoly
+- [CMD] dshey qokal [CMD] [MIX] sheedy [CMD] sheky orain [CMD] otshdy dain cther aror
+- [CMD] tshey [CMD] ykeey ra?kain oroiiin
+- [CMD] tolkey okar [INGR] 'with' okaiin okylor qokol [CMD] [MIX] okeedy [CMD] dalary
+- ycheear o oiin [CMD] [MIX] oeedy qotain [CMD] [MIX] chedy [CMD] qokeey [CMD] oteey [CMD] qokchy lol
+- [CMD] qokeey [INGR] 'with' [CMD] olshdy qotain [CMD] [MIX] oteedy olkain [CMD] otshey sain [INGR] 'with'
+- [CMD] [MIX] ykeedy okaiin dykaiin [CMD] [MIX] otedy [CMD] dkeey tar [INGR] 'with' otol [CMD] oiiiny
+- [CMD] odchey kar okain opar otain [CMD] olkey
+- [CMD] pchey ksheol qokain [CMD] [MIX] ofchedy [CMD] otalshdy olkair otaiin [CMD] [MIX] okeedy
+- dain [CMD] shey [CMD] [MIX] keedy lko [CMD] [MIX] opchedy [CMD] [MIX] qotedy [CMD] otey tal dain [CMD] otchy [CMD] oty
+- qokain [CMD] sheeky okar [CMD] okey [CMD] qokey [CMD] [MIX] tedy skain [CMD] [MIX] oteedy [CMD] qoky
+- yshees aiin o [CMD] [MIX] ykeedy [CMD] [MIX] qokeedy qokar [CMD] [MIX] oteedy rol tain
+- [CMD] olkeey [INGR] 'with' or [CMD] ocheey [INGR] 'with' [INGR] 'with' o [CMD] [MIX] keeedy [CMD] checkhy aror
+- por ar or [CMD] yteey [CMD] teey otar [CMD] oshey [CMD] qoky [CMD] chey [CMD] okeey [CMD] ldy orol
+- [CMD] ykeeey [CMD] qokeey [CMD] lshey [CMD] qoky [CMD] [MIX] tchedy [CMD] [MIX] orsheedy otain sheor [CMD] oly
+- qor [CMD] cheey kain chl [INGR] 'with' otol dain otain [INGR] 'with' [CMD] [MIX] oteedy qokan
+- [CMD] ysheey [INGR] 'with' [CMD] shey [CMD] oltshsey [CMD] sheepshey
+- pol [INGR] 'with' shal kain [CMD] okeey [CMD] lkeey qokal [CMD] otchsdy [CMD] okechdy
+- [CMD] olkeeey [CMD] qokeey [CMD] [MIX] okeedy [CMD] [MIX] shedy [CMD] qokeey okain [CMD] sheckhdy dag
+- [CMD] [MIX] qokeedy [CMD] ykeey [CMD] sheey or or aiin yefaiin [CMD] chcthhy dor [CMD] yty
+- qokees aiin okain [INGR] 'with' oiin qokoin [CMD] sheky [CMD] [MIX] qokeedy qokar [INGR] 'with'
+- [CMD] [MIX] yshedy [CMD] qokeey okain [CMD] olkeey [CMD] daldy [CMD] [MIX] chedy raiin orain
+- [CMD] [MIX] okchedy qokain [CMD] sheky [CMD] [MIX] chedy olaiin ydaral
+
+### f80r
+
+- [CMD] yoraly
+- [CMD] olchdy
+- [CMD] okaly
+- okolo
+- [CMD] okory
+- opor
+- [CMD] olky
+- [CMD] [MIX] otalshedy
+- okar
+- otan
+- pdol [CMD] [MIX] fshedy qopolkain octhor [CMD] okchdy [CMD] [MIX] qokeedy qopcheol  oltoiin [CMD] y [CMD] darshey
+- [CMD] dykshy [CMD] [MIX] olotchedy qokain qotain [CMD] chckhy qokain okal qotain [CMD] [MIX] okedy qolr
+- [CMD] [MIX] tchedy qotair cheol qokal qokal [CMD] cheety qokain qokar qokain [CMD] [MIX] chedy qokam
+- solkain shl [CMD] lky [CMD] chcthy qokain [CMD] qotchy qotal [CMD] dy [CMD] chckhy [CMD] lchey qotar otal
+- [CMD] [MIX] qokedy [CMD] [MIX] qokeedy [CMD] checkhy [CMD] [MIX] olchedy qokain [CMD] chey [CMD] qokechckhy otar cheoltain [CMD] sy
+- [CMD] [MIX] solchedy [CMD] [MIX] qokeedy qokar [INGR] 'with' [CMD] [MIX] chedy qokain [CMD] shecthy [CMD] [MIX] qokeedy saltar chkain [CMD] oty
+- [CMD] solky [CMD] sheckhy [CMD] sheky shkeol qokar [CMD] sheky chetain [INGR] 'with' olkar okain [CMD] sheky qokal [CMD] day
+- paiin sheol qokain [CMD] chety [CMD] [MIX] qokeedy qokar [CMD] shcthy qotol [CMD] shecthy qokain olkam
+- dcheol [CMD] [MIX] shedy qokal qotaiin chtal [CMD] schcthy qokal [CMD] chcthy qokain okain [CMD] oloky
+- [CMD] [MIX] qoteedy [CMD] keey qokain [CMD] chckhy [CMD] qoty [MIX] dalched otain [CMD] [MIX] shedy qokair [CMD] shey dalom
+- [CMD] [MIX] shedy [CMD] qokey [CMD] shckhey qotar [CMD] chckhy otol teol sheol qotal oltain [CMD] chcthy
+- [CMD] [MIX] qokeedy qol [CMD] shecthy qokal keol [CMD] qoky qokal [CMD] [MIX] shedy sal olkain sheo qokl
+- [CMD] yshey l [CMD] shey kaiin lor aiiin [CMD] shcthy [CMD] epchey [CMD] ty [INGR] 'with' [CMD] [MIX] keedy tar [CMD] oky las
+- lol [CMD] chey [CMD] rchy r [INGR] 'with' dain [CMD] oty [CMD] qoty otalor [CMD] sheckhy [CMD] olkeey ral [MIX] chedyor
+- dar sheal [CMD] cheeky okain sol [CMD] [MIX] lshedy dol [CMD] checthy orol eeesal olo teol [CMD] ory
+- lchol dar [CMD] shecthy [CMD] [MIX] otedy qol [CMD] [MIX] olcheedy [CMD] opcheeky [CMD] qotchy qokaiin otair [CMD] olky
+- lol shar otaiin olkaiin [INGR] 'with' olkain oraiin olor [CMD] checthy olor
+- pcheolkal dal [CMD] korchy [CMD] qotey [CMD] qoty [CMD] [MIX] rchedy qokal olkol [CMD] [MIX] shedy [CMD] chty
+- [CMD] okchey [CMD] qoky [CMD] [MIX] chedy qokain [CMD] [MIX] shedy qol [CMD] cseey qokal dar [CMD] ary
+- [CMD] [MIX] dshedy qokal [CMD] chcthy qokain [CMD] [MIX] shedy okaiin [CMD] shey daiin [INGR] 'with'
+- qokal [CMD] checthy sol [CMD] chey okalol [CMD] okaly [CMD] [MIX] qokeedy [CMD] oly
+- [CMD] solchey [CMD] qoky r cheykain [CMD] sheckhy qokain okain [INGR] 'with'
+- [CMD] solchey [CMD] qokeey lkar otal [CMD] olkeey okain [CMD] shecthy [INGR] 'with'
+- [CMD] cthcthey [CMD] rcheky [CMD] [MIX] shepchedy qokor [INGR] 'with' [CMD] qockhey [CMD] olchey [CMD] [MIX] qokedy koroiin [CMD] y
+- [CMD] olkeey lsheol [CMD] qokeey [CMD] [MIX] shedy qol [CMD] [MIX] shedy qokaiin [CMD] shey [CMD] qoty qokaiin [CMD] qokady
+- [CMD] qokeey [CMD] rchey tain [CMD] oteey qokain shekaiin [CMD] sheckhy [CMD] qolshey qokain [INGR] 'with' lom
+- sol [CMD] olkeeey otar [CMD] orchey [CMD] qokeey ltalor olor qokaiin [INGR] 'with' [CMD] shey qotor alom
+- sor [CMD] olky [CMD] qoty [CMD] ty tor [CMD] cheyky totol [CMD] [MIX] opchedy qokain [CMD] sheky qokain [INGR] 'with'
+- [CMD] [MIX] qokeedy qokail [CMD] oteey otain [CMD] [MIX] shedy [CMD] ykeey rar alshees
+- [CMD] torolshsdy [CMD] opchey [CMD] shepchy qotain [CMD] shcthy [CMD] [MIX] qokedy [CMD] daly
+- tolkain otal [CMD] [MIX] chedy qokar [INGR] 'with' [CMD] [MIX] shedy [CMD] checkhy [CMD] oroly
+- ycheeytal [CMD] checthy qokain qokain [CMD] checthy qokain [INGR] 'with'
+- sor [CMD] sheckhy qokar [CMD] checkhy okain [CMD] sheckhy [CMD] qokeey [CMD] ly
+- qokain [CMD] shckhy qokolkain [CMD] [MIX] chedy qokain [CMD] checthy lor
+- okain [CMD] [MIX] shedy qokan [CMD] [MIX] chedy qotain [CMD] cheky [CMD] lteey lolom
+- qokain [CMD] cheey olkain [CMD] [MIX] shedy qokain orol s
+- [CMD] polchy efaloir okain okaiin [CMD] cheey kain ylor [CMD] olkeey qokal
+- sal [CMD] shy loiin [CMD] cheey qotl [CMD] shety [CMD] cheoky qokain [CMD] cheey ram
+- tain [CMD] chey ral kas [CMD] chey lkl [INGR] 'with' shees okaiin [CMD] olky oklor
+- lol [CMD] chey saiin [CMD] shety okaiiin sheor [CMD] tchey lkaiin [CMD] okainy
+- talkl [INGR] 'with' s al [CMD] cheoly daiin [CMD] otaly otain [CMD] chey lkain olom
+- sol tl [CMD] shey [CMD] qoklcheey lkaiin [INGR] 'with' olor aiin ydaiin cheol kain
+- lol [CMD] eey [CMD] lchey qokal cheol lchor otlol
+
+### f80v
+
+- [CMD] [MIX] pcheedy [CMD] [MIX] dolfchedy [CMD] [MIX] qokeedy [CMD] [MIX] qotedy qotol [CMD] [MIX] fchedy [CMD] roly
+- [CMD] [MIX] tshedy [CMD] [MIX] qotedy olkain otal [CMD] chckhy [CMD] qoky daiin [CMD] daly
+- [CMD] [MIX] schedy [CMD] [MIX] qolchedy qokaiin [CMD] chcthy otaiin [CMD] sheeky qol
+- [CMD] [MIX] qokedy qokar qokain [CMD] [MIX] chedy qol qol [CMD] shect yhy [CMD] qoly
+- [CMD] [MIX] okeedy [CMD] [MIX] chedy [CMD] [MIX] olkeedy [CMD] oithy qokaiin [CMD] shckhy qotain [INGR] 'with'
+- tcheol [CMD] [MIX] kedy pcheol kain [CMD] [MIX] shedy qokaiin [CMD] otey [CMD] [MIX] qokedy [CMD] [MIX] chedy
+- polshol [CMD] tchey qokol [CMD] [MIX] shedy [CMD] qotshey [CMD] saly [CMD] kchey [CMD] stolpchy
+- [CMD] [MIX] olteedy qokaiin [CMD] [MIX] shedy qokain sheol [CMD] qokchdy [CMD] qokchdy [CMD] qoty [CMD] dy
+- [CMD] tchdy qol tol tal taldain [CMD] chcthy qokal dol [CMD] checthy qokal [CMD] ly
+- sol [CMD] sheey qokaiin [CMD] shcthy [CMD] [MIX] dolshedy qokal [CMD] shecthy qotain [INGR] 'with'
+- tol [CMD] [MIX] sheedy qokar [CMD] olky [CMD] rorcheey [CMD] sheckhy qotain [CMD] [MIX] chedy rol
+- ycheol kain [CMD] shey qokaiin [CMD] [MIX] chedy qokol olkain [CMD] shcthhy l
+- lor ar [INGR] 'with' olor [CMD] chey [CMD] koldy
+- [CMD] [MIX] tshedy qokain [CMD] [MIX] shedy qokas otal [CMD] [MIX] qopshedy [CMD] qoty [CMD] [MIX] lchedy qopalor
+- qotaiin [CMD] chty [CMD] [MIX] lchedy [CMD] saly tol [CMD] chey [CMD] [MIX] qoteedy otal dain [INGR] 'with' dal
+- cheol [CMD] key qotar [CMD] dy qotal [CMD] dy [CMD] [MIX] keedy qokain [CMD] oty [CMD] loldy tal
+- solcheol qokaiin [CMD] shecthy qokal [CMD] cheoldy qotlolkal [MIX] chedyr
+- [CMD] [MIX] ychedy qol okaiin [CMD] [MIX] olkedy or okain
+- [CMD] psheoldy [CMD] dkshey [CMD] qokopy ror opor [CMD] olpoikhy [CMD] oltydy
+- [CMD] ysheey qorar [INGR] 'with' [CMD] cheey daiin [CMD] shey qokaiin [INGR] 'with' okaiin
+- tor kain okal [CMD] yrchey qokal olor aiin okal otam
+- [CMD] [MIX] dchedy qokal [INGR] 'with' [CMD] chey dal or [CMD] [MIX] shedy [CMD] [MIX] lshedy
+- polteshol [CMD] opy [CMD] shey [CMD] [MIX] qopshedy [CMD] [MIX] qoteedy qotol [CMD] shy kolshd [CMD] qoky
+- [CMD] [MIX] yshedy [CMD] qokeey [CMD] qokey [CMD] qoty qotol otaiin [INGR] 'with' [CMD] [MIX] chedy [CMD] qoky daiin
+- [CMD] [MIX] lshedy [CMD] qoty olol [CMD] cheey qokain [CMD] okalchy tal or [CMD] checthy sar
+- [CMD] qoty [CMD] chey [CMD] qy taiin [CMD] chey [CMD] [MIX] lchedy [CMD] [MIX] shedy [CMD] olchey
+- pshol kain olkar [CMD] shey qokain dal oltaiin okain shal [CMD] qoty
+- olcheol qokain or al chain qokain [INGR] 'with' kaiin [CMD] [MIX] okeedy [CMD] qokey [CMD] ly
+- qokain olkain olkain [INGR] 'with' keeol
+- pol or olkain [CMD] ockhy qokaiin okain okar [CMD] shey [CMD] qolky
+- qol oloiin olkain [INGR] 'with' [CMD] [MIX] chedy qokain [CMD] olshey qokain
+- solkain shol kair or arol [CMD] [MIX] keedy [CMD] olky qolkain [CMD] [MIX] shedy
+- [CMD] [MIX] qokeedy qoker olkain [CMD] [MIX] olshedy [CMD] qokey [CMD] qokeey [CMD] tchcthy lom
+- dol sheyr [CMD] shey [CMD] olshey cthor [CMD] ylchdy olkain [CMD] shcthy [CMD] qoly
+- tol oltain olkar [CMD] y qol qol kain okiin [INGR] 'with' kain [CMD] shey [CMD] ldy
+- soin okain sheor [INGR] 'with' [CMD] shey [CMD] daly [CMD] [MIX] olshedy olal [CMD] [MIX] shedy [CMD] lchy
+- [CMD] polshdy [CMD] [MIX] qokeedy [CMD] shky [CMD] ololchey
+- pol [CMD] [MIX] kedy [CMD] lsheckhy [CMD] olky ot [CMD] olkchy [CMD] rchey [CMD] qcthy [CMD] rchey ral
+- sol aiin [CMD] chey qokain ches [INGR] 'with' [CMD] chckhy [CMD] [MIX] qokeedy [CMD] tchdy aral
+- qokain [INGR] 'with' cheeor olar [CMD] chey tchar [INGR] 'with' [CMD] [MIX] chedy qotal [CMD] [MIX] olchedy
+- tor arol ar [CMD] shckhy lkol otol [CMD] [MIX] chedy qokain [CMD] chckhy qokal
+- pol al aiin olkal shar [CMD] [MIX] shedy qokol [CMD] chdy ldol dar al
+- sor ain shkain shar [CMD] okshey dalar shokal [CMD] dy
+- qokal orol
+
+### f81r
+
+- [CMD] polchey [CMD] [MIX] qokedy shol [CMD] [MIX] opchedy [CMD] [MIX] olpchedy [CMD] ofshdy [CMD] oly
+- [CMD] dchey lshl [MIX] olched qokol chol otar [CMD] [MIX] chedy [CMD] oky
+- [CMD] qotey lchees olkal [INGR] 'with' [CMD] [MIX] chedy okar [CMD] [MIX] shedy
+- [CMD] [MIX] dchedy qokain [INGR] 'with' [INGR] 'with' [CMD] chcthy [CMD] [MIX] ykeedy al
+- qol cheol [CMD] okeey [INGR] 'with' [INGR] 'with' [INGR] 'with' aiin [INGR] 'with' orain
+- sar [INGR] 'with' eses [CMD] oteey shor [CMD] qokeey [INGR] 'with'
+- dshees okain [CMD] chcthy [CMD] otey okain
+- [CMD] [MIX] pchedy [CMD] qokeey [CMD] oty [CMD] qotey [CMD] oteey [CMD] oly
+- [CMD] qoteesy [CMD] [MIX] qotedy [CMD] [MIX] qokeedy [CMD] chcphey
+- chol dain [CMD] [MIX] otedy [CMD] cheey qotain [CMD] ly
+- olsheol [CMD] [MIX] olkedy [CMD] [MIX] sheckhedy [CMD] [MIX] oltedy
+- [CMD] [MIX] ychedy [CMD] [MIX] tedy [INGR] 'with' [CMD] [MIX] sheedy [CMD] qokeey [CMD] loly
+- dchol [CMD] [MIX] shedy [CMD] [MIX] qotedy qol [CMD] [MIX] chedy [CMD] chety [CMD] ry
+- [CMD] [MIX] qokechedy qol [CMD] [MIX] sheedy orain arol [CMD] [MIX] oeeedy
+- sain [INGR] 'with' [CMD] [MIX] cheedy [CMD] [MIX] qokeedy [CMD] [MIX] otedy
+- [CMD] polchdy qopchol qokor [CMD] [MIX] olpchedy opol [CMD] oroiry
+- [CMD] ychecthy [CMD] [MIX] okeedy [CMD] shey [CMD] [MIX] qokedy [INGR] 'with' [MIX] ochedar
+- [CMD] [MIX] osheedy [CMD] [MIX] shedy [INGR] 'with' [CMD] [MIX] shedy [CMD] [MIX] okeedy orar
+- [CMD] [MIX] qokedy [CMD] [MIX] sheedy [CMD] [MIX] chedy [CMD] [MIX] qoteedy olam
+- [CMD] [MIX] qopchedy qol [CMD] [MIX] chedy [CMD] qokeey odaiin rain [CMD] daly
+- [CMD] [MIX] dshedy qokal [CMD] olkeey [CMD] oteey [CMD] olshey [CMD] otey lol
+- qotal [CMD] [MIX] chedy qol [INGR] 'with' daiin [INGR] 'with' [MIX] chedar [INGR] 'with' [CMD] oly
+- [CMD] chey okain [CMD] sheckhy soiin [CMD] chey [CMD] lchey
+- [CMD] parody [CMD] shecphy cheol qotal dar [CMD] [MIX] otedy [CMD] oly
+- sar [CMD] [MIX] shedy qol otain okais okal [CMD] [MIX] chedy [CMD] dy
+- [CMD] [MIX] pchedy [CMD] qokey oteol qol sheor [CMD] [MIX] shedy qcthdys
+- sal [CMD] [MIX] chedy [CMD] [MIX] qokedy [CMD] [MIX] olkedy dol [CMD] [MIX] qokchedy
+- [CMD] qokesdy [CMD] [MIX] chedy qokar [CMD] chey taiin [CMD] otey lchl
+- [CMD] y [CMD] [MIX] sheedy [CMD] shy [CMD] chey [CMD] lchcthy ytar olkaiin [INGR] 'with'
+- l [CMD] [MIX] shedy [CMD] [MIX] qokedy sor olkar olkaiin [CMD] olkshdy
+- sol [CMD] [MIX] shedy [INGR] 'with' [CMD] [MIX] lchedy [CMD] [MIX] shedy [CMD] shy [CMD] [MIX] olkedy ches ar or oraiiin
+
+### f81v
+
+- par [CMD] shey [CMD] [MIX] keedy shekal dal dar [INGR] 'with' [CMD] [MIX] pchedy shek dain ofal [CMD] sheky
+- [CMD] [MIX] qokedy okaiin kair okal sar [INGR] 'with' kain olkain al [INGR] 'with' rol dl
+- saiin daiin [CMD] [MIX] olkeedy [CMD] [MIX] okedy dykain shek [CMD] chdy dalal [CMD] oldy
+- qokaiin okain [CMD] cheeky [CMD] dy [INGR] 'with' kaiin dain [CMD] dy daiin [CMD] chckhy
+- okaiin daiin otain [CMD] chckhy [CMD] [MIX] okeedy [CMD] qoky kar daiin okar
+- qokain okaiin [INGR] 'with' [CMD] [MIX] chedy cheol [CMD] lky ls aiin okain [CMD] daldy
+- olor [INGR] 'with' sheckhal daiin [MIX] qokeedal daiin [CMD] chckhy [CMD] [MIX] schedy qol
+- ykol or [CMD] [MIX] shedy [CMD] [MIX] sheedy qol [CMD] [MIX] keedy daiin dkain [CMD] [MIX] cphedy [CMD] oldy
+- yar [CMD] olchey kaiin [CMD] okeey daiin olor [CMD] checkhy [CMD] daiidy
+- [CMD] polshy [MIX] oshyteed qop [CMD] [MIX] okeedy [CMD] [MIX] otedy [CMD] [MIX] okshedy [CMD] qoty dairam
+- [CMD] oshey [CMD] qokeey [CMD] okeey [CMD] oky [CMD] ykeey [CMD] qoky [CMD] okylky [CMD] olchy [CMD] ky dsholyd
+- qol [INGR] 'with' [CMD] chdy [CMD] [MIX] shedy [CMD] [MIX] qokedy [CMD] [MIX] ytedy [CMD] [MIX] chetedy [CMD] [MIX] lkedey [CMD] [MIX] ytedy
+- [CMD] ykecsey [MIX] dched [CMD] [MIX] ytedy [CMD] [MIX] ytedy dar [MIX] ykeda [CMD] iphy [CMD] qoty [CMD] [MIX] ykedy okal
+- [CMD] [MIX] dshedy [CMD] [MIX] ykeedy [CMD] cseeky daiin [CMD] [MIX] okedy [MIX] qokeed [CMD] [MIX] qokedy [CMD] lchpchdy
+- qokal [CMD] [MIX] chedy [INGR] 'with' [CMD] sheey [CMD] salshcthdy [CMD] [MIX] qofchedy r [CMD] [MIX] chedy [CMD] ltary
+- lor [CMD] [MIX] shedy [CMD] [MIX] qoeedy [INGR] 'with' [CMD] chy [CMD] rshdy [CMD] [MIX] lshedy dar [CMD] chdy [CMD] pchdy
+- [CMD] sshkchdy [CMD] [MIX] chedy [INGR] 'with' [CMD] [MIX] shedy [CMD] [MIX] qolchedy qokain [CMD] shckhy dl ral
+- [CMD] qokchdy [CMD] chey [INGR] 'with' [CMD] cheky [INGR] 'with' [CMD] [MIX] shedy [CMD] [MIX] qokedy [CMD] [MIX] qokedy [CMD] chckhy [CMD] qoky
+- [CMD] solkeey [INGR] 'with' [CMD] [MIX] shedy qokar [CMD] sheckhy [CMD] [MIX] dcsedy qokar qokal dol [CMD] chy
+- [CMD] qocthey chekal [CMD] chody [CMD] [MIX] qokedy [CMD] lshety [CMD] qoldy [CMD] [MIX] ltedy qotain
+- lsho [CMD] qokey [CMD] [MIX] lshedy [CMD] [MIX] lshedy [CMD] [MIX] chedy [CMD] qolky [MIX] lchedal qol otar
+- qokal qol oiin [CMD] cheey dal [CMD] [MIX] lohedy [CMD] [MIX] shedy sal [MIX] chtedytar
+- shol [CMD] qekchy ykaiin olkain [CMD] [MIX] shedy [CMD] qoky [CMD] [MIX] dchedy rol [INGR] 'with' [CMD] cthdy
+- [CMD] ytey [CMD] [MIX] okchedy qokal [CMD] okeey qol [CMD] [MIX] cheedy sal teol [CMD] dchdy [CMD] ly
+- [CMD] [MIX] oshedy [CMD] [MIX] qotedy shol [CMD] [MIX] chedy [CMD] yshchey [INGR] 'with' [CMD] chey qol [CMD] [MIX] chedy tchd [CMD] oky
+- [INGR] 'with' chechol tar oiin [CMD] [MIX] okedy dal [CMD] shey olkeol [CMD] [MIX] olkeedy okeol
+- dsheol oiiin [CMD] [MIX] olkeedy [CMD] [MIX] tedy [CMD] cheky [CMD] [MIX] shckhedy chal
+- otoin olkol
+
+### f82r
+
+- [CMD] [MIX] qocseedy qokeol daiin shckhy  okeeor [CMD] cheey daiin [CMD] shey
+- [CMD] [MIX] dchedy [CMD] [MIX] qolchedy qokain [CMD] [MIX] dy  qokeedy qokal [CMD] lcheckhy [MIX] lched
+- [CMD] qokeey [CMD] [MIX] lcheckhedy qokaly  solkaiin [CMD] chckhy qokaiin
+- qokaiin octheol [CMD] chkeey [CMD] ldy  oteey qokal [CMD] sheckhy [CMD] qoky
+- sol [CMD] [MIX] lkchedy [CMD] [MIX] qokeedy qokal  cthol [CMD] [MIX] chedy [CMD] [MIX] qoteedy qokal
+- sor [CMD] [MIX] shedy qol [MIX] shedaiin [CMD] sheckhy okal [CMD] sheky qotaiin [MIX] chedol
+- [CMD] [MIX] dshedy sotaiin qokar [CMD] [MIX] shedy [CMD] [MIX] solshedy [CMD] qokeey [CMD] qoky ls [CMD] cheey
+- [CMD] qokeey [CMD] [MIX] sheedy [CMD] [MIX] qokedy lchor [CMD] cheey [CMD] qokey qotal [CMD] [MIX] chedy qoteor
+- sshol [CMD] shecthy qokaiin [CMD] [MIX] chkedy [CMD] rchey [CMD] dairchey qokaiin
+- orol dain
+- [CMD] kolchdy [CMD] [MIX] qokedy qopol [MIX] qotedor [CMD] [MIX] chopchedy qotal [CMD] [MIX] chedy kam
+- [CMD] [MIX] otedy [MIX] qodched olqo dar checkho lolol okal okair [CMD] [MIX] chedy
+- tcheol [CMD] [MIX] olchedy [CMD] [MIX] qokeedy [CMD] [MIX] qotedy [MIX] chedar [CMD] cheey [CMD] lchey sal arol
+- [CMD] rolchy qokol [CMD] chey qokain [CMD] [MIX] deeedy [CMD] qokeey qokaiin [CMD] [MIX] olchedy
+- [CMD] [MIX] tedy [CMD] [MIX] lchedy [CMD] [MIX] qokedy [CMD] qokchdy [CMD] [MIX] lkeedy qokaiin [CMD] dy daiin [CMD] chdy [CMD] dy
+- [CMD] [MIX] qokeedy [CMD] [MIX] lchedy [CMD] [MIX] qokeedy [CMD] cheey ror [INGR] 'with' saiin [CMD] chey [CMD] rai t y dam
+- [CMD] [MIX] dshedy [CMD] qoteey [CMD] [MIX] chedy [CMD] qokeeey [CMD] [MIX] qokedy [CMD] [MIX] lteedy [CMD] [MIX] qokeedy [CMD] rolchey
+- [MIX] polched otain [CMD] [MIX] shedy [CMD] [MIX] shedy dal [MIX] chedar [CMD] qokeey [CMD] okeey lsoraiin [CMD] ory
+- okain char okain [CMD] [MIX] qokeedy [CMD] lchy
+- [CMD] posalshy [CMD] [MIX] qokedy cphal [CMD] [MIX] shedy sheol [CMD] [MIX] keeedy lkaiin [CMD] [MIX] shedy [CMD] qoly
+- daiin [CMD] cheoky [CMD] [MIX] lkedy [CMD] rolshey daiin [CMD] chey qol [CMD] [MIX] chedy [CMD] qokeey dal
+- qokaiin cheor [CMD] sheey qokaiin [CMD] shckhey qol [CMD] [MIX] keeedy [CMD] qokeeey [CMD] rary
+- [CMD] cheey [CMD] qcthey [CMD] qokeey [CMD] lcheey daiin [CMD] chey [CMD] [MIX] qokeeedy [CMD] [MIX] lchedy lar
+- [CMD] [MIX] qokeedy [CMD] [MIX] lcheedy [CMD] qokeey sal raiin [CMD] qokeey [CMD] lkeey [CMD] qokeey raiin [CMD] ydy
+- dol [CMD] [MIX] qoesedy sheeerl [CMD] [MIX] sheedy [MIX] lshed [CMD] qockhey [CMD] [MIX] lchedy lor [CMD] sheey [CMD] ry
+- [CMD] tshey [CMD] [MIX] qokeedy cheal [MIX] lchedar ches aiin [CMD] oteey qokaiin [CMD] okey
+- [CMD] [MIX] pchedy rsheal [CMD] daldy [CMD] [MIX] qokeedy [CMD] [MIX] rshedy [CMD] [MIX] qoteedy [CMD] [MIX] qokeedy [CMD] [MIX] lochedy
+- qokoiin [CMD] [MIX] shedy [CMD] [MIX] qokeedy qotain [CMD] chcthey qoteeol [CMD] chey qokaiin [CMD] oly
+- [CMD] dcheey [CMD] [MIX] lchedy [CMD] [MIX] qokeedy [CMD] [MIX] lchedy [CMD] [MIX] rchedy [CMD] okchhy [CMD] [MIX] qotedy [CMD] qoty [CMD] qoty
+- [CMD] qoteey raiin cheol [CMD] qoteey [CMD] [MIX] shedy [CMD] qokeey [CMD] [MIX] lshedy [CMD] [MIX] qokeedy ram
+- cheol [INGR] 'with' [CMD] [MIX] rsheedy [CMD] [MIX] lchedy [CMD] qoty lcheeor qokain [CMD] [MIX] cheedy [MIX] lched
+- teoiin she daiin [CMD] chckhey [CMD] lchey [CMD] lcheckhy [CMD] sheey lr [CMD] chey rain
+- sain [INGR] 'with' cheol [CMD] ikhey cheor [CMD] chey
+- darol
+- [CMD] daryry
+- okar
+- okal
+- [CMD] okoldy
+- [CMD] okairady
+- sororl
+- olko [CMD] ky
+- [CMD] sokoly
+- dolol
+- olaiin
+- okeeor
+
+### f82v
+
+- [CMD] otechdy
+- [CMD] [MIX] otedy
+- daiin [CMD] oty
+- [MIX] otedal
+- tokol [CMD] [MIX] olfchedy [CMD] [MIX] qokeedy [MIX] qokedal shol qotal otdal dal [CMD] [MIX] olshedy
+- [CMD] [MIX] qokedy [CMD] [MIX] lshedy qotol dol [CMD] [MIX] shedy [CMD] [MIX] shedy [CMD] dy dar [CMD] [MIX] otedy [CMD] [MIX] chetedy lokam
+- dair [INGR] 'with' [CMD] [MIX] chedy [CMD] [MIX] qotedy [CMD] [MIX] qotedy [CMD] chsdy qotal [CMD] qoty qokal [CMD] [MIX] qokedy lo
+- qokain sheol [CMD] [MIX] qoteedy [CMD] [MIX] chedy [CMD] qokey [CMD] [MIX] qokedy qokol [CMD] [MIX] chedy [CMD] [MIX] chedy [CMD] lchy
+- [CMD] [MIX] solshedy [CMD] [MIX] lchedy [CMD] [MIX] dolshedy qokal [CMD] sheckhy [CMD] shey teeol [CMD] [MIX] oteedy [CMD] [MIX] qokedy
+- [CMD] qotey qokal [CMD] shoky qokal [CMD] [MIX] chedy qotal [CMD] [MIX] shedy
+- pcheol dar [CMD] qokeey [CMD] cheeky qokol dal [CMD] [MIX] shedy [CMD] pchdy rol [CMD] [MIX] qotedy rol
+- dal shol dar [INGR] 'with' [CMD] qoky qol [CMD] [MIX] chedy qokar [CMD] qoteytyqoky [CMD] chcthy [CMD] qoky
+- [CMD] [MIX] tchedy qocthes qokar [CMD] chckhy qokain cholkaiin [CMD] chckhdy [CMD] qokoldy
+- [CMD] [MIX] dolchedy [CMD] lchey rol rol [CMD] cheey sain [CMD] shey
+- tar [CMD] sheckhy qokal qokain cheal [CMD] [MIX] tedy [CMD] [MIX] rchedy [CMD] [MIX] pchedy rsheol dal
+- [CMD] [MIX] qokedy [CMD] lchey [CMD] cheey raiin shes [CMD] qokchey qokain okal [CMD] dy [MIX] lchedam
+- orain [CMD] [MIX] shedy qok char okai [CMD] [MIX] qokeedy [CMD] rcheey [CMD] [MIX] qotedy [CMD] [MIX] chtedy rches [CMD] aly
+- [CMD] [MIX] ykeedy [CMD] [MIX] qokeedy [CMD] [MIX] chedy qokar [CMD] okeey [CMD] [MIX] lkedy qokal [CMD] [MIX] olkeedy [CMD] [MIX] qokeedy [CMD] oky
+- qokol [CMD] [MIX] chedy cheal [CMD] [MIX] chedy [CMD] oty [CMD] chdy [CMD] dy [CMD] checkhy otal chls
+- tolsheol [CMD] [MIX] qokedy [CMD] [MIX] qolkedy [CMD] [MIX] rshedy [CMD] [MIX] qokedy [MIX] rsheedar [CMD] oinaly
+- dain [CMD] chey [CMD] qokeeey [CMD] qoky okaiin okain olkain otain [CMD] okaraly
+- qokain [CMD] [MIX] chedy [CMD] qolkshey qotal [CMD] shey qokain [CMD] olcheckhy [CMD] ly
+- [CMD] [MIX] yshedy [CMD] qolchey qolaiin otain [CMD] [MIX] olkeedy [CMD] [MIX] qotshedy oll
+- [CMD] [MIX] dshedy qokaiin [CMD] [MIX] olchedy qokal [CMD] [MIX] shedy qotal [CMD] dytary lgl
+- qok sheol [CMD] kechey [CMD] qoty ral tchdarol [CMD] sheytchdy qokal
+- saiin [CMD] shey qokol chol qol [CMD] [MIX] sheedy qokal [CMD] [MIX] shedy qokaiin
+- qokain sheal [CMD] [MIX] qolchedy qokaiir olkaiin [CMD] [MIX] shedy
+- tchal olkair [CMD] sheeky [CMD] qolchey qokar [CMD] shey qokain [CMD] [MIX] otshedy
+- daiin [CMD] chey [CMD] qoky [CMD] [MIX] shedy qokaiin [CMD] [MIX] olkeedy [CMD] [MIX] qokechedy qotar
+- pol olor [CMD] chey qokain [CMD] [MIX] shedy qokain [CMD] olchesy [INGR] 'with' r aindar
+- [CMD] qokeey rain [CMD] chey qolkain [CMD] oky [CMD] otaly qokalsh [CMD] olshalsy
+- sar [INGR] 'with' loraiin [CMD] chey qokain oroiiin
+- [CMD] qody shar [CMD] aithy [CMD] qokchey [CMD] kchey olkain [CMD] [MIX] opchedy qfol [CMD] shty oral
+- [CMD] yckhey qokain [CMD] cheky otaiin olor okain [CMD] qolkeey qotar olkain
+- cthor [CMD] chey qsain [CMD] qokeey qokain otain otal [CMD] [MIX] okeedy qokal dym
+- saiin [CMD] shey [CMD] [MIX] qokeedy qokar [CMD] sheecthey qokaiin [CMD] [MIX] daltedy rcheold
+- sol [CMD] chey r [CMD] alchey chol olkol [CMD] chckhy [CMD] dalchckhy olkain olkeeyr
+- pcheol [CMD] [MIX] shedy qokaiin [CMD] sholdy
+- [CMD] okalchy
+- [CMD] [MIX] olkeedy
+- okain
+- olkol
+- [CMD] okooky
+- [MIX] okedor
+- [MIX] otedol
+- [CMD] [MIX] oteedy
+- okol
+- [CMD] otoldy
+
+### f83r
+
+- [CMD] [MIX] tchedy [CMD] [MIX] lpchedy [CMD] [MIX] opcsedy chepol [MIX] pchedar [CMD] [MIX] shedy [CMD] [MIX] qopchedy
+- sol [CMD] cheey qokaiin shol lchs [CMD] shey [CMD] [MIX] qoteedy sches ar [CMD] [MIX] chedy dor
+- [CMD] [MIX] olkeedy qotal [CMD] [MIX] chkeedy [CMD] chey daiin [CMD] chey [CMD] [MIX] lchedy qokaiin qotal dar
+- [CMD] [MIX] qokshedy [CMD] [MIX] chedy [CMD] [MIX] qokedy [CMD] [MIX] chkedy daiin shetar [CMD] [MIX] shedy qekaiin [CMD] [MIX] chedy
+- [CMD] dsheey qotaiin [CMD] checkhy [CMD] qoty cheg [CMD] [MIX] shedy [CMD] qokeey [CMD] [MIX] rchedy [CMD] [MIX] qokeedy lo
+- [CMD] [MIX] schedy [CMD] [MIX] chedchy qokal [CMD] [MIX] olchedy qokaiin [CMD] [MIX] chedy [CMD] [MIX] qokeedy [CMD] [MIX] lchedy [CMD] qoky
+- [MIX] solshed [CMD] [MIX] lsheedy [CMD] [MIX] qeeedy [CMD] qoky oqol [CMD] [MIX] rsheedy [CMD] [MIX] qokedy [CMD] [MIX] qoteedy [CMD] [MIX] qoteedy
+- [MIX] pchedal [CMD] [MIX] otedy [CMD] [MIX] shecthedchy [CMD] qoky [CMD] [MIX] chedy [CMD] chary
+- pchor [CMD] [MIX] checphedy [CMD] [MIX] qokedy [CMD] [MIX] lsheedy [CMD] qokchdy r [CMD] [MIX] shedkedy [CMD] qofshdy [CMD] qopy
+- [CMD] olkeey rchs cheen ols aiin skal dain cthal saiin [CMD] chky lal ram
+- sor [CMD] [MIX] shedy qokaiin chkain [CMD] shcthey [CMD] [MIX] qokedy okair [CMD] [MIX] sheedy [CMD] [MIX] lchedy lo
+- qockhol [CMD] sheckhy otal qokeal [CMD] cseckhdy ckol [CMD] [MIX] okedy [CMD] [MIX] qokedy qokal
+- solcheol tar [CMD] [MIX] shedy [CMD] [MIX] saltedy sair [CMD] [MIX] qokedy [CMD] [MIX] qpchedy [CMD] [MIX] lchcphedy ldar
+- [CMD] [MIX] qokchedy [CMD] [MIX] qokeedy [CMD] [MIX] shedy [CMD] [MIX] qokshedy dal [CMD] [MIX] lchedy qokaiin [CMD] shcthy dal [CMD] sy
+- saiin [MIX] shedal [CMD] shecthy [CMD] chey tal [CMD] shcthy [CMD] dalchdy [CMD] [MIX] qotchedy [CMD] [MIX] lchedy
+- [CMD] [MIX] tchedy [CMD] qokchdy [MIX] cheedar chldaiin [CMD] [MIX] chedy qokain [CMD] checthy chealror
+- dcheo [CMD] [MIX] kedy [MIX] lkeed [CMD] shckhey ytaiin [CMD] shechy [CMD] schety
+- pdal [CMD] shdy [CMD] [MIX] shocphedy otor [CMD] [MIX] shedy [CMD] [MIX] opshedy [CMD] otshdy [MIX] qokedal [CMD] shdy [CMD] soldy
+- sor [MIX] shedaiin [CMD] ockhey sain [MIX] ched [CMD] [MIX] shedy qetal dal [CMD] [MIX] shedy [CMD] shey [CMD] [MIX] lchedy
+- [CMD] [MIX] solkeedy [CMD] [MIX] qoteedy [CMD] qokeey [CMD] [MIX] qokedy sol [CMD] cheeety [CMD] [MIX] qokedy [CMD] qoky saiin
+- [CMD] [MIX] solkeedy [CMD] [MIX] qokedy [CMD] [MIX] otedy sol [CMD] [MIX] chedy [CMD] [MIX] lkedy [CMD] [MIX] qokchedy [CMD] [MIX] qokedy [CMD] chckhdy sar
+- [MIX] schedair [CMD] [MIX] otchedy [CMD] [MIX] qokeedy [MIX] chedain [CMD] [MIX] chedy [MIX] qotedaiin otaiin [CMD] [MIX] otedy [CMD] ldy
+- [CMD] [MIX] tchedy [CMD] [MIX] qotedy qokal [CMD] [MIX] shedy [CMD] [MIX] qokedy [CMD] [MIX] shecthedy [CMD] shecthy otor [CMD] [MIX] chedy
+- soiiin [CMD] checthy [CMD] chety otaiin [CMD] olsaly [CMD] [MIX] shedy
+- [CMD] [MIX] qokeedy [CMD] qolchey [CMD] qokeey [CMD] [MIX] qokedy [CMD] [MIX] chedy otal
+- [CMD] otchey [CMD] qokeey [CMD] qoky tol [CMD] [MIX] shedy [CMD] qokylddy
+- dain [CMD] [MIX] chedy [CMD] [MIX] qokeedy [CMD] [MIX] shckhedy [CMD] [MIX] shckhedy
+- saiin [CMD] cheeky [CMD] sheey [CMD] [MIX] qokedy [CMD] [MIX] shedy [CMD] oldy
+- [CMD] [MIX] solchedy [CMD] cheey [CMD] qody kesd [CMD] oldy
+- [CMD] [MIX] sokeedy [CMD] [MIX] qokeedy [CMD] qoky sairn
+- [CMD] [MIX] techedy [CMD] [MIX] qotchedy [CMD] [MIX] okeedy [CMD] ldy
+- ?cheol [CMD] [MIX] qokchedy [CMD] [MIX] lchedy [CMD] qokey
+- [CMD] sy saiin [CMD] sheekchy [CMD] qokey sain
+- [CMD] shky [CMD] [MIX] lchedy [MIX] dolshed [CMD] qokchy
+- saiin [CMD] cheky okeeol okain [CMD] chdy
+- sor aiin [CMD] shy [CMD] shey [CMD] [MIX] lshedy [CMD] qoky
+- sol [CMD] [MIX] lkedy [CMD] [MIX] lchedy qokol [CMD] [MIX] shedy
+- or [CMD] chey [CMD] qockhey [CMD] dairydy
+- qokain [CMD] shey kain chckhal
+- [CMD] [MIX] solchedy [CMD] [MIX] olchedy [MIX] chedaiin
+- [CMD] solkey [CMD] [MIX] lchedy qolkain dal
+- sol [INGR] 'with' [CMD] chcthdy [CMD] [MIX] lchedy [CMD] lchdy
+- daiin sheol [CMD] [MIX] chedy qotyl rar
+- skar [CMD] [MIX] shedy
+- chtorol
+- olsaiin
+- [CMD] otchdy [CMD] qokchdy [MIX] shedal
+- dal cheol lol chdal aiin
+- sol daiiin [CMD] [MIX] chedy
+- saroldal
+- [CMD] darolsy
+- [CMD] solkeey [CMD] qekey [CMD] raly [INGR] 'with'
+- solchkal cheol qotar [INGR] 'with'
+- daiin [INGR] 'with' dain [CMD] chey ldalor
+- sol rtain cthol
+
+### f83v
+
+- [CMD] poldaky dalol [CMD] [MIX] otedy chtair [CMD] [MIX] opchedy qotal [CMD] [MIX] shedy [CMD] [MIX] chepchedy [CMD] opchey
+- dol [CMD] [MIX] shedy [CMD] [MIX] qokedy [CMD] [MIX] shedy [MIX] qotedar [CMD] [MIX] checthedy [CMD] [MIX] qokedy qotal [CMD] chey dar
+- qotain [CMD] chcthy dal [CMD] [MIX] olkedy [CMD] [MIX] shedy [CMD] qotaldy qokaiin dair [CMD] [MIX] shedy [CMD] oteey
+- dain [CMD] [MIX] sheedy [CMD] oteeody [CMD] doldy [CMD] [MIX] qotedy [CMD] [MIX] qokeedy [MIX] qokedar [CMD] sheoldy qol [CMD] oly
+- qokal [CMD] [MIX] shedy qotain [CMD] [MIX] chedy [MIX] chedol doiin otaiin [CMD] [MIX] shedy [CMD] [MIX] qokeedy okaiin
+- [CMD] [MIX] chedy [CMD] qotchdy [CMD] [MIX] otalshedy sol chl ches okeol [CMD] [MIX] shedy qokol [CMD] [MIX] chedy qokal
+- [CMD] qokeey [CMD] oteey qokalol [CMD] [MIX] chedy [CMD] dy dol qokal [CMD] [MIX] olkshedy [CMD] [MIX] qokeedy qokal
+- [CMD] [MIX] rolkeedy qokaiin okaiin [MIX] ched [CMD] okchey
+- [CMD] ololary
+- [CMD] okarchy
+- [MIX] pchedas [MIX] shedas qokar [CMD] [MIX] shedal  okchdy [CMD] [MIX] qokedy okail [CMD] [MIX] shedy [CMD] qoky lsheg
+- daiin [CMD] shckhy qoeeo lldar [CMD] cheey qoal [CMD] [MIX] qokeedy olkar [CMD] [MIX] sheedy qokain olal
+- qol [CMD] chey qo [MIX] lched [CMD] qolky qokal [CMD] [MIX] chedy [CMD] [MIX] chedy daiin [CMD] chckhey cheor [INGR] 'with' lal
+- [MIX] salched qol [CMD] [MIX] shedy [CMD] [MIX] qolchedy [CMD] qolchdy qol [CMD] [MIX] rchedy cheol qokeor [CMD] sholdy
+- qotaiin cheol [CMD] shey [CMD] qokeey cheol dal cheeaiin [CMD] [MIX] olkeedy qokal [CMD] chaloly
+- daiin qokal [CMD] sheckhey [CMD] qokeey chal [CMD] qokeey qokaiin [CMD] [MIX] chedy sar al
+- qotaiin cheeol qokaiin sheol qokear [CMD] [MIX] cheedy [CMD] olcheey qokal [CMD] qokaoy
+- [CMD] [MIX] solkeedy [CMD] [MIX] qokeedy [CMD] [MIX] qokeedy saiin okaiin [CMD] [MIX] chedy [CMD] [MIX] qokeedy [CMD] [MIX] qolkeedy
+- [CMD] [MIX] qolchedy [CMD] [MIX] qolteedy [CMD] [MIX] qokeedy qokal okaiin chear [CMD] checkhy dal [CMD] checkhdy
+- [CMD] tocthey cheor olol cheol [CMD] [MIX] tedy sheckhal [CMD] sheeckhy cheal
+- [MIX] qokeed qokaiin sheolkain sheol [CMD] [MIX] olkeedy l [CMD] [MIX] shedy
+- char qokar cheolkain [CMD] shckhey qokal cheor ols
+- qol aiiin [CMD] [MIX] chckhedy sheol qokaiin [CMD] shckhy [CMD] lchey
+- [INGR] 'with' [CMD] [MIX] cheedy [CMD] [MIX] qokeedy qokain dalshal [CMD] shldy lor
+- [CMD] y [CMD] shey otechd ar okol dal [CMD] [MIX] shedy [CMD] qokaly
+- sal chear [CMD] shey qokar [CMD] [MIX] shedy qokain [CMD] ollchy
+- dsheol cheol [CMD] [MIX] shedy qokaiin [CMD] cheeky lols
+- qol shol [CMD] [MIX] cheedy qol oqo qokain [INGR] 'with' sheam
+- [INGR] 'with' cheal [CMD] [MIX] shedy [CMD] chey tal [MIX] shedal [CMD] dalshdy
+- qokaiin [CMD] [MIX] chedy qokal otal [CMD] [MIX] chedy qotals
+- [CMD] oyshey qol qokal [CMD] [MIX] chedy [CMD] qoty
+- qol olain sheol qo qokal sheol
+- [CMD] shey [CMD] opchey [CMD] cthey [CMD] olohy
+- okaiin
+- [CMD] okchdy
+
+### f84r
+
+- lmyl
+- or shekar
+- [CMD] ydy
+- [CMD] [MIX] okedy
+- [CMD] oloy
+- doiis
+- [INGR] 'with' [CMD] shy
+- [CMD] [MIX] otedy
+- lkol
+- [CMD] okolshy
+- [CMD] otoly
+- [CMD] [MIX] dshedy
+- kal [CMD] [MIX] chedy [CMD] qokeey [CMD] [MIX] otedy [CMD] [MIX] dytedy [CMD] [MIX] okeedy [MIX] olshed [MIX] opshed [CMD] [MIX] ykcsedy [CMD] [MIX] qotedy [CMD] opoly
+- tol or [CMD] sheey [CMD] chckhdy [CMD] schckhy dal [CMD] [MIX] yshedy [CMD] [MIX] otedy qol or [INGR] 'with' [CMD] [MIX] eedy [CMD] qokeey [CMD] oroly
+- [CMD] qokeey dar [CMD] [MIX] shedy [CMD] [MIX] qokedy [CMD] [MIX] qokeedy [CMD] [MIX] qokedy [CMD] [MIX] chedy okain [CMD] chey [CMD] [MIX] qokedy dar olar [CMD] dy
+- tor [CMD] [MIX] shedy [CMD] [MIX] tedy rol [INGR] 'with' cheol [CMD] [MIX] shedy [CMD] shckhy qokal [CMD] [MIX] olkedy
+- pchol cphol sol teol [CMD] [MIX] tedy [CMD] [MIX] qotedy [CMD] [MIX] qokeedy [CMD] qokeey [INGR] 'with' [CMD] [MIX] keedy [CMD] tey [CMD] [MIX] qokedy qopor [CMD] oly
+- [CMD] otchy [INGR] 'with' [CMD] [MIX] shedy [CMD] [MIX] qokedy [CMD] [MIX] shedy [CMD] [MIX] okedy [CMD] shckhy [CMD] chckhy [CMD] olchey [CMD] schey dal [CMD] chckhy ral
+- [CMD] qokey sol yqokain [CMD] qolkeey [CMD] [MIX] qotedy qokain [CMD] [MIX] shedy [CMD] [MIX] salchedy
+- pshol [CMD] pchcfhdy [CMD] [MIX] qokeedy [CMD] dy [CMD] [MIX] qokedy daiin [CMD] [MIX] shckhedy qokaiin [CMD] checthy dar [CMD] checthy am
+- qokaiin chol [CMD] cheky [CMD] okaly [CMD] chey okal [CMD] [MIX] chedy [CMD] tory [CMD] [MIX] otshedy [CMD] qokey [CMD] [MIX] lshedy
+- [CMD] qotchsdy [CMD] [MIX] ykeedy qokal [INGR] 'with' [CMD] [MIX] shedy [CMD] [MIX] qokedy [CMD] [MIX] qokeedy [CMD] [MIX] qokeedy [CMD] [MIX] chedy raiin [CMD] chey otar dar
+- dar sheor [CMD] shcthy qokeor [CMD] [MIX] qotedy [CMD] [MIX] rshedy [CMD] qolchey [CMD] oteey qol [CMD] [MIX] shedy [INGR] 'with' daiin olor
+- pol tar [CMD] [MIX] shedy [CMD] [MIX] qokedy okal [CMD] shey qokar [CMD] chckhy [CMD] otchey [CMD] [MIX] qokchedy [CMD] chey qokaiin
+- [CMD] [MIX] pchedy [CMD] [MIX] qotchedy otaiiin [CMD] chcthy [CMD] [MIX] shedy [CMD] [MIX] otedy [CMD] qoty [CMD] [MIX] qotedy [INGR] 'with' [CMD] [MIX] okedy [CMD] [MIX] otedy rom
+- qotol [CMD] shcthhy [CMD] oty dar [CMD] shcthy [CMD] schdy [CMD] [MIX] qokeedy [CMD] olkey
+- palchd [CMD] [MIX] fchedy [CMD] shcthy [CMD] olky dar opalkaiin [CMD] [MIX] oqofchedy oraiiin [CMD] ofoly [CMD] oroly
+- sor [INGR] 'with' olaiin oqol yqor or [CMD] [MIX] ckhedy [CMD] [MIX] chkedy okain [CMD] [MIX] shedy [CMD] [MIX] qokolchedy olain
+- [CMD] [MIX] qokeedy [CMD] okeey dar [CMD] [MIX] olchedy [CMD] [MIX] qsolkeedy rar [CMD] checkhy otar [CMD] [MIX] chedy [CMD] olchcthy lor
+- [CMD] dchdy [CMD] [MIX] qokedy [INGR] 'with' [CMD] chckhy [CMD] olchdy sar or [CMD] [MIX] ykeedy [CMD] chetey sain [CMD] [MIX] shedy shekam
+- ykchdar or arar [CMD] [MIX] shedy qokal daiin [CMD] [MIX] shedy [CMD] [MIX] olkedy [CMD] [MIX] qokedy [CMD] qoky [CMD] [MIX] chedy daiin
+- qotar [CMD] [MIX] ytedy [CMD] [MIX] tedy dar [CMD] [MIX] olkedy [CMD] [MIX] qotedy [CMD] shckhy chtol [CMD] [MIX] tedy dar or [CMD] oly
+- shol [CMD] tchdy [CMD] [MIX] tedy ykain [CMD] shey cheol [CMD] [MIX] ytedy [CMD] [MIX] alkedy [MIX] okedar [MIX] olkeed [INGR] 'with' [CMD] ary
+- [CMD] dshey [CMD] teey sor [INGR] 'with' [CMD] [MIX] shedy dar [CMD] aldy [MIX] otedaiin [CMD] shckhchy [CMD] chckhy daiin [CMD] aryly
+- qokal daiin dain [CMD] otey cheor air [CMD] shckhy orair oro
+- [CMD] shey dar [CMD] shey dain aiin [CMD] [MIX] shedy orol ykar [CMD] [MIX] okedy [CMD] qoky [CMD] [MIX] chedy [MIX] okedar [CMD] chey alol
+- [CMD] [MIX] qoteedy qokol [CMD] [MIX] otedy [CMD] [MIX] shedy [CMD] [MIX] qokeedy dol [INGR] 'with' dam
+- sor [CMD] olchdy [CMD] [MIX] lshedy [CMD] qokchy dol [CMD] [MIX] otedy ytchor [CMD] olky
+- [CMD] [MIX] dshedy [CMD] [MIX] sheedy [CMD] [MIX] qokedy [CMD] [MIX] chedy [CMD] [MIX] teedy [CMD] [MIX] qokeedy
+- [CMD] [MIX] qokeedy [CMD] [MIX] dkedy [CMD] [MIX] olcsedy qokal [CMD] shckhy [CMD] [MIX] olkeedy
+- [CMD] [MIX] dshedy [CMD] [MIX] oteedy qotar chekar or [CMD] [MIX] shedy saiin
+- okaiin [CMD] otchdy qokain [CMD] [MIX] csedy [CMD] qokeey [CMD] [MIX] qotedy
+- qokain [CMD] [MIX] otchedy [CMD] skeey [CMD] rcheky dol [CMD] okechy
+- [CMD] [MIX] ykedy [CMD] [MIX] qotedy [CMD] chcthy [CMD] olchcthy dar ar [CMD] osy
+- yt?yl [CMD] [MIX] chedy qokor [CMD] [MIX] shekedy [CMD] [MIX] okedy [CMD] ithhy dam
+- [CMD] [MIX] doledy [CMD] [MIX] qokedy ar aror [CMD] [MIX] okedy [CMD] [MIX] okedy
+- [CMD] otaly
+
+### f84v
+
+- [CMD] otdy dar [CMD] chdy dar oram
+- soiin [CMD] okeeey sol [CMD] okaly
+- kor [CMD] [MIX] shedy [CMD] [MIX] otedy [CMD] [MIX] qotedy [MIX] otedar cfhdorol
+- [CMD] oteey [CMD] qokeey [CMD] okey chetain [CMD] cseeky daiin al
+- [CMD] qokeey [CMD] [MIX] oteedy [CMD] [MIX] shedy [MIX] qokeed or [CMD] [MIX] okeedy [CMD] ry
+- [CMD] [MIX] ykeedy [CMD] [MIX] qoeedy [CMD] olkeey [CMD] sheky [CMD] qokeey
+- poiin [INGR] 'with' [CMD] [MIX] kedy [CMD] [MIX] okedy [CMD] qoky [CMD] [MIX] okeedy [CMD] qokey
+- [CMD] [MIX] qokedy [CMD] [MIX] okedy [CMD] [MIX] qokeedy [CMD] [MIX] okeedy [CMD] [MIX] shedy [CMD] qoky
+- cseol [CMD] qolchey [CMD] [MIX] okeedy saiin [CMD] [MIX] okeedy [CMD] [MIX] chkeedy
+- [MIX] qoteed [CMD] [MIX] otedy [CMD] [MIX] sheedy [CMD] [MIX] qokeedy [CMD] [MIX] qoeedy [CMD] [MIX] okeedy dam
+- [CMD] [MIX] csedy [CMD] [MIX] qoeedy [INGR] 'with' [CMD] cheey daiin [CMD] [MIX] chckhedy dain [CMD] dy daiin
+- qokees [CMD] [MIX] qokedy [CMD] [MIX] otedy [CMD] [MIX] shedy [CMD] [MIX] qokedy dol [CMD] [MIX] olkeedy dol [MIX] teedam
+- [MIX] shedol [CMD] [MIX] chedy [CMD] [MIX] okedy otol [CMD] [MIX] chckhedy [CMD] [MIX] qotedy [CMD] [MIX] dokedy dol [CMD] lkeey [CMD] qokydy
+- [CMD] dshey [CMD] olkchy dol [INGR] 'with' [CMD] [MIX] otedy [CMD] [MIX] okedy [CMD] [MIX] okedy [CMD] [MIX] qokedy dol dar [INGR] 'with' [CMD] [MIX] chedy sain
+- [CMD] [MIX] qokshedy [CMD] [MIX] qokeedy daiin [CMD] checthy okal [INGR] 'with' [CMD] [MIX] kedy [CMD] [MIX] chedy [CMD] [MIX] dolkedy [MIX] okedam
+- soiiin [INGR] 'with' [CMD] [MIX] chedy qol [CMD] [MIX] kedy [CMD] shey [CMD] [MIX] qokedy [CMD] qokey dol [CMD] y [INGR] 'with' [CMD] [MIX] shedy [CMD] [MIX] qokedy
+- [CMD] qokeey otol [CMD] [MIX] chedy daiin dol [CMD] [MIX] sheedy [CMD] [MIX] chedy [CMD] [MIX] okedy [CMD] rkchdy kol [CMD] kaldy
+- [CMD] dsheey [CMD] [MIX] qokeedy [CMD] [MIX] ykedy qokor [CMD] [MIX] shedy [CMD] qoky dol [CMD] shckhy qokain [INGR] 'with' [CMD] koldy
+- solkes olokar [CMD] sheky shkol qokor [CMD] chdy tal [CMD] [MIX] shedy okar [CMD] [MIX] okedy [CMD] [MIX] shedy [CMD] dy
+- [CMD] tolshy [CMD] qoky [CMD] [MIX] qokedy [CMD] [MIX] shedy [CMD] [MIX] qokeedy
+- pchol [CMD] [MIX] shedy shtal [CMD] [MIX] okedy opcholor [CMD] kchdy [CMD] [MIX] ofchedy saiin [CMD] cfheey ols
+- [CMD] oshey [CMD] [MIX] tedy okain [CMD] shey [CMD] [MIX] qokedy [CMD] kchdy [CMD] [MIX] okedy [CMD] okey [CMD] dy [CMD] [MIX] okedy [CMD] olshdy
+- [CMD] qokeey oltaiin okol [CMD] [MIX] shedy [CMD] cthy korol oror
+- [CMD] ycheey [CMD] [MIX] okeedy olkain [CMD] olchey saiin [CMD] oly
+- qokaiin okaiin olol okal [CMD] [MIX] chedy [CMD] [MIX] chedy
+- [INGR] 'with' qokar [CMD] [MIX] shedy qol [CMD] [MIX] otedy [CMD] [MIX] olchedy
+- [CMD] y or [CMD] [MIX] shedy [CMD] [MIX] qolkeedy [CMD] [MIX] olchedy olkal
+- dal [CMD] [MIX] shedy [CMD] [MIX] qokedy [CMD] [MIX] shedy dain daiin
+- soin [CMD] [MIX] shedy [CMD] qokeey daiin [CMD] [MIX] okedy [CMD] oldy
+- [CMD] qokey [INGR] 'with' [MIX] keed [CMD] [MIX] qokedy [CMD] qokey [CMD] qokeoly
+- cheel daiin otal [CMD] chdy otal chckhor [CMD] aly
+- [CMD] [MIX] qokedy [CMD] shey kal [CMD] [MIX] okedy [CMD] [MIX] yfchedy [CMD] [MIX] tedy lolor
+- [CMD] [MIX] shedy [CMD] qokey [CMD] [MIX] qokedy [CMD] chey dar [CMD] okey [CMD] okeshy [CMD] olchy
+- qokain [INGR] 'with' [CMD] [MIX] chedy [CMD] olchey s al or [CMD] chdy [CMD] dchey [CMD] okey [CMD] lchy
+- shor [INGR] 'with' okain [CMD] [MIX] shedy [INGR] 'with' [CMD] [MIX] shedy [CMD] [MIX] tolokeedy [CMD] [MIX] chedy [CMD] [MIX] okedy lol
+- [CMD] qokey sol [CMD] [MIX] kedy [CMD] okey lkain [CMD] shey shes [INGR] 'with' [CMD] [MIX] shedy [CMD] qokeey ror
+- [CMD] chckhy qokaiin [CMD] shey dain [CMD] qokeey daiin okaiin qokal dys
+- [CMD] qokchey [CMD] [MIX] qokeedy [CMD] [MIX] okedy dolor [INGR] 'with' [CMD] [MIX] chedy oteol olol
+- [CMD] [MIX] lshedy qol aiin [CMD] okey [CMD] olchey [CMD] lchey [CMD] [MIX] olshedy [CMD] shckhy [CMD] soly
+- [MIX] yteedar [CMD] olkeey [CMD] olchey [CMD] qokey [CMD] lkeoldy daiin [CMD] [MIX] olkedy ykaiin
+- sor otes dol [CMD] [MIX] kedy otol [CMD] [MIX] chedy
+- okar
+- ydairol
+- [CMD] ychckhy
+- [CMD] [MIX] dshedy
+- [CMD] okchdy
+- [CMD] solchey
+- [CMD] daisoldy
+- [CMD] darchy
+- [CMD] yskhy
+- [CMD] [MIX] ochedy

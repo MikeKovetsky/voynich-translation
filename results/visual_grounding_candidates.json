@@ -1,0 +1,107 @@
+{
+  "task": "track267_visual_alignment",
+  "status": "completed",
+  "candidates": [
+    {
+      "folio": "f41v",
+      "visual_identification": {
+        "scientific_name": "Coriandrum sativum",
+        "common_names": ["Coriander", "Coriandro", "Koliander"],
+        "confidence": "High (Bax/Visual)"
+      },
+      "text_candidates": [
+        {
+          "word": "keero!dal",
+          "line": "f41v.1",
+          "similarity_note": "First word on page. Phonetic resemblance to 'Coriandro' or 'Koliander' if 'keero'='coria'?"
+        },
+        {
+          "word": "ycheos",
+          "line": "f41v.5",
+          "similarity_note": "Means 'Tree' in current dictionary, but context 'tree sick person' might be 'Coriander for sick person'."
+        }
+      ]
+    },
+    {
+      "folio": "f3v",
+      "visual_identification": {
+        "scientific_name": "Helleborus foetidus",
+        "common_names": ["Hellebore", "Eleboro", "Nieswurz"],
+        "confidence": "High (Bax/Visual)"
+      },
+      "text_candidates": [
+        {
+          "word": "cphor",
+          "line": "f3v.1",
+          "similarity_note": "Phonetic match for 'Ebor' (Elebor). 'cph' often maps to 'f/ph/h'."
+        },
+        {
+          "word": "koaiin",
+          "line": "f3v.1",
+          "similarity_note": "Possible match for 'Kaur' (Bax hypothesis)."
+        }
+      ]
+    },
+    {
+      "folio": "f33v",
+      "visual_identification": {
+        "scientific_name": "Cichorium intybus",
+        "common_names": ["Chicory", "Cicoria", "Wegwarte"],
+        "confidence": "Medium (Blue flower, composite)"
+      },
+      "text_candidates": [
+        {
+          "word": "shkair",
+          "line": "f33v.9",
+          "similarity_note": "Strong phonetic match for 'Cicor' (Cicoria/Cichorium). Currently tagged as 'plant:scabiosa'."
+        },
+        {
+          "word": "tshdy",
+          "line": "f33v.7",
+          "similarity_note": "Ends in -dy (Latin -ium?). Starts with 'tsh' (C/Ch?)."
+        }
+      ]
+    },
+    {
+      "folio": "f1v",
+      "visual_identification": {
+        "scientific_name": "Atropa belladonna",
+        "common_names": ["Nightshade", "Belladonna", "Solanum", "Morella"],
+        "confidence": "Medium (Root mismatch)"
+      },
+      "text_candidates": [
+        {
+          "word": "kechy",
+          "line": "f1v.8",
+          "similarity_note": "Currently tagged as 'plant:atropa'. Phonetic link unknown. Maybe 'Kek'?"
+        },
+        {
+          "word": "kchsy",
+          "line": "f1v.1",
+          "similarity_note": "First word. Similar to 'kechy'."
+        }
+      ]
+    },
+    {
+      "folio": "f100r",
+      "visual_identification": {
+        "scientific_name": "Various Roots",
+        "common_names": ["Roots", "Herbs"],
+        "confidence": "Low (Multiple items)"
+      },
+      "text_candidates": [
+        {
+          "word": "ykecho",
+          "line": "f100r.14",
+          "similarity_note": "Tagged as 'plant:cyanus'. Context: 'Boil plant:cyanus'."
+        },
+        {
+          "word": "ctheol",
+          "line": "f100r.25",
+          "similarity_note": "Tagged as 'plant:smilax'."
+        }
+      ]
+    }
+  ],
+  "analysis_summary": "Strongest correlations found for Coriander (f41v) and Chicory (f33v). The word 'shkair' on f33v is a very promising candidate for 'Cicoria'. 'keero!dal' on f41v aligns with 'Coriander' if decrypted."
+}

@@ -1,0 +1,8371 @@
+{
+  "f1r": {
+    "ruler": "Pisces",
+    "score": 27,
+    "jaccard": 0.0649,
+    "shared_words": [
+      "oteos",
+      "oteey",
+      "dar",
+      "dal",
+      "chokain",
+      "cthey",
+      "dair",
+      "otaiin",
+      "otol",
+      "keey",
+      "chy",
+      "sho",
+      "oky",
+      "shoaiin",
+      "cthy",
+      "okaiin",
+      "shol",
+      "okol",
+      "chdy",
+      "sheo",
+      "chal",
+      "chotey",
+      "cthol",
+      "oteol",
+      "she",
+      "chear",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 27,
+        "jaccard": 0.0649,
+        "shared_words": [
+          "oteos",
+          "oteey",
+          "dar",
+          "dal",
+          "chokain",
+          "cthey",
+          "dair",
+          "otaiin",
+          "otol",
+          "keey",
+          "chy",
+          "sho",
+          "oky",
+          "shoaiin",
+          "cthy",
+          "okaiin",
+          "shol",
+          "okol",
+          "chdy",
+          "sheo",
+          "chal",
+          "chotey",
+          "cthol",
+          "oteol",
+          "she",
+          "chear",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 16,
+        "jaccard": 0.0565,
+        "shared_words": [
+          "okaiin",
+          "shol",
+          "chal",
+          "kol",
+          "okol",
+          "otaiin",
+          "ckhey",
+          "keey",
+          "sheo",
+          "oteey",
+          "she",
+          "sho",
+          "dar",
+          "chey",
+          "dal",
+          "kaiin"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 13,
+        "jaccard": 0.048,
+        "shared_words": [
+          "shol",
+          "oteos",
+          "okol",
+          "chdy",
+          "shckhey",
+          "otaiin",
+          "otol",
+          "chy",
+          "sheo",
+          "oteey",
+          "oky",
+          "dar",
+          "dal"
+        ]
+      }
+    ]
+  },
+  "f1v": {
+    "ruler": "Pisces",
+    "score": 21,
+    "jaccard": 0.0638,
+    "shared_words": [
+      "ckho",
+      "dar",
+      "dal",
+      "dam",
+      "cthey",
+      "chody",
+      "dair",
+      "chy",
+      "shy",
+      "otcho",
+      "cthy",
+      "choky",
+      "shol",
+      "okol",
+      "cheol",
+      "char",
+      "okal",
+      "ody",
+      "cthol",
+      "otoaiin",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 21,
+        "jaccard": 0.0638,
+        "shared_words": [
+          "ckho",
+          "dar",
+          "dal",
+          "dam",
+          "cthey",
+          "chody",
+          "dair",
+          "chy",
+          "shy",
+          "otcho",
+          "cthy",
+          "choky",
+          "shol",
+          "okol",
+          "cheol",
+          "char",
+          "okal",
+          "ody",
+          "cthol",
+          "otoaiin",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 10,
+        "jaccard": 0.051,
+        "shared_words": [
+          "shol",
+          "kol",
+          "okol",
+          "shor",
+          "cheol",
+          "char",
+          "dar",
+          "chey",
+          "dal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 9,
+        "jaccard": 0.0495,
+        "shared_words": [
+          "ody",
+          "shol",
+          "ochy",
+          "okol",
+          "chy",
+          "char",
+          "dar",
+          "dal",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f2r": {
+    "ruler": "Taurus",
+    "score": 9,
+    "jaccard": 0.0431,
+    "shared_words": [
+      "sal",
+      "shol",
+      "kol",
+      "okol",
+      "shor",
+      "sho",
+      "chey",
+      "dal",
+      "chokaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 9,
+        "jaccard": 0.0431,
+        "shared_words": [
+          "sal",
+          "shol",
+          "kol",
+          "okol",
+          "shor",
+          "sho",
+          "chey",
+          "dal",
+          "chokaiin"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 14,
+        "jaccard": 0.0402,
+        "shared_words": [
+          "cthy",
+          "sal",
+          "cthey",
+          "shol",
+          "okol",
+          "ykeey",
+          "yky",
+          "chy",
+          "chety",
+          "sho",
+          "cholaiin",
+          "chcthy",
+          "chey",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 5,
+        "jaccard": 0.0342,
+        "shared_words": [
+          "saiin",
+          "chy",
+          "sho",
+          "chey",
+          "dal"
+        ]
+      }
+    ]
+  },
+  "f2v": {
+    "ruler": "Gemini",
+    "score": 6,
+    "jaccard": 0.0508,
+    "shared_words": [
+      "otaiin",
+      "chy",
+      "cheol",
+      "sho",
+      "cheo",
+      "chees"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 6,
+        "jaccard": 0.0508,
+        "shared_words": [
+          "otaiin",
+          "chy",
+          "cheol",
+          "sho",
+          "cheo",
+          "chees"
+        ]
+      },
+      {
+        "sign": "Leo",
+        "score": 7,
+        "jaccard": 0.0479,
+        "shared_words": [
+          "shol",
+          "cheor",
+          "sho",
+          "chr",
+          "shy",
+          "otchy",
+          "chees"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 8,
+        "jaccard": 0.0437,
+        "shared_words": [
+          "shol",
+          "cholo",
+          "otaiin",
+          "otchor",
+          "cheor",
+          "cheol",
+          "sho",
+          "otchy"
+        ]
+      }
+    ]
+  },
+  "f3r": {
+    "ruler": "Taurus",
+    "score": 13,
+    "jaccard": 0.0607,
+    "shared_words": [
+      "sheol",
+      "shol",
+      "otchody",
+      "chal",
+      "okeey",
+      "okol",
+      "otchor",
+      "shor",
+      "cheol",
+      "cheor",
+      "sho",
+      "dal",
+      "otal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 13,
+        "jaccard": 0.0607,
+        "shared_words": [
+          "sheol",
+          "shol",
+          "otchody",
+          "chal",
+          "okeey",
+          "okol",
+          "otchor",
+          "shor",
+          "cheol",
+          "cheor",
+          "sho",
+          "dal",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 19,
+        "jaccard": 0.054,
+        "shared_words": [
+          "okeey",
+          "cho",
+          "dal",
+          "otal",
+          "dam",
+          "dair",
+          "cham",
+          "sho",
+          "oky",
+          "cthy",
+          "shol",
+          "okol",
+          "cheol",
+          "sam",
+          "sheol",
+          "chal",
+          "cthol",
+          "oteol",
+          "yteody"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 7,
+        "jaccard": 0.0443,
+        "shared_words": [
+          "okol",
+          "qoty",
+          "cheor",
+          "qokeey",
+          "oky",
+          "sheol",
+          "cheody"
+        ]
+      }
+    ]
+  },
+  "f3v": {
+    "ruler": "Leo",
+    "score": 8,
+    "jaccard": 0.0471,
+    "shared_words": [
+      "cthy",
+      "shol",
+      "oka",
+      "okeol",
+      "cheor",
+      "okary",
+      "yty",
+      "sho"
+    ],
+    "all_matches": [
+      {
+        "sign": "Leo",
+        "score": 8,
+        "jaccard": 0.0471,
+        "shared_words": [
+          "cthy",
+          "shol",
+          "oka",
+          "okeol",
+          "cheor",
+          "okary",
+          "yty",
+          "sho"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 7,
+        "jaccard": 0.0335,
+        "shared_words": [
+          "okchor",
+          "shol",
+          "cheor",
+          "sho",
+          "chekeol",
+          "dar",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 10,
+        "jaccard": 0.0286,
+        "shared_words": [
+          "cthy",
+          "shol",
+          "okeol",
+          "ees",
+          "otcham",
+          "sho",
+          "chear",
+          "ykchy",
+          "dar",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f4r": {
+    "ruler": "Virgo",
+    "score": 5,
+    "jaccard": 0.0368,
+    "shared_words": [
+      "choraiin",
+      "okaiin",
+      "cthey",
+      "shol",
+      "tchy"
+    ],
+    "all_matches": [
+      {
+        "sign": "Virgo",
+        "score": 5,
+        "jaccard": 0.0368,
+        "shared_words": [
+          "choraiin",
+          "okaiin",
+          "cthey",
+          "shol",
+          "tchy"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 6,
+        "jaccard": 0.0359,
+        "shared_words": [
+          "okaiin",
+          "shol",
+          "shor",
+          "sheey",
+          "chy",
+          "sheol"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 9,
+        "jaccard": 0.0276,
+        "shared_words": [
+          "cthy",
+          "okaiin",
+          "cthey",
+          "shol",
+          "cthol",
+          "chy",
+          "tchy",
+          "shy",
+          "sheol"
+        ]
+      }
+    ]
+  },
+  "f4v": {
+    "ruler": "Pisces",
+    "score": 17,
+    "jaccard": 0.0501,
+    "shared_words": [
+      "cthy",
+      "ody",
+      "cthey",
+      "sheeor",
+      "okeody",
+      "okeol",
+      "otaiin",
+      "cthol",
+      "keey",
+      "chy",
+      "sheo",
+      "sho",
+      "char",
+      "key",
+      "chcthy",
+      "otor",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 17,
+        "jaccard": 0.0501,
+        "shared_words": [
+          "cthy",
+          "ody",
+          "cthey",
+          "sheeor",
+          "okeody",
+          "okeol",
+          "otaiin",
+          "cthol",
+          "keey",
+          "chy",
+          "sheo",
+          "sho",
+          "char",
+          "key",
+          "chcthy",
+          "otor",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 10,
+        "jaccard": 0.0495,
+        "shared_words": [
+          "sheeor",
+          "shor",
+          "otaiin",
+          "keey",
+          "sheo",
+          "cheor",
+          "sho",
+          "char",
+          "otor",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 9,
+        "jaccard": 0.0479,
+        "shared_words": [
+          "ody",
+          "okeol",
+          "otaiin",
+          "sheo",
+          "chy",
+          "char",
+          "key",
+          "chcthy",
+          "otor"
+        ]
+      }
+    ]
+  },
+  "f5r": {
+    "ruler": "Leo",
+    "score": 7,
+    "jaccard": 0.0479,
+    "shared_words": [
+      "cthy",
+      "sheody",
+      "cheor",
+      "sho",
+      "otchy",
+      "okey",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Leo",
+        "score": 7,
+        "jaccard": 0.0479,
+        "shared_words": [
+          "cthy",
+          "sheody",
+          "cheor",
+          "sho",
+          "otchy",
+          "okey",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 8,
+        "jaccard": 0.0437,
+        "shared_words": [
+          "oaiin",
+          "ochey",
+          "keey",
+          "cheor",
+          "sho",
+          "otchy",
+          "otain",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 14,
+        "jaccard": 0.0436,
+        "shared_words": [
+          "cthy",
+          "cthey",
+          "chody",
+          "otol",
+          "keey",
+          "chy",
+          "kshody",
+          "cho",
+          "sho",
+          "otchy",
+          "cheo",
+          "okey",
+          "oar",
+          "chey"
+        ]
+      }
+    ]
+  },
+  "f5v": {
+    "ruler": "Taurus",
+    "score": 6,
+    "jaccard": 0.0347,
+    "shared_words": [
+      "shol",
+      "taiin",
+      "otchor",
+      "otaiin",
+      "cheor",
+      "dal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 6,
+        "jaccard": 0.0347,
+        "shared_words": [
+          "shol",
+          "taiin",
+          "otchor",
+          "otaiin",
+          "cheor",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 5,
+        "jaccard": 0.0314,
+        "shared_words": [
+          "shol",
+          "okchy",
+          "otaiin",
+          "otol",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 3,
+        "jaccard": 0.0275,
+        "shared_words": [
+          "taiin",
+          "otaiin",
+          "dal"
+        ]
+      }
+    ]
+  },
+  "f6r": {
+    "ruler": "Taurus",
+    "score": 10,
+    "jaccard": 0.051,
+    "shared_words": [
+      "chckhy",
+      "okaiin",
+      "shol",
+      "taiin",
+      "shor",
+      "otaiin",
+      "sheo",
+      "she",
+      "dar",
+      "chokaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 10,
+        "jaccard": 0.051,
+        "shared_words": [
+          "chckhy",
+          "okaiin",
+          "shol",
+          "taiin",
+          "shor",
+          "otaiin",
+          "sheo",
+          "she",
+          "dar",
+          "chokaiin"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 5,
+        "jaccard": 0.0373,
+        "shared_words": [
+          "okaiin",
+          "taiin",
+          "otaiin",
+          "chy",
+          "dar"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 12,
+        "jaccard": 0.0355,
+        "shared_words": [
+          "cthy",
+          "choky",
+          "okaiin",
+          "shol",
+          "otaiin",
+          "chy",
+          "sheo",
+          "cho",
+          "otcham",
+          "she",
+          "dar",
+          "sheor"
+        ]
+      }
+    ]
+  },
+  "f6v": {
+    "ruler": "Pisces",
+    "score": 14,
+    "jaccard": 0.039,
+    "shared_words": [
+      "cthy",
+      "okol",
+      "dair",
+      "cthol",
+      "chy",
+      "ches",
+      "okody",
+      "otchy",
+      "char",
+      "shy",
+      "chear",
+      "oty",
+      "dal",
+      "dam"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 14,
+        "jaccard": 0.039,
+        "shared_words": [
+          "cthy",
+          "okol",
+          "dair",
+          "cthol",
+          "chy",
+          "ches",
+          "okody",
+          "otchy",
+          "char",
+          "shy",
+          "chear",
+          "oty",
+          "dal",
+          "dam"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 8,
+        "jaccard": 0.0362,
+        "shared_words": [
+          "chckhy",
+          "okol",
+          "shor",
+          "otam",
+          "otchy",
+          "char",
+          "oty",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 6,
+        "jaccard": 0.0288,
+        "shared_words": [
+          "ochy",
+          "okol",
+          "chy",
+          "okody",
+          "char",
+          "dal"
+        ]
+      }
+    ]
+  },
+  "f7r": {
+    "ruler": "Taurus",
+    "score": 8,
+    "jaccard": 0.0408,
+    "shared_words": [
+      "chckhy",
+      "shol",
+      "shor",
+      "otaiin",
+      "otchor",
+      "keey",
+      "otchy",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 8,
+        "jaccard": 0.0408,
+        "shared_words": [
+          "chckhy",
+          "shol",
+          "shor",
+          "otaiin",
+          "otchor",
+          "keey",
+          "otchy",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 5,
+        "jaccard": 0.0276,
+        "shared_words": [
+          "shol",
+          "choty",
+          "shor",
+          "otaiin",
+          "sheey"
+        ]
+      },
+      {
+        "sign": "Scorpio",
+        "score": 3,
+        "jaccard": 0.0222,
+        "shared_words": [
+          "chotchy",
+          "chey",
+          "cheody"
+        ]
+      }
+    ]
+  },
+  "f7v": {
+    "ruler": "Pisces",
+    "score": 11,
+    "jaccard": 0.033,
+    "shared_words": [
+      "cthy",
+      "shol",
+      "daiir",
+      "sheodaiin",
+      "sheod",
+      "cthol",
+      "cheol",
+      "cho",
+      "sho",
+      "cheey",
+      "keeo"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 11,
+        "jaccard": 0.033,
+        "shared_words": [
+          "cthy",
+          "shol",
+          "daiir",
+          "sheodaiin",
+          "sheod",
+          "cthol",
+          "cheol",
+          "cho",
+          "sho",
+          "cheey",
+          "keeo"
+        ]
+      },
+      {
+        "sign": "Leo",
+        "score": 5,
+        "jaccard": 0.0318,
+        "shared_words": [
+          "cthy",
+          "shol",
+          "cheor",
+          "sho",
+          "cheey"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 6,
+        "jaccard": 0.0309,
+        "shared_words": [
+          "okchor",
+          "shol",
+          "cheor",
+          "cheol",
+          "sho",
+          "cheey"
+        ]
+      }
+    ]
+  },
+  "f8r": {
+    "ruler": "Taurus",
+    "score": 14,
+    "jaccard": 0.0586,
+    "shared_words": [
+      "shol",
+      "okar",
+      "chal",
+      "kol",
+      "okal",
+      "taiin",
+      "shor",
+      "sho",
+      "char",
+      "qokar",
+      "cheey",
+      "dar",
+      "chey",
+      "kaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 14,
+        "jaccard": 0.0586,
+        "shared_words": [
+          "shol",
+          "okar",
+          "chal",
+          "kol",
+          "okal",
+          "taiin",
+          "shor",
+          "sho",
+          "char",
+          "qokar",
+          "cheey",
+          "dar",
+          "chey",
+          "kaiin"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 18,
+        "jaccard": 0.0475,
+        "shared_words": [
+          "cthy",
+          "kam",
+          "cthey",
+          "okar",
+          "chal",
+          "shol",
+          "chody",
+          "chy",
+          "chotol",
+          "cham",
+          "char",
+          "sho",
+          "cheey",
+          "shy",
+          "dar",
+          "chey",
+          "okal",
+          "dam"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 8,
+        "jaccard": 0.0449,
+        "shared_words": [
+          "okar",
+          "taiin",
+          "chy",
+          "cham",
+          "sho",
+          "dar",
+          "chey",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f8v": {
+    "ruler": "Taurus",
+    "score": 13,
+    "jaccard": 0.0599,
+    "shared_words": [
+      "shol",
+      "chal",
+      "kol",
+      "okol",
+      "shor",
+      "otaiin",
+      "oteey",
+      "sho",
+      "char",
+      "dar",
+      "chey",
+      "dal",
+      "kaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 13,
+        "jaccard": 0.0599,
+        "shared_words": [
+          "shol",
+          "chal",
+          "kol",
+          "okol",
+          "shor",
+          "otaiin",
+          "oteey",
+          "sho",
+          "char",
+          "dar",
+          "chey",
+          "dal",
+          "kaiin"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 19,
+        "jaccard": 0.0535,
+        "shared_words": [
+          "oteey",
+          "cho",
+          "tchy",
+          "dar",
+          "dal",
+          "chokain",
+          "cthey",
+          "okchol",
+          "otaiin",
+          "otol",
+          "sho",
+          "oky",
+          "shol",
+          "okol",
+          "char",
+          "chal",
+          "cthol",
+          "chear",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 7,
+        "jaccard": 0.0449,
+        "shared_words": [
+          "otaiin",
+          "saiin",
+          "oteey",
+          "sho",
+          "dar",
+          "chey",
+          "dal"
+        ]
+      }
+    ]
+  },
+  "f9r": {
+    "ruler": "Gemini",
+    "score": 6,
+    "jaccard": 0.0417,
+    "shared_words": [
+      "otar",
+      "otaiin",
+      "saiin",
+      "chy",
+      "chey",
+      "dal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 6,
+        "jaccard": 0.0417,
+        "shared_words": [
+          "otar",
+          "otaiin",
+          "saiin",
+          "chy",
+          "chey",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 14,
+        "jaccard": 0.0403,
+        "shared_words": [
+          "cthy",
+          "cthey",
+          "shol",
+          "otar",
+          "chdy",
+          "otaiin",
+          "chy",
+          "cho",
+          "tchy",
+          "shy",
+          "chey",
+          "choly",
+          "dal",
+          "okchody"
+        ]
+      },
+      {
+        "sign": "Virgo",
+        "score": 6,
+        "jaccard": 0.0373,
+        "shared_words": [
+          "dchy",
+          "shol",
+          "cthey",
+          "otaiin",
+          "oraiin",
+          "tchy"
+        ]
+      }
+    ]
+  },
+  "f9v": {
+    "ruler": "Taurus",
+    "score": 8,
+    "jaccard": 0.0396,
+    "shared_words": [
+      "shol",
+      "ytey",
+      "shor",
+      "otaiin",
+      "otchy",
+      "oty",
+      "otal",
+      "kaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 8,
+        "jaccard": 0.0396,
+        "shared_words": [
+          "shol",
+          "ytey",
+          "shor",
+          "otaiin",
+          "otchy",
+          "oty",
+          "otal",
+          "kaiin"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 13,
+        "jaccard": 0.0381,
+        "shared_words": [
+          "cthy",
+          "daim",
+          "shol",
+          "chody",
+          "otaiin",
+          "otol",
+          "yky",
+          "chy",
+          "otchy",
+          "tchy",
+          "oky",
+          "oty",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 7,
+        "jaccard": 0.0372,
+        "shared_words": [
+          "shol",
+          "daly",
+          "otaiin",
+          "otol",
+          "chy",
+          "oky",
+          "otal"
+        ]
+      }
+    ]
+  },
+  "f10r": {
+    "ruler": "Aries",
+    "score": 8,
+    "jaccard": 0.0423,
+    "shared_words": [
+      "ody",
+      "oky",
+      "otol",
+      "chy",
+      "char",
+      "chcthy",
+      "otor",
+      "dar"
+    ],
+    "all_matches": [
+      {
+        "sign": "Aries",
+        "score": 8,
+        "jaccard": 0.0423,
+        "shared_words": [
+          "ody",
+          "oky",
+          "otol",
+          "chy",
+          "char",
+          "chcthy",
+          "otor",
+          "dar"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 6,
+        "jaccard": 0.0417,
+        "shared_words": [
+          "chy",
+          "qoty",
+          "chodaiin",
+          "tchol",
+          "oky",
+          "oty"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 14,
+        "jaccard": 0.0409,
+        "shared_words": [
+          "cthy",
+          "ody",
+          "otar",
+          "chcthy",
+          "dair",
+          "otol",
+          "chy",
+          "otchy",
+          "char",
+          "shy",
+          "oky",
+          "otor",
+          "dar",
+          "oty"
+        ]
+      }
+    ]
+  },
+  "f10v": {
+    "ruler": "Sagittarius",
+    "score": 4,
+    "jaccard": 0.0345,
+    "shared_words": [
+      "chy",
+      "chodaiin",
+      "oty",
+      "qoty"
+    ],
+    "all_matches": [
+      {
+        "sign": "Sagittarius",
+        "score": 4,
+        "jaccard": 0.0345,
+        "shared_words": [
+          "chy",
+          "chodaiin",
+          "oty",
+          "qoty"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 5,
+        "jaccard": 0.0282,
+        "shared_words": [
+          "ytey",
+          "sheo",
+          "cheky",
+          "sho",
+          "oty"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 4,
+        "jaccard": 0.025,
+        "shared_words": [
+          "cheky",
+          "sho",
+          "chy",
+          "ykeey"
+        ]
+      }
+    ]
+  },
+  "f11r": {
+    "ruler": "Sagittarius",
+    "score": 4,
+    "jaccard": 0.0342,
+    "shared_words": [
+      "choty",
+      "tchol",
+      "chy",
+      "qoty"
+    ],
+    "all_matches": [
+      {
+        "sign": "Sagittarius",
+        "score": 4,
+        "jaccard": 0.0342,
+        "shared_words": [
+          "choty",
+          "tchol",
+          "chy",
+          "qoty"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 6,
+        "jaccard": 0.0187,
+        "shared_words": [
+          "cthy",
+          "okchol",
+          "chody",
+          "otol",
+          "dair",
+          "chy"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 3,
+        "jaccard": 0.0185,
+        "shared_words": [
+          "choty",
+          "shor",
+          "chy"
+        ]
+      }
+    ]
+  },
+  "f11v": {
+    "ruler": "Virgo",
+    "score": 4,
+    "jaccard": 0.0299,
+    "shared_words": [
+      "dchy",
+      "shol",
+      "cthey",
+      "tchy"
+    ],
+    "all_matches": [
+      {
+        "sign": "Virgo",
+        "score": 4,
+        "jaccard": 0.0299,
+        "shared_words": [
+          "dchy",
+          "shol",
+          "cthey",
+          "tchy"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 7,
+        "jaccard": 0.0215,
+        "shared_words": [
+          "cthey",
+          "shol",
+          "shy",
+          "tchy",
+          "oky",
+          "ykchy",
+          "dam"
+        ]
+      },
+      {
+        "sign": "Leo",
+        "score": 3,
+        "jaccard": 0.0204,
+        "shared_words": [
+          "shol",
+          "shy",
+          "oky"
+        ]
+      }
+    ]
+  },
+  "f13r": {
+    "ruler": "Taurus",
+    "score": 6,
+    "jaccard": 0.0305,
+    "shared_words": [
+      "chckhy",
+      "okchor",
+      "shol",
+      "otchor",
+      "ydal",
+      "dar"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 6,
+        "jaccard": 0.0305,
+        "shared_words": [
+          "chckhy",
+          "okchor",
+          "shol",
+          "otchor",
+          "ydal",
+          "dar"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 4,
+        "jaccard": 0.0221,
+        "shared_words": [
+          "oeees",
+          "shol",
+          "oiin",
+          "ykoly"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 3,
+        "jaccard": 0.0162,
+        "shared_words": [
+          "okchy",
+          "dar",
+          "shol"
+        ]
+      }
+    ]
+  },
+  "f13v": {
+    "ruler": "Taurus",
+    "score": 12,
+    "jaccard": 0.0642,
+    "shared_words": [
+      "ytal",
+      "oaiin",
+      "shol",
+      "shor",
+      "sho",
+      "otchy",
+      "chey",
+      "olcphy",
+      "oty",
+      "dal",
+      "otal",
+      "okal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 12,
+        "jaccard": 0.0642,
+        "shared_words": [
+          "ytal",
+          "oaiin",
+          "shol",
+          "shor",
+          "sho",
+          "otchy",
+          "chey",
+          "olcphy",
+          "oty",
+          "dal",
+          "otal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 6,
+        "jaccard": 0.0476,
+        "shared_words": [
+          "chy",
+          "sho",
+          "chey",
+          "dal",
+          "otal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 15,
+        "jaccard": 0.0457,
+        "shared_words": [
+          "shol",
+          "okchy",
+          "tal",
+          "otol",
+          "oko",
+          "chodal",
+          "chy",
+          "cho",
+          "sho",
+          "otchy",
+          "chey",
+          "oty",
+          "dal",
+          "otal",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f14r": {
+    "ruler": "Taurus",
+    "score": 10,
+    "jaccard": 0.0515,
+    "shared_words": [
+      "chckhy",
+      "otchody",
+      "kol",
+      "okol",
+      "shor",
+      "cheor",
+      "sho",
+      "koiin",
+      "dar",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 10,
+        "jaccard": 0.0515,
+        "shared_words": [
+          "chckhy",
+          "otchody",
+          "kol",
+          "okol",
+          "shor",
+          "cheor",
+          "sho",
+          "koiin",
+          "dar",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 6,
+        "jaccard": 0.0441,
+        "shared_words": [
+          "okol",
+          "ykeody",
+          "qoty",
+          "chy",
+          "cheor",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 12,
+        "jaccard": 0.0357,
+        "shared_words": [
+          "okol",
+          "okchy",
+          "chody",
+          "ykeey",
+          "ykeody",
+          "chy",
+          "sho",
+          "tchy",
+          "shy",
+          "chey",
+          "dar",
+          "otcho"
+        ]
+      }
+    ]
+  },
+  "f14v": {
+    "ruler": "Taurus",
+    "score": 8,
+    "jaccard": 0.0419,
+    "shared_words": [
+      "chckhy",
+      "okchor",
+      "kol",
+      "shor",
+      "chokshor",
+      "otchy",
+      "oty",
+      "kaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 8,
+        "jaccard": 0.0419,
+        "shared_words": [
+          "chckhy",
+          "okchor",
+          "kol",
+          "shor",
+          "chokshor",
+          "otchy",
+          "oty",
+          "kaiin"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 13,
+        "jaccard": 0.0394,
+        "shared_words": [
+          "cthy",
+          "choky",
+          "oky",
+          "dair",
+          "yky",
+          "chy",
+          "otchy",
+          "shy",
+          "chcthy",
+          "ykchy",
+          "dshy",
+          "oty",
+          "dam"
+        ]
+      },
+      {
+        "sign": "Leo",
+        "score": 6,
+        "jaccard": 0.0387,
+        "shared_words": [
+          "cthy",
+          "yty",
+          "otchy",
+          "shy",
+          "oky",
+          "oty"
+        ]
+      }
+    ]
+  },
+  "f15r": {
+    "ruler": "Taurus",
+    "score": 9,
+    "jaccard": 0.0439,
+    "shared_words": [
+      "okaiin",
+      "sal",
+      "kol",
+      "otchor",
+      "otaiin",
+      "shor",
+      "tol",
+      "sho",
+      "kaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 9,
+        "jaccard": 0.0439,
+        "shared_words": [
+          "okaiin",
+          "sal",
+          "kol",
+          "otchor",
+          "otaiin",
+          "shor",
+          "tol",
+          "sho",
+          "kaiin"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 8,
+        "jaccard": 0.0426,
+        "shared_words": [
+          "okaiin",
+          "shor",
+          "otaiin",
+          "sheey",
+          "shocthy",
+          "chy",
+          "sho",
+          "koly"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 5,
+        "jaccard": 0.0352,
+        "shared_words": [
+          "okaiin",
+          "otaiin",
+          "saiin",
+          "chy",
+          "sho"
+        ]
+      }
+    ]
+  },
+  "f15v": {
+    "ruler": "Taurus",
+    "score": 10,
+    "jaccard": 0.0556,
+    "shared_words": [
+      "okaiin",
+      "shol",
+      "okeor",
+      "otchor",
+      "cheor",
+      "sho",
+      "otchy",
+      "dar",
+      "oty",
+      "kaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 10,
+        "jaccard": 0.0556,
+        "shared_words": [
+          "okaiin",
+          "shol",
+          "okeor",
+          "otchor",
+          "cheor",
+          "sho",
+          "otchy",
+          "dar",
+          "oty",
+          "kaiin"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 7,
+        "jaccard": 0.0424,
+        "shared_words": [
+          "okaiin",
+          "shol",
+          "choty",
+          "chy",
+          "cheor",
+          "sho",
+          "oiin"
+        ]
+      },
+      {
+        "sign": "Leo",
+        "score": 6,
+        "jaccard": 0.0411,
+        "shared_words": [
+          "cthy",
+          "shol",
+          "cheor",
+          "sho",
+          "otchy",
+          "oty"
+        ]
+      }
+    ]
+  },
+  "f16r": {
+    "ruler": "Aries",
+    "score": 9,
+    "jaccard": 0.0484,
+    "shared_words": [
+      "sheal",
+      "ody",
+      "okchy",
+      "daly",
+      "otol",
+      "chy",
+      "dal",
+      "chs",
+      "okal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Aries",
+        "score": 9,
+        "jaccard": 0.0484,
+        "shared_words": [
+          "sheal",
+          "ody",
+          "okchy",
+          "daly",
+          "otol",
+          "chy",
+          "dal",
+          "chs",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 6,
+        "jaccard": 0.0438,
+        "shared_words": [
+          "saiin",
+          "chy",
+          "sho",
+          "dal",
+          "chs",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 8,
+        "jaccard": 0.0435,
+        "shared_words": [
+          "sheal",
+          "ody",
+          "choty",
+          "oeees",
+          "shor",
+          "shocthy",
+          "chy",
+          "sho"
+        ]
+      }
+    ]
+  },
+  "f16v": {
+    "ruler": "Taurus",
+    "score": 8,
+    "jaccard": 0.0417,
+    "shared_words": [
+      "chckhy",
+      "okaiin",
+      "otchor",
+      "char",
+      "otain",
+      "otor",
+      "oty",
+      "dal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 8,
+        "jaccard": 0.0417,
+        "shared_words": [
+          "chckhy",
+          "okaiin",
+          "otchor",
+          "char",
+          "otain",
+          "otor",
+          "oty",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 13,
+        "jaccard": 0.0393,
+        "shared_words": [
+          "cthy",
+          "okaiin",
+          "chody",
+          "yky",
+          "chy",
+          "char",
+          "otor",
+          "chcthy",
+          "ykchy",
+          "dshy",
+          "oty",
+          "dal",
+          "chotol"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 4,
+        "jaccard": 0.031,
+        "shared_words": [
+          "saiin",
+          "okaiin",
+          "dal",
+          "chy"
+        ]
+      }
+    ]
+  },
+  "f17r": {
+    "ruler": "Pisces",
+    "score": 12,
+    "jaccard": 0.0344,
+    "shared_words": [
+      "cthy",
+      "okaiin",
+      "cthey",
+      "shol",
+      "dair",
+      "chy",
+      "cho",
+      "sho",
+      "otchy",
+      "chear",
+      "ykchy",
+      "dar"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 12,
+        "jaccard": 0.0344,
+        "shared_words": [
+          "cthy",
+          "okaiin",
+          "cthey",
+          "shol",
+          "dair",
+          "chy",
+          "cho",
+          "sho",
+          "otchy",
+          "chear",
+          "ykchy",
+          "dar"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 7,
+        "jaccard": 0.0333,
+        "shared_words": [
+          "chckhy",
+          "okaiin",
+          "shol",
+          "shor",
+          "sho",
+          "otchy",
+          "dar"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 6,
+        "jaccard": 0.0311,
+        "shared_words": [
+          "okaiin",
+          "shol",
+          "shor",
+          "chy",
+          "olaiin",
+          "sho"
+        ]
+      }
+    ]
+  },
+  "f17v": {
+    "ruler": "Taurus",
+    "score": 19,
+    "jaccard": 0.0848,
+    "shared_words": [
+      "okeey",
+      "okeor",
+      "cheor",
+      "dar",
+      "dal",
+      "otaiin",
+      "sho",
+      "okaiin",
+      "shol",
+      "okol",
+      "taiin",
+      "char",
+      "cheey",
+      "sheol",
+      "okal",
+      "okar",
+      "she",
+      "otor",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 19,
+        "jaccard": 0.0848,
+        "shared_words": [
+          "okeey",
+          "okeor",
+          "cheor",
+          "dar",
+          "dal",
+          "otaiin",
+          "sho",
+          "okaiin",
+          "shol",
+          "okol",
+          "taiin",
+          "char",
+          "cheey",
+          "sheol",
+          "okal",
+          "okar",
+          "she",
+          "otor",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 16,
+        "jaccard": 0.0766,
+        "shared_words": [
+          "cheeor",
+          "okeeey",
+          "olol",
+          "shol",
+          "okar",
+          "okaiin",
+          "sheol",
+          "okeeol",
+          "otaiin",
+          "ykeey",
+          "cheor",
+          "sho",
+          "cheo",
+          "cheey",
+          "oteol",
+          "sar"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 12,
+        "jaccard": 0.0732,
+        "shared_words": [
+          "okaiin",
+          "okar",
+          "okeey",
+          "taiin",
+          "okeol",
+          "otaiin",
+          "sho",
+          "cheo",
+          "dar",
+          "chey",
+          "dal",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f18r": {
+    "ruler": "Taurus",
+    "score": 7,
+    "jaccard": 0.0357,
+    "shared_words": [
+      "chckhy",
+      "okeor",
+      "shor",
+      "dar",
+      "chey",
+      "dal",
+      "okal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 7,
+        "jaccard": 0.0357,
+        "shared_words": [
+          "chckhy",
+          "okeor",
+          "shor",
+          "dar",
+          "chey",
+          "dal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 4,
+        "jaccard": 0.0303,
+        "shared_words": [
+          "dar",
+          "chey",
+          "dal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 8,
+        "jaccard": 0.0236,
+        "shared_words": [
+          "cthy",
+          "dair",
+          "cthol",
+          "chcthy",
+          "dar",
+          "chey",
+          "dal",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f18v": {
+    "ruler": "Pisces",
+    "score": 9,
+    "jaccard": 0.0269,
+    "shared_words": [
+      "daiir",
+      "dair",
+      "chy",
+      "otchy",
+      "shy",
+      "dchal",
+      "ykchy",
+      "dshy",
+      "dar"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 9,
+        "jaccard": 0.0269,
+        "shared_words": [
+          "daiir",
+          "dair",
+          "chy",
+          "otchy",
+          "shy",
+          "dchal",
+          "ykchy",
+          "dshy",
+          "dar"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 5,
+        "jaccard": 0.0256,
+        "shared_words": [
+          "oaiin",
+          "otchdal",
+          "okchor",
+          "otchy",
+          "dar"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 2,
+        "jaccard": 0.0153,
+        "shared_words": [
+          "dar",
+          "chy"
+        ]
+      }
+    ]
+  },
+  "f19r": {
+    "ruler": "Taurus",
+    "score": 5,
+    "jaccard": 0.027,
+    "shared_words": [
+      "chckhy",
+      "shor",
+      "otchy",
+      "dar",
+      "dal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 5,
+        "jaccard": 0.027,
+        "shared_words": [
+          "chckhy",
+          "shor",
+          "otchy",
+          "dar",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 8,
+        "jaccard": 0.0245,
+        "shared_words": [
+          "yky",
+          "cho",
+          "otchy",
+          "tchy",
+          "shy",
+          "dshy",
+          "dar",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 2,
+        "jaccard": 0.0165,
+        "shared_words": [
+          "dar",
+          "dal"
+        ]
+      }
+    ]
+  },
+  "f19v": {
+    "ruler": "Taurus",
+    "score": 8,
+    "jaccard": 0.0406,
+    "shared_words": [
+      "okchor",
+      "otam",
+      "otaiin",
+      "otchy",
+      "dar",
+      "oty",
+      "ytal",
+      "teey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 8,
+        "jaccard": 0.0406,
+        "shared_words": [
+          "okchor",
+          "otam",
+          "otaiin",
+          "otchy",
+          "dar",
+          "oty",
+          "ytal",
+          "teey"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 11,
+        "jaccard": 0.0325,
+        "shared_words": [
+          "oky",
+          "cthol",
+          "otaiin",
+          "otch",
+          "ytar",
+          "otchy",
+          "shy",
+          "chcthy",
+          "ykchy",
+          "dar",
+          "oty"
+        ]
+      },
+      {
+        "sign": "Leo",
+        "score": 5,
+        "jaccard": 0.0309,
+        "shared_words": [
+          "otchy",
+          "shy",
+          "oky",
+          "oty",
+          "teey"
+        ]
+      }
+    ]
+  },
+  "f20r": {
+    "ruler": "Gemini",
+    "score": 9,
+    "jaccard": 0.0634,
+    "shared_words": [
+      "otchey",
+      "otaiin",
+      "qoteeody",
+      "chy",
+      "sho",
+      "cheo",
+      "dar",
+      "chey",
+      "dal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 9,
+        "jaccard": 0.0634,
+        "shared_words": [
+          "otchey",
+          "otaiin",
+          "qoteeody",
+          "chy",
+          "sho",
+          "cheo",
+          "dar",
+          "chey",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 11,
+        "jaccard": 0.0531,
+        "shared_words": [
+          "okchor",
+          "ochol",
+          "shol",
+          "otaiin",
+          "sho",
+          "otchy",
+          "cheey",
+          "dar",
+          "chey",
+          "dal",
+          "teey"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 18,
+        "jaccard": 0.0523,
+        "shared_words": [
+          "choky",
+          "ody",
+          "cthey",
+          "shol",
+          "otchey",
+          "otol",
+          "otaiin",
+          "chy",
+          "cho",
+          "sho",
+          "otchy",
+          "tchy",
+          "cheey",
+          "cheo",
+          "dar",
+          "chey",
+          "dal",
+          "chotol"
+        ]
+      }
+    ]
+  },
+  "f20v": {
+    "ruler": "Pisces",
+    "score": 20,
+    "jaccard": 0.0604,
+    "shared_words": [
+      "keody",
+      "cho",
+      "sos",
+      "ykchy",
+      "dar",
+      "oty",
+      "okchy",
+      "otol",
+      "chy",
+      "sho",
+      "shy",
+      "chcthy",
+      "cthy",
+      "shol",
+      "cheol",
+      "tol",
+      "char",
+      "otchy",
+      "otor",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 20,
+        "jaccard": 0.0604,
+        "shared_words": [
+          "keody",
+          "cho",
+          "sos",
+          "ykchy",
+          "dar",
+          "oty",
+          "okchy",
+          "otol",
+          "chy",
+          "sho",
+          "shy",
+          "chcthy",
+          "cthy",
+          "shol",
+          "cheol",
+          "tol",
+          "char",
+          "otchy",
+          "otor",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 10,
+        "jaccard": 0.0549,
+        "shared_words": [
+          "shol",
+          "keody",
+          "okchy",
+          "otol",
+          "tey",
+          "chy",
+          "char",
+          "chcthy",
+          "otor",
+          "dar"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 10,
+        "jaccard": 0.0508,
+        "shared_words": [
+          "shol",
+          "cheol",
+          "tol",
+          "sho",
+          "char",
+          "otchy",
+          "chey",
+          "otor",
+          "dar",
+          "oty"
+        ]
+      }
+    ]
+  },
+  "f21r": {
+    "ruler": "Pisces",
+    "score": 20,
+    "jaccard": 0.0583,
+    "shared_words": [
+      "oteos",
+      "cho",
+      "oty",
+      "otaiin",
+      "otol",
+      "keey",
+      "chy",
+      "sho",
+      "shy",
+      "chcthy",
+      "oky",
+      "cthy",
+      "okaiin",
+      "shol",
+      "ykeey",
+      "tol",
+      "cheol",
+      "ctheey",
+      "otor",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 20,
+        "jaccard": 0.0583,
+        "shared_words": [
+          "oteos",
+          "cho",
+          "oty",
+          "otaiin",
+          "otol",
+          "keey",
+          "chy",
+          "sho",
+          "shy",
+          "chcthy",
+          "oky",
+          "cthy",
+          "okaiin",
+          "shol",
+          "ykeey",
+          "tol",
+          "cheol",
+          "ctheey",
+          "otor",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 12,
+        "jaccard": 0.058,
+        "shared_words": [
+          "okaiin",
+          "shol",
+          "kol",
+          "otaiin",
+          "keey",
+          "cheor",
+          "tol",
+          "cheol",
+          "sho",
+          "chey",
+          "otor",
+          "oty"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 8,
+        "jaccard": 0.0556,
+        "shared_words": [
+          "okaiin",
+          "oteos",
+          "otaiin",
+          "saiin",
+          "chy",
+          "cheol",
+          "sho",
+          "chey"
+        ]
+      }
+    ]
+  },
+  "f21v": {
+    "ruler": "Sagittarius",
+    "score": 4,
+    "jaccard": 0.0331,
+    "shared_words": [
+      "choty",
+      "tchol",
+      "chodaiin",
+      "oky"
+    ],
+    "all_matches": [
+      {
+        "sign": "Sagittarius",
+        "score": 4,
+        "jaccard": 0.0331,
+        "shared_words": [
+          "choty",
+          "tchol",
+          "chodaiin",
+          "oky"
+        ]
+      },
+      {
+        "sign": "Leo",
+        "score": 4,
+        "jaccard": 0.0276,
+        "shared_words": [
+          "cthy",
+          "otchy",
+          "sho",
+          "oky"
+        ]
+      },
+      {
+        "sign": "Scorpio",
+        "score": 3,
+        "jaccard": 0.0254,
+        "shared_words": [
+          "chotchy",
+          "dal",
+          "oky"
+        ]
+      }
+    ]
+  },
+  "f22r": {
+    "ruler": "Leo",
+    "score": 8,
+    "jaccard": 0.0462,
+    "shared_words": [
+      "cthy",
+      "shol",
+      "chey",
+      "okoly",
+      "yty",
+      "otchy",
+      "oky",
+      "oty"
+    ],
+    "all_matches": [
+      {
+        "sign": "Leo",
+        "score": 8,
+        "jaccard": 0.0462,
+        "shared_words": [
+          "cthy",
+          "shol",
+          "chey",
+          "okoly",
+          "yty",
+          "otchy",
+          "oky",
+          "oty"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 6,
+        "jaccard": 0.0303,
+        "shared_words": [
+          "shol",
+          "okoly",
+          "okchy",
+          "otaiin",
+          "oky",
+          "dar"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 10,
+        "jaccard": 0.0283,
+        "shared_words": [
+          "cthy",
+          "shol",
+          "chey",
+          "okchy",
+          "cthol",
+          "otaiin",
+          "otchy",
+          "oky",
+          "dar",
+          "oty"
+        ]
+      }
+    ]
+  },
+  "f22v": {
+    "ruler": "Leo",
+    "score": 7,
+    "jaccard": 0.0446,
+    "shared_words": [
+      "cthy",
+      "shol",
+      "sho",
+      "otchy",
+      "shy",
+      "oky",
+      "oty"
+    ],
+    "all_matches": [
+      {
+        "sign": "Leo",
+        "score": 7,
+        "jaccard": 0.0446,
+        "shared_words": [
+          "cthy",
+          "shol",
+          "sho",
+          "otchy",
+          "shy",
+          "oky",
+          "oty"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 5,
+        "jaccard": 0.0385,
+        "shared_words": [
+          "otam",
+          "otaiin",
+          "saiin",
+          "chy",
+          "sho"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 7,
+        "jaccard": 0.0359,
+        "shared_words": [
+          "shol",
+          "otam",
+          "otaiin",
+          "sho",
+          "otchy",
+          "oty",
+          "ytal"
+        ]
+      }
+    ]
+  },
+  "f23r": {
+    "ruler": "Pisces",
+    "score": 18,
+    "jaccard": 0.0523,
+    "shared_words": [
+      "okchol",
+      "okaiin",
+      "okar",
+      "daiir",
+      "chal",
+      "okol",
+      "okchy",
+      "dair",
+      "yky",
+      "chy",
+      "otchy",
+      "char",
+      "shy",
+      "ykchy",
+      "dar",
+      "oty",
+      "dal",
+      "dam"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 18,
+        "jaccard": 0.0523,
+        "shared_words": [
+          "okchol",
+          "okaiin",
+          "okar",
+          "daiir",
+          "chal",
+          "okol",
+          "okchy",
+          "dair",
+          "yky",
+          "chy",
+          "otchy",
+          "char",
+          "shy",
+          "ykchy",
+          "dar",
+          "oty",
+          "dal",
+          "dam"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 10,
+        "jaccard": 0.0481,
+        "shared_words": [
+          "okaiin",
+          "okar",
+          "chal",
+          "okol",
+          "otchy",
+          "char",
+          "dar",
+          "oty",
+          "dal",
+          "kaiin"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 5,
+        "jaccard": 0.0342,
+        "shared_words": [
+          "okaiin",
+          "okar",
+          "chy",
+          "dar",
+          "dal"
+        ]
+      }
+    ]
+  },
+  "f23v": {
+    "ruler": "Gemini",
+    "score": 8,
+    "jaccard": 0.0576,
+    "shared_words": [
+      "okaiin",
+      "okal",
+      "okeol",
+      "chy",
+      "sho",
+      "dar",
+      "dal",
+      "chees"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 8,
+        "jaccard": 0.0576,
+        "shared_words": [
+          "okaiin",
+          "okal",
+          "okeol",
+          "chy",
+          "sho",
+          "dar",
+          "dal",
+          "chees"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 11,
+        "jaccard": 0.0542,
+        "shared_words": [
+          "okaiin",
+          "shol",
+          "chal",
+          "okol",
+          "otchor",
+          "shor",
+          "sho",
+          "otor",
+          "dar",
+          "dal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 10,
+        "jaccard": 0.0529,
+        "shared_words": [
+          "shol",
+          "okal",
+          "okol",
+          "okeol",
+          "otol",
+          "chy",
+          "otor",
+          "dar",
+          "dal",
+          "chees"
+        ]
+      }
+    ]
+  },
+  "f24r": {
+    "ruler": "Taurus",
+    "score": 11,
+    "jaccard": 0.0524,
+    "shared_words": [
+      "okol",
+      "otam",
+      "cheor",
+      "cheol",
+      "tol",
+      "she",
+      "char",
+      "cheey",
+      "chey",
+      "dal",
+      "otal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 11,
+        "jaccard": 0.0524,
+        "shared_words": [
+          "okol",
+          "otam",
+          "cheor",
+          "cheol",
+          "tol",
+          "she",
+          "char",
+          "cheey",
+          "chey",
+          "dal",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 7,
+        "jaccard": 0.0476,
+        "shared_words": [
+          "otam",
+          "cheol",
+          "chees",
+          "chey",
+          "dal",
+          "otal",
+          "okeal"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 9,
+        "jaccard": 0.0457,
+        "shared_words": [
+          "okol",
+          "che",
+          "char",
+          "cheey",
+          "oky",
+          "chees",
+          "dal",
+          "otal",
+          "okeal"
+        ]
+      }
+    ]
+  },
+  "f24v": {
+    "ruler": "Pisces",
+    "score": 13,
+    "jaccard": 0.0375,
+    "shared_words": [
+      "okaiin",
+      "shol",
+      "otchos",
+      "otaiir",
+      "okol",
+      "otol",
+      "ees",
+      "cheol",
+      "cho",
+      "sho",
+      "shy",
+      "chcthy",
+      "dar"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 13,
+        "jaccard": 0.0375,
+        "shared_words": [
+          "okaiin",
+          "shol",
+          "otchos",
+          "otaiir",
+          "okol",
+          "otol",
+          "ees",
+          "cheol",
+          "cho",
+          "sho",
+          "shy",
+          "chcthy",
+          "dar"
+        ]
+      },
+      {
+        "sign": "Virgo",
+        "score": 6,
+        "jaccard": 0.0375,
+        "shared_words": [
+          "okaiin",
+          "shol",
+          "otchos",
+          "otol",
+          "oraiin",
+          "cheol"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 5,
+        "jaccard": 0.0347,
+        "shared_words": [
+          "okaiin",
+          "cheol",
+          "sho",
+          "dar",
+          "okam"
+        ]
+      }
+    ]
+  },
+  "f25r": {
+    "ruler": "Gemini",
+    "score": 3,
+    "jaccard": 0.0261,
+    "shared_words": [
+      "sho",
+      "okal",
+      "chy"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 3,
+        "jaccard": 0.0261,
+        "shared_words": [
+          "sho",
+          "okal",
+          "chy"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 6,
+        "jaccard": 0.0186,
+        "shared_words": [
+          "otaiir",
+          "dair",
+          "chy",
+          "sho",
+          "otor",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 3,
+        "jaccard": 0.0183,
+        "shared_words": [
+          "sho",
+          "shocthy",
+          "chy"
+        ]
+      }
+    ]
+  },
+  "f25v": {
+    "ruler": "Pisces",
+    "score": 7,
+    "jaccard": 0.0216,
+    "shared_words": [
+      "shol",
+      "otchey",
+      "cho",
+      "sos",
+      "chkey",
+      "shy",
+      "dar"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 7,
+        "jaccard": 0.0216,
+        "shared_words": [
+          "shol",
+          "otchey",
+          "cho",
+          "sos",
+          "chkey",
+          "shy",
+          "dar"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 3,
+        "jaccard": 0.0178,
+        "shared_words": [
+          "dar",
+          "shol",
+          "ochy"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 2,
+        "jaccard": 0.0169,
+        "shared_words": [
+          "otchey",
+          "dar"
+        ]
+      }
+    ]
+  },
+  "f26r": {
+    "ruler": "Gemini",
+    "score": 5,
+    "jaccard": 0.0362,
+    "shared_words": [
+      "aldy",
+      "saiin",
+      "dar",
+      "dal",
+      "otal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 5,
+        "jaccard": 0.0362,
+        "shared_words": [
+          "aldy",
+          "saiin",
+          "dar",
+          "dal",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Scorpio",
+        "score": 5,
+        "jaccard": 0.036,
+        "shared_words": [
+          "okedy",
+          "dar",
+          "dal",
+          "otal",
+          "cheody"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 7,
+        "jaccard": 0.0345,
+        "shared_words": [
+          "chckhy",
+          "okeedy",
+          "oaiin",
+          "sheo",
+          "dar",
+          "dal",
+          "otal"
+        ]
+      }
+    ]
+  },
+  "f26v": {
+    "ruler": "Gemini",
+    "score": 8,
+    "jaccard": 0.0552,
+    "shared_words": [
+      "dar",
+      "chy",
+      "air",
+      "okeo",
+      "chees",
+      "chey",
+      "chekaiin",
+      "chs"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 8,
+        "jaccard": 0.0552,
+        "shared_words": [
+          "dar",
+          "chy",
+          "air",
+          "okeo",
+          "chees",
+          "chey",
+          "chekaiin",
+          "chs"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 8,
+        "jaccard": 0.0533,
+        "shared_words": [
+          "qoteedy",
+          "ykey",
+          "chy",
+          "air",
+          "okchdy",
+          "shedy",
+          "chey",
+          "otedy"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 7,
+        "jaccard": 0.0359,
+        "shared_words": [
+          "ory",
+          "sheey",
+          "chy",
+          "oraiin",
+          "cheky",
+          "okeo",
+          "sar"
+        ]
+      }
+    ]
+  },
+  "f27r": {
+    "ruler": "Gemini",
+    "score": 8,
+    "jaccard": 0.0615,
+    "shared_words": [
+      "chy",
+      "cham",
+      "sho",
+      "dar",
+      "chey",
+      "dal",
+      "otal",
+      "chees"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 8,
+        "jaccard": 0.0615,
+        "shared_words": [
+          "chy",
+          "cham",
+          "sho",
+          "dar",
+          "chey",
+          "dal",
+          "otal",
+          "chees"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 9,
+        "jaccard": 0.0459,
+        "shared_words": [
+          "shol",
+          "keey",
+          "sho",
+          "char",
+          "chey",
+          "dar",
+          "oty",
+          "dal",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Scorpio",
+        "score": 6,
+        "jaccard": 0.0451,
+        "shared_words": [
+          "ytchy",
+          "dar",
+          "chey",
+          "dal",
+          "otal",
+          "chees"
+        ]
+      }
+    ]
+  },
+  "f27v": {
+    "ruler": "Leo",
+    "score": 4,
+    "jaccard": 0.026,
+    "shared_words": [
+      "shol",
+      "sho",
+      "shy",
+      "otchy"
+    ],
+    "all_matches": [
+      {
+        "sign": "Leo",
+        "score": 4,
+        "jaccard": 0.026,
+        "shared_words": [
+          "shol",
+          "sho",
+          "shy",
+          "otchy"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 8,
+        "jaccard": 0.0241,
+        "shared_words": [
+          "shol",
+          "chy",
+          "cho",
+          "sho",
+          "otchy",
+          "shy",
+          "cheo",
+          "dshy"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 3,
+        "jaccard": 0.0238,
+        "shared_words": [
+          "sho",
+          "cheo",
+          "chy"
+        ]
+      }
+    ]
+  },
+  "f28r": {
+    "ruler": "Cancer",
+    "score": 8,
+    "jaccard": 0.0465,
+    "shared_words": [
+      "shol",
+      "choty",
+      "shor",
+      "otaiin",
+      "shocthy",
+      "chy",
+      "opchol",
+      "sho"
+    ],
+    "all_matches": [
+      {
+        "sign": "Cancer",
+        "score": 8,
+        "jaccard": 0.0465,
+        "shared_words": [
+          "shol",
+          "choty",
+          "shor",
+          "otaiin",
+          "shocthy",
+          "chy",
+          "opchol",
+          "sho"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 8,
+        "jaccard": 0.0421,
+        "shared_words": [
+          "shol",
+          "kol",
+          "otchor",
+          "otaiin",
+          "shor",
+          "sho",
+          "otor",
+          "dar"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 5,
+        "jaccard": 0.0397,
+        "shared_words": [
+          "otaiin",
+          "chy",
+          "sho",
+          "dar",
+          "okam"
+        ]
+      }
+    ]
+  },
+  "f28v": {
+    "ruler": "Sagittarius",
+    "score": 4,
+    "jaccard": 0.0317,
+    "shared_words": [
+      "cheor",
+      "sheol",
+      "chy",
+      "qoty"
+    ],
+    "all_matches": [
+      {
+        "sign": "Sagittarius",
+        "score": 4,
+        "jaccard": 0.0317,
+        "shared_words": [
+          "cheor",
+          "sheol",
+          "chy",
+          "qoty"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 10,
+        "jaccard": 0.0307,
+        "shared_words": [
+          "cthol",
+          "otol",
+          "chy",
+          "sho",
+          "tchy",
+          "aiir",
+          "chear",
+          "dar",
+          "choly",
+          "sheol"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 5,
+        "jaccard": 0.0296,
+        "shared_words": [
+          "shor",
+          "chy",
+          "cheor",
+          "sho",
+          "sheol"
+        ]
+      }
+    ]
+  },
+  "f29r": {
+    "ruler": "Leo",
+    "score": 9,
+    "jaccard": 0.0592,
+    "shared_words": [
+      "cthy",
+      "chey",
+      "shos",
+      "cheor",
+      "sho",
+      "shy",
+      "oky",
+      "oty",
+      "teey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Leo",
+        "score": 9,
+        "jaccard": 0.0592,
+        "shared_words": [
+          "cthy",
+          "chey",
+          "shos",
+          "cheor",
+          "sho",
+          "shy",
+          "oky",
+          "oty",
+          "teey"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 7,
+        "jaccard": 0.0538,
+        "shared_words": [
+          "chey",
+          "choty",
+          "qoty",
+          "chy",
+          "cheor",
+          "oky",
+          "oty"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 9,
+        "jaccard": 0.0523,
+        "shared_words": [
+          "choty",
+          "shear",
+          "shor",
+          "sheey",
+          "shocthy",
+          "chy",
+          "cheor",
+          "sho",
+          "teey"
+        ]
+      }
+    ]
+  },
+  "f29v": {
+    "ruler": "Gemini",
+    "score": 9,
+    "jaccard": 0.0652,
+    "shared_words": [
+      "okaiin",
+      "taiin",
+      "otchey",
+      "chy",
+      "sho",
+      "otey",
+      "dar",
+      "chey",
+      "chs"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 9,
+        "jaccard": 0.0652,
+        "shared_words": [
+          "okaiin",
+          "taiin",
+          "otchey",
+          "chy",
+          "sho",
+          "otey",
+          "dar",
+          "chey",
+          "chs"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 9,
+        "jaccard": 0.0439,
+        "shared_words": [
+          "oaiin",
+          "okaiin",
+          "taiin",
+          "shor",
+          "she",
+          "sho",
+          "otey",
+          "dar",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 15,
+        "jaccard": 0.0437,
+        "shared_words": [
+          "cthy",
+          "okaiin",
+          "otchey",
+          "cthol",
+          "otol",
+          "otody",
+          "chy",
+          "cho",
+          "sho",
+          "she",
+          "tchy",
+          "shy",
+          "otey",
+          "dar",
+          "chey"
+        ]
+      }
+    ]
+  },
+  "f30r": {
+    "ruler": "Taurus",
+    "score": 12,
+    "jaccard": 0.0574,
+    "shared_words": [
+      "shor",
+      "ckhey",
+      "keey",
+      "cheor",
+      "cheky",
+      "cheol",
+      "sho",
+      "char",
+      "she",
+      "cheey",
+      "dar",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 12,
+        "jaccard": 0.0574,
+        "shared_words": [
+          "shor",
+          "ckhey",
+          "keey",
+          "cheor",
+          "cheky",
+          "cheol",
+          "sho",
+          "char",
+          "she",
+          "cheey",
+          "dar",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 6,
+        "jaccard": 0.0405,
+        "shared_words": [
+          "saiin",
+          "cheol",
+          "sho",
+          "dar",
+          "chey",
+          "okeal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 13,
+        "jaccard": 0.0369,
+        "shared_words": [
+          "chody",
+          "keey",
+          "chear",
+          "cheol",
+          "cho",
+          "sho",
+          "char",
+          "tchy",
+          "shy",
+          "cheey",
+          "she",
+          "dar",
+          "chey"
+        ]
+      }
+    ]
+  },
+  "f30v": {
+    "ruler": "Gemini",
+    "score": 5,
+    "jaccard": 0.0403,
+    "shared_words": [
+      "otchey",
+      "chy",
+      "cheol",
+      "sho",
+      "dal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 5,
+        "jaccard": 0.0403,
+        "shared_words": [
+          "otchey",
+          "chy",
+          "cheol",
+          "sho",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 10,
+        "jaccard": 0.0303,
+        "shared_words": [
+          "otchey",
+          "dair",
+          "cthol",
+          "chy",
+          "cheol",
+          "she",
+          "sos",
+          "sho",
+          "otcheor",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 5,
+        "jaccard": 0.0262,
+        "shared_words": [
+          "shor",
+          "cheol",
+          "she",
+          "sho",
+          "dal"
+        ]
+      }
+    ]
+  },
+  "f31r": {
+    "ruler": "Taurus",
+    "score": 11,
+    "jaccard": 0.0526,
+    "shared_words": [
+      "okeedy",
+      "keey",
+      "oteor",
+      "cheol",
+      "cheky",
+      "tol",
+      "cheey",
+      "dar",
+      "chey",
+      "dal",
+      "sheol"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 11,
+        "jaccard": 0.0526,
+        "shared_words": [
+          "okeedy",
+          "keey",
+          "oteor",
+          "cheol",
+          "cheky",
+          "tol",
+          "cheey",
+          "dar",
+          "chey",
+          "dal",
+          "sheol"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 7,
+        "jaccard": 0.0479,
+        "shared_words": [
+          "okeol",
+          "saiin",
+          "chy",
+          "cheol",
+          "dar",
+          "chey",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 9,
+        "jaccard": 0.0459,
+        "shared_words": [
+          "keo",
+          "shckhey",
+          "okeol",
+          "chy",
+          "cheky",
+          "cheey",
+          "dar",
+          "chekey",
+          "dal"
+        ]
+      }
+    ]
+  },
+  "f31v": {
+    "ruler": "Scorpio",
+    "score": 13,
+    "jaccard": 0.0807,
+    "shared_words": [
+      "okedy",
+      "okeos",
+      "otar",
+      "okeody",
+      "sair",
+      "oteey",
+      "ches",
+      "chedar",
+      "oky",
+      "kar",
+      "dar",
+      "okees",
+      "cheody"
+    ],
+    "all_matches": [
+      {
+        "sign": "Scorpio",
+        "score": 13,
+        "jaccard": 0.0807,
+        "shared_words": [
+          "okedy",
+          "okeos",
+          "otar",
+          "okeody",
+          "sair",
+          "oteey",
+          "ches",
+          "chedar",
+          "oky",
+          "kar",
+          "dar",
+          "okees",
+          "cheody"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 25,
+        "jaccard": 0.0696,
+        "shared_words": [
+          "ykeeo",
+          "otar",
+          "okeey",
+          "keody",
+          "oteey",
+          "chedal",
+          "okey",
+          "dar",
+          "dair",
+          "rar",
+          "okeol",
+          "oky",
+          "oteedy",
+          "keeol",
+          "okeos",
+          "sheo",
+          "ary",
+          "okees",
+          "okal",
+          "okear",
+          "okeody",
+          "ches",
+          "ctheey",
+          "cheo",
+          "oteol"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 11,
+        "jaccard": 0.0679,
+        "shared_words": [
+          "otar",
+          "okeey",
+          "okeol",
+          "saiin",
+          "oteey",
+          "cheo",
+          "ary",
+          "dar",
+          "okam",
+          "okeo",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f32r": {
+    "ruler": "Pisces",
+    "score": 14,
+    "jaccard": 0.0419,
+    "shared_words": [
+      "cthy",
+      "sheor",
+      "otcho",
+      "dair",
+      "otol",
+      "cthol",
+      "tol",
+      "sho",
+      "tchy",
+      "shy",
+      "chey",
+      "oty",
+      "dal",
+      "dam"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 14,
+        "jaccard": 0.0419,
+        "shared_words": [
+          "cthy",
+          "sheor",
+          "otcho",
+          "dair",
+          "otol",
+          "cthol",
+          "tol",
+          "sho",
+          "tchy",
+          "shy",
+          "chey",
+          "oty",
+          "dal",
+          "dam"
+        ]
+      },
+      {
+        "sign": "Leo",
+        "score": 6,
+        "jaccard": 0.0375,
+        "shared_words": [
+          "cthy",
+          "shos",
+          "sho",
+          "shy",
+          "chey",
+          "oty"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 7,
+        "jaccard": 0.0355,
+        "shared_words": [
+          "chokeol",
+          "okchor",
+          "tol",
+          "sho",
+          "chey",
+          "oty",
+          "dal"
+        ]
+      }
+    ]
+  },
+  "f32v": {
+    "ruler": "Taurus",
+    "score": 7,
+    "jaccard": 0.0365,
+    "shared_words": [
+      "chckhy",
+      "shor",
+      "she",
+      "sho",
+      "otchy",
+      "chey",
+      "kaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 7,
+        "jaccard": 0.0365,
+        "shared_words": [
+          "chckhy",
+          "shor",
+          "she",
+          "sho",
+          "otchy",
+          "chey",
+          "kaiin"
+        ]
+      },
+      {
+        "sign": "Leo",
+        "score": 5,
+        "jaccard": 0.0321,
+        "shared_words": [
+          "sho",
+          "chr",
+          "shy",
+          "otchy",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 10,
+        "jaccard": 0.03,
+        "shared_words": [
+          "cthol",
+          "chy",
+          "cho",
+          "sho",
+          "she",
+          "shy",
+          "otchy",
+          "key",
+          "chey",
+          "shal"
+        ]
+      }
+    ]
+  },
+  "f33r": {
+    "ruler": "Gemini",
+    "score": 9,
+    "jaccard": 0.072,
+    "shared_words": [
+      "okaiin",
+      "otar",
+      "taiin",
+      "otam",
+      "otaiin",
+      "saiin",
+      "dar",
+      "otal",
+      "okal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 9,
+        "jaccard": 0.072,
+        "shared_words": [
+          "okaiin",
+          "otar",
+          "taiin",
+          "otam",
+          "otaiin",
+          "saiin",
+          "dar",
+          "otal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 13,
+        "jaccard": 0.0691,
+        "shared_words": [
+          "okaiin",
+          "otar",
+          "taiin",
+          "otam",
+          "otaiin",
+          "cheky",
+          "qokar",
+          "cheedy",
+          "cheekaiin",
+          "otor",
+          "dar",
+          "otal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 8,
+        "jaccard": 0.0449,
+        "shared_words": [
+          "ody",
+          "otaiin",
+          "cheky",
+          "otor",
+          "dar",
+          "chekey",
+          "otal",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f33v": {
+    "ruler": "Gemini",
+    "score": 11,
+    "jaccard": 0.0821,
+    "shared_words": [
+      "okaiin",
+      "okar",
+      "otam",
+      "chy",
+      "cheol",
+      "cham",
+      "chey",
+      "dar",
+      "okaly",
+      "dal",
+      "otal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 11,
+        "jaccard": 0.0821,
+        "shared_words": [
+          "okaiin",
+          "okar",
+          "otam",
+          "chy",
+          "cheol",
+          "cham",
+          "chey",
+          "dar",
+          "okaly",
+          "dal",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 13,
+        "jaccard": 0.0653,
+        "shared_words": [
+          "chckhy",
+          "okeedy",
+          "okaiin",
+          "shol",
+          "okar",
+          "otam",
+          "keey",
+          "cheol",
+          "cheky",
+          "dar",
+          "chey",
+          "dal",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 20,
+        "jaccard": 0.0595,
+        "shared_words": [
+          "dar",
+          "dal",
+          "otal",
+          "dam",
+          "cthey",
+          "okchy",
+          "chody",
+          "keey",
+          "chy",
+          "cham",
+          "oky",
+          "okaly",
+          "cthy",
+          "okaiin",
+          "shol",
+          "chdy",
+          "cheol",
+          "okar",
+          "otody",
+          "chey"
+        ]
+      }
+    ]
+  },
+  "f34r": {
+    "ruler": "Taurus",
+    "score": 15,
+    "jaccard": 0.0628,
+    "shared_words": [
+      "chckhy",
+      "okaiin",
+      "ochey",
+      "ytey",
+      "tol",
+      "cheky",
+      "cheol",
+      "kal",
+      "char",
+      "qokar",
+      "chey",
+      "dar",
+      "chetey",
+      "dal",
+      "otey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 15,
+        "jaccard": 0.0628,
+        "shared_words": [
+          "chckhy",
+          "okaiin",
+          "ochey",
+          "ytey",
+          "tol",
+          "cheky",
+          "cheol",
+          "kal",
+          "char",
+          "qokar",
+          "chey",
+          "dar",
+          "chetey",
+          "dal",
+          "otey"
+        ]
+      },
+      {
+        "sign": "Scorpio",
+        "score": 11,
+        "jaccard": 0.0621,
+        "shared_words": [
+          "okedy",
+          "chdy",
+          "sair",
+          "air",
+          "oky",
+          "shek",
+          "kar",
+          "dar",
+          "chey",
+          "dal",
+          "otey"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 23,
+        "jaccard": 0.0613,
+        "shared_words": [
+          "dar",
+          "dal",
+          "dam",
+          "chody",
+          "shy",
+          "chcthy",
+          "oky",
+          "okaly",
+          "okaiin",
+          "chdy",
+          "tol",
+          "cheol",
+          "ytar",
+          "char",
+          "aiir",
+          "otey",
+          "qokal",
+          "ody",
+          "air",
+          "oteol",
+          "kam",
+          "chey",
+          "okes"
+        ]
+      }
+    ]
+  },
+  "f34v": {
+    "ruler": "Taurus",
+    "score": 15,
+    "jaccard": 0.0688,
+    "shared_words": [
+      "chckhy",
+      "okeedy",
+      "otar",
+      "otam",
+      "tol",
+      "cheky",
+      "cheol",
+      "cheor",
+      "kal",
+      "char",
+      "qokar",
+      "otain",
+      "chey",
+      "ytal",
+      "okal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 15,
+        "jaccard": 0.0688,
+        "shared_words": [
+          "chckhy",
+          "okeedy",
+          "otar",
+          "otam",
+          "tol",
+          "cheky",
+          "cheol",
+          "cheor",
+          "kal",
+          "char",
+          "qokar",
+          "otain",
+          "chey",
+          "ytal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 10,
+        "jaccard": 0.0621,
+        "shared_words": [
+          "chdy",
+          "air",
+          "chy",
+          "okchdy",
+          "cheor",
+          "shedy",
+          "qokeey",
+          "okey",
+          "chey",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 12,
+        "jaccard": 0.0583,
+        "shared_words": [
+          "ody",
+          "shs",
+          "chdy",
+          "okchy",
+          "chy",
+          "cheky",
+          "kal",
+          "char",
+          "key",
+          "chcthy",
+          "okey",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f35r": {
+    "ruler": "Taurus",
+    "score": 11,
+    "jaccard": 0.0564,
+    "shared_words": [
+      "shol",
+      "taiin",
+      "otchor",
+      "shor",
+      "oteey",
+      "sho",
+      "char",
+      "cheey",
+      "dal",
+      "kaiin",
+      "chokaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 11,
+        "jaccard": 0.0564,
+        "shared_words": [
+          "shol",
+          "taiin",
+          "otchor",
+          "shor",
+          "oteey",
+          "sho",
+          "char",
+          "cheey",
+          "dal",
+          "kaiin",
+          "chokaiin"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 6,
+        "jaccard": 0.0451,
+        "shared_words": [
+          "taiin",
+          "aldy",
+          "chy",
+          "oteey",
+          "sho",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 8,
+        "jaccard": 0.0444,
+        "shared_words": [
+          "shol",
+          "choty",
+          "shor",
+          "chy",
+          "ckhol",
+          "oteey",
+          "sho",
+          "cheey"
+        ]
+      }
+    ]
+  },
+  "f35v": {
+    "ruler": "Gemini",
+    "score": 6,
+    "jaccard": 0.0441,
+    "shared_words": [
+      "okeey",
+      "otchey",
+      "chosar",
+      "cheol",
+      "sho",
+      "dal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 6,
+        "jaccard": 0.0441,
+        "shared_words": [
+          "okeey",
+          "otchey",
+          "chosar",
+          "cheol",
+          "sho",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 8,
+        "jaccard": 0.0398,
+        "shared_words": [
+          "oaiin",
+          "shol",
+          "kol",
+          "okeey",
+          "cheol",
+          "sho",
+          "char",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 13,
+        "jaccard": 0.0382,
+        "shared_words": [
+          "cthy",
+          "shol",
+          "okeey",
+          "okchy",
+          "otchey",
+          "cheol",
+          "cho",
+          "sho",
+          "char",
+          "shy",
+          "chear",
+          "choly",
+          "dal"
+        ]
+      }
+    ]
+  },
+  "f36r": {
+    "ruler": "Pisces",
+    "score": 9,
+    "jaccard": 0.0273,
+    "shared_words": [
+      "cthy",
+      "okaiin",
+      "okol",
+      "okchy",
+      "dair",
+      "cthol",
+      "chy",
+      "tchy",
+      "dar"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 9,
+        "jaccard": 0.0273,
+        "shared_words": [
+          "cthy",
+          "okaiin",
+          "okol",
+          "okchy",
+          "dair",
+          "cthol",
+          "chy",
+          "tchy",
+          "dar"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 3,
+        "jaccard": 0.024,
+        "shared_words": [
+          "okaiin",
+          "dar",
+          "chy"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 4,
+        "jaccard": 0.0231,
+        "shared_words": [
+          "shor",
+          "okaiin",
+          "chy",
+          "oral"
+        ]
+      }
+    ]
+  },
+  "f36v": {
+    "ruler": "Pisces",
+    "score": 16,
+    "jaccard": 0.0485,
+    "shared_words": [
+      "okaiin",
+      "otar",
+      "chckhhy",
+      "oky",
+      "cthol",
+      "otaiin",
+      "yky",
+      "chety",
+      "cho",
+      "ytar",
+      "she",
+      "tchy",
+      "chcthy",
+      "shoaiin",
+      "oty",
+      "dal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 16,
+        "jaccard": 0.0485,
+        "shared_words": [
+          "okaiin",
+          "otar",
+          "chckhhy",
+          "oky",
+          "cthol",
+          "otaiin",
+          "yky",
+          "chety",
+          "cho",
+          "ytar",
+          "she",
+          "tchy",
+          "chcthy",
+          "shoaiin",
+          "oty",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 5,
+        "jaccard": 0.037,
+        "shared_words": [
+          "dys",
+          "keol",
+          "chory",
+          "oky",
+          "oty"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 7,
+        "jaccard": 0.0359,
+        "shared_words": [
+          "okchor",
+          "okaiin",
+          "otar",
+          "otaiin",
+          "she",
+          "oty",
+          "dal"
+        ]
+      }
+    ]
+  },
+  "f37r": {
+    "ruler": "Taurus",
+    "score": 11,
+    "jaccard": 0.057,
+    "shared_words": [
+      "okchor",
+      "okaiin",
+      "shol",
+      "kol",
+      "shor",
+      "sho",
+      "koiin",
+      "chey",
+      "dar",
+      "oty",
+      "otal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 11,
+        "jaccard": 0.057,
+        "shared_words": [
+          "okchor",
+          "okaiin",
+          "shol",
+          "kol",
+          "shor",
+          "sho",
+          "koiin",
+          "chey",
+          "dar",
+          "oty",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 17,
+        "jaccard": 0.0514,
+        "shared_words": [
+          "ody",
+          "okaiin",
+          "shol",
+          "daiir",
+          "chey",
+          "otcho",
+          "chody",
+          "cthol",
+          "chy",
+          "ofchor",
+          "sho",
+          "shy",
+          "oky",
+          "dar",
+          "oty",
+          "otal",
+          "sheor"
+        ]
+      },
+      {
+        "sign": "Leo",
+        "score": 8,
+        "jaccard": 0.0506,
+        "shared_words": [
+          "shol",
+          "chey",
+          "lol",
+          "sho",
+          "shy",
+          "oky",
+          "oty",
+          "otoly"
+        ]
+      }
+    ]
+  },
+  "f37v": {
+    "ruler": "Leo",
+    "score": 4,
+    "jaccard": 0.0241,
+    "shared_words": [
+      "oty",
+      "sho",
+      "chey",
+      "shy"
+    ],
+    "all_matches": [
+      {
+        "sign": "Leo",
+        "score": 4,
+        "jaccard": 0.0241,
+        "shared_words": [
+          "oty",
+          "sho",
+          "chey",
+          "shy"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 8,
+        "jaccard": 0.0233,
+        "shared_words": [
+          "ody",
+          "oty",
+          "cthol",
+          "kshody",
+          "sho",
+          "shy",
+          "chey",
+          "qotal"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 3,
+        "jaccard": 0.0217,
+        "shared_words": [
+          "sho",
+          "saiin",
+          "chey"
+        ]
+      }
+    ]
+  },
+  "f38r": {
+    "ruler": "Gemini",
+    "score": 5,
+    "jaccard": 0.0459,
+    "shared_words": [
+      "okaiin",
+      "otaiin",
+      "chy",
+      "sho",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 5,
+        "jaccard": 0.0459,
+        "shared_words": [
+          "okaiin",
+          "otaiin",
+          "chy",
+          "sho",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Scorpio",
+        "score": 3,
+        "jaccard": 0.0268,
+        "shared_words": [
+          "chey",
+          "chockhy",
+          "oky"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 3,
+        "jaccard": 0.0259,
+        "shared_words": [
+          "chey",
+          "chy",
+          "oky"
+        ]
+      }
+    ]
+  },
+  "f38v": {
+    "ruler": "Aries",
+    "score": 8,
+    "jaccard": 0.0485,
+    "shared_words": [
+      "keo",
+      "tey",
+      "chy",
+      "char",
+      "key",
+      "oky",
+      "okey",
+      "oteeol"
+    ],
+    "all_matches": [
+      {
+        "sign": "Aries",
+        "score": 8,
+        "jaccard": 0.0485,
+        "shared_words": [
+          "keo",
+          "tey",
+          "chy",
+          "char",
+          "key",
+          "oky",
+          "okey",
+          "oteeol"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 5,
+        "jaccard": 0.0413,
+        "shared_words": [
+          "chy",
+          "qoty",
+          "qokeey",
+          "oky",
+          "okey"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 12,
+        "jaccard": 0.0375,
+        "shared_words": [
+          "okeey",
+          "chotey",
+          "dair",
+          "chody",
+          "keey",
+          "chy",
+          "oteol",
+          "sho",
+          "char",
+          "key",
+          "oky",
+          "okey"
+        ]
+      }
+    ]
+  },
+  "f39r": {
+    "ruler": "Scorpio",
+    "score": 12,
+    "jaccard": 0.0652,
+    "shared_words": [
+      "chdar",
+      "chdy",
+      "eees",
+      "ches",
+      "cheey",
+      "oky",
+      "aly",
+      "kar",
+      "dar",
+      "dal",
+      "otal",
+      "chees"
+    ],
+    "all_matches": [
+      {
+        "sign": "Scorpio",
+        "score": 12,
+        "jaccard": 0.0652,
+        "shared_words": [
+          "chdar",
+          "chdy",
+          "eees",
+          "ches",
+          "cheey",
+          "oky",
+          "aly",
+          "kar",
+          "dar",
+          "dal",
+          "otal",
+          "chees"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 24,
+        "jaccard": 0.0628,
+        "shared_words": [
+          "dar",
+          "dal",
+          "otal",
+          "dam",
+          "dair",
+          "shy",
+          "oky",
+          "shol",
+          "chdy",
+          "ykeey",
+          "yky",
+          "cheol",
+          "tol",
+          "shed",
+          "aiir",
+          "cheey",
+          "aly",
+          "sheol",
+          "okal",
+          "qokal",
+          "ches",
+          "she",
+          "oteol",
+          "cholkal"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 14,
+        "jaccard": 0.0601,
+        "shared_words": [
+          "shol",
+          "okal",
+          "chdy",
+          "shckhey",
+          "olaiin",
+          "cheky",
+          "eeedy",
+          "oky",
+          "cheey",
+          "aly",
+          "dar",
+          "dal",
+          "otal",
+          "chees"
+        ]
+      }
+    ]
+  },
+  "f39v": {
+    "ruler": "Scorpio",
+    "score": 11,
+    "jaccard": 0.0655,
+    "shared_words": [
+      "okedy",
+      "otar",
+      "chdy",
+      "air",
+      "shek",
+      "aly",
+      "otor",
+      "kar",
+      "dar",
+      "dal",
+      "otal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Scorpio",
+        "score": 11,
+        "jaccard": 0.0655,
+        "shared_words": [
+          "okedy",
+          "otar",
+          "chdy",
+          "air",
+          "shek",
+          "aly",
+          "otor",
+          "kar",
+          "dar",
+          "dal",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 14,
+        "jaccard": 0.0606,
+        "shared_words": [
+          "chckhy",
+          "okaiin",
+          "okar",
+          "otar",
+          "okeey",
+          "shor",
+          "cheor",
+          "qokar",
+          "aly",
+          "otor",
+          "dar",
+          "dal",
+          "otal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 10,
+        "jaccard": 0.0595,
+        "shared_words": [
+          "okaiin",
+          "okar",
+          "otar",
+          "okeey",
+          "saiin",
+          "air",
+          "dar",
+          "dal",
+          "otal",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f40r": {
+    "ruler": "Gemini",
+    "score": 10,
+    "jaccard": 0.073,
+    "shared_words": [
+      "okaiin",
+      "okar",
+      "taiin",
+      "saiin",
+      "okair",
+      "dar",
+      "okam",
+      "dal",
+      "chekaiin",
+      "okal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 10,
+        "jaccard": 0.073,
+        "shared_words": [
+          "okaiin",
+          "okar",
+          "taiin",
+          "saiin",
+          "okair",
+          "dar",
+          "okam",
+          "dal",
+          "chekaiin",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Scorpio",
+        "score": 7,
+        "jaccard": 0.0496,
+        "shared_words": [
+          "okedy",
+          "chdy",
+          "oky",
+          "otor",
+          "kar",
+          "dar",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 10,
+        "jaccard": 0.049,
+        "shared_words": [
+          "okaiin",
+          "okar",
+          "okol",
+          "taiin",
+          "kaiin",
+          "qokar",
+          "otor",
+          "dar",
+          "dal",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f40v": {
+    "ruler": "Gemini",
+    "score": 7,
+    "jaccard": 0.0479,
+    "shared_words": [
+      "okaiin",
+      "okar",
+      "saiin",
+      "air",
+      "okair",
+      "okam",
+      "okal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 7,
+        "jaccard": 0.0479,
+        "shared_words": [
+          "okaiin",
+          "okar",
+          "saiin",
+          "air",
+          "okair",
+          "okam",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 10,
+        "jaccard": 0.0476,
+        "shared_words": [
+          "chckhy",
+          "okaiin",
+          "shol",
+          "okar",
+          "okeor",
+          "arol",
+          "qokar",
+          "otain",
+          "okees",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 6,
+        "jaccard": 0.0395,
+        "shared_words": [
+          "chdy",
+          "air",
+          "chodaiin",
+          "oky",
+          "okees",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f41r": {
+    "ruler": "Sagittarius",
+    "score": 7,
+    "jaccard": 0.0455,
+    "shared_words": [
+      "qokeody",
+      "ykeeo",
+      "chdy",
+      "daly",
+      "yteedy",
+      "qokeey",
+      "shedy"
+    ],
+    "all_matches": [
+      {
+        "sign": "Sagittarius",
+        "score": 7,
+        "jaccard": 0.0455,
+        "shared_words": [
+          "qokeody",
+          "ykeeo",
+          "chdy",
+          "daly",
+          "yteedy",
+          "qokeey",
+          "shedy"
+        ]
+      },
+      {
+        "sign": "Scorpio",
+        "score": 6,
+        "jaccard": 0.0397,
+        "shared_words": [
+          "okedy",
+          "chdy",
+          "oteey",
+          "alshey",
+          "chees",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 7,
+        "jaccard": 0.0348,
+        "shared_words": [
+          "sal",
+          "chdy",
+          "daly",
+          "oteey",
+          "cheky",
+          "chees",
+          "otal"
+        ]
+      }
+    ]
+  },
+  "f41v": {
+    "ruler": "Sagittarius",
+    "score": 8,
+    "jaccard": 0.0611,
+    "shared_words": [
+      "qokeody",
+      "ykeeody",
+      "okeody",
+      "oteody",
+      "yteedy",
+      "okey",
+      "sheol",
+      "okal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Sagittarius",
+        "score": 8,
+        "jaccard": 0.0611,
+        "shared_words": [
+          "qokeody",
+          "ykeeody",
+          "okeody",
+          "oteody",
+          "yteedy",
+          "okey",
+          "sheol",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Virgo",
+        "score": 8,
+        "jaccard": 0.0559,
+        "shared_words": [
+          "ykeeol",
+          "okeey",
+          "okeody",
+          "cheos",
+          "yteedy",
+          "oteodar",
+          "ofchdy",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 18,
+        "jaccard": 0.055,
+        "shared_words": [
+          "sheol",
+          "oteedy",
+          "qokal",
+          "okeey",
+          "okeody",
+          "oteody",
+          "ykeey",
+          "shekey",
+          "todaiin",
+          "oteodar",
+          "oteol",
+          "okey",
+          "dar",
+          "qotal",
+          "dal",
+          "okaly",
+          "okal",
+          "dam"
+        ]
+      }
+    ]
+  },
+  "f42r": {
+    "ruler": "Taurus",
+    "score": 14,
+    "jaccard": 0.0601,
+    "shared_words": [
+      "shol",
+      "chal",
+      "okol",
+      "taiin",
+      "shor",
+      "otaiin",
+      "cheky",
+      "sho",
+      "char",
+      "qokar",
+      "dar",
+      "dal",
+      "kaiin",
+      "chokaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 14,
+        "jaccard": 0.0601,
+        "shared_words": [
+          "shol",
+          "chal",
+          "okol",
+          "taiin",
+          "shor",
+          "otaiin",
+          "cheky",
+          "sho",
+          "char",
+          "qokar",
+          "dar",
+          "dal",
+          "kaiin",
+          "chokaiin"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 21,
+        "jaccard": 0.0568,
+        "shared_words": [
+          "ckhhy",
+          "cho",
+          "chotar",
+          "dar",
+          "dal",
+          "okchol",
+          "chody",
+          "otaiin",
+          "otol",
+          "chy",
+          "cham",
+          "sho",
+          "shy",
+          "sheor",
+          "shol",
+          "okol",
+          "char",
+          "chal",
+          "cthol",
+          "chety",
+          "ctheey"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 8,
+        "jaccard": 0.0465,
+        "shared_words": [
+          "taiin",
+          "otaiin",
+          "chy",
+          "cham",
+          "sho",
+          "dar",
+          "dal",
+          "chees"
+        ]
+      }
+    ]
+  },
+  "f42v": {
+    "ruler": "Pisces",
+    "score": 22,
+    "jaccard": 0.063,
+    "shared_words": [
+      "ykchy",
+      "okey",
+      "dam",
+      "otol",
+      "chy",
+      "sho",
+      "chcthy",
+      "oky",
+      "choly",
+      "cthy",
+      "shol",
+      "okol",
+      "sheo",
+      "char",
+      "ary",
+      "chotol",
+      "otoy",
+      "key",
+      "chokey",
+      "cheo",
+      "oteol",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 22,
+        "jaccard": 0.063,
+        "shared_words": [
+          "ykchy",
+          "okey",
+          "dam",
+          "otol",
+          "chy",
+          "sho",
+          "chcthy",
+          "oky",
+          "choly",
+          "cthy",
+          "shol",
+          "okol",
+          "sheo",
+          "char",
+          "ary",
+          "chotol",
+          "otoy",
+          "key",
+          "chokey",
+          "cheo",
+          "oteol",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 11,
+        "jaccard": 0.0547,
+        "shared_words": [
+          "shol",
+          "okol",
+          "oky",
+          "otol",
+          "chy",
+          "sheo",
+          "char",
+          "key",
+          "chcthy",
+          "okey",
+          "choly"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 7,
+        "jaccard": 0.0458,
+        "shared_words": [
+          "taiin",
+          "saiin",
+          "chy",
+          "sho",
+          "cheo",
+          "ary",
+          "chey"
+        ]
+      }
+    ]
+  },
+  "f43r": {
+    "ruler": "Taurus",
+    "score": 14,
+    "jaccard": 0.0576,
+    "shared_words": [
+      "chckhy",
+      "shol",
+      "ytey",
+      "otam",
+      "otaiin",
+      "cheol",
+      "cheky",
+      "she",
+      "cheey",
+      "otey",
+      "dar",
+      "oty",
+      "dal",
+      "kaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 14,
+        "jaccard": 0.0576,
+        "shared_words": [
+          "chckhy",
+          "shol",
+          "ytey",
+          "otam",
+          "otaiin",
+          "cheol",
+          "cheky",
+          "she",
+          "cheey",
+          "otey",
+          "dar",
+          "oty",
+          "dal",
+          "kaiin"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 20,
+        "jaccard": 0.0525,
+        "shared_words": [
+          "dar",
+          "oty",
+          "dal",
+          "dam",
+          "chody",
+          "otaiin",
+          "shy",
+          "shol",
+          "chdy",
+          "cheol",
+          "shed",
+          "aiir",
+          "cheey",
+          "otey",
+          "ody",
+          "ykeody",
+          "chety",
+          "she",
+          "oteol",
+          "yteody"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 12,
+        "jaccard": 0.0522,
+        "shared_words": [
+          "ody",
+          "shol",
+          "chdy",
+          "daly",
+          "otaiin",
+          "ykeody",
+          "cheky",
+          "cheey",
+          "otey",
+          "dar",
+          "dal",
+          "cheody"
+        ]
+      }
+    ]
+  },
+  "f43v": {
+    "ruler": "Sagittarius",
+    "score": 16,
+    "jaccard": 0.086,
+    "shared_words": [
+      "okeody",
+      "choty",
+      "chdy",
+      "oteody",
+      "ykeody",
+      "air",
+      "chy",
+      "otedy",
+      "yteedy",
+      "shedy",
+      "oky",
+      "qokeey",
+      "okedal",
+      "chey",
+      "otey",
+      "cheody"
+    ],
+    "all_matches": [
+      {
+        "sign": "Sagittarius",
+        "score": 16,
+        "jaccard": 0.086,
+        "shared_words": [
+          "okeody",
+          "choty",
+          "chdy",
+          "oteody",
+          "ykeody",
+          "air",
+          "chy",
+          "otedy",
+          "yteedy",
+          "shedy",
+          "oky",
+          "qokeey",
+          "okedal",
+          "chey",
+          "otey",
+          "cheody"
+        ]
+      },
+      {
+        "sign": "Scorpio",
+        "score": 14,
+        "jaccard": 0.0761,
+        "shared_words": [
+          "okedy",
+          "oteos",
+          "okeody",
+          "chdy",
+          "air",
+          "eees",
+          "ches",
+          "oky",
+          "chees",
+          "dar",
+          "chey",
+          "okedal",
+          "otey",
+          "cheody"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 17,
+        "jaccard": 0.0733,
+        "shared_words": [
+          "ody",
+          "oteo",
+          "oteos",
+          "keody",
+          "chdy",
+          "chcthy",
+          "oteody",
+          "ykeody",
+          "chy",
+          "sheo",
+          "cheky",
+          "tar",
+          "oky",
+          "chees",
+          "dar",
+          "otey",
+          "cheody"
+        ]
+      }
+    ]
+  },
+  "f44r": {
+    "ruler": "Pisces",
+    "score": 13,
+    "jaccard": 0.0382,
+    "shared_words": [
+      "choky",
+      "shol",
+      "okchy",
+      "chody",
+      "otol",
+      "sho",
+      "otchy",
+      "shy",
+      "oky",
+      "ykchy",
+      "dar",
+      "okchody",
+      "dam"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 13,
+        "jaccard": 0.0382,
+        "shared_words": [
+          "choky",
+          "shol",
+          "okchy",
+          "chody",
+          "otol",
+          "sho",
+          "otchy",
+          "shy",
+          "oky",
+          "ykchy",
+          "dar",
+          "okchody",
+          "dam"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 7,
+        "jaccard": 0.0374,
+        "shared_words": [
+          "shol",
+          "okchy",
+          "opchey",
+          "otol",
+          "kal",
+          "oky",
+          "dar"
+        ]
+      },
+      {
+        "sign": "Leo",
+        "score": 6,
+        "jaccard": 0.0364,
+        "shared_words": [
+          "shol",
+          "yty",
+          "sho",
+          "otchy",
+          "shy",
+          "oky"
+        ]
+      }
+    ]
+  },
+  "f44v": {
+    "ruler": "Taurus",
+    "score": 13,
+    "jaccard": 0.064,
+    "shared_words": [
+      "okchor",
+      "okaiin",
+      "shol",
+      "okol",
+      "shor",
+      "keey",
+      "tol",
+      "cheol",
+      "sho",
+      "kal",
+      "otchy",
+      "oty",
+      "otal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 13,
+        "jaccard": 0.064,
+        "shared_words": [
+          "okchor",
+          "okaiin",
+          "shol",
+          "okol",
+          "shor",
+          "keey",
+          "tol",
+          "cheol",
+          "sho",
+          "kal",
+          "otchy",
+          "oty",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 19,
+        "jaccard": 0.0557,
+        "shared_words": [
+          "tchy",
+          "oty",
+          "otal",
+          "dair",
+          "otol",
+          "keey",
+          "sho",
+          "chcthy",
+          "oko",
+          "cthy",
+          "choky",
+          "okaiin",
+          "shol",
+          "okol",
+          "tol",
+          "cheol",
+          "otcheor",
+          "cthol",
+          "otchy"
+        ]
+      },
+      {
+        "sign": "Virgo",
+        "score": 6,
+        "jaccard": 0.0375,
+        "shared_words": [
+          "okaiin",
+          "shol",
+          "otol",
+          "cheol",
+          "tchy",
+          "oty"
+        ]
+      }
+    ]
+  },
+  "f45r": {
+    "ruler": "Taurus",
+    "score": 11,
+    "jaccard": 0.055,
+    "shared_words": [
+      "okaiin",
+      "kol",
+      "otar",
+      "shor",
+      "cheol",
+      "sho",
+      "char",
+      "dar",
+      "oty",
+      "dal",
+      "kaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 11,
+        "jaccard": 0.055,
+        "shared_words": [
+          "okaiin",
+          "kol",
+          "otar",
+          "shor",
+          "cheol",
+          "sho",
+          "char",
+          "dar",
+          "oty",
+          "dal",
+          "kaiin"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 7,
+        "jaccard": 0.0511,
+        "shared_words": [
+          "okaiin",
+          "otar",
+          "cheol",
+          "cham",
+          "sho",
+          "dar",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 15,
+        "jaccard": 0.0441,
+        "shared_words": [
+          "cthy",
+          "okaiin",
+          "cthey",
+          "otar",
+          "oky",
+          "ykeey",
+          "yky",
+          "cheol",
+          "cham",
+          "sho",
+          "char",
+          "chcthy",
+          "dar",
+          "oty",
+          "dal"
+        ]
+      }
+    ]
+  },
+  "f45v": {
+    "ruler": "Pisces",
+    "score": 16,
+    "jaccard": 0.0475,
+    "shared_words": [
+      "cthy",
+      "okchol",
+      "chey",
+      "okol",
+      "okchy",
+      "dair",
+      "chy",
+      "cheol",
+      "sho",
+      "otor",
+      "shy",
+      "oky",
+      "ykchy",
+      "dshy",
+      "dar",
+      "oty"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 16,
+        "jaccard": 0.0475,
+        "shared_words": [
+          "cthy",
+          "okchol",
+          "chey",
+          "okol",
+          "okchy",
+          "dair",
+          "chy",
+          "cheol",
+          "sho",
+          "otor",
+          "shy",
+          "oky",
+          "ykchy",
+          "dshy",
+          "dar",
+          "oty"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 9,
+        "jaccard": 0.045,
+        "shared_words": [
+          "kol",
+          "okol",
+          "shor",
+          "cheol",
+          "sho",
+          "chey",
+          "otor",
+          "dar",
+          "oty"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 5,
+        "jaccard": 0.0365,
+        "shared_words": [
+          "chy",
+          "cheol",
+          "sho",
+          "dar",
+          "chey"
+        ]
+      }
+    ]
+  },
+  "f46r": {
+    "ruler": "Taurus",
+    "score": 17,
+    "jaccard": 0.07,
+    "shared_words": [
+      "chckhy",
+      "okeedy",
+      "shol",
+      "okeey",
+      "ytey",
+      "shor",
+      "sheo",
+      "cheol",
+      "cheor",
+      "she",
+      "kal",
+      "qokar",
+      "dar",
+      "chey",
+      "dal",
+      "sheol",
+      "okal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 17,
+        "jaccard": 0.07,
+        "shared_words": [
+          "chckhy",
+          "okeedy",
+          "shol",
+          "okeey",
+          "ytey",
+          "shor",
+          "sheo",
+          "cheol",
+          "cheor",
+          "she",
+          "kal",
+          "qokar",
+          "dar",
+          "chey",
+          "dal",
+          "sheol",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 24,
+        "jaccard": 0.0632,
+        "shared_words": [
+          "shee",
+          "okeey",
+          "ols",
+          "dar",
+          "dal",
+          "dam",
+          "chody",
+          "chy",
+          "shy",
+          "cthy",
+          "choky",
+          "shol",
+          "chcthhy",
+          "chdy",
+          "sheo",
+          "cheol",
+          "sheol",
+          "shep",
+          "okal",
+          "chkal",
+          "ches",
+          "chety",
+          "she",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 11,
+        "jaccard": 0.0588,
+        "shared_words": [
+          "okal",
+          "chdy",
+          "daly",
+          "ytaly",
+          "ykey",
+          "chy",
+          "cheor",
+          "shedy",
+          "chey",
+          "sheol",
+          "otedy"
+        ]
+      }
+    ]
+  },
+  "f46v": {
+    "ruler": "Sagittarius",
+    "score": 13,
+    "jaccard": 0.085,
+    "shared_words": [
+      "oty",
+      "okal",
+      "chdy",
+      "air",
+      "qoty",
+      "yteedy",
+      "ched",
+      "shedy",
+      "aly",
+      "okey",
+      "chey",
+      "sheol",
+      "otedy"
+    ],
+    "all_matches": [
+      {
+        "sign": "Sagittarius",
+        "score": 13,
+        "jaccard": 0.085,
+        "shared_words": [
+          "oty",
+          "okal",
+          "chdy",
+          "air",
+          "qoty",
+          "yteedy",
+          "ched",
+          "shedy",
+          "aly",
+          "okey",
+          "chey",
+          "sheol",
+          "otedy"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 25,
+        "jaccard": 0.072,
+        "shared_words": [
+          "otar",
+          "keody",
+          "chotal",
+          "okey",
+          "dar",
+          "oty",
+          "dam",
+          "dair",
+          "chody",
+          "cham",
+          "chcthy",
+          "okaly",
+          "cthy",
+          "okaiin",
+          "chdy",
+          "char",
+          "aiir",
+          "aim",
+          "aly",
+          "ched",
+          "sheol",
+          "okal",
+          "daim",
+          "air",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 9,
+        "jaccard": 0.0592,
+        "shared_words": [
+          "okaiin",
+          "otar",
+          "air",
+          "chotal",
+          "cham",
+          "dar",
+          "chey",
+          "okaly",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f47r": {
+    "ruler": "Pisces",
+    "score": 15,
+    "jaccard": 0.046,
+    "shared_words": [
+      "okaiin",
+      "cthey",
+      "shol",
+      "chdy",
+      "dair",
+      "ckhhy",
+      "chy",
+      "sho",
+      "char",
+      "shy",
+      "otchy",
+      "chey",
+      "otcho",
+      "okal",
+      "dam"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 15,
+        "jaccard": 0.046,
+        "shared_words": [
+          "okaiin",
+          "cthey",
+          "shol",
+          "chdy",
+          "dair",
+          "ckhhy",
+          "chy",
+          "sho",
+          "char",
+          "shy",
+          "otchy",
+          "chey",
+          "otcho",
+          "okal",
+          "dam"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 8,
+        "jaccard": 0.0423,
+        "shared_words": [
+          "okaiin",
+          "shol",
+          "ckhey",
+          "sho",
+          "char",
+          "otchy",
+          "chey",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 5,
+        "jaccard": 0.04,
+        "shared_words": [
+          "okaiin",
+          "chy",
+          "sho",
+          "chey",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f47v": {
+    "ruler": "Aries",
+    "score": 12,
+    "jaccard": 0.0652,
+    "shared_words": [
+      "ody",
+      "sal",
+      "shol",
+      "chdy",
+      "chy",
+      "oteey",
+      "cheky",
+      "char",
+      "key",
+      "sary",
+      "dar",
+      "otal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Aries",
+        "score": 12,
+        "jaccard": 0.0652,
+        "shared_words": [
+          "ody",
+          "sal",
+          "shol",
+          "chdy",
+          "chy",
+          "oteey",
+          "cheky",
+          "char",
+          "key",
+          "sary",
+          "dar",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 21,
+        "jaccard": 0.0629,
+        "shared_words": [
+          "oteey",
+          "cho",
+          "tchy",
+          "dar",
+          "otal",
+          "chody",
+          "dair",
+          "chy",
+          "sho",
+          "shy",
+          "cthy",
+          "shol",
+          "chdy",
+          "char",
+          "dshy",
+          "ody",
+          "sal",
+          "otchey",
+          "chety",
+          "key",
+          "oteol"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 10,
+        "jaccard": 0.0546,
+        "shared_words": [
+          "ody",
+          "shol",
+          "sheey",
+          "chy",
+          "cheor",
+          "oteey",
+          "cheky",
+          "sho",
+          "oteol",
+          "otal"
+        ]
+      }
+    ]
+  },
+  "f48r": {
+    "ruler": "Scorpio",
+    "score": 8,
+    "jaccard": 0.0523,
+    "shared_words": [
+      "okedy",
+      "okeody",
+      "kar",
+      "ches",
+      "ytchy",
+      "alshey",
+      "dal",
+      "otal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Scorpio",
+        "score": 8,
+        "jaccard": 0.0523,
+        "shared_words": [
+          "okedy",
+          "okeody",
+          "kar",
+          "ches",
+          "ytchy",
+          "alshey",
+          "dal",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 10,
+        "jaccard": 0.0503,
+        "shared_words": [
+          "ody",
+          "shol",
+          "okeody",
+          "otaiin",
+          "ykeey",
+          "olaiin",
+          "ches",
+          "oteol",
+          "otal",
+          "teey"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 10,
+        "jaccard": 0.0495,
+        "shared_words": [
+          "ody",
+          "shol",
+          "opchey",
+          "otaiin",
+          "otol",
+          "sheo",
+          "olaiin",
+          "okey",
+          "dal",
+          "otal"
+        ]
+      }
+    ]
+  },
+  "f48v": {
+    "ruler": "Gemini",
+    "score": 11,
+    "jaccard": 0.0696,
+    "shared_words": [
+      "okar",
+      "otar",
+      "okeey",
+      "taiin",
+      "otam",
+      "air",
+      "otees",
+      "kaly",
+      "chey",
+      "otal",
+      "okal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 11,
+        "jaccard": 0.0696,
+        "shared_words": [
+          "okar",
+          "otar",
+          "okeey",
+          "taiin",
+          "otam",
+          "air",
+          "otees",
+          "kaly",
+          "chey",
+          "otal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 13,
+        "jaccard": 0.0583,
+        "shared_words": [
+          "chckhy",
+          "okar",
+          "otchody",
+          "otar",
+          "okeey",
+          "taiin",
+          "otam",
+          "tol",
+          "cheky",
+          "qokar",
+          "chey",
+          "otal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 9,
+        "jaccard": 0.0545,
+        "shared_words": [
+          "okal",
+          "chdy",
+          "daly",
+          "oteody",
+          "air",
+          "yteedy",
+          "shedy",
+          "chey",
+          "otedy"
+        ]
+      }
+    ]
+  },
+  "f49r": {
+    "ruler": "Cancer",
+    "score": 8,
+    "jaccard": 0.0408,
+    "shared_words": [
+      "olol",
+      "shol",
+      "shor",
+      "chy",
+      "sho",
+      "cheo",
+      "cheey",
+      "teey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Cancer",
+        "score": 8,
+        "jaccard": 0.0408,
+        "shared_words": [
+          "olol",
+          "shol",
+          "shor",
+          "chy",
+          "sho",
+          "cheo",
+          "cheey",
+          "teey"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 6,
+        "jaccard": 0.0403,
+        "shared_words": [
+          "chy",
+          "cheol",
+          "sho",
+          "cheo",
+          "chey",
+          "chs"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 14,
+        "jaccard": 0.0398,
+        "shared_words": [
+          "shol",
+          "chody",
+          "otol",
+          "chy",
+          "cheol",
+          "cho",
+          "sho",
+          "tchy",
+          "shy",
+          "chcthy",
+          "cheey",
+          "cheo",
+          "chey",
+          "sheor"
+        ]
+      }
+    ]
+  },
+  "f49v": {
+    "ruler": "Taurus",
+    "score": 14,
+    "jaccard": 0.0591,
+    "shared_words": [
+      "oaiin",
+      "shol",
+      "kol",
+      "ckhey",
+      "sheo",
+      "cheol",
+      "cheky",
+      "cheor",
+      "sho",
+      "cheey",
+      "dar",
+      "chey",
+      "dal",
+      "chokaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 14,
+        "jaccard": 0.0591,
+        "shared_words": [
+          "oaiin",
+          "shol",
+          "kol",
+          "ckhey",
+          "sheo",
+          "cheol",
+          "cheky",
+          "cheor",
+          "sho",
+          "cheey",
+          "dar",
+          "chey",
+          "dal",
+          "chokaiin"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 20,
+        "jaccard": 0.0533,
+        "shared_words": [
+          "cho",
+          "dar",
+          "dal",
+          "dam",
+          "otol",
+          "chy",
+          "sho",
+          "chcthy",
+          "cthy",
+          "choky",
+          "shol",
+          "sheo",
+          "cheol",
+          "cheey",
+          "choteey",
+          "chkal",
+          "cthol",
+          "ches",
+          "cheo",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 11,
+        "jaccard": 0.0495,
+        "shared_words": [
+          "???",
+          "shol",
+          "choty",
+          "chy",
+          "cheor",
+          "cheky",
+          "ches",
+          "sho",
+          "cheo",
+          "cheey",
+          "choteey"
+        ]
+      }
+    ]
+  },
+  "f50r": {
+    "ruler": "Cancer",
+    "score": 8,
+    "jaccard": 0.0423,
+    "shared_words": [
+      "cheeor",
+      "okar",
+      "okeody",
+      "otaiin",
+      "sheedy",
+      "ykeey",
+      "olaiin",
+      "otal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Cancer",
+        "score": 8,
+        "jaccard": 0.0423,
+        "shared_words": [
+          "cheeor",
+          "okar",
+          "okeody",
+          "otaiin",
+          "sheedy",
+          "ykeey",
+          "olaiin",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 8,
+        "jaccard": 0.0417,
+        "shared_words": [
+          "opchey",
+          "otaiin",
+          "ald",
+          "olaiin",
+          "okchedy",
+          "oky",
+          "otal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 8,
+        "jaccard": 0.0386,
+        "shared_words": [
+          "chckhy",
+          "okar",
+          "otaiin",
+          "kaiin",
+          "she",
+          "qokar",
+          "otal",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f50v": {
+    "ruler": "Taurus",
+    "score": 13,
+    "jaccard": 0.0605,
+    "shared_words": [
+      "chckhy",
+      "okeedy",
+      "okaiin",
+      "okar",
+      "okal",
+      "otar",
+      "shor",
+      "otaiin",
+      "cheey",
+      "otor",
+      "dar",
+      "oty",
+      "kaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 13,
+        "jaccard": 0.0605,
+        "shared_words": [
+          "chckhy",
+          "okeedy",
+          "okaiin",
+          "okar",
+          "okal",
+          "otar",
+          "shor",
+          "otaiin",
+          "cheey",
+          "otor",
+          "dar",
+          "oty",
+          "kaiin"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 20,
+        "jaccard": 0.0568,
+        "shared_words": [
+          "otar",
+          "keody",
+          "tchy",
+          "ykchy",
+          "dar",
+          "oty",
+          "dam",
+          "chody",
+          "otaiin",
+          "chy",
+          "oky",
+          "choky",
+          "okaiin",
+          "chdy",
+          "dalol",
+          "cheey",
+          "okal",
+          "okar",
+          "key",
+          "otor"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 11,
+        "jaccard": 0.0545,
+        "shared_words": [
+          "keody",
+          "chdy",
+          "otaiin",
+          "chy",
+          "olaiin",
+          "key",
+          "cheey",
+          "oky",
+          "otor",
+          "dar",
+          "okal"
+        ]
+      }
+    ]
+  },
+  "f51r": {
+    "ruler": "Taurus",
+    "score": 15,
+    "jaccard": 0.0721,
+    "shared_words": [
+      "chckhy",
+      "oaiin",
+      "shol",
+      "kol",
+      "okeor",
+      "okol",
+      "taiin",
+      "otam",
+      "ckhey",
+      "cheor",
+      "tol",
+      "oty",
+      "dal",
+      "otal",
+      "chokaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 15,
+        "jaccard": 0.0721,
+        "shared_words": [
+          "chckhy",
+          "oaiin",
+          "shol",
+          "kol",
+          "okeor",
+          "okol",
+          "taiin",
+          "otam",
+          "ckhey",
+          "cheor",
+          "tol",
+          "oty",
+          "dal",
+          "otal",
+          "chokaiin"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 9,
+        "jaccard": 0.0612,
+        "shared_words": [
+          "ckhal",
+          "taiin",
+          "otam",
+          "aldy",
+          "otchey",
+          "oteodaiin",
+          "okam",
+          "dal",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 5,
+        "jaccard": 0.0321,
+        "shared_words": [
+          "okol",
+          "cheor",
+          "tchol",
+          "oty",
+          "cheody"
+        ]
+      }
+    ]
+  },
+  "f51v": {
+    "ruler": "Gemini",
+    "score": 7,
+    "jaccard": 0.0507,
+    "shared_words": [
+      "fold",
+      "otaiin",
+      "saiin",
+      "chy",
+      "cheol",
+      "dar",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 7,
+        "jaccard": 0.0507,
+        "shared_words": [
+          "fold",
+          "otaiin",
+          "saiin",
+          "chy",
+          "cheol",
+          "dar",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 14,
+        "jaccard": 0.0409,
+        "shared_words": [
+          "cthy",
+          "qokal",
+          "oteo",
+          "fold",
+          "otaiin",
+          "ykeey",
+          "chy",
+          "sheo",
+          "cheol",
+          "todaiin",
+          "cho",
+          "chey",
+          "dar",
+          "qotal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 8,
+        "jaccard": 0.0392,
+        "shared_words": [
+          "oteo",
+          "otaiin",
+          "sheo",
+          "cheol",
+          "dar",
+          "chey",
+          "ytal",
+          "kaiin"
+        ]
+      }
+    ]
+  },
+  "f52r": {
+    "ruler": "Scorpio",
+    "score": 5,
+    "jaccard": 0.0385,
+    "shared_words": [
+      "otar",
+      "cheey",
+      "oky",
+      "dar",
+      "dal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Scorpio",
+        "score": 5,
+        "jaccard": 0.0385,
+        "shared_words": [
+          "otar",
+          "cheey",
+          "oky",
+          "dar",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 7,
+        "jaccard": 0.0361,
+        "shared_words": [
+          "otar",
+          "shor",
+          "tol",
+          "cheey",
+          "dar",
+          "oty",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 11,
+        "jaccard": 0.0329,
+        "shared_words": [
+          "daim",
+          "okchol",
+          "otar",
+          "ykeey",
+          "tol",
+          "cheey",
+          "oky",
+          "dar",
+          "oty",
+          "dal",
+          "dam"
+        ]
+      }
+    ]
+  },
+  "f52v": {
+    "ruler": "Taurus",
+    "score": 8,
+    "jaccard": 0.0396,
+    "shared_words": [
+      "sal",
+      "shor",
+      "otam",
+      "ckhey",
+      "cheor",
+      "cheol",
+      "oty",
+      "sheol"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 8,
+        "jaccard": 0.0396,
+        "shared_words": [
+          "sal",
+          "shor",
+          "otam",
+          "ckhey",
+          "cheor",
+          "cheol",
+          "oty",
+          "sheol"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 5,
+        "jaccard": 0.035,
+        "shared_words": [
+          "chy",
+          "cheor",
+          "qokeey",
+          "oty",
+          "sheol"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 6,
+        "jaccard": 0.0323,
+        "shared_words": [
+          "cheeor",
+          "shor",
+          "ckhol",
+          "chy",
+          "cheor",
+          "sheol"
+        ]
+      }
+    ]
+  },
+  "f53r": {
+    "ruler": "Gemini",
+    "score": 6,
+    "jaccard": 0.048,
+    "shared_words": [
+      "otchey",
+      "sho",
+      "otey",
+      "dar",
+      "dal",
+      "chees"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 6,
+        "jaccard": 0.048,
+        "shared_words": [
+          "otchey",
+          "sho",
+          "otey",
+          "dar",
+          "dal",
+          "chees"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 14,
+        "jaccard": 0.0427,
+        "shared_words": [
+          "ody",
+          "otcho",
+          "otchey",
+          "otol",
+          "yky",
+          "cho",
+          "sho",
+          "she",
+          "tchy",
+          "otey",
+          "dar",
+          "oty",
+          "dal",
+          "okes"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 7,
+        "jaccard": 0.0366,
+        "shared_words": [
+          "otos",
+          "she",
+          "sho",
+          "otey",
+          "dar",
+          "oty",
+          "dal"
+        ]
+      }
+    ]
+  },
+  "f53v": {
+    "ruler": "Leo",
+    "score": 6,
+    "jaccard": 0.037,
+    "shared_words": [
+      "cthy",
+      "shol",
+      "sheody",
+      "okeey",
+      "oky",
+      "oty"
+    ],
+    "all_matches": [
+      {
+        "sign": "Leo",
+        "score": 6,
+        "jaccard": 0.037,
+        "shared_words": [
+          "cthy",
+          "shol",
+          "sheody",
+          "okeey",
+          "oky",
+          "oty"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 11,
+        "jaccard": 0.0324,
+        "shared_words": [
+          "cthy",
+          "shol",
+          "okeey",
+          "cthol",
+          "dam",
+          "kshody",
+          "chear",
+          "todaiin",
+          "oky",
+          "oty",
+          "sheor"
+        ]
+      },
+      {
+        "sign": "Virgo",
+        "score": 4,
+        "jaccard": 0.0263,
+        "shared_words": [
+          "dchy",
+          "shol",
+          "oty",
+          "okeey"
+        ]
+      }
+    ]
+  },
+  "f54r": {
+    "ruler": "Pisces",
+    "score": 20,
+    "jaccard": 0.059,
+    "shared_words": [
+      "ckho",
+      "cho",
+      "dar",
+      "dal",
+      "dam",
+      "otol",
+      "opcheol",
+      "cham",
+      "sho",
+      "oky",
+      "okol",
+      "tol",
+      "cheey",
+      "sal",
+      "daiir",
+      "otchey",
+      "air",
+      "chety",
+      "chokey",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 20,
+        "jaccard": 0.059,
+        "shared_words": [
+          "ckho",
+          "cho",
+          "dar",
+          "dal",
+          "dam",
+          "otol",
+          "opcheol",
+          "cham",
+          "sho",
+          "oky",
+          "okol",
+          "tol",
+          "cheey",
+          "sal",
+          "daiir",
+          "otchey",
+          "air",
+          "chety",
+          "chokey",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 7,
+        "jaccard": 0.0496,
+        "shared_words": [
+          "otchey",
+          "air",
+          "cham",
+          "sho",
+          "dar",
+          "chey",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 9,
+        "jaccard": 0.0437,
+        "shared_words": [
+          "sal",
+          "kol",
+          "okol",
+          "tol",
+          "sho",
+          "cheey",
+          "dar",
+          "chey",
+          "dal"
+        ]
+      }
+    ]
+  },
+  "f54v": {
+    "ruler": "Taurus",
+    "score": 16,
+    "jaccard": 0.0808,
+    "shared_words": [
+      "chckhy",
+      "oaiin",
+      "okaiin",
+      "sal",
+      "kol",
+      "ckhey",
+      "cheor",
+      "cheky",
+      "cheol",
+      "tol",
+      "kaiin",
+      "qokar",
+      "dar",
+      "dal",
+      "ytal",
+      "okal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 16,
+        "jaccard": 0.0808,
+        "shared_words": [
+          "chckhy",
+          "oaiin",
+          "okaiin",
+          "sal",
+          "kol",
+          "ckhey",
+          "cheor",
+          "cheky",
+          "cheol",
+          "tol",
+          "kaiin",
+          "qokar",
+          "dar",
+          "dal",
+          "ytal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 7,
+        "jaccard": 0.05,
+        "shared_words": [
+          "okaiin",
+          "chy",
+          "cheol",
+          "cham",
+          "dar",
+          "dal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 17,
+        "jaccard": 0.0499,
+        "shared_words": [
+          "daim",
+          "okaiin",
+          "cthey",
+          "sal",
+          "qokal",
+          "chody",
+          "cthol",
+          "chy",
+          "cheol",
+          "tol",
+          "cham",
+          "aim",
+          "oky",
+          "dar",
+          "dal",
+          "okal",
+          "dam"
+        ]
+      }
+    ]
+  },
+  "f55r": {
+    "ruler": "Gemini",
+    "score": 13,
+    "jaccard": 0.0884,
+    "shared_words": [
+      "okaiin",
+      "okar",
+      "otar",
+      "okeey",
+      "saiin",
+      "cheol",
+      "sho",
+      "okair",
+      "dar",
+      "chey",
+      "dal",
+      "otal",
+      "okal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 13,
+        "jaccard": 0.0884,
+        "shared_words": [
+          "okaiin",
+          "okar",
+          "otar",
+          "okeey",
+          "saiin",
+          "cheol",
+          "sho",
+          "okair",
+          "dar",
+          "chey",
+          "dal",
+          "otal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 16,
+        "jaccard": 0.0758,
+        "shared_words": [
+          "chckhy",
+          "okaiin",
+          "okar",
+          "okal",
+          "otar",
+          "okol",
+          "okeey",
+          "cheol",
+          "sho",
+          "char",
+          "qokar",
+          "dar",
+          "chey",
+          "dal",
+          "otal",
+          "kaiin"
+        ]
+      },
+      {
+        "sign": "Pisces",
+        "score": 21,
+        "jaccard": 0.06,
+        "shared_words": [
+          "otar",
+          "okeey",
+          "dar",
+          "dal",
+          "otal",
+          "dam",
+          "dair",
+          "chody",
+          "otol",
+          "sho",
+          "okaiin",
+          "okol",
+          "chdy",
+          "cheol",
+          "char",
+          "shekchy",
+          "okal",
+          "qokal",
+          "okar",
+          "kam",
+          "chey"
+        ]
+      }
+    ]
+  },
+  "f55v": {
+    "ruler": "Gemini",
+    "score": 8,
+    "jaccard": 0.0584,
+    "shared_words": [
+      "okaiin",
+      "okar",
+      "otar",
+      "otam",
+      "aldy",
+      "air",
+      "chey",
+      "okal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Gemini",
+        "score": 8,
+        "jaccard": 0.0584,
+        "shared_words": [
+          "okaiin",
+          "okar",
+          "otar",
+          "otam",
+          "aldy",
+          "air",
+          "chey",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 11,
+        "jaccard": 0.0547,
+        "shared_words": [
+          "chckhy",
+          "okeedy",
+          "okaiin",
+          "oaiin",
+          "okar",
+          "otar",
+          "otam",
+          "keey",
+          "cheky",
+          "chey",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Scorpio",
+        "score": 7,
+        "jaccard": 0.0504,
+        "shared_words": [
+          "otar",
+          "okeody",
+          "air",
+          "okary",
+          "oky",
+          "kar",
+          "chey"
+        ]
+      }
+    ]
+  },
+  "f56r": {
+    "ruler": "Pisces",
+    "score": 22,
+    "jaccard": 0.0645,
+    "shared_words": [
+      "cho",
+      "oty",
+      "dal",
+      "okchy",
+      "chody",
+      "keey",
+      "chy",
+      "sho",
+      "shy",
+      "choly",
+      "cthy",
+      "choky",
+      "okaiin",
+      "shol",
+      "chdy",
+      "chotol",
+      "okar",
+      "otchey",
+      "cthol",
+      "otchy",
+      "key",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 22,
+        "jaccard": 0.0645,
+        "shared_words": [
+          "cho",
+          "oty",
+          "dal",
+          "okchy",
+          "chody",
+          "keey",
+          "chy",
+          "sho",
+          "shy",
+          "choly",
+          "cthy",
+          "choky",
+          "okaiin",
+          "shol",
+          "chdy",
+          "chotol",
+          "okar",
+          "otchey",
+          "cthol",
+          "otchy",
+          "key",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 8,
+        "jaccard": 0.0537,
+        "shared_words": [
+          "choty",
+          "chdy",
+          "chy",
+          "tchol",
+          "keol",
+          "qokeey",
+          "chey",
+          "oty"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 11,
+        "jaccard": 0.0529,
+        "shared_words": [
+          "okaiin",
+          "shol",
+          "okar",
+          "otchor",
+          "keey",
+          "sho",
+          "otchy",
+          "chey",
+          "oty",
+          "dal",
+          "kaiin"
+        ]
+      }
+    ]
+  },
+  "f56v": {
+    "ruler": "Taurus",
+    "score": 9,
+    "jaccard": 0.0448,
+    "shared_words": [
+      "shol",
+      "kol",
+      "ochey",
+      "shor",
+      "oteey",
+      "sho",
+      "chey",
+      "dal",
+      "kaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 9,
+        "jaccard": 0.0448,
+        "shared_words": [
+          "shol",
+          "kol",
+          "ochey",
+          "shor",
+          "oteey",
+          "sho",
+          "chey",
+          "dal",
+          "kaiin"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 6,
+        "jaccard": 0.0438,
+        "shared_words": [
+          "saiin",
+          "oteey",
+          "sho",
+          "cheo",
+          "chey",
+          "dal"
+        ]
+      },
+      {
+        "sign": "Leo",
+        "score": 6,
+        "jaccard": 0.0361,
+        "shared_words": [
+          "shol",
+          "oteey",
+          "sho",
+          "shy",
+          "oky",
+          "chey"
+        ]
+      }
+    ]
+  },
+  "f57r": {
+    "ruler": "Sagittarius",
+    "score": 6,
+    "jaccard": 0.039,
+    "shared_words": [
+      "qokeody",
+      "okeody",
+      "opchey",
+      "air",
+      "okchdy",
+      "cheody"
+    ],
+    "all_matches": [
+      {
+        "sign": "Sagittarius",
+        "score": 6,
+        "jaccard": 0.039,
+        "shared_words": [
+          "qokeody",
+          "okeody",
+          "opchey",
+          "air",
+          "okchdy",
+          "cheody"
+        ]
+      },
+      {
+        "sign": "Scorpio",
+        "score": 5,
+        "jaccard": 0.0331,
+        "shared_words": [
+          "okeody",
+          "chockhy",
+          "air",
+          "dal",
+          "cheody"
+        ]
+      },
+      {
+        "sign": "Cancer",
+        "score": 6,
+        "jaccard": 0.0303,
+        "shared_words": [
+          "okeody",
+          "sheey",
+          "sheedy",
+          "cheo",
+          "okeeody",
+          "sar"
+        ]
+      }
+    ]
+  },
+  "f57v": {
+    "ruler": "Aries",
+    "score": 7,
+    "jaccard": 0.0376,
+    "shared_words": [
+      "oteo",
+      "okchy",
+      "shes",
+      "otey",
+      "okey",
+      "dal",
+      "okal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Aries",
+        "score": 7,
+        "jaccard": 0.0376,
+        "shared_words": [
+          "oteo",
+          "okchy",
+          "shes",
+          "otey",
+          "okey",
+          "dal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 7,
+        "jaccard": 0.0348,
+        "shared_words": [
+          "oteo",
+          "otchody",
+          "okees",
+          "qokar",
+          "otey",
+          "dal",
+          "okal"
+        ]
+      },
+      {
+        "sign": "Leo",
+        "score": 5,
+        "jaccard": 0.0303,
+        "shared_words": [
+          "ofaiin",
+          "yty",
+          "otey",
+          "okey",
+          "okeeol"
+        ]
+      }
+    ]
+  },
+  "f58r": {
+    "ruler": "Pisces",
+    "score": 47,
+    "jaccard": 0.0907,
+    "shared_words": [
+      "chokal",
+      "kam",
+      "otar",
+      "dalam",
+      "tal",
+      "tchy",
+      "chotar",
+      "okey",
+      "dar",
+      "oty",
+      "dal",
+      "otal",
+      "dam",
+      "dair",
+      "otaiin",
+      "chody",
+      "keey",
+      "chy",
+      "cham",
+      "chcthy",
+      "oteom",
+      "okaly",
+      "otaly",
+      "choky",
+      "okaiin",
+      "shol",
+      "chdy",
+      "dalol",
+      "ykeey",
+      "cheol",
+      "otalal",
+      "ytar",
+      "char",
+      "cholaiin",
+      "otey",
+      "aram",
+      "sheol",
+      "okal",
+      "qokal",
+      "okar",
+      "chal",
+      "air",
+      "otchy",
+      "chokey",
+      "chear",
+      "oar",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 47,
+        "jaccard": 0.0907,
+        "shared_words": [
+          "chokal",
+          "kam",
+          "otar",
+          "dalam",
+          "tal",
+          "tchy",
+          "chotar",
+          "okey",
+          "dar",
+          "oty",
+          "dal",
+          "otal",
+          "dam",
+          "dair",
+          "otaiin",
+          "chody",
+          "keey",
+          "chy",
+          "cham",
+          "chcthy",
+          "oteom",
+          "okaly",
+          "otaly",
+          "choky",
+          "okaiin",
+          "shol",
+          "chdy",
+          "dalol",
+          "ykeey",
+          "cheol",
+          "otalal",
+          "ytar",
+          "char",
+          "cholaiin",
+          "otey",
+          "aram",
+          "sheol",
+          "okal",
+          "qokal",
+          "okar",
+          "chal",
+          "air",
+          "otchy",
+          "chokey",
+          "chear",
+          "oar",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 29,
+        "jaccard": 0.074,
+        "shared_words": [
+          "chokal",
+          "otar",
+          "cheor",
+          "cheky",
+          "dar",
+          "oty",
+          "dal",
+          "otal",
+          "okalal",
+          "otaiin",
+          "keey",
+          "kal",
+          "olchear",
+          "otaly",
+          "okaiin",
+          "shol",
+          "taiin",
+          "chotam",
+          "cheol",
+          "char",
+          "qokar",
+          "otey",
+          "ytal",
+          "okal",
+          "sheol",
+          "okar",
+          "chal",
+          "otchy",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 22,
+        "jaccard": 0.0663,
+        "shared_words": [
+          "otar",
+          "aldy",
+          "dar",
+          "dal",
+          "otal",
+          "okeal",
+          "shokal",
+          "otaiin",
+          "saiin",
+          "chy",
+          "dalchdy",
+          "cham",
+          "okaly",
+          "okaiin",
+          "taiin",
+          "cheol",
+          "otey",
+          "okal",
+          "okar",
+          "air",
+          "okair",
+          "chey"
+        ]
+      }
+    ]
+  },
+  "f58v": {
+    "ruler": "Pisces",
+    "score": 52,
+    "jaccard": 0.1113,
+    "shared_words": [
+      "chokal",
+      "alos",
+      "okeey",
+      "tal",
+      "cho",
+      "chedal",
+      "okey",
+      "dar",
+      "dal",
+      "otal",
+      "dam",
+      "dair",
+      "otaiin",
+      "otol",
+      "keey",
+      "otair",
+      "cham",
+      "sho",
+      "shy",
+      "oky",
+      "chcthy",
+      "qotal",
+      "okaly",
+      "oko",
+      "otaly",
+      "choly",
+      "choky",
+      "sheal",
+      "shol",
+      "okol",
+      "okeoly",
+      "sheo",
+      "tol",
+      "cheol",
+      "aim",
+      "aly",
+      "alal",
+      "sheol",
+      "okal",
+      "qokal",
+      "okar",
+      "chal",
+      "okeody",
+      "air",
+      "chety",
+      "key",
+      "chokey",
+      "choar",
+      "aral",
+      "keeo",
+      "chey",
+      "aldaiin"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 52,
+        "jaccard": 0.1113,
+        "shared_words": [
+          "chokal",
+          "alos",
+          "okeey",
+          "tal",
+          "cho",
+          "chedal",
+          "okey",
+          "dar",
+          "dal",
+          "otal",
+          "dam",
+          "dair",
+          "otaiin",
+          "otol",
+          "keey",
+          "otair",
+          "cham",
+          "sho",
+          "shy",
+          "oky",
+          "chcthy",
+          "qotal",
+          "okaly",
+          "oko",
+          "otaly",
+          "choly",
+          "choky",
+          "sheal",
+          "shol",
+          "okol",
+          "okeoly",
+          "sheo",
+          "tol",
+          "cheol",
+          "aim",
+          "aly",
+          "alal",
+          "sheol",
+          "okal",
+          "qokal",
+          "okar",
+          "chal",
+          "okeody",
+          "air",
+          "chety",
+          "key",
+          "chokey",
+          "choar",
+          "aral",
+          "keeo",
+          "chey",
+          "aldaiin"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 34,
+        "jaccard": 0.0997,
+        "shared_words": [
+          "chokal",
+          "kol",
+          "okeey",
+          "okeor",
+          "ckhey",
+          "cheky",
+          "chedal",
+          "dar",
+          "dal",
+          "otal",
+          "otam",
+          "otaiin",
+          "keey",
+          "sho",
+          "kal",
+          "otaly",
+          "shol",
+          "okol",
+          "taiin",
+          "shor",
+          "sheo",
+          "cheol",
+          "tol",
+          "qokar",
+          "aly",
+          "otain",
+          "ytal",
+          "okal",
+          "sheol",
+          "okar",
+          "chal",
+          "sheoltey",
+          "oteor",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 25,
+        "jaccard": 0.0746,
+        "shared_words": [
+          "cheky",
+          "orky",
+          "okey",
+          "dar",
+          "dal",
+          "otal",
+          "otaiin",
+          "otol",
+          "kal",
+          "chcthy",
+          "oky",
+          "choly",
+          "ockhey",
+          "sheal",
+          "shol",
+          "okol",
+          "daly",
+          "opchey",
+          "sheo",
+          "aly",
+          "okal",
+          "shokey",
+          "keo",
+          "key",
+          "tar"
+        ]
+      }
+    ]
+  },
+  "f65v": {
+    "ruler": "Scorpio",
+    "score": 4,
+    "jaccard": 0.0345,
+    "shared_words": [
+      "otor",
+      "okeody",
+      "air",
+      "cheody"
+    ],
+    "all_matches": [
+      {
+        "sign": "Scorpio",
+        "score": 4,
+        "jaccard": 0.0345,
+        "shared_words": [
+          "otor",
+          "okeody",
+          "air",
+          "cheody"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 4,
+        "jaccard": 0.0333,
+        "shared_words": [
+          "okeody",
+          "shedy",
+          "air",
+          "cheody"
+        ]
+      },
+      {
+        "sign": "Virgo",
+        "score": 4,
+        "jaccard": 0.0303,
+        "shared_words": [
+          "ody",
+          "oke",
+          "air",
+          "okeody"
+        ]
+      }
+    ]
+  },
+  "f66r": {
+    "ruler": "Pisces",
+    "score": 38,
+    "jaccard": 0.0782,
+    "shared_words": [
+      "shee",
+      "keody",
+      "oteody",
+      "oteey",
+      "shekey",
+      "dar",
+      "dal",
+      "okchy",
+      "sheod",
+      "dair",
+      "chody",
+      "chy",
+      "shy",
+      "oky",
+      "qotal",
+      "sheor",
+      "oteedy",
+      "okaiin",
+      "shol",
+      "chdy",
+      "dalol",
+      "cheol",
+      "shed",
+      "aly",
+      "otey",
+      "ary",
+      "okees",
+      "sheol",
+      "okal",
+      "qokal",
+      "daiir",
+      "okar",
+      "okeody",
+      "sheodaiin",
+      "air",
+      "chety",
+      "cheo",
+      "chey"
+    ],
+    "all_matches": [
+      {
+        "sign": "Pisces",
+        "score": 38,
+        "jaccard": 0.0782,
+        "shared_words": [
+          "shee",
+          "keody",
+          "oteody",
+          "oteey",
+          "shekey",
+          "dar",
+          "dal",
+          "okchy",
+          "sheod",
+          "dair",
+          "chody",
+          "chy",
+          "shy",
+          "oky",
+          "qotal",
+          "sheor",
+          "oteedy",
+          "okaiin",
+          "shol",
+          "chdy",
+          "dalol",
+          "cheol",
+          "shed",
+          "aly",
+          "otey",
+          "ary",
+          "okees",
+          "sheol",
+          "okal",
+          "qokal",
+          "daiir",
+          "okar",
+          "okeody",
+          "sheodaiin",
+          "air",
+          "chety",
+          "cheo",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Sagittarius",
+        "score": 23,
+        "jaccard": 0.078,
+        "shared_words": [
+          "oteody",
+          "cheor",
+          "ykeeody",
+          "choty",
+          "chy",
+          "qoty",
+          "oky",
+          "qokeody",
+          "chdy",
+          "daly",
+          "aly",
+          "qokeey",
+          "otey",
+          "okees",
+          "sheol",
+          "okal",
+          "cheody",
+          "okeody",
+          "air",
+          "keol",
+          "shedy",
+          "ykchs",
+          "chey"
+        ]
+      },
+      {
+        "sign": "Taurus",
+        "score": 25,
+        "jaccard": 0.0704,
+        "shared_words": [
+          "kol",
+          "cheor",
+          "cheky",
+          "oteey",
+          "dar",
+          "dal",
+          "cheedy",
+          "otam",
+          "kal",
+          "chckhy",
+          "oteedy",
+          "okaiin",
+          "shol",
+          "shor",
+          "cheol",
+          "qokar",
+          "aly",
+          "otey",
+          "ary",
+          "shetey",
+          "okees",
+          "sheol",
+          "okal",
+          "okar",
+          "chey"
+        ]
+      }
+    ]
+  },
+  "f66v": {
+    "ruler": "Taurus",
+    "score": 13,
+    "jaccard": 0.0588,
+    "shared_words": [
+      "chckhy",
+      "chokal",
+      "okeedy",
+      "okaiin",
+      "otar",
+      "otaiin",
+      "sheo",
+      "cheky",
+      "kal",
+      "dar",
+      "oty",
+      "dal",
+      "otal"
+    ],
+    "all_matches": [
+      {
+        "sign": "Taurus",
+        "score": 13,
+        "jaccard": 0.0588,
+        "shared_words": [
+          "chckhy",
+          "chokal",
+          "okeedy",
+          "okaiin",
+          "otar",
+          "otaiin",
+          "sheo",
+          "cheky",
+          "kal",
+          "dar",
+          "oty",
+          "dal",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Gemini",
+        "score": 7,
+        "jaccard": 0.0437,
+        "shared_words": [
+          "okaiin",
+          "otar",
+          "otaiin",
+          "teodal",
+          "dar",
+          "dal",
+          "otal"
+        ]
+      },
+      {
+        "sign": "Aries",
+        "score": 9,
+        "jaccard": 0.0429,
+        "shared_words": [
+          "keody",
+          "otaiin",
+          "sheo",
+          "cheky",
+          "kal",
+          "dar",
+          "dal",
+          "otal",
+          "cheody"
+        ]
+      }
+    ]
+  }
+}

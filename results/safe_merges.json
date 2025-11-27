@@ -1,0 +1,3914 @@
+[
+  {
+    "unknown": "cthol",
+    "anchor": "cthal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthol",
+    "anchor": "cthom",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthol",
+    "anchor": "cthor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthol",
+    "anchor": "ckhol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthol",
+    "anchor": "cphol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthol",
+    "anchor": "ctheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lol",
+    "anchor": "kol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lol",
+    "anchor": "qol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lol",
+    "anchor": "sol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lor",
+    "anchor": "dor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lor",
+    "anchor": "kor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lor",
+    "anchor": "qor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "olor",
+    "anchor": "olos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "olor",
+    "anchor": "oror",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheal",
+    "anchor": "chpal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheal",
+    "anchor": "cheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheal",
+    "anchor": "cheeal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chedar",
+    "anchor": "cheoar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chedar",
+    "anchor": "chdar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chedar",
+    "anchor": "cheedar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otedy",
+    "anchor": "otody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "okai",
+    "anchor": "okas",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "okai",
+    "anchor": "qokai",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otol",
+    "anchor": "opol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otol",
+    "anchor": "ytol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otai",
+    "anchor": "otan",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otai",
+    "anchor": "otaim",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otai",
+    "anchor": "otais",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otai",
+    "anchor": "qotai",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ordaiin",
+    "anchor": "opdaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oeam",
+    "anchor": "okeam",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cdam",
+    "anchor": "dam",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "rdar",
+    "anchor": "odar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "rdar",
+    "anchor": "dar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "bright",
+    "anchor": "right",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shold",
+    "anchor": "sholy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shold",
+    "anchor": "shol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cphtol",
+    "anchor": "cpheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cphtol",
+    "anchor": "cphol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "kchry",
+    "anchor": "kchdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "kchry",
+    "anchor": "kchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chieody",
+    "anchor": "cheeody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotsho",
+    "anchor": "qotcho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotsho",
+    "anchor": "qotshy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotcha",
+    "anchor": "qotcho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotoa",
+    "anchor": "qotoy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotoa",
+    "anchor": "qotor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tcheay",
+    "anchor": "tcheey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tcheay",
+    "anchor": "tchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "hkchor",
+    "anchor": "okchor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "hkchor",
+    "anchor": "kchor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "heeor",
+    "anchor": "keeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "heeor",
+    "anchor": "deeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "heeor",
+    "anchor": "eeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "heeor",
+    "anchor": "sheeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "heeor",
+    "anchor": "cheeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "hokchy",
+    "anchor": "qokchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "hokchy",
+    "anchor": "chokchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ochod",
+    "anchor": "ochor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ochod",
+    "anchor": "kchod",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dkchy",
+    "anchor": "ykchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dkchy",
+    "anchor": "kchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dkchy",
+    "anchor": "dchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "pchoy",
+    "anchor": "pchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "pchoy",
+    "anchor": "pcholy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokog",
+    "anchor": "qokoy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokog",
+    "anchor": "qokod",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokog",
+    "anchor": "qokol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokche",
+    "anchor": "qokcho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokche",
+    "anchor": "qokchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokche",
+    "anchor": "qokcheo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "hopchey",
+    "anchor": "opchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ckcheey",
+    "anchor": "ckheey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "kchoiin",
+    "anchor": "kchaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "daird",
+    "anchor": "dair",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dairg",
+    "anchor": "dair",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "kshs",
+    "anchor": "ksho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "kshs",
+    "anchor": "shs",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthdaiin",
+    "anchor": "cthaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthdaiin",
+    "anchor": "chdaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "hykchy",
+    "anchor": "ykchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ctaiin",
+    "anchor": "cthaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthyaiin",
+    "anchor": "cthaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "plan",
+    "anchor": "plant",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dchg",
+    "anchor": "dchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokhy",
+    "anchor": "qokoy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokhy",
+    "anchor": "qokchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "pchr",
+    "anchor": "chr",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "mpchy",
+    "anchor": "opchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ctheoy",
+    "anchor": "ctheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ctheoy",
+    "anchor": "ctheey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokoq",
+    "anchor": "qokoy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokoq",
+    "anchor": "qokod",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokoq",
+    "anchor": "qokol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotof",
+    "anchor": "qotoy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotof",
+    "anchor": "qotor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dochy",
+    "anchor": "dchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tchyd",
+    "anchor": "tchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ytom",
+    "anchor": "ytol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ytom",
+    "anchor": "ytam",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "khal",
+    "anchor": "kal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "khal",
+    "anchor": "ckhal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthc",
+    "anchor": "ctho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qlor",
+    "anchor": "qor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthoj",
+    "anchor": "cthom",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthoj",
+    "anchor": "cthor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthoj",
+    "anchor": "ctho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dein",
+    "anchor": "dain",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "peeo",
+    "anchor": "deeo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "coain",
+    "anchor": "chain",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ctey",
+    "anchor": "ytey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ctheeody",
+    "anchor": "cheeody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "kchrr",
+    "anchor": "kchor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shog",
+    "anchor": "shol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shog",
+    "anchor": "sho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ytshor",
+    "anchor": "ytchor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ytshor",
+    "anchor": "yshor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qodcho",
+    "anchor": "qokcho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qodcho",
+    "anchor": "qotcho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheof",
+    "anchor": "cheok",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheof",
+    "anchor": "cheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "hoty",
+    "anchor": "loty",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotchof",
+    "anchor": "qotcho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cphos",
+    "anchor": "cphor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cphos",
+    "anchor": "cphol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qakar",
+    "anchor": "akar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "choda",
+    "anchor": "chodr",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "seor",
+    "anchor": "eeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "seor",
+    "anchor": "sheor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "akedy",
+    "anchor": "lkedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qtody",
+    "anchor": "otody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qtody",
+    "anchor": "qotody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cfhal",
+    "anchor": "ckhal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cfhal",
+    "anchor": "cthal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "diiiin",
+    "anchor": "doiiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokkain",
+    "anchor": "qokeain",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ashdy",
+    "anchor": "kshdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otaf",
+    "anchor": "otan",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "kkedy",
+    "anchor": "lkedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tchee",
+    "anchor": "tcheo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tchee",
+    "anchor": "tchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cphhy",
+    "anchor": "cthhy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chcty",
+    "anchor": "chchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chcty",
+    "anchor": "chyty",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokehdy",
+    "anchor": "qokeedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokehdy",
+    "anchor": "qokedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "adaiin",
+    "anchor": "ydaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "adaiin",
+    "anchor": "pdaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "yokal",
+    "anchor": "ykal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tkchor",
+    "anchor": "okchor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tkchor",
+    "anchor": "kchor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tkchor",
+    "anchor": "tchor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ytcheor",
+    "anchor": "ytchor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "mokchy",
+    "anchor": "qokchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shedo",
+    "anchor": "chedo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shedo",
+    "anchor": "shedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shedo",
+    "anchor": "sheo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shedo",
+    "anchor": "shed",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shedo",
+    "anchor": "sheedo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "octhhy",
+    "anchor": "qcthhy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "octhhy",
+    "anchor": "cthhy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tchs",
+    "anchor": "tchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tchs",
+    "anchor": "tchos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tolchey",
+    "anchor": "olchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotcheey",
+    "anchor": "qokcheey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotcheey",
+    "anchor": "qotcheedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tcha",
+    "anchor": "tchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "eodaiin",
+    "anchor": "kodaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "eodaiin",
+    "anchor": "qodaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykcheol",
+    "anchor": "ykchol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ytady",
+    "anchor": "ytaly",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykhor",
+    "anchor": "ckhor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykhor",
+    "anchor": "ykeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykhor",
+    "anchor": "yshor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykhor",
+    "anchor": "ychor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykhor",
+    "anchor": "ykor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "khor",
+    "anchor": "kor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "khor",
+    "anchor": "ckhor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "khor",
+    "anchor": "kchor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "yckheol",
+    "anchor": "ckheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shof",
+    "anchor": "shol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shof",
+    "anchor": "sho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "okak",
+    "anchor": "okas",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ckhoi",
+    "anchor": "ckhor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ckhoi",
+    "anchor": "ckhol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ekchol",
+    "anchor": "ykchol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ekchol",
+    "anchor": "okchol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ckheedy",
+    "anchor": "ckheody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ckheedy",
+    "anchor": "ckheey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "aedy",
+    "anchor": "edy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cphed",
+    "anchor": "cpheo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dkal",
+    "anchor": "ykal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dkal",
+    "anchor": "kal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "teda",
+    "anchor": "tedo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qkeol",
+    "anchor": "qoeol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qkeol",
+    "anchor": "lkeol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qkeol",
+    "anchor": "qokeol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qoaiir",
+    "anchor": "qoaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "zain",
+    "anchor": "lain",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "zain",
+    "anchor": "dain",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "zain",
+    "anchor": "ain",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "somy",
+    "anchor": "sody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotais",
+    "anchor": "qotain",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotais",
+    "anchor": "otais",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotais",
+    "anchor": "qotai",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ylam",
+    "anchor": "alam",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ylam",
+    "anchor": "ytam",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qopr",
+    "anchor": "qor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokesd",
+    "anchor": "qokeod",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "salr",
+    "anchor": "salo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykcol",
+    "anchor": "ykol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykcol",
+    "anchor": "ykchol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokoey",
+    "anchor": "qokody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokoey",
+    "anchor": "qokeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokoey",
+    "anchor": "qokoy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ekol",
+    "anchor": "ykol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ekol",
+    "anchor": "kol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dard",
+    "anchor": "dar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheeeol",
+    "anchor": "sheeol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shoes",
+    "anchor": "shees",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dchek",
+    "anchor": "dchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dchek",
+    "anchor": "dcheo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dchek",
+    "anchor": "dched",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cpaiin",
+    "anchor": "opaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cpaiin",
+    "anchor": "ypaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cpaiin",
+    "anchor": "cphaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "rchdy",
+    "anchor": "ychdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "rchdy",
+    "anchor": "fchdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "rchdy",
+    "anchor": "lchdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "rchdy",
+    "anchor": "kchdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "rchdy",
+    "anchor": "rchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sainn",
+    "anchor": "saiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ychsy",
+    "anchor": "ychdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ychry",
+    "anchor": "ychdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chchey",
+    "anchor": "chchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chchey",
+    "anchor": "chechey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chchey",
+    "anchor": "chcphey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oedar",
+    "anchor": "odar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykos",
+    "anchor": "ykor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykos",
+    "anchor": "ykol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykos",
+    "anchor": "ykeos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "choer",
+    "anchor": "chodr",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "choer",
+    "anchor": "cheer",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "choer",
+    "anchor": "choar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ytchod",
+    "anchor": "ytchor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ytchod",
+    "anchor": "ytchoy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ytchod",
+    "anchor": "ytcho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "daij",
+    "anchor": "dair",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "daij",
+    "anchor": "dain",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykalo",
+    "anchor": "ykaly",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykalo",
+    "anchor": "ykal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "edaly",
+    "anchor": "odaly",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "siiin",
+    "anchor": "saiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "eoky",
+    "anchor": "toky",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokaol",
+    "anchor": "qokeol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokaol",
+    "anchor": "qokol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oshed",
+    "anchor": "kshed",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oshed",
+    "anchor": "shed",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "okeodl",
+    "anchor": "okeodal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oldl",
+    "anchor": "odl",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qodkeey",
+    "anchor": "qokeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lchdm",
+    "anchor": "lchdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oteods",
+    "anchor": "oteos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dokeey",
+    "anchor": "sokeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dokeey",
+    "anchor": "qokeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dckhey",
+    "anchor": "dchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oteoss",
+    "anchor": "oteos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otaik",
+    "anchor": "otaim",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otaik",
+    "anchor": "otais",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "itho",
+    "anchor": "ctho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "okochy",
+    "anchor": "okolchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "kochy",
+    "anchor": "kchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykay",
+    "anchor": "ykal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykay",
+    "anchor": "ykaly",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chsar",
+    "anchor": "chdar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "okead",
+    "anchor": "okeam",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "okeas",
+    "anchor": "okeam",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "okeas",
+    "anchor": "okas",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "okseo",
+    "anchor": "oksho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chekeo",
+    "anchor": "chekey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheeog",
+    "anchor": "cheeol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheeog",
+    "anchor": "cheeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shocthhy",
+    "anchor": "shocthy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "hokal",
+    "anchor": "chokal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "seal",
+    "anchor": "sal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oteosa",
+    "anchor": "oteos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lsheod",
+    "anchor": "sheod",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shseor",
+    "anchor": "sheeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shseor",
+    "anchor": "sheor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "eodal",
+    "anchor": "todal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oroj",
+    "anchor": "oror",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "diin",
+    "anchor": "dain",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otchr",
+    "anchor": "otcho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheolk",
+    "anchor": "cheols",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheolk",
+    "anchor": "cheok",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheolk",
+    "anchor": "cheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "aroly",
+    "anchor": "aloly",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "olcthey",
+    "anchor": "olchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "algy",
+    "anchor": "alky",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "aloy",
+    "anchor": "alod",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "aloy",
+    "anchor": "alky",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "aloy",
+    "anchor": "alody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "aloy",
+    "anchor": "aloly",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oheol",
+    "anchor": "cheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oheol",
+    "anchor": "sheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oeteos",
+    "anchor": "oteos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oeteo",
+    "anchor": "oteo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oeaiin",
+    "anchor": "opaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "eeer",
+    "anchor": "eeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shses",
+    "anchor": "shees",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otedas",
+    "anchor": "otedal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otedas",
+    "anchor": "otedam",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "soees",
+    "anchor": "shees",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "daein",
+    "anchor": "dain",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheeas",
+    "anchor": "shees",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dchyr",
+    "anchor": "dchor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "soear",
+    "anchor": "sosar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "solar",
+    "anchor": "sosar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "eety",
+    "anchor": "ety",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "okches",
+    "anchor": "opches",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "okches",
+    "anchor": "otches",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "heeey",
+    "anchor": "sheeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "odody",
+    "anchor": "otody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oteoos",
+    "anchor": "oteos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykeou",
+    "anchor": "ykeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykeou",
+    "anchor": "ykeos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "keiin",
+    "anchor": "kaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qoreey",
+    "anchor": "qokeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokap",
+    "anchor": "qokai",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokesy",
+    "anchor": "qokeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokesy",
+    "anchor": "qokedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "heedy",
+    "anchor": "sheedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "deir",
+    "anchor": "dair",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dtey",
+    "anchor": "ytey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "leedy",
+    "anchor": "lkedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "leedy",
+    "anchor": "oleedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qopshy",
+    "anchor": "qotshy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthas",
+    "anchor": "cthal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthas",
+    "anchor": "cthan",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthas",
+    "anchor": "cthar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shefey",
+    "anchor": "sheeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shefey",
+    "anchor": "shekey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokefy",
+    "anchor": "qokeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokefy",
+    "anchor": "qokedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "schees",
+    "anchor": "shees",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "schee",
+    "anchor": "schey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "schee",
+    "anchor": "scheo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qoklain",
+    "anchor": "qokeain",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dyry",
+    "anchor": "dydy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dyry",
+    "anchor": "dyky",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "elshedy",
+    "anchor": "olshedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ssheedy",
+    "anchor": "sheedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheq",
+    "anchor": "sheo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheq",
+    "anchor": "shed",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qoredy",
+    "anchor": "qokedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qkal",
+    "anchor": "ykal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qkal",
+    "anchor": "kal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "atchey",
+    "anchor": "ytchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "atchey",
+    "anchor": "tchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheir",
+    "anchor": "sheor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qchey",
+    "anchor": "pchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qchey",
+    "anchor": "schey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qchey",
+    "anchor": "tchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qchey",
+    "anchor": "dchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "orkor",
+    "anchor": "oror",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otchot",
+    "anchor": "otchos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otchot",
+    "anchor": "otcho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dytaiin",
+    "anchor": "dykaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykeer",
+    "anchor": "ykeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykeer",
+    "anchor": "ykeeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ylor",
+    "anchor": "ykor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "yshee",
+    "anchor": "ysheeo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otchrdy",
+    "anchor": "otchody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qoteil",
+    "anchor": "qoteol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "epchey",
+    "anchor": "opchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "epchey",
+    "anchor": "pchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "opechy",
+    "anchor": "opchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokiiin",
+    "anchor": "qokaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokiiin",
+    "anchor": "qoiiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokede",
+    "anchor": "qokedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otag",
+    "anchor": "otan",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tchet",
+    "anchor": "tcheo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tchet",
+    "anchor": "tchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "yleedy",
+    "anchor": "oleedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "olchoy",
+    "anchor": "olchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "olchoy",
+    "anchor": "olchdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "olchoy",
+    "anchor": "olchor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oroi",
+    "anchor": "oror",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "deiiin",
+    "anchor": "doiiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ashy",
+    "anchor": "tshy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dshed",
+    "anchor": "kshed",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dshed",
+    "anchor": "dched",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dshed",
+    "anchor": "shed",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dcsedy",
+    "anchor": "dchedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chkeay",
+    "anchor": "chkeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "okdl",
+    "anchor": "odl",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "olko",
+    "anchor": "olo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "eiir",
+    "anchor": "iir",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qoreedy",
+    "anchor": "qoeeedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qoreedy",
+    "anchor": "qokeedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shoey",
+    "anchor": "sholy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shoey",
+    "anchor": "shory",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sairn",
+    "anchor": "saiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shedl",
+    "anchor": "shedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shedl",
+    "anchor": "sheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shenl",
+    "anchor": "sheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "olao",
+    "anchor": "olo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "yqokaiin",
+    "anchor": "qokaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lchd",
+    "anchor": "lched",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "yqol",
+    "anchor": "ytol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "yqol",
+    "anchor": "ykol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "yqol",
+    "anchor": "qol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "nlkeedy",
+    "anchor": "alkeedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ytchl",
+    "anchor": "ytcho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cseol",
+    "anchor": "cheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokeer",
+    "anchor": "qokeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheel",
+    "anchor": "cheer",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheel",
+    "anchor": "cheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheel",
+    "anchor": "cheen",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheel",
+    "anchor": "cheeal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheel",
+    "anchor": "cheeol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dkam",
+    "anchor": "dam",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "odchdy",
+    "anchor": "olchdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qoseey",
+    "anchor": "qokeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qoraly",
+    "anchor": "qotaly",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oloe",
+    "anchor": "olos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oloe",
+    "anchor": "olo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chokchg",
+    "anchor": "chokchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shedor",
+    "anchor": "sheeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shedor",
+    "anchor": "sheor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "asody",
+    "anchor": "alody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "asody",
+    "anchor": "sody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "plane",
+    "anchor": "plant",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sshy",
+    "anchor": "tshy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dawn",
+    "anchor": "dain",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dawn",
+    "anchor": "dan",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "opchsey",
+    "anchor": "opcheey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "opchsey",
+    "anchor": "opchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "scody",
+    "anchor": "sody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "odare",
+    "anchor": "odar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oschedy",
+    "anchor": "okchedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otedos",
+    "anchor": "otedol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otedos",
+    "anchor": "oteos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ltchedy",
+    "anchor": "lpchedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ypchery",
+    "anchor": "ypchedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ypchesy",
+    "anchor": "ypchedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheeg",
+    "anchor": "cheer",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheeg",
+    "anchor": "cheen",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otcha",
+    "anchor": "otcho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lkesy",
+    "anchor": "lkedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "echody",
+    "anchor": "tchody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "echody",
+    "anchor": "kchody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ytchpy",
+    "anchor": "ytchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ytchpy",
+    "anchor": "ytchoy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "yochedy",
+    "anchor": "ypchedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "yochedy",
+    "anchor": "pochedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "acheody",
+    "anchor": "kcheody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chedos",
+    "anchor": "chedo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shocphy",
+    "anchor": "shocthy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shocphy",
+    "anchor": "shcphy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shocphy",
+    "anchor": "sheocphy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "odas",
+    "anchor": "okas",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "odas",
+    "anchor": "odar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "fcheos",
+    "anchor": "dcheos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "eoiin",
+    "anchor": "qoiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokeog",
+    "anchor": "qokeod",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokeog",
+    "anchor": "qokeos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokeog",
+    "anchor": "qokeol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ytchea",
+    "anchor": "ytchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheyr",
+    "anchor": "cheer",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokeoj",
+    "anchor": "qokeod",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokeoj",
+    "anchor": "qokeos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokeoj",
+    "anchor": "qokeol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokeoda",
+    "anchor": "qokeod",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "heeo",
+    "anchor": "deeo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cphee",
+    "anchor": "cpheo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykeoa",
+    "anchor": "ykeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ykeoa",
+    "anchor": "ykeos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ckhay",
+    "anchor": "ckhal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otoey",
+    "anchor": "otody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dalg",
+    "anchor": "dalo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shkee",
+    "anchor": "shkeeo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "hory",
+    "anchor": "lory",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "hory",
+    "anchor": "shory",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qekeody",
+    "anchor": "qkeody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheoa",
+    "anchor": "sheom",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheoa",
+    "anchor": "sheor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheoa",
+    "anchor": "sheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheoa",
+    "anchor": "sheod",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheoa",
+    "anchor": "sheo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheb",
+    "anchor": "sheo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheb",
+    "anchor": "shed",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "thody",
+    "anchor": "tchody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "olkeer",
+    "anchor": "olkeeo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chakal",
+    "anchor": "chokal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthog",
+    "anchor": "cthom",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthog",
+    "anchor": "cthor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cthog",
+    "anchor": "ctho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oteoc",
+    "anchor": "oteos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oteoc",
+    "anchor": "oteo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "opaiis",
+    "anchor": "opaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "onchdy",
+    "anchor": "olchdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "todai",
+    "anchor": "todal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotchsy",
+    "anchor": "qotchdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "teal",
+    "anchor": "tal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ckheal",
+    "anchor": "ckheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ckheal",
+    "anchor": "ckhal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oarar",
+    "anchor": "darar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ckey",
+    "anchor": "cky",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "eeoy",
+    "anchor": "eeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "eplant",
+    "anchor": "plant",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ysam",
+    "anchor": "ytam",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheeil",
+    "anchor": "sheeol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ctheea",
+    "anchor": "ctheey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheoor",
+    "anchor": "sheeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheoor",
+    "anchor": "sheor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dytol",
+    "anchor": "ytol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otsheey",
+    "anchor": "olsheey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "ogaiin",
+    "anchor": "opaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheodo",
+    "anchor": "chedo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qkeeo",
+    "anchor": "lkeeo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qekeor",
+    "anchor": "qekor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheoe",
+    "anchor": "cheok",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheoe",
+    "anchor": "cheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dairn",
+    "anchor": "dain",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dairn",
+    "anchor": "dairin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qoktey",
+    "anchor": "qokeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qoktey",
+    "anchor": "qotey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qooiin",
+    "anchor": "qoiiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qooiin",
+    "anchor": "qoaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qooiin",
+    "anchor": "qoiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qooiin",
+    "anchor": "qotoiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "fodaiin",
+    "anchor": "kodaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "fodaiin",
+    "anchor": "qodaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lteody",
+    "anchor": "lkeody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lkeor",
+    "anchor": "ykeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lkeor",
+    "anchor": "lkeol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lkear",
+    "anchor": "lkar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lotor",
+    "anchor": "qotor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lcheg",
+    "anchor": "lched",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lcheg",
+    "anchor": "lcheo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lchem",
+    "anchor": "lched",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lchem",
+    "anchor": "lcheo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chalr",
+    "anchor": "chaly",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shackhey",
+    "anchor": "shockhey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qekeeey",
+    "anchor": "qekeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qckheey",
+    "anchor": "ckheey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "apchedy",
+    "anchor": "ypchedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "apchedy",
+    "anchor": "lpchedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "olcho",
+    "anchor": "otcho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "olcho",
+    "anchor": "olsho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "topaiin",
+    "anchor": "qopaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "topaiin",
+    "anchor": "opaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "topaiin",
+    "anchor": "toaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "toraiin",
+    "anchor": "taraiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "toraiin",
+    "anchor": "toaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tchdar",
+    "anchor": "dchdar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tchdar",
+    "anchor": "tchdor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "tchdar",
+    "anchor": "chdar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qodchdy",
+    "anchor": "qotchdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qodchdy",
+    "anchor": "qofchdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "fcheeody",
+    "anchor": "pcheeody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "fcheeody",
+    "anchor": "cheeody",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lkeee",
+    "anchor": "lkeeo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lpchey",
+    "anchor": "opchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lpchey",
+    "anchor": "pchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lpchey",
+    "anchor": "lpchedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shadaiin",
+    "anchor": "shodaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qedaiin",
+    "anchor": "qodaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qedaiin",
+    "anchor": "qoedaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheea",
+    "anchor": "shees",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheog",
+    "anchor": "cheok",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "cheog",
+    "anchor": "cheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oien",
+    "anchor": "oin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "edal",
+    "anchor": "ydal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "rshor",
+    "anchor": "dshor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "rshor",
+    "anchor": "yshor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "olpy",
+    "anchor": "opy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokok",
+    "anchor": "qokoy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokok",
+    "anchor": "qokod",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokok",
+    "anchor": "qokol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chaty",
+    "anchor": "chaly",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chaty",
+    "anchor": "chyty",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "kaiis",
+    "anchor": "kaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lkao",
+    "anchor": "lkar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "yche",
+    "anchor": "yches",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "yche",
+    "anchor": "yched",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "eeeo",
+    "anchor": "deeo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokchl",
+    "anchor": "qokcho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokchl",
+    "anchor": "qokchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "aaiin",
+    "anchor": "saiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "aaiin",
+    "anchor": "kaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qoteoa",
+    "anchor": "qoteol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qoteoa",
+    "anchor": "qoteo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chalg",
+    "anchor": "chaly",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheeay",
+    "anchor": "sheedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheeay",
+    "anchor": "sheeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chctha",
+    "anchor": "chctham",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "okaedy",
+    "anchor": "okaldy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "opchee",
+    "anchor": "opches",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "opchee",
+    "anchor": "opchey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qaiiin",
+    "anchor": "qoiiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "yhal",
+    "anchor": "ykal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "yhal",
+    "anchor": "ydal",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "kpchedy",
+    "anchor": "ypchedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "kpchedy",
+    "anchor": "lpchedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "kpchedy",
+    "anchor": "kchedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shrol",
+    "anchor": "sheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shrol",
+    "anchor": "shol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "okhar",
+    "anchor": "okchar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheady",
+    "anchor": "sheedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "sheady",
+    "anchor": "shedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "rshy",
+    "anchor": "tshy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "rshy",
+    "anchor": "rchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otcher",
+    "anchor": "otches",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otche",
+    "anchor": "otcho",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otche",
+    "anchor": "otches",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "otae",
+    "anchor": "otan",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "hdaiin",
+    "anchor": "ydaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "hdaiin",
+    "anchor": "pdaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "hdaiin",
+    "anchor": "chdaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qopeedy",
+    "anchor": "qoeeedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qopeedy",
+    "anchor": "qokeedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "olkaii",
+    "anchor": "olkair",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "chel",
+    "anchor": "cheol",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "khdy",
+    "anchor": "kshdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "khdy",
+    "anchor": "kchdy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "dainr",
+    "anchor": "dair",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "phchedy",
+    "anchor": "pochedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qoochy",
+    "anchor": "qokchy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qooeey",
+    "anchor": "qokeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "keer",
+    "anchor": "keeor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "jsheo",
+    "anchor": "ssheo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "jsheo",
+    "anchor": "sheo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotc",
+    "anchor": "qot",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokf",
+    "anchor": "qok-",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qokf",
+    "anchor": "qok",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotad",
+    "anchor": "qotai",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotdaiin",
+    "anchor": "qoedaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qotdaiin",
+    "anchor": "qodaiin",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "shckhhy",
+    "anchor": "chckhhy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "lrar",
+    "anchor": "lkar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qopchyr",
+    "anchor": "qopchar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qopchyr",
+    "anchor": "qopchor",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oloi",
+    "anchor": "olos",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oloi",
+    "anchor": "olo",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "arady",
+    "anchor": "arary",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "qorar",
+    "anchor": "qodar",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "hcphy",
+    "anchor": "shcphy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oleey",
+    "anchor": "oleeey",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "oleey",
+    "anchor": "oleedy",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  },
+  {
+    "unknown": "might",
+    "anchor": "right",
+    "type": "fuzzy_match_v1",
+    "confidence_penalty": 0.1
+  }
+]
