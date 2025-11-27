@@ -1,0 +1,21 @@
+Track 236: Balneological Translation (The Wet Book)
+
+Goal: Translate the "Wettest" pages of the manuscript (f75-f84) to see if they describe bathing/hydrotherapy.
+
+Input:
+- `results/dictionary/dictionary.json` (v10).
+- `data/eva_ivtff.txt`.
+- Target Folios: f77v, f78r, f75r (High `ol` counts).
+
+Steps:
+1. Extract text from these folios.
+2. Translate using the v10 Dictionary (`ol` = Water/Lotion).
+3. Look for "Water Words":
+   - `okeedy` (Mixture).
+   - `shedy` (Which/That -> maybe "Flowing"?).
+   - `qokeey` (Drink/Wash?).
+4. Analyze the "Blue Nymphs":
+   - Do the labels near the nymphs match the text?
+5. Produce a side-by-side translation.
+6. Output: `results/balneological_translation.md`.
+7. Summary: `results/track-236-results_summary.md`.

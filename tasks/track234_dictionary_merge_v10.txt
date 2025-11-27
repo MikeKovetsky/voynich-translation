@@ -1,0 +1,17 @@
+Track 234: Merge Elemental Dictionary v10
+
+Goal: Update the Master Dictionary with the proven Elemental Logic from Iteration 77.
+
+Input:
+- `results/dictionary/dictionary.json` (v9.1).
+- `results/dictionary_update_v10_draft.json` (Draft from Task 233).
+
+Steps:
+1. Load both files.
+2. Merge the draft entries into the Master Dictionary.
+3. Specific Overrides:
+   - Ensure `ald` and `choly` have the tag `"humoral_quality": "Hot/Dry"`.
+   - Ensure `ol` and `o` are tagged as Elemental Particles.
+4. Bump version to `10.0` (Major release due to Grammar shift).
+5. Output: `results/dictionary/dictionary.json`.
+6. Summary: `results/track-234-merge_report.md`.

@@ -1,0 +1,23 @@
+Track 235: The Aiin Investigation
+
+Goal: Decode `aiin`, the most frequent word in the "Dry" sections, which contradicts its previous definition of "Spring/Water".
+
+Input:
+- `data/eva_ivtff.txt`.
+- `results/dictionary/dictionary.json`.
+
+Hypotheses to Test:
+1. **Hebrew `Ayin` (Eye/Star):** Does it appear near stars? (Check f68r, f104r).
+2. **Hebrew `Yayin` (Wine):** Does it appear in recipes with "mixing"? (Common in medieval medicine).
+3. **Arabic `Ain` (Essence/Substance):** A generic term for "The thing itself".
+
+Steps:
+1. Extract 50 sentences containing `aiin` from "Dry" pages.
+2. Extract 50 sentences containing `aiin` from "Wet" pages.
+3. Look for collocating verbs:
+   - Is it "drunk"? (Wine).
+   - Is it "seen"? (Eye/Star).
+   - Is it "taken"? (Substance).
+4. Check morphological variants: `oaiin`, `daiin`, `kaiin`. Do they follow the `ol`/`o` pattern?
+5. Output: `results/aiin_analysis.md` with a final recommendation for its definition.
+6. Summary: `results/track-235-results_summary.md`.
