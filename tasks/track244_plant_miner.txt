@@ -1,0 +1,17 @@
+Track 244: Plant Noun Miner
+
+Goal: Mass-identify unknown words that function as Plant names in the Herbal Section.
+
+Input:
+- `data/eva_ivtff.txt` (Book II: f1-f66).
+- `results/dictionary/dictionary.json`.
+
+Logic:
+- Scan for patterns: `o-[UNKNOWN]`, `[UNKNOWN] otar` (Green [Plant]), `[UNKNOWN] oteey` (Leafy [Plant]).
+- Herbal pages are "Dry" (`o` dominant). Unknowns here are likely plants.
+
+Steps:
+1. Extract unknowns from Herbal pages.
+2. Prioritize words starting with `o-` or `ch-` (common plant prefixes).
+3. Generate a list of `plant_candidate` entries.
+4. Output: `results/mining/plant_candidates.json`.
