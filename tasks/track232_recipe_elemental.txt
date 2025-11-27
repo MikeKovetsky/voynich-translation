@@ -1,0 +1,17 @@
+Track 232: Recipe Elemental Analysis
+
+Goal: Determine if the "Grammatical Element" (`ol` vs `o`) matches the "Medicinal Property" of the ingredients.
+
+Input:
+- `results/dictionary/dictionary.json` (with Plant IDs).
+- `results/recipe_structure_v3.json` (Recipe Patterns).
+- `results/elemental_page_map.json` (from Task 231).
+
+Steps:
+1. Identify "Wet Recipes" (high `ol` usage) and "Dry Recipes" (high `o` usage).
+2. Extract the *Ingredients* used in these recipes.
+3. Check the dictionary/research for these ingredients:
+   - Do "Wet Recipes" use `oteaiin` (Water Lily)?
+   - Do "Dry Recipes" use `ald` (Thistle) or `choly` (Nettle)?
+4. Output: `results/recipe_humoral_analysis.md`.
+5. Summary: `results/track-232-results_summary.md`.
