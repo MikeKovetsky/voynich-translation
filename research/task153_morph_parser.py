@@ -10,7 +10,13 @@ def load_vocab(path):
     for line in text.splitlines():
         if line.startswith('#') or not line.strip():
             continue
+        # Filter for Takahashi (H) transcription to avoid duplicates
+        if ';H>' not in line:
+            continue
+
         clean_line = re.sub(r'<[^>]+>', '', line)
+        # Replace IVTFF delimiters with spaces
+        clean_line = re.sub(r'[.,!=]', ' ', clean_line)
         clean_line = re.sub(r'[^a-zA-Z0-9\s]', '', clean_line)
         words.extend(clean_line.split())
     return words
