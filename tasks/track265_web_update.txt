@@ -1,0 +1,10 @@
+Task: Web Update
+Goal: Make the translation accessible via the web interface.
+Inputs:
+- results/quire20_translation_final.md
+- results/dictionary/master_dictionary_v14.json
+
+Steps:
+1. Convert `quire20_translation_final.md` to `web/src/data/quire20.json`.
+2. Copy `master_dictionary_v14.json` to `web/src/data/dictionary.json`.
+3. Update `web/src/App.js` (or similar) to display the new translation.
