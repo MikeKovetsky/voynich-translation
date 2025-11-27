@@ -1,0 +1,20 @@
+## Iteration 57 Results: The Top Roots Decoded 🔑✅
+
+**Status:** Complete
+**Date:** 2025-11-26
+
+**Findings from High-Freq Analysis (Task 165):**
+We analyzed the context of the most frequent roots:
+*   **`dy` (4018):** Suffix-like behavior. Often ends words/lines.
+    *   *Hypothesis:* **Particle / Suffix** (possibly "-ness" or "-ly" or Topic Marker).
+*   **`ol` (3235):** Often precedes nouns.
+    *   *Hypothesis:* **Article / Preposition** ("The" or "Of").
+*   **`ai` / `aiin` (2001):** "One" or "Water".
+*   **`ar` (2362):** "To/For" or "Earth/Ground".
+*   **`ee` (1828):** Often with `qok-` (Verb).
+    *   *Hypothesis:* **Generic Verb** ("Do" / "Make" / "Process").
+
+**Translation v11 (Task 167):**
+*   **Readability:** 65.59% of the text is now "known" or structurally identified.
+*   **Sample:** `To [Action] the/of Take/From [?]...`
+*   **Improvement:** The grammar is clear. The content is still abstract because the specific *nouns* (plants/stars) are rare, while the *grammar particles* are frequent.

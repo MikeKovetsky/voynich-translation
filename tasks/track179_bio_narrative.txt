@@ -1,0 +1,25 @@
+# Task 179: Bio Narrative Structure
+
+## Goal
+Analyze the "Biological" section (f75r-f84v) as a continuous narrative/process description.
+
+## Input
+- `results/parsed_text.json` (Bio Section)
+- `results/verb_morphology.json`
+
+## Process
+1.  **Sentence Segmentation:**
+    - Use `dy` and paragraph breaks to split text into sentences.
+2.  **Subject Tracking:**
+    - Identify the Subject of each sentence (Noun before the Verb?).
+    - Does the subject persist? (e.g., Sentence 1: "The Water...", Sentence 2: "It flows...").
+3.  **Action Chain:**
+    - Map the sequence of verbs (`qok-[Root]-dy`).
+    - Is there a logical progression? (e.g., Enter -> Mix -> Leave).
+4.  **Terminology Check:**
+    - Do "Bio" terms overlap with "Recipe" terms? (Shared processes).
+
+## Output
+- `results/bio_narrative_flow.md`: Step-by-step breakdown of the narrative.
+- `results/bio_process_graph.json`: Directed graph of the actions.
+- `results/track-179-results_summary.md`: Summary.

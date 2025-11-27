@@ -1,0 +1,80 @@
+## 🌻 Step 14: Full Page Translation Attempt - f17r (Nov 24, 2025)
+
+### Target: Cornflower (Centaurea cyanus) page
+
+**Page Statistics:**
+- 📄 78 total words across 12 lines
+- 📊 75 unique words (96% - very low repetition!)
+- 🌿 First word: `f2o89` - likely plant name
+
+### 🔬 Grammatical Analysis Results:
+
+| Metric | Value |
+|--------|-------|
+| Grammatical coherence | **63%** ✅ |
+| Semantic coherence | **60%** |
+| Domain coherence | **80%** ✅ |
+| Overall verdict | **PARTIAL** |
+
+### 📋 Structure Mapping (Medieval Herbal Pattern):
+
+| Line | Expected | Observed |
+|------|----------|----------|
+| 1 | Plant name | `f2o89` - likely cornflower name |
+| 2-4 | Physical description | Multiple nouns with case endings |
+| 5-7 | Properties/habitat | `4oh-` prefix words ("the herb") |
+| 8-10 | Medicinal uses | Verb markers (`1-`) present |
+| 11-12 | Preparation | Accusative objects (`-am`) |
+
+### 🔍 Prefix/Suffix Distribution on f17r:
+
+**Most common prefixes:**
+- `4o-` / `4oh-` (article "the") - 11 occurrences
+- `1-` / `1o-` / `1c-` (verb marker) - 14 occurrences  
+- `8-` / `8a-` (preposition "of/from") - 12 occurrences
+- `oh-` / `ok-` / `og-` (class markers) - 11 occurrences
+
+**Most common suffixes:**
+- `-9` (nominative) - 24 words (31%)
+- `-89` (genitive plural) - 8 words
+- `-oe` (locative) - 4 words
+- `-ay` (genitive) - 6 words
+
+### 💡 Key Insights:
+
+1. **Structure matches medieval herbals!**
+   - Plant name appears first (Line 1)
+   - Description follows (Lines 2-4)
+   - Properties/uses in middle (Lines 5-10)
+   - Preparation at end (Lines 11-12)
+
+2. **Grammar model holds up:**
+   - PREFIX + ROOT + SUFFIX structure confirmed
+   - 63% of words parse correctly with known rules
+   - Case system consistent throughout
+
+3. **What's still missing:**
+   - Can't produce readable text in any known language
+   - Phonetic mapping doesn't reveal Latin/Romance words
+   - No clear cornflower-related keywords found
+
+### 📁 Output Files:
+- `translate.py` - Page translation script
+- `results/page_translation_f17r.json` - Full analysis (78 words)
+
+### 🎯 Verdict: PARTIAL SUCCESS
+
+**What worked:**
+- ✅ Complete word-by-word parsing
+- ✅ Grammar model validated (63% coherence)
+- ✅ Structure matches herbal text pattern
+- ✅ Domain coherence high (80%)
+
+**What didn't work:**
+- ❌ No readable translation produced
+- ❌ Phonetic mapping doesn't yield known words
+- ❌ Can't identify source language
+
+**Conclusion:** The grammar framework is SOLID - we can parse the text structurally. But without knowing the source language, true translation remains impossible. The high domain coherence (80%) suggests this IS botanical text, just in an unknown language/encoding.
+
+---

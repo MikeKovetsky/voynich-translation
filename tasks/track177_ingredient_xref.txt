@@ -1,0 +1,23 @@
+# Task 177: Ingredient Cross-Reference
+
+## Goal
+Find matches between the "Plant Names" identified in the Herbal Section and the words used in the Recipe Section. This will link the "Theory" (Herbal) to the "Practice" (Recipes).
+
+## Input
+- `results/herbal_taxonomy.json` (List of Plant Names from Task 176)
+- `results/parsed_text.json` (Recipe Section: f103r-f116v)
+
+## Process
+1.  **Load Plant Names:** Get the list of unique words labeled as `PLANT_NAME` (or high-confidence specific nouns).
+2.  **Scan Recipes:** Search for these exact words (or their roots) in the Recipe pages.
+3.  **Record Matches:**
+    - Match: `[Word]` found in `[Recipe Page/Paragraph]`.
+    - Source: `[Herbal Page]` where the word is defined.
+4.  **Analyze Frequency:**
+    - Are some plants "Base Ingredients" (appear in many recipes)?
+    - Are some recipes "Single Plant" preparations?
+
+## Output
+- `results/recipe_plant_matches.json`: List of matches {recipe_id, plant_word, source_page}.
+- `results/ingredient_frequency.csv`: Most used plants.
+- `results/track-177-results_summary.md`: Summary.

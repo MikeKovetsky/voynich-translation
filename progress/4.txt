@@ -1,0 +1,58 @@
+## 🔮 Step 4: Deep Pattern Analysis (Nov 24, 2025)
+
+### Word Structure Discovery:
+
+**Prefixes (word beginnings):**
+- 'o' appears at start of 21.1% of words
+- '4o' is a MASSIVE pattern (12.9% of words!)
+- '1c' prefix: 6.7%
+
+**Suffixes (word endings):**
+- '9' at end: 37.0% of words!
+- '89' at end: 11.8%
+- 'am' at end: 9.4%
+- 'oe' at end: 8.9%
+
+### 💡 Key Insight: Root Word Extraction
+
+When we strip common endings, top roots are:
+- '1c' - 1,351 occurrences
+- '4oh' - 1,235 occurrences
+- 'oe' - 919
+- 'oh' - 888
+- 'ok' - 871
+
+These roots with different suffixes create word families!
+
+Example: '4oh' + endings = 4ohan, 4oham, 4ohae, 4ohC9, etc.
+
+### Self-Citation Pattern (Very Unusual!)
+
+Words that repeat near themselves:
+- '8am' repeats within 5 words 125 times
+- 'oe' repeats 117 times
+- 'am' repeats 77 times
+
+This suggests either:
+1. Lists or catalogues (like herbal recipes!)
+2. Chanting/repetitive text
+3. Or a specific literary style
+
+### 🔥 Working Hypothesis:
+
+```
+VOYNICH WORD = [PREFIX] + [ROOT] + [SUFFIX]
+
+PREFIX: 4o = article/determiner ("the")
+        1 = verb marker or class marker
+        o = maybe just word-starter
+
+ROOT: oh, 1c, ok, 2c, etc. (2-3 chars)
+
+SUFFIX: 9 = nominative/default case
+        am = accusative/object case
+        oe = dative/location?
+        ay = genitive/possessive?
+```
+
+---

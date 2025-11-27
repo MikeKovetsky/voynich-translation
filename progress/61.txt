@@ -1,0 +1,22 @@
+## Iteration 61: The Great Cross-Reference 🔗
+
+**Status:** In Progress
+**Date:** 2025-11-26
+
+**Goal:**
+Connect the "Reference Data" (Herbal Names) to the "Instructions" (Recipes). We want to find out *which* plants are being used in the recipes.
+
+**Tasks Created:**
+1.  **Task 177 (Ingredient Cross-Reference):**
+    - Search for the **244 Plant Names** (found in Task 176) within the **Recipe Section**.
+    - *Hypothesis:* If `[Plant X]` appears in `[Recipe Y]`, we can link the recipe to the illustration.
+2.  **Task 178 (Plant Part Decoding):**
+    - Analyze the **77 Plant Parts** (e.g., `oty`, `otol`).
+    - Look at their adjectives (descriptors).
+    - *Hypothesis:* `oty` might be "Leaf" if it appears with "Green/Big". `otol` might be "Root".
+3.  **Task 179 (Bio Narrative Structure):**
+    - Segment the **Bio Section** (Narrative) into event chains.
+    - Track the flow of nouns through the narrative (e.g., does "Water" move from sentence 1 to sentence 2?).
+
+**Hypothesis:**
+The "Recipes" are practical applications of the "Herbal" knowledge. We expect to find direct vocabulary links between specific Herbal pages and Recipe paragraphs.
