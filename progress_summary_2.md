@@ -2,42 +2,53 @@
 
 ... (previous content) ...
 
-## Iteration 58: The Semantic Web 🕸️
+## Iteration 59: Semantic Verification & The "ed" Mystery 🕵️‍♂️
 
 **Status:** Complete
 **Date:** 2025-11-26
 
 **Findings:**
-1.  **Noun Clustering (Task 168):**
-    - Successfully clustered 1725 nouns into 72 semantic groups.
-    - **Key Clusters Identified:**
-        - `ai` (Water/Liquid context)
-        - `ar` (Earth/Material context)
-        - `ee` (Manufactured/Made items)
-        - `ed` (The largest, most mysterious cluster - possibly "Processed" items?)
-2.  **Topic Modeling (Task 169):**
-    - LDA analysis confirmed distinct vocabularies for different sections.
-    - **Topic 1 (Astronomical/Herbal):** Characterized by `ees`, `hs`, `eos` (Star/Space terms?).
-    - **Topic 4 (Biological/Recipes):** Characterized by `eda`, `qo`, `fch` (Process/Action terms?).
-3.  **Final Report v2 (Task 170):**
-    - Dictionary updated to v3 with semantic tags.
-    - Translation v12 uses these clusters to provide "Category placeholders" for unknown nouns (e.g., `[Ingredient]`, `[Star]`).
+1.  **Cluster-Section Correlation (Task 171):**
+    - Confirmed distinct vocabularies.
+    - **Herbal:** 98 unique noun clusters (Plant names/parts?).
+    - **Astro:** 74 unique clusters (Star names/sky terms?).
+    - **Recipes:** 44 unique clusters (Ingredients/Tools?).
+    - **Bio:** 10 unique clusters (Anatomy?).
+2.  **The `ed` Investigation (Task 172):**
+    - `ed` (or `edy`) is the **"Recipe Verb"**.
+    - It appears 490 times in Bio and 429 times in Recipes, but is *absent* in Astro/Herbal.
+    - It takes the `qok-` (Verb) prefix and `-y` suffix.
+    - **Conclusion:** `ed` = "Mix", "Process", or "Treat". It is the core action of the manuscript's "practical" sections.
+3.  **Verb Morphology (Task 173):**
+    - **`-y` Suffix:** Dominates in "Instructional" sections (Recipes). Likely **Imperative** ("Mix!").
+    - **`-dy` Suffix:** Dominates in "Narrative" sections (Bio). Likely **Past/Passive** ("It was mixed").
 
-## Iteration 59: Semantic Verification & The "ed" Mystery 🕵️‍♂️
+## Iteration 60: The Grammar of Action 🎬
 
 **Status:** In Progress
 **Date:** 2025-11-26
 
 **Goal:**
-Verify the semantic clusters against the "Ground Truth" of the illustrations (do "Plant" words actually appear on Plant pages?) and solve the mystery of the `ed` root, which is a central hub in our network.
+Apply our new grammatical rules (`-y` = Imperative, `-dy` = Narrative, `ed` = Process) to generate context-aware translations. We will try to read the Recipes as a list of instructions and the Bio section as a story.
 
 **Tasks Created:**
-1.  **Task 171 (Cluster Correlation):** Map the 72 Noun Clusters to the manuscript sections (Herbal vs. Astro vs. Bio).
-    - *Hypothesis:* "Herbal" clusters will exclusively appear in the Herbal section.
-2.  **Task 172 (The `ed` Investigation):** Deep dive into the `ed` root (found in `eda`, `o-ed`, `qok-ed`).
-    - It's the bridge between "Topics". Is it a generic "Item"? Or "Process"?
-3.  **Task 173 (Verb Morphology):** Analyze the `qok-` prefix (Verb Marker) to find Tense/Aspect suffixes.
-    - If we can read the *time* of the action, we can distinguish narratives from instructions.
+1.  **Task 174 (Text Type Classification):**
+    - Split the manuscript into "Instructional" (Recipes/Stars) and "Narrative" (Bio/Rosettes) based on the `-y`/`-dy` ratio.
+    - Create separate translation rules for each mode.
+2.  **Task 175 (Recipe Decoding):**
+    - Translate the Recipe section (Quire 20) using the specific hypothesis:
+    - `qok-ed-y` = "Process!" / "Mix!"
+    - `ol [Noun]` = "The [Ingredient]"
+    - `dy` = End of step.
+3.  **Task 176 (Herbal Noun Differentiation):**
+    - Analyze the 98 "Herbal Clusters".
+    - **Hypothesis:**
+        - Words appearing on *only one page* = **Plant Names**.
+        - Words appearing on *many pages* = **Plant Parts** (Root, Leaf).
+    - Tag these accordingly in the dictionary.
 
 **Hypothesis:**
-The `ed` root is the "Voinych generic noun" (like "thing" or "element") or a very common participle ("treated").
+The manuscript is not just one text; it's a **Lab Notebook**.
+- **Herbal/Astro:** Reference Data (Nouns).
+- **Recipes:** Instructions (Imperative Verbs).
+- **Bio:** Observations/Results (Narrative Verbs).

@@ -1,0 +1,24 @@
+# Task 174: Text Type Classification
+
+## Goal
+Classify every page of the manuscript as "Instructional", "Narrative", or "Descriptive" based on the ratio of verb suffixes (`-y` vs `-dy`) and the presence of key roots (`ed`, `qok`).
+
+## Input
+- `results/parsed_text.json` (Text grouped by Page ID)
+- `results/verb_morphology.json`
+
+## Process
+1.  **Metric Calculation:** For each page, calculate:
+    - **Imperative Score:** Count of words ending in `-y` (especially with `qok-`).
+    - **Narrative Score:** Count of words ending in `-dy` (especially with `qok-`).
+    - **Process Score:** Count of root `ed`.
+2.  **Classification:**
+    - **Instructional:** High Imperative, High Process. (Expected: Recipes)
+    - **Narrative:** High Narrative. (Expected: Bio, Rosettes)
+    - **Descriptive:** Low verbs, high Noun density (`o-`). (Expected: Herbal, Astro)
+3.  **Map Generation:** Create a visual map (or table) of the manuscript's "Genre".
+
+## Output
+- `results/page_types.json`: Mapping of Page ID -> Type (Instructional/Narrative/Descriptive).
+- `results/genre_map.md`: Report analyzing the flow of the book.
+- `results/track-174-results_summary.md`: Summary.

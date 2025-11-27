@@ -1,0 +1,25 @@
+# Task 176: Herbal Noun Differentiation
+
+## Goal
+Distinguish between "Plant Names" (Specific) and "Plant Parts" (Generic) within the Herbal Section.
+
+## Input
+- `results/noun_clusters.json` (Specifically the 98 "Herbal" clusters from Task 171)
+- `results/parsed_text.json` (Herbal pages only)
+
+## Process
+1.  **Frequency Distribution:**
+    - For each word in the Herbal Clusters:
+        - Count distinct pages it appears on.
+        - Count total occurrences.
+2.  **Classification:**
+    - **Label: PLANT_NAME:** High frequency on *one* page (or 1-2 adjacent pages), zero elsewhere. (e.g., "This is the [Rose]").
+    - **Label: PLANT_PART:** Medium frequency across *many* pages. (e.g., "Its [leaves] are green").
+3.  **Validation:**
+    - Check if "Plant Names" appear in the first paragraph (Label position).
+    - Check if "Plant Parts" appear in the text body.
+
+## Output
+- `results/herbal_taxonomy.json`: Mapping of Word -> Category (Name vs. Part).
+- `results/herbal_glossary.md`: List of potential Plant Names vs. Parts.
+- `results/track-176-results_summary.md`: Summary.
