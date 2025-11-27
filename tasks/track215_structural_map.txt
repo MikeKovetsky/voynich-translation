@@ -1,0 +1,22 @@
+# Task 215: Full Quire Structural Map
+
+## Goal
+Create a comprehensive structural map of Quire 20 to visualize the organization of the recipes.
+
+## Input
+- `results/recipe_starters.csv`
+- `results/star_color_map.csv`
+
+## Process
+1.  **Merge Data:**
+    - Combine Page, Paragraph Index, Star Color, and Starter Word.
+2.  **Visualization:**
+    - Create a table or ASCII chart showing the flow.
+    - `f103r.1: Red Star - Saiin`
+    - `f103r.2: Blue Star - Daiin`
+3.  **Analysis:**
+    - Are the "Red Recipes" grouped together? Or interleaved?
+
+## Output
+- `results/quire20_structure.md`: The map.
+- `results/track-215-results_summary.md`: Summary.

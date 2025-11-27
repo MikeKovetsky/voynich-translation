@@ -1,0 +1,24 @@
+# Task 214: The "Star" Decoding
+
+## Goal
+Correlate the visual properties of the Marginal Stars (Color, Tail) with the textual content of the recipe.
+
+## Input
+- `web_search` (Voynich Quire 20 star colors)
+- `results/parsed_text.json`
+- `results/recipe_starters.csv` (from Task 213)
+
+## Process
+1.  **Visual Data:**
+    - Find a dataset or manual check of the Star Colors (Red, Blue, Green, Gold).
+    - Map `[Page.Paragraph]` -> `[Star Color]`.
+2.  **Correlation:**
+    - Does Red Star always pair with `saiin`?
+    - Does Blue Star always pair with `daiin`?
+3.  **Hypothesis Testing:**
+    - Red = Hot/Mars/Iron?
+    - Blue = Cool/Venus/Water?
+
+## Output
+- `results/star_color_map.csv`: Correlation table.
+- `results/track-214-results_summary.md`: Summary.

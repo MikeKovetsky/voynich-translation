@@ -1,44 +1,43 @@
-## Iteration 71: The Number & Unit Solver 🔢
+## Iteration 72: The Measurement Dictionary 📏
 
 **Status:** Complete
 **Date:** 2025-11-26
 
 **Goal:**
-Identify the Number System and Measurement Units to interpret recipes.
+Formalize the measurement units into the dictionary and apply them to get exact quantities in the recipes.
 
 **Findings:**
-1.  **Number System (Task 207):**
-    - **Star Rings:** Page f68r has 62 labels, but no simple 1-2-3 sequence.
-    - **Zodiac Degrees:** Pages f72r, f72v have ~90 labels (30 per sign). This confirms a **30-degree Zodiac system**.
-    - **Glyphs:** No standard `i, ii, iii` sequence found in labels. `ii` (2) remains the only strong candidate from the recipes.
-2.  **Unit Identification (Task 208):**
-    - **`saiin`** = **Cup** (Cyathus). Pattern: `saiin ol aiin` ("Cup of Water").
-    - **`daiin`** = **Cup/Take** (Variant). Pattern: `daiin ol aiin`.
-    - **`ar`** = **Handful** (Manipulus). Pattern: `ar che` ("Handful of Herbs").
-3.  **Star Catalog (Task 209):**
-    - 980 labels extracted. 75% unique.
-    - Common prefixes: `ot-` (From?), `ok-` (With?), `ch-` (Plant?).
-    - **Conclusion:** Star labels are **not numbers**. They are Names or Descriptions (e.g., "The Red Star", "The Plant Star").
+1.  **Dictionary Update v9.4 (Task 210):**
+    - Added `saiin` (Cup), `ar` (Handful), `ii` (Two).
+    - Updated `qok` to "Take/Mix".
+2.  **Quantitative Translation (Task 211):**
+    - Tried to translate 20 recipes with the structure `[Verb] [Amount] [Unit]`.
+    - **Result:** The full structure is rare. `saiin` appears, but often alone. The grammar is more like "Cup of X" rather than "Take 2 Cups".
+3.  **Visual Confirmation (Task 212):**
+    - **No cups drawn** in the Recipe section.
+    - **Discovery:** `saiin` often appears as the *first word* of paragraphs marked by a **Star Bullet**.
+    - **Hypothesis:** `saiin` isn't just a unit; it's the **"Item"** marker (like `<li>` in HTML).
 
-## Iteration 72: The Measurement Dictionary 📏
+## Iteration 73: The "Recipe Bullet" Theory 📋
 
 **Status:** In Progress
 **Date:** 2025-11-26
 
 **Goal:**
-Formalize the measurement units into the dictionary and apply them to get exact quantities in the recipes.
+If `saiin` is a bullet point, the Recipe Section structure is `* [Item] [Action]`. We need to decode the other "Bullets" to see if they categorize the recipes (e.g., "Drink", "Salve", "Ointment").
 
 **Tasks Created:**
-1.  **Task 210 (Dictionary Update v9.4):**
-    - Add `saiin` (Cup), `ar` (Handful), `ii` (Two).
-    - Add `daiin` (Take/Cup).
-    - Update `qok` to "Take/Mix" (Recipe Verb).
-2.  **Task 211 (Quantitative Translation):**
-    - Re-translate 20 recipes from Quire 20.
-    - Focus on the "Ingredients List" section of each recipe.
-    - Do we see "2 Handfuls of Thistle"?
-3.  **Task 212 (Visual Confirmation):**
-    - Check f103r-f116v for any drawings of cups, spoons, or hands that might align with `saiin` or `ar`.
+1.  **Task 213 (Bullet Analysis):**
+    - Analyze the **First Word** of every paragraph in Quire 20 (f103r-f116v).
+    - What are the top 5 "Starter Words"?
+    - *Hypothesis:* `saiin` = Drink. `daiin` = Lotion? `qok` = Solid?
+2.  **Task 214 (The "Star" Decoding):**
+    - Look at the **Marginal Stars** (Red vs Blue tails).
+    - Correlate Star Color with the Starter Word.
+    - *Hypothesis:* Red Star + `saiin` = Hot Drink. Blue Star + `daiin` = Cool Lotion.
+3.  **Task 215 (Full Quire Structural Map):**
+    - Create a visual map of Quire 20.
+    - `[Page] [Paragraph] [Star Color] [Starter Word]`.
 
 **Hypothesis:**
-The recipes are imprecise ("Take a cup"), typical of medieval folk medicine, rather than precise chemistry.
+Quire 20 is organized by **Delivery Method** (Drink vs Ointment), marked by the star bullets.
