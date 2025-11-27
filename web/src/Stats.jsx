@@ -2,6 +2,7 @@ import React, { useState, useMemo } from 'react';
 import { BarChart, Activity, Book, Star, User } from 'lucide-react';
 import translations from './data/translations.json';
 import dictionaryData from './data/dictionary.json';
+import manuscriptData from './data/manuscript_data.json';
 
 const Stats = () => {
   const [selectedSection, setSelectedSection] = useState('All');
@@ -9,7 +10,8 @@ const Stats = () => {
   // --- Calculation Logic (Ported from Python) ---
   const statsData = useMemo(() => {
     const getSection = (page) => {
-      const match = page.match(/f(\d+)([rv]?)/);
+      // Handle both 'f10r' and '10r' formats
+      const match = page.match(/^f?(\d+)([rv]?)/i);
       if (!match) return "Unknown";
       
       const num = parseInt(match[1], 10);
@@ -46,13 +48,13 @@ const Stats = () => {
 
     // Initialize sections
     const sections = {
-      "Botanical": { total_pages: 0, translated_pages: 0, confidence_sum: 0 },
-      "Astronomical": { total_pages: 0, translated_pages: 0, confidence_sum: 0 },
-      "Biological": { total_pages: 0, translated_pages: 0, confidence_sum: 0 },
-      "Cosmological": { total_pages: 0, translated_pages: 0, confidence_sum: 0 },
-      "Pharmaceutical": { total_pages: 0, translated_pages: 0, confidence_sum: 0 },
-      "Recipes": { total_pages: 0, translated_pages: 0, confidence_sum: 0 },
-      "Unknown": { total_pages: 0, translated_pages: 0, confidence_sum: 0 }
+      "Botanical": { total_pages: 0, translated_pages: 0, confidence_sum: 0, dictionary: null },
+      "Astronomical": { total_pages: 0, translated_pages: 0, confidence_sum: 0, dictionary: null },
+      "Biological": { total_pages: 0, translated_pages: 0, confidence_sum: 0, dictionary: null },
+      "Cosmological": { total_pages: 0, translated_pages: 0, confidence_sum: 0, dictionary: null },
+      "Pharmaceutical": { total_pages: 0, translated_pages: 0, confidence_sum: 0, dictionary: null },
+      "Recipes": { total_pages: 0, translated_pages: 0, confidence_sum: 0, dictionary: null },
+      "Unknown": { total_pages: 0, translated_pages: 0, confidence_sum: 0, dictionary: null }
     };
 
     let totalPages = 0;
@@ -76,42 +78,120 @@ const Stats = () => {
       }
     });
 
-    // Finalize Section Stats
+    // Finalize Section Page Stats
     Object.keys(sections).forEach(key => {
       const s = sections[key];
       s.avg_confidence = s.translated_pages > 0 ? parseFloat((s.confidence_sum / s.translated_pages).toFixed(1)) : 0;
       s.coverage_percent = s.total_pages > 0 ? parseFloat(((s.translated_pages / s.total_pages) * 100).toFixed(1)) : 0;
     });
 
-    // Global Stats
+    // --- DICTIONARY STATS CALCULATION ---
+
+    // 1. Calculate Section Words first
+    const sectionWords = {};
+    Object.keys(sections).forEach(k => sectionWords[k] = new Set());
+    // Also track all unique words in manuscript for Global stats
+    const allManuscriptWords = new Set();
+
+    // Map words to sections using manuscriptData
+    Object.entries(manuscriptData).forEach(([pageId, data]) => {
+       const sec = getSection(pageId);
+       
+       if (data.text) {
+           const cleanText = data.text
+               .replace(/`/g, '') 
+               .replace(/<.*?>/g, '') 
+               .replace(/\$/g, '') 
+               .replace(/[.,]/g, ' '); 
+           
+           const words = cleanText.split(/\s+/).filter(w => w && w.length > 0);
+           words.forEach(w => {
+             if (sectionWords[sec]) sectionWords[sec].add(w);
+             allManuscriptWords.add(w);
+           });
+       }
+    });
+
+    // 2. Global Dictionary Stats (Based on Manuscript Words)
+    // This ensures consistency with Section stats (Metric B: Text Readability)
+    const globalDictStats = {
+      total_entries: allManuscriptWords.size,
+      domains: {},
+      confidence_levels: {},
+      translation_status: { 0: 0, 1: 0, 2: 0 }
+    };
+
+    allManuscriptWords.forEach(word => {
+        const entry = dictionaryData.entries[word];
+        if (entry) {
+            const status = entry.translation_status !== undefined ? entry.translation_status : 0;
+            globalDictStats.translation_status[status]++;
+            
+            const conf = entry.confidence_level || 'UNKNOWN';
+            globalDictStats.confidence_levels[conf] = (globalDictStats.confidence_levels[conf] || 0) + 1;
+
+            const domain = entry.domain || 'unknown';
+            globalDictStats.domains[domain] = (globalDictStats.domains[domain] || 0) + 1;
+        } else {
+            // Word in text but not in dictionary -> Untranslated
+            globalDictStats.translation_status[0]++;
+        }
+    });
+
+    const globalWeightedSum = (globalDictStats.translation_status[2] * 1.0) + (globalDictStats.translation_status[1] * 0.5);
+    globalDictStats.completeness_score = globalDictStats.total_entries > 0 
+      ? parseFloat(((globalWeightedSum / globalDictStats.total_entries) * 100).toFixed(1))
+      : 0;
+
+
+    // 3. Section Dictionary Stats (Based on Word Occurrence)
+    // Calculate stats for each section
+    Object.keys(sections).forEach(secKey => {
+        const words = sectionWords[secKey];
+        const stats = {
+            total_entries: words.size,
+            translation_status: { 0: 0, 1: 0, 2: 0 },
+            confidence_levels: {},
+            domains: {}
+        };
+
+        words.forEach(word => {
+            const entry = dictionaryData.entries[word];
+            if (entry) {
+                const status = entry.translation_status !== undefined ? entry.translation_status : 0;
+                stats.translation_status[status]++;
+                
+                const conf = entry.confidence_level || 'UNKNOWN';
+                stats.confidence_levels[conf] = (stats.confidence_levels[conf] || 0) + 1;
+
+                const domain = entry.domain || 'unknown';
+                stats.domains[domain] = (stats.domains[domain] || 0) + 1;
+            } else {
+                // Word appearing in text but not in dictionary -> Untranslated
+                stats.translation_status[0]++;
+            }
+        });
+
+        const wSum = (stats.translation_status[2] * 1.0) + (stats.translation_status[1] * 0.5);
+        stats.completeness_score = stats.total_entries > 0 
+            ? parseFloat(((wSum / stats.total_entries) * 100).toFixed(1))
+            : 0;
+            
+        sections[secKey].dictionary = stats;
+    });
+
+    // Global Stats Object
     const globalStats = {
       total_pages: totalPages,
       translated_pages: translatedPages,
       avg_confidence: translatedPages > 0 ? parseFloat((totalConfidenceSum / translatedPages).toFixed(1)) : 0,
-      coverage_percent: totalPages > 0 ? parseFloat(((translatedPages / totalPages) * 100).toFixed(1)) : 0
+      coverage_percent: totalPages > 0 ? parseFloat(((translatedPages / totalPages) * 100).toFixed(1)) : 0,
+      dictionary: globalDictStats
     };
-
-    // Process Dictionary Stats
-    const dictStats = {
-      total_entries: dictionaryData.total_entries || Object.keys(dictionaryData.entries).length,
-      domains: {},
-      confidence_levels: {}
-    };
-
-    Object.values(dictionaryData.entries).forEach(entry => {
-      // Domain
-      const domain = entry.domain || 'unknown';
-      dictStats.domains[domain] = (dictStats.domains[domain] || 0) + 1;
-      
-      // Confidence Level
-      const conf = entry.confidence_level || 'UNKNOWN';
-      dictStats.confidence_levels[conf] = (dictStats.confidence_levels[conf] || 0) + 1;
-    });
 
     return {
       global: globalStats,
-      sections: sections,
-      dictionary: dictStats
+      sections: sections
     };
   }, []);
 
@@ -158,6 +238,30 @@ const Stats = () => {
 
         {/* Main Stats Grid */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+          {/* North Star Card */}
+          <div className="bg-slate-900 p-6 rounded-xl border border-amber-500/30 shadow-xl relative overflow-hidden">
+            <div className="absolute top-0 right-0 p-4 opacity-10">
+              <Star className="w-24 h-24 text-amber-500" />
+            </div>
+            <div className="flex items-center justify-between mb-4 relative z-10">
+              <h3 className="text-lg font-semibold text-amber-500">North Star Metric</h3>
+              <Star className="w-5 h-5 text-amber-500" />
+            </div>
+            <div className="text-4xl font-bold text-white relative z-10">
+              {currentStats.dictionary?.completeness_score || 0}%
+            </div>
+            <div className="text-sm text-slate-400 mt-2 relative z-10">
+              Dictionary Translation Completeness
+            </div>
+            {/* Progress Bar */}
+            <div className="w-full bg-slate-800 h-2 rounded-full mt-4 overflow-hidden relative z-10">
+              <div 
+                className="bg-gradient-to-r from-amber-600 to-yellow-400 h-full transition-all duration-500" 
+                style={{ width: `${currentStats.dictionary?.completeness_score || 0}%` }}
+              />
+            </div>
+          </div>
+
           {/* Coverage Card */}
           <div className="bg-slate-900 p-6 rounded-xl border border-slate-800 shadow-xl">
             <div className="flex items-center justify-between mb-4">
@@ -219,9 +323,8 @@ const Stats = () => {
         </div>
 
         {/* Detailed Breakdown for ALL view */}
-        {selectedSection === 'All' && (
-          <div className="space-y-8">
-            {/* Page Stats Table */}
+        <div className="space-y-8">
+          {selectedSection === 'All' && (
             <div className="bg-slate-900 rounded-xl border border-slate-800 overflow-hidden">
                <div className="p-4 border-b border-slate-800 bg-slate-800/50">
                   <h3 className="font-bold text-slate-200">Page Translation Breakdown</h3>
@@ -268,69 +371,92 @@ const Stats = () => {
                   </table>
                </div>
             </div>
+          )}
 
-            {/* Dictionary Stats */}
-            {statsData.dictionary && (
-              <div className="bg-slate-900 rounded-xl border border-slate-800 overflow-hidden p-6">
-                 <h3 className="text-xl font-bold text-amber-500 mb-6 flex items-center gap-2">
-                    <Book className="w-6 h-6" />
-                    Dictionary Statistics
-                 </h3>
-                 
-                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-                    {/* Left: Overview */}
-                    <div>
-                        <div className="mb-6">
-                            <div className="text-sm text-slate-400 mb-1">Total Dictionary Entries</div>
-                            <div className="text-4xl font-bold text-slate-100">{statsData.dictionary.total_entries}</div>
-                        </div>
+          {/* Dictionary Stats - Visible for all sections */}
+          {currentStats.dictionary && (
+            <div className="bg-slate-900 rounded-xl border border-slate-800 overflow-hidden p-6">
+               <h3 className="text-xl font-bold text-amber-500 mb-6 flex items-center gap-2">
+                  <Book className="w-6 h-6" />
+                  Dictionary Statistics ({selectedSection})
+               </h3>
+               
+               <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                  {/* Left: Overview */}
+                  <div>
+                      <div className="mb-6">
+                          <div className="text-sm text-slate-400 mb-1">Total Dictionary Entries</div>
+                          <div className="text-4xl font-bold text-slate-100">{currentStats.dictionary.total_entries}</div>
+                      </div>
 
-                        <h4 className="font-semibold text-slate-300 mb-4">Confidence Levels</h4>
-                        <div className="space-y-3">
-                            {Object.entries(statsData.dictionary.confidence_levels)
-                              .sort(([,a], [,b]) => b - a)
-                              .map(([level, count]) => (
-                                <div key={level}>
-                                    <div className="flex justify-between text-sm mb-1">
-                                        <span className="text-slate-400">{level}</span>
-                                        <span className="text-slate-200">{count}</span>
-                                    </div>
-                                    <div className="w-full bg-slate-800 h-2 rounded-full overflow-hidden">
-                                        <div 
-                                            className={`h-full ${
-                                                level === 'VERIFIED' ? 'bg-green-400' :
-                                                level.includes('HIGH') ? 'bg-green-500' :
-                                                level === 'MEDIUM' ? 'bg-amber-500' :
-                                                'bg-slate-600'
-                                            }`}
-                                            style={{ width: `${(count / statsData.dictionary.total_entries) * 100}%` }}
-                                        />
-                                    </div>
-                                </div>
-                            ))}
-                        </div>
-                    </div>
+                      <h4 className="font-semibold text-slate-300 mb-4">Confidence Levels</h4>
+                      <div className="space-y-3 mb-8">
+                          {Object.entries(currentStats.dictionary.confidence_levels)
+                            .sort(([,a], [,b]) => b - a)
+                            .map(([level, count]) => (
+                              <div key={level}>
+                                  <div className="flex justify-between text-sm mb-1">
+                                      <span className="text-slate-400">{level}</span>
+                                      <span className="text-slate-200">{count}</span>
+                                  </div>
+                                  <div className="w-full bg-slate-800 h-2 rounded-full overflow-hidden">
+                                      <div 
+                                          className={`h-full ${
+                                              level === 'VERIFIED' ? 'bg-green-400' :
+                                              level.includes('HIGH') ? 'bg-green-500' :
+                                              level === 'MEDIUM' ? 'bg-amber-500' :
+                                              'bg-slate-600'
+                                          }`}
+                                          style={{ width: `${(count / currentStats.dictionary.total_entries) * 100}%` }}
+                                      />
+                                  </div>
+                              </div>
+                          ))}
+                      </div>
 
-                    {/* Right: Domains */}
-                    <div>
-                        <h4 className="font-semibold text-slate-300 mb-4">Word Domains</h4>
-                        <div className="grid grid-cols-2 gap-4">
-                            {Object.entries(statsData.dictionary.domains)
-                              .sort(([,a], [,b]) => b - a)
-                              .slice(0, 10)
-                              .map(([domain, count]) => (
-                                <div key={domain} className="bg-slate-800/50 p-3 rounded border border-slate-700">
-                                    <div className="text-xs text-amber-500 uppercase font-bold mb-1 truncate">{domain}</div>
-                                    <div className="text-2xl font-bold text-slate-200">{count}</div>
-                                </div>
-                            ))}
-                        </div>
-                    </div>
-                 </div>
-              </div>
-            )}
-          </div>
-        )}
+                      <h4 className="font-semibold text-slate-300 mb-4">Translation Status</h4>
+                      <div className="space-y-3">
+                          {[2, 1, 0].map((status) => {
+                              const count = currentStats.dictionary.translation_status[status] || 0;
+                              const labels = { 2: 'Translated', 1: 'Partial', 0: 'Untranslated' };
+                              const colors = { 2: 'bg-green-500', 1: 'bg-amber-500', 0: 'bg-slate-600' };
+                              return (
+                                  <div key={status}>
+                                      <div className="flex justify-between text-sm mb-1">
+                                          <span className="text-slate-400">{labels[status]}</span>
+                                          <span className="text-slate-200">{count}</span>
+                                      </div>
+                                      <div className="w-full bg-slate-800 h-2 rounded-full overflow-hidden">
+                                          <div 
+                                              className={`h-full ${colors[status]}`}
+                                              style={{ width: `${(count / currentStats.dictionary.total_entries) * 100}%` }}
+                                          />
+                                      </div>
+                                  </div>
+                              );
+                          })}
+                      </div>
+                  </div>
+
+                  {/* Right: Domains */}
+                  <div>
+                      <h4 className="font-semibold text-slate-300 mb-4">Word Domains</h4>
+                      <div className="grid grid-cols-2 gap-4">
+                          {Object.entries(currentStats.dictionary.domains)
+                            .sort(([,a], [,b]) => b - a)
+                            .slice(0, 10)
+                            .map(([domain, count]) => (
+                              <div key={domain} className="bg-slate-800/50 p-3 rounded border border-slate-700">
+                                  <div className="text-xs text-amber-500 uppercase font-bold mb-1 truncate">{domain}</div>
+                                  <div className="text-2xl font-bold text-slate-200">{count}</div>
+                              </div>
+                          ))}
+                      </div>
+                  </div>
+               </div>
+            </div>
+          )}
+        </div>
       </div>
     </div>
   );

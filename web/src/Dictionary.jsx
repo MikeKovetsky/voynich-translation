@@ -20,12 +20,15 @@ const Dictionary = () => {
 
   const filteredEntries = useMemo(() => {
     return Object.values(dictionaryData.entries).filter(entry => {
+      if (!entry) return false;
+      
       // Search filter
       const searchLower = searchTerm.toLowerCase();
-      const matchesSearch = 
-        entry.voynich.toLowerCase().includes(searchLower) ||
-        entry.meaning.toLowerCase().includes(searchLower) ||
-        (entry.notes && entry.notes.toLowerCase().includes(searchLower));
+      const voynichMatch = entry.voynich ? entry.voynich.toLowerCase().includes(searchLower) : false;
+      const meaningMatch = entry.meaning ? entry.meaning.toLowerCase().includes(searchLower) : false;
+      const notesMatch = entry.notes ? entry.notes.toLowerCase().includes(searchLower) : false;
+
+      const matchesSearch = voynichMatch || meaningMatch || notesMatch;
 
       // Domain filter
       const matchesDomain = selectedDomain === 'All' || entry.domain === selectedDomain;

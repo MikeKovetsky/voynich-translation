@@ -104,6 +104,15 @@ function App() {
               <Activity size={16} />
               Stats
             </button>
+            <button
+              onClick={() => setView('dictionary')}
+              className={`px-3 py-1 rounded-md text-sm transition-colors flex items-center gap-2 ${
+                view === 'dictionary' ? 'bg-slate-600 text-white shadow' : 'text-slate-400 hover:text-slate-200'
+              }`}
+            >
+              <Library size={16} />
+              Dictionary
+            </button>
           </div>
         </div>
         
@@ -158,6 +167,8 @@ function App() {
       {/* Main Layout Area */}
       {view === 'stats' ? (
         <Stats />
+      ) : view === 'dictionary' ? (
+        <Dictionary />
       ) : (
         <div className="flex-1 flex overflow-hidden relative justify-center bg-slate-950">
           <div className="relative shadow-2xl inline-block h-full flex justify-center items-start overflow-auto p-8">
