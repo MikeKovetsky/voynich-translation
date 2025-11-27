@@ -1,0 +1,30 @@
+TRACK 128: Recipe Ingredient Mining
+=====================================
+
+GOAL: Identify the specific ingredients used in the recipes by analyzing the "Ingredient Slot".
+
+INPUT:
+- `data/eva_ivtff.txt` (Quire 20)
+- `results/master_dictionary_v7_3.json`
+
+TASK 1: Pattern Extraction
+--------------------------
+- Search for the pattern: `daiin` (Take) ... [INGREDIENTS] ... `okeol`/`qokeey` (Boil/Cook).
+- Extract words that appear frequently in the [INGREDIENTS] slot.
+- Exclude known grammar words (`ol`, `or`, `y`, `al`).
+
+TASK 2: Ingredient Classification
+---------------------------------
+- Group ingredients:
+  - **Parts:** `chol` (Leaf), `char` (Root).
+  - **Specifics:** `sar`? `sain`? `tor`?
+  - **Quantities:** `shey`? `al`?
+
+TASK 3: Cross-Reference
+-----------------------
+- Do these specific ingredients appear as labels in the Herbal Section?
+
+OUTPUT FILES:
+- `mine_ingredients.py`
+- `results/recipe_ingredients_v2.json`
+- `results/ingredient_analysis_report.md`

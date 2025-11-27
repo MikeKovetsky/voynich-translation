@@ -1,19 +1,19 @@
-## Iteration 45: The Water of Life ♒🌊
+## Iteration 46: The Hydrotherapy Manual 🧖‍♀️🌿
 
 **Status:** Complete
 **Date:** 2025-11-26
 
 **Summary:**
-We have confirmed the "Water" theme across the manuscript. The Zodiac pages for **Cancer** (f72r3) and **Pisces** (f70v2) are dense with `aiin` (Water) and `daiin` (Take Water), confirming the astrological correlation.
-*   **Grammar:**
-    *   `sh-` = **"That/Which"** (Relative Pronoun).
-    *   `t-` = **"To"** (Preposition).
-*   **Verbs:**
-    *   `okeol` = **"Boil"**.
-    *   `qokeey` = **"Cook/Process"**.
-*   **Noun/Verb Ambiguity:** `chedy` remains tricky. It's not a specific plant name (never a label). It appears at the end of recipes ("Drink"?) but also as an ingredient ("Take Herb"?). We are leaning towards **"Mixture"** or **"Herbal Decoction"**.
+We have unified the manuscript's narrative. It is a manual for **Hydrotherapy** and **Herbal Medicine**.
+*   **Master Narrative:** The text connects **Water** (`aiin`, Zodiac), **Herbal Extraction** (`chol`/`char` + `okeol`, Recipes), and **Bathing** (Bio section).
+*   **Key Term Resolved:** `chedy` is **"Mixture"** or **"Decoction"**. It is the result of the cooking process (`qokeey chedy`) and the object of consumption.
+*   **Cosmology:** The Rosettes (f87r) function as a **Process Diagram**: Take Water -> Extract -> Boil.
+
+**Key Findings:**
+*   **Dictionary:** `chedy` = Mixture. `shol` = Extract. `sho` = Fire.
+*   **Structure:** The Recipe structure is `daiin` (Take) -> Ingredients -> `y-` (And) -> `okeol` (Boil) -> `chedy` (Mixture).
 
 **Next Steps:**
-*   **Consolidation:** Produce a final translation report summarizing the narrative of "Bathing", "Cooking", and "Astrology".
-*   **Resolve `chedy`:** Test the "Mixture" hypothesis. "Take Mixture" vs "Drink Mixture".
-*   **Cosmology:** Attack the Rosettes (f87r). Does the water theme hold in the map of the cosmos?
+*   **Dictionary v7.3:** Formalize `chedy` and Rosette vocabulary.
+*   **Ingredient Mining:** What specific herbs are we mixing? Mine the words appearing between `daiin` and `okeol`.
+*   **Anatomy:** Analyze the labels in the Biological section. Are they body parts (`head`, `skin`)?

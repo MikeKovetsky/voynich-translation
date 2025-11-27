@@ -7271,16 +7271,16 @@
     },
     "chedy": {
       "voynich": "chedy",
-      "meaning": "Ambiguous: Herb/Plant OR Drink",
+      "meaning": "Mixture/Decoction",
       "language": "voynich_recipe",
-      "confidence": 0.6,
-      "domain": "recipe/botanical",
-      "source": "Track122_Review",
-      "notes": "32+ pages, generic term",
-      "category": "botanical",
+      "confidence": 0.7,
+      "domain": "recipe",
+      "source": "Track125_Test",
+      "notes": "Often poured (ykeedy) or cooked (qokal). Generic term for the result of the recipe.",
+      "category": "object",
       "pos": "noun",
-      "evidence": "Suspiciously frequent at end of recipes. Could be noun (plant) or verb (drink/serve).",
-      "last_updated": "2025-11-26T17:43:12.262570"
+      "evidence": "Fits context of pouring and cooking better than 'herb'.",
+      "last_updated": "2025-11-26"
     },
     "shedy": {
       "voynich": "shedy",
