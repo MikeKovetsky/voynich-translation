@@ -1,6 +1,6 @@
 ## Iteration 60: The Grammar of Action 🎬
 
-**Status:** Complete
+**Status:** In Progress
 **Date:** 2025-11-26
 
 **Goal:**
@@ -21,20 +21,6 @@ Apply our new grammatical rules (`-y` = Imperative, `-dy` = Narrative, `ed` = Pr
         - Words appearing on *only one page* = **Plant Names**.
         - Words appearing on *many pages* = **Plant Parts** (Root, Leaf).
     - Tag these accordingly in the dictionary.
-
-**Findings:**
-1.  **Text Classification (Task 174):**
-    - Confirmed strong genre separation.
-    - **Herbal:** 74% Descriptive (Reference).
-    - **Bio:** 75% Narrative (Process/Observation).
-    - **Recipes:** 52% Instructional / 48% Narrative.
-2.  **Recipe Decoding (Task 175):**
-    - Validated the structure: `[Ingredient] -> [Action] -> [Stop]`.
-    - `qokedy` confirmed as "Mix/Process".
-    - `dy` functions as a sentence delimiter.
-3.  **Herbal Taxonomy (Task 176):**
-    - Identified **244 Potential Plant Names** (appear on 1 page, e.g., `okolaiin` on 99v).
-    - Identified **77 Potential Plant Parts** (appear everywhere, e.g., `oty`, `otol`).
 
 **Hypothesis:**
 The manuscript is not just one text; it's a **Lab Notebook**.

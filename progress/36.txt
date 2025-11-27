@@ -1,3 +1,3 @@
-Iteration 36
+Track 36: Glyph Analysis ✅ (24 glyphs, positional rigidity 0.295)
 
-Status: Missing from summaries.
+(Summary from Tracks Completed list)

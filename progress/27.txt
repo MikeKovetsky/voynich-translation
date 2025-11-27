@@ -1,3 +1,23 @@
-Iteration 27
+## 🚀 Phase 27: Semantic Override & Full Translation (Completed) ✅
 
-Status: Missing from summaries.
+### Visual Overrides Applied (Track 91)
+We forced the dictionary to respect visual facts:
+- `char` → **FLOWER** 🌸
+- `chl` → **ROOT** 🥕
+- `chol` → **LEAF** 🍃
+
+### The Recipe Formula (Tracks 92 & 93)
+We discovered the complete recipe structure including MEASUREMENTS:
+
+```
+daiin   [AMOUNT]   [INGREDIENT]   qok-   [SOURCE]
+"Take"  "ar"       "chol"         "of"   "otaiin"
+        (handful)  (leaf)                (fig)
+```
+
+**Top Measurements:**
+- `ar` (14x)
+- `al` (9x)
+- `aiin` (6x) = "One"
+
+---

@@ -1,3 +1,5 @@
-Iteration 22
-
-Status: Missing from summaries.
+### Phase 22: Deep Validation & Expansion ✅
+- Track 75: Plant Dict Expansion ⏳ **Add 21 expert plant names to dictionary**
+- Track 76: Zodiac Labels ⏳ **Extract Hebrew/Latin month names**
+- Track 77: Deep Validation ✅ **1.2% semantic match! Dictionary overfitted to recipes**
+- Track 78: Herbal Analysis ⏳ **Analyze 20 more herbal pages**
