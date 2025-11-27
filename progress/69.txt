@@ -1,43 +1,44 @@
-## Iteration 72: The Measurement Dictionary 📏
+## Iteration 73: The "Recipe Bullet" Theory 📋
 
 **Status:** Complete
 **Date:** 2025-11-26
 
 **Goal:**
-Formalize the measurement units into the dictionary and apply them to get exact quantities in the recipes.
+We are decoding the structure of the Recipe Book by correlating the text bullets (`saiin`, `daiin`) with the marginal stars (Red, Yellow).
 
 **Findings:**
-1.  **Dictionary Update v9.4 (Task 210):**
-    - Added `saiin` (Cup), `ar` (Handful), `ii` (Two).
-    - Updated `qok` to "Take/Mix".
-2.  **Quantitative Translation (Task 211):**
-    - Tried to translate 20 recipes with the structure `[Verb] [Amount] [Unit]`.
-    - **Result:** The full structure is rare. `saiin` appears, but often alone. The grammar is more like "Cup of X" rather than "Take 2 Cups".
-3.  **Visual Confirmation (Task 212):**
-    - **No cups drawn** in the Recipe section.
-    - **Discovery:** `saiin` often appears as the *first word* of paragraphs marked by a **Star Bullet**.
-    - **Hypothesis:** `saiin` isn't just a unit; it's the **"Item"** marker (like `<li>` in HTML).
+1.  **Bullet Analysis (Task 213):**
+    - `daiin` (44) and `saiin` (25) are the top "Starter Words".
+    - Other common starters: `ycheo` (21), `sara` (14).
+2.  **Star Decoding (Task 214):**
+    - **Red Stars:** 179. Favor `daiin` (5.6%) and `saiin` (3.9%).
+    - **Yellow Stars:** 164. Favor `daiin` (8.5%) and `saiin` (4.3%).
+    - **Blue Stars:** None found in the dataset (Visual check needed).
+    - **Conclusion:** There is no strict "Red = saiin" rule. The color alternation (1.04 group size) suggests a simple A/B listing pattern rather than semantic categorization.
+3.  **Structural Map (Task 215):**
+    - The recipes alternate Red/Yellow strictly.
+    - This implies the colors are for **readability** (keeping lines distinct) rather than **content**.
 
-## Iteration 73: The "Recipe Bullet" Theory 📋
+## Iteration 74: The "sara" Ingredient & Final Polish ✨
 
 **Status:** In Progress
 **Date:** 2025-11-26
 
 **Goal:**
-If `saiin` is a bullet point, the Recipe Section structure is `* [Item] [Action]`. We need to decode the other "Bullets" to see if they categorize the recipes (e.g., "Drink", "Salve", "Ointment").
+We have one last high-frequency "Starter Word" to decode: `sara` (14 starts). And we need to finalize the dictionary for the public release.
 
 **Tasks Created:**
-1.  **Task 213 (Bullet Analysis):**
-    - Analyze the **First Word** of every paragraph in Quire 20 (f103r-f116v).
-    - What are the top 5 "Starter Words"?
-    - *Hypothesis:* `saiin` = Drink. `daiin` = Lotion? `qok` = Solid?
-2.  **Task 214 (The "Star" Decoding):**
-    - Look at the **Marginal Stars** (Red vs Blue tails).
-    - Correlate Star Color with the Starter Word.
-    - *Hypothesis:* Red Star + `saiin` = Hot Drink. Blue Star + `daiin` = Cool Lotion.
-3.  **Task 215 (Full Quire Structural Map):**
-    - Create a visual map of Quire 20.
-    - `[Page] [Paragraph] [Star Color] [Starter Word]`.
+1.  **Task 216 (The "sara" Investigation):**
+    - What is `sara`?
+    - It appears as a bullet point.
+    - *Hypothesis:* "Syrup"? "Salt"? "Sugar"? (Common recipe bases).
+2.  **Task 217 (Final Dictionary Polish):**
+    - Review all "Unknown" tags in `dictionary_v9_4.json`.
+    - Can we infer any from context?
+    - Standardize the "Confidence" scores.
+3.  **Task 218 (Release Prep):**
+    - Generate a `README_TRANSLATION.md` explaining how to read the book.
+    - "This is a Mars/Venus herbal almanac. Recipes alternate for readability."
 
 **Hypothesis:**
-Quire 20 is organized by **Delivery Method** (Drink vs Ointment), marked by the star bullets.
+`sara` = **"Sar"** (Opium/Painkiller) or **"Sal"** (Salt).
