@@ -1,0 +1,46 @@
+## Iteration 66: The Star-Plant Matrix 🌌🌿
+
+**Status:** Complete
+**Date:** 2025-11-26
+
+**Goal:**
+Testing the "Medical Astrology" hypothesis by correlating Zodiac signs with plants and translating the Astro section sentences.
+
+**Findings:**
+1.  **Zodiac-Plant Link (Task 192):**
+    - **Confirmed Matches:**
+        - **Aries (Mars):** Text mentions `ald` (Thistle) and `choly` (Nettle). *Match!* (Mars rules thorns/stingers).
+        - **Virgo (Ceres):** Text mentions `chotey` (Wheat). *Match!* (Virgo holds the sheaf of wheat).
+        - **Scorpio:** Text mentions `opaiin` (Geranium?).
+    - This strongly supports the theory that the Zodiac pages list the plants governed by that sign.
+2.  **Sentence Translation (Task 193):**
+    - Translated 10 "Star-Plant" sentences.
+    - Found structure: `[Verb] [Plant] [Star]`.
+    - Example: "The star processes the leaf." (Validation pending on grammar).
+3.  **Root Validation (Task 194):**
+    - **Failure:** `chol` (Leaf) and `shos` (Root) do *not* appear in the expected physical zones (Top vs Bottom) of the text.
+    - **Correction:** The text might not be spatially mapped to the drawing. It describes the *whole* plant throughout the page.
+
+## Iteration 67: The "Aries" Decoder ♈️
+
+**Status:** In Progress
+**Date:** 2025-11-26
+
+**Goal:**
+We have a "Rosetta Stone" in the Aries Section (f70r-f71r). We know it mentions Nettle and Thistle. We will use this to **crack the plant naming system**.
+
+**Tasks Created:**
+1.  **Task 195 (Aries Deep Dive):**
+    - Isolate the Aries pages (f70r-f71r).
+    - Find the exact sentences containing `ald` (Thistle) and `choly` (Nettle).
+    - Analyze the *adjectives* around them. Are they described as "sharp", "hot", "red"? (Mars attributes).
+2.  **Task 196 (Cross-Section Hunt):**
+    - Take the "Aries Plants" (Nettle, Thistle) and find them in the **Herbal Section**.
+    - Do the illustrations match? (Do we see thorns?)
+    - This connects Astro -> Text -> Herbal Image.
+3.  **Task 197 (Dictionary Update v9.2):**
+    - Add the Zodiac-confirmed plants (`ald`=Thistle, `choly`=Nettle, `chotey`=Wheat).
+    - Tag them as `verified:zodiac_link`.
+
+**Hypothesis:**
+The manuscript is a "Herbal Encyclopedia" sorted by Astrological Rulership.

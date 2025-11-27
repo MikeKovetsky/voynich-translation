@@ -1,0 +1,21 @@
+# Task 197: Dictionary Update v9.2
+
+## Goal
+Update the dictionary with the "Zodiac Confirmed" plant names.
+
+## Input
+- `results/dictionary/dictionary.json` (v9.1)
+- `results/track-192-results_summary.md` (Zodiac matches)
+
+## Process
+1.  **Add Entries:**
+    - `ald`: "thistle" (Source: Aries/Mars match).
+    - `choly`: "nettle" (Source: Aries/Mars match).
+    - `chotey`: "wheat" (Source: Virgo match).
+    - `opaiin`: "geranium" (Source: Scorpio match - *Tentative*).
+2.  **Tagging:** Add `domain:botanical` and `verification:zodiac`.
+3.  **Stats:** Update the count of "Known Plants".
+
+## Output
+- `results/dictionary/dictionary_v9_2.json`: Updated dictionary.
+- `results/track-197-results_summary.md`: Summary.
