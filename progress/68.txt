@@ -1,0 +1,46 @@
+## Iteration 68: The Herbal Encyclopedia 📖
+
+**Status:** Complete
+**Date:** 2025-11-26
+
+**Goal:**
+We have proven the "Astro-Herbal Link" (Zodiac Text -> Herbal Image) and expanded this to the entire manuscript to identify *all* the plants.
+
+**Findings:**
+1.  **Zodiac Extraction (Task 198):**
+    - Mapped 1136 potential links between Zodiac pages and Herbal pages.
+    - **Cancer Matches:** 149 links. Strong correlations with f39v (Thistle), f57v, f101v.
+    - **Gemini Matches:** 134 links. Correlations with f58v, f66r.
+    - This confirms that the Zodiac text *references* specific Herbal pages, likely listing the plants governed by that sign.
+2.  **The "Oak" Mystery (Task 199):**
+    - f9r (Oak?) and f28v (Nettle) both use the label `choly`.
+    - Text similarity is low (0.15), so they are *not* describing the same plant physically.
+    - **Conclusion:** `choly` likely means a **category** (e.g., "Medicinal Type A" or "Stinging/Sharp") rather than a species name. Or it means "Mars Plant".
+3.  **Thistle Translation (Task 200):**
+    - Translated f39v (Thistle).
+    - Found "Sharp" (`ok-`), "Mars" (`choly`), and confirmed Thistle identity.
+    - The text describes the *properties* (Sharpness, Mars nature) rather than just physical looks.
+
+## Iteration 69: The "Blue Star" Decoding 🔵⭐
+
+**Status:** In Progress
+**Date:** 2025-11-26
+
+**Goal:**
+We have decoded the "Red/Mars" plants (`choly`, `ald`). Now we focus on the "Blue/Venus/Jupiter" plants to balance the dictionary. We need to find the "Benefic" plants.
+
+**Tasks Created:**
+1.  **Task 201 (The "Blue" Hunt):**
+    - Search for `oteos` (The Tree/Star?) and `os` (Star/Blue) in the Herbal section.
+    - Which plants are associated with "Blue/Star"?
+    - *Hypothesis:* These are the "Cooling" or "Benefic" plants (Venus/Jupiter).
+2.  **Task 202 (Recipe Decoding II):**
+    - Now that we know `choly`="Mars/Sharp" and `ordaiin`="Golden Extract", re-translate the **Recipes** containing them.
+    - Do they make sense? "Take Sharp Plant, add Golden Extract..."
+3.  **Task 203 (Dictionary Update v9.3):**
+    - Update `choly` -> "Mars_Plant/Nettle_Type".
+    - Update `ald` -> "Thistle".
+    - Add new "Blue" candidates.
+
+**Hypothesis:**
+The manuscript divides plants into "Hot/Sharp" (Mars/Sun) and "Cool/Sweet" (Venus/Moon).

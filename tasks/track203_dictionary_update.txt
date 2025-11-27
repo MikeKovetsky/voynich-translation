@@ -1,0 +1,21 @@
+# Task 203: Dictionary Update v9.3
+
+## Goal
+Refine the dictionary definitions based on Iteration 68 findings.
+
+## Input
+- `results/dictionary/dictionary.json` (v9.2)
+- `results/track-199-results_summary.md` (Oak Mystery)
+
+## Process
+1.  **Update Definitions:**
+    - `choly`: Change from "Nettle" to "Mars_Plant / Sharp_Plant" (Broad Category).
+    - `ald`: Confirm "Thistle".
+    - `os`: Confirm "Star / Blue / Sky".
+    - `oteos`: "The Star-Tree" (or similar celestial plant concept).
+2.  **Add New Matches:**
+    - Add any clear "Blue Plants" found in Task 201.
+
+## Output
+- `results/dictionary/dictionary_v9_3.json`: Updated dictionary.
+- `results/track-203-results_summary.md`: Summary.
