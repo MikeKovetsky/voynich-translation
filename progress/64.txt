@@ -1,0 +1,44 @@
+## Iteration 64: The Preposition Correction 🔄
+
+**Status:** Complete
+**Date:** 2025-11-26
+
+**Goal:**
+The failure of the Color Hypothesis (Task 184) suggests that `ot-` and `ok-` are likely **Prepositions** or **Case Markers** rather than adjectives. We need to re-analyze them syntactically.
+
+**Findings:**
+1.  **Preposition Grammar (Task 186):**
+    - Confirmed that `ot-`, `ok-`, `or-`, `op-`, `ol-` frequently appear at the *start* of phrases, supporting the Preposition/Case Marker hypothesis.
+    - `ol-` is the strongest candidate for **Nominative/Definite** ("The...").
+    - Identified 807 contrast pairs (e.g., `chol` vs `ot-chol`).
+2.  **Universal Translation (Task 187):**
+    - Translated the Astro section (f67r-f73v).
+    - Found `os` (Star) but *no* instances of `ordaiin` (Extract). This confirms the separation of domains: Astro = Stars, Recipes = Extracts.
+    - Found instances of `qokeody` ("Process!"), linking the Astro section to the "Action" logic (possibly "Movement of Stars").
+
+## Iteration 65: The Case System Decoded 🏛️
+
+**Status:** In Progress
+**Date:** 2025-11-26
+
+**Goal:**
+We have strong evidence for a Case/Preposition system (`o-` prefixes). We must now **map** specific prefixes to specific grammatical functions (e.g., "From", "With", "Of") to solve the syntax.
+
+**Tasks Created:**
+1.  **Task 189 (Case Mapping):**
+    - Analyze the 807 contrast pairs from Task 186.
+    - Look at the *verbs* associated with each case.
+    - *Hypothesis:*
+        - `ot-` + "Take" = **Ablative** ("Take *from*").
+        - `ok-` + "Mix" = **Instrumental** ("Mix *with*").
+        - `ol-` + "Is" = **Nominative** ("*The* X is").
+2.  **Task 190 (Astro-Botany Connection):**
+    - Investigate the 7 instances of `os` (Star) in the Astro section.
+    - What are the stars doing? Are they "influencing" plants?
+    - Translate the surrounding text of these 7 stars.
+3.  **Task 191 (Dictionary Update v9.1):**
+    - Update the dictionary with the new Case Markers.
+    - Tag `ot-`, `ok-`, `or-` as `prefix:preposition`.
+
+**Hypothesis:**
+The Voynich Language is **Agglutinative** with a robust system of case prefixes.

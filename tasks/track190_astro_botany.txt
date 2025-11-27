@@ -1,0 +1,20 @@
+# Task 190: Astro-Botany Connection
+
+## Goal
+Translate the immediate context of the "Star" (`os`) occurrences to understand the relationship between the Heavens and the Earth (Herbal/Recipes).
+
+## Input
+- `results/parsed_text.json` (Astro Section)
+- `results/dictionary/dictionary.json`
+
+## Process
+1.  **Locate Occurrences:** Find the 7 sentences containing `os` (or `oteos`).
+2.  **Micro-Translation:**
+    - Translate these sentences word-for-word using the Dictionary v9.0.
+    - Pay attention to verbs: Are the stars "moving", "shining", or "making"?
+3.  **Conceptual Link:**
+    - Do these sentences contain "Plant" vocabulary? (e.g., `chol`, `shor`).
+
+## Output
+- `results/astro_sentences.md`: Detailed translation of the 7 star sentences.
+- `results/track-190-results_summary.md`: Summary.
