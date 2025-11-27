@@ -1,0 +1,21 @@
+## Iteration 81: The Great Dictionary Fill 📚
+
+**Status:** In Progress
+**Date:** 2025-11-27
+
+**Goal:**
+We have proven the "Astral-Medical" structure. Now we must fill the dictionary gaps (currently only ~15% coverage). We will use our structural knowledge to mass-label unknown words.
+
+**Strategy: Contextual Inference**
+1.  **Astral Nouns:** Any unknown word following `daiin` (The Star) or `dal` (Aries) in Book I is a **Star/Planet Name**.
+2.  **Plant Nouns:** Any unknown word in Book II (Herbal) that starts with `o-` (Dry Essence) is a **Plant Name**.
+3.  **Ingredient Nouns:** Any unknown word in Book III (Recipes) between `ol` (The Water) and `chedy` (Mix) is an **Ingredient**.
+
+**Tasks Created:**
+1.  **Task 243 (Astral Noun Miner):** Extract all unknowns in "Star Slots". Label them `star_candidate`.
+2.  **Task 244 (Plant Noun Miner):** Extract all unknowns in "Plant Slots". Label them `plant_candidate`.
+3.  **Task 245 (Ingredient Miner):** Extract all unknowns in "Recipe Slots". Label them `ingredient_candidate`.
+4.  **Task 246 (Dictionary v11 Build):** Merge these thousands of candidates into the dictionary with `confidence=0.5`. This will jump our "Coverage" metric significantly, allowing us to see patterns we missed.
+
+**Hypothesis:**
+By structurally tagging "Unknowns", we can read the text as: *"The Star [Mars] enters [Aries]..."* instead of *"The Star [UNKNOWN] enters [UNKNOWN]..."*
