@@ -1,0 +1,29 @@
+## Iteration 60: The Grammar of Action 🎬
+
+**Status:** In Progress
+**Date:** 2025-11-26
+
+**Goal:**
+Apply our new grammatical rules (`-y` = Imperative, `-dy` = Narrative, `ed` = Process) to generate context-aware translations. We will try to read the Recipes as a list of instructions and the Bio section as a story.
+
+**Tasks Created:**
+1.  **Task 174 (Text Type Classification):**
+    - Split the manuscript into "Instructional" (Recipes/Stars) and "Narrative" (Bio/Rosettes) based on the `-y`/`-dy` ratio.
+    - Create separate translation rules for each mode.
+2.  **Task 175 (Recipe Decoding):**
+    - Translate the Recipe section (Quire 20) using the specific hypothesis:
+    - `qok-ed-y` = "Process!" / "Mix!"
+    - `ol [Noun]` = "The [Ingredient]"
+    - `dy` = End of step.
+3.  **Task 176 (Herbal Noun Differentiation):**
+    - Analyze the 98 "Herbal Clusters".
+    - **Hypothesis:**
+        - Words appearing on *only one page* = **Plant Names**.
+        - Words appearing on *many pages* = **Plant Parts** (Root, Leaf).
+    - Tag these accordingly in the dictionary.
+
+**Hypothesis:**
+The manuscript is not just one text; it's a **Lab Notebook**.
+- **Herbal/Astro:** Reference Data (Nouns).
+- **Recipes:** Instructions (Imperative Verbs).
+- **Bio:** Observations/Results (Narrative Verbs).

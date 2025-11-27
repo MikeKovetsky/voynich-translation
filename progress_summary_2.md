@@ -2,10 +2,60 @@
 
 ... (previous content) ...
 
+---
+
+## Iteration 57 Results: The Top Roots Decoded 🔑✅
+
+**Status:** Complete
+**Date:** 2025-11-26
+
+**Findings from High-Freq Analysis (Task 165):**
+We analyzed the context of the most frequent roots:
+*   **`dy` (4018):** Suffix-like behavior. Often ends words/lines.
+    *   *Hypothesis:* **Particle / Suffix** (possibly "-ness" or "-ly" or Topic Marker).
+*   **`ol` (3235):** Often precedes nouns.
+    *   *Hypothesis:* **Article / Preposition** ("The" or "Of").
+*   **`ai` / `aiin` (2001):** "One" or "Water".
+*   **`ar` (2362):** "To/For" or "Earth/Ground".
+*   **`ee` (1828):** Often with `qok-` (Verb).
+    *   *Hypothesis:* **Generic Verb** ("Do" / "Make" / "Process").
+
+**Translation v11 (Task 167):**
+*   **Readability:** 65.59% of the text is now "known" or structurally identified.
+*   **Sample:** `To [Action] the/of Take/From [?]...`
+*   **Improvement:** The grammar is clear. The content is still abstract because the specific *nouns* (plants/stars) are rare, while the *grammar particles* are frequent.
+
+## Iteration 58: The Semantic Web 🕸️
+
+**Status:** Complete
+**Date:** 2025-11-26
+
+**Goal:** Now that we have the *skeleton* (Grammar + Top Roots), we need to flesh out the *body* (Rare Nouns).
+We will use the **Co-occurrence Network** to map rare words to their categories.
+
+**Findings:**
+1.  **Noun Clustering (Task 168):**
+    - Successfully clustered 1725 nouns into 72 semantic groups.
+    - **Key Clusters Identified:**
+        - `ai` (Water/Liquid context)
+        - `ar` (Earth/Material context)
+        - `ee` (Manufactured/Made items)
+        - `ed` (The largest, most mysterious cluster - possibly "Processed" items?)
+2.  **Topic Modeling (Task 169):**
+    - LDA analysis confirmed distinct vocabularies for different sections.
+    - **Topic 1 (Astronomical/Herbal):** Characterized by `ees`, `hs`, `eos` (Star/Space terms?).
+    - **Topic 4 (Biological/Recipes):** Characterized by `eda`, `qo`, `fch` (Process/Action terms?).
+3.  **Final Report v2 (Task 170):**
+    - Dictionary updated to v3 with semantic tags.
+    - Translation v12 uses these clusters to provide "Category placeholders" for unknown nouns (e.g., `[Ingredient]`, `[Star]`).
+
 ## Iteration 59: Semantic Verification & The "ed" Mystery 🕵️‍♂️
 
 **Status:** Complete
 **Date:** 2025-11-26
+
+**Goal:**
+Verify the semantic clusters against the "Ground Truth" of the illustrations (do "Plant" words actually appear on Plant pages?) and solve the mystery of the `ed` root, which is a central hub in our network.
 
 **Findings:**
 1.  **Cluster-Section Correlation (Task 171):**
