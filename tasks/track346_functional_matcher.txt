@@ -1,0 +1,26 @@
+# Task: Functional Matcher (Usage vs Name)
+# Status: Pending
+# Goal: Test if the Unique Keywords describe the *Medical Use* rather than the *Plant Name*.
+
+Description:
+Phonetic matching of names failed.
+Hypothesis: The label `opchy` on the Cannabis page doesn't mean "Cannabis". It means "Narcotic" or "Painkiller".
+We need to cross-reference the Unique Keywords against a dictionary of Medical Uses.
+
+Requirements:
+1. Create `research/functional_matcher.py`.
+2. Create/Load a dataset of **Medieval Medicinal Uses** for the 129 Sherwood plants.
+    - Example: Sage -> "Tooth", "Memory", "Ghost".
+    - Example: Poppy -> "Sleep", "Pain", "Head".
+    - Use a hardcoded dictionary or scrape a small list.
+3. Load `results/unique_page_keywords.csv`.
+4. For each Folio:
+    - Get the Top Keyword (`opchy`).
+    - Get the List of Uses for that plant.
+    - Translate Uses to Latin/English/German.
+    - Fuzzy match Keyword vs Uses.
+5. Output `results/functional_matches.csv`.
+
+Output:
+- research/functional_matcher.py
+- results/functional_matches.csv
