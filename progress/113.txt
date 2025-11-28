@@ -1,0 +1,25 @@
+# Iteration 113: The Syntactic Parser 🧩
+# Status: In Progress
+# Date: 2025-11-27
+
+## The Grammar Map
+We have mapped the "Roles" of common words.
+- `ycheey` = START
+- `dam` = STOP
+- `daiin` = JOIN
+
+## The Parser Strategy (Iter 113)
+We will now parse the text like a compiler.
+1.  **Tag (Track 359):** Label every word.
+2.  **Segment (Track 360):** Break the stream into Sentences.
+3.  **Analyze (Track 361):** Find the Canonical Sentence Structure.
+
+## Tasks
+*   **Track 359:** Grammar Tagging.
+*   **Track 360:** Sentence Segmentation.
+*   **Track 361:** Syntactic Pattern Mining.
+
+## Goal
+Define the "Sentence" of the Voynich Manuscript.
+Is it `Subject-Verb-Object`? `Verb-Subject-Object`?
+If we know the structure, we can guess the missing words.

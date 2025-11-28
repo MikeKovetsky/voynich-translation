@@ -1,0 +1,20 @@
+# Task: Syntactic Pattern Mining
+# Status: Pending
+# Goal: Find the most common grammatical structures in the segmented text.
+
+Description:
+Now that we have sentences (`START CONTENT CONN CONTENT TERM`), what are the most common patterns?
+This effectively reverse-engineers the syntax tree.
+
+Requirements:
+1. Create `research/syntax_miner.py`.
+2. Load `results/segmented_text.txt`.
+3. Convert words to Tags (`daiin` -> `CONN`).
+4. Count the frequency of Tag Sequences (e.g., `START CONTENT TERM` = 500 times).
+5. Identify the "Canonical Sentence Structure".
+6. Check if structures vary by Section (Bio vs Herbal).
+7. Output `results/syntax_patterns.csv`.
+
+Output:
+- research/syntax_miner.py
+- results/syntax_patterns.csv

@@ -1,0 +1,24 @@
+# Task: Grammar Tagging
+# Status: Pending
+# Goal: Apply the Grammar Rules (Iter 112) to tag the entire corpus.
+
+Description:
+We have identified Roles for ~140 common words (Starter, Terminator, Connector).
+We will now tag the text.
+- Known words get their role (START, TERM, CONN).
+- Unknown words are tagged CONTENT (Nouns/Verbs).
+
+Requirements:
+1. Create `research/grammar_tagger.py`.
+2. Load `results/grammar_rules.md` (Parse the markdown table).
+3. Define a "Fall-back" Rule:
+    - If word ends in `am` -> TERM.
+    - If word starts with `y` -> START (Weak rule, check stats).
+    - Else -> CONTENT.
+4. Process the full Voynich Corpus (EVA).
+5. Output `results/tagged_text.txt` format:
+    `word/TAG word/TAG word/TAG`
+
+Output:
+- research/grammar_tagger.py
+- results/tagged_text.txt

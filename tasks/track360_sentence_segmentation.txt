@@ -1,0 +1,21 @@
+# Task: Sentence Segmentation
+# Status: Pending
+# Goal: Break the continuous text stream into logical sentences.
+
+Description:
+Voynich lacks punctuation. But we know words like `dam` and `am` are Terminators.
+We will use the Tags from Track 359 to insert line breaks.
+Rule: A sentence ends after a TERM word or before a START word.
+
+Requirements:
+1. Create `research/sentence_segmenter.py`.
+2. Load `results/tagged_text.txt`.
+3. Split the stream:
+    - Insert `\n` after every word tagged `TERM`.
+    - Insert `\n` before every word tagged `START` (if not start of line).
+4. Output `results/segmented_text.txt`.
+5. Calculate stats: Average sentence length, Distribution of lengths.
+
+Output:
+- research/sentence_segmenter.py
+- results/segmented_text.txt
