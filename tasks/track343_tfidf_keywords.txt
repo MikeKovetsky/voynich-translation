@@ -1,0 +1,28 @@
+# Task: TF-IDF Keyword Extraction (Unique Page Topics)
+# Status: Pending
+# Goal: Identify the "Topic Word" for each Sherwood page using statistical uniqueness.
+
+Description:
+The user hypothesis: "If a page is attributed to Cannabis, we must see ~10 nouns on the page. And the same noun should be unique (almost) for just this page."
+This describes a TF-IDF (Term Frequency - Inverse Document Frequency) approach.
+We are looking for words that are frequent LOCALLY (on the page) but rare GLOBALLY.
+
+Requirements:
+1. Create `research/tfidf_keywords.py`.
+2. Load the 129 Sherwood Folios.
+3. Build a corpus of these 129 pages (plus the rest of the manuscript as "Background").
+4. Calculate TF-IDF scores for every word on each of the 129 target pages.
+5. Extract the Top 3 words with the highest TF-IDF score for each page.
+6. **Validation:**
+    - Check if the Top Word is unique to that page (or shared only with other pages of the same plant).
+    - Check if the Top Word appears > 3 times on the page.
+7. Output `results/unique_page_keywords.csv` with columns:
+    - Folio
+    - Plant Name (Sherwood)
+    - Top Keyword 1 (Score)
+    - Top Keyword 2 (Score)
+    - Top Keyword 3 (Score)
+
+Output:
+- research/tfidf_keywords.py
+- results/unique_page_keywords.csv
