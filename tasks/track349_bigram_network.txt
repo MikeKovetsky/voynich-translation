@@ -1,0 +1,21 @@
+# Task: Bigram Network Analysis
+# Status: Pending
+# Goal: Identify "Hub" words (Connectors) vs "Spoke" words (Content).
+
+Description:
+If we can't translate `opchy`, we can at least define its grammatical role.
+We will build a directed graph of word transitions.
+
+Requirements:
+1. Create `research/bigram_network.py`.
+2. Scan the corpus for all Bigrams (Word A -> Word B).
+3. Metrics:
+    - **Out-Degree:** How many different words follow Word A? (High = Preposition/Adjective).
+    - **In-Degree:** How many different words precede Word A? (High = Noun/Object).
+4. Classify the "Unique Keywords" from Track 343 (e.g. `opchy`).
+    - Are they High In-Degree? (Confirmed Nouns).
+5. Output `results/grammar_classification.csv`.
+
+Output:
+- research/bigram_network.py
+- results/grammar_classification.csv

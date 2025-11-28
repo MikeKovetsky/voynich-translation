@@ -1,0 +1,21 @@
+# Task: Star Validation (Astro Sets)
+# Status: Pending
+# Goal: Use the rigid structure of Astronomy (Sets of 7, 12, 360) to find anchors.
+
+Description:
+Plants failed. Stars are better because they are mathematical.
+The Zodiac has 12 signs. The Pleiades has 7 stars.
+We will search the Astro pages for these numbers and names.
+
+Requirements:
+1. Create `research/star_validation.py`.
+2. Identify the **Zodiac Pages** (already known: f70r-f73v).
+3. **Test 1 (Sets):** Count the number of stars drawn on each page.
+    - Does text length correlate with star count?
+4. **Test 2 (Names):** Search for "Aldebaran", "Algol", "Pleiades" (phonetic & anagram).
+5. **Test 3 (Sequence):** Does the text on the Aries page share words with the Taurus page? (Planets?).
+6. Output `results/star_anchors.csv`.
+
+Output:
+- research/star_validation.py
+- results/star_anchors.csv
