@@ -1,0 +1,33 @@
+# Iteration 98: The Reality Check & The "Hard Science" Pivot 🛑🧪
+
+**Status:** Critical Review & Strategy Pivot
+**Date:** 2025-11-27
+
+## 1. The "Orchestrator" Audit
+I have analyzed the Final Report v10, the Dictionary v15, and the methodologies used in the last 30 iterations. While the "Functional Genre" identification (Recipes, Bio, Astro) is solid, the *translation layer* is fragile.
+
+### 🔴 Critical Weaknesses Found
+1.  **Circular Verification:** The `recipe_analysis.py` script analyzes the **English Translation**, not the Voynich Text. It confirms *our* bias, not the manuscript's content. We proved that *we* wrote a consistent recipe book, not that the scribe did.
+2.  **The "Confidence" Illusion:** Dictionary v15 boasts 5000+ entries, but only **10.6%** are High Confidence. The "Medium Confidence" (73%) entries are often circular guesses ("It's in a plant slot, so it's a plant").
+3.  **Grammar Void:** We claim "Subject-Verb-Object" (SVO) structure, but we have no code validating this on the raw text. We rely on "it feels like a narrative."
+4.  **Visual Hallucination:** The "Medical Spa" narrative is visually grounded, which is good, but we risked reading the pictures instead of the words. The text was coerced to fit the "Bath" theme.
+
+## 2. The New Strategy: From "Decoding" to "Decipherment" (Tracks 311+)
+We are done with "guessing" and "contextual filling". The next 100 steps are about **Linguistic Rigor**. We must prove the language works without the pictures.
+
+### Phase 1: The Grammar Engine (Tracks 311-313)
+**Goal:** Prove the grammar exists without looking at images.
+*   **Track 311 (Grammar Baseline):** Statistical proof of SVO structure using raw text.
+*   **Track 312 (Suffix Stripper):** Isolate "Roots" from "Suffixes".
+*   **Track 313 (Syntax Heatmap):** Map the positional probability of high-confidence words (Verbs vs Nouns).
+
+### Phase 2: Validation Metrics (Tracks 314-315)
+**Goal:** Apply standard linguistic tests.
+*   **Track 314 (Blind Set Selection):** Prepare the "Text-Only" pages for the blind translation test.
+*   **Track 315 (Entropy Check):** Calculate entropy of Roots vs Suffixes to prove grammatical function.
+
+## 3. Immediate Next Steps
+1.  **Execute** Tracks 311-315 to build the "Scientific Baseline".
+2.  **Stop** generating "Full Translations" based on weak dictionaries.
+
+**Hypothesis:** The manuscript has a rigid, computer-like grammar (Prefix-Root-Suffix). We need to deconstruct it mechanically before we can read it fluidly.

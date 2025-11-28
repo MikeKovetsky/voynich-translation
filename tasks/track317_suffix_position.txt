@@ -1,0 +1,23 @@
+# Track 317: Suffix-Position Correlation
+# Status: Ready for Execution
+# Priority: High
+
+## Goal
+Determine if specific suffixes dictate the grammatical role (and thus position) of a word. Does `-y` make a word move to the end? Does `-ol` keep it in the middle?
+
+## Requirements
+1.  **Input:** `data/eva_ivtff.txt`.
+2.  **Script:** `research/suffix_position_stats.py`
+    -   Use the Suffix List from Track 312 (`-y`, `-dy`, `-ol`, `-aiin`, etc.).
+    -   For each word ending in a known suffix:
+        -   Record its position (Start, Middle, End).
+    -   Calculate `P(Position | Suffix)`.
+    -   Example: "Words ending in `-y` appear at the End 80% of the time."
+
+## Expected Output
+1.  `results/suffix_position_report.md`:
+    -   Statistical table linking Suffixes to Sentence Slots.
+    -   **Grammar Rule Candidates:** e.g., "Suffix `-y` = Terminal Verb", "Suffix `-ol` = Medial Noun".
+
+## Why?
+This connects Morphology (Shape) to Syntax (Structure). It validates if suffixes are grammatical markers.

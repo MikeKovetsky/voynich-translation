@@ -1,0 +1,29 @@
+# Track 320: Root Context Miner
+# Status: Ready for Execution
+# Priority: High
+
+## Goal
+We have identified the Top 50 morphological Roots (Track 312), but we don't know their meanings. We need to find their semantic context.
+Also, we need to formalize our findings into reusable artifacts.
+
+## Requirements
+1.  **Input:** `data/eva_ivtff.txt` and the Top Roots list from Track 312 (found in `results/morphology_report_v1.md`).
+2.  **Script:** `research/root_context_miner.py`
+    -   Load the text.
+    -   For each of the Top 50 Roots (e.g., `ch`, `qok`, `da`, `sh`, `ok`):
+        -   Find every occurrence.
+        -   Record the word immediately **Before** and **After**.
+        -   Calculate the most frequent "Neighbors".
+    -   **Artifact Generation:**
+        -   Write `artifacts/top_roots.txt`: List of Top 50 roots by frequency.
+        -   Write `artifacts/top_starters.txt`: List of Top 20 Sentence Starters (from Track 316 data).
+
+## Expected Output
+1.  `results/root_context_report.md`:
+    -   For each root, list Top 3 Preceding words and Top 3 Following words.
+    -   Example: `qok` (Cook?) -> Preceded by `daiin` (Star/Topic?), Followed by `aiin` (Ingredient?).
+2.  `artifacts/top_roots.txt`: Clean list for reuse.
+3.  `artifacts/top_starters.txt`: Clean list for reuse.
+
+## Why?
+"You shall know a word by the company it keeps." (Firth). This gives us semantic clues.

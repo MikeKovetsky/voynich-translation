@@ -1,0 +1,29 @@
+# Track 326: Plant ID via Recipe Logic
+# Status: Ready for Execution
+# Priority: Medium
+
+## Goal
+Identify specific plants based on *how* they are processed. Medieval herbals are specific: "Boil Betony," "Grind Senna," "Drink Wormwood."
+
+## Requirements
+1.  **Input:** 
+    -   `data/eva_ivtff.txt`.
+    -   `results/dictionary/master_dictionary_v18.json`.
+    -   `artifacts/ingredient_clusters.csv` (from Track 325).
+2.  **Script:** `research/plant_recipe_matcher.py`
+    -   Identify `[PLANT_CANDIDATE]` words.
+    -   Analyze their "Recipe Signature":
+        -   Is it boiled (`qokeey`)?
+        -   Is it mixed with `[LIQUID]`?
+        -   Is it used in the `Adar` (March) month?
+    -   **Comparison:** Compare these signatures to a simple internal database of common medieval herbs (Betony, Sage, Rue, Mugwort).
+        -   e.g., If `Plant X` is always boiled in water -> Match candidate `Betony` or `Mallow`.
+        -   If `Plant Y` is always dried/ground -> Match candidate `Spices` or `Roots`.
+
+## Expected Output
+1.  `results/plant_recipe_match_report.md`:
+    -   Top 10 Plant Candidates with their "Process Profile".
+    -   Proposed IDs (e.g., `chol` = "Leafy Herb (Boiled)" -> Spinach/Dock?).
+
+## Why?
+We can't rely on drawings alone. The text tells us *how* to use the plant, which is a fingerprint for identification.

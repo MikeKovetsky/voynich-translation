@@ -1,0 +1,28 @@
+# Track 323: Blind Translation Round 2 (The Root Test)
+# Status: Ready for Execution
+# Priority: Critical
+
+## Goal
+Re-run the Blind Translation on the Control Group (f41r, f14v, etc.) using the newly patched **Master Dictionary v18**.
+In Round 1 (Track 318), we saw many `[ROOT-?]` tags. In Round 2, we expect to see concrete meanings like `[ROOT] Cook` or `[ROOT] Star`.
+
+## Requirements
+1.  **Input:**
+    -   `data/blind_set_raw.txt` (The 5 Control Pages).
+    -   `results/dictionary/master_dictionary_v18.json` (The Patched Dictionary).
+2.  **Script:** `research/blind_translator_v2.py`
+    -   Load the dictionary.
+    -   For each word in the raw text:
+        1.  **Check Exact Match:** Is the full word in the dictionary? -> Output Meaning.
+        2.  **Check Root:** Strip suffix (using Track 312 logic). Is the Root in the dictionary? -> Output `[ROOT] Meaning`.
+        3.  **Fallback:** Output `[UNKNOWN-root]`.
+    -   **Formatting:** Keep the line breaks. Use `[ ]` for translated terms to distinguish from English structure.
+
+## Expected Output
+1.  `results/blind_translation_v2.md`:
+    -   The translated text.
+    -   **Metric:** Calculate the % of words that are now "Known" (Exact or Root) vs "Unknown".
+    -   **Comparison:** Short diff vs v1 to show improvement.
+
+## Why?
+This confirms if our "Root Context" + "Visual Grounding" strategy actually produced readable semantics.

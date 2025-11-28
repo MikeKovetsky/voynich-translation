@@ -1,5 +1,5 @@
 {
-  "version": "17.0_master",
+  "version": "18.0",
   "date": "2025-11-27T15:06:36.778668",
   "entries": {
     "!!!!!!!!!!!!!!!!!!!!!ytai!n": {
@@ -48336,7 +48336,7 @@
     },
     "qokeey": {
       "voynich": "qokeey",
-      "meaning": "Cook / Boil",
+      "meaning": "Cook (Verb - Pos 3)",
       "language": "voynich_recipe",
       "confidence": 0.9,
       "domain": "recipe",
@@ -51650,7 +51650,7 @@
     },
     "saiin": {
       "voynich": "saiin",
-      "meaning": "Water/Spring (variant)",
+      "meaning": "Star/Topic (Particle - Pos 1)",
       "language": "voynich",
       "domain": "element",
       "confidence": 0.9,
@@ -51809,11 +51809,11 @@
     },
     "sal": {
       "voynich": "sal",
-      "meaning": "Salt (Sale)",
+      "meaning": "Salt (Object - Pos End)",
       "root": "al",
       "morphology": "s-",
       "source": "Track292_DictCleanup",
-      "confidence": 0.8,
+      "confidence": 0.9,
       "tags": [
         "PLANT_NAME"
       ],
@@ -54311,9 +54311,9 @@
     },
     "sho": {
       "voynich": "sho",
-      "meaning": "Heat / Fire; Fumigate/Burn",
+      "meaning": "Fire/Heat (Noun/Imperative - Pos 1)",
       "language": "voynich",
-      "confidence": 0.8,
+      "confidence": 0.9,
       "domain": "recipe_action",
       "source": "Track292_DictCleanup",
       "evidence": "Root context for cooking/extraction.",
@@ -60008,6 +60008,102 @@
       "confidence": 0.4,
       "source": "Track252_Fuzzy",
       "translation_status": 1
+    },
+    "qoke": {
+      "voynich": "qoke",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
+    },
+    "qoka": {
+      "voynich": "qoka",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
+    },
+    "lch": {
+      "voynich": "lch",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
+    },
+    "lk": {
+      "voynich": "lk",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
+    },
+    "ke": {
+      "voynich": "ke",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
+    },
+    "ka": {
+      "voynich": "ka",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
+    },
+    "yt": {
+      "voynich": "yt",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
+    },
+    "olk": {
+      "voynich": "olk",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
+    },
+    "qokch": {
+      "voynich": "qokch",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
+    },
+    "ra": {
+      "voynich": "ra",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
+    },
+    "okch": {
+      "voynich": "okch",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
+    },
+    "ta": {
+      "voynich": "ta",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
+    },
+    "dch": {
+      "voynich": "dch",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
+    },
+    "tch": {
+      "voynich": "tch",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
+    },
+    "lo": {
+      "voynich": "lo",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
+    },
+    "ct": {
+      "voynich": "ct",
+      "meaning": "[ROOT] Morphological Root",
+      "confidence": 0.5,
+      "source": "Track322_AutoPatch"
     }
   }
 }

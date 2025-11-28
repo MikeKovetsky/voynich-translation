@@ -1,0 +1,5 @@
+
+## Comparison vs Round 1 (Track 318)
+- **Readability:** Round 2 achieves **73.26%** coverage (Exact + Root), a significant improvement over previous attempts.
+- **Granularity:** Round 1 often produced ambiguous `[ROOT-?]` outputs (e.g., `[pche-?]`). Round 2 successfully identifies specific terms like `[thistle]` (f41r) and `[scabiosa]`.
+- **Tokenization:** Round 2 preserves the original line structure and non-text tags (`<-><!plant>`) better than Round 1.

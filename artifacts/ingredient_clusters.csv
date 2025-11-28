@@ -1,0 +1,429 @@
+word,category,liquid_score,solid_score,total_context,current_meaning
+shedy,Liquid,0.70,0.30,574,which/that
+chedy,Neutral,0.69,0.31,538,ingredient_candidate
+ol,Neutral,0.69,0.31,529,ingredient_candidate
+qokedy,Liquid,0.83,0.17,488,Mixture / Decoction; Bath Mixture
+qokeedy,Liquid,0.79,0.21,461,The Mixture (Wet/Decoction)
+qokaiin,Liquid,0.80,0.20,439,in the spring
+qokeey,Neutral,0.70,0.30,434,Cook (Verb - Pos 3)
+aiin,Solid,0.27,0.73,418,ingredient_candidate
+daiin,Neutral,0.57,0.43,366,ingredient_candidate
+qol,Liquid,0.93,0.07,304,plant_candidate (morphological_derivative (q- + ol))
+qokal,Liquid,0.88,0.12,298,ingredient_candidate
+qokain,Liquid,0.85,0.15,284,priest/cohen
+or,Neutral,0.53,0.47,280,plant_candidate
+chey,Neutral,0.61,0.39,258,plant_candidate
+qokar,Liquid,0.79,0.21,249,the (+ noun)
+dar,Neutral,0.62,0.38,242,Adar (month)
+al,Neutral,0.33,0.67,240,ingredient_candidate
+ar,Neutral,0.37,0.63,240,flower/handful
+dal,Neutral,0.70,0.30,207,ingredient_candidate
+shey,Neutral,0.66,0.34,182,ingredient_candidate
+okaiin,Neutral,0.69,0.31,179,ingredient_candidate
+chol,Neutral,0.52,0.48,178,plant_candidate
+okeey,Neutral,0.54,0.46,174,plant_candidate
+qokey,Neutral,0.64,0.36,168,the (+ noun)
+lchedy,Liquid,0.78,0.22,167,herb/plant (generic)
+okar,Neutral,0.45,0.55,163,plant_candidate
+qoky,Liquid,0.89,0.11,161,the (+ noun)
+okeedy,Liquid,0.73,0.27,159,plant_candidate
+otar,Neutral,0.50,0.50,149,Green (Leaf)
+sheedy,Liquid,0.73,0.27,149,honey
+otedy,Liquid,0.76,0.24,143,Red / Brown (Root)
+cheol,Neutral,0.64,0.36,141,Cold Sickness / Phlegmatic Condition
+okedy,Liquid,0.72,0.28,137,plant_candidate
+okain,Neutral,0.53,0.47,135,plant_candidate
+cheey,Neutral,0.54,0.46,132,verb form
+s,Neutral,0.46,0.54,129,Suffix/Marker
+qotedy,Liquid,0.72,0.28,128,finger
+oteedy,Liquid,0.83,0.17,127,Red / Brown (Root)
+sheey,Neutral,0.55,0.45,124,verb form
+otaiin,Neutral,0.69,0.31,119,plant_candidate
+saiin,Liquid,0.71,0.29,115,Star/Topic (Particle - Pos 1)
+otal,Liquid,0.72,0.28,114,plant_candidate
+qotaiin,Liquid,0.75,0.25,111,the (+ noun)
+chdy,Neutral,0.47,0.53,105,plant_candidate
+oteey,Neutral,0.50,0.50,104,Green (Leaf)
+qotal,Liquid,0.88,0.12,103,the (+ noun)
+okal,Liquid,0.71,0.29,102,plant_candidate
+dain,Liquid,0.74,0.26,101,plant_candidate (morphological_derivative (d- + ain))
+chor,Neutral,0.36,0.64,100,plant_candidate
+sheol,Neutral,0.56,0.44,100,tongue
+chckhy,Neutral,0.56,0.44,95,plant_candidate
+qoteedy,Liquid,0.79,0.21,94,finger
+qokol,Liquid,0.86,0.14,91,plant_candidate (morphological_derivative (qo- + kol))
+r,Neutral,0.62,0.38,87,Marker
+dol,Neutral,0.67,0.33,86,aries
+ain,Neutral,0.50,0.50,86,one (variant)
+raiin,Neutral,0.44,0.56,85,unknown_object
+shol,Solid,0.28,0.72,76,Extract/Draw out
+dy,Liquid,0.76,0.24,76,ingredient_candidate
+qotain,Liquid,0.84,0.16,75,geranium
+dair,Neutral,0.31,0.69,74,Adar (month)
+air,Neutral,0.38,0.62,73,Suffix: -orium/noun?
+otain,Neutral,0.66,0.34,73,fig
+sol,Liquid,0.95,0.05,73,morphological_derivative (s- + ol)
+olaiin,Liquid,0.73,0.27,70,Green (Leaf)
+otol,Liquid,0.83,0.17,69,Green (Leaf)
+keedy,Neutral,0.61,0.39,64,unknown_object
+oty,Neutral,0.49,0.51,63,plant_candidate
+cheedy,Liquid,0.79,0.21,63,unknown_object
+kaiin,Liquid,0.79,0.21,62,plant_candidate (morphological_derivative (k- + aiin))
+lor,Neutral,0.63,0.37,59,unknown
+kedy,Liquid,0.81,0.19,58,verb form
+sal,Liquid,0.84,0.16,58,Salt (Object - Pos End)
+checkhy,Neutral,0.65,0.35,57,verb form
+aiiin,Neutral,0.30,0.70,56,one
+lkar,Neutral,0.48,0.52,56,specific_plant (f66r)
+sar,Liquid,0.89,0.11,55,barley
+tar,Neutral,0.47,0.53,55,earth
+shckhy,Liquid,0.76,0.24,55,ingredient_candidate
+qotar,Neutral,0.64,0.36,55,the (+ noun)
+chcthy,Liquid,0.74,0.26,53,plant_candidate
+olkeedy,Liquid,0.75,0.25,53,specific_plant
+lchey,Neutral,0.60,0.40,52,verb form
+qokchedy,Neutral,0.65,0.35,52,the (+ noun)
+y,Neutral,0.45,0.55,49,Plant Color (Green/Red)
+am,Solid,0.26,0.74,47,preparation/mixture
+otchedy,Liquid,0.70,0.30,47,herb/plant (generic)
+tedy,Liquid,0.76,0.24,46,unknown_object
+kain,Liquid,0.80,0.20,46,plant_candidate
+chear,Neutral,0.35,0.65,46,plant_candidate
+l,Liquid,0.72,0.28,46,Liquid/Oil
+cheal,Liquid,0.72,0.28,46,sick
+cheor,Neutral,0.62,0.38,45,plant_candidate
+chedar,Neutral,0.51,0.49,45,unknown
+pchedy,Neutral,0.67,0.33,45,verbal/adjectival
+okol,Neutral,0.59,0.41,44,plant_candidate
+shy,Liquid,0.70,0.30,44,verb form
+oky,Neutral,0.57,0.43,44,plant_candidate
+sain,Liquid,0.73,0.27,44,unknown_object
+char,Neutral,0.30,0.70,43,plant_candidate
+ykar,Neutral,0.33,0.67,43,[GRAMMAR]
+yteedy,Liquid,0.86,0.14,43,ingredient_candidate
+lol,Liquid,0.86,0.14,43,verb form
+qokai?n,Liquid,0.86,0.14,43,ingredient_candidate
+chy,Neutral,0.55,0.45,42,plant_candidate
+okey,Neutral,0.57,0.43,42,Green (Leaf)
+lkaiin,Liquid,0.72,0.28,40,priest/cohen
+lshedy,Liquid,0.78,0.23,40,verb form
+oly,Liquid,0.72,0.28,39,plant_candidate
+chody,Liquid,1.00,0.00,38,plant_candidate
+sheor,Liquid,0.87,0.13,38,head
+chedal,Neutral,0.61,0.39,38,geranium/polygonum
+olkain,Neutral,0.68,0.32,38,priest/cohen
+olkaiin,Liquid,0.82,0.18,38,ingredient_candidate
+qoteey,Liquid,0.95,0.05,37,the (+ noun)
+sho,Neutral,0.53,0.47,36,Fire/Heat (Noun/Imperative - Pos 1)
+keey,Neutral,0.39,0.61,36,verb form
+lkedy,Neutral,0.53,0.47,36,morphological_derivative (l- + kedy)
+sheky,Liquid,0.71,0.29,35,verb form
+kar,Neutral,0.43,0.57,35,Root
+qopchedy,Liquid,0.97,0.03,35,the (+ noun)
+rol,Liquid,0.79,0.21,34,unknown_object
+chedaiin,Liquid,0.97,0.03,34,noun (genitive)
+oaiin,Neutral,0.58,0.42,33,plant_candidate
+qoty,Neutral,0.61,0.39,33,the (+ noun)
+qokeed,Neutral,0.59,0.41,32,ingredient_candidate
+lkain,Neutral,0.69,0.31,32,priest/cohen
+qokeol,Neutral,0.41,0.59,32,Boil
+kal,Liquid,0.71,0.29,31,root/rhizome
+olor,Liquid,0.84,0.16,31,verb form
+chety,Neutral,0.68,0.32,31,plant_candidate
+odaiin,Neutral,0.32,0.68,31,plant_candidate
+qokor,Neutral,0.65,0.35,31,the (+ noun)
+okeol,Neutral,0.48,0.52,31,plant_candidate
+ykeedy,Liquid,0.73,0.27,30,unknown_object
+teedy,Liquid,0.80,0.20,30,unknown_object
+checthy,Neutral,0.41,0.59,29,plant_candidate
+cheody,Neutral,0.66,0.34,29,plant_candidate
+shdy,Neutral,0.55,0.45,29,verb form
+ykal,Solid,0.29,0.71,28,And root/rhizome
+shor,Neutral,0.57,0.43,28,root (shoresh)
+qokeeey,Liquid,0.75,0.25,28,verb / imperative
+ches,Neutral,0.36,0.64,28,unknown
+ykaiin,Solid,0.11,0.89,27,priest/cohen
+tchedy,Liquid,0.81,0.19,27,verbal/adjectival
+dam,Liquid,0.78,0.22,27,blood
+qoaiin,Neutral,0.44,0.56,27,plant_candidate (morphological_derivative (qo- + aiin))
+qokchdy,Neutral,0.59,0.41,27,the (+ noun)
+ched,Neutral,0.52,0.48,27,ingredient_candidate
+cheeor,Liquid,0.81,0.19,26,wind/spirit
+otey,Neutral,0.54,0.46,26,verb form
+ykeey,Neutral,0.69,0.31,26,And verb form
+tor,Neutral,0.35,0.65,26,earth
+tol,Neutral,0.62,0.38,26,all/voice
+olchedy,Liquid,0.88,0.12,26,Green (Leaf)
+laiin,Neutral,0.65,0.35,26,moon
+sor,Neutral,0.69,0.31,26,barley
+shecthy,Neutral,0.68,0.32,25,unknown_object
+keody,Neutral,0.60,0.40,25,wheat
+olchey,Liquid,0.92,0.08,25,sick person
+lsheey,Solid,0.24,0.76,25,verb / imperative
+lkeey,Neutral,0.52,0.48,25,papaver/poppy
+qo,Neutral,0.58,0.42,24,the (definite article)
+oiin,Liquid,0.88,0.12,24,plant_candidate
+okor,Neutral,0.58,0.42,24,unknown_object
+kchdy,Neutral,0.67,0.33,24,plant_candidate (morphological_derivative (k- + chdy))
+chl,Neutral,0.54,0.46,24,plant_candidate
+cheky,Liquid,0.83,0.17,24,plant_candidate
+yteey,Solid,0.25,0.75,24,unknown_object
+olkedy,Liquid,0.83,0.17,24,unknown_object
+sheeol,Liquid,0.75,0.25,24,tongue
+sheety,Neutral,0.54,0.46,24,plant:polygonum (imperative/action)
+qoeedy,Liquid,1.00,0.00,24,verb / imperative
+otchy,Neutral,0.61,0.39,23,finger
+dor,Neutral,0.57,0.43,23,plant_candidate (morphological_derivative (d- + or))
+cthey,Neutral,0.35,0.65,23,verb form
+sheckhy,Neutral,0.48,0.52,23,verb form
+tal,Neutral,0.39,0.61,23,plant_candidate (morphological_derivative (t- + al))
+chees,Solid,0.26,0.74,23,tree
+chdar,Liquid,0.87,0.13,23,moon
+chckhey,Neutral,0.59,0.41,22,verb (unknown)
+sair,Liquid,0.91,0.09,22,barley
+qokedar,Liquid,0.73,0.27,22,Unknown
+cthy,Solid,0.23,0.77,22,verb form
+ody,Neutral,0.45,0.55,22,plant_candidate
+qokam,Liquid,0.86,0.14,22,noun / ingredient
+tchdy,Neutral,0.68,0.32,22,unknown_object
+sheal,Neutral,0.68,0.32,22,Unknown
+rar,Neutral,0.68,0.32,22,ingredient_candidate
+yshedy,Neutral,0.45,0.55,22,And which/that
+qokeor,Liquid,1.00,0.00,22,ingredient_candidate
+o,Neutral,0.67,0.33,21,The (Dry/Hot) / Essence-of
+okeal,Neutral,0.67,0.33,21,plant_candidate
+daldy,Liquid,1.00,0.00,21,verb
+otedar,Liquid,0.76,0.24,21,Unknown
+cheos,Liquid,0.75,0.25,20,tree
+cheeky,Neutral,0.55,0.45,20,adjective/modifier
+okai?n,Neutral,0.55,0.45,20,plant_candidate
+qokear,Neutral,0.55,0.45,20,ingredient_candidate
+qotey,Liquid,0.75,0.25,20,morphological_derivative (qo- + tey)
+qockhey,Liquid,0.75,0.25,20,unknown_object
+otchey,Solid,0.15,0.85,20,verb form
+kor,Neutral,0.58,0.42,19,plant_candidate (morphological_derivative (k- + or))
+aiir,Solid,0.26,0.74,19,unknown_object
+taiin,Liquid,0.95,0.05,19,fig
+sheo,Neutral,0.53,0.47,19,fire
+qokaly,Neutral,0.68,0.32,19,ingredient_candidate
+chal,Neutral,0.42,0.58,19,plant_candidate
+olkar,Neutral,0.68,0.32,19,plant_candidate
+dchedy,Liquid,1.00,0.00,19,plant_candidate (morphological_derivative (d- + chedy))
+lkeedy,Neutral,0.37,0.63,19,specific_plant (f55r/f66r)
+arody,Solid,0.00,1.00,19,verb
+qoeey,Liquid,0.74,0.26,19,verb / imperative
+ytaiin,Neutral,0.56,0.44,18,And fig
+chcphy,Liquid,0.83,0.17,18,plant_candidate
+"4,+P0;m>",Neutral,0.61,0.39,18,Unknown
+chdal,Neutral,0.50,0.50,18,plant_candidate
+ary,Neutral,0.44,0.56,18,verb (unknown)
+choky,Neutral,0.50,0.50,18,plant_candidate
+olshedy,Liquid,0.89,0.11,18,morphological_derivative (o- + lshedy)
+ols,Liquid,0.78,0.22,18,plant_candidate
+ory,Neutral,0.67,0.33,18,unknown_object
+"4,+P0;c>",Neutral,0.65,0.35,17,Unknown
+ytedy,Liquid,0.71,0.29,17,verb / imperative
+aly,Solid,0.00,1.00,17,verb (unknown)
+sheet,Solid,0.06,0.94,17,plant:polygonum
+opchedy,Liquid,1.00,0.00,17,chest
+qotai?n,Liquid,0.94,0.06,17,ingredient_candidate
+qotol,Liquid,0.94,0.06,17,the (+ noun)
+qokchey,Liquid,1.00,0.00,17,the (+ noun)
+eeedy,Neutral,0.31,0.69,16,unknown_object
+oteody,Neutral,0.50,0.50,16,unknown_object
+kchedy,Liquid,0.94,0.06,16,plant_candidate (morphological_derivative (k- + chedy))
+shky,Neutral,0.38,0.62,16,verb / imperative
+qoked,Neutral,0.62,0.38,16,unknown_object
+olain,Liquid,0.81,0.19,16,The / Essence of plant_term
+qolchey,Neutral,0.44,0.56,16,verb / imperative
+lshey,Neutral,0.38,0.62,16,verb / imperative
+dshedy,Liquid,0.75,0.25,16,verbal/adjectival
+shedaiin,Liquid,0.81,0.19,16,unknown_object
+olkeey,Neutral,0.50,0.50,16,verb form
+qokshedy,Liquid,1.00,0.00,16,ingredient_candidate
+chkaiin,Liquid,1.00,0.00,16,plant_candidate
+olar,Neutral,0.62,0.38,16,plant_candidate
+"6,+P0;F>",Neutral,0.60,0.40,15,Unknown
+"6,+P0;m>",Neutral,0.53,0.47,15,Unknown
+"6,+P0;c>",Neutral,0.60,0.40,15,Unknown
+"2,+P0;H>",Liquid,0.93,0.07,15,Unknown
+"2,+P0;m>",Liquid,0.80,0.20,15,Unknown
+shaiin,Neutral,0.33,0.67,15,root/rhizome
+teey,Neutral,0.60,0.40,15,unknown_object
+"4,+P0;H>",Neutral,0.53,0.47,15,Unknown
+"4,+P0;F>",Neutral,0.60,0.40,15,Unknown
+dai?n,Liquid,0.80,0.20,15,ingredient_candidate
+okedal,Liquid,1.00,0.00,15,plant_candidate
+kol,Neutral,0.47,0.53,15,all/voice
+oldy,Neutral,0.40,0.60,15,plant_candidate
+chdor,Neutral,0.33,0.67,15,[COLOR_RED]
+rain,Liquid,0.73,0.27,15,noun / ingredient
+shear,Neutral,0.40,0.60,15,root (shoresh)
+cheeol,Liquid,1.00,0.00,15,sick person
+pchdy,Neutral,0.60,0.40,15,verb / imperative
+okchedy,Neutral,0.67,0.33,15,specific_plant (f50r)
+dsheol,Neutral,0.67,0.33,15,[PLANT NAME]
+keol,Liquid,0.93,0.07,14,garlic
+eedy,Neutral,0.64,0.36,14,unknown_object
+ykedy,Liquid,0.93,0.07,14,And verb form
+qotchy,Neutral,0.43,0.57,14,finger
+oteol,Neutral,0.43,0.57,14,plant_candidate
+otees,Neutral,0.50,0.50,14,tree
+chky,Solid,0.29,0.71,14,plant_candidate
+oteos,Liquid,0.71,0.29,14,The Tree
+tshey,Liquid,1.00,0.00,14,verb / imperative
+okeeey,Liquid,0.86,0.14,14,plant_candidate
+arol,Solid,0.07,0.93,14,flower/handful (derivative)
+qok,Liquid,0.71,0.29,14,plant_candidate (morphological_derivative (qo- + k))
+ror,Neutral,0.57,0.43,14,Unknown
+pol,Neutral,0.64,0.36,14,skin
+otai?n,Neutral,0.50,0.50,14,plant_candidate
+olkal,Liquid,0.71,0.29,14,noun / ingredient
+lcheedy,Neutral,0.43,0.57,14,[COLOR_RED]
+sheody,Neutral,0.64,0.36,14,verb form
+"6,+P0;H>",Neutral,0.46,0.54,13,Unknown
+"3,+P0;F>",Neutral,0.46,0.54,13,Unknown
+"3,+P0;m>",Neutral,0.46,0.54,13,Unknown
+"2,+P0;c>",Liquid,0.77,0.23,13,Unknown
+odar,Neutral,0.46,0.54,13,plant_candidate (morphological_derivative (o- + dar))
+chs,Neutral,0.54,0.46,13,preposition/conjunction
+chedain,Liquid,0.92,0.08,13,plant_candidate
+okair,Neutral,0.62,0.38,13,plant_candidate
+pchedar,Neutral,0.54,0.46,13,unknown_object
+ot,Liquid,0.77,0.23,13,red/brown
+lteedy,Liquid,1.00,0.00,13,verb / imperative
+sheckhedy,Solid,0.08,0.92,13,Unknown
+rchedy,Neutral,0.31,0.69,13,verb / imperative
+olkeeey,Solid,0.23,0.77,13,plant_candidate
+qotchedy,Neutral,0.31,0.69,13,ingredient_candidate
+qochey,Solid,0.00,1.00,13,verb / imperative
+kchol,Neutral,0.58,0.42,12,lily
+ydaiin,Liquid,1.00,0.00,12,And from the spring / take water
+"9,+P0;F>",Neutral,0.58,0.42,12,Unknown
+"2,+P0;F>",Liquid,0.75,0.25,12,Unknown
+"5,+P0;F>",Neutral,0.58,0.42,12,Unknown
+oldar,Solid,0.00,1.00,12,unknown_object
+"4,+P0;C>",Neutral,0.58,0.42,12,Unknown
+keeol,Neutral,0.67,0.33,12,ingredient_candidate
+"11,+P0;F>",Neutral,0.67,0.33,12,Unknown
+chechey,Neutral,0.50,0.50,12,plant_term
+cho,Neutral,0.50,0.50,12,plant_candidate
+chckhdy,Solid,0.00,1.00,12,unknown_object
+shekam,Liquid,1.00,0.00,12,Unknown
+arodl,Solid,0.00,1.00,12,plant:polygonum
+ytar,Neutral,0.33,0.67,12,And earth
+orol,Neutral,0.50,0.50,12,unknown_object
+chokeey,Solid,0.00,1.00,12,plant_candidate
+chokal,Liquid,1.00,0.00,12,plant:geranium
+soiin,Liquid,0.83,0.17,12,seed
+lol<-><figure>,Liquid,1.00,0.00,12,Unknown
+qolky,Liquid,1.00,0.00,12,[COLOR_GREEN]
+qoky<-><figure>,Liquid,1.00,0.00,12,Unknown
+pchor,Neutral,0.67,0.33,12,flower (perach)
+shek,Solid,0.00,1.00,12,ingredient_candidate
+lkchedy,Liquid,1.00,0.00,12,ingredient_candidate
+okaly,Liquid,1.00,0.00,12,plant_candidate
+lchy<-><figure>,Liquid,1.00,0.00,12,Unknown
+qoteor,Liquid,1.00,0.00,12,plant_term
+otor,Neutral,0.33,0.67,12,earth
+qodaiin,Neutral,0.67,0.33,12,plant_candidate (morphological_derivative (qo- + daiin))
+qokeody,Neutral,0.33,0.67,12,wheat
+okeeol,Liquid,1.00,0.00,12,unknown_object
+otair,Neutral,0.50,0.50,12,earth
+oteeo,Liquid,1.00,0.00,12,ingredient_candidate
+qokeeol,Liquid,0.92,0.08,12,Unknown
+"10,+P0;m>",Liquid,0.91,0.09,11,Unknown
+"9,+P0;c>",Neutral,0.64,0.36,11,Unknown
+"5,+P0;H>",Neutral,0.64,0.36,11,Unknown
+"5,+P0;m>",Neutral,0.55,0.45,11,Unknown
+"14,+P0;F>",Neutral,0.55,0.45,11,Unknown
+dl,Liquid,1.00,0.00,11,unknown_object
+oraiin,Liquid,1.00,0.00,11,plant_candidate
+"10,+P0;H>",Liquid,0.73,0.27,11,Unknown
+qoeedaiin,Neutral,0.55,0.45,11,ingredient_candidate
+polchedy,Neutral,0.45,0.55,11,verb / imperative
+qotaly,Liquid,1.00,0.00,11,plant_term
+qokedal,Liquid,1.00,0.00,11,Unknown
+choty,Neutral,0.36,0.64,11,plant_candidate
+qotor,Neutral,0.45,0.55,11,morphological_derivative (qo- + tor)
+ockhey,Solid,0.18,0.82,11,plant_candidate
+shody,Liquid,1.00,0.00,11,verb
+oteodaiin,Liquid,1.00,0.00,11,plant_candidate
+chos,Solid,0.00,1.00,11,plant_candidate
+oteor,Solid,0.27,0.73,11,earth
+opchey,Solid,0.00,1.00,11,flower
+okchdy,Liquid,1.00,0.00,11,plant_candidate
+"33,+P0;H>",Neutral,0.55,0.45,11,Unknown
+olor<$>,Neutral,0.45,0.55,11,Unknown
+ral,Neutral,0.36,0.64,11,Unknown
+olshey,Neutral,0.45,0.55,11,plant_candidate
+okeed,Neutral,0.55,0.45,11,Unknown
+olsheey,Liquid,1.00,0.00,11,plant:holm
+"33,+P0;F>",Neutral,0.64,0.36,11,Unknown
+oiiin,Neutral,0.64,0.36,11,plant_candidate
+"26,+P0;H>",Liquid,0.82,0.18,11,Unknown
+okalor,Liquid,1.00,0.00,11,plant_candidate
+shockhy,Neutral,0.45,0.55,11,plant_term
+aror,Solid,0.09,0.91,11,Unknown
+qokshey,Liquid,0.91,0.09,11,Unknown
+qoal,Liquid,1.00,0.00,11,noun / ingredient
+okedar,Liquid,1.00,0.00,11,plant_candidate
+dolor,Liquid,1.00,0.00,11,pain
+keeo,Neutral,0.36,0.64,11,unknown_object
+cheokaiin,Liquid,1.00,0.00,11,plant:uva quercina (Collection of / Set of)
+qoteo,Neutral,0.64,0.36,11,plant:cyanus
+ycheey,Solid,0.00,1.00,11,morphological_derivative (y- + cheey)
+lchdy,Liquid,1.00,0.00,11,sick person
+chkeey,Neutral,0.55,0.45,11,strength/power
+"11,+P0;H>",Neutral,0.70,0.30,10,Unknown
+"13,+P0;m>",Neutral,0.60,0.40,10,Unknown
+"15,+P0;H>",Neutral,0.40,0.60,10,Unknown
+"15,+P0;F>",Neutral,0.50,0.50,10,Unknown
+"9,+P0;m>",Neutral,0.70,0.30,10,Unknown
+qokchol,Neutral,0.30,0.70,10,lily
+"5,+P0;c>",Neutral,0.50,0.50,10,Unknown
+dchey,Solid,0.10,0.90,10,one
+okedor,Neutral,0.40,0.60,10,plant_candidate
+sches,Neutral,0.40,0.60,10,noun / ingredient
+rair,Neutral,0.70,0.30,10,Unknown
+"3,+P0;c>",Neutral,0.40,0.60,10,Unknown
+ckheos,Neutral,0.50,0.50,10,Unknown
+"11,+P0;m>",Neutral,0.70,0.30,10,Unknown
+"14,+P0;m>",Neutral,0.40,0.60,10,Unknown
+kshedy,Neutral,0.40,0.60,10,plant_term (imperative/action)
+kair,Neutral,0.60,0.40,10,noun / ingredient
+?,Solid,0.10,0.90,10,noun / ingredient
+dchdy,Neutral,0.40,0.60,10,verb / imperative
+pchdar,Liquid,1.00,0.00,10,plant_term
+qokchd,Neutral,0.50,0.50,10,Unknown
+chaiin,Liquid,1.00,0.00,10,plant_candidate
+alkar,Solid,0.00,1.00,10,Unknown
+aral,Solid,0.00,1.00,10,unknown_object
+okeeor,Liquid,0.90,0.10,10,plant_candidate
+okeo,Neutral,0.40,0.60,10,plant_candidate
+"17,+P0;H>",Neutral,0.40,0.60,10,Unknown
+ldy<-><figure>,Liquid,1.00,0.00,10,Unknown
+"33,+P0;m>",Neutral,0.50,0.50,10,Unknown
+"17,+P0;m>",Neutral,0.30,0.70,10,Unknown
+qok?l,Liquid,0.90,0.10,10,ingredient_candidate
+alchedy,Neutral,0.60,0.40,10,verb / imperative
+qolkeedy,Liquid,1.00,0.00,10,[COLOR_GREEN]
+shdal,Liquid,1.00,0.00,10,[PLANT NAME]
+chedol,Liquid,1.00,0.00,10,ingredient_candidate
+qokl,Liquid,1.00,0.00,10,ingredient_candidate
+ocheey,Neutral,0.60,0.40,10,unknown_object
+shal,Liquid,0.90,0.10,10,unknown_object
+dchol,Liquid,1.00,0.00,10,morphological_derivative (d- + chol)
+om,Neutral,0.30,0.70,10,plant_candidate
+aii?n,Solid,0.20,0.80,10,Unknown
+shdar,Neutral,0.40,0.60,10,scabiosa
+oar,Neutral,0.60,0.40,10,plant_candidate
+qokshd,Neutral,0.40,0.60,10,holy
+qockhy,Liquid,1.00,0.00,10,unknown_object
+lky,Liquid,0.90,0.10,10,ingredient_candidate
+qokeod,Neutral,0.50,0.50,10,valerian
+sheod,Neutral,0.50,0.50,10,[GRAMMAR]
+cheokeey,Neutral,0.50,0.50,10,plant_term
+keedal,Neutral,0.50,0.50,10,Papaver (variant?)
+rcheetey,Neutral,0.50,0.50,10,Unknown
+oteolair,Neutral,0.50,0.50,10,Unknown

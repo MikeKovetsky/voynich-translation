@@ -10,8 +10,8 @@ def main():
     
     # 1. Copy Dictionary
     try:
-        # Updated to use v17
-        source_dict = "results/dictionary/master_dictionary_v17.json"
+        # Updated to use v18
+        source_dict = "results/dictionary/master_dictionary_v18.json"
         if os.path.exists(source_dict):
             with open(source_dict, 'r') as f:
                 data = json.load(f)

@@ -8,20 +8,24 @@ OUTPUT_NARRATIVE = "results/bio_narrative_v1.md"
 OUTPUT_SUMMARY = "results/track-307-results_summary.md"
 
 # Define keywords for SVO extraction
-SUBJECTS = [
+# Use sets for O(1) lookup and exact matching
+SUBJECTS = {
     "patient", "sick", "priest", "cohen", "woman", "nymph", "bather", "attendant", "she", "he", "person",
-    "olchey", "chol", "oror" # Common voynich nouns in bio section?
-]
-VERBS = [
-    "cook", "boil", "extract", "draw out", "heat", "fire", "burn", "wash", "clean", "bathe", "drink", "eat", "take", "mix", "rub", "apply", "enter", "exit", "soak", "stand", "sit", "pour"
-]
-OBJECTS = [
-    "mixture", "decoction", "water", "spring", "pool", "bath", "tub", "root", "herb", "plant", "oil", "ointment", "vapor", "steam", "stone", "pipe", "spout"
-]
+    "olchey", "chol", "oror", "man"
+}
+VERBS = {
+    "cook", "boil", "extract", "draw", "heat", "fire", "burn", "wash", "clean", "bathe", "drink", "eat", "take", "mix", "rub", "apply", "enter", "exit", "soak", "stand", "sit", "pour"
+}
+OBJECTS = {
+    "mixture", "decoction", "water", "spring", "pool", "bath", "tub", "root", "herb", "plant", "oil", "ointment", "vapor", "steam", "stone", "pipe", "spout", "boil", "liquid", "honey"
+}
 
 def clean_token(token):
-    # Remove markdown bolding ** and other artifacts
-    return token.replace("**", "").replace(":", "").strip().lower()
+    # Remove markdown bolding ** and other artifacts, keep text only
+    # Also handle "root/rhizome" -> "root"
+    t = token.replace("**", "").replace(":", "").lower()
+    # split by non-alphanumeric to get sub-tokens
+    return re.split(r'[^a-z]+', t)
 
 def parse_translation(file_path):
     with open(file_path, 'r') as f:
@@ -70,24 +74,42 @@ def extract_svo(bio_pages):
     for page_id, lines in bio_pages.items():
         for line in lines:
             content = line['content']
-            tokens = [clean_token(t) for t in content.split()]
+            # Tokenize properly
+            raw_tokens = content.split()
+            all_subtokens = []
+            for t in raw_tokens:
+                all_subtokens.extend(clean_token(t))
             
-            # Simple sliding window or proximity search
-            # We look for Subject... Verb... Object in the line
+            # Filter empty
+            tokens = [t for t in all_subtokens if t]
             
-            found_subjects = [t for t in tokens if any(s in t for s in SUBJECTS)]
-            found_verbs = [t for t in tokens if any(v in t for v in VERBS)]
-            found_objects = [t for t in tokens if any(o in t for o in OBJECTS)]
+            # Identify components
+            found_subjects = []
+            found_verbs = []
+            found_objects = []
 
+            for t in tokens:
+                if t in SUBJECTS:
+                    found_subjects.append(t)
+                elif t in VERBS:
+                    found_verbs.append(t)
+                elif t in OBJECTS:
+                    found_objects.append(t)
+                # Special handling for partial matches if needed, but exact is safer for "he"
+            
+            # Logic to form sentence
             if found_subjects and found_verbs and found_objects:
-                # Construct a simple sentence
                 s = found_subjects[0]
                 v = found_verbs[0]
                 o = found_objects[0]
                 
-                # Clean up specific terms
-                if "priest" in s: s = "The Attendant (Priest/Cohen)"
-                elif "sick" in s: s = "The Patient (Sick)"
+                if s == "the":
+                    print(f"WARNING: Found subject 'the' in line {line['id']}. Subjects found: {found_subjects}")
+
+                if s == "priest" or s == "cohen": s = "The Attendant (Priest)"
+                elif s == "sick": s = "The Patient (Sick)"
+                elif s == "he": s = "He"
+                elif s == "she": s = "She"
                 else: s = f"The {s.capitalize()}"
 
                 sentence = f"{s} {v}s the {o}."
@@ -123,7 +145,6 @@ def generate_narrative(fragments):
             story += f"\n## Scene: {current_page}\n"
         
         story += f"- {frag['sentence']} (Source: `{frag['line']}`)\n"
-        # Optional: Add raw text for context? Maybe too noisy.
     
     return story
 
@@ -157,6 +178,7 @@ def main():
     - **Actions**: Cooking/Boiling mixtures, Extracting fluids, Washing/Bathing.
     - **Objects**: Roots, Mixtures (Decoctions), Water/Springs.
 - The "Medical Spa" hypothesis is supported by the frequent occurrence of water/liquid processing and application to "sick" individuals or "skin".
+- **Sequence Analysis**: The text focuses heavily on the **preparation** of the bath (Cooking, Extracting, Mixing) rather than the patient's movement (Enter, Exit). The "narrative" is a recipe or procedure manual for the attendants.
 
 ## Next Steps
 - Refine verb mapping for more specific spa actions (e.g. "soak" vs "wash").

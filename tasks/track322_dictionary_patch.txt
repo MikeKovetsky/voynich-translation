@@ -1,0 +1,27 @@
+# Track 322: Dictionary Patch v18
+# Status: Ready for Execution
+# Priority: Critical
+
+## Goal
+Update the Master Dictionary with the "Scientific" findings (Roots + Starters) to fix the Blind Translation.
+
+## Requirements
+1.  **Input:** 
+    -   `artifacts/top_roots.txt`
+    -   `artifacts/top_starters.txt`
+    -   `artifacts/roots_by_section.csv`
+    -   `results/dictionary/master_dictionary_v17.json`
+2.  **Script:** `research/dictionary_patcher_v18.py`
+    -   Load the existing dictionary.
+    -   **Patch 1:** Add "Sentence Starters" (from `top_starters.txt`) with meaning `[SENTENCE_STARTER]`.
+    -   **Patch 2:** Add "Roots" (from `top_roots.txt`) as separate entries.
+        -   If Root is in `roots_by_section.csv`, add `[SECTION_TERM]` to definition.
+    -   **Patch 3:** Update `qokeey`, `sho`, `saiin` based on Track 313 Syntax findings (Pos 1/2/3).
+    -   Save as `results/dictionary/master_dictionary_v18.json`.
+
+## Expected Output
+1.  `results/dictionary/master_dictionary_v18.json`: The new "Scientific" Dictionary.
+2.  `results/dictionary_patch_report.md`: Summary of changes (e.g., "Added 45 new Roots").
+
+## Why?
+The Blind Translation failed because we didn't have definitions for the roots. This fills that gap.

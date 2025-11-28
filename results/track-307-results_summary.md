@@ -3,7 +3,7 @@
 ## Process
 1.  **Input**: Parsed `results/full_translation_v2.md` for pages f75-f84.
 2.  **Analysis**: Scanned for Subject-Verb-Object patterns using keyword matching (e.g., Patient, Cook, Mixture).
-3.  **Extraction**: Identified 328 coherent narrative fragments.
+3.  **Extraction**: Identified 97 coherent narrative fragments.
 
 ## Coherence Check
 - The extracted fragments suggest a process involving:
@@ -11,6 +11,7 @@
     - **Actions**: Cooking/Boiling mixtures, Extracting fluids, Washing/Bathing.
     - **Objects**: Roots, Mixtures (Decoctions), Water/Springs.
 - The "Medical Spa" hypothesis is supported by the frequent occurrence of water/liquid processing and application to "sick" individuals or "skin".
+- **Sequence Analysis**: The text focuses heavily on the **preparation** of the bath (Cooking, Extracting, Mixing) rather than the patient's movement (Enter, Exit). The "narrative" is a recipe or procedure manual for the attendants.
 
 ## Next Steps
 - Refine verb mapping for more specific spa actions (e.g. "soak" vs "wash").
