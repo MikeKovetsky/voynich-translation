@@ -1,0 +1,18 @@
+# Iteration 106: The Anagram Pivot 🔠
+# Status: In Progress
+# Date: 2025-11-27
+
+## The Negative Result
+Tracks 338 and 340 confirmed that the Voynich text does **not** contain simple phonetic representations of the Latin plant names. The "Pisum" page does not say "Pisum".
+
+## The Pivot
+We are now testing the **Anagram Hypothesis** (Track 341) and the **Semantic Weak Signal** (Track 342).
+*   Maybe the name "Pisum" is hidden as "Sumpi".
+*   Maybe the "Poison" warning is only present on 20% of pages, not 50%.
+
+## Tasks
+*   **Track 341:** Anagram Validator.
+*   **Track 342:** Loose Descriptor Search.
+
+## Goal
+Find *any* non-random correlation between the Text and the Reality (Sherwood Map).
