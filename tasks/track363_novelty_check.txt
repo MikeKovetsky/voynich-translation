@@ -1,0 +1,16 @@
+# Task: Novelty Check Script
+# Status: Pending
+# Goal: Prevent redundant research tasks.
+
+Description:
+Before launching a task like "Analyze word X", we must check if X is already solved.
+
+Requirements:
+1. Create `research/novelty_check.py`.
+2. It should accept a query term (e.g., "qol", "daiin", "anagram").
+3. It reads `artifacts/established_truths.md` and `artifacts/rejected_hypotheses.md`.
+4. If the term is found, it prints the existing knowledge and STATUS=SOLVED or STATUS=DEAD_END.
+5. This script will be run by the Orchestrator before creating new tracks.
+
+Output:
+- research/novelty_check.py

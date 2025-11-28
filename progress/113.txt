@@ -1,25 +1,25 @@
-# Iteration 113: The Syntactic Parser 🧩
+# Iteration 113: The Knowledge Lock 🔒📚
 # Status: In Progress
 # Date: 2025-11-27
 
-## The Grammar Map
-We have mapped the "Roles" of common words.
-- `ycheey` = START
-- `dam` = STOP
-- `daiin` = JOIN
+## The Problem
+We are looping. We rediscovered `qol`=Water in Iter 112 after solving it in Iter 78.
+This is inefficient and dangerous (risk of contradicting past truths).
 
-## The Parser Strategy (Iter 113)
-We will now parse the text like a compiler.
-1.  **Tag (Track 359):** Label every word.
-2.  **Segment (Track 360):** Break the stream into Sentences.
-3.  **Analyze (Track 361):** Find the Canonical Sentence Structure.
+## The Solution
+We will pause new exploration to **Consolidate Knowledge**.
+1.  **Mine the Logs (Track 362):** Extract every "Verdict" from the last 100 iterations.
+2.  **Build the Wall (Track 362):** Create `established_truths.md` and `rejected_hypotheses.md`.
+3.  **Enforce the Wall (Track 363):** Create a script to check new ideas against the Wall.
+
+## The Path Forward
+Once the Wall is built, we use it.
+4.  **Slot Mining (Track 364):** Use the Knowns (`daiin`, `qol`) to trap the Unknowns.
 
 ## Tasks
-*   **Track 359:** Grammar Tagging.
-*   **Track 360:** Sentence Segmentation.
-*   **Track 361:** Syntactic Pattern Mining.
+*   **Track 362:** Truth Consolidation.
+*   **Track 363:** Novelty Check.
+*   **Track 364:** Collocation Mining.
 
 ## Goal
-Define the "Sentence" of the Voynich Manuscript.
-Is it `Subject-Verb-Object`? `Verb-Subject-Object`?
-If we know the structure, we can guess the missing words.
+Stop the cycle. Build on stone, not sand.

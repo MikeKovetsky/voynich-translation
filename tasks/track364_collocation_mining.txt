@@ -1,0 +1,23 @@
+# Task: Collocation Mining (The "Slot" Method)
+# Status: Pending
+# Goal: Use Known Words to define Unknown Words.
+
+Description:
+We know `daiin` (Take) and `qol` (Water/Bath) and `ol` (The/Of).
+We will use these anchors to find the "Ingredients".
+Pattern: `daiin [UNKNOWN] qol` -> "Take [Ingredient] (in/with) Water".
+
+Requirements:
+1. Create `research/collocation_miner.py`.
+2. Load the Corpus.
+3. Search for patterns involving Known Words (from `established_truths.md`).
+    - `daiin *` (What is taken?)
+    - `* qol` (What goes with water?)
+    - `ol *` (What is the noun?)
+4. Extract the [UNKNOWN] words from these slots.
+5. Rank them by frequency in that slot.
+6. Output `results/ingredient_candidates.csv`.
+
+Output:
+- research/collocation_miner.py
+- results/ingredient_candidates.csv
