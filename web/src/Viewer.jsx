@@ -5,6 +5,7 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import pages from './data/pages.json'
 import coordinates from './data/coordinates.json'
+import translations from './data/translations.json'
 
 function Viewer() {
   const { pageId } = useParams()
@@ -29,11 +30,9 @@ function Viewer() {
     const fetchTranslation = async () => {
       setLoading(true)
       try {
-        const response = await fetch(`/translated/${pageName}.md`)
-        const contentType = response.headers.get('content-type')
+        const text = translations[pageName]
         
-        if (response.ok && contentType && !contentType.includes('text/html')) {
-          const text = await response.text()
+        if (text) {
           setMarkdownContent(text)
         } else {
           setMarkdownContent('*No translation available for this page.*')
@@ -60,6 +59,8 @@ function Viewer() {
     }
     return lines
   }, [markdownContent])
+
+  const hasLineTranslations = Object.keys(lineTranslations).length > 0
 
   const currentCoordinates = coordinates[currentPage] || {}
   const hasCoordinates = Object.keys(currentCoordinates).length > 0
@@ -146,7 +147,7 @@ function Viewer() {
               />
               
               {/* Overlay Mode: Coordinates exist */}
-              {showTranslation && hasCoordinates && (
+              {showTranslation && hasCoordinates && hasLineTranslations && (
                 <div className="absolute inset-0 pointer-events-none">
                   {Object.entries(currentCoordinates).map(([id, coords]) => {
                     const text = lineTranslations[id]
@@ -170,7 +171,7 @@ function Viewer() {
               )}
 
               {/* Overlay Mode: No Coordinates (Fallback Layer) */}
-              {showTranslation && !hasCoordinates && (
+              {showTranslation && (!hasCoordinates || !hasLineTranslations) && (
                 <div className="absolute inset-0 bg-slate-900/70 p-8 overflow-auto backdrop-blur-[2px] transition-all">
                    <div className="max-w-2xl mx-auto bg-slate-900/90 p-6 rounded-lg shadow-2xl border border-amber-500/30 text-slate-100">
                      <h2 className="text-xl font-bold text-amber-500 mb-4 border-b border-slate-700 pb-2 sticky top-0 bg-slate-900/95 pt-2">

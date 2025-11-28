@@ -1,0 +1,27 @@
+# Track 334: Web Interface Update
+# Status: Ready for Execution
+# Priority: High
+
+## Goal
+Update the React-based web interface to display the final "Medical Manual" translation and the new dictionary v19.
+The web app is the primary way users will interact with our findings.
+
+## Requirements
+1.  **Input:**
+    -   `results/dictionary/master_dictionary_v19.json` (The final lexicon).
+    -   `translated/THE_VOYNICH_MEDICAL_MANUAL_CLEAN.md` (The final text).
+2.  **Data Transformation (Script `research/update_web_data.py`):**
+    -   Convert `master_dictionary_v19.json` -> `web/src/data/dictionary.json` (Minified for web).
+    -   Convert the Clean Translation MD -> `web/src/data/translations.json`.
+        -   Format: `{ "f10r": "Translation text...", "f75v": "Translation text..." }`.
+3.  **Component Update (Task for Developer):**
+    -   Update `web/src/Viewer.jsx` to fetch the new translation data.
+    -   Update `web/src/Dictionary.jsx` to show the new "Functional Categories" (Boiled Root, Zodiac Candidate).
+    -   Add a "Medical Manual" mode to the viewer?
+
+## Expected Output
+1.  Updated `web/src/data/*.json` files.
+2.  A functional web app showing the "Decoded" manuscript.
+
+## Why?
+A text file is nice, but a clickable manuscript is better.

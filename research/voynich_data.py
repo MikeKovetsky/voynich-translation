@@ -145,8 +145,8 @@ def get_all_words(system='EVA', transcriber='H'):
     words = set()
     for page in pages.values():
         for text in page.values():
-            text_clean = re.sub(r'[!?<>@$\d]', '', text)
-            for w in re.split(r'[.\-=,\s]', text_clean):
+            text_clean = re.sub(r'[!?<>@$\d]', ' ', text)
+            for w in re.split(r'[.\-=,\s!?]+', text_clean):
                 if w and len(w) > 1:
                     words.add(w)
     
@@ -168,8 +168,8 @@ def get_word_frequencies(system='EVA', transcriber='H'):
     freq = {}
     for page in pages.values():
         for text in page.values():
-            text_clean = re.sub(r'[!?<>@$\d]', '', text)
-            for w in re.split(r'[.\-=,\s]', text_clean):
+            text_clean = re.sub(r'[!?<>@$\d]', ' ', text)
+            for w in re.split(r'[.\-=,\s!?]+', text_clean):
                 if w and len(w) > 1:
                     freq[w] = freq.get(w, 0) + 1
     

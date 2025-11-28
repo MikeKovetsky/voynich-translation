@@ -1,0 +1,28 @@
+# Track 330: Plant Identification (The "Recipe Match" Expansion)
+# Status: Ready for Execution
+# Priority: Critical
+
+## Goal
+We refuse to settle for "Plant". We want "Betony".
+We have `okedy` profiled as a "Boiled Root". We need to find which *specific* medieval roots were boiled in March (Adar).
+
+## Requirements
+1.  **Input:** 
+    -   `results/plant_recipe_match_report.md` (The profile list).
+    -   `results/dictionary/master_dictionary_v18.json`.
+2.  **Web Search / Knowledge Retrieval:**
+    -   Search medieval herbals (Tractatus de Herbis, Dioscorides) for "Roots boiled in Adar/Spring".
+    -   Search for "Plants mixed with Oil/Liquid" (Infusions).
+3.  **Script:** `research/plant_id_proposer.py`
+    -   Load the profiles.
+    -   Map `Boiled Root` -> Candidates: `Radish`, `Mandrake`, `Betony`.
+    -   Map `Infusion Herb` -> Candidates: `Mint`, `Wormwood`, `Rue`.
+    -   **Constraint:** Do NOT fuzzy match the name. Match the *function*.
+    -   **Output:** `results/plant_id_proposals.csv`.
+
+## Expected Output
+1.  `results/plant_id_proposals.csv`: A list of Voynich words with specific *functional* candidates.
+    -   e.g., `okedy` -> `Radish/Betony (High Confidence: Boiled Root)`.
+
+## Why?
+Functional identification is safer than phonetic guessing. If it walks like a duck (is boiled like a root), it's a duck.

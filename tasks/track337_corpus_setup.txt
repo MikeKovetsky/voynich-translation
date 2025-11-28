@@ -1,5 +1,5 @@
 # Task: External Corpus Setup (Grounding)
-# Status: Pending
+# Status: Complete
 # Goal: Prepare external medieval datasets for "Rosetta Link" validation.
 
 Description:

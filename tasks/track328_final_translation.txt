@@ -1,0 +1,29 @@
+# Track 328: The Final Production Translation (Medical Volume)
+# Status: Ready for Execution
+# Priority: Critical
+
+## Goal
+Translate the **Recipe Section** (f103-f116) and the **Bio Section** (f75-f84) into readable English.
+We will skip the Astro Section (f67-f73) as coverage is too low (44%).
+
+## Requirements
+1.  **Input:** 
+    -   `data/eva_ivtff.txt`.
+    -   `results/dictionary/master_dictionary_v18.json`.
+2.  **Script:** `research/production_translator.py`
+    -   **Filter:** Only process pages in the "Recipe" and "Bio" ranges.
+    -   **Logic:**
+        -   Use `blind_translator_v2.py` logic (Exact > Root > Unknown).
+        -   **Semantic Polish:**
+            -   Replace `[ROOT] Cook` with `Cook`.
+            -   Replace `[ROOT] Mix` with `Mix`.
+            -   Replace `[LIQUID]` tags with "Liquid".
+            -   Format as Markdown with Page Headers.
+    -   **Output:** `translated/THE_VOYNICH_MEDICAL_MANUAL.md`.
+
+## Expected Output
+1.  `translated/THE_VOYNICH_MEDICAL_MANUAL.md`: A 50+ page document containing the translated text.
+2.  `results/translation_stats.md`: Final word count and readability score for this volume.
+
+## Why?
+This is the deliverable. The "Medical Manual" is the part of the book we have actually solved.

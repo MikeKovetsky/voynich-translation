@@ -25,13 +25,5 @@ def concatenate_progress(start_number, end_number):
         else:
             print(f"Warning: {file_path} does not exist.\n")
 
-if __name__ == "__main__":
-    import argparse
     
-    parser = argparse.ArgumentParser(description="Concatenate progress files.")
-    parser.add_argument("start", type=int, help="Start file number")
-    parser.add_argument("end", type=int, help="End file number")
-    
-    args = parser.parse_args()
-    
-    concatenate_progress(args.start, args.end)
+concatenate_progress(50, 103)

@@ -1,0 +1,30 @@
+# Track 332: Dictionary Finalization v19
+# Status: Ready for Execution
+# Priority: Critical
+
+## Goal
+Integrate the final "Functional" and "Structural" findings into the Master Dictionary.
+This version (v19) will be the definitive lexicon for the project's conclusion.
+
+## Requirements
+1.  **Input:**
+    -   `results/dictionary/master_dictionary_v18.json`.
+    -   `results/plant_id_proposals.csv` (Functional Plant IDs).
+    -   `results/astro_structure_analysis.md` (Structural Astro Candidates).
+2.  **Script:** `research/finalize_dictionary_v19.py`
+    -   **Update Plants:**
+        -   Map `okedy` -> `Boiled Root (Betony/Mandrake candidate)`.
+        -   Map `qol` -> `Infusion Herb (Mint/Sage candidate)`.
+    -   **Update Astro:**
+        -   Map words appearing 12 times (e.g., `chockhy`, `aldy`) to `[ZODIAC_CANDIDATE]`.
+        -   Map words appearing 11/13 times (e.g., `sary`, `dol`) to `[ZODIAC_CANDIDATE]`.
+    -   **Confidence Polish:**
+        -   Set `confidence` to 0.8 for all Functional Matches.
+    -   **Output:** `results/dictionary/master_dictionary_v19.json`.
+
+## Expected Output
+1.  `results/dictionary/master_dictionary_v19.json`.
+2.  `results/dictionary_v19_stats.md`: Summary of the final lexicon (e.g., "Identified 12 Zodiac Signs", "Identified 20 Functional Plants").
+
+## Why?
+We need to lock the dictionary before we write the final paper.

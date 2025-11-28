@@ -1,0 +1,23 @@
+# Track 331: Star Name Mining (Astro Coverage Boost)
+# Status: Ready for Execution
+# Priority: Medium
+
+## Goal
+The Astro section is at 44% coverage because we are missing Star Names. We will not fuzzy match randomly. We will look for **Structure**.
+
+## Requirements
+1.  **Input:** `data/eva_ivtff.txt` (Astro Section only: f67-f73).
+2.  **Script:** `research/astro_star_miner.py`
+    -   Identify words that appear *only* in Star Labels (often near star drawings).
+    -   Check if these words appear in lists of 12 (Zodiac) or 7 (Planets) or 28 (Lunar Mansions).
+    -   **Constraint:** If a word appears in a list of 12, it IS a Zodiac sign. We don't need to know *which* one yet, just tag it `[ZODIAC_SIGN]`.
+    -   **Output:** `results/astro_structure_analysis.md`.
+
+## Expected Output
+1.  `results/astro_structure_analysis.md`:
+    -   List of "Zodiac Candidates" (appear in 12s).
+    -   List of "Planet Candidates" (appear in 7s).
+    -   This boosts "Structural Coverage" even if we don't know the specific star name.
+
+## Why?
+Tagging `[STAR_NAME]` is better than `[UNKNOWN]`. It makes the text structurally readable.

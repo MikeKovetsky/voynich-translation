@@ -6,6 +6,7 @@ const Dictionary = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedDomain, setSelectedDomain] = useState('All');
   const [minConfidence, setMinConfidence] = useState('All');
+  const [selectedCategory, setSelectedCategory] = useState('All');
 
   // Extract unique domains
   const domains = useMemo(() => {
@@ -17,6 +18,7 @@ const Dictionary = () => {
   }, []);
 
   const confidenceLevels = ['All', 'VERIFIED', 'ULTRA_HIGH', 'VERY_HIGH', 'HIGH', 'MEDIUM', 'LOW'];
+  const functionalCategories = ['All', 'Boiled Root', 'Zodiac Candidate'];
 
   const filteredEntries = useMemo(() => {
     return Object.values(dictionaryData.entries).filter(entry => {
@@ -36,9 +38,14 @@ const Dictionary = () => {
       // Confidence filter
       const matchesConfidence = minConfidence === 'All' || entry.confidence_level === minConfidence;
 
-      return matchesSearch && matchesDomain && matchesConfidence;
+      // Category filter
+      const matchesCategory = selectedCategory === 'All' 
+        || (selectedCategory === 'Boiled Root' && entry.meaning && entry.meaning.toLowerCase().includes('boiled root'))
+        || (selectedCategory === 'Zodiac Candidate' && entry.meaning && entry.meaning.includes('[ZODIAC_CANDIDATE]'));
+
+      return matchesSearch && matchesDomain && matchesConfidence && matchesCategory;
     });
-  }, [searchTerm, selectedDomain, minConfidence]);
+  }, [searchTerm, selectedDomain, minConfidence, selectedCategory]);
 
   const getConfidenceColor = (level) => {
     switch (level) {
@@ -67,7 +74,7 @@ const Dictionary = () => {
             </div>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 md:grid-cols-5 gap-4">
             {/* Search Input */}
             <div className="md:col-span-2 relative">
               <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 w-5 h-5" />
@@ -106,6 +113,22 @@ const Dictionary = () => {
                 {confidenceLevels.map(level => (
                   <option key={level} value={level}>
                     Confidence: {level}
+                  </option>
+                ))}
+              </select>
+              <Filter className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 w-4 h-4 pointer-events-none" />
+            </div>
+
+            {/* Category Filter */}
+            <div className="relative">
+              <select
+                value={selectedCategory}
+                onChange={(e) => setSelectedCategory(e.target.value)}
+                className="w-full bg-slate-800 border border-slate-700 rounded-lg py-3 px-4 text-slate-100 focus:outline-none focus:border-amber-500 appearance-none cursor-pointer"
+              >
+                {functionalCategories.map(cat => (
+                  <option key={cat} value={cat}>
+                    Category: {cat}
                   </option>
                 ))}
               </select>
