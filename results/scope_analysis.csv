@@ -1,0 +1,837 @@
+word,total_count,entropy,max_possible_entropy,dominant_scope,classification,existing_domain
+daiin,761,2.55,2.81,Herbal,Global Keyword,mining
+ol,438,2.36,2.81,Bio,Global Keyword,mining
+chol,431,2.42,2.81,Herbal,Global Keyword,mining
+chedy,431,1.54,2.81,Bio,Mixed,mining
+shedy,384,1.49,2.81,Bio,Mixed,other
+aiin,328,2.47,2.81,Recipes,Global Keyword,mining
+chey,308,2.69,2.81,Astro,Global Keyword,mining
+qokeedy,290,1.14,2.81,Bio,Mixed,unknown
+or,279,2.63,2.81,Pharma,Global Keyword,mining
+qokeey,270,2.13,2.81,Recipes,Global Keyword,recipe
+chor,258,2.09,2.81,Herbal,Global Keyword,mining
+ar,252,2.10,2.81,Astro,Global Keyword,botanical
+qokedy,250,1.27,2.81,Bio,Mixed,bio_recipe
+shey,238,2.67,2.81,Bio,Global Keyword,mining
+dar,236,2.71,2.81,Astro,Global Keyword,astronomical
+qokaiin,233,2.11,2.81,Bio,Global Keyword,other
+al,195,1.80,2.81,Astro,Mixed,mining
+shol,193,2.31,2.81,Herbal,Global Keyword,recipe/chemistry
+qokai!n,190,0.95,2.81,Bio,Mixed,unknown
+okaiin,181,2.66,2.81,Recipes,Global Keyword,mining
+dy,180,2.59,2.81,Astro,Global Keyword,mining
+dal,160,2.60,2.81,Astro,Global Keyword,mining
+chy,151,2.38,2.81,Herbal,Global Keyword,mining
+cheey,148,2.57,2.81,Recipes,Global Keyword,grammar
+qokal,147,1.27,2.81,Bio,Mixed,mining
+okeey,145,2.31,2.81,Recipes,Global Keyword,mining
+qol,143,1.01,2.81,Bio,Local Variable (Bio),unknown
+sho,142,2.16,2.81,Herbal,Global Keyword,recipe_action
+cheol,138,2.50,2.81,Pharma,Global Keyword,medical
+otaiin,134,2.65,2.81,Recipes,Global Keyword,mining
+otedy,132,2.06,2.81,Bio,Global Keyword,unknown
+cthy,131,1.89,2.81,Herbal,Mixed,grammar
+qoky,122,2.40,2.81,Bio,Global Keyword,grammar
+chckhy,120,2.44,2.81,Bio,Global Keyword,mining
+sheey,115,2.68,2.81,Bio,Global Keyword,grammar
+shor,109,2.33,2.81,Herbal,Global Keyword,botanical
+qokar,108,1.89,2.81,Bio,Mixed,grammar
+chdy,103,2.38,2.81,Astro,Global Keyword,mining
+shy,101,2.46,2.81,Herbal,Global Keyword,grammar
+dol,101,2.39,2.81,Pharma,Global Keyword,astronomical
+okedy,101,2.06,2.81,Bio,Global Keyword,mining
+otar,100,2.35,2.81,Astro,Global Keyword,medical
+okal,100,2.71,2.81,Astro,Global Keyword,mining
+lchedy,100,1.06,2.81,Bio,Mixed,botanical
+oteey,99,1.91,2.81,Astro,Mixed,grammar
+otal,99,2.37,2.81,Astro,Global Keyword,mining
+qokol,97,2.62,2.81,Pharma,Global Keyword,unknown
+oty,97,2.66,2.81,Astro,Global Keyword,mining
+okeedy,97,1.77,2.81,Bio,Mixed,mining
+saiin,96,2.51,2.81,Bio,Global Keyword,element
+dai!n,95,1.91,2.81,Recipes,Mixed,unknown
+okar,93,2.49,2.81,Astro,Global Keyword,mining
+dain,92,1.91,2.81,Herbal,Mixed,unknown
+okai!n,91,1.22,2.81,Recipes,Mixed,unknown
+qokey,90,1.89,2.81,Bio,Mixed,grammar
+cheor,84,2.61,2.81,Pharma,Global Keyword,mining
+qotedy,84,1.37,2.81,Bio,Mixed,medical
+qotchy,83,2.02,2.81,Herbal,Global Keyword,medical
+qokchy,83,2.03,2.81,Herbal,Global Keyword,unknown
+dor,82,2.27,2.81,Herbal,Global Keyword,unknown
+oteedy,82,1.08,2.81,Recipes,Mixed,botanical
+dair,78,2.57,2.81,Astro,Global Keyword,astronomical
+sheol,78,2.25,2.81,Pharma,Global Keyword,medical
+qoty,77,2.49,2.81,Bio,Global Keyword,grammar
+otol,76,2.56,2.81,Astro,Global Keyword,unknown
+char,75,2.55,2.81,Astro,Global Keyword,mining
+oky,74,2.64,2.81,Astro,Global Keyword,mining
+sheedy,74,1.44,2.81,Bio,Mixed,medical
+chcthy,73,2.45,2.81,Bio,Global Keyword,mining
+qoteedy,72,1.57,2.81,Bio,Mixed,medical
+chody,71,2.27,2.81,Pharma,Global Keyword,mining
+cthol,68,1.99,2.81,Herbal,Mixed,other
+cho,66,2.49,2.81,Astro,Global Keyword,mining
+okol,65,2.47,2.81,Pharma,Global Keyword,mining
+otai!n,65,1.41,2.81,Recipes,Mixed,unknown
+kaiin,64,2.51,2.81,Recipes,Global Keyword,unknown
+cthor,64,1.53,2.81,Herbal,Mixed,botanical
+qokain,64,0.79,2.81,Bio,Local Variable (Bio),other
+qotaiin,63,2.03,2.81,Recipes,Global Keyword,grammar
+otchy,59,2.26,2.81,Herbal,Global Keyword,medical
+dam,54,2.40,2.81,Herbal_B,Global Keyword,medical
+sar,53,2.38,2.81,Astro,Global Keyword,botanical
+raiin,53,1.87,2.81,Recipes,Mixed,unknown
+shckhy,52,1.63,2.81,Bio,Mixed,mining
+qotai!n,52,1.00,2.81,Recipes,Mixed,unknown
+chaiin,51,1.79,2.81,Herbal,Mixed,mining
+cheody,51,2.12,2.81,Astro,Global Keyword,mining
+qotol,51,2.50,2.81,Herbal,Global Keyword,grammar
+am,51,2.49,2.81,Pharma,Global Keyword,medical
+cheedy,51,1.59,2.81,Bio,Mixed,unknown
+air,50,1.67,2.81,Astro,Mixed,unknown
+ai!n,50,1.34,2.81,Recipes,Mixed,unknown
+qotar,49,2.17,2.81,Recipes,Global Keyword,grammar
+cheo,48,2.21,2.81,Recipes,Global Keyword,unknown
+okeol,48,1.89,2.81,Pharma,Mixed,mining
+keedy,48,1.50,2.81,Bio,Mixed,unknown
+shody,47,2.23,2.81,Herbal,Global Keyword,grammar
+qotal,46,1.28,2.81,Bio,Mixed,grammar
+odaiin,45,2.16,2.81,Herbal,Global Keyword,mining
+chear,44,2.70,2.81,Herbal,Global Keyword,mining
+kar,44,2.36,2.81,Herbal_B,Global Keyword,botanical
+sol,44,1.92,2.81,Bio,Mixed,unknown
+checkhy,44,1.79,2.81,Bio,Mixed,grammar
+opchedy,44,1.44,2.81,Recipes,Mixed,medical
+sai!n,44,1.50,2.81,Bio,Mixed,unknown
+qokchdy,43,1.84,2.81,Herbal_B,Mixed,grammar
+cheky,42,2.30,2.81,Herbal_B,Global Keyword,mining
+daiin<-><!plant>,41,1.91,2.81,Herbal_B,Mixed,unknown
+kchy,40,1.55,2.81,Herbal,Mixed,botanical
+keey,40,2.74,2.81,Pharma,Global Keyword,grammar
+ykeey,40,2.69,2.81,Astro,Global Keyword,grammar
+okey,40,2.42,2.81,Astro,Global Keyword,grammar
+sheor,40,2.14,2.81,Pharma,Global Keyword,medical
+sor,40,2.46,2.81,Bio,Global Keyword,botanical
+otor,40,2.65,2.81,Herbal,Global Keyword,medical
+lkaiin,40,0.68,2.81,Recipes,Local Variable (Recipes),other
+chodaiin,39,2.57,2.81,Herbal,Global Keyword,mining
+qoteey,39,2.45,2.81,Recipes,Global Keyword,grammar
+kedy,39,1.77,2.81,Bio,Mixed,grammar
+lkeey,39,0.92,2.81,Recipes,Mixed,botanical
+tol,38,2.70,2.81,Pharma,Global Keyword,number
+lor,38,2.16,2.81,Recipes,Global Keyword,other
+cthey,37,2.19,2.81,Pharma,Global Keyword,grammar
+kol,37,2.28,2.81,Pharma,Global Keyword,general
+sheo,37,2.57,2.81,Pharma,Global Keyword,general
+otey,37,1.95,2.81,Astro,Mixed,grammar
+oly,37,1.98,2.81,Bio,Mixed,mining
+tedy,37,1.40,2.81,Bio,Mixed,unknown
+choty,36,2.41,2.81,Herbal,Global Keyword,mining
+dchor,36,1.96,2.81,Herbal,Mixed,astronomical
+lkeedy,36,0.90,2.81,Recipes,Mixed,botanical
+lchey,36,1.74,2.81,Bio,Mixed,grammar
+chal,35,2.24,2.81,Recipes,Global Keyword,mining
+taiin,35,2.22,2.81,Recipes,Global Keyword,botanical
+lol,35,2.06,2.81,Bio,Global Keyword,grammar
+qokchedy,35,1.50,2.81,Recipes,Mixed,grammar
+kai!n,35,1.00,2.81,Bio,Mixed,unknown
+dchy,34,2.07,2.81,Herbal,Global Keyword,unknown
+ckhy,34,2.00,2.81,Herbal,Mixed,grammar
+qokeol,34,1.10,2.81,Pharma,Mixed,recipe
+sheckhy,34,1.16,2.81,Bio,Mixed,grammar
+okain,33,2.09,2.81,Bio,Global Keyword,mining
+okchey,33,2.67,2.81,Pharma,Global Keyword,other
+qotor,33,2.00,2.81,Herbal,Mixed,unknown
+qokor,33,2.38,2.81,Pharma,Global Keyword,grammar
+lshedy,33,0.91,2.81,Bio,Mixed,grammar
+olkeey,33,1.37,2.81,Bio,Mixed,grammar
+otchol,32,1.80,2.81,Herbal,Mixed,medical
+oteol,32,2.44,2.81,Pharma,Global Keyword,mining
+sal,32,2.40,2.81,Bio,Global Keyword,recipe_ingredient
+qokchey,32,2.42,2.81,Recipes,Global Keyword,grammar
+olkeedy,32,1.41,2.81,Bio,Mixed,botanical
+sheky,31,2.02,2.81,Bio,Global Keyword,grammar
+qodaiin,31,2.22,2.81,Recipes,Global Keyword,unknown
+tar,31,2.30,2.81,Herbal_B,Global Keyword,medical
+olaiin,31,2.05,2.81,Pharma,Global Keyword,astronomical
+chees,30,2.61,2.81,Pharma,Global Keyword,botanical
+otam,30,2.50,2.81,Astro,Global Keyword,mining
+ches,30,2.59,2.81,Astro,Global Keyword,other
+shdy,30,1.85,2.81,Herbal_B,Mixed,grammar
+<!label,30,0.82,2.81,Herbal_B,Mixed,unknown
+qopchedy,30,0.94,2.81,Recipes,Mixed,grammar
+oiin,29,2.43,2.81,Herbal,Global Keyword,mining
+shaiin,29,1.78,2.81,Herbal,Mixed,botanical
+tchy,29,1.65,2.81,Herbal,Mixed,unknown
+choky,29,2.45,2.81,Herbal_B,Global Keyword,mining
+okor,29,2.10,2.81,Pharma,Global Keyword,unknown
+okchy,29,2.10,2.81,Astro,Global Keyword,mining
+kchor,29,1.95,2.81,Herbal,Mixed,botanical
+aiiin,29,1.78,2.81,Recipes,Mixed,number
+cthar,28,1.59,2.81,Herbal,Mixed,botanical
+kchol,28,2.01,2.81,Herbal,Global Keyword,botanical
+shcthy,28,2.07,2.81,Bio,Global Keyword,grammar
+checthy,28,1.69,2.81,Bio,Mixed,mining
+chedar,28,1.96,2.81,Recipes,Mixed,other
+shar,27,2.29,2.81,Herbal,Global Keyword,botanical
+cthy<-><!plant>,27,1.32,2.81,Herbal,Mixed,unknown
+ytaiin,27,2.20,2.81,Herbal_B,Global Keyword,botanical
+s<-><!plant>,27,1.83,2.81,Herbal,Mixed,unknown
+qokchol,27,1.90,2.81,Herbal,Mixed,botanical
+otchey,27,2.16,2.81,Herbal_B,Global Keyword,grammar
+chckhey,27,2.35,2.81,Recipes,Global Keyword,grammar
+dshedy,27,1.13,2.81,Bio,Mixed,grammar
+lkedy,27,1.37,2.81,Recipes,Mixed,unknown
+lkai!n,27,0.64,2.81,Recipes,Local Variable (Recipes),unknown
+ykaiin,26,2.35,2.81,Herbal,Global Keyword,other
+lkar,26,0.84,2.81,Recipes,Mixed,botanical
+kor,25,2.13,2.81,Herbal_B,Global Keyword,unknown
+she,25,2.27,2.81,Herbal_B,Global Keyword,other
+ykchy,25,1.71,2.81,Herbal,Mixed,botanical
+ky,25,2.02,2.81,Herbal,Global Keyword,other
+opchey,25,2.67,2.81,Astro,Global Keyword,botanical
+qo,25,2.23,2.81,Bio,Global Keyword,grammar
+olchedy,25,1.01,2.81,Bio,Mixed,grammar
+ody,24,2.28,2.81,Astro,Global Keyword,mining
+cheal,24,1.87,2.81,Recipes,Mixed,medical
+tchedy,24,1.82,2.81,Bio,Mixed,grammar
+olkaiin,24,1.90,2.81,Recipes,Mixed,mining
+qokeeey,24,1.67,2.81,Pharma,Mixed,context_analysis
+olkai!n,24,0.98,2.81,Bio,Mixed,unknown
+sheody,23,2.01,2.81,Pharma,Global Keyword,grammar
+kchey,23,2.39,2.81,Herbal_B,Global Keyword,botanical
+chl,23,2.00,2.81,Recipes,Global Keyword,mining
+chedaiin,23,1.70,2.81,Recipes,Mixed,grammar
+yteedy,23,1.89,2.81,Astro,Mixed,mining
+pchedy,23,1.51,2.81,Bio,Mixed,grammar
+ain,23,1.93,2.81,Bio,Mixed,number
+oteody,23,0.94,2.81,Astro,Local Variable (Astro),unknown
+ckhey,22,1.81,2.81,Pharma,Mixed,grammar
+tchey,22,2.35,2.81,Herbal_B,Global Keyword,botanical
+qokeeo,22,1.96,2.81,Pharma,Mixed,unknown
+yty,22,2.42,2.81,Herbal,Global Keyword,unknown
+tchor,22,1.92,2.81,Herbal,Mixed,botanical
+daiin<$>,22,2.19,2.81,Herbal,Global Keyword,unknown
+okchor,22,1.96,2.81,Astro,Mixed,astronomical
+dy<-><!plant>,22,1.58,2.81,Herbal,Mixed,unknown
+qokam,22,2.14,2.81,Recipes,Global Keyword,context_analysis
+ykar,22,2.14,2.81,Astro,Global Keyword,unknown
+otchedy,22,1.23,2.81,Recipes,Mixed,botanical
+olkedy,22,0.86,2.81,Bio,Local Variable (Bio),unknown
+os,21,2.54,2.81,Astro,Global Keyword,mining
+otchor,21,1.94,2.81,Herbal,Mixed,mining
+qoaiin,21,2.16,2.81,Herbal,Global Keyword,unknown
+ckhol,21,1.87,2.81,Pharma,Mixed,botanical
+qotchey,21,2.21,2.81,Herbal,Global Keyword,unknown
+dchedy,21,1.56,2.81,Bio,Mixed,unknown
+ycheey,20,2.08,2.81,Recipes,Global Keyword,unknown
+qotchol,20,1.91,2.81,Herbal,Mixed,unknown
+oraiin,20,2.46,2.81,Pharma,Global Keyword,mining
+qotey,20,1.74,2.81,Recipes,Mixed,unknown
+ty,20,1.89,2.81,Herbal,Mixed,other
+ychor,20,1.91,2.81,Herbal,Mixed,botanical
+olchey,20,1.78,2.81,Bio,Mixed,medical
+ched,20,2.16,2.81,Astro,Global Keyword,mining
+chedal,20,1.19,2.81,Recipes,Mixed,botanical
+qotchedy,20,0.75,2.81,Recipes,Mixed,mining
+chocthy,19,1.73,2.81,Herbal,Mixed,mining
+shear,19,2.44,2.81,Recipes,Global Keyword,botanical
+dchey,19,2.37,2.81,Pharma,Global Keyword,general
+ytchy,19,2.06,2.81,Herbal,Global Keyword,unknown
+dchol,19,1.72,2.81,Herbal,Mixed,unknown
+opchy,19,1.66,2.81,Herbal,Mixed,botanical
+qor,19,2.31,2.81,Bio,Global Keyword,unknown
+teey,19,2.30,2.81,Astro,Global Keyword,unknown
+cheeky,19,2.13,2.81,Bio,Global Keyword,other
+tor,19,2.38,2.81,Herbal_B,Global Keyword,medical
+shecthy,19,1.61,2.81,Bio,Mixed,unknown
+ykeedy,19,1.47,2.81,Bio,Mixed,unknown
+olor,19,1.22,2.81,Bio,Mixed,grammar
+aly,19,0.87,2.81,Astro,Local Variable (Astro),grammar
+okchedy,19,1.58,2.81,Astro,Mixed,botanical
+odar,18,2.33,2.81,Recipes,Global Keyword,unknown
+chety,18,2.39,2.81,Herbal_B,Global Keyword,mining
+oaiin,18,1.96,2.81,Herbal_B,Mixed,mining
+cphol,18,1.98,2.81,Pharma,Mixed,botanical
+okam,18,1.52,2.81,Herbal_B,Mixed,mining
+okair,18,2.15,2.81,Astro,Global Keyword,mining
+kchedy,18,1.25,2.81,Recipes,Mixed,unknown
+olky,18,1.48,2.81,Bio,Mixed,grammar
+lshey,18,1.00,2.81,Recipes,Mixed,context_analysis
+qoeedy,18,0.99,2.81,Recipes,Mixed,context_analysis
+okeeey,18,1.21,2.81,Pharma,Mixed,mining
+shodaiin,17,2.00,2.81,Pharma,Mixed,botanical
+do,17,1.93,2.81,Herbal,Mixed,unknown
+ctho,17,1.93,2.81,Herbal_B,Mixed,botanical
+sair,17,1.89,2.81,Astro,Mixed,botanical
+chokchy,17,1.79,2.81,Herbal_B,Mixed,botanical
+choiin,17,1.54,2.81,Herbal,Mixed,mining
+cheos,17,2.26,2.81,Pharma,Global Keyword,botanical
+ytedy,17,1.14,2.81,Herbal_B,Mixed,context_analysis
+aiir,17,1.53,2.81,Astro,Mixed,unknown
+otchdy,17,1.56,2.81,Herbal_B,Mixed,mining
+rar,17,1.54,2.81,Recipes,Mixed,mining
+rai!n,17,0.66,2.81,Recipes,Local Variable (Recipes),unknown
+yky,16,1.69,2.81,Herbal,Mixed,grammar
+keol,16,2.48,2.81,Herbal_B,Global Keyword,botanical
+s!aiin,16,1.78,2.81,Bio,Mixed,unknown
+ychol,16,2.01,2.81,Herbal,Global Keyword,botanical
+tchol,16,2.05,2.81,Astro,Global Keyword,astronomical
+qotchor,16,1.57,2.81,Herbal_B,Mixed,unknown
+doiin,16,2.39,2.81,Herbal_B,Global Keyword,botanical
+qody,16,2.30,2.81,Herbal_B,Global Keyword,unknown
+choy,16,2.03,2.81,Herbal,Global Keyword,grammar
+chkaiin,16,2.17,2.81,Herbal,Global Keyword,mining
+okeody,16,1.48,2.81,Astro,Mixed,botanical
+chkeey,16,2.22,2.81,Pharma,Global Keyword,general
+chos,16,1.48,2.81,Pharma,Mixed,mining
+qokeody,16,1.40,2.81,Pharma,Mixed,botanical
+yteey,16,1.55,2.81,Astro,Mixed,unknown
+kal,16,1.74,2.81,Astro,Mixed,botanical
+lky,16,0.83,2.81,Recipes,Mixed,mining
+cphy,15,1.73,2.81,Herbal_B,Mixed,unknown
+qokchor,15,1.76,2.81,Herbal,Mixed,botanical
+chan,15,1.71,2.81,Herbal,Mixed,mining
+chky,15,2.15,2.81,Herbal_B,Global Keyword,mining
+oldy,15,1.94,2.81,Pharma,Mixed,mining
+okeor,15,2.02,2.81,Pharma,Global Keyword,mining
+dal<-><!plant>,15,1.96,2.81,Herbal_B,Mixed,unknown
+cthody,15,2.25,2.81,Pharma,Global Keyword,grammar
+om,15,2.21,2.81,Pharma,Global Keyword,mining
+keody,15,2.24,2.81,Astro,Global Keyword,botanical
+ykedy,15,1.37,2.81,Herbal_B,Mixed,botanical
+shed,15,1.57,2.81,Recipes,Mixed,unknown
+teol,15,1.39,2.81,Pharma,Mixed,context_analysis
+qokeor,15,1.48,2.81,Pharma,Mixed,mining
+qotchdy,15,1.85,2.81,Recipes,Mixed,medical
+otair,15,0.47,2.81,Recipes,Local Variable (Recipes),medical
+cheeo,15,0.00,2.81,Recipes,Local Variable (Recipes),unknown
+cham,14,2.20,2.81,Astro,Global Keyword,mining
+soiin,14,2.42,2.81,Pharma,Global Keyword,botanical
+otain,14,2.25,2.81,Bio,Global Keyword,botanical
+sheeol,14,1.73,2.81,Pharma,Mixed,medical
+ram,14,1.86,2.81,Recipes,Mixed,botanical
+ytor,14,1.53,2.81,Herbal,Mixed,medical
+sheal,14,1.82,2.81,Recipes,Mixed,unknown
+chs,14,2.17,2.81,Pharma,Global Keyword,other
+dl,14,2.24,2.81,Bio,Global Keyword,unknown
+pchor,14,1.97,2.81,Herbal,Mixed,botanical
+chcphy,14,1.92,2.81,Herbal,Mixed,mining
+olol,14,1.92,2.81,Bio,Mixed,mining
+chockhy,14,2.25,2.81,Pharma,Global Keyword,mining
+rol,14,1.82,2.81,Bio,Mixed,unknown
+ytar,14,2.42,2.81,Recipes,Global Keyword,medical
+chdar,14,1.71,2.81,Astro,Mixed,astronomical
+qokeed,14,1.37,2.81,Bio,Mixed,mining
+opchdy,14,1.75,2.81,Recipes,Mixed,grammar
+dary,14,1.93,2.81,Herbal_B,Mixed,grammar
+qopchdy,14,1.20,2.81,Recipes,Mixed,context_analysis
+ldy,14,1.53,2.81,Bio,Mixed,grammar
+okchdy,14,2.15,2.81,Astro,Global Keyword,mining
+olshedy,14,0.61,2.81,Bio,Local Variable (Bio),unknown
+kair,13,2.22,2.81,Recipes,Global Keyword,context_analysis
+cthaiin,13,1.49,2.81,Herbal,Mixed,botanical
+qotcho,13,1.77,2.81,Herbal,Mixed,botanical
+ydaiin,13,1.84,2.81,Herbal_B,Mixed,botanical
+shocthy,13,2.06,2.81,Herbal,Global Keyword,unknown
+daiiin,13,2.49,2.81,Pharma,Global Keyword,unknown
+pol,13,1.83,2.81,Recipes,Mixed,other
+daiir,13,1.77,2.81,Herbal,Mixed,unknown
+chain,13,1.84,2.81,Herbal_B,Mixed,botanical
+ycheol,13,1.83,2.81,Recipes,Mixed,unknown
+chdal,13,1.32,2.81,Herbal_B,Mixed,mining
+ory,13,1.60,2.81,Pharma,Mixed,unknown
+qockhey,13,1.88,2.81,Pharma,Mixed,unknown
+chedy<$>,13,1.51,2.81,Recipes,Mixed,unknown
+shal,13,1.40,2.81,Recipes,Mixed,unknown
+chdaiin,13,1.48,2.81,Recipes,Mixed,religious
+teedy,13,1.85,2.81,Recipes,Mixed,unknown
+ror,13,1.00,2.81,Recipes,Mixed,unknown
+chedai!n,13,0.76,2.81,Recipes,Mixed,unknown
+lcheey,13,0.90,2.81,Recipes,Mixed,context_analysis
+tai!n,13,0.98,2.81,Recipes,Mixed,unknown
+lchdy,13,1.53,2.81,Recipes,Mixed,medical
+shckhey,12,2.17,2.81,Astro,Global Keyword,unknown
+ycheor,12,1.64,2.81,Herbal,Mixed,unknown
+odal,12,2.21,2.81,Herbal_B,Global Keyword,unknown
+sh,12,2.35,2.81,Astro,Global Keyword,general
+cheeody,12,1.99,2.81,Recipes,Mixed,botanical
+ychey,12,1.99,2.81,Astro,Mixed,unknown
+okchol,12,2.24,2.81,Astro,Global Keyword,botanical
+ry,12,2.21,2.81,Bio,Global Keyword,unknown
+ytchor,12,1.74,2.81,Herbal,Mixed,botanical
+kchdy,12,1.02,2.81,Herbal_B,Mixed,unknown
+chkal,12,1.60,2.81,Astro,Mixed,unknown
+orol,12,1.87,2.81,Bio,Mixed,unknown
+orai!n,12,0.61,2.81,Recipes,Local Variable (Recipes),unknown
+lkchedy,12,0.79,2.81,Recipes,Mixed,mining
+qokair,12,1.30,2.81,Recipes,Mixed,unknown
+shod,11,1.98,2.81,Herbal,Mixed,mining
+ckhor,11,2.04,2.81,Pharma,Global Keyword,botanical
+cthom,11,1.28,2.81,Herbal,Mixed,botanical
+dam<-><!plant>,11,1.45,2.81,Herbal_B,Mixed,unknown
+oar,11,2.01,2.81,Astro,Global Keyword,mining
+qokcho,11,1.92,2.81,Herbal,Mixed,botanical
+qokechy,11,1.76,2.81,Recipes,Mixed,unknown
+choly,11,1.90,2.81,Astro,Mixed,mining
+chty,11,2.22,2.81,Herbal_B,Global Keyword,mining
+qopchy,11,1.86,2.81,Herbal,Mixed,unknown
+qopchey,11,1.99,2.81,Astro,Mixed,unknown
+dshy,11,1.53,2.81,Herbal,Mixed,context_analysis
+ctheey,11,1.91,2.81,Pharma,Mixed,botanical
+qokshy,11,1.80,2.81,Herbal,Mixed,context_analysis
+ksho,11,1.58,2.81,Herbal_B,Mixed,botanical
+chkar,11,2.21,2.81,Herbal,Global Keyword,mining
+cheeor,11,1.73,2.81,Pharma,Mixed,general
+ols,11,2.26,2.81,Pharma,Global Keyword,mining
+lr,11,1.56,2.81,Recipes,Mixed,context_analysis
+chckhdy,11,1.40,2.81,Bio,Mixed,unknown
+laiin,11,1.13,2.81,Recipes,Mixed,astronomical
+tchdy,11,1.52,2.81,Herbal_B,Mixed,unknown
+ary,11,1.63,2.81,Astro,Mixed,grammar
+r!aiin,11,1.27,2.81,Astro,Mixed,unknown
+okeeo,11,0.96,2.81,Astro,Mixed,unknown
+ral,11,1.42,2.81,Astro,Mixed,unknown
+sheeky,11,0.93,2.81,Bio,Mixed,mining
+qoeey,11,0.99,2.81,Pharma,Mixed,context_analysis
+oteos,10,1.01,2.81,Astro,Local Variable (Astro),botanical
+cthal,10,1.56,2.81,Herbal,Mixed,botanical
+chom,10,1.45,2.81,Herbal,Mixed,mining
+pcheol,10,2.23,2.81,Pharma,Global Keyword,botanical
+chotchy,10,1.90,2.81,Astro,Mixed,unknown
+shokchy,10,1.80,2.81,Herbal,Mixed,unknown
+tshol,10,1.77,2.81,Herbal,Mixed,unknown
+ykor,10,1.58,2.81,Herbal,Mixed,botanical
+otcho,10,2.17,2.81,Astro,Global Keyword,botanical
+okshy,10,1.47,2.81,Herbal,Mixed,mining
+ytol,10,1.98,2.81,Herbal,Mixed,botanical
+chotaiin,10,1.50,2.81,Herbal,Mixed,mining
+qockhy,10,2.19,2.81,Pharma,Global Keyword,unknown
+qok,10,2.49,2.81,Pharma,Global Keyword,unknown
+sy,10,2.21,2.81,Bio,Global Keyword,grammar
+ykol,10,2.36,2.81,Pharma,Global Keyword,general
+chr,10,2.21,2.81,Herbal,Global Keyword,botanical
+ytey,10,2.03,2.81,Astro,Global Keyword,botanical
+keeor,10,2.41,2.81,Pharma,Global Keyword,botanical
+ctheol,10,1.07,2.81,Pharma,Mixed,botanical
+okeeol,10,1.47,2.81,Pharma,Mixed,unknown
+dshey,10,2.19,2.81,Herbal,Global Keyword,unknown
+dshor,10,1.97,2.81,Herbal_B,Mixed,botanical
+rchedy,10,1.38,2.81,Bio,Mixed,context_analysis
+checkhey,10,1.35,2.81,Pharma,Mixed,botanical
+ytchedy,10,0.99,2.81,Herbal_B,Mixed,context_analysis
+daly,10,1.23,2.81,Herbal_B,Mixed,mining
+fchedy,10,1.55,2.81,Bio,Mixed,context_analysis
+pchdy,10,1.57,2.81,Herbal_B,Mixed,context_analysis
+shee,10,1.49,2.81,Herbal_B,Mixed,unknown
+qotam,10,1.24,2.81,Astro,Mixed,unknown
+shedal,10,1.27,2.81,Bio,Mixed,context_analysis
+key,10,1.95,2.81,Pharma,Mixed,other
+okody,10,0.58,2.81,Astro,Local Variable (Astro),mining
+chckhedy,10,1.38,2.81,Bio,Mixed,unknown
+tair,10,0.67,2.81,Recipes,Local Variable (Recipes),medical
+otaly,10,1.46,2.81,Astro,Mixed,grammar
+l!chedy,10,0.58,2.81,Bio,Local Variable (Bio),unknown
+qokshedy,10,0.58,2.81,Bio,Local Variable (Bio),mining
+p!!!ol,10,0.00,2.81,Bio,Local Variable (Bio),unknown
+tal,10,0.00,2.81,Bio,Local Variable (Bio),unknown
+ol<-><!figure>,10,0.00,2.81,Bio,Local Variable (Bio),unknown
+lo,10,0.97,2.81,Recipes,Mixed,unknown
+ykal,9,2.40,2.81,Pharma,Global Keyword,general
+yshey,9,1.83,2.81,Recipes,Mixed,context_analysis
+shos,9,1.70,2.81,Herbal,Mixed,botanical
+kshy,9,1.32,2.81,Herbal,Mixed,unknown
+qokody,9,1.99,2.81,Herbal_B,Mixed,botanical
+shees,9,2.15,2.81,Herbal,Global Keyword,botanical
+dcheey,9,2.19,2.81,Herbal_B,Global Keyword,context_analysis
+cheodaiin,9,1.83,2.81,Pharma,Mixed,mining
+dsheey,9,2.29,2.81,Recipes,Global Keyword,context_analysis
+dy<$>,9,1.32,2.81,Herbal,Mixed,unknown
+daldy,9,2.26,2.81,Bio,Global Keyword,grammar
+shoiin,9,1.32,2.81,Herbal,Mixed,mining
+dar<-><!plant>,9,1.56,2.81,Herbal,Mixed,unknown
+sheaiin,9,1.78,2.81,Herbal_B,Mixed,unknown
+oees,9,1.84,2.81,Herbal,Mixed,mining
+sheod,9,1.91,2.81,Pharma,Mixed,unknown
+dsho,9,1.73,2.81,Pharma,Mixed,botanical
+aiin<-><!plant>,9,1.99,2.81,Herbal_B,Mixed,unknown
+cheeol,9,2.49,2.81,Pharma,Global Keyword,medical
+ytal,9,1.97,2.81,Astro,Mixed,unknown
+cheockhy,9,1.69,2.81,Pharma,Mixed,mining
+okcho,9,1.92,2.81,Astro,Mixed,other
+ypchedy,9,0.87,2.81,Herbal_B,Mixed,botanical
+sheos,9,1.00,2.81,Recipes,Mixed,unknown
+olar,9,1.56,2.81,Recipes,Mixed,mining
+chokaiin,9,1.00,2.81,Recipes,Mixed,mining
+chdam,9,1.20,2.81,Herbal_B,Mixed,mining
+keeey,9,0.97,2.81,Herbal_B,Mixed,unknown
+olcheey,9,1.64,2.81,Pharma,Mixed,medical
+s!ol,9,0.83,2.81,Bio,Mixed,unknown
+qotody,9,1.09,2.81,Pharma,Mixed,unknown
+shky,9,1.43,2.81,Herbal_B,Mixed,context_analysis
+qokeeor,9,1.29,2.81,Pharma,Mixed,unknown
+ycheo,9,0.71,2.81,Recipes,Local Variable (Recipes),unknown
+opaiin,9,0.38,2.81,Astro,Local Variable (Astro),botanical
+okeeody,9,1.12,2.81,Astro,Mixed,mining
+shek,9,1.34,2.81,Astro,Mixed,mining
+arol,9,1.74,2.81,Astro,Mixed,unknown
+lkl,9,0.89,2.81,Recipes,Mixed,context_analysis
+qokl,9,0.99,2.81,Recipes,Mixed,mining
+olkeeey,9,0.99,2.81,Recipes,Mixed,mining
+chkai!n,9,0.99,2.81,Recipes,Mixed,unknown
+lcheedy,9,0.89,2.81,Recipes,Mixed,unknown
+okeeedy,9,0.64,2.81,Recipes,Local Variable (Recipes),context_analysis
+otedar,9,0.64,2.81,Recipes,Local Variable (Recipes),unknown
+oteeo,9,0.99,2.81,Recipes,Mixed,mining
+cfhol,8,1.84,2.81,Herbal,Mixed,unknown
+ycho,8,1.59,2.81,Herbal,Mixed,botanical
+ro,8,1.88,2.81,Recipes,Mixed,unknown
+qot,8,1.80,2.81,Herbal_B,Mixed,botanical
+qokeey<$>,8,1.88,2.81,Recipes,Mixed,unknown
+okoiin,8,1.75,2.81,Herbal,Mixed,other
+cheeey,8,1.49,2.81,Recipes,Mixed,mining
+cfhy,8,1.51,2.81,Herbal,Mixed,grammar
+ykchor,8,1.51,2.81,Herbal,Mixed,unknown
+ychy,8,1.00,2.81,Herbal,Mixed,unknown
+otody,8,1.51,2.81,Astro,Mixed,unknown
+qodar,8,1.57,2.81,Pharma,Mixed,botanical
+cphor,8,1.80,2.81,Herbal_B,Mixed,botanical
+ykchol,8,1.51,2.81,Herbal,Mixed,botanical
+shcthey,8,2.09,2.81,Herbal,Global Keyword,context_analysis
+otoldy,8,2.02,2.81,Pharma,Global Keyword,mining
+sham,8,1.84,2.81,Herbal,Mixed,other
+okeal,8,1.49,2.81,Recipes,Mixed,mining
+ytchey,8,1.91,2.81,Astro,Mixed,botanical
+paiin,8,2.27,2.81,Herbal_B,Global Keyword,unknown
+qofchedy,8,1.45,2.81,Recipes,Mixed,unknown
+keeol,8,1.37,2.81,Pharma,Mixed,mining
+oteor,8,1.65,2.81,Astro,Mixed,medical
+qokedar,8,1.56,2.81,Bio,Mixed,unknown
+chotar,8,1.44,2.81,Pharma,Mixed,unknown
+oiiin,8,1.50,2.81,Bio,Mixed,mining
+opal,8,1.48,2.81,Recipes,Mixed,other
+shedy<$>,8,1.26,2.81,Bio,Mixed,unknown
+ly,8,1.65,2.81,Bio,Mixed,unknown
+chdor,8,1.31,2.81,Recipes,Mixed,unknown
+olkar,8,0.67,2.81,Bio,Local Variable (Bio),mining
+dy<-><!figure>,8,0.00,2.81,Bio,Local Variable (Bio),unknown
+olai!n,8,0.97,2.81,Bio,Mixed,unknown
+lsheey,8,0.85,2.81,Bio,Mixed,context_analysis
+qotain,8,0.85,2.81,Bio,Mixed,botanical
+olshey,8,0.67,2.81,Bio,Local Variable (Bio),mining
+olkal,8,1.00,2.81,Recipes,Mixed,context_analysis
+lkchey,8,0.68,2.81,Recipes,Local Variable (Recipes),unknown
+qokeeody,8,0.92,2.81,Pharma,Mixed,unknown
+qoteody,8,0.92,2.81,Pharma,Mixed,morphology
+oteeey,8,0.00,2.81,Recipes,Local Variable (Recipes),context_analysis
+shedai!n,8,0.00,2.81,Recipes,Local Variable (Recipes),unknown
+lkeeey,8,0.00,2.81,Recipes,Local Variable (Recipes),unknown
+dan,7,1.57,2.81,Herbal,Mixed,botanical
+okaiir,7,1.25,2.81,Herbal,Mixed,mining
+olsheey,7,2.30,2.81,Bio,Global Keyword,botanical
+ochor,7,1.80,2.81,Herbal,Mixed,botanical
+ol<-><!plant>,7,1.58,2.81,Herbal_B,Mixed,unknown
+opchol,7,1.80,2.81,Herbal,Mixed,botanical
+qoteol,7,1.99,2.81,Herbal_B,Mixed,botanical
+ochey,7,1.81,2.81,Astro,Mixed,mining
+tshy,7,1.37,2.81,Herbal,Mixed,botanical
+ot,7,2.19,2.81,Astro,Global Keyword,unknown
+doiir,7,2.03,2.81,Astro,Global Keyword,botanical
+opchor,7,2.08,2.81,Pharma,Global Keyword,botanical
+da,7,2.25,2.81,Pharma,Global Keyword,unknown
+shoty,7,1.37,2.81,Herbal,Mixed,unknown
+chckhhy,7,1.95,2.81,Recipes,Mixed,botanical
+tsho,7,1.80,2.81,Herbal,Mixed,botanical
+qotshy,7,1.86,2.81,Herbal,Mixed,botanical
+cheody<$>,7,1.53,2.81,Recipes,Mixed,unknown
+cthain,7,1.37,2.81,Herbal,Mixed,unknown
+qokoiin,7,2.08,2.81,Herbal_B,Global Keyword,unknown
+qoteeol,7,1.79,2.81,Herbal,Mixed,botanical
+chkchy,7,1.37,2.81,Herbal,Mixed,mining
+oky<-><!plant>,7,1.37,2.81,Herbal,Mixed,unknown
+ckhy<-><!plant>,7,1.37,2.81,Herbal,Mixed,unknown
+qod,7,1.82,2.81,Herbal,Mixed,botanical
+ykey,7,0.91,2.81,Astro,Local Variable (Astro),context_analysis
+sy<-><!plant>,7,1.98,2.81,Pharma,Mixed,unknown
+olcheol,7,2.42,2.81,Pharma,Global Keyword,mining
+d<-><!plant>,7,1.32,2.81,Herbal_B,Mixed,unknown
+ykeor,7,1.52,2.81,Pharma,Mixed,botanical
+tey,7,1.92,2.81,Astro,Mixed,other
+tcho,7,1.32,2.81,Herbal_B,Mixed,unknown
+deey,7,1.74,2.81,Herbal_B,Mixed,unknown
+todaiin,7,2.11,2.81,Pharma,Global Keyword,unknown
+eees,7,1.95,2.81,Recipes,Mixed,unknown
+odor,7,1.87,2.81,Pharma,Mixed,mining
+sheeo,7,1.45,2.81,Pharma,Mixed,unknown
+chd,7,0.94,2.81,Herbal_B,Mixed,mining
+oral,7,1.47,2.81,Pharma,Mixed,mining
+dchdy,7,1.29,2.81,Pharma,Mixed,context_analysis
+ykeol,7,1.20,2.81,Pharma,Mixed,unknown
+dsheol,7,1.47,2.81,Pharma,Mixed,unknown
+chey<$>,7,1.58,2.81,Herbal_B,Mixed,unknown
+chokai!n,7,0.80,2.81,Recipes,Mixed,unknown
+alol,7,1.53,2.81,Recipes,Mixed,unknown
+shedaiin,7,1.35,2.81,Bio,Mixed,unknown
+pchedar,7,1.78,2.81,Pharma,Mixed,unknown
+okeo,7,0.70,2.81,Astro,Local Variable (Astro),mining
+okcheey,7,1.55,2.81,Pharma,Mixed,mining
+okees,7,0.96,2.81,Astro,Local Variable (Astro),grammar
+cthedy,7,1.50,2.81,Bio,Mixed,botanical
+oteeol,7,0.77,2.81,Astro,Local Variable (Astro),mining
+schedy,7,1.10,2.81,Bio,Mixed,context_analysis
+ykeeol,7,1.45,2.81,Pharma,Mixed,mining
+okedal,7,0.92,2.81,Astro,Local Variable (Astro),mining
+oai!n,7,1.45,2.81,Pharma,Mixed,unknown
+oteed,7,0.80,2.81,Recipes,Mixed,unknown
+qokaly,7,1.53,2.81,Recipes,Mixed,mining
+yteeody,7,1.41,2.81,Astro,Mixed,unknown
+p!!!chedy,7,0.00,2.81,Bio,Local Variable (Bio),unknown
+qokan,7,0.91,2.81,Bio,Mixed,unknown
+s!ai!n,7,0.00,2.81,Bio,Local Variable (Bio),unknown
+qoked,7,0.91,2.81,Bio,Mixed,unknown
+sheety,7,0.46,2.81,Bio,Local Variable (Bio),unknown
+qolchey,7,0.46,2.81,Bio,Local Variable (Bio),context_analysis
+qockhol,7,0.25,2.81,Pharma,Local Variable (Pharma),unknown
+otshedy,7,0.96,2.81,Recipes,Mixed,grammar
+ycheedy,7,0.96,2.81,Recipes,Mixed,context_analysis
+tshedy,7,1.53,2.81,Pharma,Mixed,unknown
+qokeeol,7,0.87,2.81,Pharma,Mixed,unknown
+ycheeo,7,0.87,2.81,Pharma,Mixed,unknown
+qodai!n,7,0.00,2.81,Recipes,Local Variable (Recipes),unknown
+arody,7,0.00,2.81,Recipes,Local Variable (Recipes),grammar
+aral,7,0.00,2.81,Recipes,Local Variable (Recipes),unknown
+cphar,6,1.78,2.81,Herbal,Mixed,unknown
+ydain,6,1.00,2.81,Herbal,Mixed,unknown
+dchar,6,1.00,2.81,Herbal,Mixed,other
+shok,6,2.18,2.81,Pharma,Global Keyword,other
+qoy,6,1.72,2.81,Herbal,Mixed,botanical
+otchody,6,1.66,2.81,Astro,Mixed,unknown
+otan,6,1.96,2.81,Recipes,Mixed,botanical
+ckham,6,1.00,2.81,Herbal,Mixed,unknown
+okom,6,1.72,2.81,Herbal,Mixed,botanical
+kchod,6,1.00,2.81,Herbal,Mixed,unknown
+chodar,6,1.57,2.81,Recipes,Mixed,mining
+kshey,6,1.99,2.81,Herbal_B,Mixed,unknown
+cphaiin,6,1.78,2.81,Herbal_B,Mixed,botanical
+schol,6,1.56,2.81,Herbal,Mixed,unknown
+pchocthy,6,1.00,2.81,Herbal,Mixed,unknown
+oeees,6,1.00,2.81,Herbal,Mixed,mining
+fchol,6,1.00,2.81,Herbal,Mixed,unknown
+chod,6,1.90,2.81,Pharma,Mixed,mining
+shkaiin,6,1.46,2.81,Herbal,Mixed,botanical
+okal<-><!plant>,6,1.56,2.81,Herbal,Mixed,unknown
+ksheo,6,1.56,2.81,Herbal,Mixed,unknown
+chom<-><!plant>,6,1.00,2.81,Herbal,Mixed,unknown
+choldy,6,1.57,2.81,Astro,Mixed,unknown
+chotol,6,1.56,2.81,Herbal,Mixed,mining
+toy,6,1.72,2.81,Herbal,Mixed,botanical
+yteol,6,1.77,2.81,Pharma,Mixed,context_analysis
+or<-><!plant>,6,1.00,2.81,Herbal,Mixed,unknown
+odai!n,6,1.96,2.81,Recipes,Mixed,unknown
+tody,6,2.14,2.81,Pharma,Global Keyword,context_analysis
+kcho,6,1.41,2.81,Herbal_B,Mixed,botanical
+kcheol,6,1.91,2.81,Pharma,Mixed,unknown
+qocthy,6,1.72,2.81,Herbal,Mixed,unknown
+sheeor,6,1.79,2.81,Astro,Mixed,botanical
+qoar,6,1.98,2.81,Recipes,Mixed,unknown
+tchody,6,1.56,2.81,Herbal,Mixed,unknown
+chocthey,6,2.14,2.81,Pharma,Global Keyword,grammar
+daiin<$><!plant>,6,1.41,2.81,Herbal_B,Mixed,unknown
+chyty,6,1.56,2.81,Herbal,Mixed,unknown
+sain,6,1.96,2.81,Recipes,Mixed,unknown
+oy,6,1.57,2.81,Recipes,Mixed,botanical
+ykcho,6,1.56,2.81,Herbal,Mixed,unknown
+chtol,6,2.18,2.81,Herbal_B,Global Keyword,mining
+teeol,6,2.13,2.81,Pharma,Global Keyword,botanical
+aldy,6,1.33,2.81,Herbal_B,Mixed,unknown
+tcheo,6,1.52,2.81,Pharma,Mixed,botanical
+chory,6,1.46,2.81,Astro,Mixed,mining
+r!chey,6,1.56,2.81,Pharma,Mixed,unknown
+chekar,6,1.79,2.81,Pharma,Mixed,botanical
+chcthedy,6,1.56,2.81,Bio,Mixed,mining
+lchal,6,0.85,2.81,Recipes,Mixed,unknown
+eeedy,6,1.37,2.81,Astro,Mixed,unknown
+chekal,6,0.93,2.81,Herbal_B,Mixed,unknown
+chetar,6,1.18,2.81,Astro,Mixed,mining
+odain,6,1.18,2.81,Astro,Mixed,mining
+daim,6,0.45,2.81,Herbal_B,Local Variable (Herbal_B),medical
+ckheey,6,0.86,2.81,Pharma,Local Variable (Pharma),botanical
+qodal,6,0.45,2.81,Herbal_B,Local Variable (Herbal_B),unknown
+chai!n,6,1.46,2.81,Recipes,Mixed,unknown
+okchd,6,1.50,2.81,Herbal_B,Mixed,mining
+chokeey,6,1.52,2.81,Pharma,Mixed,mining
+opar,6,1.83,2.81,Pharma,Mixed,other
+cheeos,6,1.00,2.81,Recipes,Mixed,mining
+ysheey,6,1.50,2.81,Herbal_B,Mixed,context_analysis
+olchdy,6,1.20,2.81,Bio,Mixed,unknown
+ochedy,6,1.46,2.81,Recipes,Mixed,mining
+okedar,6,1.45,2.81,Bio,Mixed,mining
+okaly,6,1.45,2.81,Bio,Mixed,mining
+ls,6,1.56,2.81,Bio,Mixed,unknown
+oto,6,0.20,2.81,Astro,Local Variable (Astro),other
+yshedy,6,1.31,2.81,Bio,Mixed,medical
+chekai!n,6,0.99,2.81,Recipes,Mixed,unknown
+qolchedy,6,0.00,2.81,Bio,Local Variable (Bio),context_analysis
+lsheedy,6,0.51,2.81,Bio,Local Variable (Bio),context_analysis
+sheed,6,0.79,2.81,Recipes,Mixed,mining
+lcheol,6,0.99,2.81,Recipes,Mixed,unknown
+dcheol,6,0.97,2.81,Bio,Mixed,unknown
+shety,6,0.80,2.81,Bio,Mixed,context_analysis
+orar,6,1.10,2.81,Pharma,Mixed,mining
+okeeor,6,1.41,2.81,Pharma,Mixed,mining
+oram,6,1.41,2.81,Pharma,Mixed,mining
+oteeody,6,1.41,2.81,Pharma,Mixed,mining
+<!plant>,6,0.00,2.81,Pharma,Local Variable (Pharma),unknown
+polaiin,6,0.00,2.81,Recipes,Local Variable (Recipes),unknown
+oteal,6,0.00,2.81,Recipes,Local Variable (Recipes),context_analysis
+okan,5,1.32,2.81,Herbal,Mixed,other
+oksho,5,1.93,2.81,Pharma,Mixed,unknown
+chok,5,1.45,2.81,Herbal,Mixed,other
+ypchol,5,1.58,2.81,Pharma,Mixed,botanical
+dalor,5,1.50,2.81,Herbal_B,Mixed,botanical
+chyky,5,1.40,2.81,Astro,Mixed,mining
+schey,5,1.93,2.81,Herbal_B,Mixed,botanical
+shom,5,1.45,2.81,Herbal,Mixed,other
+yteody,5,1.98,2.81,Herbal,Mixed,context_analysis
+qopol,5,1.96,2.81,Herbal,Mixed,unknown
+shain,5,1.45,2.81,Herbal,Mixed,unknown
+qotcheo,5,1.58,2.81,Recipes,Mixed,botanical
+qoeeey,5,1.58,2.81,Recipes,Mixed,context_analysis
+otcham,5,1.32,2.81,Herbal,Mixed,mining
+pchar,5,1.32,2.81,Herbal,Mixed,botanical
+chory<-><!plant>,5,1.45,2.81,Herbal,Mixed,unknown
+choaiin,5,1.58,2.81,Recipes,Mixed,unknown
+chochy,5,1.45,2.81,Herbal,Mixed,mining
+pcheey,5,1.32,2.81,Herbal,Mixed,botanical
+chot,5,1.87,2.81,Herbal_B,Mixed,botanical
+odl,5,1.58,2.81,Recipes,Mixed,botanical
+dain<-><!plant>,5,1.50,2.81,Herbal_B,Mixed,unknown
+soiiin,5,2.23,2.81,Herbal,Global Keyword,unknown
+koiin,5,1.45,2.81,Herbal,Mixed,other
+teor,5,1.87,2.81,Herbal_B,Mixed,botanical
+sal<-><!plant>,5,1.50,2.81,Herbal_B,Mixed,unknown
+orom,5,0.92,2.81,Astro,Local Variable (Astro),botanical
+qoky<-><!plant>,5,1.45,2.81,Herbal,Mixed,unknown
+daram,5,1.87,2.81,Herbal_B,Mixed,unknown
+dody,5,1.98,2.81,Herbal,Mixed,unknown
+ypchy,5,1.45,2.81,Herbal,Mixed,unknown
+dsheor,5,1.58,2.81,Pharma,Mixed,unknown
+shosaiin,5,1.87,2.81,Herbal_B,Mixed,botanical
+qocthey,5,1.96,2.81,Herbal,Mixed,botanical
+keor,5,1.87,2.81,Herbal_B,Mixed,context_analysis
+ctheor,5,1.57,2.81,Pharma,Mixed,unknown
+qokeees,5,1.32,2.81,Herbal,Mixed,botanical
+ykain,5,1.93,2.81,Herbal_B,Mixed,unknown
+eeor,5,1.45,2.81,Herbal,Mixed,unknown
+otaiir,5,1.32,2.81,Herbal,Mixed,botanical
+kechy,5,1.98,2.81,Herbal,Mixed,botanical
+chotchey,5,1.45,2.81,Herbal,Mixed,unknown
+qoteeey,5,1.98,2.81,Herbal,Mixed,botanical
+daiidy,5,1.87,2.81,Herbal_B,Mixed,context_analysis
+chopchy,5,1.98,2.81,Herbal,Mixed,botanical
+shoky,5,1.98,2.81,Bio,Mixed,unknown
+ykoiin,5,1.87,2.81,Herbal_B,Mixed,botanical
+keeo,5,1.87,2.81,Pharma,Mixed,unknown
+otchar,5,2.23,2.81,Herbal,Global Keyword,botanical
+cheen,5,1.41,2.81,Herbal,Mixed,unknown
+opy,5,2.23,2.81,Herbal,Global Keyword,unknown
+ksheody,5,1.98,2.81,Herbal,Mixed,botanical
+chor<$>,5,1.45,2.81,Herbal,Mixed,unknown
+dan<-><!plant>,5,1.50,2.81,Herbal_B,Mixed,unknown
+chody<-><!plant>,5,1.45,2.81,Herbal,Mixed,unknown
+ykam,5,1.87,2.81,Herbal_B,Mixed,botanical
+okoy,5,1.50,2.81,Herbal_B,Mixed,unknown
+qopy,5,1.93,2.81,Herbal_B,Mixed,unknown
+sos,5,1.45,2.81,Herbal,Mixed,unknown
+shd,5,2.23,2.81,Herbal,Global Keyword,unknown
+lchol,5,2.07,2.81,Pharma,Global Keyword,botanical
+otshy,5,1.50,2.81,Herbal_B,Mixed,mining
+oldar,5,1.93,2.81,Pharma,Mixed,unknown
+tchar,5,1.96,2.81,Herbal,Mixed,botanical
+chkey,5,1.46,2.81,Pharma,Mixed,mining
+chek!y,5,1.70,2.81,Pharma,Mixed,unknown
+qoko,5,0.82,2.81,Herbal_B,Mixed,unknown
+chekey,5,1.06,2.81,Astro,Mixed,botanical
+qokaldy,5,1.41,2.81,Herbal_B,Mixed,unknown
+qokeedar,5,0.91,2.81,Recipes,Mixed,unknown
+pchey,5,1.47,2.81,Herbal_B,Mixed,botanical
+okoldy,5,1.73,2.81,Pharma,Mixed,mining
+qokchd,5,0.91,2.81,Recipes,Mixed,unknown
+ykeeo,5,1.09,2.81,Astro,Mixed,unknown
+polchedy,5,0.91,2.81,Recipes,Mixed,context_analysis
+chkedy,5,0.99,2.81,Bio,Mixed,mining
+qotaly,5,1.53,2.81,Recipes,Mixed,botanical
+ytam,5,0.00,2.81,Herbal_B,Local Variable (Herbal_B),botanical
+ykeody,5,0.39,2.81,Astro,Local Variable (Astro),unknown
+dam<$>,5,1.43,2.81,Pharma,Mixed,unknown
+qoor,5,0.71,2.81,Pharma,Local Variable (Pharma),unknown
+lai!n,5,0.91,2.81,Recipes,Mixed,unknown
+tcheol,5,1.55,2.81,Bio,Mixed,unknown
+ol!chey,5,1.46,2.81,Pharma,Mixed,unknown
+olr,5,0.91,2.81,Recipes,Mixed,mining
+oty<-><!plant>,5,0.99,2.81,Herbal_B,Mixed,unknown
+ykair,5,0.99,2.81,Herbal_B,Mixed,unknown
+lchor,5,1.41,2.81,Herbal_B,Mixed,unknown
+ockhy,5,1.26,2.81,Astro,Mixed,mining
+pchol,5,1.43,2.81,Pharma,Mixed,unknown
+okaiin<$>,5,1.46,2.81,Pharma,Mixed,unknown
+ockhedy,5,0.99,2.81,Herbal_B,Mixed,mining
+okeos,5,0.19,2.81,Astro,Local Variable (Astro),grammar
+orair,5,1.53,2.81,Recipes,Mixed,botanical
+chedain,5,1.02,2.81,Astro,Mixed,mining
+kain,5,0.99,2.81,Bio,Mixed,mining
+pcheody,5,0.91,2.81,Recipes,Mixed,unknown
+octhy,5,0.91,2.81,Recipes,Mixed,mining
+qolkeey,5,1.32,2.81,Bio,Mixed,context_analysis
+chcthey,5,1.53,2.81,Recipes,Mixed,mining
+ykeeey,5,1.75,2.81,Pharma,Mixed,context_analysis
+qoai!n,5,0.91,2.81,Recipes,Mixed,unknown
+olkeeody,5,1.02,2.81,Astro,Mixed,morphology
+ckheol,5,0.71,2.81,Pharma,Local Variable (Pharma),botanical
+cheoar,5,0.91,2.81,Recipes,Mixed,botanical
+otoly,5,0.61,2.81,Astro,Local Variable (Astro),mining
+qotair,5,0.97,2.81,Astro,Mixed,unknown
+lam,5,0.97,2.81,Astro,Mixed,mining
+chedy<-><!figure>,5,0.00,2.81,Bio,Local Variable (Bio),unknown
+ltedy,5,1.00,2.81,Bio,Mixed,context_analysis
+olor<$>,5,0.88,2.81,Bio,Mixed,unknown
+lkain,5,0.88,2.81,Bio,Mixed,other
+rain,5,0.86,2.81,Recipes,Mixed,context_analysis
+lkey,5,0.86,2.81,Recipes,Mixed,context_analysis
+ytai!n,5,0.86,2.81,Recipes,Mixed,unknown
+sheoky,5,1.39,2.81,Pharma,Mixed,context_analysis
+shedar,5,0.86,2.81,Recipes,Mixed,unknown
+<!figure>daiin,5,0.00,2.81,Bio,Local Variable (Bio),unknown
+qokear,5,1.00,2.81,Bio,Mixed,mining
+shckhedy,5,0.00,2.81,Bio,Local Variable (Bio),grammar
+ofchedy,5,0.88,2.81,Bio,Mixed,context_analysis
+tshey,5,0.88,2.81,Bio,Mixed,context_analysis
+qochey,5,0.86,2.81,Recipes,Mixed,context_analysis
+chtal,5,0.86,2.81,Recipes,Mixed,unknown
+lteedy,5,1.00,2.81,Bio,Mixed,context_analysis
+lar,5,0.86,2.81,Recipes,Mixed,unknown
+lched,5,1.00,2.81,Bio,Mixed,unknown
+lpchedy,5,0.86,2.81,Recipes,Mixed,unknown
+lal,5,1.00,2.81,Bio,Mixed,mining
+cheedar,5,0.86,2.81,Recipes,Mixed,unknown
+okechy,5,1.39,2.81,Pharma,Mixed,context_analysis
+r!ol,5,0.00,2.81,Bio,Local Variable (Bio),unknown
+chedol,5,1.00,2.81,Bio,Mixed,mining
+ychedy,5,1.00,2.81,Bio,Mixed,unknown
+oeedy,5,0.86,2.81,Recipes,Mixed,context_analysis
+oshey,5,1.00,2.81,Bio,Mixed,context_analysis
+olal,5,1.00,2.81,Bio,Mixed,mining
+olkeol,5,1.00,2.81,Pharma,Mixed,morphology
+cheom,5,0.47,2.81,Pharma,Local Variable (Pharma),mining
+qokeo,5,0.72,2.81,Pharma,Local Variable (Pharma),unknown
+keeody,5,0.97,2.81,Pharma,Mixed,unknown
+chokar,5,0.97,2.81,Pharma,Mixed,unknown
+qokeechy,5,0.00,2.81,Recipes,Local Variable (Recipes),unknown
+chedam,5,0.00,2.81,Recipes,Local Variable (Recipes),unknown
+alam,5,0.00,2.81,Recipes,Local Variable (Recipes),botanical
+ail,5,0.00,2.81,Recipes,Local Variable (Recipes),mining
+oteo,5,0.00,2.81,Recipes,Local Variable (Recipes),morphology
+lkam,5,0.00,2.81,Recipes,Local Variable (Recipes),unknown
+lkchdy,5,0.00,2.81,Recipes,Local Variable (Recipes),unknown
+qotched,5,0.00,2.81,Recipes,Local Variable (Recipes),unknown

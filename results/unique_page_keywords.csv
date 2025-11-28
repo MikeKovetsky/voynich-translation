@@ -1,0 +1,122 @@
+Folio,Plant Name,Keyword 1,Score 1,Keyword 2,Score 2,Keyword 3,Score 3
+f2r,Devil’s dung / Giant Fennel / Ferula foetida,kydainy,0.0526,otchal<-><!plant>ypchaiin,0.0526,ckholsy<-><!plant>,0.0526
+f2v,Water Lily / Nymphaea odorata,chor<-><!plant>dair,0.0746,shty,0.0746,loeees,0.0746
+f3r,Salvia / Garden Sage / Salvia officinalis,cham,0.0770,damo<-><!plant>,0.0739,ycheor,0.0574
+f8v,Bugloss / Anchusa officinalis,chear,0.0489,cthar,0.0470,cthod,0.0402
+f14r,Sorrel / Rumex acetosa,pcho!daiin,0.0562,chopol,0.0562,ol!chy,0.0562
+f15v,Herb Paris / Paris quadrifolia,ytchor,0.0803,choiin,0.0702,poror,0.0578
+f20r,Pennyroyal / Mentha pulegium,cheey,0.0714,qoteey,0.0707,choiin,0.0587
+f21r,Thyme / Thymus vulgaris,qotchol,0.0487,oeeockhy,0.0432,o!fychey,0.0432
+f25r,Lemon Balm / Melissa officinalis,cthain,0.1421,chain,0.1132,ck!y,0.0855
+f31r,Siderica / Unknown,qokedy,0.0777,okedy,0.0777,sheol,0.0515
+f31v,Fennel / Foeniculum vulgare,cheody,0.0428,okeey,0.0413,podair,0.0380
+f35r,Unknown / Unknown,taiin,0.0850,chaiin,0.0775,daiin<-><!plant>,0.0597
+f35v,English Ivy / Hedera helix,chocthy,0.0573,roaiin,0.0472,yty<-><!plant>,0.0472
+f36r,Larkspur / Delphinium,pchafdan,0.0789,qorain,0.0789,chcfhal,0.0789
+f36v,Henbit / Lasmium,yky,0.0723,pcharasy,0.0595,qoforom,0.0595
+f37v,Mint / Menthe,daiin<-><!plant>,0.0995,dain<-><!plant>,0.0775,dshor,0.0648
+f41r,Oregano / Marjoram / Origamum vulgare,qokedy,0.1128,chekedy,0.0850,yteedy,0.0691
+f44v,Italian Parsley / Petroselinum crispun,tol,0.0730,cphaiin,0.0718,ytaiin,0.0505
+f47r,Houseleek / Sempervivum tectorum,dai!n,0.0631,pchair,0.0519,chdy<-><!plant>,0.0519
+f49v,Water Lily / Nymphaea alba,<!label,0.4708,?<!@192>,0.0448,?<!@140>,0.0448
+f52v,Heliotrope / Heliopropium,aiin<-><!plant>,0.0770,chcphol,0.0554,cphaii!n,0.0554
+f53v,Hawkweed / Hieracium aurantiaca,shodaiin<-><!plant>,0.1109,qodal,0.0861,qodckhy,0.0554
+f55v,Unknown / Unknown,ykain,0.0787,qokaiin,0.0591,aiin,0.0576
+f87v,Lousewort / Pedicularis flammea,p!!!!!cheey,0.0554,cph!odar,0.0554,dcheody,0.0554
+f1v,Herba orbicularis / Deadly Nightshade / Aristrolochia pallida / Atropa belladonna,dol,0.0732,kchsy,0.0513,chadaiin,0.0513
+f4r,Alpine Saxifrage / Saxifraga cespitosa,kodalchy,0.0684,chpady,0.0684,qotey<-><!plant>doiin,0.0684
+f5v,Mallow / Malva sylvestris,k!o!cheor,0.0912,pshod,0.0912,chols,0.0912
+f6r,Bear Breeches / Acanthus mollis,qodaiin,0.0631,cthy<-><!plant>,0.0546,cholor,0.0519
+f6v,Caster Oil / Ricinus communis,or<-><!plant>,0.0654,oees,0.0603,cthom,0.0532
+f7v,Madder / Rubia tinctorun,kshy,0.0974,dor,0.0598,polyshy,0.0586
+f10r,Chicory / Endive / Cichorium pumilum,yty,0.0558,qotor,0.0486,chorchy,0.0477
+f11r,Rosemary / Rosmarinus officinalis,schoal,0.0720,sh!f!ydaiin,0.0720,t!chody,0.0720
+f14v,Betony / Stachys officinalis,okchor,0.0711,pdychoiin,0.0631,yfodain,0.0631
+f15r,Sow Thistles / Sonchus oleraceus,tchaly<-><!plant>shy,0.0547,chtols,0.0547,shey<-><!plant>daiin,0.0547
+f16r,Cannabis / Cannabis sativa,opchy,0.1202,pocheody,0.0547,sykaiin,0.0547
+f17r,Swallowwort / Unknown,fshody,0.0578,ydar!chom,0.0578,ypod,0.0578
+f17v,Smilex / Smilax,keeor,0.0552,okeor,0.0448,chkeey,0.0405
+f18v,Columbine / Aquilegia alpina,qokchy,0.0749,told,0.0578,otchdal,0.0578
+f20v,Carduus Thistle / Cirsium,shos,0.0724,faiis,0.0466,po!fochey,0.0466
+f23v,Borage / Borago officinalis,podairol,0.0513,odaiiily,0.0513,sho!al!dy,0.0513
+f24r,Squash / Cucumber / Cucurbita,sham,0.0767,ckhy<-><!plant>,0.0637,oky<-><!plant>,0.0596
+f24v,Botris / Unknown,chocfhhg,0.0513,opom,0.0513,opshody,0.0513
+f26r,Wormwood / Artemesia absinthium,qokedy,0.1154,eedy,0.1087,ytedy,0.0799
+f26v,Horsetail / Equisetum,cheeos,0.0912,qokedy,0.0654,qotedy,0.0577
+f27r,Meadow Sage / Salvia pratensis,tchey,0.0912,chees,0.0608,ksor,0.0500
+f27v,Clove / Syzyglum aromaticum,dchy,0.1190,dsho,0.1065,fochof,0.0804
+f28r,Plantago Major / Plantago major,otchor,0.0813,pchodar,0.0695,chocphy,0.0695
+f28v,Rhododendron / Rhododendron,qoty,0.0963,qooiiin,0.0651,pchoiiin,0.0651
+f29r,Lettuce / Lactuce sativa,qoty,0.1012,por!aiin,0.0684,chep,0.0684
+f29v,Roman Coriander / Nigella sativa,ol!als,0.0554,cth,0.0554,shy<-><!plant>cho,0.0554
+f30r,Comfrey / Symphytum officinale,r!chey,0.0932,chey,0.0588,ckhey,0.0567
+f30v,Bay Laurel / Laurus nobilis,qotchor,0.0734,cthscthain,0.0651,chepchy,0.0651
+f32r,Speedwell / Veronica officinalis,fchoiin,0.0562,shykeody,0.0562,daiiody,0.0562
+f32v,Tormentil / Tormentilla erecta,kcheodaiin,0.0547,daiioam<-><!plant>o,0.0547,cho!fchody,0.0547
+f33v,Winter Aconite / Eranthis heymalis,tar,0.0591,okar,0.0474,daiin<-><!plant>ydain,0.0466
+f34r,Ox-eye Daisy / Callilepis laureola,otedy,0.0588,cheky,0.0471,qokchdy,0.0406
+f34v,Devil’s Weed / Tribulus terrestris,chedy,0.0652,chdaiin,0.0643,oldar,0.0643
+f38r,Opium Poppy / Papaver somniferum,tolor,0.1172,chockhy<-><!plant>oky,0.1172,okshol,0.1172
+f39r,Wallflower / Erysimum,chdy,0.0588,shedy,0.0546,qokaiin,0.0363
+f40v,Unknown / Unknown,chckhy<-><!plant>,0.0821,kedy,0.0780,okar,0.0626
+f41v,Coriander / Coriandrum sativum,qokeody,0.1028,okey,0.0804,keero!dal,0.0662
+f42r,Wood Sorrel / Oxalis acetosella,shol,0.0607,choty,0.0317,!!!sho,0.0302
+f43v,Wild Oats / Avena sterilis,chedy,0.0584,dary,0.0414,shedy,0.0407
+f44r,Mandrake / Mandragora officinarum,tshodpy,0.0547,oracphy,0.0547,koees,0.0547
+f45r,Orach / Atriplex hortensis,ykeol,0.0793,dai!n,0.0580,pykydal,0.0477
+f46r,Unknown / Unknown,shee,0.0869,shdy,0.0611,sheckhy,0.0523
+f47v,Lungwort / Pulmonaria officinalis,cho,0.0639,psheot,0.0554,cholsho,0.0554
+f48v,Celandine / Chelidonium majus,otedy,0.0825,otar,0.0723,ytam,0.0569
+f51v,Millet / Setaria italica,qokol,0.0674,poshody,0.0570,qokodar,0.0570
+f52r,Lovage / Levisticum officinale,oty,0.0708,tdokchcfhy,0.0662,ycphko,0.0662
+f53r,Herb Christopher / Actaea spicata,oty<-><!plant>,0.1226,kodam,0.0789,chocthody,0.0789
+f54r,Creeping Thistle / Circium arvense,shodal,0.0821,ckhol,0.0693,dam,0.0485
+f54v,Sage / Salvia officinalis,okal,0.0553,tol,0.0514,dy<-><!plant>,0.0479
+f55r,Fumitory / Fumaria officinalis,okar,0.0505,qokar,0.0489,chky,0.0460
+f57r,Lady’s Mantle / Alchemilla vulgaris,cheody,0.1114,sheedy,0.0768,poeeo,0.0494
+f65r,Larkspur / Delphinium,otaim,1.3675,alam,1.3675,dam,0.5392
+f65v,Cornflower / Centaurea cyanus,fchecfhy,0.1052,dy<-><!plant>dchepain,0.1052,shety,0.1052
+f66v,Bay Laurel / Laurus nobilis,kal,0.0990,sheody,0.0668,chekal,0.0569
+f87r,Aloe / Aloe vera,soraiin<-><!plant>,0.0837,ctheody,0.0696,shee,0.0696
+f93v,Switch Grass / Panicum,qotchol,0.0660,cthody,0.0660,ckhol,0.0660
+f94r,Moonwort / Botrychium lunaria,opaiis,0.0513,dsheedy,0.0513,qopchedal,0.0513
+f96r,Black Hellebore / Helleborus niger,sheol,0.0675,olsheeo!sol,0.0533,cpheol,0.0533
+f96v,Black Byrony / Tamus communis,sar,0.0856,psheoas,0.0733,qoepsheody,0.0733
+f3v,Dungwort / Helleborus foetidus,tchor,0.0835,qotoy,0.0494,sha,0.0494
+f4v,European Bellflower / Campanula,shokchy,0.0817,sheo,0.0572,sho,0.0567
+f5r,Wolf's Bane / Arnica montana,qoaiin,0.1018,fchoy,0.0733,chkoy,0.0733
+f7r,Bog Stichwort / Stellaria alsine,choty,0.0830,fchodaiin,0.0789,shopchey,0.0789
+f8r,Green Pea / Pisum sativum,pshol,0.0318,otshal,0.0318,chopy!<-><!plant>cphol,0.0318
+f9r,Ragweed / Ambrosia,cthy,0.0693,tydlo,0.0562,orchey,0.0562
+f9v,Heartsease / Viola tricolor,chkaiin,0.0834,fochor,0.0570,oporody,0.0570
+f10v,Twinflower / Linnaea borealis,shoiin,0.1202,oty!dy,0.0774,sain,0.0774
+f11v,Rhodiola / Rhodiola rosea,poldchody,0.0954,shordy,0.0954,qoty<-><!plant>shol,0.0954
+f13r,Banana / Musa,qopchy,0.0850,ykchy,0.0595,torshor,0.0547
+f13v,Honeysuckle / Lonicera periclymenum,otchy,0.1097,koair,0.0695,chtoiin,0.0695
+f16v,Chrysanthemum / Chrysanthemum,chody<-><!plant>,0.1013,chkar,0.0934,ytchy,0.0657
+f18r,Alpine Daisy / Aster amellus,qokchol,0.0911,ykchol,0.0807,qokchor,0.0688
+f19r,Greek Valerian / Polemonium caeruleum,chordy,0.1080,ykchor,0.0839,tchy,0.0775
+f19v,Nailwort / Draba nivalis,qotol,0.0788,pochaiin,0.0533,chpcheos,0.0533
+f21v,Burning Bush / Dictamnus albus,choty,0.1155,toldshy,0.0733,chofchy,0.0733
+f22r,Common Vervain / Verbena officinalis,dchor,0.0748,okchy,0.0451,kchol,0.0422
+f22v,Tulip / Tulipa,pysaiinor,0.0595,otdy<-><!plant>sor,0.0595,qo!!!!!d,0.0595
+f23r,Pasque Flower / Pulsatilla vulgaris,qokchol,0.0712,ykor,0.0564,pydchdom,0.0406
+f25v,Woad / Isatis tinctoria,dshey,0.1159,qokcho,0.1036,poeeaiin,0.0746
+f33r,Gentiana / Gentiana verna,chdal,0.0885,aiin,0.0752,okaiin,0.0625
+f37r,Foxglove / Digitalis purpura,qokaiin,0.0771,qotor,0.0580,tocphol,0.0570
+f38v,Stonecrops / Sedum anacampseros,okeey,0.0756,qokeey,0.0708,okchop,0.0695
+f39v,Ragwort / Senecio vulgaris,aiin,0.0641,olky,0.0548,sheedy,0.0472
+f40r,Primula / Primula minima,okar,0.0720,qokar,0.0698,okaiin,0.0690
+f42v,Columbine / Aqulegia vulgaris,taiin,0.0514,qocho,0.0423,shols<-><!plant>chol,0.0423
+f43r,Alpine Balsum / Erinus alpinus,qotedy,0.0684,opchdy,0.0486,yty,0.0473
+f45v,Lavender / Lavendula officinulis,qotol,0.0788,korary,0.0533,chko,0.0533
+f46v,Ploughman’s Spikenard / Inula conyza,shedy,0.0766,chdam,0.0626,daim,0.0585
+f48r,False Hellebore / Adonis vernalis,ykeey,0.0519,pshdaiin,0.0461,sheo!daiin,0.0461
+f49r,Blue Nile Lotus / Nymphaea caerulea,sheor,0.0662,choshy,0.0654,cheey,0.0537
+f50r,Masterwort / Astrantia major,kar,0.1200,qokchdy,0.1102,okar,0.0480
+f50v,Soldanella / Soldanella pulsitilla,okai!n,0.0770,qokedy,0.0613,kar,0.0435
+f51r,European Searocket / Cakile maritima,ckhey,0.0901,qockhey,0.0891,ckheody,0.0822
+f56r,Round Leaf Sundew / Drosera rotundifolia,chokeey,0.0846,schol,0.0703,keey,0.0536
+f56v,Sago Palm / Cycas revoluta,kcheey,0.0860,chotor,0.0860,qoteey,0.0699
+f93r,Artichoke / Cynara cardunculus,shodaiin,0.0551,qokor,0.0527,chokal,0.0500
+f94v,Rose Campion / Lychnis coronaria,oteey,0.0940,tam,0.0749,tshedy,0.0451

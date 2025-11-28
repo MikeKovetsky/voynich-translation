@@ -1,5 +1,5 @@
 # Task: Anagram Validator
-# Status: Pending
+# Status: Completed
 # Goal: Test Edith Sherwood's hypothesis that plant names are anagrams.
 
 Description:

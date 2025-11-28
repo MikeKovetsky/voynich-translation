@@ -1,5 +1,5 @@
 # Task: Loose Descriptor Search
-# Status: Pending
+# Status: Completed
 # Goal: Find weak semantic signals by lowering the threshold.
 
 Description:

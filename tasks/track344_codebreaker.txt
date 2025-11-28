@@ -1,5 +1,5 @@
 # Task: The Codebreaker (Multilingual Match)
-# Status: Pending
+# Status: Complete
 # Goal: Map the unique TF-IDF keywords to actual plant names in various languages.
 
 Description:
@@ -24,3 +24,9 @@ Requirements:
 Output:
 - research/codebreaker_multilang.py
 - results/multilang_matches.csv
+
+Results:
+- Script created and executed.
+- Analyzed top 34 plants (high TF-IDF scores).
+- Found 1 strong candidate match: 'ckhey' on f51r matching 'Cakile' (European Searocket).
+- Other top keywords did not yield matches > 0.5 similarity with the tested languages.

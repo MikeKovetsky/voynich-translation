@@ -1,5 +1,5 @@
 # Task: Functional Clusters
-# Status: Pending
+# Status: Completed
 # Goal: Check if plants with the same Medical Use share the same unique words.
 
 Description:
@@ -22,3 +22,10 @@ Requirements:
 Output:
 - research/functional_clusters.py
 - results/functional_cluster_words.csv
+
+Results:
+- Stomach: No unique words found >70% intersection.
+- Women: No unique words found >70% intersection.
+- Head/Sleep: `sho` (86%), `chy` (86%), `chor` (71%).
+- Skin/Wound: `sho` (80%).
+`sho` appears to be a shared term between Head/Sleep and Skin/Wound clusters.

@@ -1,0 +1,154 @@
+[
+  {
+    "suffix": "dy",
+    "count": 17,
+    "examples": [
+      {
+        "root": "chedy",
+        "word": "chedydy"
+      },
+      {
+        "root": "sal",
+        "word": "saldy"
+      }
+    ]
+  },
+  {
+    "suffix": "ky",
+    "count": 17,
+    "examples": [
+      {
+        "root": "chey",
+        "word": "cheyky"
+      },
+      {
+        "root": "chedy",
+        "word": "chedyky"
+      }
+    ]
+  },
+  {
+    "suffix": "y",
+    "count": 17,
+    "examples": [
+      {
+        "root": "sal",
+        "word": "saly"
+      }
+    ]
+  },
+  {
+    "suffix": "or",
+    "count": 16,
+    "examples": [
+      {
+        "root": "chey",
+        "word": "cheyor"
+      },
+      {
+        "root": "chedy",
+        "word": "chedyor"
+      },
+      {
+        "root": "sal",
+        "word": "salor"
+      }
+    ]
+  },
+  {
+    "suffix": "s",
+    "count": 15,
+    "examples": [
+      {
+        "root": "chey",
+        "word": "cheys"
+      },
+      {
+        "root": "sal",
+        "word": "sals"
+      }
+    ]
+  },
+  {
+    "suffix": "l",
+    "count": 14,
+    "examples": [
+      {
+        "root": "cheky",
+        "word": "chekyl"
+      },
+      {
+        "root": "chey",
+        "word": "cheyl"
+      },
+      {
+        "root": "chedy",
+        "word": "chedyl"
+      },
+      {
+        "root": "sal",
+        "word": "sall"
+      }
+    ]
+  },
+  {
+    "suffix": "ar",
+    "count": 13,
+    "examples": [
+      {
+        "root": "chedy",
+        "word": "chedyar"
+      },
+      {
+        "root": "sal",
+        "word": "salar"
+      }
+    ]
+  },
+  {
+    "suffix": "sol",
+    "count": 11,
+    "examples": [
+      {
+        "root": "chety",
+        "word": "chetysol"
+      },
+      {
+        "root": "chedy",
+        "word": "chedysol"
+      }
+    ]
+  },
+  {
+    "suffix": "ty",
+    "count": 10,
+    "examples": [
+      {
+        "root": "otchy",
+        "word": "otchyty"
+      },
+      {
+        "root": "chey",
+        "word": "cheyty"
+      },
+      {
+        "root": "chedy",
+        "word": "chedyty"
+      }
+    ]
+  },
+  {
+    "suffix": "kar",
+    "count": 10,
+    "examples": [
+      {
+        "root": "chey",
+        "word": "cheykar"
+      },
+      {
+        "root": "chedy",
+        "word": "chedykar"
+      }
+    ]
+  }
+]
