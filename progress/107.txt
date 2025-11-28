@@ -1,0 +1,22 @@
+# Iteration 107: The Multilingual Codebreaker 🗝️🌍
+# Status: In Progress
+# Date: 2025-11-27
+
+## The TF-IDF Breakthrough
+Track 343 successfully identified unique "Topic Words" for specific pages.
+*   Cannabis (f16r) -> `opchy`
+*   Lemon Balm (f25r) -> `cthain`
+*   Wormwood (f26r) -> `qokedy`
+
+These words are statistically linked to the plants. Now we must find what they *mean*.
+
+## The Strategy (Iter 107)
+1.  **Language Sweep (Track 344):** Is `opchy` Hebrew for Cannabis? Is `cthain` German for Balm? We will check 5 medieval languages.
+2.  **Morphological Cleaning (Track 345):** We suspect `o-` is a prefix. We will strip it and check if the *roots* match the Latin names (e.g. `pchy` vs `Cannabis`).
+
+## Tasks
+*   **Track 344:** Codebreaker (Multilingual matching).
+*   **Track 345:** Prefix Stripper (Root matching).
+
+## Goal
+Find the **Language of Origin**. If `opchy` matches the Arabic word for Hemp, we have solved the manuscript's source.

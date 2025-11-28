@@ -1,0 +1,25 @@
+# Task: Prefix Stripper (The "O-" Hypothesis)
+# Status: Pending
+# Goal: Test if 'o-' and 'qo-' are prefixes hiding the real root.
+
+Description:
+Many TF-IDF keywords start with `o` or `qo` (`opchy`, `qokedy`, `otaim`).
+If these are markers (like "The" or "Item"), the real name is the remainder.
+We need to strip them and re-run the matching.
+
+Requirements:
+1. Create `research/prefix_stripper_match.py`.
+2. Load `results/unique_page_keywords.csv`.
+3. For each keyword:
+    - Generate variants: 
+        - Raw (`opchy`)
+        - Strip 'o' (`pchy`)
+        - Strip 'qo' (`pchy` if q=o?) -> actually `qo` -> `chy`.
+        - Strip 'y' suffix (`opch`).
+4. Compare these variants against the **Sherwood Latin Names** and **English Common Names**.
+5. Check if `pchy` matches `Pitch` or `Hemp` better than `opchy`.
+6. Output `results/stripped_matches.csv`.
+
+Output:
+- research/prefix_stripper_match.py
+- results/stripped_matches.csv
