@@ -1,0 +1,33 @@
+# Task: Sherwood Replication & Falsification
+# Status: Pending
+# Goal: Scientifically test if Sherwood's anagrams are statistically significant or just random noise.
+
+Description:
+Sherwood claims f4r contains "ccamus" (Sumac) and f37v contains "orcocor" (Corcoro).
+We will look for these anagrams in the AVA-converted text.
+CRUCIALLY, we will run a **Control Test**: Can we find "Sumac" on the "Pimpernel" page? Can we find "Pizza" on the "Sumac" page?
+
+Requirements:
+1. Create `research/sherwood_validation.py`.
+2. Load the converted AVA text for:
+    - f4r (Sumac)
+    - f37v (Pimpernel / Corcoro)
+    - f2v (Water Lily / Ninfea?)
+3. Define Targets:
+    - `sumac`
+    - `corcoro`
+    - `ninfea` (Italian for Water Lily)
+    - `banana` (Control)
+    - `pizza` (Control)
+4. **Search Method:**
+    - Split text into words.
+    - Check if *any* word is an exact anagram.
+    - Check if *adjacent* words combined form the anagram (Sherwood allows splitting).
+5. **Scoring:**
+    - If "Sumac" is found on f4r but NOT f37v -> **Positive Result**.
+    - If "Sumac" is found on BOTH -> **Negative Result (Degenerate)**.
+6. Output `results/sherwood_falsification.md`.
+
+Output:
+- research/sherwood_validation.py
+- results/sherwood_falsification.md

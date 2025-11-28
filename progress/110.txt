@@ -1,0 +1,20 @@
+# Iteration 110: The Italian Job (Sherwood Validation) 🇮🇹🕵️‍♀️
+# Status: In Progress
+# Date: 2025-11-27
+
+## The Hypothesis
+Edith Sherwood claims the manuscript is written in **Medieval Italian** using a custom alphabet (**AVA**) and **Anagrams**.
+We previously failed to find phonetic matches (Iter 107) because we were using EVA and looking for direct matches.
+
+## The Scientific Test
+We will not trust; we will verify.
+1.  **Convert (Track 351):** Translate EVA to AVA (Visual mapping).
+2.  **Replicate (Track 352):** Can we find "Sumac" on the Sumac page?
+3.  **Falsify (Track 352):** Can we find "Sumac" on the *wrong* page? If yes, the method is broken.
+
+## Tasks
+*   **Track 351:** AVA Mapper.
+*   **Track 352:** Sherwood Replication & Falsification.
+
+## Goal
+Determine if the Sherwood Hypothesis is a breakthrough or just "Pareidolia" (seeing patterns in noise).
