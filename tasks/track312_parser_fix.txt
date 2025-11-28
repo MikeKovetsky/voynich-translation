@@ -1,0 +1,18 @@
+# Task: Parser Logic Fix
+# Status: Pending
+# Goal: Identify and fix the root cause of "!" tokens in the text processing pipeline.
+
+Description:
+The dictionary pollution (Track 311) suggests a bug in the tokenization logic. 
+The tokenizer is likely treating "!" (often used as a line/page break or uncertain character in transcription formats) as part of the word.
+
+Requirements:
+1. Audit the transcription files (`data/voynich_transcription.txt` or similar). Look for "!" usage.
+2. Find the script responsible for parsing/tokenizing (likely `research/tokenizer.py` or `research/word_frequency.py`).
+3. Fix the regex/split logic to treat "!" as a separator or ignore it, rather than gluing it to words.
+4. Run a test on a sample snippet containing "ytai!n" to verify it splits into "ytai" (or whatever is correct) and "n" or drops the "!".
+5. Commit the fixed parser script.
+
+Output:
+- Updated parser script (modify existing file).
+- results/parser_fix_test.md (Before/After examples).

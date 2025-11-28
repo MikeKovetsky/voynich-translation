@@ -1,0 +1,26 @@
+# Task: External Corpus Setup (Grounding)
+# Status: Pending
+# Goal: Prepare external medieval datasets for "Rosetta Link" validation.
+
+Description:
+To move beyond circular logic, we need to compare Voynich N-grams/Roots to actual medieval languages.
+
+Requirements:
+1. Create a folder `data/external_corpora/`.
+2. Create/Download (or simulate via script) a "Reference Corpus" containing:
+    - **Latin:** Common herbal/medical terms (1000 words).
+    - **Italian:** Medieval vernacular (optional).
+    - **Abbreviations:** A list of common medieval scribal abbreviations (e.g., 'p' = 'per', '9' = 'con/cum').
+3. Create a script `research/phonetic_bridge.py`.
+4. The script should:
+    - Load the Voynich Roots (from Dictionary v20).
+    - Load the Latin/Abbreviation list.
+    - Run a "Fuzzy Match" (Levenshtein distance) to find potential matches.
+    - Example: Does Voynich `air` match Latin `aer` or `aur`?
+5. Produce `results/phonetic_candidates.csv`.
+
+Output:
+- data/external_corpora/latin_medical.txt (Can be a simple list for now).
+- data/external_corpora/abbreviations.json.
+- research/phonetic_bridge.py
+- results/phonetic_candidates.csv

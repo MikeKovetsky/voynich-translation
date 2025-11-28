@@ -1,0 +1,41 @@
+# Iteration 104: The Rigorous Pivot (Sanitization & Grounding) 🧹🏛️
+# Status: Planning & Setup
+# Date: 2025-11-27
+
+## The Critique (Why we are stopping the "Functional" approach)
+We have achieved a "Functional Simulation" of the manuscript. We can generate text that *looks* like a translation ("Cook the mixture"), but it is brittle.
+1.  **Dictionary Pollution:** The dictionary is filled with parser artifacts (`!!!!!!`).
+2.  **Circular Validation:** We define words by their context, then use them to prove the context.
+3.  **No Rosetta Stone:** We have not yet linked a single word to a proven external counterpart (e.g., "This Voynich word definitely equals 'Coriander' because of X").
+
+## The Roadmap: Steps 104-200 (Rigorous Decipherment)
+
+### Phase 1: Sanitization (Steps 104-115)
+*   **Goal:** Clean the data. Garbage In, Garbage Out.
+*   **Action:** Purge the dictionary. Fix the tokenizer.
+*   **Tasks:** 311, 312.
+
+### Phase 2: External Grounding (Steps 116-140)
+*   **Goal:** Prove the language exists outside our simulation.
+*   **Action:** Connect Voynich Roots to Medieval Latin Abbreviations and Medical Terminology.
+*   **Tasks:** 313 (Phonetic Bridge), 314 (Abbreviation Mapper).
+
+### Phase 3: Structural Syntax (Steps 141-170)
+*   **Goal:** Prove the grammar mathematically.
+*   **Action:** Dependency Parsing. If `qokeey` is a verb, it must *consistently* govern a noun object.
+
+### Phase 4: Production Translation (Steps 171-200)
+*   **Goal:** The "Gold Standard".
+*   **Action:** Translate the "Dark Zones" (Astro) using the new grounded dictionary.
+
+## Current Iteration Tasks
+We have launched the first batch:
+1.  **Track 311:** Dictionary Purge (Remove `!`).
+2.  **Track 312:** Parser Fix (Stop creating `!`).
+3.  **Track 313:** Corpus Setup (Load Latin/Abbreviation data).
+
+## Hypothesis
+The "Gibberish" is not random. It is **Phonetically Encoded Abbreviated Latin**.
+*   Voynich `p` != Latin `p`.
+*   Voynich `p` = Latin `per` or `pro`.
+We will prove this in Phase 2.
