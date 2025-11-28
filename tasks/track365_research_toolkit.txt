@@ -1,0 +1,37 @@
+# Task: Research Toolkit (The "Memory" System)
+# Status: Pending
+# Goal: Create a suite of scripts to enforce consistency and memory across iterations.
+
+Description:
+We need automated checks to prevent regression and contradiction.
+These scripts will be run by the Orchestrator before/after every major task.
+
+Requirements:
+1. Create `research/check_dictionary_conflict.py`:
+    - Input: A proposed word and meaning.
+    - Action: Checks `master_dictionary_v20.json`.
+    - Output: WARN if conflict exists.
+
+2. Create `research/current_coverage.py`:
+    - Action: Loads `master_dictionary_v20.json` and `eva_ivtff.txt`.
+    - logic: Count total words. Count words with `confidence > 0.8`.
+    - Output: "Current High-Confidence Coverage: X%".
+
+3. Create `research/grammatical_consistency.py`:
+    - Input: A word.
+    - Action: Checks `results/grammar_rules.md` (or internal logic).
+    - Logic: If Word is "Prefix/Starter" but Dictionary says "Noun", FLAG it.
+
+4. Create `research/visual_context_lookup.py`:
+    - Input: Folio (e.g., 'f70r').
+    - Action: Looks up metadata (Zodiac sign, Plant ID from Sherwood, etc.).
+    - Output: "Context for f70r: Aries, Mars, Nettle (Sherwood)."
+
+5. **Integration:** Create a master script `research/preflight_check.py` that runs `novelty_check` + `current_coverage`.
+
+Output:
+- research/check_dictionary_conflict.py
+- research/current_coverage.py
+- research/grammatical_consistency.py
+- research/visual_context_lookup.py
+- research/preflight_check.py
