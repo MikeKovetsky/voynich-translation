@@ -1,0 +1,24 @@
+# Task: Scope Analyzer (Variable Leakage)
+# Status: Pending
+# Goal: Treat the manuscript as code. Define "Scopes" and measure "Variable Leakage".
+
+Description:
+If the manuscript is a constructed system, words (variables) should be defined within specific scopes.
+- Scope 1: Herbal A
+- Scope 2: Herbal B
+- Scope 3: Astro
+- Scope 4: Recipes
+
+Requirements:
+1. Create `research/scope_analyzer.py`.
+2. Load the full corpus divided by section.
+3. For every unique word, calculate its **Scope Entropy**.
+    - Does it appear 100% in Herbal? (Local Variable).
+    - Does it appear evenly everywhere? (Global Variable / Keyword).
+4. Identify the "Global Keywords" (Function words like 'and', 'the').
+5. Identify the "Local Keywords" (Topic specific).
+6. Output `results/scope_analysis.csv`.
+
+Output:
+- research/scope_analyzer.py
+- results/scope_analysis.csv

@@ -1,0 +1,21 @@
+# Task: LZW Compression Test (Information Density)
+# Status: Pending
+# Goal: Measure the "Repetitiveness" of the text compared to natural languages.
+
+Description:
+Is the Voynich text "Empty"?
+We will compress the text using LZW (Lempel-Ziv-Welch) and compare the compression ratio to Latin, English, and Random Strings.
+- High Compression = Repetitive, Low Information (Chant? Mantra?).
+- Low Compression = Dense Information (Cipher? Code?).
+
+Requirements:
+1. Create `research/compression_test.py`.
+2. Load Voynich Text (EVA).
+3. Load Control Texts (Latin Corpus, English Text, Shuffled Voynich).
+4. Compress all using `zlib` or `lzma`.
+5. Calculate **Bits Per Character**.
+6. Output `results/compression_stats.md`.
+
+Output:
+- research/compression_test.py
+- results/compression_stats.md

@@ -1,0 +1,21 @@
+# Iteration 111: The Computational Pivot 💻🔒
+# Status: In Progress
+# Date: 2025-11-27
+
+## The Falsification of Meaning
+We have falsified the Sherwood Hypothesis (Iter 110) and the Phonetic Hypothesis (Iter 105-107).
+The text resists semantic mapping. This implies it is not a simple language.
+
+## The Pivot to Code
+We will now treat the text as a **Data Stream**.
+1.  **Scope (Track 353):** Are words local variables or global keywords?
+2.  **Density (Track 354):** Is the text "empty" (high compression) or "dense" (cipher)?
+3.  **Randomness (Track 355):** Is it a Markov Chain hoax?
+
+## Tasks
+*   **Track 353:** Scope Analyzer.
+*   **Track 354:** LZW Compression Test.
+*   **Track 355:** Markov Null Hypothesis.
+
+## Goal
+Determine the **Nature of the System** (Natural Language vs Cipher vs Hoax).
