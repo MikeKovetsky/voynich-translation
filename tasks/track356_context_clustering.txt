@@ -1,0 +1,23 @@
+# Task: Context Clustering (Adjective Hunt)
+# Status: Pending
+# Goal: Identify adjectives/modifiers by looking at neighbors of "Local Variables".
+
+Description:
+We identified "Local Variables" (unique nouns) in Track 353.
+Now we ask: What words appear *adjacent* to these nouns?
+Hypothesis: If `opchy` is a noun, the word before it might be an adjective ("Green", "Big").
+
+Requirements:
+1. Create `research/context_clustering.py`.
+2. Load `results/scope_analysis.csv` (filter for 'Local Variable' or 'Mixed').
+3. For each Target Word:
+    - Find all occurrences in the text.
+    - Extract the word *Before* (-1) and *After* (+1).
+4. Count the frequency of these neighbors.
+5. **Cluster:** Group Target Words that share the same neighbors.
+    - If `opchy` and `qokedy` both take `chol` as a neighbor, they are in the same semantic class.
+6. Output `results/semantic_clusters.csv`.
+
+Output:
+- research/context_clustering.py
+- results/semantic_clusters.csv

@@ -1,0 +1,24 @@
+# Task: Grammar Rule Extraction
+# Status: Pending
+# Goal: Define the rules of the language using "Global Keywords".
+
+Description:
+Global Keywords (`daiin`, `ol`, `chol`) are the syntactic glue.
+We need to formalize their rules.
+- Does `daiin` always start a sentence?
+- Does `ol` always follow a noun?
+
+Requirements:
+1. Create `research/grammar_extraction.py`.
+2. Load `results/scope_analysis.csv` (filter for 'Global Keyword').
+3. For each Keyword:
+    - Calculate **Position Probability**: % at Start, % at End, % Middle.
+    - Calculate **Collocation**: What part-of-speech (High Entropy vs Low Entropy word) follows it?
+4. Generate `results/grammar_rules.md` describing:
+    - "Prefix Words" (Start of sentence).
+    - "Suffix Words" (End of sentence).
+    - "Connector Words" (Middle).
+
+Output:
+- research/grammar_extraction.py
+- results/grammar_rules.md
