@@ -2,6 +2,7 @@ import os
 from typing import Type, TypeVar
 
 from google import genai
+from config import Config
 from google.genai import types
 from pydantic import BaseModel
 
@@ -9,8 +10,8 @@ T = TypeVar("T", bound=BaseModel)
 
 
 class GeminiClient:
-    def __init__(self, model_name: str = "gemini-1.5-flash"):
-        api_key = os.getenv("GEMINI_API_KEY")
+    def __init__(self, model_name: str):
+        api_key = Config().GEMINI_API_KEY
         if not api_key:
             raise ValueError("GEMINI_API_KEY not found in environment variables")
 
@@ -48,3 +49,8 @@ class GeminiClient:
              pass
              
         return schema.model_validate_json(response.text)
+
+
+if __name__ == "__main__":
+    GEMINI_CLIENT = GeminiClient(model_name="gemini-2.0-flash-exp")
+    print(GEMINI_CLIENT.generate("Hello, world!"))
