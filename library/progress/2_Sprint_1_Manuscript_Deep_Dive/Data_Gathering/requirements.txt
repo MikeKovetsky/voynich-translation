@@ -1,0 +1,1 @@
+Compile all publicly available resources related to the Voynich Manuscript: images, transcriptions, research papers, theories. Input: Online repositories, academic databases. Output: Organized collection of digital resources. Researchers' Requirements: Access online repositories, download and organize files, create a bibliography.

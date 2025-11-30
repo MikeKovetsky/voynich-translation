@@ -1,0 +1,178 @@
+{
+  "sprints": [
+    {
+      "number": 1,
+      "title": "Project Genesis: Foundation & Team Assembly",
+      "path": "progress/1_Project_Genesis_Foundation__Team_Assembly",
+      "managers": [
+        {
+          "title": "Literature Review and Resource Compilation",
+          "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Literature_Review_and_Resource_Compilation",
+          "research_tasks": [
+            {
+              "title": "Download and Organize Publicly Available Images",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Literature_Review_and_Resource_Compilation/research_Download_and_Organize_Publicly_Available_Images"
+            },
+            {
+              "title": "Structure a Digital Archive",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Literature_Review_and_Resource_Compilation/research_Structure_a_Digital_Archive"
+            },
+            {
+              "title": "Archive Forum Discussions and Public Transcriptions",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Literature_Review_and_Resource_Compilation/research_Archive_Forum_Discussions_and_Public_Transcription"
+            },
+            {
+              "title": "Gather Academic Papers on the Voynich Manuscript",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Literature_Review_and_Resource_Compilation/research_Gather_Academic_Papers_on_the_Voynich_Manuscript"
+            },
+            {
+              "title": "Create an Annotated Bibliography",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Literature_Review_and_Resource_Compilation/research_Create_an_Annotated_Bibliography"
+            },
+            {
+              "title": "Collect Blog Posts and Online Articles",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Literature_Review_and_Resource_Compilation/research_Collect_Blog_Posts_and_Online_Articles"
+            }
+          ]
+        },
+        {
+          "title": "Paleographical Analysis \u2013 Character Set Identification",
+          "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Paleographical_Analysis__Character_Set_Identificat",
+          "research_tasks": [
+            {
+              "title": "Paleographical Context Research",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Paleographical_Analysis__Character_Set_Identificat/research_Paleographical_Context_Research"
+            },
+            {
+              "title": "Comprehensive Glyph Inventory",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Paleographical_Analysis__Character_Set_Identificat/research_Comprehensive_Glyph_Inventory"
+            },
+            {
+              "title": "Ligature Analysis",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Paleographical_Analysis__Character_Set_Identificat/research_Ligature_Analysis"
+            },
+            {
+              "title": "Identification of Glyph Variations",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Paleographical_Analysis__Character_Set_Identificat/research_Identification_of_Glyph_Variations"
+            },
+            {
+              "title": "Statistical Analysis of Glyph Distribution",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Paleographical_Analysis__Character_Set_Identificat/research_Statistical_Analysis_of_Glyph_Distribution"
+            },
+            {
+              "title": "Frequency Analysis of Glyphs",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Paleographical_Analysis__Character_Set_Identificat/research_Frequency_Analysis_of_Glyphs"
+            }
+          ]
+        },
+        {
+          "title": "Botanical and Cosmological Imagery Analysis",
+          "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Botanical_and_Cosmological_Imagery_Analysis",
+          "research_tasks": []
+        },
+        {
+          "title": "Linguistic Pattern Analysis",
+          "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Linguistic_Pattern_Analysis",
+          "research_tasks": [
+            {
+              "title": "Character Sequence Analysis",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Linguistic_Pattern_Analysis/research_Character_Sequence_Analysis"
+            },
+            {
+              "title": "Cipher Pattern Analysis",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Linguistic_Pattern_Analysis/research_Cipher_Pattern_Analysis"
+            },
+            {
+              "title": "Grammatical Structure Investigation",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Linguistic_Pattern_Analysis/research_Grammatical_Structure_Investigation"
+            },
+            {
+              "title": "Word Length Distribution Analysis",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Linguistic_Pattern_Analysis/research_Word_Length_Distribution_Analysis"
+            },
+            {
+              "title": "Statistical Comparison with Known Languages",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Linguistic_Pattern_Analysis/research_Statistical_Comparison_with_Known_Languages"
+            },
+            {
+              "title": "Comparative Linguistic Analysis - Web Search",
+              "path": "progress/1_Project_Genesis_Foundation__Team_Assembly/Linguistic_Pattern_Analysis/research_Comparative_Linguistic_Analysis_-_Web_Search"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Sprint 1: Manuscript Deep Dive",
+      "path": "progress/2_Sprint_1_Manuscript_Deep_Dive",
+      "managers": [
+        {
+          "title": "Data Gathering",
+          "path": "progress/2_Sprint_1_Manuscript_Deep_Dive/Data_Gathering",
+          "research_tasks": [
+            {
+              "title": "Document Theories",
+              "path": "progress/2_Sprint_1_Manuscript_Deep_Dive/Data_Gathering/research_Document_Theories"
+            },
+            {
+              "title": "Acquire Research Papers",
+              "path": "progress/2_Sprint_1_Manuscript_Deep_Dive/Data_Gathering/research_Acquire_Research_Papers"
+            },
+            {
+              "title": "Collect Transcriptions",
+              "path": "progress/2_Sprint_1_Manuscript_Deep_Dive/Data_Gathering/research_Collect_Transcriptions"
+            },
+            {
+              "title": "Validate Data Integrity",
+              "path": "progress/2_Sprint_1_Manuscript_Deep_Dive/Data_Gathering/research_Validate_Data_Integrity"
+            },
+            {
+              "title": "Create Metadata Schema",
+              "path": "progress/2_Sprint_1_Manuscript_Deep_Dive/Data_Gathering/research_Create_Metadata_Schema"
+            },
+            {
+              "title": "Identify Online Repositories",
+              "path": "progress/2_Sprint_1_Manuscript_Deep_Dive/Data_Gathering/research_Identify_Online_Repositories"
+            },
+            {
+              "title": "Gather Images",
+              "path": "progress/2_Sprint_1_Manuscript_Deep_Dive/Data_Gathering/research_Gather_Images"
+            }
+          ]
+        },
+        {
+          "title": "Statistical Analysis",
+          "path": "progress/2_Sprint_1_Manuscript_Deep_Dive/Statistical_Analysis",
+          "research_tasks": []
+        },
+        {
+          "title": "Structural Analysis",
+          "path": "progress/2_Sprint_1_Manuscript_Deep_Dive/Structural_Analysis",
+          "research_tasks": [
+            {
+              "title": "Analyze Page Layout Patterns",
+              "path": "progress/2_Sprint_1_Manuscript_Deep_Dive/Structural_Analysis/research_Analyze_Page_Layout_Patterns"
+            },
+            {
+              "title": "Search for existing structural analysis",
+              "path": "progress/2_Sprint_1_Manuscript_Deep_Dive/Structural_Analysis/research_Search_for_existing_structural_analysis"
+            },
+            {
+              "title": "Identify Chapter or Section Markers",
+              "path": "progress/2_Sprint_1_Manuscript_Deep_Dive/Structural_Analysis/research_Identify_Chapter_or_Section_Markers"
+            },
+            {
+              "title": "Categorize and Describe Illustrations",
+              "path": "progress/2_Sprint_1_Manuscript_Deep_Dive/Structural_Analysis/research_Categorize_and_Describe_Illustrations"
+            },
+            {
+              "title": "Statistical Analysis of Illustration Placement",
+              "path": "progress/2_Sprint_1_Manuscript_Deep_Dive/Structural_Analysis/research_Statistical_Analysis_of_Illustration_Placement"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

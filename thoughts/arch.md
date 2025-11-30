@@ -52,3 +52,6 @@ This approach is not new. Most coprporate/sociatal structures follow it. The mai
 | `/research`| **Subagent** (Write) | Python scripts and analysis code. |
 | `/results` | **Subagent** (Write) | Output data (JSON, MD, CSV) and the specific `*_summary.md`. |
 | `progress_summary_2.md` | **Orchestrator** (Write) | Global history of the project iterations. |
+
+
+

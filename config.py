@@ -5,6 +5,7 @@ from pydantic_settings import BaseSettings
 
 class Config(BaseSettings):
     ORCHESTRATOR_MODEL: str = "gemini-2.0-flash-exp"
+    RESEARCHER_MODEL: str = "gemini-2.0-flash-exp"
     GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY")
 
     class Config:

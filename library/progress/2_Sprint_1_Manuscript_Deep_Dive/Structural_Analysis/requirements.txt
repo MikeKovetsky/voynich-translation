@@ -1,0 +1,1 @@
+Analyze the overall structure of the manuscript: chapter divisions, page layouts, illustrations. Input: High-resolution images of the manuscript. Output: Report describing the structural elements of the manuscript. Researchers' Requirements: Careful examination of images, note taking on structural patterns, create visual representations of the manuscript's structure.

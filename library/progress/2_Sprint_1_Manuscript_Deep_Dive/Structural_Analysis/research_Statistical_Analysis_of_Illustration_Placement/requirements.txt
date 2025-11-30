@@ -1,0 +1,1 @@
+Analyze the placement of illustrations relative to the text on each page. Calculate the average number of lines of text before and after each illustration. Determine if there is a statistically significant relationship between illustration placement and potential chapter divisions.

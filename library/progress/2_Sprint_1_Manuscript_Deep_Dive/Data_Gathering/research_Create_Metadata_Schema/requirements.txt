@@ -1,0 +1,1 @@
+Develop a metadata schema for organizing the collected resources. This schema should include fields for source, folio number, transcription format, author, publication date, and other relevant information. The schema should be suitable for use in a database or other data management system.

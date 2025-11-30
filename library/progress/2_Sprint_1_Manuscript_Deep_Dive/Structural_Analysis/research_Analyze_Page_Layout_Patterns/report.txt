@@ -1,0 +1,21 @@
+Analysis of the Voynich Manuscript's page layout reveals several recurring patterns and potential structural elements. The manuscript predominantly features text blocks arranged in columns, often adjacent to illustrations. 
+
+**Recurring Patterns:**
+
+*   **Text Columns:** Most pages exhibit text organized into one or two columns. The column width and inter-column spacing appear relatively consistent within sections but may vary between them.
+*   **Illustration Placement:** Illustrations are frequently positioned to the left of text columns or centered on the page with text wrapping around them. Their size varies significantly, ranging from small botanical sketches to large, complex diagrams.
+*   **Margins:** The manuscript generally maintains consistent margins, although they occasionally narrow or widen to accommodate larger illustrations or longer text blocks. Marginalia are rare, suggesting a deliberate effort to maintain a clean layout.
+
+**Variations and Potential Structural Elements:**
+
+*   **Section Breaks:** Some sections appear to be visually distinguished by changes in page layout. For example, the start of a new section might be marked by a full-page illustration or a shift in the number of text columns.
+*   **Diagrammatic Sections:** Pages featuring complex diagrams, such as the balneological or astrological sections, often deviate from the standard layout. These pages may include multiple smaller illustrations arranged in a grid-like pattern, with text interspersed among them.
+*   **Rosettes:** Pages featuring rosette-like diagrams have a very specific structure, this could mean a specific section.
+
+**Examples:**
+
+Specific examples can be found in 'page_layout_examples.jpg'.
+
+**Conclusion:**
+
+The observed patterns and variations in page layout suggest a deliberate organizational structure within the Voynich Manuscript. Further analysis is needed to determine if these visual cues correlate with linguistic or thematic divisions, potentially aiding in the decipherment process.
