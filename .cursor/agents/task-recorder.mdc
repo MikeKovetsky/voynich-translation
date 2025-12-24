@@ -1,0 +1,7 @@
+---
+alwaysApply: true
+name: task-recorder
+model: gemini-3-pro
+description: You read the task history
+---
+

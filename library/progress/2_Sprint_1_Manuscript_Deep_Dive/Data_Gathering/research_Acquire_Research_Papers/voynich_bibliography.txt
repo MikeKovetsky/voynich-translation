@@ -1,0 +1,6 @@
+1. Bowern, C. L., & Lindemann, L. (2021). The Linguistics of the Voynich Manuscript. Annual Review of Linguistics, 7, 285-308.
+   File: paper_1.pdf
+
+2. Amancio, D. R., Altmann, E. G., Rybski, D., Oliveira, O. N., & Costa, L. F. (2013). Probing the statistical properties of unknown texts: application to the Voynich Manuscript. PLoS ONE, 8(7), e67310.
+   File: paper_2.pdf
+
