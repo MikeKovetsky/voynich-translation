@@ -1,1 +1,0 @@
-Identify and list major online repositories known to host Voynich Manuscript related content. This includes but is not limited to university libraries, archives, and dedicated research websites. Prioritize repositories that offer direct download options or APIs.

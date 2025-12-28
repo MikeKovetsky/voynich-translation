@@ -1,1 +1,0 @@
-Download all available images of the Voynich Manuscript from identified repositories. Ensure high-resolution images are prioritized where available. Organize images into a structured directory (e.g., by folio number).

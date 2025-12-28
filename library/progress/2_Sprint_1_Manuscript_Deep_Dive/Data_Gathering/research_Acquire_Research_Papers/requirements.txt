@@ -1,1 +1,0 @@
-Search academic databases (e.g., JSTOR, Google Scholar, ResearchGate) for research papers related to the Voynich Manuscript. Download all relevant papers and organize them into a bibliography with complete citation information. Store papers in PDF format.

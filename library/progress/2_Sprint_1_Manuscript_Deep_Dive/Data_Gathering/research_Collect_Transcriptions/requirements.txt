@@ -1,1 +1,0 @@
-Collect all available transcriptions of the Voynich Manuscript, including EVA, IPA, and other transcription formats. Note the source of each transcription. Store transcriptions in plain text or a suitable format (e.g., JSON) with metadata indicating the source and folio numbers covered.
