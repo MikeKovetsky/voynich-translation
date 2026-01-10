@@ -1,0 +1,714 @@
+{
+  "t": {
+    "alpha": {
+      "A": {
+        "p": "sh",
+        "s": "aiin",
+        "u": "ol"
+      },
+      "B": {
+        "p": "dol",
+        "s": "l",
+        "u": "qokchdy"
+      },
+      "C": {
+        "p": "lch",
+        "s": "eeey",
+        "u": "chey"
+      },
+      "D": {
+        "p": "o",
+        "s": "eeody",
+        "u": "cheey"
+      },
+      "E": {
+        "p": "ch",
+        "s": "edy",
+        "u": "chedy"
+      },
+      "F": {
+        "p": "shckh",
+        "s": "eam",
+        "u": "qokchey"
+      },
+      "G": {
+        "p": "cph",
+        "s": "g",
+        "u": "qokchy"
+      },
+      "H": {
+        "p": "qotch",
+        "s": "eedal",
+        "u": "qokchedy"
+      },
+      "I": {
+        "p": "k",
+        "s": "dy",
+        "u": "shedy"
+      },
+      "L": {
+        "p": "cth",
+        "s": "es",
+        "u": "qokal"
+      },
+      "M": {
+        "p": "l",
+        "s": "ody",
+        "u": "qokar"
+      },
+      "N": {
+        "p": "opch",
+        "s": "al",
+        "u": "daiin"
+      },
+      "O": {
+        "p": "r",
+        "s": "or",
+        "u": "aiin"
+      },
+      "P": {
+        "p": "dch",
+        "s": "edar",
+        "u": "qoky"
+      },
+      "Q": {
+        "p": "dl",
+        "s": "iin",
+        "u": "qokol"
+      },
+      "R": {
+        "p": "t",
+        "s": "eedy",
+        "u": "qokeedy"
+      },
+      "S": {
+        "p": "lk",
+        "s": "ar",
+        "u": "qokeey"
+      },
+      "T": {
+        "p": "qok",
+        "s": "y",
+        "u": "qokaiin"
+      },
+      "U": {
+        "p": "ot",
+        "s": "eey",
+        "u": "qokain"
+      },
+      "V": {
+        "p": "qockh",
+        "s": "edor",
+        "u": "qokey"
+      },
+      "X": {
+        "p": "lpch",
+        "s": "edo",
+        "u": "qokor"
+      },
+      "Y": {
+        "p": "ry",
+        "s": "oin",
+        "u": "qokdy"
+      },
+      "Z": {
+        "p": "ols",
+        "s": "eeaiin",
+        "u": "qokeeedy"
+      }
+    },
+    "b1": {
+      "A": {
+        "p": "yt",
+        "s": "eol",
+        "u": "or"
+      },
+      "B": {
+        "p": "qolch",
+        "s": "ory",
+        "u": "okchdy"
+      },
+      "C": {
+        "p": "tsh",
+        "s": "r",
+        "u": "okedy"
+      },
+      "D": {
+        "p": "dal",
+        "s": "eeos",
+        "u": "cheedy"
+      },
+      "E": {
+        "p": "ok",
+        "s": "ey",
+        "u": "ar"
+      },
+      "F": {
+        "p": "rsh",
+        "s": "iiin",
+        "u": "okchey"
+      },
+      "G": {
+        "p": "solch",
+        "s": "eols",
+        "u": "okchy"
+      },
+      "H": {
+        "p": "oiin",
+        "s": "er",
+        "u": "okchedy"
+      },
+      "I": {
+        "p": "yk",
+        "s": "eody",
+        "u": "qokedy"
+      },
+      "L": {
+        "p": "ypch",
+        "s": "eedaiin",
+        "u": "okal"
+      },
+      "M": {
+        "p": "s",
+        "s": "edain",
+        "u": "okar"
+      },
+      "N": {
+        "p": "kch",
+        "s": "d",
+        "u": "dal"
+      },
+      "O": {
+        "p": "lkch",
+        "s": "eos",
+        "u": "al"
+      },
+      "P": {
+        "p": "qoksh",
+        "s": "as",
+        "u": "oky"
+      },
+      "Q": {
+        "p": "of",
+        "s": "als",
+        "u": "okol"
+      },
+      "R": {
+        "p": "tch",
+        "s": "daiin",
+        "u": "okeedy"
+      },
+      "S": {
+        "p": "or",
+        "s": "eeo",
+        "u": "okeey"
+      },
+      "T": {
+        "p": "pch",
+        "s": "am",
+        "u": "okaiin"
+      },
+      "U": {
+        "p": "olk",
+        "s": "eo",
+        "u": "okain"
+      },
+      "V": {
+        "p": "daly",
+        "s": "sy",
+        "u": "okey"
+      },
+      "X": {
+        "p": "f",
+        "s": "eeeos",
+        "u": "okor"
+      },
+      "Y": {
+        "p": "sok",
+        "s": "eory",
+        "u": "okdy"
+      },
+      "Z": {
+        "p": "lfch",
+        "s": "eds",
+        "u": "okeeedy"
+      }
+    },
+    "b2": {
+      "A": {
+        "p": "olch",
+        "s": "air",
+        "u": "qol"
+      },
+      "B": {
+        "p": "dor",
+        "s": "oy",
+        "u": "otchdy"
+      },
+      "C": {
+        "p": "y",
+        "s": "aiiin",
+        "u": "lkaiin"
+      },
+      "D": {
+        "p": "otsh",
+        "s": "dol",
+        "u": "lkain"
+      },
+      "E": {
+        "p": "ol",
+        "s": "ol",
+        "u": "dar"
+      },
+      "F": {
+        "p": "ly",
+        "s": "daiiin",
+        "u": "otchey"
+      },
+      "G": {
+        "p": "ssh",
+        "s": "saiin",
+        "u": "otchy"
+      },
+      "H": {
+        "p": "aly",
+        "s": "eaiin",
+        "u": "otchedy"
+      },
+      "I": {
+        "p": "qot",
+        "s": "eor",
+        "u": "shey"
+      },
+      "L": {
+        "p": "sch",
+        "s": "edol",
+        "u": "otal"
+      },
+      "M": {
+        "p": "shcth",
+        "s": "dain",
+        "u": "otar"
+      },
+      "N": {
+        "p": "okch",
+        "s": "oiin",
+        "u": "dain"
+      },
+      "O": {
+        "p": "lt",
+        "s": "eeedy",
+        "u": "ain"
+      },
+      "P": {
+        "p": "qolk",
+        "s": "eeod",
+        "u": "oty"
+      },
+      "Q": {
+        "p": "dary",
+        "s": "edaiiin",
+        "u": "otol"
+      },
+      "R": {
+        "p": "qopch",
+        "s": "s",
+        "u": "oteedy"
+      },
+      "S": {
+        "p": "sol",
+        "s": "edal",
+        "u": "oteey"
+      },
+      "T": {
+        "p": "od",
+        "s": "edaiin",
+        "u": "otaiin"
+      },
+      "U": {
+        "p": "p",
+        "s": "eeol",
+        "u": "otain"
+      },
+      "V": {
+        "p": "sar",
+        "s": "sdy",
+        "u": "otey"
+      },
+      "X": {
+        "p": "do",
+        "s": "ery",
+        "u": "otor"
+      },
+      "Y": {
+        "p": "olpch",
+        "s": "osy",
+        "u": "otdy"
+      },
+      "Z": {
+        "p": "om",
+        "s": "eda",
+        "u": "oteeedy"
+      }
+    },
+    "b3": {
+      "A": {
+        "p": "ls",
+        "s": "ed",
+        "u": "chdy"
+      },
+      "B": {
+        "p": "octh",
+        "s": "eoy",
+        "u": "sheckhy"
+      },
+      "C": {
+        "p": "och",
+        "s": "aiir",
+        "u": "shckhy"
+      },
+      "D": {
+        "p": "dar",
+        "s": "oly",
+        "u": "chor"
+      },
+      "E": {
+        "p": "qo",
+        "s": "ain",
+        "u": "dar"
+      },
+      "F": {
+        "p": "osh",
+        "s": "do",
+        "u": "shal"
+      },
+      "G": {
+        "p": "orch",
+        "s": "eeam",
+        "u": "shar"
+      },
+      "H": {
+        "p": "qoch",
+        "s": "eeoy",
+        "u": "shy"
+      },
+      "I": {
+        "p": "ych",
+        "s": "o",
+        "u": "otedy"
+      },
+      "L": {
+        "p": "ykch",
+        "s": "edair",
+        "u": "saiin"
+      },
+      "M": {
+        "p": "aiiin",
+        "s": "eedar",
+        "u": "sain"
+      },
+      "N": {
+        "p": "oly",
+        "s": "eod",
+        "u": "dy"
+      },
+      "O": {
+        "p": "ody",
+        "s": "edam",
+        "u": "y"
+      },
+      "P": {
+        "p": "ofch",
+        "s": "e",
+        "u": "sheody"
+      },
+      "Q": {
+        "p": "es",
+        "s": "ols",
+        "u": "shody"
+      },
+      "R": {
+        "p": "ysh",
+        "s": "eeor",
+        "u": "sheol"
+      },
+      "S": {
+        "p": "chcth",
+        "s": "eed",
+        "u": "shol"
+      },
+      "T": {
+        "p": "ar",
+        "s": "ees",
+        "u": "sheey"
+      },
+      "U": {
+        "p": "op",
+        "s": "eal",
+        "u": "sheedy"
+      },
+      "V": {
+        "p": "dyk",
+        "s": "sd",
+        "u": "shor"
+      },
+      "X": {
+        "p": "qolsh",
+        "s": "ch",
+        "u": "shaiin"
+      },
+      "Y": {
+        "p": "opsh",
+        "s": "yl",
+        "u": "shain"
+      },
+      "Z": {
+        "p": "daiir",
+        "s": "ady",
+        "u": "sheeey"
+      }
+    },
+    "g1": {
+      "A": {
+        "p": "chckh",
+        "s": "dal",
+        "u": "chol"
+      },
+      "B": {
+        "p": "psh",
+        "s": "eeed",
+        "u": "qotchdy"
+      },
+      "C": {
+        "p": "qofch",
+        "s": "ail",
+        "u": "sar"
+      },
+      "D": {
+        "p": "qol",
+        "s": "eeeody",
+        "u": "chckhey"
+      },
+      "E": {
+        "p": "dsh",
+        "s": "ear",
+        "u": "chckhy"
+      },
+      "F": {
+        "p": "qotsh",
+        "s": "eel",
+        "u": "qotchey"
+      },
+      "G": {
+        "p": "sy",
+        "s": "ok",
+        "u": "qotchy"
+      },
+      "H": {
+        "p": "ory",
+        "s": "eedam",
+        "u": "qotchedy"
+      },
+      "I": {
+        "p": "sal",
+        "s": "od",
+        "u": "raiin"
+      },
+      "L": {
+        "p": "qokch",
+        "s": "daly",
+        "u": "qotal"
+      },
+      "M": {
+        "p": "q",
+        "s": "dor",
+        "u": "qotar"
+      },
+      "N": {
+        "p": "aiir",
+        "s": "eees",
+        "u": "dair"
+      },
+      "O": {
+        "p": "solk",
+        "s": "dair",
+        "u": "air"
+      },
+      "P": {
+        "p": "qor",
+        "s": "eoly",
+        "u": "qoty"
+      },
+      "Q": {
+        "p": "air",
+        "s": "ealy",
+        "u": "qotol"
+      },
+      "R": {
+        "p": "qop",
+        "s": "dam",
+        "u": "qoteedy"
+      },
+      "S": {
+        "p": "ytch",
+        "s": "an",
+        "u": "qoteey"
+      },
+      "T": {
+        "p": "rch",
+        "s": "ary",
+        "u": "qotaiin"
+      },
+      "U": {
+        "p": "ckh",
+        "s": "ee",
+        "u": "qotain"
+      },
+      "V": {
+        "p": "da",
+        "s": "aiis",
+        "u": "qotey"
+      },
+      "X": {
+        "p": "dk",
+        "s": "dl",
+        "u": "qotor"
+      },
+      "Y": {
+        "p": "sk",
+        "s": "ry",
+        "u": "qotdy"
+      },
+      "Z": {
+        "p": "so",
+        "s": "in",
+        "u": "qoteeedy"
+      }
+    },
+    "g2": {
+      "A": {
+        "p": "al",
+        "s": "aly",
+        "u": "cheol"
+      },
+      "B": {
+        "p": "ary",
+        "s": "eom",
+        "u": "olkchdy"
+      },
+      "C": {
+        "p": "olt",
+        "s": "esy",
+        "u": "lchey"
+      },
+      "D": {
+        "p": "sair",
+        "s": "a",
+        "u": "olkedy"
+      },
+      "E": {
+        "p": "lsh",
+        "s": "dar",
+        "u": "lchedy"
+      },
+      "F": {
+        "p": "dair",
+        "s": "sairy",
+        "u": "olkchey"
+      },
+      "G": {
+        "p": "dyt",
+        "s": "iir",
+        "u": "olkchy"
+      },
+      "H": {
+        "p": "qocth",
+        "s": "eer",
+        "u": "olkchedy"
+      },
+      "I": {
+        "p": "olsh",
+        "s": "m",
+        "u": "qotedy"
+      },
+      "L": {
+        "p": "ockh",
+        "s": "eesy",
+        "u": "olkal"
+      },
+      "M": {
+        "p": "d",
+        "s": "eeal",
+        "u": "olkar"
+      },
+      "N": {
+        "p": "os",
+        "s": "eain",
+        "u": "dam"
+      },
+      "O": {
+        "p": "oksh",
+        "s": "aim",
+        "u": "am"
+      },
+      "P": {
+        "p": "chcph",
+        "s": "ais",
+        "u": "olky"
+      },
+      "Q": {
+        "p": "oiiin",
+        "s": "oiiin",
+        "u": "olkol"
+      },
+      "R": {
+        "p": "otch",
+        "s": "eear",
+        "u": "olkeedy"
+      },
+      "S": {
+        "p": "ksh",
+        "s": "os",
+        "u": "olkeey"
+      },
+      "T": {
+        "p": "sor",
+        "s": "om",
+        "u": "olkaiin"
+      },
+      "U": {
+        "p": "fch",
+        "s": "eedain",
+        "u": "olkain"
+      },
+      "V": {
+        "p": "soiin",
+        "s": "eeeo",
+        "u": "olkey"
+      },
+      "X": {
+        "p": "x",
+        "s": "eedo",
+        "u": "olkor"
+      },
+      "Y": {
+        "p": "ail",
+        "s": "yr",
+        "u": "olkdy"
+      },
+      "Z": {
+        "p": "chcfh",
+        "s": "alsy",
+        "u": "olkeeedy"
+      }
+    }
+  },
+  "w": {
+    "alpha": 5,
+    "b1": 2,
+    "b2": 2,
+    "b3": 2,
+    "g1": 1,
+    "g2": 1
+  }
+}
